@@ -12,7 +12,17 @@ Faceless space/science YouTube pipeline: plan → research → script → TTS �
 python scripts/get_refresh_token.py
 ```
 
-4. Put all `.env` values into GitHub **Settings → Secrets and variables → Actions**.
+4. Put all `.env` values into GitHub **Settings → Secrets and variables → Actions**:
+
+| Secret | Value |
+|---|---|
+| `GEMINI_KEY_A` / `GEMINI_KEY_B` | 2 free AI Studio keys (auto-rotate) |
+| `GEMINI_MODEL` | `gemini-flash-latest` (auto-tracks newest free Flash) |
+| `GEMINI_MODEL_FALLBACK` | `gemini-3.5-flash` (stable GA backup) |
+| `YOUTUBE_CLIENT_ID` / `YOUTUBE_CLIENT_SECRET` | OAuth Desktop client |
+| `YOUTUBE_REFRESH_TOKEN` | one-time local login output |
+| `PEXELS_API_KEY` | free stock API |
+| `PIXABAY_API_KEY` | optional |
 
 ## Local commands
 

@@ -11,23 +11,43 @@ class GeminiError(Exception):
 class GeminiClient:
     def __init__(self, keys=None, model=None, max_retries=6):
         self.keys = list(keys or config.GEMINI_KEYS)
-        self.model = model or config.GEMINI_MODEL
+        self.models = [model or config.GEMINI_MODEL]
+        fallback = config.GEMINI_MODEL_FALLBACK
+        if fallback and fallback not in self.models:
+            self.models.append(fallback)
         self.max_retries = max_retries
         if not self.keys:
             raise GeminiError("no GEMINI keys configured")
+
+    @staticmethod
+    def _model_dead(msg: str) -> bool:
+        m = msg.lower()
+        return any(
+            s in m
+            for s in (
+                "not found",
+                "not supported",
+                "unsupported",
+                "does not exist",
+                "invalid model",
+                "model is not",
+            )
+        )
 
     def generate(self, prompt: str, temperature: float = 0.7) -> str:
         last_err = None
         attempts = 0
         idx = 0
-        while attempts < self.max_retries:
+        model_idx = 0
+        while attempts < self.max_retries * len(self.models):
             if config.kill_requested():
                 raise GeminiError("kill switch on")
             key = self.keys[idx % len(self.keys)]
+            model = self.models[model_idx % len(self.models)]
             try:
                 client = genai.Client(api_key=key)
                 resp = client.models.generate_content(
-                    model=self.model,
+                    model=model,
                     contents=prompt,
                     config={"temperature": temperature},
                 )
@@ -38,6 +58,10 @@ class GeminiClient:
             except errors.APIError as e:
                 last_err = e
                 code = getattr(e, "code", None)
+                if self._model_dead(str(e)) and model_idx + 1 < len(self.models):
+                    model_idx += 1
+                    attempts += 1
+                    continue
                 if code in (429, 503, 500, None):
                     idx += 1
                     attempts += 1

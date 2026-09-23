@@ -20,7 +20,8 @@ def env(key: str, default: str = "") -> str:
 
 
 GEMINI_KEYS = [k for k in (env("GEMINI_KEY_A"), env("GEMINI_KEY_B")) if k]
-GEMINI_MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = env("GEMINI_MODEL", "gemini-flash-latest")
+GEMINI_MODEL_FALLBACK = env("GEMINI_MODEL_FALLBACK", "gemini-3.5-flash")
 
 YOUTUBE_CLIENT_ID = env("YOUTUBE_CLIENT_ID")
 YOUTUBE_CLIENT_SECRET = env("YOUTUBE_CLIENT_SECRET")
