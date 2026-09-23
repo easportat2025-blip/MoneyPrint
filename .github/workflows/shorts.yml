@@ -1,0 +1,86 @@
+name: shorts
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: How many shorts
+        default: "1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shorts
+  cancel-in-progress: false
+
+jobs:
+  short:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg + deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install -r requirements.txt
+
+      - name: Pull state.json from logs branch
+        run: |
+          git fetch origin logs:refs/remotes/origin/logs || true
+          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
+            git show origin/logs:state.json > state.json || echo "[]" > state.json
+          else
+            echo "[]" > state.json
+          fi
+
+      - name: Run shorts
+        env:
+          SCHEDULE: short
+          GEMINI_KEY_A: ${{ secrets.GEMINI_KEY_A }}
+          GEMINI_KEY_B: ${{ secrets.GEMINI_KEY_B }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
+          VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
+          MAX_DAILY_UPLOADS: ${{ vars.MAX_DAILY_UPLOADS || '6' }}
+        run: |
+          count="${{ github.event.inputs.count || '1' }}"
+          failed=0
+          for i in $(seq 1 "$count"); do
+            python main.py short || failed=1
+          done
+          exit $failed
+
+      - name: Push state to logs branch
+        if: always()
+        run: |
+          rm -rf cache output || true
+          git config user.name "moneyprint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin logs || true
+          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
+            git checkout -B logs origin/logs
+          else
+            git checkout --orphan logs
+            git rm -rf --cached . >/dev/null 2>&1 || true
+          fi
+          cp -f "$GITHUB_WORKSPACE/state.json" state.json || echo "[]" > state.json
+          git add -f state.json
+          git commit -m "state ${{ github.run_id }}" || true
+          git push origin logs
