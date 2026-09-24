@@ -73,16 +73,17 @@ jobs:
         if: always()
         run: |
           rm -rf cache output || true
+          cp -f "$GITHUB_WORKSPACE/state.json" /tmp/mp_state.json || echo "[]" > /tmp/mp_state.json
           git config user.name "moneyprint-bot"
           git config user.email "actions@users.noreply.github.com"
           git fetch origin logs || true
           if git rev-parse --verify origin/logs >/dev/null 2>&1; then
-            git checkout -B logs origin/logs
+            git checkout -f -B logs origin/logs
           else
             git checkout --orphan logs
             git rm -rf --cached . >/dev/null 2>&1 || true
           fi
-          cp -f "$GITHUB_WORKSPACE/state.json" state.json || echo "[]" > state.json
+          cp -f /tmp/mp_state.json state.json
           git add -f state.json
           git commit -m "state ${{ github.run_id }}" || true
           git push origin logs
