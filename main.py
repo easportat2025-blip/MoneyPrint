@@ -87,7 +87,7 @@ def cmd_sync(_args):
 def cmd_bank_build(args):
     from pipeline import bank as bank_mod
 
-    bank_mod.build(args.topics, args.per_topic)
+    bank_mod.build(args.topics, args.per_topic, args.source)
 
 
 def cmd_bank_list(_args):
@@ -124,9 +124,10 @@ def main():
     sub.add_parser("dashboard", help="local log dashboard").set_defaults(fn=cmd_dashboard)
     sub.add_parser("sync", help="pull state.json from logs branch").set_defaults(fn=cmd_sync)
 
-    bp = sub.add_parser("bank-build", help="curate NASA clips into bank/clips.json")
+    bp = sub.add_parser("bank-build", help="curate clips into bank/clips.json")
     bp.add_argument("--topics", nargs="*", default=None)
     bp.add_argument("--per-topic", type=int, default=10)
+    bp.add_argument("--source", default="nasa", choices=["nasa", "commons"])
     bp.set_defaults(fn=cmd_bank_build)
     sub.add_parser("bank-list", help="show clip bank stats").set_defaults(fn=cmd_bank_list)
     sub.add_parser("status", help="dump state.json").set_defaults(fn=cmd_status)

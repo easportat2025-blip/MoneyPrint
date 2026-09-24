@@ -82,8 +82,9 @@ def run_one(kind: str = "short") -> dict:
         items = media_mod.fetch_all(
             scenes, workdir / "media", vertical, scene_sec, skip
         )
-        n_vid = sum(1 for _, is_v, _u in items if is_v)
-        urls = [u for _, _, u in items if u]
+        n_vid = sum(1 for _, is_v, _u, _c in items if is_v)
+        urls = [u for _, _, u, _c in items if u]
+        credits = sorted({c for _, _, _u, c in items if c})
         state.update(rec_id, media_urls=urls)
         state.stage(
             rec_id, "media", True, f"{n_vid} video clips + {len(items) - n_vid} images"
@@ -115,6 +116,8 @@ def run_one(kind: str = "short") -> dict:
         description = script["description"]
         if credit:
             description += f"\n\nMusic: {credit}"
+        if credits:
+            description += "\nImagery: " + "; ".join(credits[:4])
         result = upload_mod.upload(
             final,
             idea.get("title", "ReZain"),

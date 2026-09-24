@@ -116,6 +116,65 @@ def from_pixabay(
         return None, ""
 
 
+def _strip_html(s: str) -> str:
+    import html
+
+    return html.unescape(re.sub(r"<[^>]+>", "", s or "")).strip()[:120]
+
+
+def from_commons(
+    query: str, dest: Path, skip: set | None = None
+) -> tuple[Path | None, str, str]:
+    skip = skip or set()
+    try:
+        r = requests.get(
+            "https://commons.wikimedia.org/w/api.php",
+            params={
+                "action": "query",
+                "format": "json",
+                "generator": "search",
+                "gsrsearch": f"{query} filetype:bitmap",
+                "gsrnamespace": 6,
+                "gsrlimit": 15,
+                "prop": "imageinfo",
+                "iiprop": "url|size|extmetadata",
+                "iiextmetadatafilter": "Artist|LicenseShortName",
+            },
+            timeout=25,
+        )
+        if r.status_code != 200:
+            return None, "", ""
+        pages = r.json().get("query", {}).get("pages", {})
+        cands = []
+        for p in pages.values():
+            ii = (p.get("imageinfo") or [{}])[0]
+            url = ii.get("url", "")
+            w = ii.get("width", 0) or 0
+            size = ii.get("size", 0) or 0
+            if not url or w < 900 or size > 25_000_000:
+                continue
+            meta = ii.get("extmetadata", {})
+            lic = _strip_html(meta.get("LicenseShortName", {}).get("value", ""))
+            artist = _strip_html(meta.get("Artist", {}).get("value", ""))
+            pd = "public domain" in lic.lower()
+            cands.append((not pd, -w, url, artist, lic))
+        cands.sort()
+        ordered = [(u, a) for _, _, u, a, _ in cands]
+        for url, artist in ordered:
+            if url in skip:
+                continue
+            got = _download(url, dest)
+            if got:
+                return got, url, artist
+        if ordered:
+            got = _download(ordered[0][0], dest)
+            if got:
+                return got, ordered[0][0], ordered[0][1]
+        return None, "", ""
+    except (requests.RequestException, ValueError, KeyError):
+        return None, "", ""
+
+
 def from_nasa(query: str, dest: Path) -> Path | None:
     try:
         r = requests.get(
@@ -206,56 +265,69 @@ def fetch_scene(
     vertical: bool,
     need_sec: float = 4.0,
     skip: set | None = None,
-) -> tuple[Path, bool, str]:
+) -> tuple[Path, bool, str, str]:
     skip = skip or set()
     slug = _slug(query)
+    stills = config.MEDIA_MODE == "stills"
     try:
         hit = bank_mod.find(query, skip, vertical)
     except Exception:
         hit = None
     if hit and hit.get("url"):
-        dest = scene_dir / f"{slug}_bank"
-        got = _download(hit["url"], dest)
-        if got:
-            is_vid = hit.get("type") == "video" or str(got.suffix).lower() == ".mp4"
-            if got.suffix.lower() not in (".mp4", ".jpg", ".jpeg", ".png", ".webp"):
-                got.unlink(missing_ok=True)
-            else:
-                return got, is_vid, hit["url"]
+        if hit.get("type") == "video" and stills:
+            hit = None
+        else:
+            dest = scene_dir / f"{slug}_bank"
+            got = _download(hit["url"], dest)
+            if got:
+                is_vid = hit.get("type") == "video" or str(got.suffix).lower() == ".mp4"
+                if got.suffix.lower() not in (".mp4", ".jpg", ".jpeg", ".png", ".webp"):
+                    got.unlink(missing_ok=True)
+                else:
+                    return got, is_vid, hit["url"], hit.get("credit", "")
     vid_dest = scene_dir / f"{slug}.mp4"
     if vid_dest.exists() and vid_dest.stat().st_size > 20000:
-        return vid_dest, True, ""
+        return vid_dest, True, "", ""
     dest = scene_dir / f"{slug}.jpg"
     if dest.exists() and dest.stat().st_size > 5000:
-        return dest, False, ""
+        return dest, False, "", ""
+    if not stills:
+        try:
+            got_vid, vid_url = from_pexels_video(
+                query, vertical, vid_dest, need_sec, skip
+            )
+        except Exception:
+            got_vid, vid_url = None, ""
+        if got_vid:
+            return got_vid, True, vid_url, ""
     try:
-        got_vid, vid_url = from_pexels_video(query, vertical, vid_dest, need_sec, skip)
+        got_cm, cm_url, cm_credit = from_commons(query, dest, skip)
     except Exception:
-        got_vid, vid_url = None, ""
-    if got_vid:
-        return got_vid, True, vid_url
+        got_cm, cm_url, cm_credit = None, "", ""
+    if got_cm:
+        return got_cm, False, cm_url, cm_credit
     try:
         got_img, img_url = from_pexels(query, vertical, dest, skip)
     except Exception:
         got_img, img_url = None, ""
     if got_img:
-        return got_img, False, img_url
+        return got_img, False, img_url, ""
     try:
         got_nasa = from_nasa(query, dest)
     except Exception:
         got_nasa = None
     if got_nasa:
-        return got_nasa, False, ""
+        return got_nasa, False, "", ""
     try:
         got_pb, pb_url = from_pixabay(query, dest, skip)
     except Exception:
         got_pb, pb_url = None, ""
     if got_pb:
-        return got_pb, False, pb_url
+        return got_pb, False, pb_url, ""
     placeholder = scene_dir / f"fallback_{slug}.jpg"
     if not placeholder.exists():
         _make_fallback(placeholder, query)
-    return placeholder, False, ""
+    return placeholder, False, "", ""
 
 
 def _make_fallback(dest: Path, label: str) -> None:
@@ -287,7 +359,7 @@ def fetch_all(
     vertical: bool,
     scene_sec: float = 4.0,
     skip: set | None = None,
-) -> list[tuple[Path, bool, str]]:
+) -> list[tuple[Path, bool, str, str]]:
     skip = set(skip or set())
     paths = []
     for i, s in enumerate(scenes):

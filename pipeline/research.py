@@ -15,6 +15,7 @@ Structure the scenes as a retention arc:
 - Middle scenes = OPEN LOOP then ESCALATE: raise tension, add stakes,
   partial evidence. Never resolve early.
 - Last scene = PAYOFF: clear resolution near the end (drives replays).
+{HISTORY_RULES}
 
 For each scene return:
 - narration: 1-2 sentences of voiceover (English, factual, no fluff)
@@ -26,12 +27,27 @@ Return JSON: {{"scenes":[{{"narration","search","caption"}}]}}
 """
 
 
+HISTORY_RULES = """HISTORY MODE (strict):
+- Arc: CONSEQUENCE (why it still matters) -> CONTEXT (place, date) ->
+  DECISION (the pivotal action) -> RESULT -> LEGACY (return to opening).
+- search queries must match the ERA honestly: oil painting / engraving /
+  manuscript / old map for anything before 1840; archival photograph /
+  newspaper only after 1840. Add the medium IN the query
+  (e.g. "napoleon oil painting", "ww2 archival photo", "roman map engraving").
+- Precise names + dates in narration. Never invent private thoughts,
+  quotes, or dialogue for historical figures."""
+
+SCIENCE_RULES = ""
+
+
 def research(idea: dict, duration: int, scene_sec: int) -> list:
     import math
 
     n_scenes = max(3, math.ceil(duration / scene_sec))
     client = gemini_client.GeminiClient()
+    history = "history" in config.NICHE.lower()
     prompt = RESEARCH_PROMPT.format(
+        HISTORY_RULES=HISTORY_RULES if history else SCIENCE_RULES,
         title=idea.get("title", ""),
         hook=idea.get("hook", ""),
         beats=json_dumps(idea.get("beats", [])),

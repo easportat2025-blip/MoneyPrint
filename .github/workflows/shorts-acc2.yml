@@ -60,8 +60,9 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           CHANNEL_2_NAME: ${{ vars.CHANNEL_2_NAME || 'Channel2' }}
-          NICHE_2: ${{ vars.NICHE_2 || 'space science documentary facts' }}
+          NICHE_2: ${{ vars.NICHE_2 || 'ancient history mysteries wars documentary facts' }}
           VOICE_2: ${{ vars.VOICE_2 || 'en-US-GuyNeural' }}
+          MEDIA_MODE: stills
           MAX_DAILY_UPLOADS: "6"
         run: |
           count="${{ github.event.inputs.count || '1' }}"

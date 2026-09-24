@@ -489,7 +489,7 @@ def verify_short(path: Path) -> dict:
 
 
 def assemble(
-    items: list[tuple[Path, bool, str]],
+    items: list[tuple[Path, bool, str, str]],
     audio: Path,
     sentences: list,
     scenes: list,
@@ -517,7 +517,7 @@ def assemble(
     total = min(voice_dur, cap) if cap else voice_dur
     durs = [total / n] * n
     clips = []
-    for i, (path, is_video, _url) in enumerate(items):
+    for i, (path, is_video, _url, _credit) in enumerate(items):
         if config.kill_requested():
             raise RuntimeError("kill switch on")
         clip = workdir / f"clip_{i:02d}.mp4"

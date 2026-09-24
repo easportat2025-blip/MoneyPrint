@@ -25,6 +25,24 @@ TOPICS = [
     "starfield",
 ]
 
+HISTORY_TOPICS = [
+    "pyramids of giza",
+    "colosseum rome",
+    "knight armor medieval",
+    "viking ship",
+    "samurai",
+    "titanic ship",
+    "napoleon bonaparte painting",
+    "egyptian hieroglyphs",
+    "great wall of china",
+    "medieval castle",
+    "world war 2 soldier",
+    "aztec calendar stone",
+    "roman statue",
+    "joan of arc painting",
+    "plague doctor engraving",
+]
+
 
 def load() -> dict:
     if BANK_FILE.exists():
@@ -98,15 +116,80 @@ def _nasa_links(query: str, limit: int = 12) -> list:
         return []
 
 
-def build(topics: list | None = None, per_topic: int = 10) -> dict:
-    topics = topics or TOPICS
+def _commons_links(query: str, limit: int = 12) -> list:
+    try:
+        r = requests.get(
+            "https://commons.wikimedia.org/w/api.php",
+            params={
+                "action": "query",
+                "format": "json",
+                "generator": "search",
+                "gsrsearch": f"{query} filetype:bitmap",
+                "gsrnamespace": 6,
+                "gsrlimit": 15,
+                "prop": "imageinfo",
+                "iiprop": "url|size|extmetadata",
+                "iiextmetadatafilter": "Artist|LicenseShortName",
+            },
+            timeout=25,
+        )
+        if r.status_code != 200:
+            return []
+        pages = r.json().get("query", {}).get("pages", {})
+        cands = []
+        for p in pages.values():
+            ii = (p.get("imageinfo") or [{}])[0]
+            url = ii.get("url", "")
+            w = ii.get("width", 0) or 0
+            size = ii.get("size", 0) or 0
+            if not url or w < 900 or size > 25_000_000:
+                continue
+            meta = ii.get("extmetadata", {})
+            lic = meta.get("LicenseShortName", {}).get("value", "")
+            artist = meta.get("Artist", {}).get("value", "")
+            pd = "public domain" in lic.lower()
+            cands.append((not pd, -w, url, artist))
+        cands.sort()
+        out = []
+        for _, _, url, artist in cands[:limit]:
+            credit = ""
+            a = re.sub(r"<[^>]+>", "", artist or "").strip()[:100]
+            if a:
+                out.append(
+                    {
+                        "url": url,
+                        "type": "image",
+                        "source": "commons",
+                        "topic": query,
+                        "credit": f"Image: {a} (Wikimedia Commons)",
+                    }
+                )
+            else:
+                out.append(
+                    {"url": url, "type": "image", "source": "commons", "topic": query}
+                )
+        return out
+    except requests.RequestException:
+        return []
+
+
+def build(
+    topics: list | None = None, per_topic: int = 10, source: str = "nasa"
+) -> dict:
+    if topics is None:
+        topics = HISTORY_TOPICS if source == "commons" else TOPICS
     bank = load()
     store = bank.setdefault("topics", {})
     for topic in topics:
         if config.kill_requested():
             break
         have = {c.get("url") for c in store.get(topic, [])}
-        fresh = [c for c in _nasa_links(topic, per_topic) if c["url"] not in have]
+        if source == "commons":
+            fresh = [
+                c for c in _commons_links(topic, per_topic) if c["url"] not in have
+            ]
+        else:
+            fresh = [c for c in _nasa_links(topic, per_topic) if c["url"] not in have]
         store.setdefault(topic, []).extend(fresh)
         print(f"{topic}: +{len(fresh)} (total {len(store[topic])})")
     save(bank)
