@@ -2,6 +2,7 @@ import time
 from google import genai
 from google.genai import errors
 import config
+import state
 
 
 class GeminiError(Exception):
@@ -47,6 +48,7 @@ class GeminiClient:
             while attempts < self.max_retries:
                 key = self.keys[idx % len(self.keys)]
                 try:
+                    state.bump_gemini()
                     client = genai.Client(api_key=key)
                     resp = client.models.generate_content(
                         model=model,

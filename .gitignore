@@ -8,6 +8,7 @@ state.json
 state_from_logs.json
 channel_cache.json
 account_cache_*.json
+gemini_usage.json
 KILL
 cache/
 output/

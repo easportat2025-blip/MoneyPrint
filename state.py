@@ -90,6 +90,31 @@ def used_media_urls() -> set:
     return urls
 
 
+USAGE_FILE = config.ROOT / "gemini_usage.json"
+
+
+def gemini_usage() -> dict:
+    today = datetime.now(timezone.utc).date().isoformat()
+    try:
+        if USAGE_FILE.exists():
+            d = json.loads(USAGE_FILE.read_text(encoding="utf-8"))
+            if d.get("date") == today:
+                return d
+    except (json.JSONDecodeError, OSError):
+        pass
+    return {"date": today, "count": 0}
+
+
+def bump_gemini(n: int = 1) -> int:
+    d = gemini_usage()
+    d["count"] = d.get("count", 0) + n
+    try:
+        USAGE_FILE.write_text(json.dumps(d), encoding="utf-8")
+    except OSError:
+        pass
+    return d["count"]
+
+
 def uploads_today() -> int:
     today = datetime.now(timezone.utc).date().isoformat()
     return sum(1 for r in load() if r.get("youtube_id") and r.get("created_at", "").startswith(today))

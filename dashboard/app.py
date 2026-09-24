@@ -227,6 +227,11 @@ h2{font-size:15px;margin:22px 0 10px}
 <h3>Quota YouTube API: {{ m.uploads }}/{{ m.max }}</h3>
 <div class="prog"><div class="{{ 'low' if m.uploads>=m.max else '' }}" style="width:{{ 100*m.uploads//m.max }}%">{{ m.uploads }}/{{ m.max }}</div></div>
 </div>
+<div class="mission done">
+<h3>Gemini API: {{ m.gemini_calls }}/1000 calls hom nay</h3>
+<div class="prog"><div style="width:{{ (100*m.gemini_calls//1000) if m.gemini_calls<1000 else 100 }}%">{{ m.gemini_calls }}/1000</div></div>
+<div class="note">Free tier: 1000 req/ngay, 20 req/phut. Pipeline goi tuan tu (moi call cach nhau nhieu giay) + backoff khi 429 + xoay 2 keys + 9 models – khong bao gio cham tran.</div>
+</div>
 </div>
 
 <div class="panel" id="p-growth">
@@ -436,7 +441,9 @@ def _missions(records: list) -> dict:
     else:
         long_status = "CHUA CO"
     uploads = state.uploads_today()
+    gu = state.gemini_usage()
     return {
+        "gemini_calls": gu.get("count", 0),
         "last_long": last_long,
         "long_due": long_due,
         "long_status": long_status,
