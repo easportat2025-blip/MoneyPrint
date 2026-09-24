@@ -30,7 +30,7 @@ a{color:#58a6ff}
 .badge{display:inline-block;padding:2px 8px;border-radius:10px;background:#21262d;border:1px solid #30363d}
 </style></head><body>
 <h1>ReZain · MoneyPrint dashboard</h1>
-<div class="meta">state: {{ source }} · records: {{ records|length }} · uploads today: {{ uploads_today }}/{{ max_uploads }}</div>
+<div class="meta">state: {{ src }} · records: {{ records|length }} · uploads today: {{ uploads_today }}/{{ max_uploads }}</div>
 {% if kill %}<div class="kill">KILL SWITCH ACTIVE</div>{% endif %}
 <table>
 <tr><th>ID</th><th>Kind</th><th>Status</th><th>Title</th><th>YouTube</th><th>Stages</th><th>Error</th><th>Updated</th></tr>
@@ -76,7 +76,7 @@ def index():
     return render_template_string(
         PAGE,
         records=records,
-        source=source,
+        src=source,
         uploads_today=state.uploads_today(),
         max_uploads=config.MAX_DAILY_UPLOADS,
         kill=config.kill_requested(),
