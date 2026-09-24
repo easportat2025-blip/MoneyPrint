@@ -194,17 +194,18 @@ h2{font-size:15px;margin:22px 0 10px}
 
 <div class="panel" id="p-force">
 <h2 style="margin-top:0">Force make video – chay ngay tren GitHub</h2>
-<p class="note">Moi luc 1 video (concurrency group). Bam khi job khac dang chay = xep hang cho. Khong can cho cron.</p>
+<div id="forceLock"></div>
+<p class="note">Moi luc 1 video. Dang co job chay = tat ca nut force KHOA (server + UI), doi xong moi bam duoc.</p>
 <div class="force-grid">
 <div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc1_ok else 'bad' }}"></div><h3>Acc 1 – {{ acc1_name }}</h3></div>
 <p>1 Short doc (~12 phut): plan → voice → clips → subs → upload public. Hom nay: {{ amap1.done }}/3.</p>
-<button class="primary big" onclick="trig('shorts-acc1')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 1</button></div>
+<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc1')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 1</button></div>
 <div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc2_ok else 'bad' }}"></div><h3>Acc 2 – {{ acc2_name }}</h3></div>
 <p>1 Short kenh 2. Hom nay: {{ amap2.done }}/3. Can token slot 2 (chua co = nut mo).</p>
-<button class="primary big" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 2</button></div>
+<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 2</button></div>
 <div class="force-card"><div class="acct"><div class="dot ok"></div><h3>Long video – Acc 1</h3></div>
 <p>1 video &gt;5 phut ngang (~30-60 phut render). Chay thua, khong gap.</p>
-<button class="big" onclick="trig('long')" {% if not has_token %}disabled{% endif %}>Force 1 Long</button></div>
+<button class="big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('long')" {% if not has_token %}disabled{% endif %}>Force 1 Long</button></div>
 </div>
 <p><span id="msgF" class="note"></span></p>
 </div>
@@ -229,20 +230,30 @@ h2{font-size:15px;margin:22px 0 10px}
 </div>
 
 <div class="panel" id="p-growth">
-<h2 style="margin-top:0">Kenh (YouTube API that)</h2>
+<h2 style="margin-top:0">Kenh (so that tu YouTube)</h2>
+{% for a in accs %}
+<div class="mission {{ 'done' if a.readonly_ok else '' }}">
+<h3>{{ a.name }} {% if a.channel_title %}– {{ a.channel_title }}{% endif %}
+{% if a.readonly_ok %}<span class="badge ok">LIVE</span>{% else %}<span class="badge no">{{ a.error or "CHUA KET NOI" }}</span>{% endif %}</h3>
 <div class="grid">
-<div class="card"><b>{{ ch.subs }}</b><span>subscribers</span></div>
-<div class="card"><b>{{ ch.views }}</b><span>total views</span></div>
-<div class="card"><b>{{ ch.videos }}</b><span>videos</span></div>
-<div class="card"><b>{{ streak }}d</b><span>upload streak</span></div>
+<div class="card"><b>{{ a.subs }}</b><span>subscribers</span></div>
+<div class="card"><b>{{ a.views }}</b><span>total views</span></div>
+<div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
+<div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
 </div>
-<div class="toolbar"><button onclick="go('/channel?force=1')">Refresh channel stats</button><span class="note">cache 1h, ton 1 unit</span></div>
-<h2>Upload 14 ngay qua</h2>
+</div>
+{% endfor %}
+<div class="toolbar"><button onclick="goAcc2()">Refresh stats kenh</button><span class="note">goi that API, cache 1h</span><span id="msgCh" class="note"></span></div>
+<h2>Upload 14 ngay qua (ca 2 kenh)</h2>
 <div class="bar-row">{% for d in bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
+<div class="grid"><div class="card"><b>{{ streak }}d</b><span>upload streak</span></div>
+<div class="card"><b>{{ total }}</b><span>total records</span></div></div>
 <h2>Thu nhap</h2>
 <div class="mission"><h3>Doanh thu uoc tinh: $0</h3>
-<div class="note">Chua bat kiem tien. Dieu kien Partner (Shorts): 1000 subs + 10M Shorts views/90 ngay.<br>
-Subs: {{ ch.subs }} / 1000. Du dieu kien thi bat trong YouTube Studio &gt; Earn.</div></div>
+<div class="prog"><div class="low" style="width:2%">0%</div></div>
+<div class="note">Dieu kien YouTube Partner (Shorts): <b>1000 subs</b> + <b>10M Shorts views/90 ngay</b>.<br>
+{% for a in accs %}{% if a.readonly_ok %}{{ a.name }}: {{ a.subs }}/1000 subs.<br>{% endif %}{% endfor %}
+Du dieu kien thi bat trong YouTube Studio &gt; Earn. Dashboard tu hien so that khi ket noi Analytics API.</div></div>
 </div>
 
 <div class="panel" id="p-plan">
@@ -292,8 +303,9 @@ function filtr(){var s=document.getElementById('fStatus').value,k=document.getEl
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
-function trig(wf){fetch('/live').then(function(r){return r.json();}).then(function(j){var busy=(j.active||[]).length>0;var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');if(busy&&!confirm('Dang co job chay ('+j.active[0].name+' - '+j.active[0].step+'). Force '+label+' se XEP HANG cho. Tiep tuc?'))return;document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});});}
-function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');if((j.active||[]).length===0){b.innerHTML='';return;}b.innerHTML=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' – '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');}).catch(function(){});}
+function goAcc2(){document.getElementById('msgCh').textContent='refreshing...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgCh').textContent='error: '+e;});}
+function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
+function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');var busy=(j.active||[]).length>0;document.querySelectorAll('.force-btn').forEach(function(x){if(busy){x.setAttribute('disabled','');}else if(x.dataset.locked!=='1'){x.removeAttribute('disabled');}});var fl=document.getElementById('forceLock');if(fl){fl.innerHTML=busy?'<div class="kill-banner">DANG TAO VIDEO: '+j.active[0].name+' – '+j.active[0].step+' ('+j.active[0].elapsed+'). Tat ca nut force DANG KHOA.</div>':'';}if(!busy){b.innerHTML='';return;}b.innerHTML=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' – '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');}).catch(function(){});}
 live();setInterval(live,30000);
 </script>
 </body></html>"""
@@ -687,6 +699,16 @@ def trigger():
     wf = request.args.get("wf", "shorts-acc1")
     if wf not in ALLOWED_WF:
         return jsonify({"ok": False, "msg": f"unknown wf (chon {list(ALLOWED_WF)})"})
+    busy = _gh_api("GET", "/actions/runs?per_page=5")
+    if busy["ok"]:
+        for r in busy["data"].get("workflow_runs", []):
+            if r.get("status") in ("queued", "in_progress"):
+                return jsonify(
+                    {
+                        "ok": False,
+                        "msg": f"KHOA: dang co job '{r['name']}' chay. Doi xong moi force.",
+                    }
+                )
     res = _gh_api(
         "POST",
         f"/actions/workflows/{ALLOWED_WF[wf]}/dispatches",

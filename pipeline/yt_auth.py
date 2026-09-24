@@ -59,6 +59,7 @@ def check_slot(slot: str, force: bool = False) -> dict:
         "channel_id": "",
         "channel_title": "",
         "subs": "-",
+        "views": "-",
         "videos": "-",
         "error": "",
     }
@@ -114,6 +115,7 @@ def check_slot(slot: str, force: bool = False) -> dict:
                 "channel_id": ch.get("id", ""),
                 "channel_title": ch.get("snippet", {}).get("title", ""),
                 "subs": st.get("subscriberCount", "0"),
+                "views": st.get("viewCount", "0"),
                 "videos": st.get("videoCount", "0"),
             }
         )
