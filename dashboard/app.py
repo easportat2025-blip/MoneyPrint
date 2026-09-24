@@ -13,6 +13,7 @@ from flask import Flask, jsonify, render_template_string, request
 
 import config
 import state
+from pipeline import yt_auth as yt_mod
 
 try:
     import requests as _rq
@@ -94,6 +95,7 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 <button class="tab" onclick="tab('missions')">Missions</button>
 <button class="tab" onclick="tab('growth')">Growth + Income</button>
 <button class="tab" onclick="tab('plan')">GitHub Plan</button>
+<button class="tab" onclick="tab('accounts')">Accounts</button>
 </div>
 
 <div class="panel on" id="p-videos">
@@ -196,12 +198,34 @@ Thoat che do cho: vao Actions &gt; Cancel workflow, hoac nut Cancel jobs tab Vid
 Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat moi 30s.</p>
 </div>
 
+<div class="panel" id="p-accounts">
+<div class="toolbar"><button onclick="goAcc()">Check lai login</button><span class="note">kiem tra that qua Google (ton 1 unit/kênh), cache 1h</span><span id="msgAcc"></span></div>
+{% for a in accs %}
+<div class="mission {{ 'done' if a.readonly_ok else '' }}">
+<h3>Slot {{ a.slot }} – {{ a.name }} &lt;{{ a.email }}&gt;
+{% if a.readonly_ok %}<span class="badge ok">LOGGED IN</span>
+{% elif a.token_ok %}<span class="badge">TOKEN OK / thieu scope</span>
+{% elif a.configured %}<span class="badge no">TOKEN DIE</span>
+{% else %}<span class="badge">CHUA CAI</span>{% endif %}</h3>
+{% if a.channel_title %}<div>Kenh: <a href="https://www.youtube.com/channel/{{ a.channel_id }}" target="_blank">{{ a.channel_title }}</a></div>{% endif %}
+<div class="stats">
+<div class="card"><b>{{ a.subs }}</b><span>subs</span></div>
+<div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
+<div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
+</div>
+{% if a.error %}<div class="err">{{ a.error }}</div>{% endif %}
+<div class="note">Login lai: <b>python scripts/setup_youtube_auth.py</b> (chon slot {{ a.slot }}) &rarr; copy token vao .env + Secrets. Thu hoi quyen: <a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a></div>
+</div>
+{% endfor %}
+</div>
+
 <p class="note">Kill chi dung local. Token chi trong .env local, khong commit.</p>
 <script>
 function tab(n){document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});event.target.classList.add('on');document.getElementById('p-'+n).classList.add('on');}
 function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
+function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
 function trig(){fetch('/live').then(function(r){return r.json();}).then(function(j){var busy=(j.active||[]).length>0;if(busy&&!confirm('Dang co job chay ('+j.active[0].name+'). Van chay them? (se xep hang cho)'))return;go('/trigger');});}
 function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');if((j.active||[]).length===0){b.innerHTML='';return;}var h=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' - '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');b.innerHTML=h;}).catch(function(){});}
 live();setInterval(live,30000);
@@ -459,6 +483,9 @@ def index():
     if not ch_names:
         ch_names = [config.CHANNEL_1_NAME, config.CHANNEL_2_NAME]
     channels = [_channel_missions(records, c) for c in ch_names]
+    accs = yt_mod.check_all()
+    done_by_name = {c["name"]: c["done"] for c in channels}
+    amap = {a["slot"]: {"done": done_by_name.get(a["name"], 0)} for a in accs}
     return render_template_string(
         PAGE,
         records=records,
@@ -476,6 +503,8 @@ def index():
         m=_missions(records),
         channels=channels,
         ch_names=ch_names,
+        accs=accs,
+        amap=amap,
         bars=_bars(records),
         streak=_streak(records),
         ch=channel_stats(),
@@ -559,6 +588,12 @@ def channel():
 def missions():
     records, _ = _source_state()
     return jsonify(_missions(records))
+
+
+@app.route("/accounts")
+def accounts():
+    force = request.args.get("force") == "1"
+    return jsonify({"accounts": yt_mod.check_all(force=force)})
 
 
 @app.route("/sync")

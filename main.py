@@ -97,6 +97,18 @@ def cmd_bank_list(_args):
     print(_json.dumps(bank_mod.stats(), indent=2, ensure_ascii=False))
 
 
+def cmd_accounts(_args):
+    from pipeline import yt_auth as yt
+
+    for a in yt.check_all(force="--force" in sys.argv):
+        status = "OK" if a["readonly_ok"] else ("TOKEN_OK" if a["token_ok"] else "FAIL")
+        print(
+            f"[slot {a['slot']}] {a['name']} <{a['email']}> :: {status} "
+            f"channel={a['channel_title'] or '-'} subs={a['subs']} "
+            f"videos={a['videos']} err={a['error']}"
+        )
+
+
 def cmd_status(_args):
     print(json.dumps(state.load(), indent=2, ensure_ascii=False))
 
@@ -122,6 +134,7 @@ def main():
     sp.set_defaults(fn=cmd_plan)
 
     sub.add_parser("dashboard", help="local log dashboard").set_defaults(fn=cmd_dashboard)
+    sub.add_parser("accounts", help="check YouTube login status").set_defaults(fn=cmd_accounts)
     sub.add_parser("sync", help="pull state.json from logs branch").set_defaults(fn=cmd_sync)
 
     bp = sub.add_parser("bank-build", help="curate clips into bank/clips.json")

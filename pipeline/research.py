@@ -35,7 +35,11 @@ HISTORY_RULES = """HISTORY MODE (strict):
   newspaper only after 1840. Add the medium IN the query
   (e.g. "napoleon oil painting", "ww2 archival photo", "roman map engraving").
 - Precise names + dates in narration. Never invent private thoughts,
-  quotes, or dialogue for historical figures."""
+  quotes, or dialogue for historical figures.
+- When narration names a PERSON, search must target their likeness:
+  "X portrait painting" / "X bust statue" / "X coin" (face close-up
+  beats landscapes for figure episodes). Label reconstructions as
+  illustration in caption, never as authentic photo."""
 
 SCIENCE_RULES = ""
 

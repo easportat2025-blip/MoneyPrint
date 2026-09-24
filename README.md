@@ -38,9 +38,23 @@ python main.py delete YT_VIDEO_ID   # delete a YouTube upload
 
 ## Automation
 
-- `.github/workflows/shorts.yml` – 3 Shorts/day (cron)
+- `.github/workflows/shorts-acc1.yml` – 3 Shorts/day acc1 (cron 16/19/22 UTC)
+- `.github/workflows/shorts-acc2.yml` – 3 Shorts/day acc2 (cron 17:30/20:30/23:30 UTC)
 - `.github/workflows/long.yml` – 1 long video every 5 days
 - Logs written to `logs` branch as `state.json` (dashboard pulls it).
+
+## Exact-time ping (optional, thay cron GitHub)
+
+GitHub cron co the tre vai phut. Muon kich CHINH XAC tung phut:
+
+1. Cloudflare dashboard → Workers → Create → paste `worker-ping.js`
+2. Worker Settings → Variables: `GH_REPO=easportat2025-blip/MoneyPrint`,
+   `GH_TOKEN=` (token moi, scope Actions: Read and write)
+3. Triggers → Cron Triggers: them 7 cron tren (UTC)
+4. Comment out cac dong `schedule:` trong workflows de tranh chay trung
+   (worker ping qua `repository_dispatch`, cron GitHub tat)
+
+Khong dung worker thi cron GitHub hien tai van chay (sai so vai phut, Shorts khong anh huong).
 
 ## M0 checklist (manual)
 

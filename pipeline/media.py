@@ -257,6 +257,7 @@ def from_pexels_video(
 
 
 QUERY_SUFFIX = ["", " cinematic", " close up", " slow motion", " aerial view"]
+STILLS_SUFFIX = [" portrait", " painting", " old map", " engraving", " archival photo", " bust statue"]
 
 
 def fetch_scene(
@@ -361,11 +362,12 @@ def fetch_all(
     skip: set | None = None,
 ) -> list[tuple[Path, bool, str, str]]:
     skip = set(skip or set())
+    suffixes = STILLS_SUFFIX if config.MEDIA_MODE == "stills" else QUERY_SUFFIX
     paths = []
     for i, s in enumerate(scenes):
         if config.kill_requested():
             raise RuntimeError("kill switch on")
-        query = s["search"] + QUERY_SUFFIX[i % len(QUERY_SUFFIX)]
+        query = s["search"] + suffixes[i % len(suffixes)]
         p = fetch_scene(query, cache_dir / f"scene_{i:02d}", vertical, scene_sec, skip)
         if p[2]:
             skip.add(p[2])

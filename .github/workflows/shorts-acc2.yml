@@ -5,6 +5,8 @@ on:
     - cron: "30 17 * * *"
     - cron: "30 20 * * *"
     - cron: "30 23 * * *"
+  repository_dispatch:
+    types: [short-acc2]
   workflow_dispatch:
     inputs:
       count:
