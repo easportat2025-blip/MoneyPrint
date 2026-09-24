@@ -54,85 +54,105 @@ CRONS = [
 ]
 
 SHORTS_TARGET = 3
+ALLOWED_WF = {"shorts-acc1": "shorts-acc1.yml", "shorts-acc2": "shorts-acc2.yml", "long": "long.yml"}
 
 PAGE = """<!doctype html>
-<html><head><meta charset="utf-8"><title>ReZain - MoneyPrint</title>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MoneyPrint Studio</title>
 <style>
-body{font-family:ui-monospace,monospace;background:#0b1020;color:#e6edf3;margin:0;padding:20px}
-h1{color:#7ee787;font-size:18px;margin:0 0 4px}
-.sub{color:#8b949e;font-size:12px;margin-bottom:12px}
-.tabs{display:flex;gap:6px;margin-bottom:14px}
-.tab{background:#161b22;border:1px solid #30363d;color:#8b949e;border-radius:8px 8px 0 0;padding:9px 18px;cursor:pointer;font:inherit;font-size:14px;border-bottom:none}
-.tab.on{background:#21262d;color:#7ee787;font-weight:bold}
-.panel{display:none}.panel.on{display:block}
-.stats{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
-.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 14px;min-width:110px}
-.card b{font-size:20px;display:block}
-.card span{font-size:11px;color:#8b949e}
-.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
-button{background:#21262d;color:#e6edf3;border:1px solid #30363d;border-radius:6px;padding:7px 12px;cursor:pointer;font:inherit;font-size:13px}
-button:hover{background:#30363d}
-button.danger{border-color:#f85149;color:#f85149}
-button.go{border-color:#3fb950;color:#3fb950}
-button.warn{border-color:#d29922;color:#d29922}
-button:disabled{opacity:.4;cursor:default}
-select,input{background:#0d1117;color:#e6edf3;border:1px solid #30363d;border-radius:6px;padding:7px;font:inherit;font-size:13px}
+:root{--bg:#0a0e1a;--bg2:#111630;--card:#151b3d;--line:#2a3160;--txt:#eef1ff;--mut:#9aa3c7;--acc:#7c6cff;--acc2:#00d4ff;--grn:#22c55e;--red:#ef4444;--yel:#f59e0b}
+*{box-sizing:border-box}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:radial-gradient(1200px 400px at 20% -10%,#1c2456 0%,var(--bg) 60%);color:var(--txt);margin:0;min-height:100vh}
+.nav{position:sticky;top:0;z-index:5;background:rgba(10,14,26,.85);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:12px 22px;display:flex;align-items:center;gap:14px}
+.logo{font-weight:800;font-size:18px;background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.logo small{font-size:11px;color:var(--mut);font-weight:400;display:block;-webkit-text-fill-color:var(--mut)}
+.tabs{display:flex;gap:6px;margin-left:8px;flex-wrap:wrap}
+.tab{background:transparent;border:1px solid transparent;color:var(--mut);border-radius:999px;padding:8px 16px;cursor:pointer;font:inherit;font-size:13.5px;font-weight:600}
+.tab:hover{color:var(--txt)}
+.tab.on{background:linear-gradient(90deg,var(--acc),#5a4de0);color:#fff;box-shadow:0 4px 18px rgba(124,108,255,.4)}
+.wrap{padding:20px 22px;max-width:1200px;margin:0 auto}
+.sub{color:var(--mut);font-size:12px;margin:2px 0 14px}
+.panel{display:none}.panel.on{display:block;animation:fade .25s}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1}}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-bottom:16px}
+.card{background:linear-gradient(180deg,var(--card),#10153a);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.card b{font-size:24px;display:block}
+.card span{font-size:11.5px;color:var(--mut)}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;align-items:center}
+button{background:#1d2450;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px 14px;cursor:pointer;font:inherit;font-size:13px;font-weight:600}
+button:hover{border-color:var(--acc)}
+button.primary{background:linear-gradient(90deg,var(--acc),#5a4de0);border:none;box-shadow:0 4px 16px rgba(124,108,255,.35)}
+button.danger{border-color:var(--red);color:#ff8a8a}
+button.go{border-color:var(--grn);color:#7dffa8}
+button.warn{border-color:var(--yel);color:#ffd47d}
+button.big{font-size:16px;padding:14px 26px;border-radius:14px;width:100%}
+button:disabled{opacity:.35;cursor:default}
+select,input{background:#0d1230;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px;font:inherit;font-size:13px}
 table{border-collapse:collapse;width:100%;font-size:13px}
-th,td{border:1px solid #30363d;padding:8px;text-align:left;vertical-align:top}
-th{background:#161b22;color:#7ee787}
-tr:nth-child(even){background:#11161d}
-.st-done,.st-uploaded{color:#3fb950}.st-failed{color:#f85149}.st-uploading,.st-rendering,.st-researching,.st-scripting,.st-fetching_media,.st-tts,.st-cleaning,.st-planned{color:#d29922}
-.badge{display:inline-block;padding:2px 8px;border-radius:10px;background:#21262d;border:1px solid #30363d;margin:1px;font-size:11px}
-.badge.ok{border-color:#3fb950}.badge.no{border-color:#f85149}
-a{color:#58a6ff}
-.thumb{width:120px;border-radius:4px;display:block}
-.err{color:#f85149;max-width:300px;word-break:break-word}
-.detail{display:none;background:#0d1117}
-.detail td{border-color:#3fb950}
-pre{white-space:pre-wrap;font-size:12px;margin:4px 0}
-.scene{border-bottom:1px dashed #30363d;padding:6px 0}
-.kill-banner{background:#3d1214;border:1px solid #f85149;padding:8px 12px;border-radius:6px;margin-bottom:12px}
-.live-banner{background:#0d2b12;border:1px solid #3fb950;padding:8px 12px;border-radius:6px;margin-bottom:12px}
-h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
-.note{color:#8b949e;font-size:12px}
-#msg{color:#d29922;font-size:13px;margin-left:8px}
-.prog{background:#21262d;border-radius:6px;height:18px;overflow:hidden;max-width:420px;margin:4px 0}
-.prog>div{background:#3fb950;height:100%;text-align:right;font-size:11px;line-height:18px;padding-right:6px;color:#041}
-.prog>div.low{background:#d29922}
-.bar-row{display:flex;align-items:flex-end;gap:6px;height:130px;margin:8px 0}
-.bar{width:34px;background:#238636;border-radius:4px 4px 0 0;position:relative;min-height:4px}
-.bar span{position:absolute;bottom:-20px;left:0;right:0;text-align:center;font-size:10px;color:#8b949e}
+th,td{border-bottom:1px solid var(--line);padding:9px;text-align:left;vertical-align:top}
+th{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+tr.row:hover{background:rgba(124,108,255,.06)}
+.st-done,.st-uploaded{color:var(--grn);font-weight:700}.st-failed{color:var(--red);font-weight:700}
+.st-uploading,.st-rendering,.st-researching,.st-scripting,.st-fetching_media,.st-tts,.st-cleaning,.st-planned,.st-mixing_music{color:var(--yel)}
+.badge{display:inline-block;padding:3px 10px;border-radius:999px;background:#1d2450;border:1px solid var(--line);margin:1px;font-size:11px}
+.badge.ok{border-color:var(--grn);color:#7dffa8}.badge.no{border-color:var(--red);color:#ff8a8a}
+a{color:var(--acc2)}
+.thumb{width:120px;border-radius:10px;display:block}
+.err{color:#ff8a8a;max-width:300px;word-break:break-word;font-size:12px}
+.detail{display:none;background:#0d1230}
+pre{white-space:pre-wrap;font-size:12px;margin:4px 0;background:#0a0e24;padding:8px;border-radius:8px}
+.scene{border-bottom:1px dashed var(--line);padding:6px 0}
+.kill-banner{background:rgba(239,68,68,.12);border:1px solid var(--red);padding:10px 14px;border-radius:12px;margin-bottom:12px}
+.live-banner{background:rgba(34,197,94,.1);border:1px solid var(--grn);padding:10px 14px;border-radius:12px;margin-bottom:12px}
+h2{font-size:15px;margin:22px 0 10px}
+.note{color:var(--mut);font-size:12px}
+#msg{color:var(--yel);font-size:13px;margin-left:8px}
+.prog{background:#1d2450;border-radius:999px;height:20px;overflow:hidden;max-width:460px;margin:6px 0}
+.prog>div{background:linear-gradient(90deg,var(--grn),#4ade80);height:100%;text-align:right;font-size:11px;line-height:20px;padding-right:8px;color:#041;font-weight:700}
+.prog>div.low{background:linear-gradient(90deg,var(--yel),#fbbf24)}
+.bar-row{display:flex;align-items:flex-end;gap:8px;height:140px;margin:10px 0 26px}
+.bar{width:36px;background:linear-gradient(180deg,var(--acc),#4a3fd4);border-radius:6px 6px 0 0;position:relative;min-height:4px}
+.bar span{position:absolute;bottom:-20px;left:0;right:0;text-align:center;font-size:10px;color:var(--mut)}
 .bar b{position:absolute;top:-18px;left:0;right:0;text-align:center;font-size:11px}
-.mission{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px;margin-bottom:10px;max-width:640px}
-.mission.done{border-color:#3fb950}
+.mission{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:12px;max-width:680px}
+.mission.done{border-color:var(--grn)}
 .mission h3{margin:0 0 6px;font-size:14px}
+.force-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.force-card{background:linear-gradient(180deg,var(--card),#10153a);border:1px solid var(--line);border-radius:16px;padding:20px}
+.force-card h3{margin:0 0 4px;font-size:16px}
+.force-card p{color:var(--mut);font-size:12.5px;margin:4px 0 14px}
+.acct{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.dot{width:12px;height:12px;border-radius:50%;background:var(--mut)}
+.dot.ok{background:var(--grn);box-shadow:0 0 10px var(--grn)}
+.dot.bad{background:var(--red)}
 </style></head><body>
-<h1>ReZain - MoneyPrint</h1>
-<div class="sub">{{ src }} &middot; synced: {{ synced }} &middot; quota: {{ uploads_today }}/{{ max_uploads }}</div>
+<div class="nav"><div class="logo">MoneyPrint<small>faceless video studio</small></div>
+<div class="tabs">
+<button class="tab on" onclick="tab('videos',this)">Videos</button>
+<button class="tab" onclick="tab('force',this)">Force Make</button>
+<button class="tab" onclick="tab('missions',this)">Missions</button>
+<button class="tab" onclick="tab('growth',this)">Growth + Income</button>
+<button class="tab" onclick="tab('plan',this)">GitHub Plan</button>
+<button class="tab" onclick="tab('accounts',this)">Accounts</button>
+</div></div>
+<div class="wrap">
+<div class="sub">{{ src }} &middot; synced {{ synced }} &middot; quota {{ uploads_today }}/{{ max_uploads }}</div>
 {% if kill %}<div class="kill-banner">KILL SWITCH ACTIVE (local only)</div>{% endif %}
 <div id="liveBox"></div>
-<div class="tabs">
-<button class="tab on" onclick="tab('videos')">Videos</button>
-<button class="tab" onclick="tab('missions')">Missions</button>
-<button class="tab" onclick="tab('growth')">Growth + Income</button>
-<button class="tab" onclick="tab('plan')">GitHub Plan</button>
-<button class="tab" onclick="tab('accounts')">Accounts</button>
-</div>
 
 <div class="panel on" id="p-videos">
-<div class="stats">
+<div class="grid">
 <div class="card"><b>{{ total }}</b><span>records</span></div>
-<div class="card"><b style="color:#3fb950">{{ done }}</b><span>uploaded</span></div>
+<div class="card"><b style="color:var(--grn)">{{ done }}</b><span>uploaded</span></div>
 <div class="card"><b>{{ shorts }}</b><span>shorts</span></div>
 <div class="card"><b>{{ longs }}</b><span>long</span></div>
-<div class="card"><b style="color:#f85149">{{ failed }}</b><span>failed</span></div>
+<div class="card"><b style="color:var(--red)">{{ failed }}</b><span>failed</span></div>
 <div class="card"><b>{{ rate }}%</b><span>success</span></div>
 </div>
 <div class="toolbar">
 <button onclick="go('/sync')">Sync logs</button>
 <button onclick="location.reload()">Refresh</button>
 <button class="{% if kill %}go{% else %}danger{% endif %}" onclick="go('/kill')">{% if kill %}Unkill{% else %}Kill{% endif %}</button>
-<button class="go" onclick="trig()" {% if not has_token %}disabled title="GH_TOKEN missing"{% endif %}>Run 1 short</button>
 <button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled title="GH_TOKEN missing"{% endif %}>Cancel jobs</button>
 <select id="fStatus" onchange="filtr()"><option value="">all status</option><option>done</option><option>failed</option><option>planned</option><option>uploading</option><option>rendering</option></select>
 <select id="fKind" onchange="filtr()"><option value="">short+long</option><option value="short">short</option><option value="long">long</option></select>
@@ -172,8 +192,25 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 </table>
 </div>
 
+<div class="panel" id="p-force">
+<h2 style="margin-top:0">Force make video – chay ngay tren GitHub</h2>
+<p class="note">Moi luc 1 video (concurrency group). Bam khi job khac dang chay = xep hang cho. Khong can cho cron.</p>
+<div class="force-grid">
+<div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc1_ok else 'bad' }}"></div><h3>Acc 1 – {{ acc1_name }}</h3></div>
+<p>1 Short doc (~12 phut): plan → voice → clips → subs → upload public. Hom nay: {{ amap1.done }}/3.</p>
+<button class="primary big" onclick="trig('shorts-acc1')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 1</button></div>
+<div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc2_ok else 'bad' }}"></div><h3>Acc 2 – {{ acc2_name }}</h3></div>
+<p>1 Short kenh 2. Hom nay: {{ amap2.done }}/3. Can token slot 2 (chua co = nut mo).</p>
+<button class="primary big" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 2</button></div>
+<div class="force-card"><div class="acct"><div class="dot ok"></div><h3>Long video – Acc 1</h3></div>
+<p>1 video &gt;5 phut ngang (~30-60 phut render). Chay thua, khong gap.</p>
+<button class="big" onclick="trig('long')" {% if not has_token %}disabled{% endif %}>Force 1 Long</button></div>
+</div>
+<p><span id="msgF" class="note"></span></p>
+</div>
+
 <div class="panel" id="p-missions">
-<h2>Nhiem vu hom nay ({{ today }})</h2>
+<h2 style="margin-top:0">Nhiem vu hom nay ({{ today }})</h2>
 {% for ch in channels %}
 <div class="mission {{ 'done' if ch.done>=3 else '' }}">
 <h3>{{ ch.name }}: {{ ch.done }}/3 shorts</h3>
@@ -183,51 +220,50 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 {% endfor %}
 <div class="mission {{ 'done' if not m.long_due else '' }}">
 <h3>Long video /5 ngay: {{ m.long_status }}</h3>
-<div class="note">Video dai gan nhat: {{ m.last_long or "chua co" }}. {{ m.long_note }}</div>
+<div class="note">Gan nhat: {{ m.last_long or "chua co" }}. {{ m.long_note }}</div>
 </div>
 <div class="mission {{ 'done' if m.quota_ok else '' }}">
-<h3>Quota YouTube API: {{ m.uploads }}/{{ m.max }} uploads</h3>
+<h3>Quota YouTube API: {{ m.uploads }}/{{ m.max }}</h3>
 <div class="prog"><div class="{{ 'low' if m.uploads>=m.max else '' }}" style="width:{{ 100*m.uploads//m.max }}%">{{ m.uploads }}/{{ m.max }}</div></div>
 </div>
 </div>
 
 <div class="panel" id="p-growth">
-<h2>Kenh (YouTube API that)</h2>
-<div class="stats">
+<h2 style="margin-top:0">Kenh (YouTube API that)</h2>
+<div class="grid">
 <div class="card"><b>{{ ch.subs }}</b><span>subscribers</span></div>
 <div class="card"><b>{{ ch.views }}</b><span>total views</span></div>
 <div class="card"><b>{{ ch.videos }}</b><span>videos</span></div>
 <div class="card"><b>{{ streak }}d</b><span>upload streak</span></div>
 </div>
-<div class="toolbar"><button onclick="go('/channel?force=1')">Refresh channel stats</button><span class="note">cache 1h, ton 1 unit quota</span></div>
+<div class="toolbar"><button onclick="go('/channel?force=1')">Refresh channel stats</button><span class="note">cache 1h, ton 1 unit</span></div>
 <h2>Upload 14 ngay qua</h2>
 <div class="bar-row">{% for d in bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
 <h2>Thu nhap</h2>
 <div class="mission"><h3>Doanh thu uoc tinh: $0</h3>
-<div class="note">Chua bat kiem tien. Dieu kien YouTube Partner (Shorts): 1000 subs + 10M Shorts views/90 ngay.<br>
-Subs hien tai: {{ ch.subs }} / 1000. Khi du dieu kien, bat monetization trong YouTube Studio &gt; Earn.<br>
-Dashboard se tu dong hien so lieu that khi ban ket noi YouTube Analytics API.</div></div>
+<div class="note">Chua bat kiem tien. Dieu kien Partner (Shorts): 1000 subs + 10M Shorts views/90 ngay.<br>
+Subs: {{ ch.subs }} / 1000. Du dieu kien thi bat trong YouTube Studio &gt; Earn.</div></div>
 </div>
 
 <div class="panel" id="p-plan">
-<h2>Ke hoach chay tren GitHub (gio VN = UTC+7)</h2>
-<table><tr><th>Job</th><th>UTC</th><th>Gio VN</th><th>Workflow</th></tr>
+<h2 style="margin-top:0">Ke hoach GitHub (gio VN = UTC+7)</h2>
+<table><tr><th>Job</th><th>UTC</th><th>Gio dia phuong</th><th>Workflow</th></tr>
 {% for c in crons %}<tr><td>{{ c.job }}</td><td>{{ c.utc }}</td><td>{{ c.vn }}</td><td>{{ c.wf }}</td></tr>{% endfor %}
 </table>
-<p class="note">Concurrency group <b>moneyprint-video</b>: moi luc chi 1 video chay, job den sau xep hang cho (khong chay song song).<br>
-Thoat che do cho: vao Actions &gt; Cancel workflow, hoac nut Cancel jobs tab Videos (can GH_TOKEN).<br>
-Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat moi 30s.</p>
+<p class="note">Concurrency <b>moneyprint-video</b>: 1 video/luc, job sau xep hang.<br>
+Ping chinh xac: dung <b>worker-ping.js</b> (Cloudflare) thay cron – xem README.<br>
+Live status tu cap nhat moi 30s o banner xanh.</p>
 </div>
 
 <div class="panel" id="p-accounts">
 <div class="toolbar">
-<button class="go" onclick="window.open('/login?slot=1','_blank')">Dang nhap Google acc 1</button>
+<button class="primary" onclick="window.open('/login?slot=1','_blank')">Dang nhap Google acc 1</button>
 <span class="note">dung mail: <b>{{ acc1_email }}</b></span>
-<button class="go" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
+<button class="primary" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
 <span class="note">dung mail: <b>{{ acc2_email }}</b></span>
-<button onclick="window.open('/gcp','_blank')">Tao Client ID (Google Cloud)</button>
+<button onclick="window.open('/gcp','_blank')">Tao Client ID</button>
 <button onclick="goAcc()">Check lai login</button>
-<span class="note">nut dang nhap mo trang Google, Allow xong token tu ghi vao .env</span><span id="msgAcc"></span>
+<span id="msgAcc" class="note"></span>
 </div>
 {% for a in accs %}
 <div class="mission {{ 'done' if a.readonly_ok else '' }}">
@@ -237,26 +273,27 @@ Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat m
 {% elif a.configured %}<span class="badge no">TOKEN DIE</span>
 {% else %}<span class="badge">CHUA CAI</span>{% endif %}</h3>
 {% if a.channel_title %}<div>Kenh: <a href="https://www.youtube.com/channel/{{ a.channel_id }}" target="_blank">{{ a.channel_title }}</a></div>{% endif %}
-<div class="stats">
+<div class="grid">
 <div class="card"><b>{{ a.subs }}</b><span>subs</span></div>
 <div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
 <div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
 </div>
 {% if a.error %}<div class="err">{{ a.error }}</div>{% endif %}
-<div class="note">Login lai: <b>python scripts/setup_youtube_auth.py</b> (chon slot {{ a.slot }}) &rarr; copy token vao .env + Secrets. Thu hoi quyen: <a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a></div>
+<div class="note">Login lai: nut Dang nhap o tren (chon dung mail) &rarr; copy token vao .env + Secrets. Thu hoi: <a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a></div>
 </div>
 {% endfor %}
 </div>
 
 <p class="note">Kill chi dung local. Token chi trong .env local, khong commit.</p>
+</div>
 <script>
-function tab(n){document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});event.target.classList.add('on');document.getElementById('p-'+n).classList.add('on');}
+function tab(n,el){document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});el.classList.add('on');document.getElementById('p-'+n).classList.add('on');}
 function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
-function trig(){fetch('/live').then(function(r){return r.json();}).then(function(j){var busy=(j.active||[]).length>0;if(busy&&!confirm('Dang co job chay ('+j.active[0].name+'). Van chay them? (se xep hang cho)'))return;go('/trigger');});}
-function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');if((j.active||[]).length===0){b.innerHTML='';return;}var h=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' - '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');b.innerHTML=h;}).catch(function(){});}
+function trig(wf){fetch('/live').then(function(r){return r.json();}).then(function(j){var busy=(j.active||[]).length>0;var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');if(busy&&!confirm('Dang co job chay ('+j.active[0].name+' - '+j.active[0].step+'). Force '+label+' se XEP HANG cho. Tiep tuc?'))return;document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});});}
+function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');if((j.active||[]).length===0){b.innerHTML='';return;}b.innerHTML=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' – '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');}).catch(function(){});}
 live();setInterval(live,30000);
 </script>
 </body></html>"""
@@ -359,14 +396,6 @@ def _channel_missions(records: list, channel: str) -> dict:
 
 
 def _missions(records: list) -> dict:
-    today = datetime.date.today().isoformat()
-    shorts_today = [
-        r.get("title", "")
-        for r in records
-        if r.get("kind") == "short"
-        and r.get("youtube_id")
-        and (r.get("created_at", "")[:10] == today)
-    ]
     longs = sorted(
         [
             r.get("created_at", "")[:10]
@@ -396,8 +425,6 @@ def _missions(records: list) -> dict:
         long_status = "CHUA CO"
     uploads = state.uploads_today()
     return {
-        "shorts_done": len(shorts_today),
-        "shorts_today": shorts_today,
         "last_long": last_long,
         "long_due": long_due,
         "long_status": long_status,
@@ -508,8 +535,6 @@ def index():
     total = len(records)
     rate = round(100 * len(done) / total) if total else 0
     tok, _ = _gh()
-    acc1_email = os.environ.get("ACCOUNT_1_EMAIL", "").strip() or "mail chu kenh 1"
-    acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
     ch_names = sorted({r.get("channel") or "?" for r in records})
     if not ch_names:
         ch_names = [config.CHANNEL_1_NAME, config.CHANNEL_2_NAME]
@@ -517,6 +542,10 @@ def index():
     accs = yt_mod.check_all()
     done_by_name = {c["name"]: c["done"] for c in channels}
     amap = {a["slot"]: {"done": done_by_name.get(a["name"], 0)} for a in accs}
+    acc1 = next((a for a in accs if a["slot"] == "1"), {})
+    acc2 = next((a for a in accs if a["slot"] == "2"), {})
+    acc1_email = os.environ.get("ACCOUNT_1_EMAIL", "").strip() or "mail chu kenh 1"
+    acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
     return render_template_string(
         PAGE,
         records=records,
@@ -538,10 +567,13 @@ def index():
         amap=amap,
         acc1_email=acc1_email,
         acc2_email=acc2_email,
-        bars=_bars(records),
-        streak=_streak(records),
+        acc1_name=config.CHANNEL_1_NAME,
+        acc2_name=config.CHANNEL_2_NAME,
         ch=channel_stats(),
-        crons=CRONS,
+        acc1_ok=bool(acc1.get("readonly_ok")),
+        acc2_ok=bool(acc2.get("readonly_ok")),
+        amap1=amap.get("1", {"done": 0}),
+        amap2=amap.get("2", {"done": 0}),
         uploads_today=state.uploads_today(),
         max_uploads=config.MAX_DAILY_UPLOADS,
         kill=config.kill_requested(),
@@ -623,6 +655,62 @@ def missions():
     return jsonify(_missions(records))
 
 
+@app.route("/sync")
+def sync():
+    p = subprocess.run(["git", "fetch", "origin", "logs"], capture_output=True)
+    proc = subprocess.run(
+        ["git", "show", "origin/logs:state.json"],
+        capture_output=True,
+        text=True,
+    )
+    if proc.returncode != 0 or not proc.stdout.strip():
+        return jsonify({"ok": False, "msg": "no logs branch state yet"})
+    (config.ROOT / "state_from_logs.json").write_text(proc.stdout, encoding="utf-8")
+    try:
+        n = len(json.loads(proc.stdout))
+    except json.JSONDecodeError:
+        n = 0
+    return jsonify({"ok": True, "msg": f"synced {n} records"})
+
+
+@app.route("/kill")
+def kill():
+    if config.KILL_FILE.exists():
+        config.KILL_FILE.unlink()
+        return jsonify({"ok": True, "kill": False, "msg": "kill OFF"})
+    config.KILL_FILE.write_text("1", encoding="utf-8")
+    return jsonify({"ok": True, "kill": True, "msg": "kill ON (local only)"})
+
+
+@app.route("/trigger")
+def trigger():
+    wf = request.args.get("wf", "shorts-acc1")
+    if wf not in ALLOWED_WF:
+        return jsonify({"ok": False, "msg": f"unknown wf (chon {list(ALLOWED_WF)})"})
+    res = _gh_api(
+        "POST",
+        f"/actions/workflows/{ALLOWED_WF[wf]}/dispatches",
+        {"ref": "main", "inputs": {"count": request.args.get("count", "1")}},
+    )
+    if res["ok"]:
+        res["msg"] = f"dispatched {wf} on GitHub"
+    return jsonify(res)
+
+
+@app.route("/cancel")
+def cancel():
+    res = _gh_api("GET", "/actions/runs?per_page=10")
+    if not res["ok"]:
+        return jsonify(res)
+    stopped = 0
+    for r in res["data"].get("workflow_runs", []):
+        if r.get("status") in ("queued", "in_progress"):
+            c = _gh_api("POST", f"/actions/runs/{r['id']}/cancel")
+            if c["ok"]:
+                stopped += 1
+    return jsonify({"ok": True, "msg": f"cancelled {stopped} runs"})
+
+
 @app.route("/accounts")
 def accounts():
     force = request.args.get("force") == "1"
@@ -649,17 +737,6 @@ def login():
         )
     rnd = pysecrets.token_urlsafe(16)
     _oauth_states[rnd] = slot
-    url = "https://accounts.google.com/o/oauth2/v2/auth?" + urllib.parse.urlencode(
-        {
-            "client_id": cid,
-            "redirect_uri": OAUTH_REDIRECT,
-            "response_type": "code",
-            "scope": OAUTH_SCOPES,
-            "access_type": "offline",
-            "prompt": "consent",
-            "state": f"{slot}.{rnd}",
-        }
-    )
     want = os.environ.get(f"ACCOUNT_{slot}_EMAIL", "").strip()
     want_html = f"<b style='color:green'>{want}</b>" if want else "(mail chu kenh)"
     go = f"/login/go?st={rnd}"
@@ -742,67 +819,13 @@ def oauth_callback():
         yt_mod._cache_path(slot).unlink(missing_ok=True)
     except OSError:
         pass
-    secret_name = key
     return (
         f"<h3 style='color:green'>Dang nhap acc {slot} XONG</h3>"
         f"<p>Refresh token da tu ghi vao <b>.env</b> ({key}). Cuoi buoc:</p>"
-        f"<p>Copy dong nay vao GitHub <b>Secrets</b> (ten <b>{secret_name}</b>):</p>"
+        f"<p>Copy dong nay vao GitHub <b>Secrets</b> (ten <b>{key}</b>):</p>"
         f"<textarea rows='3' cols='90' readonly>{rt}</textarea>"
         f"<p>Xong dong tab, ve dashboard tab Accounts bam <b>Check lai login</b>.</p>"
     )
-
-
-@app.route("/sync")
-def sync():
-    p = subprocess.run(["git", "fetch", "origin", "logs"], capture_output=True)
-    proc = subprocess.run(
-        ["git", "show", "origin/logs:state.json"],
-        capture_output=True,
-        text=True,
-    )
-    if proc.returncode != 0 or not proc.stdout.strip():
-        return jsonify({"ok": False, "msg": "no logs branch state yet"})
-    (config.ROOT / "state_from_logs.json").write_text(proc.stdout, encoding="utf-8")
-    try:
-        n = len(json.loads(proc.stdout))
-    except json.JSONDecodeError:
-        n = 0
-    return jsonify({"ok": True, "msg": f"synced {n} records"})
-
-
-@app.route("/kill")
-def kill():
-    if config.KILL_FILE.exists():
-        config.KILL_FILE.unlink()
-        return jsonify({"ok": True, "kill": False, "msg": "kill OFF"})
-    config.KILL_FILE.write_text("1", encoding="utf-8")
-    return jsonify({"ok": True, "kill": True, "msg": "kill ON (local only)"})
-
-
-@app.route("/trigger")
-def trigger():
-    res = _gh_api(
-        "POST",
-        "/actions/workflows/shorts.yml/dispatches",
-        {"ref": "main", "inputs": {"count": request.args.get("count", "1")}},
-    )
-    if res["ok"]:
-        res["msg"] = "dispatched 1 short on GitHub"
-    return jsonify(res)
-
-
-@app.route("/cancel")
-def cancel():
-    res = _gh_api("GET", "/actions/runs?per_page=10")
-    if not res["ok"]:
-        return jsonify(res)
-    stopped = 0
-    for r in res["data"].get("workflow_runs", []):
-        if r.get("status") in ("queued", "in_progress"):
-            c = _gh_api("POST", f"/actions/runs/{r['id']}/cancel")
-            if c["ok"]:
-                stopped += 1
-    return jsonify({"ok": True, "msg": f"cancelled {stopped} runs"})
 
 
 def main():
