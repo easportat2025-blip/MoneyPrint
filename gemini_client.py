@@ -9,7 +9,7 @@ class GeminiError(Exception):
 
 
 class GeminiClient:
-    def __init__(self, keys=None, model=None, max_retries=6):
+    def __init__(self, keys=None, model=None, max_retries=8):
         self.keys = list(keys or config.GEMINI_KEYS)
         self.models = [model or config.GEMINI_MODEL]
         fallback = config.GEMINI_MODEL_FALLBACK
@@ -35,45 +35,43 @@ class GeminiClient:
         )
 
     def generate(self, prompt: str, temperature: float = 0.7) -> str:
-        last_err = None
-        attempts = 0
-        idx = 0
-        model_idx = 0
-        while attempts < self.max_retries * len(self.models):
+        failures = []
+        for model in self.models:
             if config.kill_requested():
                 raise GeminiError("kill switch on")
-            key = self.keys[idx % len(self.keys)]
-            model = self.models[model_idx % len(self.models)]
-            try:
-                client = genai.Client(api_key=key)
-                resp = client.models.generate_content(
-                    model=model,
-                    contents=prompt,
-                    config={"temperature": temperature},
-                )
-                text = (resp.text or "").strip()
-                if not text:
-                    raise GeminiError("empty response")
-                return text
-            except errors.APIError as e:
-                last_err = e
-                code = getattr(e, "code", None)
-                if self._model_dead(str(e)) and model_idx + 1 < len(self.models):
-                    model_idx += 1
-                    attempts += 1
-                    continue
-                if code in (429, 503, 500, None):
+            attempts = 0
+            idx = 0
+            while attempts < self.max_retries:
+                key = self.keys[idx % len(self.keys)]
+                try:
+                    client = genai.Client(api_key=key)
+                    resp = client.models.generate_content(
+                        model=model,
+                        contents=prompt,
+                        config={"temperature": temperature},
+                    )
+                    text = (resp.text or "").strip()
+                    if not text:
+                        raise GeminiError("empty response")
+                    return text
+                except errors.APIError as e:
+                    code = getattr(e, "code", None)
+                    if self._model_dead(str(e)):
+                        failures.append(f"{model}: dead ({e})")
+                        break
+                    if code in (429, 503, 500, None):
+                        failures.append(f"{model}: {code}")
+                        idx += 1
+                        attempts += 1
+                        time.sleep(min(2**attempts, 90))
+                        continue
+                    raise GeminiError(str(e)) from e
+                except Exception as e:
+                    failures.append(f"{model}: {e}")
                     idx += 1
                     attempts += 1
-                    time.sleep(min(2**attempts, 60))
-                    continue
-                raise GeminiError(str(e)) from e
-            except Exception as e:
-                last_err = e
-                idx += 1
-                attempts += 1
-                time.sleep(min(2**attempts, 60))
-        raise GeminiError(f"all retries failed: {last_err}")
+                    time.sleep(min(2**attempts, 90))
+        raise GeminiError(f"all models failed: {' | '.join(failures[-8:])}")
 
     def generate_json(self, prompt: str, temperature: float = 0.5):
         import json
