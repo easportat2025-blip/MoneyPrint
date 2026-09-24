@@ -9,12 +9,15 @@ class GeminiError(Exception):
 
 
 class GeminiClient:
-    def __init__(self, keys=None, model=None, max_retries=8):
+    def __init__(self, keys=None, model=None, max_retries=4):
         self.keys = list(keys or config.GEMINI_KEYS)
-        self.models = [model or config.GEMINI_MODEL]
-        fallback = config.GEMINI_MODEL_FALLBACK
-        if fallback and fallback not in self.models:
-            self.models.append(fallback)
+        if model:
+            self.models = [model]
+            for m in config.model_chain():
+                if m not in self.models:
+                    self.models.append(m)
+        else:
+            self.models = config.model_chain()
         self.max_retries = max_retries
         if not self.keys:
             raise GeminiError("no GEMINI keys configured")
@@ -63,14 +66,14 @@ class GeminiClient:
                         failures.append(f"{model}: {code}")
                         idx += 1
                         attempts += 1
-                        time.sleep(min(2**attempts, 90))
+                        time.sleep(min(2**attempts, 30))
                         continue
                     raise GeminiError(str(e)) from e
                 except Exception as e:
                     failures.append(f"{model}: {e}")
                     idx += 1
                     attempts += 1
-                    time.sleep(min(2**attempts, 90))
+                    time.sleep(min(2**attempts, 30))
         raise GeminiError(f"all models failed: {' | '.join(failures[-8:])}")
 
     def generate_json(self, prompt: str, temperature: float = 0.5):

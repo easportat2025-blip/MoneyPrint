@@ -52,6 +52,7 @@ jobs:
           GEMINI_KEY_B: ${{ secrets.GEMINI_KEY_B }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           GEMINI_MODEL_FALLBACK: ${{ secrets.GEMINI_MODEL_FALLBACK }}
+          GEMINI_MODELS: ${{ secrets.GEMINI_MODELS }}
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}

@@ -24,6 +24,33 @@ GEMINI_KEYS = [k for k in (env("GEMINI_KEY_A"), env("GEMINI_KEY_B")) if k]
 GEMINI_MODEL = env("GEMINI_MODEL", "gemini-flash-latest")
 GEMINI_MODEL_FALLBACK = env("GEMINI_MODEL_FALLBACK", "gemini-3.5-flash")
 
+_DEFAULT_CHAIN = [
+    "gemini-flash-latest",
+    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-3.6-flash",
+    "gemini-3.7-flash",
+    "gemini-3.8-flash",
+    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+]
+
+
+def model_chain() -> list:
+    raw = env("GEMINI_MODELS", "")
+    chain = [m.strip() for m in raw.split(",") if m.strip()]
+    if not chain:
+        chain = list(_DEFAULT_CHAIN)
+    for m in (GEMINI_MODEL, GEMINI_MODEL_FALLBACK):
+        if m and m not in chain:
+            chain.append(m)
+    seen = []
+    for m in chain:
+        if m not in seen:
+            seen.append(m)
+    return seen
+
 YOUTUBE_CLIENT_ID = env("YOUTUBE_CLIENT_ID")
 YOUTUBE_CLIENT_SECRET = env("YOUTUBE_CLIENT_SECRET")
 YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN")
