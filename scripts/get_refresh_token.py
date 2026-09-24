@@ -9,7 +9,10 @@ CLIENT_ID = ""
 CLIENT_SECRET = ""
 REDIRECT_PORT = 8765
 REDIRECT = f"http://127.0.0.1:{REDIRECT_PORT}"
-SCOPES = "https://www.googleapis.com/auth/youtube.upload"
+SCOPES = (
+    "https://www.googleapis.com/auth/youtube.upload"
+    " https://www.googleapis.com/auth/youtube.readonly"
+)
 ROOT = Path(__file__).resolve().parents[1]
 
 
