@@ -1,5 +1,185 @@
 [
   {
+    "id": "87459d3a8d",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "failed",
+    "title": "Earth Used to Have Rings (And Why They Vanished)",
+    "idea": {
+      "title": "Earth Used to Have Rings (And Why They Vanished)",
+      "hook": "Earth wasn't always a blue marble. 466 million years ago, our planet had rings just like Saturn.",
+      "beats": [
+        "An asteroid was ripped apart by Earth's gravity, forming a giant debris ring.",
+        "This ring blocked sunlight, casting a massive shadow over the equator.",
+        "It triggered one of the coldest ice ages in Earth's history, the Ordovician icehouse.",
+        "Over millions of years, the dust rained down, leaving unique meteorites we still find today."
+      ],
+      "keywords": [
+        "Earth rings",
+        "planet saturn",
+        "asteroid breakup",
+        "prehistoric ice age",
+        "space dust"
+      ],
+      "tags": [
+        "earth history",
+        "ancient mysteries",
+        "space facts",
+        "geology",
+        "space documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Traces of a cosmic catastrophe still lie buried in our soil.",
+        "search": "scientific illustration of fossilized meteorite layers in limestone rock",
+        "caption": "A cosmic secret lies buried in our soil."
+      },
+      {
+        "narration": "These ancient space rocks prove Earth once looked entirely different.",
+        "search": "macro photo of L-chondrite meteorite fragment texture",
+        "caption": "These rocks prove Earth was different."
+      },
+      {
+        "narration": "Four hundred and sixty-six million years ago, our planet possessed massive rings.",
+        "search": "3d illustration of prehistoric Earth with dusty rings from space",
+        "caption": "Earth once possessed massive rings."
+      },
+      {
+        "narration": "During the Ordovician period, Earth's continents were clustered in the southern hemisphere.",
+        "search": "scientific diagram map of Ordovician period continental drift",
+        "caption": "466 million years ago during the Ordovician."
+      },
+      {
+        "narration": "The oceans teamed with early marine life, completely unaware of an approaching threat.",
+        "search": "scientific illustration of Ordovician marine life trilobites underwater",
+        "caption": "Early marine life filled the oceans."
+      },
+      {
+        "narration": "A massive asteroid, over one hundred and fifty kilometers wide, crossed Earth's path.",
+        "search": "3d illustration of giant asteroid approaching Earth in deep space",
+        "caption": "A massive asteroid crossed Earth's path."
+      },
+      {
+        "narration": "It drifted past the Roche limit, where planetary gravity becomes destructive.",
+        "search": "scientific diagram explaining Roche limit gravitational forces",
+        "caption": "It crossed the deadly Roche limit."
+      },
+      {
+        "narration": "Earth's intense gravitational pull began to tear the giant space rock apart.",
+        "search": "3d illustration of asteroid breaking apart near Earth",
+        "caption": "Gravity tore the asteroid apart."
+      },
+      {
+        "narration": "Millions of tons of debris did not crash immediately but entered a stable orbit.",
+        "search": "3d illustration of orbital debris ring forming around Earth",
+        "caption": "Debris entered a stable orbit."
+      },
+      {
+        "narration": "Over days, a flat, shimmering ring of space dust encircled the equator.",
+        "search": "3d illustration of dusty ring casting shadow on Earth globe",
+        "caption": "A shimmering ring encircled the equator."
+      },
+      {
+        "narration": "This ring rivaled the beauty of modern Saturn, but it brought doom.",
+        "search": "3d illustration of planet Saturn rings close up",
+        "caption": "It rivaled the rings of Saturn."
+      },
+      {
+        "narration": "The dense debris band blocked direct sunlight from reaching the tropical regions.",
+        "search": "3d illustration of dark shadow cast across Earth's equator",
+        "caption": "The ring blocked vital sunlight."
+      },
+      {
+        "narration": "Temperatures plummeted globally, triggering the Hirnantian glaciation.",
+        "search": "scientific illustration of prehistoric Earth freezing into ice age",
+        "caption": "Temperatures plummeted globally."
+      },
+      {
+        "narration": "This prehistoric icehouse caused one of the most severe extinction events in history.",
+        "search": "scientific illustration of frozen Ordovician landscape with glaciers",
+        "caption": "A brutal ice age began."
+      },
+      {
+        "narration": "For millions of years, the ring slowly decayed, raining meteorites onto the surface.",
+        "search": "3d illustration of meteors burning up in Earth's atmosphere",
+        "caption": "The ring slowly rained down."
+      },
+      {
+        "narration": "Today, geologists find an unnatural spike in space dust within Ordovician limestone.",
+        "search": "archival photograph of geologist examining rock strata in quarry",
+        "caption": "Geologists find the dust today."
+      },
+      {
+        "narration": "The vanished rings of Earth left their final monument written in stone.",
+        "search": "macro photo of fossilized Ordovician limestone with meteorite fragments",
+        "caption": "Earth's lost rings are written in stone."
+      }
+    ],
+    "error": "YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-24T12:11:02.915333+00:00",
+    "updated_at": "2026-09-24T12:13:23.782266+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T12:11:44.464410+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "581 chars",
+        "at": "2026-09-24T12:12:37.072595+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "39.4s 9 sentences",
+        "at": "2026-09-24T12:12:41.268900+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T12:12:41.958994+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-24T12:12:55.670387+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 39.4s 9306622 bytes",
+        "at": "2026-09-24T12:13:23.779674+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing",
+        "at": "2026-09-24T12:13:23.782261+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16515633/pexels-photo-16515633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37955250/pexels-photo-37955250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634835/pexels-photo-7634835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15836063/pexels-photo-15836063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37715230/pexels-photo-37715230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10979834/pexels-photo-10979834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7013902/pexels-photo-7013902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/52502/map-south-america-atlas-52502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792657/pexels-photo-30792657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634890/pexels-photo-7634890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38111383/pexels-photo-38111383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13950350/pexels-photo-13950350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11037822/pexels-photo-11037822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109137/pexels-photo-6109137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18795083/pexels-photo-18795083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34657636/pexels-photo-34657636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6a5589e10a",
     "kind": "short",
     "status": "done",
