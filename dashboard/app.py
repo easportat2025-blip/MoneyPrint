@@ -1,19 +1,40 @@
 import datetime
+import importlib.util
 import json
+import os
+import secrets as pysecrets
 import subprocess
 import sys
 import time
+import urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from flask import Flask, jsonify, render_template_string, request
+from flask import Flask, jsonify, redirect, render_template_string, request
 
 import config
 import state
 from pipeline import yt_auth as yt_mod
+
+
+def _wiz():
+    spec = importlib.util.spec_from_file_location(
+        "wiz_setup", ROOT / "scripts" / "setup_youtube_auth.py"
+    )
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+OAUTH_REDIRECT = "http://127.0.0.1:5050/oauth/callback"
+OAUTH_SCOPES = (
+    "https://www.googleapis.com/auth/youtube.upload"
+    " https://www.googleapis.com/auth/youtube.readonly"
+)
+_oauth_states: dict = {}
 
 try:
     import requests as _rq
@@ -199,7 +220,13 @@ Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat m
 </div>
 
 <div class="panel" id="p-accounts">
-<div class="toolbar"><button onclick="goAcc()">Check lai login</button><span class="note">kiem tra that qua Google (ton 1 unit/kênh), cache 1h</span><span id="msgAcc"></span></div>
+<div class="toolbar">
+<button class="go" onclick="window.open('/login?slot=1','_blank')">Dang nhap Google acc 1</button>
+<button class="go" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
+<button onclick="window.open('/gcp','_blank')">Tao Client ID (Google Cloud)</button>
+<button onclick="goAcc()">Check lai login</button>
+<span class="note">nut dang nhap mo trang Google, Allow xong token tu ghi vao .env</span><span id="msgAcc"></span>
+</div>
 {% for a in accs %}
 <div class="mission {{ 'done' if a.readonly_ok else '' }}">
 <h3>Slot {{ a.slot }} – {{ a.name }} &lt;{{ a.email }}&gt;
@@ -594,6 +621,100 @@ def missions():
 def accounts():
     force = request.args.get("force") == "1"
     return jsonify({"accounts": yt_mod.check_all(force=force)})
+
+
+@app.route("/gcp")
+def gcp():
+    return redirect("https://console.cloud.google.com/apis/credentials")
+
+
+@app.route("/login")
+def login():
+    slot = request.args.get("slot", "1")
+    if slot not in ("1", "2"):
+        slot = "1"
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "").strip()
+    if not cid:
+        return (
+            "<h3>Thieu YOUTUBE_CLIENT_ID trong .env</h3>"
+            "<p>Bam nut <b>Tao Client ID</b>, tao Desktop client, "
+            "paste ID + Secret vao .env roi bam Dang nhap lai.</p>",
+            400,
+        )
+    rnd = pysecrets.token_urlsafe(16)
+    _oauth_states[rnd] = slot
+    url = "https://accounts.google.com/o/oauth2/v2/auth?" + urllib.parse.urlencode(
+        {
+            "client_id": cid,
+            "redirect_uri": OAUTH_REDIRECT,
+            "response_type": "code",
+            "scope": OAUTH_SCOPES,
+            "access_type": "offline",
+            "prompt": "consent",
+            "state": f"{slot}.{rnd}",
+        }
+    )
+    return redirect(url)
+
+
+@app.route("/oauth/callback")
+def oauth_callback():
+    if request.args.get("error"):
+        return (
+            "<h3>Ban da tu choi hoac co loi</h3><p>Dong tab, bam Dang nhap lai.</p>",
+            400,
+        )
+    code = request.args.get("code", "")
+    st = request.args.get("state", "")
+    slot, _, rnd = st.partition(".")
+    if slot not in ("1", "2") or _oauth_states.pop(rnd, None) != slot or not code:
+        return "<h3>Phien het han</h3><p>Dong tab, bam Dang nhap lai tu dashboard.</p>", 400
+    if _rq is None:
+        return "<h3>Thieu requests</h3>", 500
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "").strip()
+    csec = os.environ.get("YOUTUBE_CLIENT_SECRET", "").strip()
+    r = _rq.post(
+        "https://oauth2.googleapis.com/token",
+        data={
+            "code": code,
+            "client_id": cid,
+            "client_secret": csec,
+            "redirect_uri": OAUTH_REDIRECT,
+            "grant_type": "authorization_code",
+        },
+        timeout=30,
+    )
+    if r.status_code != 200:
+        hint = ""
+        if "redirect_uri_mismatch" in r.text:
+            hint = "<p><b>Loi redirect_uri_mismatch:</b> client phai la loai <b>Desktop app</b>, khong phai Web. Tao lai client Desktop.</p>"
+        return f"<h3>Doi token that bai ({r.status_code})</h3>{hint}<pre>{r.text[:400]}</pre>", 400
+    rt = r.json().get("refresh_token", "")
+    if not rt:
+        return (
+            "<h3>Google khong tra refresh_token</h3><p>Vao "
+            "<a href='https://myaccount.google.com/permissions'>myaccount.google.com/permissions</a> "
+            "go quyen app, roi Dang nhap lai.</p>",
+            400,
+        )
+    key = "YOUTUBE_REFRESH_TOKEN" if slot == "1" else "YOUTUBE_REFRESH_TOKEN_2"
+    wiz = _wiz()
+    env = wiz.read_env()
+    env[key] = rt
+    wiz.write_env(env)
+    os.environ[key] = rt
+    try:
+        yt_mod._cache_path(slot).unlink(missing_ok=True)
+    except OSError:
+        pass
+    secret_name = key
+    return (
+        f"<h3 style='color:green'>Dang nhap acc {slot} XONG</h3>"
+        f"<p>Refresh token da tu ghi vao <b>.env</b> ({key}). Cuoi buoc:</p>"
+        f"<p>Copy dong nay vao GitHub <b>Secrets</b> (ten <b>{secret_name}</b>):</p>"
+        f"<textarea rows='3' cols='90' readonly>{rt}</textarea>"
+        f"<p>Xong dong tab, ve dashboard tab Accounts bam <b>Check lai login</b>.</p>"
+    )
 
 
 @app.route("/sync")
