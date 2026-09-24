@@ -68,6 +68,22 @@ def cmd_delete(args):
         sys.exit(1)
 
 
+def cmd_sync(_args):
+    import subprocess
+
+    subprocess.run(["git", "fetch", "origin", "logs"], capture_output=True)
+    proc = subprocess.run(
+        ["git", "show", "origin/logs:state.json"],
+        capture_output=True,
+        text=True,
+    )
+    if proc.returncode != 0 or not proc.stdout.strip():
+        print("no logs branch state yet", file=sys.stderr)
+        sys.exit(1)
+    (config.ROOT / "state_from_logs.json").write_text(proc.stdout, encoding="utf-8")
+    print(f"synced {len(proc.stdout)} chars from logs branch")
+
+
 def cmd_status(_args):
     print(json.dumps(state.load(), indent=2, ensure_ascii=False))
 
@@ -93,6 +109,7 @@ def main():
     sp.set_defaults(fn=cmd_plan)
 
     sub.add_parser("dashboard", help="local log dashboard").set_defaults(fn=cmd_dashboard)
+    sub.add_parser("sync", help="pull state.json from logs branch").set_defaults(fn=cmd_sync)
     sub.add_parser("status", help="dump state.json").set_defaults(fn=cmd_status)
     sub.add_parser("kill", help="toggle kill switch").set_defaults(fn=cmd_kill)
 
