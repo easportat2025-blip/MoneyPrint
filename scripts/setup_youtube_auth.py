@@ -125,6 +125,11 @@ def main() -> None:
     print("YouTube auth wizard - chi can copy/paste 2 chuoi tu Google Cloud")
     print("Vao: GCP > API et services > Identifiants > bam vao client Desktop")
     print("=" * 60)
+    slot = ""
+    while slot not in ("1", "2"):
+        slot = input("\nKenh so may? (1 = ReZain, 2 = kenh thu hai) [1/2]: ").strip() or "1"
+    rt_key = "YOUTUBE_REFRESH_TOKEN" if slot == "1" else "YOUTUBE_REFRESH_TOKEN_2"
+    print(f"Dang nhap Gmail CHU KENH {slot} o buoc browser sap toi.")
     cid = ask(
         "\n1) Paste ID client (dang ...apps.googleusercontent.com): ",
         valid_client_id,
@@ -138,13 +143,13 @@ def main() -> None:
     write_env({"YOUTUBE_CLIENT_ID": cid, "YOUTUBE_CLIENT_SECRET": csec})
     print("\nDa ghi ID + Secret vao .env. Gio lay refresh token...")
     rt = fetch_refresh_token(cid, csec)
-    write_env({"YOUTUBE_REFRESH_TOKEN": rt})
+    write_env({rt_key: rt})
     print("\n" + "=" * 60)
-    print("XONG. Da luu ca 3 gia tri vao .env")
-    print("Copy 3 gia tri nay vao GitHub Secrets (Repo > Settings > Secrets > Actions):")
-    print("  YOUTUBE_CLIENT_ID")
-    print("  YOUTUBE_CLIENT_SECRET")
-    print("  YOUTUBE_REFRESH_TOKEN")
+    print(f"XONG. Da luu vao .env (key {rt_key})")
+    print("Copy vao GitHub Secrets (Repo > Settings > Secrets > Actions):")
+    print("  YOUTUBE_CLIENT_ID (neu chua co)")
+    print("  YOUTUBE_CLIENT_SECRET (neu chua co)")
+    print(f"  {rt_key}")
     print("=" * 60)
 
 

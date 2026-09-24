@@ -22,12 +22,16 @@ except ImportError:
 app = Flask(__name__)
 
 CRONS = [
-    {"job": "Short #1", "utc": "16:00", "vn": "23:00 VN / 12:00 ET / 17:00 UK", "wf": "shorts.yml"},
-    {"job": "Short #2", "utc": "19:00", "vn": "02:00 VN / 15:00 ET / 20:00 UK", "wf": "shorts.yml"},
-    {"job": "Short #3", "utc": "22:00", "vn": "05:00 VN / 18:00 ET / 23:00 UK", "wf": "shorts.yml"},
-    {"job": "Short #4", "utc": "01:00", "vn": "08:00 VN / 21:00 ET / 02:00 UK", "wf": "shorts.yml"},
-    {"job": "Long video", "utc": "15:00 /5 ngay", "vn": "22:00 VN /5 ngay", "wf": "long.yml"},
+    {"job": "Acc1 Short #1", "utc": "16:00", "vn": "23:00 VN / 12:00 ET", "wf": "shorts-acc1.yml"},
+    {"job": "Acc1 Short #2", "utc": "19:00", "vn": "02:00 VN / 15:00 ET", "wf": "shorts-acc1.yml"},
+    {"job": "Acc1 Short #3", "utc": "22:00", "vn": "05:00 VN / 18:00 ET", "wf": "shorts-acc1.yml"},
+    {"job": "Acc2 Short #1", "utc": "17:30", "vn": "00:30 VN / 13:30 ET", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #2", "utc": "20:30", "vn": "03:30 VN / 16:30 ET", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #3", "utc": "23:30", "vn": "06:30 VN / 19:30 ET", "wf": "shorts-acc2.yml"},
+    {"job": "Acc1 Long", "utc": "15:00 /5 ngay", "vn": "22:00 VN /5 ngay", "wf": "long.yml"},
 ]
+
+SHORTS_TARGET = 3
 
 PAGE = """<!doctype html>
 <html><head><meta charset="utf-8"><title>ReZain - MoneyPrint</title>
@@ -109,17 +113,18 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 <button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled title="GH_TOKEN missing"{% endif %}>Cancel jobs</button>
 <select id="fStatus" onchange="filtr()"><option value="">all status</option><option>done</option><option>failed</option><option>planned</option><option>uploading</option><option>rendering</option></select>
 <select id="fKind" onchange="filtr()"><option value="">short+long</option><option value="short">short</option><option value="long">long</option></select>
+<select id="fCh" onchange="filtr()"><option value="">all channels</option>{% for c in ch_names %}<option>{{ c }}</option>{% endfor %}</select>
 <input id="fText" placeholder="search title..." oninput="filtr()">
 <span id="msg"></span>
 </div>
 <table id="tbl">
 <tr><th></th><th>ID</th><th>Status</th><th>Title</th><th>YouTube</th><th>Stages</th><th>Error</th><th>Updated</th><th></th></tr>
 {% for r in records %}
-<tr class="row" data-status="{{ r.status }}" data-kind="{{ r.kind }}" data-title="{{ r.title|lower }}">
+<tr class="row" data-status="{{ r.status }}" data-kind="{{ r.kind }}" data-title="{{ r.title|lower }}" data-ch="{{ r.channel or '' }}">
 <td>{% if r.youtube_id %}<a href="{{ r.youtube_url }}" target="_blank"><img class="thumb" src="https://i.ytimg.com/vi/{{ r.youtube_id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}</td>
 <td>{{ r.id }}</td>
 <td class="st-{{ r.status }}">{{ r.status }}</td>
-<td>{{ r.title }}<br><span class="badge">{{ r.kind }}</span></td>
+<td>{{ r.title }}<br><span class="badge">{{ r.kind }}</span> <span class="badge">{{ r.channel or "?" }}</span></td>
 <td>{% if r.youtube_url %}<a href="{{ r.youtube_url }}" target="_blank">open</a>{% else %}—{% endif %}</td>
 <td>{% for name, s in (r.stages or {}).items() %}<span class="badge {{ 'ok' if s.ok else 'no' }}" title="{{ s.detail }}">{{ "ok" if s.ok else "x" }} {{ name }}</span>{% endfor %}</td>
 <td class="err">{{ r.error[:160] }}</td>
@@ -146,11 +151,13 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 
 <div class="panel" id="p-missions">
 <h2>Nhiem vu hom nay ({{ today }})</h2>
-<div class="mission {{ 'done' if m.shorts_done>=4 else '' }}">
-<h3>4 Shorts/ngay: {{ m.shorts_done }}/4</h3>
-<div class="prog"><div class="{{ '' if m.shorts_done>=4 else 'low' }}" style="width:{{ (100*m.shorts_done//4) if m.shorts_done<4 else 100 }}%">{{ m.shorts_done }}/4</div></div>
-<div class="note">{% for t in m.shorts_today %}&#10003; {{ t }}<br>{% endfor %}{% if m.shorts_done<4 %}Con thieu {{ 4-m.shorts_done }} video - cron 12/15/18/21h ET (23/02/05/08h VN).{% else %}Xong ngay hom nay.{% endif %}</div>
+{% for ch in channels %}
+<div class="mission {{ 'done' if ch.done>=3 else '' }}">
+<h3>{{ ch.name }}: {{ ch.done }}/3 shorts</h3>
+<div class="prog"><div class="{{ '' if ch.done>=3 else 'low' }}" style="width:{{ (100*ch.done//3) if ch.done<3 else 100 }}%">{{ ch.done }}/3</div></div>
+<div class="note">{% for t in ch.titles %}&#10003; {{ t }}<br>{% endfor %}{% if ch.done<3 %}Con thieu {{ 3-ch.done }} video.{% else %}Xong.{% endif %}</div>
 </div>
+{% endfor %}
 <div class="mission {{ 'done' if not m.long_due else '' }}">
 <h3>Long video /5 ngay: {{ m.long_status }}</h3>
 <div class="note">Video dai gan nhat: {{ m.last_long or "chua co" }}. {{ m.long_note }}</div>
@@ -192,7 +199,7 @@ Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat m
 <p class="note">Kill chi dung local. Token chi trong .env local, khong commit.</p>
 <script>
 function tab(n){document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});event.target.classList.add('on');document.getElementById('p-'+n).classList.add('on');}
-function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
+function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function trig(){fetch('/live').then(function(r){return r.json();}).then(function(j){var busy=(j.active||[]).length>0;if(busy&&!confirm('Dang co job chay ('+j.active[0].name+'). Van chay them? (se xep hang cho)'))return;go('/trigger');});}
@@ -283,6 +290,19 @@ def _synced() -> str:
         except OSError:
             pass
     return "-"
+
+
+def _channel_missions(records: list, channel: str) -> dict:
+    today = datetime.date.today().isoformat()
+    shorts_today = [
+        r.get("title", "")
+        for r in records
+        if r.get("kind") == "short"
+        and (r.get("channel") or "") == channel
+        and r.get("youtube_id")
+        and (r.get("created_at", "")[:10] == today)
+    ]
+    return {"name": channel, "done": len(shorts_today), "titles": shorts_today}
 
 
 def _missions(records: list) -> dict:
@@ -435,6 +455,10 @@ def index():
     total = len(records)
     rate = round(100 * len(done) / total) if total else 0
     tok, _ = _gh()
+    ch_names = sorted({r.get("channel") or "?" for r in records})
+    if not ch_names:
+        ch_names = [config.CHANNEL_1_NAME, config.CHANNEL_2_NAME]
+    channels = [_channel_missions(records, c) for c in ch_names]
     return render_template_string(
         PAGE,
         records=records,
@@ -450,6 +474,8 @@ def index():
         stages_txt=stages_txt,
         ideas=_ideas(),
         m=_missions(records),
+        channels=channels,
+        ch_names=ch_names,
         bars=_bars(records),
         streak=_streak(records),
         ch=channel_stats(),

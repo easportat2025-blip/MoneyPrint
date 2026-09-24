@@ -51,16 +51,34 @@ def model_chain() -> list:
             seen.append(m)
     return seen
 
+CHANNEL = env("CHANNEL", "1")
+CHANNEL_1_NAME = env("CHANNEL_1_NAME", "ReZain")
+CHANNEL_2_NAME = env("CHANNEL_2_NAME", "Channel2")
+
 YOUTUBE_CLIENT_ID = env("YOUTUBE_CLIENT_ID")
 YOUTUBE_CLIENT_SECRET = env("YOUTUBE_CLIENT_SECRET")
-YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN")
+if CHANNEL == "2":
+    YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN_2")
+    NICHE_ACTIVE = env("NICHE_2", "")
+    VOICE_ACTIVE = env("VOICE_2", "")
+    CHANNEL_NAME = CHANNEL_2_NAME
+else:
+    YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN")
+    NICHE_ACTIVE = env("NICHE", "")
+    VOICE_ACTIVE = env("VOICE", "")
+    CHANNEL_NAME = CHANNEL_1_NAME
+
+if not NICHE_ACTIVE:
+    NICHE_ACTIVE = "space science documentary facts"
+if not VOICE_ACTIVE:
+    VOICE_ACTIVE = "en-US-GuyNeural" if CHANNEL == "2" else "en-US-ChristopherNeural"
 
 PEXELS_API_KEY = env("PEXELS_API_KEY")
 PIXABAY_API_KEY = env("PIXABAY_API_KEY")
 
 SCHEDULE = env("SCHEDULE", "short")
-NICHE = env("NICHE", "space science documentary facts")
-VOICE = env("VOICE", "en-US-ChristopherNeural")
+NICHE = NICHE_ACTIVE
+VOICE = VOICE_ACTIVE
 SHORTS_PER_DAY = int(env("SHORTS_PER_DAY", "3"))
 LONG_EVERY_DAYS = int(env("LONG_EVERY_DAYS", "5"))
 MAX_DAILY_UPLOADS = int(env("MAX_DAILY_UPLOADS", "6"))

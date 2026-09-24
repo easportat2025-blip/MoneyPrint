@@ -30,7 +30,7 @@ def run_one(kind: str = "short") -> dict:
         scene_sec = config.LONG_SCENE_SEC
 
     idea = plan_mod.next_idea(kind)
-    rec = state.create(kind, idea)
+    rec = state.create(kind, idea, config.CHANNEL_NAME)
     rec_id = rec["id"]
     workdir = config.CACHE_DIR / rec_id
     workdir.mkdir(parents=True, exist_ok=True)

@@ -23,10 +23,11 @@ def save(records: list) -> None:
     )
 
 
-def create(kind: str, idea: dict) -> dict:
+def create(kind: str, idea: dict, channel: str = "") -> dict:
     rec = {
         "id": uuid.uuid4().hex[:10],
         "kind": kind,
+        "channel": channel,
         "status": "planned",
         "title": idea.get("title", ""),
         "idea": idea,

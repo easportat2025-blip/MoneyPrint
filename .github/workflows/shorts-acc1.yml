@@ -1,11 +1,10 @@
-name: shorts
+name: shorts-acc1
 
 on:
   schedule:
     - cron: "0 16 * * *"
     - cron: "0 19 * * *"
     - cron: "0 22 * * *"
-    - cron: "0 1 * * *"
   workflow_dispatch:
     inputs:
       count:
@@ -46,9 +45,10 @@ jobs:
             echo "[]" > state.json
           fi
 
-      - name: Run shorts
+      - name: Run shorts (channel 1)
         env:
           SCHEDULE: short
+          CHANNEL: "1"
           GEMINI_KEY_A: ${{ secrets.GEMINI_KEY_A }}
           GEMINI_KEY_B: ${{ secrets.GEMINI_KEY_B }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
@@ -59,9 +59,10 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          CHANNEL_1_NAME: ${{ vars.CHANNEL_1_NAME || 'ReZain' }}
           NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
           VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
-          MAX_DAILY_UPLOADS: ${{ vars.MAX_DAILY_UPLOADS || '6' }}
+          MAX_DAILY_UPLOADS: "6"
         run: |
           count="${{ github.event.inputs.count || '1' }}"
           failed=0
@@ -86,5 +87,5 @@ jobs:
           fi
           cp -f /tmp/mp_state.json state.json
           git add -f state.json
-          git commit -m "state ${{ github.run_id }}" || true
+          git commit -m "state acc1 ${{ github.run_id }}" || true
           git push origin logs
