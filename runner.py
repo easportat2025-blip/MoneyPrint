@@ -42,7 +42,7 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, scenes=scenes)
 
         state.update(rec_id, status="scripting")
-        target_chars = 750 if kind == "short" else 5800
+        target_chars = 650 if kind == "short" else 5800
         script = script_mod.build(idea, scenes, target_chars)
         state.stage(
             rec_id, "script", True, f"{len(script['voiceover'])} chars"
@@ -50,9 +50,13 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="tts")
         audio_path = workdir / "voice.mp3"
-        tts_mod.synthesize(script["voiceover"], audio_path)
+        srt_tmp = workdir / "voice.srt"
+        tts_mod.synthesize(script["voiceover"], audio_path, srt_path=srt_tmp)
         audio_dur = tts_mod.duration(audio_path)
-        state.stage(rec_id, "tts", True, f"{audio_dur:.1f}s")
+        sentences = tts_mod.parse_sentences(srt_tmp)
+        state.stage(
+            rec_id, "tts", True, f"{audio_dur:.1f}s {len(sentences)} sentences"
+        )
 
         state.update(rec_id, status="mixing_music")
         mixed_path = workdir / "mixed.m4a"
@@ -74,10 +78,13 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="fetching_media")
         vertical = kind == "short"
+        skip = state.used_media_urls()
         items = media_mod.fetch_all(
-            scenes, workdir / "media", vertical, scene_sec
+            scenes, workdir / "media", vertical, scene_sec, skip
         )
-        n_vid = sum(1 for _, is_v in items if is_v)
+        n_vid = sum(1 for _, is_v, _u in items if is_v)
+        urls = [u for _, _, u in items if u]
+        state.update(rec_id, media_urls=urls)
         state.stage(
             rec_id, "media", True, f"{n_vid} video clips + {len(items) - n_vid} images"
         )
@@ -85,7 +92,14 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, status="rendering")
         title_text = idea.get("title", "ReZain")
         final, srt_path = assemble_mod.assemble(
-            items, mixed_path, scenes, audio_dur, title_text, workdir / "render", kind
+            items,
+            mixed_path,
+            sentences,
+            scenes,
+            audio_dur,
+            title_text,
+            workdir / "render",
+            kind,
         )
         info = assemble_mod.probe(final)
         state.stage(

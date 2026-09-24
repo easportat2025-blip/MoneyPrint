@@ -3,7 +3,9 @@ from pathlib import Path
 import config
 
 
-def synthesize(text: str, out_path: Path, voice: str = None) -> Path:
+def synthesize(
+    text: str, out_path: Path, voice: str = None, srt_path: Path | None = None
+) -> Path:
     voice = voice or config.VOICE
     out_path.parent.mkdir(parents=True, exist_ok=True)
     cmd = [
@@ -15,10 +17,46 @@ def synthesize(text: str, out_path: Path, voice: str = None) -> Path:
         "--write-media",
         str(out_path),
     ]
+    if srt_path is not None:
+        cmd += ["--write-subtitles", str(srt_path)]
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
     if proc.returncode != 0 or not out_path.exists():
         raise RuntimeError(f"edge-tts failed: {proc.stderr[-500:]}")
     return out_path
+
+
+def _srt_ts(ts: str) -> float:
+    ts = ts.replace(",", ":").replace(".", ":")
+    parts = [float(p) for p in ts.split(":")]
+    while len(parts) < 4:
+        parts.insert(0, 0.0)
+    h, m, s, ms = parts[-4], parts[-3], parts[-2], parts[-1]
+    return h * 3600 + m * 60 + s + ms / 1000.0
+
+
+def parse_sentences(srt_path: Path) -> list:
+    import re
+
+    if srt_path is None or not srt_path.exists():
+        return []
+    raw = srt_path.read_text(encoding="utf-8", errors="ignore")
+    blocks = re.split(r"\n\s*\n", raw.strip())
+    out = []
+    for b in blocks:
+        lines = [ln.strip() for ln in b.splitlines() if ln.strip()]
+        if len(lines) < 3:
+            continue
+        m = re.match(r"(.+?)\s*-->\s*(.+)", lines[1])
+        if not m:
+            continue
+        try:
+            start, end = _srt_ts(m.group(1)), _srt_ts(m.group(2))
+        except ValueError:
+            continue
+        text = " ".join(lines[2:])
+        if text and end > start:
+            out.append({"start": start, "end": end, "text": text})
+    return out
 
 
 def duration(path: Path) -> float:

@@ -80,6 +80,15 @@ def used_titles() -> set:
     return {r.get("title", "").lower() for r in load() if r.get("title")}
 
 
+def used_media_urls() -> set:
+    urls = set()
+    for r in load():
+        for u in r.get("media_urls", []) or []:
+            if u:
+                urls.add(u)
+    return urls
+
+
 def uploads_today() -> int:
     today = datetime.now(timezone.utc).date().isoformat()
     return sum(1 for r in load() if r.get("youtube_id") and r.get("created_at", "").startswith(today))

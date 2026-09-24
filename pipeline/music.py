@@ -14,7 +14,7 @@ TRACKS = [
     ),
 ]
 
-MUSIC_VOL = 0.10
+MUSIC_VOL = 0.20
 
 
 def pick(seed: str = "") -> tuple[Path | None, str]:
@@ -34,7 +34,7 @@ def _run(cmd: list[str], timeout: int = 600) -> None:
 
 
 def mix(
-    voice: Path, out: Path, seed: str = "", delay_ms: int = 2500
+    voice: Path, out: Path, seed: str = "", delay_ms: int = 0
 ) -> tuple[Path, str]:
     out.parent.mkdir(parents=True, exist_ok=True)
     track, credit = pick(seed)

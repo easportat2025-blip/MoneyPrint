@@ -8,9 +8,11 @@ Scenes and narration drafts:
 {scenes}
 
 Rules:
-- Spoken style, present tense, concrete imagery, no "hey guys"
+- FIRST LINE = the hook: spoken question/claim matching the title,
+  under 10 words, no greeting ("hey guys" banned)
+- Spoken style, present tense, concrete imagery
 - No scene numbers, no stage directions, no emojis
-- Smooth transitions between scenes
+- Open loop early, escalate mid, payoff in the FINAL line (loop-friendly)
 - STRICT LENGTH: total voiceover MUST be under {target_chars} characters
   (count roughly, shorter is fine, longer is NOT allowed)
 

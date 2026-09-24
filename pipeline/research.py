@@ -9,9 +9,17 @@ Keywords: {keywords}
 Niche: {niche}
 Duration: about {duration} seconds, {n_scenes} scenes.
 
+Structure the scenes as a retention arc:
+- Scene 1 = HOOK: the core question/claim in under 10 words, curiosity gap
+  or number or contradiction. NO greetings, NO setup.
+- Middle scenes = OPEN LOOP then ESCALATE: raise tension, add stakes,
+  partial evidence. Never resolve early.
+- Last scene = PAYOFF: clear resolution near the end (drives replays).
+
 For each scene return:
 - narration: 1-2 sentences of voiceover (English, factual, no fluff)
-- search: one stock-media search query (English, concrete visual nouns)
+- search: one stock-media search query (English, concrete visual nouns,
+  match the MOOD: dark, vast, dramatic)
 - caption: on-screen caption max 12 words
 
 Return JSON: {{"scenes":[{{"narration","search","caption"}}]}}

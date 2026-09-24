@@ -36,33 +36,49 @@ def _download(url: str, dest: Path) -> Path | None:
         return None
 
 
-def from_pexels(query: str, vertical: bool, dest: Path) -> Path | None:
+def from_pexels(
+    query: str, vertical: bool, dest: Path, skip: set | None = None
+) -> tuple[Path | None, str]:
+    skip = skip or set()
     if not config.PEXELS_API_KEY:
-        return None
+        return None, ""
     orientation = "portrait" if vertical else "landscape"
     try:
         r = requests.get(
             "https://api.pexels.com/v1/search",
             headers={"Authorization": config.PEXELS_API_KEY},
-            params={"query": query, "orientation": orientation, "per_page": 5},
+            params={"query": query, "orientation": orientation, "per_page": 8},
             timeout=20,
         )
         if r.status_code != 200:
-            return None
+            return None, ""
         photos = r.json().get("photos", [])
-        if not photos:
-            return None
-        src = photos[0].get("src", {}).get("large2x") or photos[0].get("src", {}).get("large")
-        if not src:
-            return None
-        return _download(src, dest)
+        cands = []
+        for p in photos:
+            src = p.get("src", {}).get("large2x") or p.get("src", {}).get("large")
+            if src:
+                cands.append(src)
+        for src in cands:
+            if src in skip:
+                continue
+            got = _download(src, dest)
+            if got:
+                return got, src
+        if cands:
+            got = _download(cands[0], dest)
+            if got:
+                return got, cands[0]
+        return None, ""
     except (requests.RequestException, ValueError):
-        return None
+        return None, ""
 
 
-def from_pixabay(query: str, dest: Path) -> Path | None:
+def from_pixabay(
+    query: str, dest: Path, skip: set | None = None
+) -> tuple[Path | None, str]:
+    skip = skip or set()
     if not config.PIXABAY_API_KEY:
-        return None
+        return None, ""
     try:
         r = requests.get(
             "https://pixabay.com/api/",
@@ -72,21 +88,31 @@ def from_pixabay(query: str, dest: Path) -> Path | None:
                 "image_type": "photo",
                 "orientation": "vertical",
                 "safesearch": "true",
-                "per_page": 5,
+                "per_page": 8,
             },
             timeout=20,
         )
         if r.status_code != 200:
-            return None
+            return None, ""
         hits = r.json().get("hits", [])
-        if not hits:
-            return None
-        url = hits[0].get("largeImageURL") or hits[0].get("webformatURL")
-        if not url:
-            return None
-        return _download(url, dest)
+        cands = []
+        for h in hits:
+            url = h.get("largeImageURL") or h.get("webformatURL")
+            if url:
+                cands.append(url)
+        for url in cands:
+            if url in skip:
+                continue
+            got = _download(url, dest)
+            if got:
+                return got, url
+        if cands:
+            got = _download(cands[0], dest)
+            if got:
+                return got, cands[0]
+        return None, ""
     except (requests.RequestException, ValueError):
-        return None
+        return None, ""
 
 
 def from_nasa(query: str, dest: Path) -> Path | None:
@@ -123,22 +149,23 @@ def from_nasa(query: str, dest: Path) -> Path | None:
 
 
 def from_pexels_video(
-    query: str, vertical: bool, dest: Path, need_sec: float
-) -> Path | None:
+    query: str, vertical: bool, dest: Path, need_sec: float, skip: set | None = None
+) -> tuple[Path | None, str]:
+    skip = skip or set()
     if not config.PEXELS_API_KEY:
-        return None
+        return None, ""
     orientation = "portrait" if vertical else "landscape"
     try:
         r = requests.get(
             "https://api.pexels.com/videos/search",
             headers={"Authorization": config.PEXELS_API_KEY},
-            params={"query": query, "orientation": orientation, "per_page": 5},
+            params={"query": query, "orientation": orientation, "per_page": 8},
             timeout=20,
         )
         if r.status_code != 200:
-            return None
+            return None, ""
         videos = r.json().get("videos", [])
-        best = None
+        cands = []
         for v in videos:
             try:
                 dur = float(v.get("duration", 0))
@@ -146,6 +173,7 @@ def from_pexels_video(
                 dur = 0
             if dur < max(need_sec * 0.5, 1.5):
                 continue
+            files = []
             for f in v.get("video_files", []):
                 link = f.get("link", "")
                 w = f.get("width", 0) or 0
@@ -153,47 +181,71 @@ def from_pexels_video(
                     continue
                 if vertical and w < 600:
                     continue
-                if best is None or w < best[1]:
-                    best = (link, w)
-            if best:
-                break
-        if not best:
-            return None
-        return _download(best[0], dest.with_suffix(".mp4"))
+                files.append((link, w))
+            if files:
+                files.sort(key=lambda x: x[1])
+                cands.append(files[0][0])
+        for link in cands:
+            if link in skip:
+                continue
+            got = _download(link, dest.with_suffix(".mp4"))
+            if got:
+                return got, link
+        if cands:
+            got = _download(cands[0], dest.with_suffix(".mp4"))
+            if got:
+                return got, cands[0]
+        return None, ""
     except (requests.RequestException, ValueError, KeyError):
-        return None
+        return None, ""
+
+
+QUERY_SUFFIX = ["", " cinematic", " close up", " slow motion", " aerial view"]
 
 
 def fetch_scene(
-    query: str, scene_dir: Path, vertical: bool, need_sec: float = 4.0
-) -> tuple[Path, bool]:
+    query: str,
+    scene_dir: Path,
+    vertical: bool,
+    need_sec: float = 4.0,
+    skip: set | None = None,
+) -> tuple[Path, bool, str]:
+    skip = skip or set()
     slug = _slug(query)
     vid_dest = scene_dir / f"{slug}.mp4"
     if vid_dest.exists() and vid_dest.stat().st_size > 20000:
-        return vid_dest, True
+        return vid_dest, True, ""
     dest = scene_dir / f"{slug}.jpg"
     if dest.exists() and dest.stat().st_size > 5000:
-        return dest, False
+        return dest, False, ""
     try:
-        got_vid = from_pexels_video(query, vertical, vid_dest, need_sec)
+        got_vid, vid_url = from_pexels_video(query, vertical, vid_dest, need_sec, skip)
     except Exception:
-        got_vid = None
+        got_vid, vid_url = None, ""
     if got_vid:
-        return got_vid, True
-    for source in (from_pexels, from_nasa, from_pixabay):
-        try:
-            if source is from_pexels:
-                got = source(query, vertical, dest)
-            else:
-                got = source(query, dest)
-        except Exception:
-            got = None
-        if got:
-            return got, False
+        return got_vid, True, vid_url
+    try:
+        got_img, img_url = from_pexels(query, vertical, dest, skip)
+    except Exception:
+        got_img, img_url = None, ""
+    if got_img:
+        return got_img, False, img_url
+    try:
+        got_nasa = from_nasa(query, dest)
+    except Exception:
+        got_nasa = None
+    if got_nasa:
+        return got_nasa, False, ""
+    try:
+        got_pb, pb_url = from_pixabay(query, dest, skip)
+    except Exception:
+        got_pb, pb_url = None, ""
+    if got_pb:
+        return got_pb, False, pb_url
     placeholder = scene_dir / f"fallback_{slug}.jpg"
     if not placeholder.exists():
         _make_fallback(placeholder, query)
-    return placeholder, False
+    return placeholder, False, ""
 
 
 def _make_fallback(dest: Path, label: str) -> None:
@@ -220,12 +272,20 @@ def _make_fallback(dest: Path, label: str) -> None:
 
 
 def fetch_all(
-    scenes: list, cache_dir: Path, vertical: bool, scene_sec: float = 4.0
-) -> list[tuple[Path, bool]]:
+    scenes: list,
+    cache_dir: Path,
+    vertical: bool,
+    scene_sec: float = 4.0,
+    skip: set | None = None,
+) -> list[tuple[Path, bool, str]]:
+    skip = set(skip or set())
     paths = []
     for i, s in enumerate(scenes):
         if config.kill_requested():
             raise RuntimeError("kill switch on")
-        p = fetch_scene(s["search"], cache_dir / f"scene_{i:02d}", vertical, scene_sec)
+        query = s["search"] + QUERY_SUFFIX[i % len(QUERY_SUFFIX)]
+        p = fetch_scene(query, cache_dir / f"scene_{i:02d}", vertical, scene_sec, skip)
+        if p[2]:
+            skip.add(p[2])
         paths.append(p)
     return paths

@@ -115,6 +115,101 @@ def fit_clip(src: Path, out: Path, seconds: float, w: int, h: int, fps: int) -> 
     return out
 
 
+FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+
+
+def wrap_title(text: str, width: int = 14, lines: int = 3) -> str:
+    words = text.upper().split()
+    out, cur = [], ""
+    for wd in words:
+        trial = f"{cur} {wd}".strip()
+        if len(trial) <= width or not cur:
+            cur = trial
+        else:
+            out.append(cur)
+            cur = wd
+        if len(out) == lines:
+            break
+    if cur and len(out) < lines:
+        out.append(cur)
+    return "\n".join(out[:lines])
+
+
+def overlay_title(clip: Path, text: str, w: int, show_sec: float = 3.0) -> Path:
+    txt = clip.parent / "title.txt"
+    txt.write_text(wrap_title(text), encoding="utf-8")
+    size = 100 if w <= 1080 else 116
+    base = (
+        f"drawtext=textfile='{txt.as_posix()}':"
+        f"fontsize={size}:fontcolor=white:borderw=2:bordercolor=black@0.8:"
+        f"x=(w-text_w)/2:y=(h-text_h)/2-140:line_spacing=14:"
+        f"enable='between(t,0,{show_sec})'"
+    )
+    tmp = clip.with_name("clip_00_titled.mp4")
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-i",
+        str(clip),
+        "-vf",
+        base,
+        "-c:v",
+        "libx264",
+        "-preset",
+        "veryfast",
+        "-crf",
+        "23",
+        "-an",
+        str(tmp),
+    ]
+    try:
+        _run(cmd, timeout=300)
+    except RuntimeError:
+        cmd[cmd.index("-vf") + 1] = base.replace(f"fontfile={FONT}:", "")
+        _run(cmd, timeout=300)
+    tmp.replace(clip)
+    return clip
+
+
+def overlay_title_font(clip: Path, text: str, w: int, show_sec: float = 3.0) -> Path:
+    txt = clip.parent / "title.txt"
+    if w <= 1080:
+        txt.write_text(wrap_title(text, width=16, lines=4), encoding="utf-8")
+        size = 100
+    else:
+        txt.write_text(wrap_title(text, width=22, lines=3), encoding="utf-8")
+        size = 116
+    vf = (
+        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:"
+        f"fontsize={size}:fontcolor=white:borderw=2:bordercolor=black@0.8:"
+        f"x=(w-text_w)/2:y=(h-text_h)/2-140:line_spacing=14:"
+        f"enable='between(t,0,{show_sec})'"
+    )
+    tmp = clip.with_name("clip_00_titled.mp4")
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-i",
+        str(clip),
+        "-vf",
+        vf,
+        "-c:v",
+        "libx264",
+        "-preset",
+        "veryfast",
+        "-crf",
+        "23",
+        "-an",
+        str(tmp),
+    ]
+    try:
+        _run(cmd, timeout=300)
+    except RuntimeError:
+        return overlay_title(clip, text, w, show_sec)
+    tmp.replace(clip)
+    return clip
+
+
 def concat_clips(clips: list[Path], out: Path) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     list_file = out.with_suffix(".txt")
@@ -139,93 +234,96 @@ def concat_clips(clips: list[Path], out: Path) -> Path:
     return out
 
 
-TITLE_SEC = 2.5
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+def _words_from_sentences(sentences: list, cap: float | None) -> list:
+    words = []
+    for s in sentences:
+        if cap is not None and s["start"] >= cap:
+            continue
+        end = min(s["end"], cap) if cap is not None else s["end"]
+        toks = [t for t in s["text"].split() if t]
+        total = sum(len(t) for t in toks) or 1
+        dur = max(end - s["start"], 0.2)
+        t = s["start"]
+        for tok in toks:
+            wd = dur * len(tok) / total
+            words.append({"w": tok, "start": t, "end": t + wd})
+            t += wd
+    return words
 
 
-def wrap_title(text: str, width: int = 16, lines: int = 3) -> str:
-    words = text.upper().split()
-    out, cur = [], ""
-    for wd in words:
-        trial = f"{cur} {wd}".strip()
-        if len(trial) <= width or not cur:
-            cur = trial
-        else:
-            out.append(cur)
-            cur = wd
-        if len(out) == lines:
-            break
-    if cur and len(out) < lines:
-        out.append(cur)
-    return "\n".join(out[:lines])
+def _ass_ts(sec: float) -> str:
+    ms = max(int(sec * 100), 0)
+    h, ms = divmod(ms, 360000)
+    m, ms = divmod(ms, 6000)
+    s, cs = divmod(ms, 100)
+    return f"{h}:{m:02d}:{s:02d}.{cs:02d}"
 
 
-def title_card(
-    bg: Path, bg_is_video: bool, text: str, out: Path, w: int, h: int, fps: int
+def _clean(w: str) -> str:
+    return w.replace("{", "").replace("}", "").strip()
+
+
+def build_karaoke(
+    sentences: list, path: Path, kind: str, cap: float | None = None
 ) -> Path:
-    out.parent.mkdir(parents=True, exist_ok=True)
-    work = out.parent
-    if bg_is_video:
-        frame = work / "title_bg.jpg"
-        _run(
-            ["ffmpeg", "-y", "-ss", "0", "-i", str(bg), "-frames:v", "1", str(frame)],
-            timeout=120,
-        )
-        bg = frame
-    txt = work / "title.txt"
-    txt.write_text(wrap_title(text), encoding="utf-8")
-    size = 96 if w <= 1080 else 110
-    vf = (
-        f"scale={w}:{h}:force_original_aspect_ratio=increase,"
-        f"crop={w}:{h},boxblur=6,"
-        f"drawbox=x=0:y=0:w=iw:h=ih:color=black@0.55:t=fill,"
-        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:"
-        f"fontsize={size}:fontcolor=white:borderw=2:bordercolor=black@0.8:"
-        f"x=(w-text_w)/2:y=(h-text_h)/2:line_spacing=12"
+    if kind == "short":
+        size, margin = 72, 600
+    else:
+        size, margin = 60, 140
+    words = _words_from_sentences(sentences, cap)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    header = (
+        "[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\n\n"
+        "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, "
+        "SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, "
+        "StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, "
+        "Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
+        f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
+        f"&H90000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,{margin},1\n\n"
+        "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, "
+        "MarginV, Effect, Text\n"
     )
-    cmd = [
-        "ffmpeg",
-        "-y",
-        "-loop",
-        "1",
-        "-i",
-        str(bg),
-        "-vf",
-        vf,
-        "-t",
-        f"{TITLE_SEC:.1f}",
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "23",
-        "-r",
-        str(fps),
-        "-an",
-        str(out),
-    ]
-    try:
-        _run(cmd, timeout=300)
-    except RuntimeError:
-        vf2 = (
-            f"scale={w}:{h}:force_original_aspect_ratio=increase,"
-            f"crop={w}:{h},boxblur=6,"
-            f"drawbox=x=0:y=0:w=iw:h=ih:color=black@0.55:t=fill,"
-            f"drawtext=textfile='{txt.as_posix()}':"
-            f"fontsize={size}:fontcolor=white:borderw=2:"
-            f"x=(w-text_w)/2:y=(h-text_h)/2:line_spacing=12"
+    lines = [header]
+    for i in range(0, len(words), 4):
+        chunk = words[i : i + 4]
+        tags = "".join(
+            "{\\k%d}%s " % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
+            for x in chunk
+        ).strip()
+        lines.append(
+            f"Dialogue: 0,{_ass_ts(chunk[0]['start'])},{_ass_ts(chunk[-1]['end'])},"
+            f"Karaoke,,0,0,0,,{tags}\n"
         )
-        cmd[cmd.index("-vf") + 1] = vf2
-        _run(cmd, timeout=300)
-    return out
+    path.write_text("".join(lines), encoding="utf-8")
+    return path
 
 
-def write_srt(
-    title: str, scenes: list, durations: list[float], path: Path
+def build_burst_srt(
+    sentences: list, path: Path, cap: float | None = None
 ) -> Path:
     def ts(sec: float) -> str:
-        ms = int(sec * 1000)
+        ms = max(int(sec * 1000), 0)
+        h, ms = divmod(ms, 3600000)
+        m, ms = divmod(ms, 60000)
+        s, ms = divmod(ms, 1000)
+        return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+    words = _words_from_sentences(sentences, cap)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    blocks = []
+    n = 1
+    for i in range(0, len(words), 4):
+        chunk = words[i : i + 4]
+        text = " ".join(_clean(x["w"]) for x in chunk)
+        blocks.append(f"{n}\n{ts(chunk[0]['start'])} --> {ts(chunk[-1]['end'])}\n{text}\n")
+        n += 1
+    path.write_text("\n".join(blocks), encoding="utf-8")
+    return path
+
+
+def write_srt(scenes: list, durations: list[float], path: Path) -> Path:
+    def ts(sec: float) -> str:
+        ms = max(int(sec * 1000), 0)
         h, ms = divmod(ms, 3600000)
         m, ms = divmod(ms, 60000)
         s, ms = divmod(ms, 1000)
@@ -235,18 +333,59 @@ def write_srt(
         c = (s.get("caption") or "").strip()
         if c:
             return c
-        words = (s.get("narration") or "").split()
-        return " ".join(words[:14])
+        return " ".join((s.get("narration") or "").split()[:14])
 
     path.parent.mkdir(parents=True, exist_ok=True)
-    blocks = [f"1\n{ts(0)} --> {ts(TITLE_SEC)}\n{title.strip()}\n"]
-    t = TITLE_SEC
+    t = 0.0
+    blocks = []
     for i, s in enumerate(scenes):
         d = durations[i] if i < len(durations) else 4.0
-        blocks.append(f"{i + 2}\n{ts(t)} --> {ts(t + d)}\n{caption(s)}\n")
+        blocks.append(f"{i + 1}\n{ts(t)} --> {ts(t + d)}\n{caption(s)}\n")
         t += d
     path.write_text("\n".join(blocks), encoding="utf-8")
     return path
+
+
+def mux_ass(
+    video: Path,
+    audio: Path,
+    ass: Path,
+    out: Path,
+    max_sec: float | None = None,
+) -> Path:
+    out.parent.mkdir(parents=True, exist_ok=True)
+    ass_esc = str(ass).replace(":", "\\:").replace("'", "")
+    vf = f"ass='{ass_esc}',format=yuv420p"
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-i",
+        str(video),
+        "-i",
+        str(audio),
+        "-map",
+        "0:v:0",
+        "-map",
+        "1:a:0",
+        "-vf",
+        vf,
+        "-c:v",
+        "libx264",
+        "-preset",
+        "veryfast",
+        "-crf",
+        "23",
+        "-c:a",
+        "aac",
+        "-b:a",
+        "160k",
+        "-shortest",
+    ]
+    if max_sec:
+        cmd += ["-t", f"{max_sec:.3f}"]
+    cmd.append(str(out))
+    _run(cmd, timeout=1800)
+    return out
 
 
 def mux_subs(
@@ -259,14 +398,14 @@ def mux_subs(
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     if kind == "short":
-        margin = 300
+        margin = 600
         size = 64
     else:
-        margin = 120
+        margin = 140
         size = 58
     style = (
         "FontName=DejaVu Sans,FontSize={sz},PrimaryColour=&HFFFFFF,"
-        "OutlineColour=&H90000000,BorderStyle=1,Outline=2,Shadow=0,"
+        "OutlineColour=&H90000000,BorderStyle=1,Outline=3,Shadow=0,"
         "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
     )
     srt_esc = str(srt).replace(":", "\\:").replace("'", "")
@@ -317,8 +456,9 @@ def verify_short(path: Path) -> dict:
 
 
 def assemble(
-    items: list[tuple[Path, bool]],
+    items: list[tuple[Path, bool, str]],
     audio: Path,
+    sentences: list,
     scenes: list,
     voice_dur: float,
     title: str,
@@ -343,12 +483,8 @@ def assemble(
     n = len(items)
     total = min(voice_dur, cap) if cap else voice_dur
     durs = [total / n] * n
-    first_path, first_is_vid = items[0]
-    card = title_card(
-        first_path, first_is_vid, title, workdir / "clip_title.mp4", w, h, fps
-    )
-    clips = [card]
-    for i, (path, is_video) in enumerate(items):
+    clips = []
+    for i, (path, is_video, _url) in enumerate(items):
         if config.kill_requested():
             raise RuntimeError("kill switch on")
         clip = workdir / f"clip_{i:02d}.mp4"
@@ -356,16 +492,25 @@ def assemble(
             fit_clip(path, clip, durs[i], w, h, fps)
         else:
             ken_burns(path, clip, durs[i], w, h, fps)
+        if i == 0:
+            overlay_title_font(clip, title, w)
         clips.append(clip)
     silent = workdir / "silent.mp4"
     concat_clips(clips, silent)
-    srt = write_srt(title, scenes, durs, workdir / "subs.srt")
+    if sentences:
+        subs = build_karaoke(sentences, workdir / "subs.ass", kind, cap)
+        cc = build_burst_srt(sentences, workdir / "cc.srt", cap)
+    else:
+        subs = None
+        cc = write_srt(scenes, durs, workdir / "cc.srt")
     final = workdir / "final.mp4"
-    hard_cap = (cap + TITLE_SEC) if cap else None
-    mux_subs(silent, audio, srt, final, kind, max_sec=hard_cap)
+    if subs is not None:
+        mux_ass(silent, audio, subs, final, max_sec=cap)
+    else:
+        mux_subs(silent, audio, cc, final, kind, max_sec=cap)
     for c in clips:
         c.unlink(missing_ok=True)
     silent.unlink(missing_ok=True)
     if kind == "short":
         verify_short(final)
-    return final, srt
+    return final, cc
