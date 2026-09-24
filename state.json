@@ -1,5 +1,195 @@
 [
   {
+    "id": "89a840bd82",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "The Star That Just Disappeared",
+    "idea": {
+      "title": "The Star That Just Disappeared",
+      "hook": "In 1952, a star vanished from the night sky in broad daylight. Minutes later, two more disappeared. We never found them.",
+      "beats": [
+        "Show archival 1950s telescope footage and blinking star maps.",
+        "Explain the Palomar Observatory Sky Survey anomaly where three stars vanished simultaneously.",
+        "Discuss the leading theories: experimental Dyson spheres, natural astronomical occlusions, or missing data.",
+        "Conclude with the unsettling reality that objects in deep space can simply vanish without a trace."
+      ],
+      "keywords": [
+        "telescope night sky",
+        "star field timelapse",
+        "vintage astronomy",
+        "deep space stars",
+        "galaxy cluster"
+      ],
+      "tags": [
+        "astronomy",
+        "space mystery",
+        "unsolved",
+        "universe",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Three massive stars vanished from our universe instantly.",
+        "search": "vintage astronomy 1950s telescope night sky archival photograph",
+        "caption": "Three stars vanished instantly."
+      },
+      {
+        "narration": "Modern astrophysicists still cannot find any trace of their radiation or remains.",
+        "search": "deep space stars galaxy cluster dark telescope view",
+        "caption": "No radiation remains today."
+      },
+      {
+        "narration": "This anomaly challenges our fundamental laws of physics and stellar evolution.",
+        "search": "star field timelapse cosmic background night sky",
+        "caption": "Physics cannot explain this."
+      },
+      {
+        "narration": "The mystery began at the Palomar Observatory in California.",
+        "search": "Palomar Observatory 1950s archival photograph dome",
+        "caption": "Palomar Observatory, California."
+      },
+      {
+        "narration": "On April 12, 1952, astronomers were conducting a routine photographic sky survey.",
+        "search": "1950s astronomer working vintage photograph",
+        "caption": "April 12, 1952."
+      },
+      {
+        "narration": "They were capturing a specific region of the sky containing a cluster of stars.",
+        "search": "vintage astronomical plate star cluster black and white",
+        "caption": "Mapping the deep sky."
+      },
+      {
+        "narration": "At 8:45 PM, a photographic plate clearly recorded a distinct trio of stars clustered together.",
+        "search": "archival photograph three stars blinking glass plate",
+        "caption": "Three stars clearly recorded."
+      },
+      {
+        "narration": "Just fifty minutes later, astronomers took a second exposure of the exact same coordinates.",
+        "search": "vintage observatory telescope aiming night sky",
+        "caption": "A second exposure taken."
+      },
+      {
+        "narration": "They carefully compared the two glass plates side-by-side to track celestial movement.",
+        "search": "astronomer examining glass plate negatives archive photo",
+        "caption": "Comparing the glass plates."
+      },
+      {
+        "narration": "To their shock, the three bright stars from the first plate had completely disappeared.",
+        "search": "blank star field black space vintage astronomy",
+        "caption": "The stars completely disappeared."
+      },
+      {
+        "narration": "No gradual fading was recorded; they simply ceased to exist in under an hour.",
+        "search": "star vanishing animation cosmic dust dark",
+        "caption": "Vanished in under an hour."
+      },
+      {
+        "narration": "Researchers immediately checked for flaws or contamination on the photographic emulsion.",
+        "search": "microscope view of vintage film emulsion archival",
+        "caption": "Checking for plate defects."
+      },
+      {
+        "narration": "The plates were flawless, ruling out dust, chemicals, or simple laboratory errors.",
+        "search": "clean glass photographic plate negative archive",
+        "caption": "No laboratory errors found."
+      },
+      {
+        "narration": "Some theorized a transient event like a primordial black hole or an alien Dyson sphere.",
+        "search": "dyson sphere concept art science fiction deep space",
+        "caption": "Was it a Dyson sphere?"
+      },
+      {
+        "narration": "Decades later, ultra-sensitive modern telescopes searched the same coordinates and found absolutely nothing.",
+        "search": "hubble telescope deep space view galaxy cluster",
+        "caption": "Modern telescopes find nothing."
+      },
+      {
+        "narration": "If they were stars, their sudden, simultaneous disappearance defies the known lifecycle of matter.",
+        "search": "supernova remnant fading deep space telescope",
+        "caption": "Defying the laws of matter."
+      },
+      {
+        "narration": "The 1952 Palomar anomaly remains proof that massive objects in deep space can simply vanish without a trace.",
+        "search": "dark empty night sky deep space stars",
+        "caption": "Vanished without a trace."
+      }
+    ],
+    "error": "",
+    "youtube_id": "m7s8x4ZOt0c",
+    "youtube_url": "https://www.youtube.com/watch?v=m7s8x4ZOt0c",
+    "created_at": "2026-09-24T12:36:34.157663+00:00",
+    "updated_at": "2026-09-24T12:39:58.421234+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T12:37:17.787258+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "890 chars",
+        "at": "2026-09-24T12:38:49.137754+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "58.8s 11 sentences",
+        "at": "2026-09-24T12:38:52.872260+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T12:38:54.228127+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-24T12:39:11.096386+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 55.0s 10730540 bytes",
+        "at": "2026-09-24T12:39:55.303078+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=m7s8x4ZOt0c",
+        "at": "2026-09-24T12:39:58.054642+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-24T12:39:58.414346+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T12:39:58.421226+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3099154/pexels-photo-3099154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28261062/pexels-photo-28261062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14585920/pexels-photo-14585920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39381716/pexels-photo-39381716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10272685/pexels-photo-10272685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34148349/pexels-photo-34148349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16130715/pexels-photo-16130715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39519100/pexels-photo-39519100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5370914/pexels-photo-5370914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15455314/pexels-photo-15455314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9665181/pexels-photo-9665181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16252223/pexels-photo-16252223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17375568/pexels-photo-17375568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11636365/pexels-photo-11636365.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34089496/pexels-photo-34089496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27986437/pexels-photo-27986437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32898295/pexels-photo-32898295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "83e3d09635",
     "kind": "short",
     "channel": "Channel2",
