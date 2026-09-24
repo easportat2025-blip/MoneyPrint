@@ -1,5 +1,194 @@
 [
   {
+    "id": "6a5589e10a",
+    "kind": "short",
+    "status": "done",
+    "title": "The Billions of Ghost Planets Wandering in Pitch Black",
+    "idea": {
+      "title": "The Billions of Ghost Planets Wandering in Pitch Black",
+      "hook": "Right now, billions of giant worlds are drifting through the freezing void of space—completely alone.",
+      "beats": [
+        "Unlike Earth, rogue planets have no sun and drift in permanent, absolute darkness.",
+        "They were violently ejected from their home star systems during chaotic early planetary formations.",
+        "Astronomers estimate there may actually be more rogue planets in our galaxy than there are stars.",
+        "Despite the freezing surface, some might host subterranean oceans kept warm by radioactive cores."
+      ],
+      "keywords": [
+        "rogue planet",
+        "deep space void",
+        "glowing gas giant",
+        "exoplanet animation",
+        "milky way galaxy"
+      ],
+      "tags": [
+        "space",
+        "astronomy",
+        "rogueplanets",
+        "universe",
+        "spacefacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Billions of giant worlds are hiding in total darkness.",
+        "search": "dark rogue planet drifting in deep space void",
+        "caption": "Billions of giant worlds hide in total darkness."
+      },
+      {
+        "narration": "These are rogue planets, cosmic orphans cut loose from any star.",
+        "search": "lonely exoplanet animation frozen atmosphere",
+        "caption": "Cosmic orphans cut loose from any star."
+      },
+      {
+        "narration": "Without a sun, they drift through the freezing void of space.",
+        "search": "deep space void stars background slow pan",
+        "caption": "Drifting forever through the freezing void."
+      },
+      {
+        "narration": "On their surfaces, there is no day, only permanent, absolute night.",
+        "search": "pitch black space planet silhouette",
+        "caption": "No daylight, only permanent absolute night."
+      },
+      {
+        "narration": "But how did these massive worlds end up so completely alone?",
+        "search": "glowing gas giant planet close up",
+        "caption": "How did they end up so alone?"
+      },
+      {
+        "narration": "Billions of years ago, they were born in normal solar systems.",
+        "search": "early solar system protoplanetary disk spinning",
+        "caption": "They were born in normal solar systems."
+      },
+      {
+        "narration": "Then, gravitational chaos erupted as giant planets fought for orbit.",
+        "search": "two planets colliding space explosion animation",
+        "caption": "Gravitational chaos shattered their orbits."
+      },
+      {
+        "narration": "In a violent cosmic eviction, they were slung out into the dark.",
+        "search": "planet flying out of solar system fast zoom",
+        "caption": "Violently ejected into the dark forever."
+      },
+      {
+        "narration": "For a long time, scientists thought these orphans were rare anomalies.",
+        "search": "astronomer looking through telescope space observatory",
+        "caption": "Scientists once thought they were rare."
+      },
+      {
+        "narration": "But new data reveals a terrifyingly crowded reality.",
+        "search": "milky way galaxy spiral spinning wide angle",
+        "caption": "A terrifyingly crowded reality awaits."
+      },
+      {
+        "narration": "Astronomers now estimate there are more rogue planets than stars.",
+        "search": "star field zoom out millions of stars",
+        "caption": "More rogue planets exist than stars."
+      },
+      {
+        "narration": "Trillions of invisible worlds are silently sailing through our galaxy.",
+        "search": "milky way galaxy nebula dust clouds dark",
+        "caption": "Trillions of invisible worlds sail silently."
+      },
+      {
+        "narration": "At minus four hundred degrees, you would expect them to be dead.",
+        "search": "frozen ice planet surface cracked ice",
+        "caption": "At freezing temperatures, they seem dead."
+      },
+      {
+        "narration": "Yet, deep beneath the frozen crust, a secret warmth survives.",
+        "search": "cross section planet core glowing hot",
+        "caption": "A secret warmth survives deep inside."
+      },
+      {
+        "narration": "Decaying radioactive elements keep their cores burning hot.",
+        "search": "glowing molten lava core planet interior",
+        "caption": "Radioactive cores generate intense heat."
+      },
+      {
+        "narration": "This heat melts the ice, creating massive, pitch-black subterranean oceans.",
+        "search": "underwater dark ocean deep sea hydrothermal vent",
+        "caption": "Massive dark oceans hide under ice."
+      },
+      {
+        "narration": "In the absolute dark, alien life might be swimming right now.",
+        "search": "glowing bioluminescent alien creature deep water",
+        "caption": "Alien life might be swimming in the dark."
+      }
+    ],
+    "error": "",
+    "youtube_id": "y4nI9S75cMQ",
+    "youtube_url": "https://www.youtube.com/watch?v=y4nI9S75cMQ",
+    "created_at": "2026-09-24T09:51:45.268658+00:00",
+    "updated_at": "2026-09-24T09:54:19.001473+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T09:52:40.814653+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "601 chars",
+        "at": "2026-09-24T09:53:20.458843+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "41.5s 9 sentences",
+        "at": "2026-09-24T09:53:23.531220+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T09:53:24.500903+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-24T09:53:36.978504+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 41.4s 17125447 bytes",
+        "at": "2026-09-24T09:54:15.953280+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=y4nI9S75cMQ",
+        "at": "2026-09-24T09:54:18.770610+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-24T09:54:18.992157+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T09:54:19.001466+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/37002377/15675874_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39431106/16791602_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/20349634/20349634-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/11415806/11415806-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8676943/8676943-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/14618955/14618955-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/39599449/16880023_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/20349276/20349276-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36376317/15427604_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/29644226/12754221_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30056318/12892192_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39266727/16707350_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36453319/15457804_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/4191937/4191937-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/19777570/19777570-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37665782/15967179_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/30358742/13012830_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "8567945231",
     "kind": "short",
     "status": "done",
