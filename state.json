@@ -1,5 +1,195 @@
 [
   {
+    "id": "c4484109d0",
+    "kind": "short",
+    "channel": "ReZain",
+    "status": "done",
+    "title": "Why Time Runs Faster in Space",
+    "idea": {
+      "title": "Why Time Runs Faster in Space",
+      "hook": "Did you know your phone relies on a bizarre quirk of Einstein's relativity to work?",
+      "beats": [
+        "Gravity actually warps time, making it run slower the closer you are to a massive object like Earth.",
+        "Because GPS satellites are far above Earth's strongest gravitational pull, their clocks run faster by 38 microseconds every single day.",
+        "If engineers didn't manually correct for this time difference, your Google Maps would drift by over 6 miles daily.",
+        "This means time travel is real, and satellite engineers have to deal with it constantly."
+      ],
+      "keywords": [
+        "GPS satellite",
+        "Einstein relativity",
+        "earth gravity",
+        "space time clock",
+        "space technology"
+      ],
+      "tags": [
+        "space",
+        "physics",
+        "science",
+        "einstein",
+        "rezain"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Your phone relies on real-life time travel.",
+        "search": "glowing smartphone screen dark room macro",
+        "caption": "Your phone relies on real-life time travel."
+      },
+      {
+        "narration": "Every time you use GPS, you connect to Einstein's wildest theory.",
+        "search": "digital world map network connection lines glowing",
+        "caption": "GPS connects directly to Einstein's relativity."
+      },
+      {
+        "narration": "It starts with gravity, which does something terrifying to time itself.",
+        "search": "spinning planet earth dark space cinematic",
+        "caption": "Gravity does something terrifying to time."
+      },
+      {
+        "narration": "Massive objects like Earth warp the very fabric of space-time.",
+        "search": "3d grid warping under heavy sphere animation",
+        "caption": "Earth warps the fabric of space-time."
+      },
+      {
+        "narration": "The closer you are to Earth's heavy core, the slower time ticks.",
+        "search": "ticking vintage clock gears close up slow motion",
+        "caption": "Time ticks slower closer to Earth's core."
+      },
+      {
+        "narration": "But as you move away from the planet, gravity's grip weakens.",
+        "search": "camera pulling back from earth into deep space",
+        "caption": "Gravity weakens as you leave Earth."
+      },
+      {
+        "narration": "High above the atmosphere, GPS satellites orbit in this weaker gravity.",
+        "search": "gps satellite orbiting earth space technology",
+        "caption": "Satellites orbit in much weaker gravity."
+      },
+      {
+        "narration": "Because gravity is weaker up there, their onboard clocks run faster.",
+        "search": "glowing atomic clock digital display numbers spinning",
+        "caption": "Satellite clocks run faster in orbit."
+      },
+      {
+        "narration": "They gain an extra thirty-eight microseconds every single day.",
+        "search": "digital timer counting microseconds rapidly macro",
+        "caption": "They gain 38 microseconds every single day."
+      },
+      {
+        "narration": "Thirty-eight microseconds seems tiny, but light travels incredibly fast.",
+        "search": "beam of light shooting through dark space laser",
+        "caption": "In space technology, microseconds are vital."
+      },
+      {
+        "narration": "If engineers didn't account for this, the consequences would be chaotic.",
+        "search": "glitch screen texture static distortion overlay",
+        "caption": "Ignoring this difference causes total chaos."
+      },
+      {
+        "narration": "Your phone's location tracking would immediately begin to drift.",
+        "search": "smartphone map navigation route glitching out",
+        "caption": "Your navigation would immediately drift."
+      },
+      {
+        "narration": "Within just one day, your map would be off by six miles.",
+        "search": "aerial view city streets grid zoom out high altitude",
+        "caption": "Maps would drift by six miles daily."
+      },
+      {
+        "narration": "Uber rides, food delivery, and military drones would become completely useless.",
+        "search": "empty city street traffic jam aerial dark moody",
+        "caption": "Global logistics would completely break down."
+      },
+      {
+        "narration": "To prevent this, engineers program satellite clocks to run slower before launch.",
+        "search": "engineers in clean room building satellite high tech",
+        "caption": "Engineers program space time clocks to run slower."
+      },
+      {
+        "narration": "They are actively correcting for real-world time travel.",
+        "search": "abstract wormhole tunnel travel dark blue light",
+        "caption": "They are correcting for real time travel."
+      },
+      {
+        "narration": "Without Einstein's relativity, our modern connected world would instantly collapse.",
+        "search": "earth night lights network connections fading out",
+        "caption": "Without relativity, our modern world collapses."
+      }
+    ],
+    "error": "",
+    "youtube_id": "mHE7cvPZ8z0",
+    "youtube_url": "https://www.youtube.com/watch?v=mHE7cvPZ8z0",
+    "created_at": "2026-09-24T22:01:28.214739+00:00",
+    "updated_at": "2026-09-24T22:03:57.425984+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T22:02:21.081547+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "462 chars",
+        "at": "2026-09-24T22:02:59.061336+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.1s 6 sentences",
+        "at": "2026-09-24T22:03:02.533067+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T22:03:03.219232+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-24T22:03:21.438624+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.9s 17278354 bytes",
+        "at": "2026-09-24T22:03:52.826023+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=mHE7cvPZ8z0",
+        "at": "2026-09-24T22:03:57.167213+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-24T22:03:57.409644+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T22:03:57.425976+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7986754/7986754-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/39636074/16896578_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/20349219/20349219-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863503/15863503-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8321905/8321905-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/36991057/15670108_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38690857/16435289_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7034348/7034348-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6266433/6266433-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/39482787/16818122_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6955103/6955103-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7431692/7431692-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/35036432/14841798_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/35530181/15052366_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28846366/12493702_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39089494/16633748_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36378073/15428071_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "5c93c48739",
     "kind": "short",
     "channel": "ReZain",
