@@ -5,15 +5,16 @@ import config
 
 
 IDEA_PROMPT = """You are the content strategist for a faceless English YouTube channel
-about {niche} (brand: ReZain).
+about {niche} (brand: {brand}).
 
 Generate {n} short-form (<55 seconds, vertical) video ideas that are curiosity-driven,
-fact-based, and suitable for stock footage / public-domain space imagery.
+fact-based, and suitable for {imagery}.
 
 Requirements:
 - Titles under 70 characters, high CTR, no clickbait lies
 - Each idea: hook, 3-5 key beats, 5 search keywords for stock sites
 - Skip ideas already used: {used}
+{exclude}
 - Return JSON array: [{{"title","hook","beats":[..],"keywords":[..],"tags":[..]}}]
 """
 
@@ -21,7 +22,21 @@ Requirements:
 def generate_ideas(n: int = 5) -> list:
     client = gemini_client.GeminiClient()
     used = ", ".join(sorted(state.used_titles())) or "none"
-    prompt = IDEA_PROMPT.format(niche=config.NICHE, n=n, used=used)
+    history = "history" in config.NICHE.lower()
+    if history:
+        imagery = "public-domain paintings, engravings, portraits, busts, old maps, archival photos"
+        exclude = "- FORBIDDEN topics: space, astronomy, planets, stars, physics, cosmic events. HUMAN history only."
+    else:
+        imagery = "stock footage / public-domain space imagery"
+        exclude = ""
+    prompt = IDEA_PROMPT.format(
+        niche=config.NICHE,
+        brand=config.CHANNEL_NAME,
+        n=n,
+        used=used,
+        imagery=imagery,
+        exclude=exclude,
+    )
     ideas = client.generate_json(prompt, temperature=0.9)
     if isinstance(ideas, dict):
         ideas = ideas.get("ideas", [ideas])

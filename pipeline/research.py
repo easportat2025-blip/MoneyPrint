@@ -28,6 +28,9 @@ Return JSON: {{"scenes":[{{"narration","search","caption"}}]}}
 
 
 HISTORY_RULES = """HISTORY MODE (strict):
+- STRICTLY HUMAN history: empires, wars, rulers, figures, civilizations,
+  artifacts, historical events. NEVER astronomy, space, planets, stars,
+  physics, or cosmic topics (even "historical" ones like old supernovae).
 - Arc: CONSEQUENCE (why it still matters) -> CONTEXT (place, date) ->
   DECISION (the pivotal action) -> RESULT -> LEGACY (return to opening).
 - search queries must match the ERA honestly: oil painting / engraving /
