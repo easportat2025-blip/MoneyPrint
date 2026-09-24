@@ -222,7 +222,9 @@ Trang thai live (dang chay buoc nao) hien o banner xanh tren cung, tu cap nhat m
 <div class="panel" id="p-accounts">
 <div class="toolbar">
 <button class="go" onclick="window.open('/login?slot=1','_blank')">Dang nhap Google acc 1</button>
+<span class="note">dung mail: <b>{{ acc1_email }}</b></span>
 <button class="go" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
+<span class="note">dung mail: <b>{{ acc2_email }}</b></span>
 <button onclick="window.open('/gcp','_blank')">Tao Client ID (Google Cloud)</button>
 <button onclick="goAcc()">Check lai login</button>
 <span class="note">nut dang nhap mo trang Google, Allow xong token tu ghi vao .env</span><span id="msgAcc"></span>
@@ -506,6 +508,8 @@ def index():
     total = len(records)
     rate = round(100 * len(done) / total) if total else 0
     tok, _ = _gh()
+    acc1_email = os.environ.get("ACCOUNT_1_EMAIL", "").strip() or "mail chu kenh 1"
+    acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
     ch_names = sorted({r.get("channel") or "?" for r in records})
     if not ch_names:
         ch_names = [config.CHANNEL_1_NAME, config.CHANNEL_2_NAME]
@@ -532,6 +536,8 @@ def index():
         ch_names=ch_names,
         accs=accs,
         amap=amap,
+        acc1_email=acc1_email,
+        acc2_email=acc2_email,
         bars=_bars(records),
         streak=_streak(records),
         ch=channel_stats(),
@@ -643,6 +649,35 @@ def login():
         )
     rnd = pysecrets.token_urlsafe(16)
     _oauth_states[rnd] = slot
+    url = "https://accounts.google.com/o/oauth2/v2/auth?" + urllib.parse.urlencode(
+        {
+            "client_id": cid,
+            "redirect_uri": OAUTH_REDIRECT,
+            "response_type": "code",
+            "scope": OAUTH_SCOPES,
+            "access_type": "offline",
+            "prompt": "consent",
+            "state": f"{slot}.{rnd}",
+        }
+    )
+    want = os.environ.get(f"ACCOUNT_{slot}_EMAIL", "").strip()
+    want_html = f"<b style='color:green'>{want}</b>" if want else "(mail chu kenh)"
+    go = f"/login/go?st={rnd}"
+    return (
+        f"<h3>Dang nhap Google – acc {slot}</h3>"
+        f"<p>Buoc toi Google se hoi chon tai khoan. <b>BAT BUOC chon dung mail:</b><br>{want_html}</p>"
+        f"<p>Chon sai mail = loi 403 access_denied.</p>"
+        f"<p><a href='{go}'><button style='padding:10px 24px;font-size:15px'>Tiep tuc sang Google</button></a></p>"
+    )
+
+
+@app.route("/login/go")
+def login_go():
+    rnd = request.args.get("st", "")
+    slot = _oauth_states.get(rnd)
+    if slot is None:
+        return "<h3>Phien het han</h3><p>Dong tab, bam Dang nhap lai.</p>", 400
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "").strip()
     url = "https://accounts.google.com/o/oauth2/v2/auth?" + urllib.parse.urlencode(
         {
             "client_id": cid,
