@@ -28,11 +28,12 @@ python scripts/get_refresh_token.py
 ## Local commands
 
 ```bash
-python main.py short        # one <60s vertical video full pipeline
-python main.py long         # one >5min horizontal video
+python main.py short        # one <60s vertical Short (video clips + burned subs)
+python main.py long         # one >5min video
 python main.py plan         # only generate idea bank
 python main.py dashboard    # local log dashboard (port 5050)
 python main.py retry VIDEO_ID
+python main.py delete YT_VIDEO_ID   # delete a YouTube upload
 ```
 
 ## Automation

@@ -122,11 +122,64 @@ def from_nasa(query: str, dest: Path) -> Path | None:
         return None
 
 
-def fetch_scene(query: str, scene_dir: Path, vertical: bool) -> Path:
+def from_pexels_video(
+    query: str, vertical: bool, dest: Path, need_sec: float
+) -> Path | None:
+    if not config.PEXELS_API_KEY:
+        return None
+    orientation = "portrait" if vertical else "landscape"
+    try:
+        r = requests.get(
+            "https://api.pexels.com/videos/search",
+            headers={"Authorization": config.PEXELS_API_KEY},
+            params={"query": query, "orientation": orientation, "per_page": 5},
+            timeout=20,
+        )
+        if r.status_code != 200:
+            return None
+        videos = r.json().get("videos", [])
+        best = None
+        for v in videos:
+            try:
+                dur = float(v.get("duration", 0))
+            except (TypeError, ValueError):
+                dur = 0
+            if dur < max(need_sec * 0.5, 1.5):
+                continue
+            for f in v.get("video_files", []):
+                link = f.get("link", "")
+                w = f.get("width", 0) or 0
+                if not link or "mp4" not in str(f.get("file_type", "mp4")):
+                    continue
+                if vertical and w < 600:
+                    continue
+                if best is None or w < best[1]:
+                    best = (link, w)
+            if best:
+                break
+        if not best:
+            return None
+        return _download(best[0], dest.with_suffix(".mp4"))
+    except (requests.RequestException, ValueError, KeyError):
+        return None
+
+
+def fetch_scene(
+    query: str, scene_dir: Path, vertical: bool, need_sec: float = 4.0
+) -> tuple[Path, bool]:
     slug = _slug(query)
+    vid_dest = scene_dir / f"{slug}.mp4"
+    if vid_dest.exists() and vid_dest.stat().st_size > 20000:
+        return vid_dest, True
     dest = scene_dir / f"{slug}.jpg"
     if dest.exists() and dest.stat().st_size > 5000:
-        return dest
+        return dest, False
+    try:
+        got_vid = from_pexels_video(query, vertical, vid_dest, need_sec)
+    except Exception:
+        got_vid = None
+    if got_vid:
+        return got_vid, True
     for source in (from_pexels, from_nasa, from_pixabay):
         try:
             if source is from_pexels:
@@ -136,11 +189,11 @@ def fetch_scene(query: str, scene_dir: Path, vertical: bool) -> Path:
         except Exception:
             got = None
         if got:
-            return got
+            return got, False
     placeholder = scene_dir / f"fallback_{slug}.jpg"
     if not placeholder.exists():
         _make_fallback(placeholder, query)
-    return placeholder
+    return placeholder, False
 
 
 def _make_fallback(dest: Path, label: str) -> None:
@@ -166,11 +219,13 @@ def _make_fallback(dest: Path, label: str) -> None:
         raise RuntimeError("fallback frame failed (is ffmpeg installed?)")
 
 
-def fetch_all(scenes: list, cache_dir: Path, vertical: bool) -> list[Path]:
+def fetch_all(
+    scenes: list, cache_dir: Path, vertical: bool, scene_sec: float = 4.0
+) -> list[tuple[Path, bool]]:
     paths = []
     for i, s in enumerate(scenes):
         if config.kill_requested():
             raise RuntimeError("kill switch on")
-        p = fetch_scene(s["search"], cache_dir / f"scene_{i:02d}", vertical)
+        p = fetch_scene(s["search"], cache_dir / f"scene_{i:02d}", vertical, scene_sec)
         paths.append(p)
     return paths

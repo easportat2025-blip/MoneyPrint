@@ -36,7 +36,9 @@ def upload(
     category = "28"
     if kind == "short":
         tags = list({*(tags or []), "shorts", "space", "science"})
-        title = title[:95]
+        title = title[:90]
+        if "#Shorts" not in title and not description.startswith("#Shorts"):
+            description = "#Shorts " + description
     body = {
         "snippet": {
             "title": title,
@@ -95,6 +97,19 @@ def upload(
             offset = end + 1
             time.sleep(0.3)
     raise RuntimeError("upload ended without final response")
+
+
+def delete_video(video_id: str) -> bool:
+    token = get_access_token()
+    r = requests.delete(
+        STATUS_URL,
+        params={"id": video_id},
+        headers={"Authorization": f"Bearer {token}"},
+        timeout=30,
+    )
+    if r.status_code in (200, 204):
+        return True
+    raise RuntimeError(f"delete failed: {r.status_code} {r.text[:300]}")
 
 
 def _finalize(token: str, result: dict) -> dict:

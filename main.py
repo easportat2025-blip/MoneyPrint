@@ -57,6 +57,17 @@ def cmd_retry(args):
         sys.exit(1)
 
 
+def cmd_delete(args):
+    from pipeline import upload as upload_mod
+
+    try:
+        upload_mod.delete_video(args.id)
+        print(f"deleted {args.id}")
+    except Exception as e:
+        print(f"delete failed: {e}", file=sys.stderr)
+        sys.exit(1)
+
+
 def cmd_status(_args):
     print(json.dumps(state.load(), indent=2, ensure_ascii=False))
 
@@ -88,6 +99,10 @@ def main():
     rp = sub.add_parser("retry", help="rerun pipeline fresh for a failed id")
     rp.add_argument("id")
     rp.set_defaults(fn=cmd_retry)
+
+    dp = sub.add_parser("delete", help="delete a YouTube video by id")
+    dp.add_argument("id")
+    dp.set_defaults(fn=cmd_delete)
 
     args = p.parse_args()
     args.fn(args)

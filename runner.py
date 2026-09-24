@@ -65,12 +65,26 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="fetching_media")
         vertical = kind == "short"
-        images = media_mod.fetch_all(scenes, workdir / "media", vertical)
-        state.stage(rec_id, "media", True, f"{len(images)} images")
+        items = media_mod.fetch_all(
+            scenes, workdir / "media", vertical, scene_sec
+        )
+        n_vid = sum(1 for _, is_v in items if is_v)
+        state.stage(
+            rec_id, "media", True, f"{n_vid} video clips + {len(items) - n_vid} images"
+        )
 
         state.update(rec_id, status="rendering")
-        final = assemble_mod.assemble(images, audio_path, workdir / "render", kind)
-        state.stage(rec_id, "render", True, f"{final.stat().st_size} bytes")
+        final = assemble_mod.assemble(
+            items, audio_path, scenes, audio_dur, workdir / "render", kind
+        )
+        info = assemble_mod.probe(final)
+        state.stage(
+            rec_id,
+            "render",
+            True,
+            f"{info['width']}x{info['height']} {info['duration']:.1f}s "
+            f"{final.stat().st_size} bytes",
+        )
 
         state.update(rec_id, status="uploading")
         tags = idea.get("tags") or ["space", "science"]
