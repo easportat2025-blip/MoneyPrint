@@ -526,8 +526,6 @@ def assemble(
             fit_clip(path, clip, durs[i], w, h, fps, extra)
         else:
             ken_burns(path, clip, durs[i], w, h, fps, extra)
-        if i == 0:
-            overlay_title_font(clip, title, w)
         clips.append(clip)
     silent = workdir / "silent.mp4"
     concat_clips(clips, silent)
