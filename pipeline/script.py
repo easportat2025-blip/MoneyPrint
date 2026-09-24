@@ -11,14 +11,15 @@ Rules:
 - Spoken style, present tense, concrete imagery, no "hey guys"
 - No scene numbers, no stage directions, no emojis
 - Smooth transitions between scenes
-- Total length should match the draft narrations roughly (do not double length)
+- STRICT LENGTH: total voiceover MUST be under {target_chars} characters
+  (count roughly, shorter is fine, longer is NOT allowed)
 
 Return JSON: {{"description":"YouTube description 2-4 sentences with 3 hashtags",
 "voiceover":"full continuous script"}}
 """
 
 
-def build(idea: dict, scenes: list) -> dict:
+def build(idea: dict, scenes: list, target_chars: int = 750) -> dict:
     drafts = []
     for i, s in enumerate(scenes, 1):
         drafts.append(f"{i}. {s['narration']}")
@@ -26,6 +27,7 @@ def build(idea: dict, scenes: list) -> dict:
     prompt = SCRIPT_PROMPT.format(
         title=idea.get("title", ""),
         scenes="\n".join(drafts),
+        target_chars=target_chars,
     )
     data = client.generate_json(prompt, temperature=0.5)
     voiceover = (data.get("voiceover") or "").strip()

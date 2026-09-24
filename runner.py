@@ -7,6 +7,7 @@ from pipeline import script as script_mod
 from pipeline import tts as tts_mod
 from pipeline import media as media_mod
 from pipeline import assemble as assemble_mod
+from pipeline import music as music_mod
 from pipeline import upload as upload_mod
 from pipeline import cleanup as cleanup_mod
 
@@ -41,14 +42,22 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, scenes=scenes)
 
         state.update(rec_id, status="scripting")
-        script = script_mod.build(idea, scenes)
-        state.stage(rec_id, "script", True)
+        target_chars = 750 if kind == "short" else 5800
+        script = script_mod.build(idea, scenes, target_chars)
+        state.stage(
+            rec_id, "script", True, f"{len(script['voiceover'])} chars"
+        )
 
         state.update(rec_id, status="tts")
         audio_path = workdir / "voice.mp3"
         tts_mod.synthesize(script["voiceover"], audio_path)
         audio_dur = tts_mod.duration(audio_path)
         state.stage(rec_id, "tts", True, f"{audio_dur:.1f}s")
+
+        state.update(rec_id, status="mixing_music")
+        mixed_path = workdir / "mixed.m4a"
+        _, credit = music_mod.mix(audio_path, mixed_path, seed=rec_id)
+        state.stage(rec_id, "music", True, credit or "voice only")
 
         target = duration if kind == "short" else max(duration, int(audio_dur) + 10)
         n_scenes = max(len(scenes), int(target / scene_sec) + 1)
@@ -74,8 +83,9 @@ def run_one(kind: str = "short") -> dict:
         )
 
         state.update(rec_id, status="rendering")
-        final = assemble_mod.assemble(
-            items, audio_path, scenes, audio_dur, workdir / "render", kind
+        title_text = idea.get("title", "ReZain")
+        final, srt_path = assemble_mod.assemble(
+            items, mixed_path, scenes, audio_dur, title_text, workdir / "render", kind
         )
         info = assemble_mod.probe(final)
         state.stage(
@@ -88,10 +98,13 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="uploading")
         tags = idea.get("tags") or ["space", "science"]
+        description = script["description"]
+        if credit:
+            description += f"\n\nMusic: {credit}"
         result = upload_mod.upload(
             final,
             idea.get("title", "ReZain"),
-            script["description"],
+            description,
             tags,
             kind,
         )
@@ -103,6 +116,12 @@ def run_one(kind: str = "short") -> dict:
             title=result.get("title") or idea.get("title", ""),
         )
         state.stage(rec_id, "upload", True, result["youtube_url"])
+
+        try:
+            cap_id = upload_mod.upload_captions(result["youtube_id"], srt_path)
+            state.stage(rec_id, "captions", True, cap_id)
+        except Exception as e:
+            state.stage(rec_id, "captions", False, str(e)[:200])
 
         state.update(rec_id, status="cleaning")
         cleanup_mod.job_workdir(workdir)

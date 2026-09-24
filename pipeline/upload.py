@@ -99,6 +99,53 @@ def upload(
     raise RuntimeError("upload ended without final response")
 
 
+CAPTION_URL = "https://www.googleapis.com/upload/youtube/v3/captions"
+
+
+def upload_captions(
+    video_id: str, srt_path: Path, language: str = "en", name: str = "English"
+) -> str:
+    token = get_access_token()
+    body = {
+        "snippet": {
+            "videoId": video_id,
+            "language": language,
+            "name": name,
+            "isDraft": False,
+        }
+    }
+    data = srt_path.read_bytes()
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json; charset=UTF-8",
+        "X-Upload-Content-Length": str(len(data)),
+        "X-Upload-Content-Type": "text/plain",
+    }
+    init = requests.post(
+        CAPTION_URL,
+        params={"uploadType": "resumable", "part": "snippet"},
+        headers=headers,
+        data=json.dumps(body).encode("utf-8"),
+        timeout=60,
+    )
+    if init.status_code not in (200, 201):
+        raise RuntimeError(
+            f"caption init failed: {init.status_code} {init.text[:300]}"
+        )
+    location = init.headers.get("Location")
+    if not location:
+        raise RuntimeError("no caption upload Location")
+    r = requests.put(
+        location,
+        headers={"Content-Length": str(len(data))},
+        data=data,
+        timeout=120,
+    )
+    if r.status_code not in (200, 201):
+        raise RuntimeError(f"caption put failed: {r.status_code} {r.text[:300]}")
+    return r.json().get("id", "")
+
+
 def delete_video(video_id: str) -> bool:
     token = get_access_token()
     r = requests.delete(
