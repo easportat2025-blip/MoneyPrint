@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "f723e7199d",
+    "kind": "short",
+    "status": "done",
+    "title": "What Happens If You Fall Into A Black Hole?",
+    "idea": {
+      "title": "What Happens If You Fall Into A Black Hole?",
+      "hook": "If you fell into a black hole, you would experience something terrifying called spaghettification.",
+      "beats": [
+        "As you cross the event horizon, gravity at your feet is vastly stronger than at your head.",
+        "Your body is stretched into a microscopic stream of atoms, longer than a strand of spaghetti.",
+        "From an outside observer's perspective, time slows down and you appear to freeze in place forever.",
+        "Inside, the laws of physics break down entirely at the infinitely dense center known as the singularity."
+      ],
+      "keywords": [
+        "black hole",
+        "space warp",
+        "event horizon",
+        "galaxy collision",
+        "cosmic gravity"
+      ],
+      "tags": [
+        "ReZain",
+        "SpaceFacts",
+        "BlackHole",
+        "Astronomy",
+        "Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "If you fell into a black hole, you would experience a lethal cosmic process known as spaghettification.",
+        "search": "massive black hole accretion disk deep space",
+        "caption": "Falling into a black hole triggers a process called spaghettification."
+      },
+      {
+        "narration": "As you drift toward the dark void, its immense gravitational field begins warping the surrounding starlight.",
+        "search": "gravitational lensing distorted stars black hole",
+        "caption": "Cosmic gravity bends and warps surrounding starlight."
+      },
+      {
+        "narration": "You quickly approach the event horizon, the cosmic boundary where escape velocity exceeds the speed of light.",
+        "search": "event horizon black hole glowing ring space",
+        "caption": "The event horizon marks the cosmic point of no return."
+      },
+      {
+        "narration": "As your feet cross the threshold first, gravitational pull on your lower body vastly exceeds the pull on your head.",
+        "search": "astronaut floating deep space Earth orbit",
+        "caption": "Gravitational forces pull your feet much harder than your head."
+      },
+      {
+        "narration": "This extreme difference in gravitational acceleration exerts vertical tension while squeezing your sides inward.",
+        "search": "abstract gravitational wave grid warping physics",
+        "caption": "Extreme tidal forces stretch you vertically while compressing you horizontally."
+      },
+      {
+        "narration": "Your bones, tissue, and cells are stretched beyond their physical limits, elongating your body into a thin strand.",
+        "search": "abstract glowing energy beam stretching dark void",
+        "caption": "Your body stretches into an impossibly thin filament of matter."
+      },
+      {
+        "narration": "Eventually, molecular bonds fail entirely, reducing you to a microscopic stream of subatomic particles.",
+        "search": "particle accelerator subatomic collision stream glowing",
+        "caption": "Molecular bonds shatter into a microscopic stream of atoms."
+      },
+      {
+        "narration": "Strangely, an observer watching from a safe distance would witness a completely different reality.",
+        "search": "astronomer looking through large observatory telescope",
+        "caption": "Outside observers witness a completely different chain of events."
+      },
+      {
+        "narration": "Due to extreme relativistic time dilation, your descent appears to slow down dramatically as you near the horizon.",
+        "search": "clock face warped space relativity time concept",
+        "caption": "Extreme time dilation causes your descent to appear slower."
+      },
+      {
+        "narration": "To the observer, you appear to freeze in place forever, gradually fading as your light redshifts into darkness.",
+        "search": "red light spectrum wavelength fading into black",
+        "caption": "You appear frozen at the threshold, slowly fading into darkness."
+      },
+      {
+        "narration": "From your own perspective, however, you plunge inward through the horizon in a matter of seconds.",
+        "search": "falling into dark tunnel vortex wormhole space",
+        "caption": "From your perspective, you plunge straight toward the core."
+      },
+      {
+        "narration": "At the center lies the gravitational singularity, where massive stellar material is crushed into zero volume.",
+        "search": "blinding bright singularity core dark space",
+        "caption": "The singularity concentrates infinite mass into zero physical volume."
+      },
+      {
+        "narration": "Here, density becomes infinite, spacetime terminates, and the fundamental laws of physics cease to function.",
+        "search": "cosmic galaxy collision exploding stars universe void",
+        "caption": "At the singularity, space, time, and known physics completely collapse."
+      }
+    ],
+    "error": "",
+    "youtube_id": "8OhapqRF9GE",
+    "youtube_url": "https://www.youtube.com/watch?v=8OhapqRF9GE",
+    "created_at": "2026-09-24T04:57:52.602263+00:00",
+    "updated_at": "2026-09-24T05:00:50.132262+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-09-24T04:58:17.781686+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T04:59:10.521913+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "95.2s",
+        "at": "2026-09-24T04:59:21.190711+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-09-24T04:59:34.270965+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 58.0s 41451170 bytes",
+        "at": "2026-09-24T05:00:44.962965+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=8OhapqRF9GE",
+        "at": "2026-09-24T05:00:50.123326+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T05:00:50.132255+00:00"
+      }
+    }
+  }
+]
