@@ -2,9 +2,10 @@ name: shorts
 
 on:
   schedule:
-    - cron: "0 14 * * *"
     - cron: "0 16 * * *"
-    - cron: "0 18 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 22 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
     inputs:
       count:

@@ -22,10 +22,11 @@ except ImportError:
 app = Flask(__name__)
 
 CRONS = [
-    {"job": "Short #1", "utc": "14:00", "vn": "21:00", "wf": "shorts.yml"},
-    {"job": "Short #2", "utc": "16:00", "vn": "23:00", "wf": "shorts.yml"},
-    {"job": "Short #3", "utc": "18:00", "vn": "01:00+1", "wf": "shorts.yml"},
-    {"job": "Long video", "utc": "15:00 /5 ngay", "vn": "22:00 /5 ngay", "wf": "long.yml"},
+    {"job": "Short #1", "utc": "16:00", "vn": "23:00 VN / 12:00 ET / 17:00 UK", "wf": "shorts.yml"},
+    {"job": "Short #2", "utc": "19:00", "vn": "02:00 VN / 15:00 ET / 20:00 UK", "wf": "shorts.yml"},
+    {"job": "Short #3", "utc": "22:00", "vn": "05:00 VN / 18:00 ET / 23:00 UK", "wf": "shorts.yml"},
+    {"job": "Short #4", "utc": "01:00", "vn": "08:00 VN / 21:00 ET / 02:00 UK", "wf": "shorts.yml"},
+    {"job": "Long video", "utc": "15:00 /5 ngay", "vn": "22:00 VN /5 ngay", "wf": "long.yml"},
 ]
 
 PAGE = """<!doctype html>
@@ -145,10 +146,10 @@ h2{color:#7ee787;font-size:15px;margin:20px 0 8px}
 
 <div class="panel" id="p-missions">
 <h2>Nhiem vu hom nay ({{ today }})</h2>
-<div class="mission {{ 'done' if m.shorts_done>=3 else '' }}">
-<h3>3 Shorts/ngay: {{ m.shorts_done }}/3</h3>
-<div class="prog"><div class="{{ '' if m.shorts_done>=3 else 'low' }}" style="width:{{ (100*m.shorts_done//3) if m.shorts_done<3 else 100 }}%">{{ m.shorts_done }}/3</div></div>
-<div class="note">{% for t in m.shorts_today %}&#10003; {{ t }}<br>{% endfor %}{% if m.shorts_done<3 %}Con thieu {{ 3-m.shorts_done }} video - cron tu chay 21:00 / 23:00 / 01:00 (VN).{% else %}Xong ngay hom nay.{% endif %}</div>
+<div class="mission {{ 'done' if m.shorts_done>=4 else '' }}">
+<h3>4 Shorts/ngay: {{ m.shorts_done }}/4</h3>
+<div class="prog"><div class="{{ '' if m.shorts_done>=4 else 'low' }}" style="width:{{ (100*m.shorts_done//4) if m.shorts_done<4 else 100 }}%">{{ m.shorts_done }}/4</div></div>
+<div class="note">{% for t in m.shorts_today %}&#10003; {{ t }}<br>{% endfor %}{% if m.shorts_done<4 %}Con thieu {{ 4-m.shorts_done }} video - cron 12/15/18/21h ET (23/02/05/08h VN).{% else %}Xong ngay hom nay.{% endif %}</div>
 </div>
 <div class="mission {{ 'done' if not m.long_due else '' }}">
 <h3>Long video /5 ngay: {{ m.long_status }}</h3>
