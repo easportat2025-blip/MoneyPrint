@@ -6,6 +6,7 @@ venv/
 state.db
 state.json
 state_from_logs.json
+channel_cache.json
 KILL
 cache/
 output/
