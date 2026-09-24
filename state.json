@@ -1,5 +1,185 @@
 [
   {
+    "id": "83e3d09635",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "failed",
+    "title": "The Cosmic Void Where Nothing Exists",
+    "idea": {
+      "title": "The Cosmic Void Where Nothing Exists",
+      "hook": "Right now, your telescope is staring at a hole in space 250 million light-years wide where absolutely nothing should be.",
+      "beats": [
+        "Introduce the Boötes Void, a massive spherical region of space containing almost no galaxies.",
+        "Explain the statistical impossibility: it should hold roughly 2,000 galaxies, but we only found 60.",
+        "Discuss the terrifying implications for our understanding of cosmic evolution and large-scale structure.",
+        "Conclude with the current theories on how this giant bubble of nothingness formed."
+      ],
+      "keywords": [
+        "deep space",
+        "galaxy cluster",
+        "cosmic web",
+        "astronomy",
+        "universe void"
+      ],
+      "tags": [
+        "space",
+        "astronomy",
+        "universe",
+        "science",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A 250-million-light-year hole in space shouldn't exist.",
+        "search": "deep space cosmic web hubble telescope photo",
+        "caption": "A massive hole in space shouldn't exist."
+      },
+      {
+        "narration": "This is the Boötes Void, a terrifying expanse of nothingness that threatens to break our entire understanding of cosmic evolution.",
+        "search": "deep space bootes void dark empty universe photo",
+        "caption": "The Boötes Void threatens our understanding of physics."
+      },
+      {
+        "narration": "If the Milky Way were in its center, we wouldn't have known other galaxies existed until the 1960s.",
+        "search": "milky way galaxy lonely in dark space illustration",
+        "caption": "We would be completely isolated in the dark."
+      },
+      {
+        "narration": "The mystery began in Tucson, Arizona, at the Kitt Peak National Observatory in 1981.",
+        "search": "kitt peak national observatory 1980s archival photograph",
+        "caption": "Kitt Peak National Observatory, Arizona, 1981."
+      },
+      {
+        "narration": "Astronomer Robert Kirshner and his team set out to map the large-scale structure of the universe.",
+        "search": "astronomer robert kirshner archival photograph",
+        "caption": "Astronomer Robert Kirshner mapped the deep universe."
+      },
+      {
+        "narration": "They pointed their telescope toward the constellation Boötes to measure the redshift of distant galaxies.",
+        "search": "bootes constellation star map vintage illustration",
+        "caption": "They targeted the constellation Boötes."
+      },
+      {
+        "narration": "By measuring how light stretched across millions of light-years, they plotted a three-dimensional map of the cosmos.",
+        "search": "galaxy redshift spectrum diagram illustration",
+        "caption": "Mapping the cosmos using galaxy redshift."
+      },
+      {
+        "narration": "Instead of a uniform cosmic web of matter, their data revealed a staggering, empty abyss.",
+        "search": "massive dark void in cosmic web illustration",
+        "caption": "Their data revealed a staggering, empty abyss."
+      },
+      {
+        "narration": "Standard cosmological models dictated this region of space should contain at least two thousand galaxies.",
+        "search": "dense galaxy cluster deep space hubble photo",
+        "caption": "This region should hold two thousand galaxies."
+      },
+      {
+        "narration": "Instead, the team discovered a mere sixty galaxies scattered inside the massive sphere.",
+        "search": "sparse lonely galaxies in deep space photo",
+        "caption": "They found only sixty lonely galaxies instead."
+      },
+      {
+        "narration": "This statistical impossibility meant ninety-seven percent of the expected matter was completely missing.",
+        "search": "dark empty space black background photo",
+        "caption": "Ninety-seven percent of the expected matter is missing."
+      },
+      {
+        "narration": "Modern cosmologists are still struggling to explain how such a giant bubble of nothingness could form.",
+        "search": "cosmologist looking at computer data archival photograph",
+        "caption": "Cosmologists still struggle to explain the giant bubble."
+      },
+      {
+        "narration": "One theory suggests the void was created by the merging of smaller, pre-existing voids early in the universe's history.",
+        "search": "cosmic voids merging computer simulation illustration",
+        "caption": "Did smaller voids merge early in cosmic history?"
+      },
+      {
+        "narration": "Others propose that unseen dark matter forces are actively pushing regular matter out of the region.",
+        "search": "dark matter gravitational lensing hubble photo",
+        "caption": "Unseen dark matter forces could be pushing matter away."
+      },
+      {
+        "narration": "If our theories of gravity and cosmic expansion cannot account for this void, our entire model of the Big Bang is flawed.",
+        "search": "big bang cosmic microwave background radiation map",
+        "caption": "This void challenges our model of the Big Bang."
+      },
+      {
+        "narration": "Today, the Boötes Void remains the largest known anomaly in the observable universe.",
+        "search": "observable universe large scale structure cosmic web photo",
+        "caption": "The largest known anomaly in the observable universe."
+      },
+      {
+        "narration": "We are left staring into a 250-million-light-year hole that defies physics, proving the cosmos is emptier than we ever dared to imagine.",
+        "search": "deep space telescope staring into blackness photo",
+        "caption": "A 250-million-light-year hole that defies physics."
+      }
+    ],
+    "error": "YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing (kiem tra Secrets: dung ten + value khong duoc rong)",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-24T12:26:51.638450+00:00",
+    "updated_at": "2026-09-24T12:29:01.354232+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T12:27:36.257554+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "455 chars",
+        "at": "2026-09-24T12:28:21.011102+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.9s 7 sentences",
+        "at": "2026-09-24T12:28:23.261113+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T12:28:24.091836+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-24T12:28:33.081208+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.7s 6683959 bytes",
+        "at": "2026-09-24T12:29:01.350476+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing (kiem tra Secrets: dung ten + value khong duoc rong)",
+        "at": "2026-09-24T12:29:01.354224+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39360150/pexels-photo-39360150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7952548/pexels-photo-7952548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35159592/pexels-photo-35159592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/64707/sphynx-mountains-snow-blue-white-64707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20014487/pexels-photo-20014487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27151509/pexels-photo-27151509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6203470/pexels-photo-6203470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33441877/pexels-photo-33441877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36765127/pexels-photo-36765127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36633064/pexels-photo-36633064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4862923/pexels-photo-4862923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35739580/pexels-photo-35739580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33441878/pexels-photo-33441878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23522825/pexels-photo-23522825.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3837487/pexels-photo-3837487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30238187/pexels-photo-30238187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32507799/pexels-photo-32507799.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "87459d3a8d",
     "kind": "short",
     "channel": "Channel2",
