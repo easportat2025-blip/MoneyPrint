@@ -16,6 +16,50 @@ def _check_quota() -> bool:
     return state.uploads_today() < config.MAX_DAILY_UPLOADS
 
 
+FATAL_PATTERNS = [
+    "missing",
+    "insufficient",
+    "invalid_grant",
+    "access_denied",
+    "unauthorized",
+    "quotaexceeded",
+    "uploadlimitexceeded",
+    "verify failed",
+    "kill switch",
+    "daily upload quota",
+]
+
+
+def _fatal(msg: str) -> bool:
+    m = msg.lower()
+    return any(p in m for p in FATAL_PATTERNS)
+
+
+def attempt(rec_id: str, stage: str, fn, *args, retries: int = None, **kwargs):
+    import time
+
+    tries = 1 + (config.RETRY_MAX if retries is None else retries)
+    last = None
+    for i in range(tries):
+        if config.kill_requested():
+            raise RuntimeError("kill switch on")
+        try:
+            out = fn(*args, **kwargs)
+            if i > 0:
+                state.stage(rec_id, stage, True, f"ok sau {i + 1} lan thu")
+            return out
+        except Exception as e:
+            last = e
+            msg = str(e)[:300]
+            if _fatal(msg):
+                raise
+            if i < tries - 1:
+                wait = config.RETRY_BASE_SEC * (2**i)
+                state.stage(rec_id, stage, False, f"thu {i + 1} loi: {msg} - doi {wait}s")
+                time.sleep(wait)
+    raise last
+
+
 def run_one(kind: str = "short") -> dict:
     if config.kill_requested():
         raise RuntimeError("kill switch on")
@@ -51,7 +95,14 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, status="tts")
         audio_path = workdir / "voice.mp3"
         srt_tmp = workdir / "voice.srt"
-        tts_mod.synthesize(script["voiceover"], audio_path, srt_path=srt_tmp)
+        attempt(
+            rec_id,
+            "tts",
+            tts_mod.synthesize,
+            script["voiceover"],
+            audio_path,
+            srt_path=srt_tmp,
+        )
         audio_dur = tts_mod.duration(audio_path)
         sentences = tts_mod.parse_sentences(srt_tmp)
         state.stage(
@@ -60,7 +111,9 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="mixing_music")
         mixed_path = workdir / "mixed.m4a"
-        _, credit = music_mod.mix(audio_path, mixed_path, seed=rec_id)
+        _, credit = attempt(
+            rec_id, "music", music_mod.mix, audio_path, mixed_path, seed=rec_id
+        )
         state.stage(rec_id, "music", True, credit or "voice only")
 
         target = duration if kind == "short" else max(duration, int(audio_dur) + 10)
@@ -79,8 +132,15 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, status="fetching_media")
         vertical = kind == "short"
         skip = state.used_media_urls()
-        items = media_mod.fetch_all(
-            scenes, workdir / "media", vertical, scene_sec, skip
+        items = attempt(
+            rec_id,
+            "media",
+            media_mod.fetch_all,
+            scenes,
+            workdir / "media",
+            vertical,
+            scene_sec,
+            skip,
         )
         n_vid = sum(1 for _, is_v, _u, _c in items if is_v)
         urls = [u for _, _, u, _c in items if u]
@@ -92,7 +152,10 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="rendering")
         title_text = idea.get("title", "ReZain")
-        final, srt_path = assemble_mod.assemble(
+        final, srt_path = attempt(
+            rec_id,
+            "render",
+            assemble_mod.assemble,
             items,
             mixed_path,
             sentences,
@@ -118,7 +181,10 @@ def run_one(kind: str = "short") -> dict:
             description += f"\n\nMusic: {credit}"
         if credits:
             description += "\nImagery: " + "; ".join(credits[:4])
-        result = upload_mod.upload(
+        result = attempt(
+            rec_id,
+            "upload",
+            upload_mod.upload,
             final,
             idea.get("title", "ReZain"),
             description,

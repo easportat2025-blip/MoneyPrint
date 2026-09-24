@@ -11,7 +11,10 @@ STATUS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
 def get_access_token() -> str:
     if not (config.YOUTUBE_CLIENT_ID and config.YOUTUBE_REFRESH_TOKEN):
-        raise RuntimeError("YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing")
+        raise RuntimeError(
+            "YOUTUBE_CLIENT_ID / YOUTUBE_REFRESH_TOKEN missing "
+            "(kiem tra Secrets: dung ten + value khong duoc rong)"
+        )
     data = {
         "client_id": config.YOUTUBE_CLIENT_ID,
         "client_secret": config.YOUTUBE_CLIENT_SECRET,
