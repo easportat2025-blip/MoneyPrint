@@ -1,5 +1,155 @@
 [
   {
+    "id": "8567945231",
+    "kind": "short",
+    "status": "done",
+    "title": "Something is pulling our galaxy (and we can't see it)",
+    "idea": {
+      "title": "Something is pulling our galaxy (and we can't see it)",
+      "hook": "Right now, our entire galaxy is hurtling toward a hidden point in space at 1.4 million miles per hour.",
+      "beats": [
+        "Astronomers call this mysterious destination the 'Great Attractor', a gravitational anomaly 250 million light-years away.",
+        "But we can't see what it is because it lies directly behind the thick, dusty center of our own Milky Way.",
+        "This blocked region is known as the 'Zone of Avoidance', hiding thousands of galaxies from our telescopes.",
+        "Scientists believe it is a massive supercluster of galaxies pulling us, and everything around us, toward it."
+      ],
+      "keywords": [
+        "milky way galaxy",
+        "cosmic dust",
+        "deep space nebula",
+        "gravitational pull",
+        "universe map"
+      ],
+      "tags": [
+        "space",
+        "astronomy",
+        "universe",
+        "milkyway",
+        "rezain"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Right now, our entire Milky Way galaxy is hurtling through deep space at an extreme speed.",
+        "search": "spiral milky way galaxy spinning in deep space",
+        "caption": "Our galaxy is hurtling through space at extreme speeds."
+      },
+      {
+        "narration": "We are traveling at a staggering 1.4 million miles per hour toward a hidden destination.",
+        "search": "fast zoom through stars cosmic travel",
+        "caption": "We are moving at 1.4 million miles per hour."
+      },
+      {
+        "narration": "Something massive is exerting a powerful gravitational pull on us, but we cannot see it.",
+        "search": "invisible gravitational pull warping space time grid",
+        "caption": "Something invisible is pulling our entire galaxy."
+      },
+      {
+        "narration": "Astronomers call this mysterious point in the universe the Great Attractor.",
+        "search": "glowing cosmic gravitational anomaly deep space",
+        "caption": "This mysterious destination is called the Great Attractor."
+      },
+      {
+        "narration": "This cosmic anomaly lies roughly 250 million light-years away from Earth.",
+        "search": "universe map showing galaxy clusters connections",
+        "caption": "It lies 250 million light-years away."
+      },
+      {
+        "narration": "It possesses a gravitational mass equivalent to tens of thousands of galaxies.",
+        "search": "massive cluster of glowing galaxies",
+        "caption": "It has the mass of tens of thousands of galaxies."
+      },
+      {
+        "narration": "We cannot observe this entity directly because it is blocked by our own galaxy.",
+        "search": "milky way galaxy core bright center",
+        "caption": "The center of our own galaxy blocks our view."
+      },
+      {
+        "narration": "The thick, glowing center of the Milky Way acts as a giant cosmic blind spot.",
+        "search": "cosmic dust lane dark nebula space",
+        "caption": "Thick cosmic dust hides it from our sight."
+      },
+      {
+        "narration": "Astronomers refer to this obscured region of space as the Zone of Avoidance.",
+        "search": "dark void in star field deep space",
+        "caption": "This hidden region is the Zone of Avoidance."
+      },
+      {
+        "narration": "This dense barrier of gas and dust hides thousands of neighboring galaxies from our telescopes.",
+        "search": "space telescope observing distant deep space nebula",
+        "caption": "It blocks thousands of galaxies from our telescopes."
+      },
+      {
+        "narration": "Scientists believe the source of the pull is a colossal supercluster of galaxies.",
+        "search": "massive galaxy supercluster cosmic web",
+        "caption": "A massive supercluster of galaxies is likely responsible."
+      },
+      {
+        "narration": "This giant structure is drawing our galaxy and everything around us toward its center.",
+        "search": "galaxies falling into a central gravity well",
+        "caption": "It is pulling our entire cosmic neighborhood inward."
+      },
+      {
+        "narration": "Until we can peer through the dust, the Great Attractor remains one of space's greatest mysteries.",
+        "search": "mysterious glowing light behind dark cosmic dust clouds",
+        "caption": "The Great Attractor remains a profound cosmic mystery."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Osk5RNQb1ng",
+    "youtube_url": "https://www.youtube.com/watch?v=Osk5RNQb1ng",
+    "created_at": "2026-09-24T05:18:44.660942+00:00",
+    "updated_at": "2026-09-24T05:21:21.180921+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-09-24T05:19:23.570504+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "726 chars",
+        "at": "2026-09-24T05:20:01.622022+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "49.2s",
+        "at": "2026-09-24T05:20:05.106706+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T05:20:06.307382+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-09-24T05:20:16.456395+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 51.7s 34457997 bytes",
+        "at": "2026-09-24T05:21:16.716287+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Osk5RNQb1ng",
+        "at": "2026-09-24T05:21:20.902243+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-24T05:21:21.169238+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T05:21:21.180915+00:00"
+      }
+    }
+  },
+  {
     "id": "f723e7199d",
     "kind": "short",
     "status": "done",
