@@ -1,6 +1,7 @@
 import subprocess
 from pathlib import Path
 import config
+from pipeline import fx as fx_mod
 
 
 def _run(cmd: list[str], timeout: int = 1200) -> None:
@@ -44,15 +45,18 @@ def probe(path: Path) -> dict:
     return out
 
 
-def ken_burns(image: Path, out: Path, seconds: float, w: int, h: int, fps: int) -> Path:
+def ken_burns(
+    image: Path, out: Path, seconds: float, w: int, h: int, fps: int, extra: str = ""
+) -> Path:
     frames = max(int(seconds * fps), fps)
     out.parent.mkdir(parents=True, exist_ok=True)
+    tail = f",{extra}" if extra else ""
     vf = (
         f"scale={w * 2}:-2,"
         f"zoompan=z='min(1.0+0.0012*on,1.18)'"
         f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
-        f":d={frames}:s={w}x{h}:fps={fps},"
-        "format=yuv420p"
+        f":d={frames}:s={w}x{h}:fps={fps}"
+        f"{tail},format=yuv420p"
     )
     cmd = [
         "ffmpeg",
@@ -80,15 +84,18 @@ def ken_burns(image: Path, out: Path, seconds: float, w: int, h: int, fps: int) 
     return out
 
 
-def fit_clip(src: Path, out: Path, seconds: float, w: int, h: int, fps: int) -> Path:
+def fit_clip(
+    src: Path, out: Path, seconds: float, w: int, h: int, fps: int, extra: str = ""
+) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     info = probe(src)
     pre: list[str] = []
     if info["duration"] and info["duration"] < seconds:
         pre = ["-stream_loop", "3"]
+    tail = f",{extra}" if extra else ""
     vf = (
         f"scale={w}:{h}:force_original_aspect_ratio=increase,"
-        f"crop={w}:{h},fps={fps},format=yuv420p"
+        f"crop={w}:{h},fps={fps}{tail},format=yuv420p"
     )
     cmd = [
         "ffmpeg",
@@ -355,7 +362,12 @@ def mux_ass(
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     ass_esc = str(ass).replace(":", "\\:").replace("'", "")
-    vf = f"ass='{ass_esc}',format=yuv420p"
+    base = f"ass='{ass_esc}',format=yuv420p"
+    vfs = [
+        f"{fx_mod.watermark_vf()},{base}",
+        f"{fx_mod.watermark_fallback()},{base}",
+        base,
+    ]
     cmd = [
         "ffmpeg",
         "-y",
@@ -368,7 +380,7 @@ def mux_ass(
         "-map",
         "1:a:0",
         "-vf",
-        vf,
+        vfs[0],
         "-c:v",
         "libx264",
         "-preset",
@@ -384,8 +396,16 @@ def mux_ass(
     if max_sec:
         cmd += ["-t", f"{max_sec:.3f}"]
     cmd.append(str(out))
-    _run(cmd, timeout=1800)
-    return out
+    err = None
+    for vf in vfs:
+        cmd[cmd.index("-vf") + 1] = vf
+        try:
+            _run(cmd, timeout=1800)
+            return out
+        except RuntimeError as e:
+            err = e
+            continue
+    raise err
 
 
 def mux_subs(
@@ -409,7 +429,12 @@ def mux_subs(
         "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
     )
     srt_esc = str(srt).replace(":", "\\:").replace("'", "")
-    vf = f"subtitles='{srt_esc}':force_style='{style}',format=yuv420p"
+    base = f"subtitles='{srt_esc}':force_style='{style}',format=yuv420p"
+    vfs = [
+        f"{fx_mod.watermark_vf()},{base}",
+        f"{fx_mod.watermark_fallback()},{base}",
+        base,
+    ]
     cmd = [
         "ffmpeg",
         "-y",
@@ -422,7 +447,7 @@ def mux_subs(
         "-map",
         "1:a:0",
         "-vf",
-        vf,
+        vfs[0],
         "-c:v",
         "libx264",
         "-preset",
@@ -438,8 +463,16 @@ def mux_subs(
     if max_sec:
         cmd += ["-t", f"{max_sec:.3f}"]
     cmd.append(str(out))
-    _run(cmd, timeout=1800)
-    return out
+    err = None
+    for vf in vfs:
+        cmd[cmd.index("-vf") + 1] = vf
+        try:
+            _run(cmd, timeout=1800)
+            return out
+        except RuntimeError as e:
+            err = e
+            continue
+    raise err
 
 
 def verify_short(path: Path) -> dict:
@@ -488,10 +521,11 @@ def assemble(
         if config.kill_requested():
             raise RuntimeError("kill switch on")
         clip = workdir / f"clip_{i:02d}.mp4"
+        extra = fx_mod.variant(f"{workdir.name}:{i}")
         if is_video:
-            fit_clip(path, clip, durs[i], w, h, fps)
+            fit_clip(path, clip, durs[i], w, h, fps, extra)
         else:
-            ken_burns(path, clip, durs[i], w, h, fps)
+            ken_burns(path, clip, durs[i], w, h, fps, extra)
         if i == 0:
             overlay_title_font(clip, title, w)
         clips.append(clip)

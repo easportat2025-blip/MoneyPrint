@@ -84,6 +84,19 @@ def cmd_sync(_args):
     print(f"synced {len(proc.stdout)} chars from logs branch")
 
 
+def cmd_bank_build(args):
+    from pipeline import bank as bank_mod
+
+    bank_mod.build(args.topics, args.per_topic)
+
+
+def cmd_bank_list(_args):
+    import json as _json
+    from pipeline import bank as bank_mod
+
+    print(_json.dumps(bank_mod.stats(), indent=2, ensure_ascii=False))
+
+
 def cmd_status(_args):
     print(json.dumps(state.load(), indent=2, ensure_ascii=False))
 
@@ -110,6 +123,12 @@ def main():
 
     sub.add_parser("dashboard", help="local log dashboard").set_defaults(fn=cmd_dashboard)
     sub.add_parser("sync", help="pull state.json from logs branch").set_defaults(fn=cmd_sync)
+
+    bp = sub.add_parser("bank-build", help="curate NASA clips into bank/clips.json")
+    bp.add_argument("--topics", nargs="*", default=None)
+    bp.add_argument("--per-topic", type=int, default=10)
+    bp.set_defaults(fn=cmd_bank_build)
+    sub.add_parser("bank-list", help="show clip bank stats").set_defaults(fn=cmd_bank_list)
     sub.add_parser("status", help="dump state.json").set_defaults(fn=cmd_status)
     sub.add_parser("kill", help="toggle kill switch").set_defaults(fn=cmd_kill)
 

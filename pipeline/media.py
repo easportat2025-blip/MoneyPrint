@@ -2,6 +2,7 @@ import re
 from pathlib import Path
 import requests
 import config
+from pipeline import bank as bank_mod
 
 
 UA = {"User-Agent": "MoneyPrint-ReZain/1.0 (educational bot)"}
@@ -124,25 +125,21 @@ def from_nasa(query: str, dest: Path) -> Path | None:
         )
         if r.status_code != 200:
             return None
-        items = r.json().get("collection", {}).get("items", [])
+        items = r.json().get("collection", {}).get("items", [])[:6]
         if not items:
             return None
-        hrefs = items[0].get("hrefs") or []
-        for h in hrefs:
-            if re.search(r"\.(jpg|jpeg|png)$", str(h), re.I):
-                return _download(h, dest)
-        assets_url = None
-        links = items[0].get("links") or []
-        if links:
-            assets_url = links[0].get("href")
-        if assets_url:
-            ar = requests.get(assets_url, timeout=20)
-            if ar.status_code == 200:
-                for f in ar.json().get("files", []):
-                    name = str(f.get("name", ""))
-                    if re.search(r"\.(jpg|jpeg|png)$", name, re.I):
-                        base = assets_url.rsplit("/", 1)[0]
-                        return _download(f"{base}/{name}", dest)
+        for it in items:
+            links = sorted(
+                [ln for ln in (it.get("links") or []) if ln.get("href")],
+                key=lambda ln: ln.get("width", 0) or 0,
+                reverse=True,
+            )
+            for ln in links:
+                h = ln["href"]
+                if re.search(r"\.(jpg|jpeg|png)(\?|$)", str(h), re.I):
+                    got = _download(h, dest)
+                    if got:
+                        return got
         return None
     except (requests.RequestException, ValueError, KeyError):
         return None
@@ -212,6 +209,19 @@ def fetch_scene(
 ) -> tuple[Path, bool, str]:
     skip = skip or set()
     slug = _slug(query)
+    try:
+        hit = bank_mod.find(query, skip, vertical)
+    except Exception:
+        hit = None
+    if hit and hit.get("url"):
+        dest = scene_dir / f"{slug}_bank"
+        got = _download(hit["url"], dest)
+        if got:
+            is_vid = hit.get("type") == "video" or str(got.suffix).lower() == ".mp4"
+            if got.suffix.lower() not in (".mp4", ".jpg", ".jpeg", ".png", ".webp"):
+                got.unlink(missing_ok=True)
+            else:
+                return got, is_vid, hit["url"]
     vid_dest = scene_dir / f"{slug}.mp4"
     if vid_dest.exists() and vid_dest.stat().st_size > 20000:
         return vid_dest, True, ""
