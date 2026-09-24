@@ -16,7 +16,8 @@ for d in (CACHE_DIR, OUTPUT_DIR):
 
 
 def env(key: str, default: str = "") -> str:
-    return os.environ.get(key, default).strip()
+    v = (os.environ.get(key, default) or "").strip()
+    return v if v else default
 
 
 GEMINI_KEYS = [k for k in (env("GEMINI_KEY_A"), env("GEMINI_KEY_B")) if k]
