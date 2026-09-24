@@ -1,5 +1,195 @@
 [
   {
+    "id": "5c93c48739",
+    "kind": "short",
+    "channel": "ReZain",
+    "status": "done",
+    "title": "The Coldest Spot in the Known Universe",
+    "idea": {
+      "title": "The Coldest Spot in the Known Universe",
+      "hook": "Deep space is freezing, but one natural place in the cosmos is actually colder than the afterglow of the Big Bang itself.",
+      "beats": [
+        "The Boomerang Nebula sits 5,000 light-years away and registers at minus 458 degrees Fahrenheit—just one degree above absolute zero.",
+        "Most of deep space sits at 2.7 Kelvin due to the Cosmic Microwave Background, but this nebula is actively refrigerating itself.",
+        "A dying central star is expelling gas at over 300,000 miles per hour, creating rapid adiabatic expansion that plunges temperatures below ambient space.",
+        "It remains the only natural object discovered so far that is colder than the universe's background radiation."
+      ],
+      "keywords": [
+        "Boomerang Nebula telescope",
+        "deep space nebula glowing",
+        "cosmic freeze thermodynamic",
+        "dying star gas expansion",
+        "absolute zero space cinematic"
+      ],
+      "tags": [
+        "space",
+        "astronomy",
+        "nebula",
+        "physics",
+        "sciencefacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "This place is colder than the Big Bang's afterglow.",
+        "search": "deep space nebula glowing dark cinematic",
+        "caption": "Colder than the Big Bang's afterglow."
+      },
+      {
+        "narration": "Most of deep space is frozen, but it has a hard temperature limit.",
+        "search": "empty space stars cosmic background",
+        "caption": "Deep space has a strict temperature limit."
+      },
+      {
+        "narration": "Radiation from the birth of the universe keeps empty space at 2.7 Kelvin.",
+        "search": "cosmic microwave background radiation map 3d",
+        "caption": "The Big Bang's leftover heat warms the void."
+      },
+      {
+        "narration": "But five thousand light-years away, something is actively defying this limit.",
+        "search": "zoom in deep space telescope stars",
+        "caption": "Something is defying the laws of space."
+      },
+      {
+        "narration": "Hidden in the Centaurus constellation lies the mysterious Boomerang Nebula.",
+        "search": "Boomerang Nebula telescope cosmic zoom",
+        "caption": "The mysterious Boomerang Nebula."
+      },
+      {
+        "narration": "Its temperature registers at a mind-boggling minus 458 degrees Fahrenheit.",
+        "search": "frozen ice crystal texture macro slow motion",
+        "caption": "Minus 458 degrees Fahrenheit."
+      },
+      {
+        "narration": "That is a mere single degree above absolute zero, where all molecular motion stops.",
+        "search": "cosmic freeze thermodynamic absolute zero concept",
+        "caption": "Just one degree above absolute zero."
+      },
+      {
+        "narration": "But how can a natural object become colder than the empty space around it?",
+        "search": "glowing star system abstract physics animation",
+        "caption": "How is this temperature physically possible?"
+      },
+      {
+        "narration": "The answer lies in the violent death of its central star.",
+        "search": "dying star gas expansion supernova cinematic",
+        "caption": "A dying star holds the secret."
+      },
+      {
+        "narration": "As this star collapses, it spews out massive amounts of gas.",
+        "search": "glowing nebula gas cloud expanding",
+        "caption": "Spewing massive amounts of cosmic gas."
+      },
+      {
+        "narration": "This stellar wind is ejected at speeds exceeding 300,000 miles per hour.",
+        "search": "fast solar wind particles space travel",
+        "caption": "Traveling at 300,000 miles per hour."
+      },
+      {
+        "narration": "This extreme speed triggers a phenomenon known as adiabatic expansion.",
+        "search": "gas expanding rapidly in vacuum physics simulation",
+        "caption": "Rapid adiabatic expansion."
+      },
+      {
+        "narration": "Just like a can of compressed air, the expanding gas rapidly loses heat.",
+        "search": "refrigerator cooling mechanism abstract animation",
+        "caption": "A giant cosmic refrigerator."
+      },
+      {
+        "narration": "Because it expands so quickly, the gas cannot absorb energy from its surroundings.",
+        "search": "dark cold energy vortex space",
+        "caption": "No energy can enter the expanding cloud."
+      },
+      {
+        "narration": "This forces the nebula's temperature to plummet far below the ambient cosmic background.",
+        "search": "shattering ice blast dark background",
+        "caption": "Plunging below the temperature of empty space."
+      },
+      {
+        "narration": "It is the only natural object in the known universe that achieves this feat.",
+        "search": "hubble telescope deep field space",
+        "caption": "The only natural object of its kind."
+      },
+      {
+        "narration": "The Boomerang Nebula is a self-refrigerating anomaly, sitting at the edge of absolute zero.",
+        "search": "absolute zero space cinematic glowing nebula",
+        "caption": "The coldest natural place in the cosmos."
+      }
+    ],
+    "error": "",
+    "youtube_id": "t4tkoLpXiwQ",
+    "youtube_url": "https://www.youtube.com/watch?v=t4tkoLpXiwQ",
+    "created_at": "2026-09-24T19:49:58.924671+00:00",
+    "updated_at": "2026-09-24T19:54:27.118974+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-24T19:51:54.212645+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "568 chars",
+        "at": "2026-09-24T19:53:06.093756+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "44.4s 9 sentences",
+        "at": "2026-09-24T19:53:09.954242+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-24T19:53:10.931006+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-24T19:53:23.966195+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 44.2s 35957552 bytes",
+        "at": "2026-09-24T19:54:22.390868+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=t4tkoLpXiwQ",
+        "at": "2026-09-24T19:54:26.935770+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-24T19:54:27.098843+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-24T19:54:27.118967+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39604947/16881167_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37652488/15960773_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34342741/14549270_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28353233/12365897_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30450505/13049988_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7127511/7127511-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34745912/14729783_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35288809/14950127_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39598754/16879747_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39593392/16876641_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35288383/14950031_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667988/9667988-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/16727477/16727477-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39104703/16637953_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/12145873/12145873-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/27975940/12278761_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35288430/14950061_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "89a840bd82",
     "kind": "short",
     "channel": "Channel2",
