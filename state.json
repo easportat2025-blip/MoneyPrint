@@ -1,5 +1,195 @@
 [
   {
+    "id": "c8f957e9ab",
+    "kind": "short",
+    "channel": "ReZain",
+    "status": "done",
+    "title": "The Diamond Planet Bigger Than Earth",
+    "idea": {
+      "title": "The Diamond Planet Bigger Than Earth",
+      "hook": "Deep in space, there is a planet made almost entirely of solid diamond.",
+      "beats": [
+        "Intro to Janssen, a super-Earth orbiting a nearby pulsar star.",
+        "Extreme gravitational pressure crystallizes carbon into a massive diamond mantle.",
+        "Orbiting so close to its star, a 'year' on this world lasts only 18 hours.",
+        "Though priceless by Earth standards, it's a cosmic reminder of how strange exoplanets can get."
+      ],
+      "keywords": [
+        "diamond planet",
+        "exoplanet space",
+        "pulsar star animation",
+        "cosmic crystal",
+        "alien world 3d"
+      ],
+      "tags": [
+        "spacefacts",
+        "astronomy",
+        "exoplanets",
+        "rezain",
+        "universe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Deep in space, there is a planet made almost entirely of solid diamond.",
+        "search": "dark cosmic space glowing distant exoplanet crystal structure",
+        "caption": "A planet made of solid diamond."
+      },
+      {
+        "narration": "Meet Janssen, a super-Earth orbiting a nearby pulsar star.",
+        "search": "pulsar star casting intense blue light across alien space",
+        "caption": "Meet Janssen, a super-Earth."
+      },
+      {
+        "narration": "How does a world transform into a massive gem?",
+        "search": "mysterious alien world spinning in deep space shadows",
+        "caption": "How does a world become a gem?"
+      },
+      {
+        "narration": "It begins deep beneath the surface under extreme gravitational pressure.",
+        "search": "massive gravitational pressure crushing carbon atoms deep underground",
+        "caption": "Extreme gravitational pressure."
+      },
+      {
+        "narration": "The intense forces crystallize carbon into a massive diamond mantle.",
+        "search": "glowing cosmic crystal formation spinning in dark void",
+        "caption": "Carbon crystallizes into a massive mantle."
+      },
+      {
+        "narration": "This layer makes up a huge fraction of the planet's entire mass.",
+        "search": "cutaway 3d model of exoplanet showing glowing inner layers",
+        "caption": "A massive diamond mantle."
+      },
+      {
+        "narration": "But the strangest part isn't what's inside.",
+        "search": "alien planet orbiting too close to a blazing star",
+        "caption": "The strangest part isn't inside."
+      },
+      {
+        "narration": "It is locked in an ultra-tight orbit around its host star.",
+        "search": "rapidly spinning planet orbiting close to blazing pulsar star",
+        "caption": "Locked in an ultra-tight orbit."
+      },
+      {
+        "narration": "Because it races so close, a full year passes in a flash.",
+        "search": "fast motion cosmic time lapse alien sunset over rocky horizon",
+        "caption": "A year lasts only 18 hours."
+      },
+      {
+        "narration": "A complete year on this world lasts only eighteen hours.",
+        "search": "alien world surface glowing under intense pulsar radiation",
+        "caption": "Only eighteen hours per year."
+      },
+      {
+        "narration": "Imagine celebrating your birthday multiple times a single day.",
+        "search": "surreal alien landscape with pulsing star in dark sky",
+        "caption": "Multiple birthdays in a single day."
+      },
+      {
+        "narration": "By Earth standards, its core value is astronomical.",
+        "search": "glittering cosmic crystal abstract 3d render dark background",
+        "caption": "Priceless by Earth standards."
+      },
+      {
+        "narration": "Yet you could never mine it or bring it home.",
+        "search": "dangerous alien exoplanet surface extreme heat radiation",
+        "caption": "You could never mine it."
+      },
+      {
+        "narration": "The extreme conditions would destroy any spacecraft instantly.",
+        "search": "futuristic spaceship burning up in intense stellar radiation",
+        "caption": "Destructive cosmic conditions."
+      },
+      {
+        "narration": "Instead, it remains untouched in the deep cosmic void.",
+        "search": "distant alien world spinning alone in dark vast space",
+        "caption": "Untouched in the cosmic void."
+      },
+      {
+        "narration": "It stands as a reminder of how bizarre alien worlds can get.",
+        "search": "panoramic view of galaxy with strange exoplanets orbiting stars",
+        "caption": "How strange exoplanets can get."
+      },
+      {
+        "narration": "Nature's ultimate treasure is locked away where we can never reach it.",
+        "search": "glowing diamond planet fading into distant dark space background",
+        "caption": "Nature's ultimate hidden treasure."
+      }
+    ],
+    "error": "",
+    "youtube_id": "PzT9znNrfig",
+    "youtube_url": "https://www.youtube.com/watch?v=PzT9znNrfig",
+    "created_at": "2026-09-25T19:53:16.635044+00:00",
+    "updated_at": "2026-09-25T19:56:28.823175+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-25T19:54:40.232381+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "503 chars",
+        "at": "2026-09-25T19:54:55.218271+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.9s 7 sentences",
+        "at": "2026-09-25T19:54:59.251336+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-25T19:55:00.689782+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-25T19:55:16.274853+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.9s 28438240 bytes",
+        "at": "2026-09-25T19:56:24.167412+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=PzT9znNrfig",
+        "at": "2026-09-25T19:56:28.401826+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-25T19:56:28.798278+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-25T19:56:28.823165+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39296954/16721213_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39054455/16618522_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36726052/15564854_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35062620/14852589_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39047840/16615672_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/26529309/11956503_720_1280_12fps.mp4",
+      "https://videos.pexels.com/video-files/39430188/16791056_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37005709/15677272_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6063883/6063883-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39621662/16888909_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39012690/16600869_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439747/15439747-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37021118/15685056_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667215/9667215-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34654487/14688848_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37029441/15688079_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/24826317/11898337_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "0327151ae2",
     "kind": "short",
     "channel": "Channel2",
