@@ -149,6 +149,28 @@ def upload_captions(
     return r.json().get("id", "")
 
 
+THUMB_URL = "https://www.googleapis.com/upload/youtube/v3/thumbnails/set"
+
+
+def set_thumbnail(video_id: str, png_path: Path) -> bool:
+    token = get_access_token()
+    data = png_path.read_bytes()
+    r = requests.post(
+        THUMB_URL,
+        params={"videoId": video_id},
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "image/png",
+            "Content-Length": str(len(data)),
+        },
+        data=data,
+        timeout=120,
+    )
+    if r.status_code not in (200, 201):
+        raise RuntimeError(f"thumbnail failed: {r.status_code} {r.text[:300]}")
+    return True
+
+
 def delete_video(video_id: str) -> bool:
     token = get_access_token()
     r = requests.delete(

@@ -3,6 +3,8 @@ from pathlib import Path
 import config
 from pipeline import fx as fx_mod
 
+FADE = 0.4
+
 
 def _run(cmd: list[str], timeout: int = 1200) -> None:
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
@@ -46,17 +48,28 @@ def probe(path: Path) -> dict:
 
 
 def ken_burns(
-    image: Path, out: Path, seconds: float, w: int, h: int, fps: int, extra: str = ""
+    image: Path,
+    out: Path,
+    seconds: float,
+    w: int,
+    h: int,
+    fps: int,
+    extra: str = "",
+    zin: bool = True,
 ) -> Path:
     frames = max(int(seconds * fps), fps)
     out.parent.mkdir(parents=True, exist_ok=True)
     tail = f",{extra}" if extra else ""
+    if zin:
+        zoom = "zoompan=z='min(1.0+0.0012*on,1.18)'"
+    else:
+        zoom = "zoompan=z='max(1.18-0.0012*on,1.0)'"
     vf = (
         f"scale={w * 2}:-2,"
-        f"zoompan=z='min(1.0+0.0012*on,1.18)'"
+        f"{zoom}"
         f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
         f":d={frames}:s={w}x{h}:fps={fps}"
-        f"{tail},format=yuv420p"
+        f"{tail},{fx_mod.GRADE},format=yuv420p"
     )
     cmd = [
         "ffmpeg",
@@ -95,7 +108,7 @@ def fit_clip(
     tail = f",{extra}" if extra else ""
     vf = (
         f"scale={w}:{h}:force_original_aspect_ratio=increase,"
-        f"crop={w}:{h},fps={fps}{tail},format=yuv420p"
+        f"crop={w}:{h},fps={fps}{tail},{fx_mod.GRADE},format=yuv420p"
     )
     cmd = [
         "ffmpeg",
@@ -390,7 +403,9 @@ def mux_ass(
         "-c:a",
         "aac",
         "-b:a",
-        "160k",
+        "192k",
+        "-ar",
+        "48000",
         "-shortest",
     ]
     if max_sec:
@@ -457,7 +472,9 @@ def mux_subs(
         "-c:a",
         "aac",
         "-b:a",
-        "160k",
+        "192k",
+        "-ar",
+        "48000",
         "-shortest",
     ]
     if max_sec:
@@ -473,6 +490,102 @@ def mux_subs(
             err = e
             continue
     raise err
+
+
+def mux_xfade(
+    clips: list[Path],
+    audio: Path,
+    subfilter: str,
+    out: Path,
+    clip_dur: float,
+    max_sec: float | None = None,
+) -> Path:
+    out.parent.mkdir(parents=True, exist_ok=True)
+    n = len(clips)
+    inputs: list[str] = []
+    for c in clips:
+        inputs += ["-i", str(c)]
+    inputs += ["-i", str(audio)]
+    vfs = [
+        f"{fx_mod.watermark_vf()},{subfilter},format=yuv420p",
+        f"{fx_mod.watermark_fallback()},{subfilter},format=yuv420p",
+        f"{subfilter},format=yuv420p",
+    ]
+    err = None
+    for tail in vfs:
+        parts = []
+        prev = "0:v"
+        for k in range(1, n):
+            off = k * clip_dur - k * FADE
+            parts.append(
+                f"[{prev}][{k}:v]xfade=transition=fade:duration={FADE}"
+                f":offset={off:.3f}[x{k}]"
+            )
+            prev = f"x{k}"
+        parts.append(f"[{prev}]{tail}[vout]")
+        cmd = (
+            ["ffmpeg", "-y", *inputs, "-filter_complex", ";".join(parts)]
+            + ["-map", "[vout]", "-map", f"{n}:a:0"]
+            + [
+                "-c:v",
+                "libx264",
+                "-preset",
+                "veryfast",
+                "-crf",
+                "23",
+                "-c:a",
+                "aac",
+                "-b:a",
+                "192k",
+                "-ar",
+                "48000",
+                "-shortest",
+            ]
+        )
+        if max_sec:
+            cmd += ["-t", f"{max_sec:.3f}"]
+        cmd.append(str(out))
+        try:
+            _run(cmd, timeout=2400)
+            return out
+        except RuntimeError as e:
+            err = e
+            continue
+    raise err
+
+
+def build_thumb(video: Path, title: str, out: Path) -> Path:
+    out.parent.mkdir(parents=True, exist_ok=True)
+    info = probe(video)
+    ss = max((info["duration"] or 10) * 0.3, 1.0)
+    txt = out.parent / "thumb.txt"
+    txt.write_text(wrap_title(title, width=18, lines=3), encoding="utf-8")
+    base = (
+        "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,"
+        "drawbox=x=0:y=ih*0.5:w=iw:h=ih*0.5:color=black@0.6:t=fill,"
+        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:fontsize=72:"
+        "fontcolor=white:borderw=2:bordercolor=black@0.8:"
+        "x=(w-text_w)/2:y=h*0.58:line_spacing=10"
+    )
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-ss",
+        f"{ss:.1f}",
+        "-i",
+        str(video),
+        "-frames:v",
+        "1",
+        "-vf",
+        base,
+        str(out),
+    ]
+    try:
+        _run(cmd, timeout=120)
+    except RuntimeError:
+        cmd[cmd.index("-vf") + 1] = base.replace(f"fontfile={FONT}:", "")
+        _run(cmd, timeout=120)
+    return out
 
 
 def verify_short(path: Path) -> dict:
@@ -515,7 +628,8 @@ def assemble(
     workdir.mkdir(parents=True, exist_ok=True)
     n = len(items)
     total = min(voice_dur, cap) if cap else voice_dur
-    durs = [total / n] * n
+    d = (total + (n - 1) * FADE) / n if n > 1 else total
+    durs = [d] * n
     clips = []
     for i, (path, is_video, _url, _credit) in enumerate(items):
         if config.kill_requested():
@@ -523,26 +637,36 @@ def assemble(
         clip = workdir / f"clip_{i:02d}.mp4"
         extra = fx_mod.variant(f"{workdir.name}:{i}")
         if is_video:
-            fit_clip(path, clip, durs[i], w, h, fps, extra)
+            fit_clip(path, clip, d, w, h, fps, extra)
         else:
-            ken_burns(path, clip, durs[i], w, h, fps, extra)
+            ken_burns(path, clip, d, w, h, fps, extra, zin=(i % 2 == 0))
         clips.append(clip)
-    silent = workdir / "silent.mp4"
-    concat_clips(clips, silent)
     if sentences:
-        subs = build_karaoke(sentences, workdir / "subs.ass", kind, cap)
+        subs_path = build_karaoke(sentences, workdir / "subs.ass", kind, cap)
         cc = build_burst_srt(sentences, workdir / "cc.srt", cap)
+        ass_esc = str(subs_path).replace(":", "\\:").replace("'", "")
+        subfilter = f"ass='{ass_esc}'"
     else:
-        subs = None
         cc = write_srt(scenes, durs, workdir / "cc.srt")
+        srt_esc = str(cc).replace(":", "\\:").replace("'", "")
+        if kind == "short":
+            margin, size = 600, 64
+        else:
+            margin, size = 140, 58
+        style = (
+            "FontName=DejaVu Sans,FontSize={sz},PrimaryColour=&HFFFFFF,"
+            "OutlineColour=&H90000000,BorderStyle=1,Outline=3,Shadow=0,"
+            "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
+        )
+        subfilter = f"subtitles='{srt_esc}':force_style='{style}'"
     final = workdir / "final.mp4"
-    if subs is not None:
-        mux_ass(silent, audio, subs, final, max_sec=cap)
+    hard_cap = (cap + 3.0) if cap else None
+    if n > 1:
+        mux_xfade(clips, audio, subfilter, final, d, max_sec=hard_cap)
     else:
-        mux_subs(silent, audio, cc, final, kind, max_sec=cap)
+        mux_ass(clips[0], audio, subs_path if sentences else cc, final, max_sec=hard_cap)
     for c in clips:
         c.unlink(missing_ok=True)
-    silent.unlink(missing_ok=True)
     if kind == "short":
         verify_short(final)
     return final, cc

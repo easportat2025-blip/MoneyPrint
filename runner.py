@@ -206,6 +206,15 @@ def run_one(kind: str = "short") -> dict:
         except Exception as e:
             state.stage(rec_id, "captions", False, str(e)[:200])
 
+        if kind == "long":
+            try:
+                thumb = workdir / "render" / "thumb.png"
+                assemble_mod.build_thumb(final, idea.get("title", "ReZain"), thumb)
+                upload_mod.set_thumbnail(result["youtube_id"], thumb)
+                state.stage(rec_id, "thumbnail", True, f"{thumb.stat().st_size} bytes")
+            except Exception as e:
+                state.stage(rec_id, "thumbnail", False, str(e)[:200])
+
         state.update(rec_id, status="cleaning")
         cleanup_mod.job_workdir(workdir)
         state.update(rec_id, status="done")

@@ -4,15 +4,14 @@ import config
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 
 
+GRADE = "eq=contrast=1.06:saturation=1.15,vignette=angle=PI/5,noise=alls=5:allf=t+u"
+
+
 def variant(seed: str = "") -> str:
     rnd = random.Random(seed or "rezain")
-    parts = []
     if rnd.random() < 0.5:
-        parts.append("hflip")
-    c = round(rnd.uniform(1.0, 1.15), 2)
-    s = round(rnd.uniform(1.0, 1.25), 2)
-    parts.append(f"eq=contrast={c}:saturation={s}")
-    return ",".join(parts)
+        return "hflip"
+    return ""
 
 
 def watermark_vf(tag: str = "@ReZain") -> str:
