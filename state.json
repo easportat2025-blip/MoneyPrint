@@ -1,5 +1,195 @@
 [
   {
+    "id": "f8973e3423",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "The Pope Who Stuted a Corpse Trial",
+    "idea": {
+      "title": "The Pope Who Stuted a Corpse Trial",
+      "hook": "In 897 AD, a dead Pope was dug up, dressed in papal robes, and put on trial.",
+      "beats": [
+        "Pope Stephen VI harbored an intense hatred for his predecessor, Pope Formosus, who had died months prior.",
+        "He ordered the decaying corpse exhumed, propped up on a throne in a crowded Roman basilica, and subjected to a formal ecclesiastical trial.",
+        "A terrified young deacon was assigned to speak on behalf of the mute corpse, answering the prosecutor's furious charges.",
+        "The verdict was brutal: Formosus was found guilty, his papacy annulled, his fingers severed, and his body thrown into the Tiber River."
+      ],
+      "keywords": [
+        "medieval pope portrait",
+        "ancient rome painting",
+        "vatican courtroom engraving",
+        "historical corpse art",
+        "papal throne sculpture"
+      ],
+      "tags": [
+        "history",
+        "vatican",
+        "middleages",
+        "historicalmystery",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 897 AD, Rome put a dead pope on trial.",
+        "search": "cadaver synod jean paul laurens oil painting",
+        "caption": "A dead pope placed on trial"
+      },
+      {
+        "narration": "Known as the Cadaver Synod, it became the most grotesque spectacle in Vatican history.",
+        "search": "basilica of saint john lateran interior engraving",
+        "caption": "The Cadaver Synod of 897 AD"
+      },
+      {
+        "narration": "Ninth-century Italy was fractured by violent aristocratic factions fighting to control the papacy.",
+        "search": "medieval italy 9th century map engraving",
+        "caption": "Brutal medieval power struggles"
+      },
+      {
+        "narration": "Pope Formosus ruled from 891 to 896, caught between warring dynastic families.",
+        "search": "pope formosus medieval portrait engraving",
+        "caption": "Pope Formosus took power in 891"
+      },
+      {
+        "narration": "Formosus backed Arnulf of Carinthia for Holy Roman Emperor, enraging the powerful House of Spoleto.",
+        "search": "arnulf of carinthia coronation medieval manuscript illumination",
+        "caption": "Imperial rivalry sparked political fury"
+      },
+      {
+        "narration": "Formosus died in April 896, but death provided no sanctuary from his enemies.",
+        "search": "medieval papal tomb marble sculpture",
+        "caption": "Formosus died in 896"
+      },
+      {
+        "narration": "His successor, Pope Stephen VI, was a fierce puppet of the Spoleto faction.",
+        "search": "pope stephen vi portrait painting",
+        "caption": "Pope Stephen VI seized authority"
+      },
+      {
+        "narration": "In January 897, Stephen ordered papal guards to exhume Formosus after nine months underground.",
+        "search": "gravediggers medieval cemetery etching",
+        "caption": "Exhuming the nine-month-old corpse"
+      },
+      {
+        "narration": "The decomposing body was dressed in sacred vestments and seated upright on a throne.",
+        "search": "cadaver synod oil painting detail",
+        "caption": "Dressed in full pontifical robes"
+      },
+      {
+        "narration": "Bishops and clergy assembled inside the Basilica of the Most Holy Savior to witness the trial.",
+        "search": "medieval ecclesiastical synod council woodcut",
+        "caption": "Clergy gathered for the trial"
+      },
+      {
+        "narration": "A trembling young deacon stood beside the corpse, ordered to speak on the dead man's behalf.",
+        "search": "medieval deacon clerical manuscript illumination",
+        "caption": "A deacon forced to defend the corpse"
+      },
+      {
+        "narration": "Pope Stephen shouted charges directly at the corpse, accusing Formosus of illegally seizing the papal throne.",
+        "search": "medieval inquisitor trial court engraving",
+        "caption": "Stephen screamed accusations at the body"
+      },
+      {
+        "narration": "The silent cadaver offered no defense, and the assembly promptly declared Formosus guilty.",
+        "search": "medieval courtroom sentencing woodcut engraving",
+        "caption": "Formosus declared guilty on all counts"
+      },
+      {
+        "narration": "Soldiers stripped the corpse of its papal robes and severed the three fingers used for blessings.",
+        "search": "medieval executioner desecration woodcut",
+        "caption": "Blessing fingers brutally severed"
+      },
+      {
+        "narration": "His mutilated remains were dragged through the streets and cast into the Tiber River.",
+        "search": "tiber river rome medieval bridge engraving",
+        "caption": "Dumped into the Tiber River"
+      },
+      {
+        "narration": "Disgusted by the sacrilege, Roman citizens revolted months later, throwing Stephen into prison where he was strangled.",
+        "search": "medieval prison dungeon execution engraving",
+        "caption": "Romans revolted and strangled Stephen"
+      },
+      {
+        "narration": "Subsequent popes recovered Formosus's body and permanently banned the trial of dead pontiffs.",
+        "search": "vatican secret archives manuscript parchment",
+        "caption": "Corpse trials banned forever"
+      }
+    ],
+    "error": "",
+    "youtube_id": "SY4ZBcgYWDk",
+    "youtube_url": "https://www.youtube.com/watch?v=SY4ZBcgYWDk",
+    "created_at": "2026-09-25T20:40:48.814853+00:00",
+    "updated_at": "2026-09-25T20:43:52.041989+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-25T20:41:01.975666+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "865 chars",
+        "at": "2026-09-25T20:42:19.793520+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "57.4s 12 sentences",
+        "at": "2026-09-25T20:42:23.628849+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-25T20:42:25.859956+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-25T20:42:35.436409+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 55.0s 16707877 bytes",
+        "at": "2026-09-25T20:43:49.668077+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=SY4ZBcgYWDk",
+        "at": "2026-09-25T20:43:51.772103+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-25T20:43:52.027502+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-25T20:43:52.041981+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17747095/pexels-photo-17747095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4558412/pexels-photo-4558412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634479/pexels-photo-7634479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20221497/pexels-photo-20221497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20590670/pexels-photo-20590670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19455918/pexels-photo-19455918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25294112/pexels-photo-25294112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34537309/pexels-photo-34537309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494902/pexels-photo-9494902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7479025/pexels-photo-7479025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8955343/pexels-photo-8955343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31466235/pexels-photo-31466235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6077240/pexels-photo-6077240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36927594/pexels-photo-36927594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19328838/pexels-photo-19328838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33141602/pexels-photo-33141602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11388027/pexels-photo-11388027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c629337ea3",
     "kind": "short",
     "channel": "Channel2",
