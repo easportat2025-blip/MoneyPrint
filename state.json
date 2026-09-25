@@ -1,5 +1,195 @@
 [
   {
+    "id": "c629337ea3",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "The Roman Emperor Who Declared War on the Sea",
+    "idea": {
+      "title": "The Roman Emperor Who Declared War on the Sea",
+      "hook": "Caligula was so convinced he could conquer the ocean, he ordered his legionaries to stab the water.",
+      "beats": [
+        "Caligula leads his massive Roman army to the shores of the English Channel.",
+        "Instead of boarding ships for Britain, he commands soldiers to draw swords and slash the crashing waves.",
+        "He orders troops to gather seashells in their helmets as 'spoils of war' for Rome.",
+        "Modern historians debate whether this was severe mental illness or a brilliant psychological stunt to mock his own senate."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman painting",
+        "sea waves engraving",
+        "roman soldiers art",
+        "caligula portrait"
+      ],
+      "tags": [
+        "history",
+        "rome",
+        "caligula",
+        "shorts",
+        "historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In forty one AD, Emperor Caligula marched forty thousand Roman soldiers to the shores of the English Channel.",
+        "search": "roman emperor bust",
+        "caption": "Caligula's army reaches the ocean."
+      },
+      {
+        "narration": "The ultimate objective was the invasion of Britain, but the crossing never happened.",
+        "search": "ancient roman painting",
+        "caption": "The planned invasion stalls."
+      },
+      {
+        "narration": "Instead, a bizarre command echoed across the gravel beach at Boulogne.",
+        "search": "sea waves engraving",
+        "caption": "A strange command is given."
+      },
+      {
+        "narration": "Caligula ordered his legionaries to draw their swords against the crashing tide.",
+        "search": "roman soldiers art",
+        "caption": "Soldiers attack the sea."
+      },
+      {
+        "narration": "Thousands of heavily armed infantrymen slashed furiously at the open water.",
+        "search": "caligula portrait",
+        "caption": "Swords strike the waves."
+      },
+      {
+        "narration": "The emperor watched as waves broke over the boots of his confused troops.",
+        "search": "roman soldiers art",
+        "caption": "The tide resists the empire."
+      },
+      {
+        "narration": "Next, Caligula demanded his men gather seashells into their military helmets.",
+        "search": "ancient roman painting",
+        "caption": "Collecting spoils of war."
+      },
+      {
+        "narration": "These marine treasures were formally declared spoils of war for Rome.",
+        "search": "roman emperor bust",
+        "caption": "Seashells claimed as victory."
+      },
+      {
+        "narration": "He then ordered a towering lighthouse built on the coast to mark the triumph.",
+        "search": "sea waves engraving",
+        "caption": "A monument to a strange victory."
+      },
+      {
+        "narration": "Suetonius later recorded the event as proof of severe, erratic mental instability.",
+        "search": "caligula portrait",
+        "caption": "Historians record the madness."
+      },
+      {
+        "narration": "However, modern historians uncover a deeply calculated political motive beneath the act.",
+        "search": "ancient roman painting",
+        "caption": "Uncovering the hidden motive."
+      },
+      {
+        "narration": "His legions had mutinied earlier that year, refusing to cross the dangerous channel.",
+        "search": "roman soldiers art",
+        "caption": "The prior legion mutiny."
+      },
+      {
+        "narration": "By ordering an absurd war against Neptune, Caligula publicly humiliated the disobedient troops.",
+        "search": "roman emperor bust",
+        "caption": "Humiliating the rebellious troops."
+      },
+      {
+        "narration": "It redirected their collective shame into a bizarre public spectacle.",
+        "search": "sea waves engraving",
+        "caption": "A brilliant psychological stunt."
+      },
+      {
+        "narration": "He simultaneously mocked the Roman Senate by claiming dominion over the ocean itself.",
+        "search": "caligula portrait",
+        "caption": "Mocking the Roman Senate."
+      },
+      {
+        "narration": "Two thousand years later, the event remains history's ultimate display of absolute power.",
+        "search": "ancient roman painting",
+        "caption": "The ultimate display of power."
+      },
+      {
+        "narration": "Madness or manipulation, Caligula conquered the sea on his own terms.",
+        "search": "roman emperor bust",
+        "caption": "Madness or political manipulation?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "YCz32ZQA9ck",
+    "youtube_url": "https://www.youtube.com/watch?v=YCz32ZQA9ck",
+    "created_at": "2026-09-25T19:58:36.246249+00:00",
+    "updated_at": "2026-09-25T20:02:47.090766+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-25T19:59:53.785384+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "781 chars",
+        "at": "2026-09-25T20:01:17.175510+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "51.0s 10 sentences",
+        "at": "2026-09-25T20:01:20.215549+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-25T20:01:22.073771+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-25T20:01:32.356667+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 51.0s 17776816 bytes",
+        "at": "2026-09-25T20:02:43.589584+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=YCz32ZQA9ck",
+        "at": "2026-09-25T20:02:46.814566+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-25T20:02:47.077332+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-25T20:02:47.090759+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709008/pexels-photo-35709008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14662459/pexels-photo-14662459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18088638/pexels-photo-18088638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13269289/pexels-photo-13269289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049682/pexels-photo-19049682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5209732/pexels-photo-5209732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35548055/pexels-photo-35548055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38209710/pexels-photo-38209710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38963126/pexels-photo-38963126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24951762/pexels-photo-24951762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34818795/pexels-photo-34818795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792660/pexels-photo-30792660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31814617/pexels-photo-31814617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31979489/pexels-photo-31979489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c8f957e9ab",
     "kind": "short",
     "channel": "ReZain",
