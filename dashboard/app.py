@@ -445,6 +445,21 @@ def _yt_token() -> str | None:
         return None
 
 
+def _all_records() -> list:
+    recs = state.load()
+    if recs:
+        return recs
+    logs = config.ROOT / "state_from_logs.json"
+    if logs.exists():
+        try:
+            data = json.loads(logs.read_text(encoding="utf-8"))
+            if data:
+                return data
+        except json.JSONDecodeError:
+            pass
+    return []
+
+
 def views_snapshot(force: bool = False) -> dict:
     out = {"ids": {}, "trend": [], "at": "-"}
     if _rq is None:
@@ -460,7 +475,7 @@ def views_snapshot(force: bool = False) -> dict:
         pass
     else:
         vids = []
-        for r in state.load():
+        for r in _all_records():
             vid = r.get("youtube_id", "")
             if vid and vid not in vids:
                 vids.append(vid)
@@ -503,7 +518,7 @@ def views_snapshot(force: bool = False) -> dict:
     for t in trend:
         t["h"] = int(100 * t["n"] / mx) if mx else 3
     latest = hist[days[-1]] if days else {}
-    id_title = {r.get("youtube_id"): r.get("title", "") for r in state.load()}
+    id_title = {r.get("youtube_id"): r.get("title", "") for r in _all_records()}
     view_list = sorted(
         [
             {
