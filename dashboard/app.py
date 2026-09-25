@@ -44,103 +44,140 @@ except ImportError:
 app = Flask(__name__)
 
 CRONS = [
-    {"job": "Acc1 Short #1", "utc": "16:00", "vn": "23:00 VN / 12:00 ET", "wf": "shorts-acc1.yml"},
-    {"job": "Acc1 Short #2", "utc": "19:00", "vn": "02:00 VN / 15:00 ET", "wf": "shorts-acc1.yml"},
-    {"job": "Acc1 Short #3", "utc": "22:00", "vn": "05:00 VN / 18:00 ET", "wf": "shorts-acc1.yml"},
-    {"job": "Acc2 Short #1", "utc": "17:30", "vn": "00:30 VN / 13:30 ET", "wf": "shorts-acc2.yml"},
-    {"job": "Acc2 Short #2", "utc": "20:30", "vn": "03:30 VN / 16:30 ET", "wf": "shorts-acc2.yml"},
-    {"job": "Acc2 Short #3", "utc": "23:30", "vn": "06:30 VN / 19:30 ET", "wf": "shorts-acc2.yml"},
-    {"job": "Acc1 Long", "utc": "15:00 /5 ngay", "vn": "22:00 VN /5 ngay", "wf": "long.yml"},
+    {"job": "Acc1 Short #1", "utc": "16:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
+    {"job": "Acc1 Short #2", "utc": "19:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
+    {"job": "Acc1 Short #3", "utc": "22:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
+    {"job": "Acc2 Short #1", "utc": "17:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #2", "utc": "20:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #3", "utc": "23:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
+    {"job": "Acc1 Long (/5d)", "utc": "15:00", "ch": "ReZain", "wf": "long.yml"},
 ]
 
 SHORTS_TARGET = 3
 ALLOWED_WF = {"shorts-acc1": "shorts-acc1.yml", "shorts-acc2": "shorts-acc2.yml", "long": "long.yml"}
+VIEWS_FILE = ROOT / "views_history.json"
 
 PAGE = """<!doctype html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>MoneyPrint Studio</title>
 <style>
-:root{--bg:#0a0e1a;--bg2:#111630;--card:#151b3d;--line:#2a3160;--txt:#eef1ff;--mut:#9aa3c7;--acc:#7c6cff;--acc2:#00d4ff;--grn:#22c55e;--red:#ef4444;--yel:#f59e0b}
+:root{--bg:#0c1210;--side:#101713;--card:#141d18;--card2:#182420;--line:#223028;--txt:#e8f0ea;--mut:#93a89a;--mint:#a9f0c6;--mint-d:#5ecf8f;--grn:#34d399;--red:#f87171;--yel:#fbbf24}
 *{box-sizing:border-box}
-body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:radial-gradient(1200px 400px at 20% -10%,#1c2456 0%,var(--bg) 60%);color:var(--txt);margin:0;min-height:100vh}
-.nav{position:sticky;top:0;z-index:5;background:rgba(10,14,26,.85);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:12px 22px;display:flex;align-items:center;gap:14px}
-.logo{font-weight:800;font-size:18px;background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
-.logo small{font-size:11px;color:var(--mut);font-weight:400;display:block;-webkit-text-fill-color:var(--mut)}
-.tabs{display:flex;gap:6px;margin-left:8px;flex-wrap:wrap}
-.tab{background:transparent;border:1px solid transparent;color:var(--mut);border-radius:999px;padding:8px 16px;cursor:pointer;font:inherit;font-size:13.5px;font-weight:600}
-.tab:hover{color:var(--txt)}
-.tab.on{background:linear-gradient(90deg,var(--acc),#5a4de0);color:#fff;box-shadow:0 4px 18px rgba(124,108,255,.4)}
-.wrap{padding:20px 22px;max-width:1200px;margin:0 auto}
-.sub{color:var(--mut);font-size:12px;margin:2px 0 14px}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--txt);margin:0;font-size:15px;display:flex;min-height:100vh}
+.side{width:248px;flex-shrink:0;background:var(--side);border-right:1px solid var(--line);padding:18px 14px;display:flex;flex-direction:column;gap:6px;position:sticky;top:0;height:100vh}
+.logo{font-weight:800;font-size:19px;display:flex;align-items:center;gap:8px;padding:2px 6px 14px}
+.logo .mk{width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,var(--mint),var(--mint-d));display:inline-flex;align-items:center;justify-content:center;color:#06281a;font-weight:900}
+.logo small{color:var(--mut);font-weight:400}
+.create{background:var(--mint);color:#06281a;border:none;border-radius:12px;padding:12px;font:inherit;font-weight:700;font-size:14.5px;cursor:pointer;margin-bottom:14px}
+.create:hover{filter:brightness(1.06)}
+.ws{font-size:11px;letter-spacing:1.5px;color:var(--mut);padding:6px 10px 4px}
+.ws-acc{display:flex;align-items:center;gap:9px;padding:9px 10px;border-radius:10px;cursor:pointer;font-size:13.5px}
+.ws-acc:hover{background:var(--card)}
+.ws-acc .av{width:26px;height:26px;border-radius:50%;background:#23402f;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--mint)}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--mut);margin-left:auto}
+.dot.ok{background:var(--grn);box-shadow:0 0 8px var(--grn)}
+.dot.bad{background:var(--red)}
+.navbtn{display:flex;align-items:center;gap:11px;background:transparent;border:none;color:var(--mut);border-radius:10px;padding:10px 12px;cursor:pointer;font:inherit;font-size:14px;width:100%;text-align:left}
+.navbtn:hover{color:var(--txt);background:var(--card)}
+.navbtn.on{background:#1b2b22;color:var(--mint);border-left:3px solid var(--mint-d)}
+.navbtn .ic{width:20px;text-align:center}
+.user{margin-top:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:12.5px;display:flex;gap:9px;align-items:center}
+.user .av{width:28px;height:28px;border-radius:50%;background:#23402f;display:inline-flex;align-items:center;justify-content:center;font-weight:700;color:var(--mint)}
+.user small{color:var(--mut);display:block}
+.main{flex:1;padding:26px 30px;max-width:1150px}
+.sub{color:var(--mut);font-size:12.5px;margin:2px 0 16px}
 .panel{display:none}.panel.on{display:block;animation:fade .25s}
 @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1}}
+.hero{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:18px;padding:24px 26px;margin-bottom:18px}
+.hero h1{margin:0 0 4px;font-size:26px}
+.hero p{color:var(--mut);margin:0 0 16px;font-size:14px}
+.hero .row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.pill{border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:12.5px;color:var(--mut)}
+.pill.ok{color:var(--mint);border-color:var(--mint-d)}
+.bigstat{font-size:22px;font-weight:800;margin:14px 0 2px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-bottom:16px}
-.card{background:linear-gradient(180deg,var(--card),#10153a);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
-.card b{font-size:24px;display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.card b{font-size:23px;display:block}
 .card span{font-size:11.5px;color:var(--mut)}
 .toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;align-items:center}
-button{background:#1d2450;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px 14px;cursor:pointer;font:inherit;font-size:13px;font-weight:600}
-button:hover{border-color:var(--acc)}
-button.primary{background:linear-gradient(90deg,var(--acc),#5a4de0);border:none;box-shadow:0 4px 16px rgba(124,108,255,.35)}
-button.danger{border-color:var(--red);color:#ff8a8a}
-button.go{border-color:var(--grn);color:#7dffa8}
-button.warn{border-color:var(--yel);color:#ffd47d}
+button{background:#1a2620;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px 14px;cursor:pointer;font:inherit;font-size:13.5px;font-weight:600}
+button:hover{border-color:var(--mint-d)}
+button.primary{background:var(--mint);color:#06281a;border:none}
+button.danger{border-color:var(--red);color:#fca5a5}
+button.go{border-color:var(--grn);color:#a7f3d0}
+button.warn{border-color:var(--yel);color:#fde68a}
 button.big{font-size:16px;padding:14px 26px;border-radius:14px;width:100%}
 button:disabled{opacity:.35;cursor:default}
-select,input{background:#0d1230;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px;font:inherit;font-size:13px}
-table{border-collapse:collapse;width:100%;font-size:13px}
+select,input{background:#0e1512;color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:8px;font:inherit;font-size:13.5px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
 th,td{border-bottom:1px solid var(--line);padding:9px;text-align:left;vertical-align:top}
 th{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
-tr.row:hover{background:rgba(124,108,255,.06)}
+tr.row:hover{background:rgba(169,240,198,.05)}
 .st-done,.st-uploaded{color:var(--grn);font-weight:700}.st-failed{color:var(--red);font-weight:700}
 .st-uploading,.st-rendering,.st-researching,.st-scripting,.st-fetching_media,.st-tts,.st-cleaning,.st-planned,.st-mixing_music{color:var(--yel)}
-.badge{display:inline-block;padding:3px 10px;border-radius:999px;background:#1d2450;border:1px solid var(--line);margin:1px;font-size:11px}
-.badge.ok{border-color:var(--grn);color:#7dffa8}.badge.no{border-color:var(--red);color:#ff8a8a}
-a{color:var(--acc2)}
+.badge{display:inline-block;padding:3px 10px;border-radius:999px;background:#1a2620;border:1px solid var(--line);margin:1px;font-size:11px}
+.badge.ok{border-color:var(--grn);color:#a7f3d0}.badge.no{border-color:var(--red);color:#fca5a5}
+a{color:#7dd3fc}
 .thumb{width:120px;border-radius:10px;display:block}
-.err{color:#ff8a8a;max-width:300px;word-break:break-word;font-size:12px}
-.detail{display:none;background:#0d1230}
-pre{white-space:pre-wrap;font-size:12px;margin:4px 0;background:#0a0e24;padding:8px;border-radius:8px}
+.err{color:#fca5a5;max-width:300px;word-break:break-word;font-size:12px}
+.detail{display:none;background:#0d1310}
+pre{white-space:pre-wrap;font-size:12px;margin:4px 0;background:#0a0f0c;padding:8px;border-radius:8px}
 .scene{border-bottom:1px dashed var(--line);padding:6px 0}
-.kill-banner{background:rgba(239,68,68,.12);border:1px solid var(--red);padding:10px 14px;border-radius:12px;margin-bottom:12px}
-.live-banner{background:rgba(34,197,94,.1);border:1px solid var(--grn);padding:10px 14px;border-radius:12px;margin-bottom:12px}
-h2{font-size:15px;margin:22px 0 10px}
-.note{color:var(--mut);font-size:12px}
+.kill-banner{background:rgba(248,113,113,.1);border:1px solid var(--red);padding:10px 14px;border-radius:12px;margin-bottom:12px}
+.live-banner{background:rgba(52,211,153,.08);border:1px solid var(--grn);padding:10px 14px;border-radius:12px;margin-bottom:12px}
+h2{font-size:15.5px;margin:22px 0 10px}
+.note{color:var(--mut);font-size:12.5px}
 #msg{color:var(--yel);font-size:13px;margin-left:8px}
-.prog{background:#1d2450;border-radius:999px;height:20px;overflow:hidden;max-width:460px;margin:6px 0}
-.prog>div{background:linear-gradient(90deg,var(--grn),#4ade80);height:100%;text-align:right;font-size:11px;line-height:20px;padding-right:8px;color:#041;font-weight:700}
-.prog>div.low{background:linear-gradient(90deg,var(--yel),#fbbf24)}
+.prog{background:#1a2620;border-radius:999px;height:20px;overflow:hidden;max-width:460px;margin:6px 0}
+.prog>div{background:linear-gradient(90deg,var(--mint-d),var(--mint));height:100%;text-align:right;font-size:11px;line-height:20px;padding-right:8px;color:#06281a;font-weight:700}
+.prog>div.low{background:linear-gradient(90deg,var(--yel),#fcd34d)}
 .bar-row{display:flex;align-items:flex-end;gap:8px;height:140px;margin:10px 0 26px}
-.bar{width:36px;background:linear-gradient(180deg,var(--acc),#4a3fd4);border-radius:6px 6px 0 0;position:relative;min-height:4px}
+.bar{width:36px;background:linear-gradient(180deg,var(--mint-d),#2f7d55);border-radius:6px 6px 0 0;position:relative;min-height:4px}
 .bar span{position:absolute;bottom:-20px;left:0;right:0;text-align:center;font-size:10px;color:var(--mut)}
 .bar b{position:absolute;top:-18px;left:0;right:0;text-align:center;font-size:11px}
-.mission{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:12px;max-width:680px}
-.mission.done{border-color:var(--grn)}
-.mission h3{margin:0 0 6px;font-size:14px}
+.mission{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:12px;max-width:700px}
+.mission.done{border-color:var(--mint-d)}
+.mission h3{margin:0 0 6px;font-size:14.5px}
 .force-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.force-card{background:linear-gradient(180deg,var(--card),#10153a);border:1px solid var(--line);border-radius:16px;padding:20px}
+.force-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}
 .force-card h3{margin:0 0 4px;font-size:16px}
 .force-card p{color:var(--mut);font-size:12.5px;margin:4px 0 14px}
-.acct{display:flex;align-items:center;gap:10px;margin-bottom:8px}
-.dot{width:12px;height:12px;border-radius:50%;background:var(--mut)}
-.dot.ok{background:var(--grn);box-shadow:0 0 10px var(--grn)}
-.dot.bad{background:var(--red)}
+.vrow{display:flex;align-items:center;gap:10px;padding:7px 0;border-bottom:1px dashed var(--line);font-size:13.5px}
+.vrow img{width:86px;border-radius:8px}
+.vrow .t{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vrow b{color:var(--mint)}
+@media(max-width:800px){.side{display:none}body{display:block}}
 </style></head><body>
-<div class="nav"><div class="logo">MoneyPrint<small>faceless video studio</small></div>
-<div class="tabs">
-<button class="tab on" onclick="tab('videos',this)">Videos</button>
-<button class="tab" onclick="tab('force',this)">Force Make</button>
-<button class="tab" onclick="tab('missions',this)">Missions</button>
-<button class="tab" onclick="tab('growth',this)">Growth + Income</button>
-<button class="tab" onclick="tab('plan',this)">GitHub Plan</button>
-<button class="tab" onclick="tab('accounts',this)">Accounts</button>
-</div></div>
-<div class="wrap">
+<div class="side">
+<div class="logo"><span class="mk">M</span> MoneyPrint <small>studio</small></div>
+<button class="create" onclick="tab('force',null)">＋ Force video</button>
+<div class="ws">WORKSPACE</div>
+<div class="ws-acc" onclick="filterCh('{{ acc1_name }}')"><span class="av">{{ acc1_name[0] }}</span>{{ acc1_name }}<span class="dot {{ 'ok' if acc1_ok else 'bad' }}"></span></div>
+<div class="ws-acc" onclick="filterCh('{{ acc2_name }}')"><span class="av">{{ acc2_name[0] }}</span>{{ acc2_name }}<span class="dot {{ 'ok' if acc2_ok else 'bad' }}"></span></div>
+<div class="ws">MENU</div>
+<button class="navbtn on" onclick="tab('videos',this)"><span class="ic">▦</span>Videos</button>
+<button class="navbtn" onclick="tab('force',this)"><span class="ic">▶</span>Force Make</button>
+<button class="navbtn" onclick="tab('missions',this)"><span class="ic">☑</span>Missions</button>
+<button class="navbtn" onclick="tab('growth',this)"><span class="ic">↗</span>Growth</button>
+<button class="navbtn" onclick="tab('plan',this)"><span class="ic">◷</span>Plan</button>
+<button class="navbtn" onclick="tab('accounts',this)"><span class="ic">◉</span>Accounts</button>
+<div class="user"><span class="av">{{ acc1_email[0] if acc1_email else "?" }}</span><span>{{ acc1_email }}<small>local · free tier</small></span></div>
+</div>
+<div class="main">
 <div class="sub">{{ src }} &middot; synced {{ synced }} &middot; quota {{ uploads_today }}/{{ max_uploads }}</div>
 {% if kill %}<div class="kill-banner">KILL SWITCH ACTIVE (local only)</div>{% endif %}
 <div id="liveBox"></div>
 
 <div class="panel on" id="p-videos">
+<div class="hero">
+<div class="row"><h1>Autopilot</h1><span class="pill {{ 'ok' if wf_on>0 else '' }}">{{ wf_on }}/3 workflows active</span></div>
+<p>Set once. MoneyPrint creates your next videos.</p>
+<div class="bigstat">{{ acc1_name }} + {{ acc2_name }}</div>
+<p>{{ per_day }} videos per day &middot; English &middot; Automatic publishing</p>
+<p class="note">Planned posting time</p>
+<div class="bigstat">{{ next_slot }}</div>
+<p class="note">Asia/Ho_Chi_Minh &middot; {{ next_note }}</p>
+</div>
 <div class="grid">
 <div class="card"><b>{{ total }}</b><span>records</span></div>
 <div class="card"><b style="color:var(--grn)">{{ done }}</b><span>uploaded</span></div>
@@ -153,7 +190,7 @@ h2{font-size:15px;margin:22px 0 10px}
 <button onclick="go('/sync')">Sync logs</button>
 <button onclick="location.reload()">Refresh</button>
 <button class="{% if kill %}go{% else %}danger{% endif %}" onclick="go('/kill')">{% if kill %}Unkill{% else %}Kill{% endif %}</button>
-<button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled title="GH_TOKEN missing"{% endif %}>Cancel jobs</button>
+<button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled{% endif %}>Cancel jobs</button>
 <select id="fStatus" onchange="filtr()"><option value="">all status</option><option>done</option><option>failed</option><option>planned</option><option>uploading</option><option>rendering</option></select>
 <select id="fKind" onchange="filtr()"><option value="">short+long</option><option value="short">short</option><option value="long">long</option></select>
 <select id="fCh" onchange="filtr()"><option value="">all channels</option>{% for c in ch_names %}<option>{{ c }}</option>{% endfor %}</select>
@@ -193,18 +230,18 @@ h2{font-size:15px;margin:22px 0 10px}
 </div>
 
 <div class="panel" id="p-force">
-<h2 style="margin-top:0">Force make video – chay ngay tren GitHub</h2>
+<h2 style="margin-top:0">Force make video</h2>
 <div id="forceLock"></div>
-<p class="note">Moi luc 1 video. Dang co job chay = tat ca nut force KHOA (server + UI), doi xong moi bam duoc.</p>
+<p class="note">1 video/luc. Dang co job chay = tat ca nut KHOA (server + UI).</p>
 <div class="force-grid">
-<div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc1_ok else 'bad' }}"></div><h3>Acc 1 – {{ acc1_name }}</h3></div>
-<p>1 Short doc (~12 phut): plan → voice → clips → subs → upload public. Hom nay: {{ amap1.done }}/3.</p>
-<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc1')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 1</button></div>
-<div class="force-card"><div class="acct"><div class="dot {{ 'ok' if acc2_ok else 'bad' }}"></div><h3>Acc 2 – {{ acc2_name }}</h3></div>
-<p>1 Short kenh 2. Hom nay: {{ amap2.done }}/3. Can token slot 2 (chua co = nut mo).</p>
-<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short – Acc 2</button></div>
-<div class="force-card"><div class="acct"><div class="dot ok"></div><h3>Long video – Acc 1</h3></div>
-<p>1 video &gt;5 phut ngang (~30-60 phut render). Chay thua, khong gap.</p>
+<div class="force-card"><h3>Acc 1 – {{ acc1_name }}</h3>
+<p>1 Short (~12 phut). Hom nay: {{ amap1.done }}/3.</p>
+<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc1')" {% if not has_token %}disabled{% endif %}>Force 1 Short</button></div>
+<div class="force-card"><h3>Acc 2 – {{ acc2_name }}</h3>
+<p>1 Short kenh 2. Hom nay: {{ amap2.done }}/3.</p>
+<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short</button></div>
+<div class="force-card"><h3>Long video – Acc 1</h3>
+<p>1 video &gt;5 phut (~30-60 phut).</p>
 <button class="big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('long')" {% if not has_token %}disabled{% endif %}>Force 1 Long</button></div>
 </div>
 <p><span id="msgF" class="note"></span></p>
@@ -230,35 +267,40 @@ h2{font-size:15px;margin:22px 0 10px}
 <div class="mission done">
 <h3>Gemini API: {{ m.gemini_calls }}/1000 calls hom nay</h3>
 <div class="prog"><div style="width:{{ (100*m.gemini_calls//1000) if m.gemini_calls<1000 else 100 }}%">{{ m.gemini_calls }}/1000</div></div>
-<div class="note">Free tier: 1000 req/ngay, 20 req/phut. Pipeline goi tuan tu (moi call cach nhau nhieu giay) + backoff khi 429 + xoay 2 keys + 9 models – khong bao gio cham tran.</div>
 </div>
 </div>
 
 <div class="panel" id="p-growth">
-<h2 style="margin-top:0">Kenh (so that tu YouTube)</h2>
+<h2 style="margin-top:0">Tang truong that (views/video/ngay)</h2>
+<div class="toolbar"><button onclick="goViews()">Refresh view stats</button><span class="note">goi videos.list that (~1 unit/50 video), cache 6h</span><span id="msgV" class="note"></span></div>
 {% for a in accs %}
-<div class="mission {{ 'done' if a.readonly_ok else '' }}">
-<h3>{{ a.name }} {% if a.channel_title %}– {{ a.channel_title }}{% endif %}
-{% if a.readonly_ok %}<span class="badge ok">LIVE</span>{% else %}<span class="badge no">{{ a.error or "CHUA KET NOI" }}</span>{% endif %}</h3>
+{% if a.readonly_ok %}
+<div class="mission done">
+<h3>{{ a.name }}{% if a.channel_title %} – {{ a.channel_title }}{% endif %} <span class="badge ok">LIVE</span></h3>
 <div class="grid">
 <div class="card"><b>{{ a.subs }}</b><span>subscribers</span></div>
-<div class="card"><b>{{ a.views }}</b><span>total views</span></div>
+<div class="card"><b>{{ a.views }}</b><span>total views (kenh)</span></div>
 <div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
 <div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
 </div>
 </div>
+{% endif %}
 {% endfor %}
-<div class="toolbar"><button onclick="goAcc2()">Refresh stats kenh</button><span class="note">goi that API, cache 1h</span><span id="msgCh" class="note"></span></div>
-<h2>Upload 14 ngay qua (ca 2 kenh)</h2>
+<h2>Views tung video (moi nhat truoc)</h2>
+{% for v in view_list %}
+<div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}</span><b>{{ v.views }} views</b></div>
+{% endfor %}
+<h2>Tong views theo ngay (tu snapshot)</h2>
+<div class="bar-row">{% for d in view_bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
+<h2>Upload 14 ngay qua</h2>
 <div class="bar-row">{% for d in bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
-<div class="grid"><div class="card"><b>{{ streak }}d</b><span>upload streak</span></div>
-<div class="card"><b>{{ total }}</b><span>total records</span></div></div>
+<div class="grid"><div class="card"><b>{{ streak }}d</b><span>upload streak</span></div></div>
 <h2>Thu nhap</h2>
 <div class="mission"><h3>Doanh thu uoc tinh: $0</h3>
 <div class="prog"><div class="low" style="width:2%">0%</div></div>
-<div class="note">Dieu kien YouTube Partner (Shorts): <b>1000 subs</b> + <b>10M Shorts views/90 ngay</b>.<br>
-{% for a in accs %}{% if a.readonly_ok %}{{ a.name }}: {{ a.subs }}/1000 subs.<br>{% endif %}{% endfor %}
-Du dieu kien thi bat trong YouTube Studio &gt; Earn. Dashboard tu hien so that khi ket noi Analytics API.</div></div>
+<div class="note">Partner (Shorts): <b>1000 subs</b> + <b>10M Shorts views/90 ngay</b>.<br>
+{% for a in accs %}{% if a.readonly_ok %}{{ a.name }}: {{ a.subs }}/1000 subs, {{ a.views }} views.<br>{% endif %}{% endfor %}
+Du dieu kien bat trong YouTube Studio &gt; Earn.</div></div>
 </div>
 
 <div class="panel" id="p-plan">
@@ -266,9 +308,8 @@ Du dieu kien thi bat trong YouTube Studio &gt; Earn. Dashboard tu hien so that k
 <table><tr><th>Job</th><th>UTC</th><th>Gio dia phuong</th><th>Workflow</th></tr>
 {% for c in crons %}<tr><td>{{ c.job }}</td><td>{{ c.utc }}</td><td>{{ c.vn }}</td><td>{{ c.wf }}</td></tr>{% endfor %}
 </table>
-<p class="note">Concurrency <b>moneyprint-video</b>: 1 video/luc, job sau xep hang.<br>
-Ping chinh xac: dung <b>worker-ping.js</b> (Cloudflare) thay cron – xem README.<br>
-Live status tu cap nhat moi 30s o banner xanh.</p>
+<p class="note">Concurrency <b>moneyprint-video</b>: 1 video/luc.<br>
+Ping chinh xac: <b>worker-ping.js</b> (Cloudflare) – xem README.</p>
 </div>
 
 <div class="panel" id="p-accounts">
@@ -291,6 +332,7 @@ Live status tu cap nhat moi 30s o banner xanh.</p>
 {% if a.channel_title %}<div>Kenh: <a href="https://www.youtube.com/channel/{{ a.channel_id }}" target="_blank">{{ a.channel_title }}</a></div>{% endif %}
 <div class="grid">
 <div class="card"><b>{{ a.subs }}</b><span>subs</span></div>
+<div class="card"><b>{{ a.views }}</b><span>views</span></div>
 <div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
 <div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
 </div>
@@ -303,12 +345,13 @@ Live status tu cap nhat moi 30s o banner xanh.</p>
 <p class="note">Kill chi dung local. Token chi trong .env local, khong commit.</p>
 </div>
 <script>
-function tab(n,el){document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});el.classList.add('on');document.getElementById('p-'+n).classList.add('on');}
+function tab(n,el){document.querySelectorAll('.navbtn').forEach(function(t){t.classList.remove('on');});if(el){el.classList.add('on');}document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});document.getElementById('p-'+n).classList.add('on');}
+function filterCh(name){var s=document.getElementById('fCh');if(s){s.value=name;}filtr();tab('videos',document.querySelector('.navbtn'));}
 function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
-function goAcc2(){document.getElementById('msgCh').textContent='refreshing...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgCh').textContent='error: '+e;});}
+function goViews(){document.getElementById('msgV').textContent='fetching...';fetch('/views?force=1').then(function(r){return r.json();}).then(function(j){document.getElementById('msgV').textContent=j.msg||'';setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgV').textContent='error: '+e;});}
 function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
 function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');var busy=(j.active||[]).length>0;document.querySelectorAll('.force-btn').forEach(function(x){if(busy){x.setAttribute('disabled','');}else if(x.dataset.locked!=='1'){x.removeAttribute('disabled');}});var fl=document.getElementById('forceLock');if(fl){fl.innerHTML=busy?'<div class="kill-banner">DANG TAO VIDEO: '+j.active[0].name+' – '+j.active[0].step+' ('+j.active[0].elapsed+'). Tat ca nut force DANG KHOA.</div>':'';}if(!busy){b.innerHTML='';return;}b.innerHTML=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' – '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');}).catch(function(){});}
 live();setInterval(live,30000);
@@ -361,6 +404,150 @@ def _gh_api(method: str, path: str, data: dict | None = None) -> dict:
         return {"ok": False, "msg": f"github {r.status_code}: {r.text[:200]}"}
     except Exception as e:
         return {"ok": False, "msg": str(e)[:200]}
+
+
+def _yt_token() -> str | None:
+    if _rq is None:
+        return None
+    cid = config.YOUTUBE_CLIENT_ID
+    csec = config.YOUTUBE_CLIENT_SECRET
+    rt = config.YOUTUBE_REFRESH_TOKEN
+    if not (cid and rt):
+        return None
+    try:
+        t = _rq.post(
+            "https://oauth2.googleapis.com/token",
+            data={
+                "client_id": cid,
+                "client_secret": csec,
+                "refresh_token": rt,
+                "grant_type": "refresh_token",
+            },
+            timeout=30,
+        )
+        if t.status_code != 200:
+            return None
+        return t.json()["access_token"]
+    except Exception:
+        return None
+
+
+def views_snapshot(force: bool = False) -> dict:
+    out = {"ids": {}, "trend": [], "at": "-"}
+    if _rq is None:
+        return out
+    try:
+        hist = {}
+        if VIEWS_FILE.exists():
+            hist = json.loads(VIEWS_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        hist = {}
+    today = datetime.date.today().isoformat()
+    if not force and hist.get(today):
+        pass
+    else:
+        vids = []
+        for r in state.load():
+            vid = r.get("youtube_id", "")
+            if vid and vid not in vids:
+                vids.append(vid)
+        if vids:
+            token = _yt_token()
+            if token:
+                try:
+                    snap = {}
+                    for i in range(0, len(vids), 50):
+                        chunk = vids[i : i + 50]
+                        rr = _rq.get(
+                            "https://www.googleapis.com/youtube/v3/videos",
+                            params={"id": ",".join(chunk), "part": "statistics,snippet"},
+                            headers={"Authorization": f"Bearer {token}"},
+                            timeout=30,
+                        )
+                        if rr.status_code != 200:
+                            break
+                        for it in rr.json().get("items", []):
+                            st = it.get("statistics", {})
+                            snap[it["id"]] = {
+                                "views": int(st.get("viewCount", 0)),
+                                "title": it.get("snippet", {}).get("title", ""),
+                            }
+                    if snap:
+                        hist[today] = snap
+                        try:
+                            VIEWS_FILE.write_text(json.dumps(hist), encoding="utf-8")
+                        except OSError:
+                            pass
+                except Exception:
+                    pass
+    days = sorted(hist.keys())[-14:]
+    trend = []
+    for d in days:
+        tot = sum(v.get("views", 0) for v in hist[d].values())
+        mx = max([tot] + [t["n"] for t in trend]) if trend else tot
+        trend.append({"day": d, "n": tot, "h": 0})
+    mx = max([t["n"] for t in trend]) if trend else 0
+    for t in trend:
+        t["h"] = int(100 * t["n"] / mx) if mx else 3
+    latest = hist[days[-1]] if days else {}
+    id_title = {r.get("youtube_id"): r.get("title", "") for r in state.load()}
+    view_list = sorted(
+        [
+            {
+                "id": vid,
+                "title": v.get("title") or id_title.get(vid, vid),
+                "views": v.get("views", 0),
+            }
+            for vid, v in latest.items()
+        ],
+        key=lambda x: -x["views"],
+    )
+    try:
+        ats = VIEWS_FILE.stat().st_mtime if VIEWS_FILE.exists() else 0
+        at = (
+            datetime.datetime.fromtimestamp(ats).strftime("%H:%M %d/%m") if ats else "-"
+        )
+    except OSError:
+        at = "-"
+    out = {"trend": trend, "list": view_list, "at": at}
+    return out
+
+
+def _next_slot() -> tuple[str, str]:
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    best = None
+    for c in CRONS:
+        hhmm = c["utc"].split(" ")[0]
+        try:
+            hh, mm = int(hhmm[:2]), int(hhmm[3:5])
+        except (ValueError, IndexError):
+            continue
+        cand = now_utc.replace(hour=hh, minute=mm, second=0, microsecond=0)
+        if cand <= now_utc:
+            cand += datetime.timedelta(days=1)
+        if best is None or cand < best[0]:
+            best = (cand, c["job"])
+    if not best:
+        return "-", "-"
+    vn = best[0] + datetime.timedelta(hours=7)
+    return vn.strftime("%b %d, %H:%M"), f"{best[1]} · cron tu chay"
+
+
+def _wf_states() -> int:
+    res = _gh_api("GET", "/actions/workflows?per_page=10")
+    if not res["ok"]:
+        return 0
+    n = 0
+    for w in res["data"].get("workflows", []):
+        if w.get("state") == "active" and w.get("path", "").startswith(
+            ".github/workflows/"
+        ) and w.get("path", "") in (
+            ".github/workflows/shorts-acc1.yml",
+            ".github/workflows/shorts-acc2.yml",
+            ".github/workflows/long.yml",
+        ):
+            n += 1
+    return n
 
 
 def _source_state() -> tuple[list, str]:
@@ -491,29 +678,10 @@ def channel_stats(force: bool = False) -> dict:
         except (json.JSONDecodeError, OSError):
             pass
     out = {"ok": False, "subs": "-", "views": "-", "videos": "-"}
-    if _rq is None:
-        return out
-    cid, csec, rt = (
-        config.YOUTUBE_CLIENT_ID,
-        config.YOUTUBE_CLIENT_SECRET,
-        config.YOUTUBE_REFRESH_TOKEN,
-    )
-    if not (cid and rt):
+    token = _yt_token()
+    if not token:
         return out
     try:
-        t = _rq.post(
-            "https://oauth2.googleapis.com/token",
-            data={
-                "client_id": cid,
-                "client_secret": csec,
-                "refresh_token": rt,
-                "grant_type": "refresh_token",
-            },
-            timeout=30,
-        )
-        if t.status_code != 200:
-            return out
-        token = t.json()["access_token"]
         r = _rq.get(
             "https://www.googleapis.com/youtube/v3/channels",
             params={"mine": "true", "part": "statistics"},
@@ -565,6 +733,8 @@ def index():
     acc2 = next((a for a in accs if a["slot"] == "2"), {})
     acc1_email = os.environ.get("ACCOUNT_1_EMAIL", "").strip() or "mail chu kenh 1"
     acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
+    views = views_snapshot()
+    nxt, nxt_note = _next_slot()
     return render_template_string(
         PAGE,
         records=records,
@@ -588,11 +758,17 @@ def index():
         acc2_email=acc2_email,
         acc1_name=config.CHANNEL_1_NAME,
         acc2_name=config.CHANNEL_2_NAME,
-        ch=channel_stats(),
         acc1_ok=bool(acc1.get("readonly_ok")),
         acc2_ok=bool(acc2.get("readonly_ok")),
         amap1=amap.get("1", {"done": 0}),
         amap2=amap.get("2", {"done": 0}),
+        ch=channel_stats(),
+        view_list=views["list"],
+        view_bars=views["trend"],
+        wf_on=_wf_states(),
+        per_day=6,
+        next_slot=nxt,
+        next_note=nxt_note,
         uploads_today=state.uploads_today(),
         max_uploads=config.MAX_DAILY_UPLOADS,
         kill=config.kill_requested(),
@@ -666,6 +842,15 @@ def live():
 def channel():
     force = request.args.get("force") == "1"
     return jsonify(channel_stats(force=force))
+
+
+@app.route("/views")
+def views():
+    force = request.args.get("force") == "1"
+    snap = views_snapshot(force=force)
+    return jsonify(
+        {"ok": True, "msg": f"{len(snap['list'])} videos tracked", "at": snap["at"]}
+    )
 
 
 @app.route("/missions")
