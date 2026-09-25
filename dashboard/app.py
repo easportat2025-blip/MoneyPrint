@@ -287,12 +287,15 @@ h2{font-size:15.5px;margin:22px 0 10px}
 {% endif %}
 {% endfor %}
 <h2>Views tung video (moi nhat truoc)</h2>
+{% if not view_list %}<p class="note">Chua co snapshot – bam <b>Refresh view stats</b> o tren (ton ~1 unit/50 video).</p>{% endif %}
 {% for v in view_list %}
 <div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}</span><b>{{ v.views }} views</b></div>
 {% endfor %}
 <h2>Tong views theo ngay (tu snapshot)</h2>
+{% if not view_bars %}<p class="note">Chua co du lieu – bam <b>Refresh view stats</b>, de vai ngay chart se dai ra.</p>{% endif %}
 <div class="bar-row">{% for d in view_bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
 <h2>Upload 14 ngay qua</h2>
+{% if total==0 %}<p class="note">Chua co record – bam <b>Sync logs</b> o tab Videos de keo log GitHub ve.</p>{% endif %}
 <div class="bar-row">{% for d in bars %}<div class="bar" style="height:{{ d.h }}%" title="{{ d.day }}: {{ d.n }}"><b>{{ d.n }}</b><span>{{ d.day[5:] }}</span></div>{% endfor %}</div>
 <div class="grid"><div class="card"><b>{{ streak }}d</b><span>upload streak</span></div></div>
 <h2>Thu nhap</h2>
@@ -305,8 +308,13 @@ Du dieu kien bat trong YouTube Studio &gt; Earn.</div></div>
 
 <div class="panel" id="p-plan">
 <h2 style="margin-top:0">Ke hoach GitHub (gio VN = UTC+7)</h2>
-<table><tr><th>Job</th><th>UTC</th><th>Gio dia phuong</th><th>Workflow</th></tr>
-{% for c in crons %}<tr><td>{{ c.job }}</td><td>{{ c.utc }}</td><td>{{ c.vn }}</td><td>{{ c.wf }}</td></tr>{% endfor %}
+<div class="hero">
+<p class="note">VIDEO GAN NHAT BAT DAU SAU</p>
+<div class="bigstat" id="nextCount">--:--:--</div>
+<p class="note" id="nextJob">dang tinh...</p>
+</div>
+<table id="cronTbl"><tr><th>Job</th><th>UTC</th><th>Gio VN</th><th>Con lai</th><th>Workflow</th></tr>
+{% for c in plan_rows %}<tr {% if c.hhmm %}data-utc="{{ c.hhmm }}"{% endif %} data-job="{{ c.job }}"><td>{{ c.job }}</td><td>{{ c.utc }}</td><td>{{ c.vn }}</td><td class="left">{% if not c.hhmm %}chu ky 5 ngay{% else %}--{% endif %}</td><td>{{ c.wf }}</td></tr>{% endfor %}
 </table>
 <p class="note">Concurrency <b>moneyprint-video</b>: 1 video/luc.<br>
 Ping chinh xac: <b>worker-ping.js</b> (Cloudflare) – xem README.</p>
@@ -353,6 +361,9 @@ function go(u){document.getElementById('msg').textContent='working...';fetch(u).
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
 function goViews(){document.getElementById('msgV').textContent='fetching...';fetch('/views?force=1').then(function(r){return r.json();}).then(function(j){document.getElementById('msgV').textContent=j.msg||'';setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgV').textContent='error: '+e;});}
 function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
+function pad2(n){return (n<10?'0':'')+n;}
+function tickCount(){var now=new Date();var nowU=Date.now();var best=null,bestJob='';document.querySelectorAll('#cronTbl tr[data-utc]').forEach(function(r){if(!r.dataset.utc){return;}var p=r.dataset.utc.split(':');var t=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate(),parseInt(p[0],10),parseInt(p[1],10),0));if(t.getTime()<=nowU){t=new Date(t.getTime()+86400000);}var s=Math.floor((t.getTime()-nowU)/1000);var txt=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';var cell=r.querySelector('.left');if(cell){cell.textContent=txt;}if(best===null||t.getTime()<best){best=t.getTime();bestJob=r.dataset.job;}});var nc=document.getElementById('nextCount');if(nc&&best!==null){var s=Math.floor((best-nowU)/1000);nc.textContent=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';document.getElementById('nextJob').textContent=bestJob+' · tu dong dem nguoc moi giay';}}
+setInterval(tickCount,1000);tickCount();
 function live(){fetch('/live').then(function(r){return r.json();}).then(function(j){var b=document.getElementById('liveBox');var busy=(j.active||[]).length>0;document.querySelectorAll('.force-btn').forEach(function(x){if(busy){x.setAttribute('disabled','');}else if(x.dataset.locked!=='1'){x.removeAttribute('disabled');}});var fl=document.getElementById('forceLock');if(fl){fl.innerHTML=busy?'<div class="kill-banner">DANG TAO VIDEO: '+j.active[0].name+' – '+j.active[0].step+' ('+j.active[0].elapsed+'). Tat ca nut force DANG KHOA.</div>':'';}if(!busy){b.innerHTML='';return;}b.innerHTML=j.active.map(function(a){return '<div class="live-banner">LIVE: '+a.name+' – '+a.step+' ('+a.elapsed+') <a href="'+a.url+'" target="_blank">xem log</a></div>';}).join('');}).catch(function(){});}
 live();setInterval(live,30000);
 </script>
@@ -735,6 +746,24 @@ def index():
     acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
     views = views_snapshot()
     nxt, nxt_note = _next_slot()
+    plan_rows = []
+    for c in CRONS:
+        m = c["utc"]
+        if "/5" in c["job"]:
+            plan_rows.append(
+                {"job": c["job"], "utc": m + " UTC", "vn": "22:00 VN /5d", "wf": c["wf"], "hhmm": ""}
+            )
+        else:
+            hh = (int(m[:2]) + 7) % 24
+            plan_rows.append(
+                {
+                    "job": c["job"],
+                    "utc": m + " UTC",
+                    "vn": f"{hh:02d}:{m[3:5]} VN",
+                    "wf": c["wf"],
+                    "hhmm": m,
+                }
+            )
     return render_template_string(
         PAGE,
         records=records,
@@ -767,6 +796,7 @@ def index():
         view_bars=views["trend"],
         wf_on=_wf_states(),
         per_day=6,
+        plan_rows=plan_rows,
         next_slot=nxt,
         next_note=nxt_note,
         uploads_today=state.uploads_today(),
