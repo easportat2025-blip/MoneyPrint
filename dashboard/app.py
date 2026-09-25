@@ -188,6 +188,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 </div>
 <div class="toolbar">
 <button onclick="go('/sync')">Sync logs</button>
+<button onclick="updCode()">Update code</button>
 <button onclick="location.reload()">Refresh</button>
 <button class="{% if kill %}go{% else %}danger{% endif %}" onclick="go('/kill')">{% if kill %}Unkill{% else %}Kill{% endif %}</button>
 <button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled{% endif %}>Cancel jobs</button>
@@ -358,6 +359,7 @@ function filterCh(name){var s=document.getElementById('fCh');if(s){s.value=name;
 function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
+function updCode(){document.getElementById('msg').textContent='pulling...';fetch('/updatecode').then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg+' — TAT dashboard (dong cua so den) roi mo lai MoneyPrint.bat';}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
 function goViews(){document.getElementById('msgV').textContent='sync logs...';fetch('/sync').then(function(r){return r.json();}).then(function(s){document.getElementById('msgV').textContent='fetching views...';return fetch('/views?force=1');}).then(function(r){return r.json();}).then(function(j){document.getElementById('msgV').textContent=j.msg||'';setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgV').textContent='error: '+e;});}
 function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
@@ -905,6 +907,28 @@ def sync():
     except json.JSONDecodeError:
         n = 0
     return jsonify({"ok": True, "msg": f"synced {n} records"})
+
+
+@app.route("/updatecode")
+def updatecode():
+    try:
+        proc = subprocess.run(
+            ["git", "pull", "--ff-only"], capture_output=True, text=True, timeout=120
+        )
+        if proc.returncode != 0:
+            proc = subprocess.run(
+                ["git", "pull", "origin", "main"],
+                capture_output=True,
+                text=True,
+                timeout=120,
+            )
+        out = (proc.stdout + proc.stderr).strip().splitlines()
+        tail = " | ".join(out[-3:]) if out else "empty"
+        if proc.returncode != 0:
+            return jsonify({"ok": False, "msg": f"git pull LOI: {tail[:250]}"})
+        return jsonify({"ok": True, "msg": f"git pull OK: {tail[:250]}"})
+    except Exception as e:
+        return jsonify({"ok": False, "msg": str(e)[:200]})
 
 
 @app.route("/kill")
