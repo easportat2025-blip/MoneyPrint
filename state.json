@@ -1,5 +1,195 @@
 [
   {
+    "id": "0327151ae2",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "The Mysterious Invaders Who Erased Ancient Empires",
+    "idea": {
+      "title": "The Mysterious Invaders Who Erased Ancient Empires",
+      "hook": "In 1177 BC, the civilized world suddenly collapsed, and we still don't know who did it.",
+      "beats": [
+        "Powerful Bronze Age empires like Egypt and the Hittites ruled the Mediterranean in a highly connected global network.",
+        "Almost overnight, nearly every major city was burned to ashes and abandoned.",
+        "Ancient texts blame a mysterious, unstoppable confederation called the 'Sea Peoples'.",
+        "Their origins, identity, and sudden disappearance remain one of history's greatest unsolved mysteries."
+      ],
+      "keywords": [
+        "ancient Egypt hieroglyphics",
+        "bronze age ruins",
+        "ancient Mediterranean map",
+        "warrior engraving",
+        "archaeological excavation"
+      ],
+      "tags": [
+        "ancient history",
+        "bronze age",
+        "sea peoples",
+        "unsolved mysteries",
+        "lost civilizations"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1177 BC, the civilized world collapsed overnight.",
+        "search": "ancient egyptian hieroglyphics relief carving stone",
+        "caption": "In 1177 BC, civilization suddenly collapsed"
+      },
+      {
+        "narration": "During the Late Bronze Age, powerful empires formed an intricately connected Mediterranean network.",
+        "search": "ancient mediterranean map vintage engraving",
+        "caption": "Bronze Age empires ruled an interconnected world"
+      },
+      {
+        "narration": "Superpowers like the Egyptian Empire, the Hittites, and Mycenaean Greece dominated trade and diplomacy.",
+        "search": "hittite empire stone relief carving artifact",
+        "caption": "Egyptians, Hittites, and Mycenaeans dominated trade"
+      },
+      {
+        "narration": "Prosperous coastal metropolises like Ugarit and Hattusa had flourished undisturbed for centuries.",
+        "search": "ancient mycenae lion gate archaeological ruins",
+        "caption": "Prosperous imperial capitals flourished for centuries"
+      },
+      {
+        "narration": "Then, within just a few decades, almost every major city was violently wiped out.",
+        "search": "bronze age ruins archaeological excavation burned soil",
+        "caption": "Within decades, major cities were systematically annihilated"
+      },
+      {
+        "narration": "Archaeologists excavating these ruined fortresses consistently uncover thick layers of blackened ash and arrowheads.",
+        "search": "ancient bronze arrowhead artifact museum",
+        "caption": "Excavations reveal uniform destruction layers of ash"
+      },
+      {
+        "narration": "At the Syrian port of Ugarit, scribes baked urgent clay tablets pleading for military aid.",
+        "search": "ancient cuneiform clay tablet artifact macro",
+        "caption": "Urgent clay tablets begged for military aid"
+      },
+      {
+        "narration": "The letter warned that unknown enemy ships were burning coastal towns; Ugarit fell days later.",
+        "search": "ancient ugarit ruins archaeological excavation syria",
+        "caption": "Enemy ships burned the coast before Ugarit fell"
+      },
+      {
+        "narration": "Only one major regional power managed to survive the coordinated onslaught: New Kingdom Egypt.",
+        "search": "pharaoh ramesses iii stone bust statue",
+        "caption": "Only Egypt survived the catastrophic collapse"
+      },
+      {
+        "narration": "Pharaoh Ramesses III mobilized his army and navy to defend the Nile Delta in 1177 BC.",
+        "search": "ramesses iii medinet habu temple relief carving",
+        "caption": "Ramesses III defended the Nile in 1177 BC"
+      },
+      {
+        "narration": "Carved onto the stone walls of Medinet Habu are the only eyewitness depictions of these attackers.",
+        "search": "medinet habu sea peoples battle relief carving",
+        "caption": "Medinet Habu temple records the brutal battles"
+      },
+      {
+        "narration": "Egyptian inscriptions labeled the mysterious confederation the 'Peoples of the Sea'.",
+        "search": "sea peoples warrior engraving relief medinet habu",
+        "caption": "Egyptian texts named them the Sea Peoples"
+      },
+      {
+        "narration": "They sailed in feathered helmets, transporting women and supplies in ox carts to seize land.",
+        "search": "ancient philistine ox cart relief carving",
+        "caption": "They invaded with families to conquer permanent land"
+      },
+      {
+        "narration": "Scholars theorize they were displaced refugees from the Aegean, Sicily, or Anatolia driven by famine.",
+        "search": "ancient aegean bronze age warrior fresco painting",
+        "caption": "Scholars trace them to drought-stricken Aegean lands"
+      },
+      {
+        "narration": "Yet after annihilating the greatest empires of antiquity, the invaders vanished from all historical records.",
+        "search": "ancient mediterranean coast rocky stormy engraving",
+        "caption": "After destroying empires, the invaders vanished completely"
+      },
+      {
+        "narration": "Their rampage obliterated literacy, halted global commerce, and plunged the Mediterranean into centuries of darkness.",
+        "search": "ancient greek dark age ruined stone temple",
+        "caption": "The collapse plunged humanity into dark ages"
+      },
+      {
+        "narration": "Three thousand years later, the origin of history's deadliest invaders remains entirely unsolved.",
+        "search": "ancient egyptian hieroglyphs wall texture dark engraving",
+        "caption": "History's deadliest invaders remain completely unidentified"
+      }
+    ],
+    "error": "",
+    "youtube_id": "FASHRvjypJI",
+    "youtube_url": "https://www.youtube.com/watch?v=FASHRvjypJI",
+    "created_at": "2026-09-25T04:17:44.275901+00:00",
+    "updated_at": "2026-09-25T04:19:40.372948+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-25T04:17:52.983852+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "424 chars",
+        "at": "2026-09-25T04:19:06.166366+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.4s 6 sentences",
+        "at": "2026-09-25T04:19:08.045580+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-25T04:19:08.449504+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-25T04:19:20.290716+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.3s 9332883 bytes",
+        "at": "2026-09-25T04:19:37.816859+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=FASHRvjypJI",
+        "at": "2026-09-25T04:19:40.117650+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-25T04:19:40.366712+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-25T04:19:40.372944+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15027125/pexels-photo-15027125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16777304/pexels-photo-16777304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12397217/pexels-photo-12397217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8778165/pexels-photo-8778165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31028093/pexels-photo-31028093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39083194/pexels-photo-39083194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8349847/pexels-photo-8349847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31028053/pexels-photo-31028053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36336687/pexels-photo-36336687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7566889/pexels-photo-7566889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35416351/pexels-photo-35416351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38478680/pexels-photo-38478680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28198113/pexels-photo-28198113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049686/pexels-photo-19049686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12016193/pexels-photo-12016193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14299577/pexels-photo-14299577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34939913/pexels-photo-34939913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d942e582b5",
     "kind": "short",
     "channel": "ReZain",
