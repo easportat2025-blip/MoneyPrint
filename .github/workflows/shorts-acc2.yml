@@ -62,7 +62,7 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           CHANNEL_2_NAME: ${{ vars.CHANNEL_2_NAME || 'Channel2' }}
-          NICHE_2: ${{ vars.NICHE_2 || 'human history documentaries: ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations' }}
+          NICHE_2: ${{ vars.NICHE_2 || 'human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations' }}
           VOICE_2: ${{ vars.VOICE_2 || 'en-US-GuyNeural' }}
           MEDIA_MODE: stills
           MAX_DAILY_UPLOADS: "6"
