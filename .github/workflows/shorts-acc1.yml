@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: moneyprint-video
@@ -91,3 +92,10 @@ jobs:
           git add -f state.json
           git commit -m "state acc1 ${{ github.run_id }}" || true
           git push origin logs
+
+      - name: Chain trigger acc2
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/${{ github.repository }}/dispatches -f event_type=short-acc2 || true

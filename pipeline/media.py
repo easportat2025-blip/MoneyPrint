@@ -38,7 +38,7 @@ def _download(url: str, dest: Path) -> Path | None:
 
 
 def from_pexels(
-    query: str, vertical: bool, dest: Path, skip: set | None = None
+    query: str, vertical: bool, dest: Path, skip: set | None = None, page: int = 1
 ) -> tuple[Path | None, str]:
     skip = skip or set()
     if not config.PEXELS_API_KEY:
@@ -48,7 +48,12 @@ def from_pexels(
         r = requests.get(
             "https://api.pexels.com/v1/search",
             headers={"Authorization": config.PEXELS_API_KEY},
-            params={"query": query, "orientation": orientation, "per_page": 8},
+            params={
+                "query": query,
+                "orientation": orientation,
+                "per_page": 10,
+                "page": page,
+            },
             timeout=20,
         )
         if r.status_code != 200:
@@ -175,6 +180,111 @@ def from_commons(
         return None, "", ""
 
 
+def from_pixabay_video(
+    query: str, vertical: bool, dest: Path, need_sec: float, skip: set | None = None
+) -> tuple[Path | None, str]:
+    skip = skip or set()
+    if not config.PIXABAY_API_KEY:
+        return None, ""
+    try:
+        r = requests.get(
+            "https://pixabay.com/api/videos/",
+            params={
+                "key": config.PIXABAY_API_KEY,
+                "q": query,
+                "per_page": 10,
+                "safesearch": "true",
+            },
+            timeout=20,
+        )
+        if r.status_code != 200:
+            return None, ""
+        hits = r.json().get("hits", [])
+        cands = []
+        for h in hits:
+            try:
+                dur = float(h.get("duration", 0))
+            except (TypeError, ValueError):
+                dur = 0
+            if dur < max(need_sec * 0.5, 1.5):
+                continue
+            vids = h.get("videos", {})
+            for size in ("medium", "small", "large", "tiny"):
+                f = vids.get(size, {})
+                link = f.get("url", "")
+                if link and link.endswith(".mp4"):
+                    cands.append(link)
+                    break
+        for link in cands:
+            if link in skip:
+                continue
+            got = _download(link, dest.with_suffix(".mp4"))
+            if got and got.stat().st_size > 20000:
+                return got, link
+        if cands:
+            got = _download(cands[0], dest.with_suffix(".mp4"))
+            if got and got.stat().st_size > 20000:
+                return got, cands[0]
+        return None, ""
+    except (requests.RequestException, ValueError, KeyError):
+        return None, ""
+
+
+def from_archive(
+    query: str, dest: Path, need_sec: float, skip: set | None = None
+) -> tuple[Path | None, str]:
+    skip = skip or set()
+    try:
+        q = f"({query}) AND mediatype:movies"
+        r = requests.get(
+            "https://archive.org/advancedsearch.php",
+            params={
+                "q": q,
+                "fl[]": ["identifier", "title"],
+                "rows": 8,
+                "output": "json",
+            },
+            timeout=25,
+        )
+        if r.status_code != 200:
+            return None, ""
+        docs = r.json().get("response", {}).get("docs", [])
+        for doc in docs:
+            ident = doc.get("identifier", "")
+            if not ident or ident in skip:
+                continue
+            try:
+                m = requests.get(
+                    f"https://archive.org/metadata/{ident}", timeout=25
+                )
+                if m.status_code != 200:
+                    continue
+                files = m.json().get("files", [])
+                mp4s = []
+                for f in files:
+                    if not str(f.get("name", "")).lower().endswith(".mp4"):
+                        continue
+                    try:
+                        size = int(f.get("size", 0) or 0)
+                    except (TypeError, ValueError):
+                        size = 0
+                    if size < 150_000_000:
+                        mp4s.append((size, f["name"]))
+                if not mp4s:
+                    continue
+                mp4s.sort()
+                name = mp4s[0][1]
+                url = f"https://archive.org/download/{ident}/{name}"
+                got = _download(url, dest.with_suffix(".mp4"))
+                if got and got.stat().st_size > 20000:
+                    return got, f"archive.org:{ident}/{name}"
+            except requests.RequestException:
+                continue
+        return None, ""
+    except (requests.RequestException, ValueError, KeyError):
+        return None, ""
+
+
 def from_nasa(query: str, dest: Path) -> Path | None:
     try:
         r = requests.get(
@@ -205,7 +315,12 @@ def from_nasa(query: str, dest: Path) -> Path | None:
 
 
 def from_pexels_video(
-    query: str, vertical: bool, dest: Path, need_sec: float, skip: set | None = None
+    query: str,
+    vertical: bool,
+    dest: Path,
+    need_sec: float,
+    skip: set | None = None,
+    page: int = 1,
 ) -> tuple[Path | None, str]:
     skip = skip or set()
     if not config.PEXELS_API_KEY:
@@ -215,7 +330,12 @@ def from_pexels_video(
         r = requests.get(
             "https://api.pexels.com/videos/search",
             headers={"Authorization": config.PEXELS_API_KEY},
-            params={"query": query, "orientation": orientation, "per_page": 8},
+            params={
+                "query": query,
+                "orientation": orientation,
+                "per_page": 10,
+                "page": page,
+            },
             timeout=20,
         )
         if r.status_code != 200:
@@ -266,26 +386,11 @@ def fetch_scene(
     vertical: bool,
     need_sec: float = 4.0,
     skip: set | None = None,
+    page: int = 1,
 ) -> tuple[Path, bool, str, str]:
     skip = skip or set()
     slug = _slug(query)
     stills = config.MEDIA_MODE == "stills"
-    try:
-        hit = bank_mod.find(query, skip, vertical)
-    except Exception:
-        hit = None
-    if hit and hit.get("url"):
-        if hit.get("type") == "video" and stills:
-            hit = None
-        else:
-            dest = scene_dir / f"{slug}_bank"
-            got = _download(hit["url"], dest)
-            if got:
-                is_vid = hit.get("type") == "video" or str(got.suffix).lower() == ".mp4"
-                if got.suffix.lower() not in (".mp4", ".jpg", ".jpeg", ".png", ".webp"):
-                    got.unlink(missing_ok=True)
-                else:
-                    return got, is_vid, hit["url"], hit.get("credit", "")
     vid_dest = scene_dir / f"{slug}.mp4"
     if vid_dest.exists() and vid_dest.stat().st_size > 20000:
         return vid_dest, True, "", ""
@@ -295,24 +400,55 @@ def fetch_scene(
     if not stills:
         try:
             got_vid, vid_url = from_pexels_video(
-                query, vertical, vid_dest, need_sec, skip
+                query, vertical, vid_dest, need_sec, skip, page
             )
         except Exception:
             got_vid, vid_url = None, ""
         if got_vid:
             return got_vid, True, vid_url, ""
+        try:
+            got_pbv, pbv_url = from_pixabay_video(
+                query, vertical, vid_dest, need_sec, skip
+            )
+        except Exception:
+            got_pbv, pbv_url = None, ""
+        if got_pbv:
+            return got_pbv, True, pbv_url, ""
+    try:
+        hit = bank_mod.find(query, skip, vertical)
+    except Exception:
+        hit = None
+    if hit and hit.get("url"):
+        if hit.get("type") == "video" and stills:
+            hit = None
+        else:
+            dest_b = scene_dir / f"{slug}_bank"
+            got = _download(hit["url"], dest_b)
+            if got:
+                is_vid = hit.get("type") == "video" or str(got.suffix).lower() == ".mp4"
+                if got.suffix.lower() not in (".mp4", ".jpg", ".jpeg", ".png", ".webp"):
+                    got.unlink(missing_ok=True)
+                else:
+                    return got, is_vid, hit["url"], hit.get("credit", "")
+    if not stills:
+        try:
+            got_ar, ar_url = from_archive(query, dest, need_sec, skip)
+        except Exception:
+            got_ar, ar_url = None, ""
+        if got_ar:
+            return got_ar, True, ar_url, ""
+    try:
+        got_img, img_url = from_pexels(query, vertical, dest, skip, page)
+    except Exception:
+        got_img, img_url = None, ""
+    if got_img:
+        return got_img, False, img_url, ""
     try:
         got_cm, cm_url, cm_credit = from_commons(query, dest, skip)
     except Exception:
         got_cm, cm_url, cm_credit = None, "", ""
     if got_cm:
         return got_cm, False, cm_url, cm_credit
-    try:
-        got_img, img_url = from_pexels(query, vertical, dest, skip)
-    except Exception:
-        got_img, img_url = None, ""
-    if got_img:
-        return got_img, False, img_url, ""
     try:
         got_nasa = from_nasa(query, dest)
     except Exception:
@@ -368,7 +504,10 @@ def fetch_all(
         if config.kill_requested():
             raise RuntimeError("kill switch on")
         query = s["search"] + suffixes[i % len(suffixes)]
-        p = fetch_scene(query, cache_dir / f"scene_{i:02d}", vertical, scene_sec, skip)
+        page = 1 + (i % 3)
+        p = fetch_scene(
+            query, cache_dir / f"scene_{i:02d}", vertical, scene_sec, skip, page
+        )
         if p[2]:
             skip.add(p[2])
         paths.append(p)
