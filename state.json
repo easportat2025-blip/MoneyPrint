@@ -1,5 +1,195 @@
 [
   {
+    "id": "f9bce2d780",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "Why Pirates Regretted Kidnapping Julius Caesar",
+    "idea": {
+      "title": "Why Pirates Regretted Kidnapping Julius Caesar",
+      "hook": "When young Julius Caesar was captured by Mediterranean pirates, he didn't beg for his life—he laughed at them.",
+      "beats": [
+        "The pirates demanded a ransom of 20 talents of silver, but Caesar insulted them, saying he was worth at least 50.",
+        "During his 38 days of captivity, he treated the pirates like his personal servants, demanding they keep quiet when he wanted to sleep.",
+        "He read them his own poetry and, when they didn't appreciate it, he jokingly promised to return and crucify them all.",
+        "The pirates thought he was playing, but the moment his ransom was paid and he was freed, Caesar raised a fleet, hunted them down, and executed every single one."
+      ],
+      "keywords": [
+        "roman galley",
+        "pirate ship",
+        "julius caesar bust",
+        "ancient coins",
+        "roman soldiers painting"
+      ],
+      "tags": [
+        "history",
+        "ancient rome",
+        "julius caesar",
+        "pirates",
+        "roman empire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 75 BC, Cilician pirates made the worst mistake in Roman history.",
+        "search": "ancient coins roman denarius closeup",
+        "caption": "The greatest mistake in pirate history."
+      },
+      {
+        "narration": "Young Julius Caesar was ambushed and dragged aboard a Mediterranean galley.",
+        "search": "roman galley oil painting dramatic",
+        "caption": "Captured at sea in 75 BC."
+      },
+      {
+        "narration": "Instead of begging for mercy, the patrician captive laughed in their faces.",
+        "search": "julius caesar bust statue dramatic lighting",
+        "caption": "Caesar laughed at his captors."
+      },
+      {
+        "narration": "The outlaws demanded twenty talents of silver for his release.",
+        "search": "ancient roman silver coins treasure",
+        "caption": "A ransom of twenty talents."
+      },
+      {
+        "narration": "Insulted by the cheap price, Caesar insisted he was worth at least fifty.",
+        "search": "julius caesar portrait painting classical",
+        "caption": "He demanded a higher price."
+      },
+      {
+        "narration": "He ordered his own family to gather the massive sum across the empire.",
+        "search": "roman map engraving antique",
+        "caption": "Gathering fifty talents of silver."
+      },
+      {
+        "narration": "For thirty-eight days, Caesar lived among the brutal kidnappers as their master.",
+        "search": "pirate ship woodcut vintage",
+        "caption": "Thirty-eight days of captivity."
+      },
+      {
+        "narration": "He bossed the hardened criminals around as if they were his personal servants.",
+        "search": "roman soldiers painting classical art",
+        "caption": "Treating pirates like servants."
+      },
+      {
+        "narration": "Whenever Caesar wanted to sleep, he demanded absolute silence from the crew.",
+        "search": "dark pirate ship interior oil painting",
+        "caption": "Demanding silence from the crew."
+      },
+      {
+        "narration": "He spent his time writing terrible poetry and reciting speeches to them.",
+        "search": "ancient roman scroll manuscript illustration",
+        "caption": "Reading poetry to his captors."
+      },
+      {
+        "narration": "When the pirates failed to appreciate his verses, he playfully threatened their lives.",
+        "search": "dramatic pirate crew illustration dark",
+        "caption": "A joke with a dark truth."
+      },
+      {
+        "narration": "He openly promised to hunt them down and crucify every single one.",
+        "search": "roman execution oil painting dramatic",
+        "caption": "Promising crucifixion to them all."
+      },
+      {
+        "narration": "The brigands laughed off the threats, viewing the whole ordeal as a game.",
+        "search": "pirates drinking vintage engraving",
+        "caption": "The pirates laughed it off."
+      },
+      {
+        "narration": "Finally, in the autumn of 75 BC, the heavy ransom was paid in full.",
+        "search": "roman gold and silver treasure coins",
+        "caption": "The ransom is finally paid."
+      },
+      {
+        "narration": "Caesar immediately rushed to Miletus and assembled a naval war fleet.",
+        "search": "roman warship galley oil painting",
+        "caption": "Assembling a naval war fleet."
+      },
+      {
+        "narration": "He tracked the astonished pirates down and seized their stolen loot.",
+        "search": "naval battle ancient roman painting",
+        "caption": "Hunting down the pirates."
+      },
+      {
+        "narration": "True to his word, Caesar executed every last kidnapper by crucifixion.",
+        "search": "roman crucifixion historical painting dark",
+        "caption": "Justice served by Julius Caesar."
+      }
+    ],
+    "error": "",
+    "youtube_id": "QbdNzwwengE",
+    "youtube_url": "https://www.youtube.com/watch?v=QbdNzwwengE",
+    "created_at": "2026-09-26T01:45:37.968343+00:00",
+    "updated_at": "2026-09-26T01:50:14.632324+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-26T01:47:43.981953+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "569 chars",
+        "at": "2026-09-26T01:49:02.428044+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.9s 7 sentences",
+        "at": "2026-09-26T01:49:04.916557+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-26T01:49:06.365550+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-26T01:49:18.826276+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.9s 11112898 bytes",
+        "at": "2026-09-26T01:50:12.254321+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=QbdNzwwengE",
+        "at": "2026-09-26T01:50:14.469738+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-26T01:50:14.616489+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-26T01:50:14.632316+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36979425/pexels-photo-36979425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397756/pexels-photo-16397756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36066307/pexels-photo-36066307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9316996/pexels-photo-9316996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19892824/pexels-photo-19892824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057038/pexels-photo-29057038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34478699/pexels-photo-34478699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39196168/pexels-photo-39196168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7412536/pexels-photo-7412536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38373935/pexels-photo-38373935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18401092/pexels-photo-18401092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14066552/pexels-photo-14066552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7000035/pexels-photo-7000035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9316997/pexels-photo-9316997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25913220/pexels-photo-25913220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110958/pexels-photo-16110958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731121/pexels-photo-11731121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4ab2defab1",
     "kind": "short",
     "channel": "Channel2",
