@@ -10,15 +10,19 @@ Scenes and narration drafts:
 Rules:
 - FIRST LINE = the hook: spoken question/claim matching the title,
   under 10 words, no greeting ("hey guys" banned)
+- Show the payoff/conflict FIRST, explain after. No context-building intro.
 - Spoken style, present tense, concrete imagery
 - No scene numbers, no stage directions, no emojis
 - Open loop early, escalate mid, payoff in the FINAL line (loop-friendly)
+- LAST LINE = one short, specific question the viewer can answer in a few
+  words. Never "what do you think". Ask about the video's own subject.
 - WRITE EVERYTHING IN {lang}. No other language anywhere.
 - STRICT LENGTH: total voiceover MUST be under {target_chars} characters
   (count roughly, shorter is fine, longer is NOT allowed)
 
 Return JSON: {{"description":"YouTube description 2-4 sentences with 3 hashtags, in {lang}",
-"voiceover":"full continuous script in {lang}"}}
+"voiceover":"full continuous script in {lang}",
+"question":"one short specific question for the pinned comment"}}
 """
 
 
@@ -43,4 +47,8 @@ def build(idea: dict, scenes: list, target_chars: int = 750) -> dict:
         voiceover = " ".join(s["narration"] for s in scenes)
     if not description:
         description = idea.get("hook", "")
-    return {"voiceover": voiceover, "description": description}
+    return {
+        "voiceover": voiceover,
+        "description": description,
+        "question": (data.get("question") or "").strip(),
+    }

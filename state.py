@@ -130,3 +130,35 @@ def uploads_today_by_slot() -> dict:
         key = r.get("slot") or r.get("channel") or "?"
         out[key] = out.get(key, 0) + 1
     return out
+
+
+UNITS_FILE = config.ROOT / "units_usage.json"
+UNITS_BUDGET = 10000
+
+
+def units_spent_today() -> int:
+    today = datetime.now(timezone.utc).date().isoformat()
+    try:
+        if UNITS_FILE.exists():
+            d = json.loads(UNITS_FILE.read_text(encoding="utf-8"))
+            if d.get("date") == today:
+                return int(d.get("units", 0))
+    except (json.JSONDecodeError, OSError, TypeError, ValueError):
+        pass
+    return 0
+
+
+def spend_units(n: int) -> int:
+    today = datetime.now(timezone.utc).date().isoformat()
+    spent = units_spent_today() + n
+    try:
+        UNITS_FILE.write_text(
+            json.dumps({"date": today, "units": spent}), encoding="utf-8"
+        )
+    except OSError:
+        pass
+    return spent
+
+
+def units_left(reserve: int = 0) -> int:
+    return max(UNITS_BUDGET - units_spent_today() - reserve, 0)

@@ -316,6 +316,11 @@ code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1
 <h3>Gemini API: {{ m.gemini_calls }}/1000 calls hom nay</h3>
 <div class="prog"><div style="width:{{ (100*m.gemini_calls//1000) if m.gemini_calls<1000 else 100 }}%">{{ m.gemini_calls }}/1000</div></div>
 </div>
+<div class="mission {{ 'done' if m.units_left > 2000 else '' }}">
+<h3>YouTube units (captions/comment/playlist/thumb): {{ m.units_left }}/10000 con lai</h3>
+<div class="prog"><div class="{{ '' if m.units_left > 2000 else 'low' }}" style="width:{{ 100*(10000-m.units_left)//10000 }}%">used {{ 10000-m.units_left }}</div></div>
+<div class="note">Upload khong ton units (bucket rieng 100/ngay). Captions 400/video, comment+playlist+thumb 150/video. Het units thi tu bo qua phan tuong.</div>
+</div>
 </div>
 
 <div class="panel" id="p-growth">
@@ -731,6 +736,7 @@ def _missions(records: list) -> dict:
     gu = state.gemini_usage()
     return {
         "gemini_calls": gu.get("count", 0),
+        "units_left": state.units_left(),
         "last_long": last_long,
         "long_due": long_due,
         "long_status": long_status,

@@ -492,6 +492,40 @@ def build_thumb(video: Path, title: str, out: Path) -> Path:
     return out
 
 
+def build_short_thumb(video: Path, title: str, out: Path) -> Path:
+    out.parent.mkdir(parents=True, exist_ok=True)
+    info = probe(video)
+    ss = min(max((info["duration"] or 10) * 0.25, 0.5), 6.0)
+    txt = out.parent / "sthumb.txt"
+    txt.write_text(wrap_title(title, width=13, lines=4), encoding="utf-8")
+    base = (
+        "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
+        "drawbox=x=0:y=ih*0.42:w=iw:h=ih*0.42:color=black@0.55:t=fill,"
+        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:fontsize=104:"
+        "fontcolor=white:borderw=3:bordercolor=black@0.85:"
+        "x=(w-text_w)/2:y=ih*0.48:line_spacing=12"
+    )
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-ss",
+        f"{ss:.1f}",
+        "-i",
+        str(video),
+        "-frames:v",
+        "1",
+        "-vf",
+        base,
+        str(out),
+    ]
+    try:
+        _run(cmd, timeout=120)
+    except RuntimeError:
+        cmd[cmd.index("-vf") + 1] = base.replace(f"fontfile={FONT}:", "")
+        _run(cmd, timeout=120)
+    return out
+
+
 def verify_short(path: Path) -> dict:
     info = probe(path)
     w, h, d = info["width"], info["height"], info["duration"]

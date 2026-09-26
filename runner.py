@@ -240,20 +240,47 @@ def run_one(kind: str = "short") -> dict:
         )
         state.stage(rec_id, "upload", True, result["youtube_url"])
 
-        try:
-            cap_id = upload_mod.upload_captions(result["youtube_id"], srt_path)
-            state.stage(rec_id, "captions", True, cap_id)
-        except Exception as e:
-            state.stage(rec_id, "captions", False, str(e)[:200])
-
-        if kind == "long":
+        vid = result["youtube_id"]
+        series = f"{config.CHANNEL_NAME} Shorts"
+        if config.ENABLE_CAPTIONS:
             try:
-                thumb = workdir / "render" / "thumb.png"
-                assemble_mod.build_thumb(final, idea.get("title", "ReZain"), thumb)
-                upload_mod.set_thumbnail(result["youtube_id"], thumb)
-                state.stage(rec_id, "thumbnail", True, f"{thumb.stat().st_size} bytes")
+                cap_id = upload_mod.upload_captions(vid, srt_path)
+                state.stage(rec_id, "captions", bool(cap_id), cap_id or "het quota units")
+            except Exception as e:
+                state.stage(rec_id, "captions", False, str(e)[:200])
+
+        if config.ENABLE_THUMB:
+            try:
+                tp = workdir / "render" / "thumb.png"
+                assemble_mod.build_short_thumb(final, idea.get("title", ""), tp)
+                ok = upload_mod.set_thumbnail(vid, tp)
+                state.stage(rec_id, "thumbnail", ok, f"{tp.stat().st_size} bytes")
             except Exception as e:
                 state.stage(rec_id, "thumbnail", False, str(e)[:200])
+
+        if config.ENABLE_COMMENT:
+            try:
+                q = script.get("question") or ""
+                txt = f"{q}\n\nFollow for more {config.NICHE.split(',')[0]} shorts.".strip()
+                cid = upload_mod.insert_comment(vid, txt)
+                state.stage(rec_id, "comment", bool(cid), cid or "het quota")
+            except Exception as e:
+                state.stage(rec_id, "comment", False, str(e)[:200])
+
+        if config.ENABLE_PLAYLIST:
+            try:
+                pid = upload_mod.ensure_playlist(series)
+                ok = upload_mod.add_to_playlist(pid, vid)
+                state.stage(rec_id, "playlist", ok, series)
+            except Exception as e:
+                state.stage(rec_id, "playlist", False, str(e)[:200])
+
+        state.stage(
+            rec_id,
+            "units",
+            True,
+            f"{state.units_spent_today()}/{state.UNITS_BUDGET} used today",
+        )
 
         state.update(rec_id, status="cleaning")
         cleanup_mod.job_workdir(workdir)
