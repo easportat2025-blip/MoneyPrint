@@ -62,8 +62,8 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           CHANNEL_3_NAME: ${{ vars.CHANNEL_3_NAME || 'Channel3' }}
-          NICHE_3: ${{ vars.NICHE_3 || 'everyday life explained with animation - human body, sleep, food, money, habits, phone and screen myths, curious science of daily life' }}
-          VOICE_3: ${{ vars.VOICE_3 || 'en-US-AvaMultilingualNeural' }}
+          NICHE_3: ${{ vars.NICHE_3 || 'doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet' }}
+          VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
           MEDIA_MODE: mixed
           MAX_DAILY_UPLOADS: "9"
         run: |

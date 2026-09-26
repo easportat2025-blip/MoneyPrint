@@ -8,7 +8,7 @@ IDEA_PROMPT = """You are the content strategist for a faceless English YouTube c
 about {niche} (brand: {brand}).
 
 Generate {n} short-form (<55 seconds, vertical) video ideas that are curiosity-driven,
-fact-based, and suitable for {imagery}.
+fact-based, and suitable for {imagery}. Write the title, hook, beats and tags in {lang}.
 
 Requirements:
 - Titles under 70 characters, high CTR, no clickbait lies
@@ -44,6 +44,7 @@ def generate_ideas(n: int = 5) -> list:
         used=used,
         imagery=imagery,
         exclude=exclude,
+        lang=config.LANG_NAME,
     )
     ideas = client.generate_json(prompt, temperature=0.9)
     if isinstance(ideas, dict):

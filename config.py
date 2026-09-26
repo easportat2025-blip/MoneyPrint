@@ -65,13 +65,13 @@ CHANNEL_NAMES = {
 DEFAULT_NICHE = {
     "1": "space science documentary facts",
     "2": "human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations",
-    "3": "everyday life explained with animation - human body, sleep, food, money, habits, phone and screen myths, curious science of daily life",
+    "3": "doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet",
 }
 
 DEFAULT_VOICE = {
     "1": "en-US-ChristopherNeural",
     "2": "en-US-GuyNeural",
-    "3": "en-US-AvaMultilingualNeural",
+    "3": "vi-VN-NamMinhNeural",
 }
 
 YOUTUBE_CLIENT_ID = env("YOUTUBE_CLIENT_ID")
@@ -94,6 +94,9 @@ VOICE_ACTIVE = (
     (env("VOICE") if CHANNEL == "1" else env(f"VOICE_{CHANNEL}", ""))
     or DEFAULT_VOICE.get(CHANNEL, DEFAULT_VOICE["1"])
 )
+
+LANG = "vi" if "viet" in NICHE_ACTIVE.lower() else "en"
+LANG_NAME = {"vi": "Vietnamese", "en": "English"}[LANG]
 
 PEXELS_API_KEY = env("PEXELS_API_KEY")
 PIXABAY_API_KEY = env("PIXABAY_API_KEY")

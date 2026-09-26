@@ -3,26 +3,59 @@ from pathlib import Path
 import config
 
 
+CHARS_PER_SEC = {"en": 14.5, "vi": 16.0}
+FALLBACKS = {
+    "vi": ["vi-VN-NamMinhNeural", "vi-VN-HoaiMyNeural", "en-US-GuyNeural"],
+    "en": ["en-US-GuyNeural", "en-US-AvaMultilingualNeural", "en-US-ChristopherNeural"],
+}
+
+
+def fit_to_cap(text: str, max_sec: float, lang: str = "en") -> tuple[str, int]:
+    cps = CHARS_PER_SEC.get(lang, 14.5)
+    budget = int(cps * max_sec)
+    if len(text) <= budget:
+        return text, 0
+    parts = [p.strip() for p in text.replace("! ", "!|").replace("? ", "?|").replace(". ", ".|").split("|")]
+    kept, total = [], 0
+    for p in parts:
+        if total + len(p) + 1 > budget:
+            break
+        kept.append(p)
+        total += len(p) + 1
+    if not kept:
+        cut = text[:budget].rsplit(" ", 1)[0]
+        return cut, len(text) - len(cut)
+    out = " ".join(kept)
+    return out, len(text) - len(out)
+
+
 def synthesize(
     text: str, out_path: Path, voice: str = None, srt_path: Path | None = None
-) -> Path:
+) -> tuple[Path, str]:
+    import config
+
     voice = voice or config.VOICE
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    cmd = [
-        "edge-tts",
-        "--voice",
-        voice,
-        "--text",
-        text,
-        "--write-media",
-        str(out_path),
-    ]
-    if srt_path is not None:
-        cmd += ["--write-subtitles", str(srt_path)]
-    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-    if proc.returncode != 0 or not out_path.exists():
-        raise RuntimeError(f"edge-tts failed: {proc.stderr[-500:]}")
-    return out_path
+    lang = config.LANG
+    order = [voice] + [v for v in FALLBACKS.get(lang, []) if v != voice]
+    last = ""
+    for cand in order:
+        cmd = [
+            "edge-tts",
+            "--voice",
+            cand,
+            "--text",
+            text,
+            "--write-media",
+            str(out_path),
+        ]
+        if srt_path is not None:
+            cmd += ["--write-subtitles", str(srt_path)]
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+        if proc.returncode == 0 and out_path.exists() and out_path.stat().st_size > 2000:
+            return out_path, cand
+        last = (proc.stderr or "").strip().splitlines()[-1][:160] if proc.stderr else ""
+    raise RuntimeError(f"edge-tts failed all voices. last error: {last}")
 
 
 def trim_leading_silence(path: Path) -> float:

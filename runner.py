@@ -86,16 +86,25 @@ def run_one(kind: str = "short") -> dict:
         state.update(rec_id, scenes=scenes)
 
         state.update(rec_id, status="scripting")
-        target_chars = 650 if kind == "short" else 5800
+        target_chars = 700 if kind == "short" else 5800
         script = script_mod.build(idea, scenes, target_chars)
+        vo, trimmed = tts_mod.fit_to_cap(
+            script["voiceover"], (duration if kind == "short" else 600) - 3, config.LANG
+        )
+        if trimmed:
+            script["voiceover"] = vo
         state.stage(
-            rec_id, "script", True, f"{len(script['voiceover'])} chars"
+            rec_id,
+            "script",
+            True,
+            f"{len(script['voiceover'])} chars"
+            + (f" (cat {trimmed} de vua 55s)" if trimmed else ""),
         )
 
         state.update(rec_id, status="tts")
         audio_path = workdir / "voice.mp3"
         srt_tmp = workdir / "voice.srt"
-        attempt(
+        audio_path, used_voice = attempt(
             rec_id,
             "tts",
             tts_mod.synthesize,
@@ -114,7 +123,7 @@ def run_one(kind: str = "short") -> dict:
             shift = 0.0
             state.stage(rec_id, "trim", False, str(e)[:150])
         state.stage(
-            rec_id, "tts", True, f"{audio_dur:.1f}s {len(sentences)} sentences"
+            rec_id, "tts", True, f"{audio_dur:.1f}s {used_voice} {len(sentences)} cau"
         )
 
         state.update(rec_id, status="mixing_music")

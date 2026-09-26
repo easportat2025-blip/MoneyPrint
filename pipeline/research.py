@@ -18,8 +18,8 @@ Structure the scenes as a retention arc:
 {HISTORY_RULES}
 
 For each scene return:
-- narration: 1-2 sentences of voiceover (English, factual, no fluff)
-- search: one stock-media search query (English, concrete visual nouns,
+- narration: 1-2 sentences of voiceover ({lang}, factual, no fluff)
+- search: one stock-media search query ({search_lang}, concrete visual nouns,
   match the MOOD: dark, vast, dramatic)
 - caption: on-screen caption max 12 words
 
@@ -74,6 +74,8 @@ def research(idea: dict, duration: int, scene_sec: int) -> list:
     )
     prompt = RESEARCH_PROMPT.format(
         HISTORY_RULES=rules,
+        lang=config.LANG_NAME,
+        search_lang="Vietnamese, no diacritics" if config.LANG == "vi" else "English",
         title=idea.get("title", ""),
         hook=idea.get("hook", ""),
         beats=json_dumps(idea.get("beats", [])),

@@ -1,7 +1,7 @@
 import gemini_client
 
 
-SCRIPT_PROMPT = """Write a natural English voiceover script for a faceless documentary
+SCRIPT_PROMPT = """Write a natural {lang} voiceover script for a faceless documentary
 video titled: "{title}"
 
 Scenes and narration drafts:
@@ -13,15 +13,19 @@ Rules:
 - Spoken style, present tense, concrete imagery
 - No scene numbers, no stage directions, no emojis
 - Open loop early, escalate mid, payoff in the FINAL line (loop-friendly)
+- WRITE EVERYTHING IN {lang}. No other language anywhere.
 - STRICT LENGTH: total voiceover MUST be under {target_chars} characters
   (count roughly, shorter is fine, longer is NOT allowed)
 
-Return JSON: {{"description":"YouTube description 2-4 sentences with 3 hashtags",
-"voiceover":"full continuous script"}}
+Return JSON: {{"description":"YouTube description 2-4 sentences with 3 hashtags, in {lang}",
+"voiceover":"full continuous script in {lang}"}}
 """
 
 
 def build(idea: dict, scenes: list, target_chars: int = 750) -> dict:
+    import config
+
+    lang = config.LANG_NAME
     drafts = []
     for i, s in enumerate(scenes, 1):
         drafts.append(f"{i}. {s['narration']}")
@@ -29,6 +33,7 @@ def build(idea: dict, scenes: list, target_chars: int = 750) -> dict:
     prompt = SCRIPT_PROMPT.format(
         title=idea.get("title", ""),
         scenes="\n".join(drafts),
+        lang=lang,
         target_chars=target_chars,
     )
     data = client.generate_json(prompt, temperature=0.5)
