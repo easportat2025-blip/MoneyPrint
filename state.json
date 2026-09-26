@@ -1,5 +1,564 @@
 [
   {
+    "id": "05acd35562",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "done",
+    "title": "Why Astronauts Secretly Lose Their Fingernails",
+    "idea": {
+      "title": "Why Astronauts Secretly Lose Their Fingernails",
+      "hook": "Nobody warned Apollo and ISS astronauts about the weirdest physical cost of spacewalks: their fingernails actually fall off.",
+      "beats": [
+        "The glorious, cinematic image of a spacewalk hides a painful, dirty secret that astronauts rarely talk about: fingernail delamination.",
+        "A spacesuit is essentially a human-shaped balloon pressurized to 4.3 psi to keep the astronaut alive in the vacuum of space.",
+        "Because of this pressure, the suit's joints—especially the fingers—want to remain completely straight and rigid like inflated sausage casings.",
+        "To do any work, astronauts must fight constant resistance just to bend their fingers, equivalent to squeezing a tennis ball continuously for 6 to 8 hours.",
+        "The glove's inner fingertips are fitted with hard caps to protect against punctures, but this creates a localized collision zone for the fingers.",
+        "Hours of gripping bulky tools exerts intense, sustained pressure on the fingertips, restricting blood flow and starving the nail beds of oxygen.",
+        "This localized lack of blood flow, combined with constant mechanical rubbing, triggers a condition called onycholysis.",
+        "Onycholysis causes the fingernail to detach entirely from the nail bed, often turning black and blue before peeling off inside the glove.",
+        "The dark, warm, and sweaty environment of the spacesuit glove becomes a breeding ground for moisture, leading to painful secondary fungal infections.",
+        "The problem is so pervasive that hand size and glove fit are the single greatest predictors of astronaut hand injuries during training.",
+        "To avoid the agonizing pain of a fingernail peeling off mid-mission, some veteran astronauts have actually preemptively pulled off their own nails before launch.",
+        "Despite millions of dollars spent on custom 3D-laser-scanned gloves, NASA engineers still struggle to overcome the fundamental physics of gas pressurization."
+      ],
+      "keywords": [
+        "space science",
+        "NASA",
+        "astronaut injuries",
+        "spacewalk",
+        "EVA gloves",
+        "onycholysis",
+        "spacesuit design",
+        "ISS",
+        "space medicine",
+        "fingernail loss"
+      ],
+      "tags": [
+        "astronauts",
+        "NASA",
+        "spacewalk",
+        "spacesuit",
+        "science documentary",
+        "space medicine",
+        "fingernails",
+        "ISS",
+        "human body in space",
+        "space secrets"
+      ],
+      "kind": "long",
+      "thumbnail_text": "Why Astronauts Lose Nails"
+    },
+    "scenes": [
+      {
+        "narration": "Spacewalks hide a dark, agonizing secret: fingernails falling off.",
+        "search": "astronaut floating in deep space dark dramatic",
+        "caption": "The painful secret of spacewalks."
+      },
+      {
+        "narration": "While we marvel at the cosmic views, astronauts endure silent physical torment.",
+        "search": "earth from space cinematic dark",
+        "caption": "Cosmic views hide physical torment."
+      },
+      {
+        "narration": "Behind the heroic footage lies an unspoken medical mystery.",
+        "search": "nasa control room vintage dark",
+        "caption": "An unspoken space medical mystery."
+      },
+      {
+        "narration": "It affects almost every astronaut who steps outside the International Space Station.",
+        "search": "iss international space station orbiting earth",
+        "caption": "Affecting astronauts outside the ISS."
+      },
+      {
+        "narration": "They call it fingernail delamination, a brutal shedding of the nail.",
+        "search": "human hand close up macro dramatic lighting",
+        "caption": "Fingernail delamination is brutal."
+      },
+      {
+        "narration": "But how does floating in zero gravity cause your nails to peel away?",
+        "search": "astronaut helmet reflection space",
+        "caption": "Why does zero gravity cause this?"
+      },
+      {
+        "narration": "To understand this horror, we must look at the spacesuit itself.",
+        "search": "nasa spacesuit white background cinematic",
+        "caption": "Looking inside the spacesuit design."
+      },
+      {
+        "narration": "An Extravehicular Mobility Unit is not just clothing; it is a miniature spacecraft.",
+        "search": "spacesuit assembly facility sterile room",
+        "caption": "A miniature personal spacecraft."
+      },
+      {
+        "narration": "To keep a human alive in the vacuum of space, it must be pressurized.",
+        "search": "glowing pressure gauge close up dark",
+        "caption": "Pressurized to survive the vacuum."
+      },
+      {
+        "narration": "The suit is constantly inflated to a pressure of 4.3 pounds per square inch.",
+        "search": "schematic diagram spacesuit technical blue",
+        "caption": "Pressurized to 4.3 psi."
+      },
+      {
+        "narration": "Without this internal pressure, an astronaut's blood would literally boil.",
+        "search": "boiling liquid vacuum chamber science",
+        "caption": "Preventing blood from boiling."
+      },
+      {
+        "narration": "But this life-saving pressure turns the suit into a rigid, stubborn balloon.",
+        "search": "inflating white balloon close up",
+        "caption": "A rigid, stubborn balloon."
+      },
+      {
+        "narration": "This inflation forces every joint of the suit to resist movement.",
+        "search": "robotic joint moving mechanical close up",
+        "caption": "Every joint resists movement."
+      },
+      {
+        "narration": "The fingers of the glove are the most vulnerable parts of this system.",
+        "search": "spacesuit glove close up texture",
+        "caption": "The vulnerable glove fingers."
+      },
+      {
+        "narration": "They naturally want to remain completely straight and rigid.",
+        "search": "metal hand skeleton fingers straight",
+        "caption": "Fingers forced to stay straight."
+      },
+      {
+        "narration": "They behave exactly like stiff, over-inflated sausage casings.",
+        "search": "inflated rubber tube pressure",
+        "caption": "Stiff like inflated casings."
+      },
+      {
+        "narration": "Every single bend of a knuckle requires active, physical force.",
+        "search": "human hand clenching fist slow motion",
+        "caption": "Knuckle movement requires force."
+      },
+      {
+        "narration": "Imagine fighting against a stiff spring with every tiny hand movement.",
+        "search": "heavy metal spring compression",
+        "caption": "Fighting a stiff spring."
+      },
+      {
+        "narration": "To perform basic maintenance, astronauts must grip heavy tools for hours.",
+        "search": "astronaut working with tool space station",
+        "caption": "Gripping heavy tools for hours."
+      },
+      {
+        "narration": "This constant resistance turns simple tasks into extreme endurance tests.",
+        "search": "tired sweaty face of athlete dark",
+        "caption": "An extreme endurance test."
+      },
+      {
+        "narration": "Every squeeze of a wrench requires immense forearm and finger strength.",
+        "search": "forearm muscles flexing close up",
+        "caption": "Immense forearm strength required."
+      },
+      {
+        "narration": "Engineers compare this effort to squeezing a tennis ball continuously.",
+        "search": "hand squeezing green tennis ball",
+        "caption": "Like squeezing a tennis ball."
+      },
+      {
+        "narration": "Now imagine doing that non-stop for six to eight agonizing hours.",
+        "search": "clock ticking fast dark background",
+        "caption": "For eight agonizing hours."
+      },
+      {
+        "narration": "By the end of a spacewalk, an astronaut's hands are completely exhausted.",
+        "search": "shaking tired hands close up",
+        "caption": "Hands completely exhausted."
+      },
+      {
+        "narration": "To protect their hands from external hazards, the gloves are heavily reinforced.",
+        "search": "heavy duty industrial gloves texture",
+        "caption": "Heavily reinforced gloves."
+      },
+      {
+        "narration": "The inner fingertips are fitted with hard, protective caps.",
+        "search": "protective thimble sewing metal close up",
+        "caption": "Hard protective caps inside."
+      },
+      {
+        "narration": "These caps prevent micrometeoroids and sharp edges from puncturing the suit.",
+        "search": "microscopic debris flying fast dark",
+        "caption": "Preventing deadly punctures."
+      },
+      {
+        "narration": "But these safety caps create a dangerous internal collision zone.",
+        "search": "metal pressing against soft surface",
+        "caption": "A dangerous internal collision."
+      },
+      {
+        "narration": "With every movement, the soft flesh of the finger is smashed against hard plastic.",
+        "search": "finger pressing hard glass surface red",
+        "caption": "Smashed against hard plastic."
+      },
+      {
+        "narration": "There is absolutely no room for the finger to escape this impact.",
+        "search": "tight metal clamp closing",
+        "caption": "No room to escape."
+      },
+      {
+        "narration": "This relentless mechanical pressure severely restricts blood flow.",
+        "search": "blood vessels under skin animation",
+        "caption": "Restricting vital blood flow."
+      },
+      {
+        "narration": "The tiny capillaries in the fingertips are pinched completely shut.",
+        "search": "squeezing red tube liquid stops",
+        "caption": "Capillaries pinched shut."
+      },
+      {
+        "narration": "Without blood flow, the delicate tissues under the nail are starved of oxygen.",
+        "search": "blue cells dying animation science",
+        "caption": "Starved of oxygen."
+      },
+      {
+        "narration": "This condition is known as localized ischemia.",
+        "search": "medical cross pulse line fading",
+        "caption": "Localized ischemia occurs."
+      },
+      {
+        "narration": "The nail bed begins to die while the astronaut is still working.",
+        "search": "decaying leaf texture macro time lapse",
+        "caption": "Nail bed begins dying."
+      },
+      {
+        "narration": "The physical damage accumulates with every single grip.",
+        "search": "hand gripping metal bar tightly",
+        "caption": "Damage accumulates with grips."
+      },
+      {
+        "narration": "The combination of oxygen starvation and constant rubbing is catastrophic.",
+        "search": "sandpaper rubbing rough surface",
+        "caption": "A catastrophic combination."
+      },
+      {
+        "narration": "It triggers a painful medical condition called onycholysis.",
+        "search": "medical textbook page hand illustration",
+        "caption": "Triggers onycholysis."
+      },
+      {
+        "narration": "Onycholysis is the gradual separation of the nail from its bed.",
+        "search": "peeling paint texture macro",
+        "caption": "Separation of the nail."
+      },
+      {
+        "narration": "The structural bond holding your fingernail in place simply disintegrates.",
+        "search": "dry soil cracking apart macro",
+        "caption": "Structural bond disintegrates."
+      },
+      {
+        "narration": "Once the bond is broken, there is no saving the nail.",
+        "search": "falling autumn leaf slow motion dark",
+        "caption": "No saving the nail."
+      },
+      {
+        "narration": "It begins to lift, creating a hollow, painful gap.",
+        "search": "shadowy hand fingers spreading",
+        "caption": "Creating a painful gap."
+      },
+      {
+        "narration": "As blood pools beneath the dying nail, it changes color.",
+        "search": "dark blue ink spreading in water",
+        "caption": "Nails turn black and blue."
+      },
+      {
+        "narration": "It turns a sickening shade of deep blue and bruised black.",
+        "search": "bruised skin texture close up",
+        "caption": "Sickening bruised colors."
+      },
+      {
+        "narration": "The astronaut can feel the nail shifting loosely inside the glove.",
+        "search": "nervous tapping fingers close up",
+        "caption": "Shifting loosely inside."
+      },
+      {
+        "narration": "Eventually, the entire nail peels completely off the finger.",
+        "search": "dry bark peeling off tree trunk",
+        "caption": "Peeling completely off."
+      },
+      {
+        "narration": "This often happens mid-mission, while they are still floating in space.",
+        "search": "astronaut floating outside iss sun flare",
+        "caption": "Happens mid-mission."
+      },
+      {
+        "narration": "The detached nail floats loosely inside the pressurized glove.",
+        "search": "dust particles floating in dark light beam",
+        "caption": "Floating inside the glove."
+      },
+      {
+        "narration": "But the physical shedding of the nail is only the first phase of torment.",
+        "search": "dark ominous smoke background",
+        "caption": "Only the first phase."
+      },
+      {
+        "narration": "Spacesuit gloves are notorious for trapping moisture and sweat.",
+        "search": "water droplets on glass condensation",
+        "caption": "Trapping moisture and sweat."
+      },
+      {
+        "narration": "The interior becomes a dark, warm, and humid microclimate.",
+        "search": "steamy tropical greenhouse interior",
+        "caption": "A warm humid microclimate."
+      },
+      {
+        "narration": "This makes it the perfect breeding ground for aggressive bacteria.",
+        "search": "bacteria multiplying petri dish time lapse",
+        "caption": "Breeding ground for bacteria."
+      },
+      {
+        "narration": "With the raw nail bed exposed, painful fungal infections quickly take hold.",
+        "search": "mold growing macro time lapse",
+        "caption": "Fungal infections take hold."
+      },
+      {
+        "narration": "An astronaut must endure this burning rot for the remainder of the flight.",
+        "search": "man grimacing in pain dark background",
+        "caption": "Enduring the burning rot."
+      },
+      {
+        "narration": "NASA researchers studied this phenomenon to find a pattern.",
+        "search": "nasa scientist looking through microscope",
+        "caption": "NASA studied the pattern."
+      },
+      {
+        "narration": "They discovered that hand size is the single greatest predictor of injury.",
+        "search": "human hand measurements blueprint",
+        "caption": "Hand size predicts injury."
+      },
+      {
+        "narration": "Astronauts with wider hands suffer far more frequent nail loss.",
+        "search": "wide hand palm open close up",
+        "caption": "Wider hands suffer more."
+      },
+      {
+        "narration": "Their fingers are squeezed more tightly against the glove's rigid walls.",
+        "search": "fist squeezed in tight space",
+        "caption": "Squeezed against rigid walls."
+      },
+      {
+        "narration": "Even custom-fit gloves cannot fully eliminate this structural hazard.",
+        "search": "sewing custom glove details workshop",
+        "caption": "Custom gloves cannot prevent it."
+      },
+      {
+        "narration": "It is a fundamental flaw of human anatomy meeting space technology.",
+        "search": "da vinci vitruvian man sketch",
+        "caption": "Anatomy meets space tech."
+      },
+      {
+        "narration": "To avoid this agonizing distraction, some veterans take extreme measures.",
+        "search": "surgical tools on tray dramatic light",
+        "caption": "Extreme measures are taken."
+      },
+      {
+        "narration": "Before launching into orbit, they make a terrifying choice.",
+        "search": "astronaut putting on helmet dramatic",
+        "caption": "A terrifying pre-launch choice."
+      },
+      {
+        "narration": "They choose to preemptively pull their own fingernails off.",
+        "search": "pliers gripping metal close up dark",
+        "caption": "Preemptively pulling off nails."
+      },
+      {
+        "narration": "They rip them from the flesh so they won't peel off in space.",
+        "search": "man clenching teeth pain sweat",
+        "caption": "Ripped to prevent space peeling."
+      },
+      {
+        "narration": "It is a brutal trade-off: temporary earth pain for space survival.",
+        "search": "bandaged fingers close up",
+        "caption": "Brutal trade-off for survival."
+      },
+      {
+        "narration": "NASA has spent millions of dollars trying to solve this problem.",
+        "search": "3d laser scanner scanning hand high tech",
+        "caption": "Millions spent on solutions."
+      },
+      {
+        "narration": "They use advanced 3D laser scans to map every contour of the hand.",
+        "search": "digital hand model wireframe rotating",
+        "caption": "Mapping every hand contour."
+      },
+      {
+        "narration": "Yet, the basic physics of gas pressurization remain undefeated.",
+        "search": "gas bubbles rising in dark liquid",
+        "caption": "Physics of gas remains undefeated."
+      },
+      {
+        "narration": "Until we design suits that don't rely on pressurized gas...",
+        "search": "futuristic sleek spacesuit design concept",
+        "caption": "Until we change suit design."
+      },
+      {
+        "narration": "Astronauts will continue to pay for their spacewalks with their own fingernails.",
+        "search": "astronaut looking at hand in space",
+        "caption": "Paying with their own nails."
+      },
+      {
+        "narration": "Spacewalks secretly rip an astronaut's fingernails clean off.",
+        "search": "astronaut floating earth spacewalk dark cinematic",
+        "caption": "Spacewalks cost astronauts their fingernails."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Cc0qOR051S4",
+    "youtube_url": "https://www.youtube.com/watch?v=Cc0qOR051S4",
+    "created_at": "2026-09-26T18:12:04.688499+00:00",
+    "updated_at": "2026-09-26T18:20:19.835236+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "70 scenes",
+        "at": "2026-09-26T18:14:11.927728+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2897 chars",
+        "at": "2026-09-26T18:14:38.234000+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "186.7s en-US-ChristopherNeural 29 cau",
+        "at": "2026-09-26T18:15:01.028843+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-26T18:15:08.031924+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-26T18:16:32.581914+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "71 video clips + 0 images",
+        "at": "2026-09-26T18:16:32.586298+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 186.7s 56074485 bytes",
+        "at": "2026-09-26T18:20:14.118410+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Cc0qOR051S4",
+        "at": "2026-09-26T18:20:19.086718+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-26T18:20:19.223309+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-26T18:20:19.490328+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-26T18:20:19.661348+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-26T18:20:19.795406+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-26T18:20:19.800710+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-26T18:20:19.835228+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7670567/7670567-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/33453196/14234967_640_360_24fps.mp4",
+      "https://videos.pexels.com/video-files/12213089/12213089-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/854277/854277-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/38992126/16588679_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/7649283/7649283-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/8474609/8474609-sd_426_240_30fps.mp4",
+      "https://videos.pexels.com/video-files/7583994/7583994-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/2548406/2548406-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/6224298/6224298-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/10187281/10187281-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/8899744/8899744-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/8979503/8979503-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/3947193/3947193-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/3868668/3868668-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/4131831/4131831-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/5925295/5925295-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/9244500/9244500-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/854255/854255-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/8520559/8520559-sd_426_176_25fps.mp4",
+      "https://videos.pexels.com/video-files/6799573/6799573-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/6292775/6292775-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/3045163/3045163-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/8440635/8440635-sd_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/2073129/2073129-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/8170067/8170067-sd_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/34913408/14789549_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/31751326/13528129_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/20243314/20243314-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/7697038/7697038-sd_426_240_30fps.mp4",
+      "https://videos.pexels.com/video-files/35217626/14919227_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/4074364/4074364-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/34867290/14775653_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/855944/855944-sd_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/34741742/14727692_640_360_50fps.mp4",
+      "https://videos.pexels.com/video-files/8087632/8087632-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/6474179/6474179-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/3969597/3969597-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/11073550/11073550-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/8239245/8239245-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/29570837/12728656_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/5823524/5823524-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/3024109/3024109-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/8191004/8191004-sd_426_226_30fps.mp4",
+      "https://videos.pexels.com/video-files/6257859/6257859-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/6159867/6159867-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/5310323/5310323-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/9665235/9665235-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/7033616/7033616-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/9709118/9709118-sd_426_240_30fps.mp4",
+      "https://videos.pexels.com/video-files/3252651/3252651-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/35419786/15006601_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/2541974/2541974-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/4588229/4588229-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/9244228/9244228-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/9056543/9056543-sd_640_360_25fps.mp4",
+      "https://videos.pexels.com/video-files/7859990/7859990-sd_640_338_25fps.mp4",
+      "https://videos.pexels.com/video-files/9724322/9724322-sd_426_226_24fps.mp4",
+      "https://videos.pexels.com/video-files/5815405/5815405-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/12220199/12220199-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/7585003/7585003-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/7170782/7170782-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/5846460/5846460-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/5712806/5712806-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/7299383/7299383-sd_640_360_30fps.mp4",
+      "https://videos.pexels.com/video-files/6153059/6153059-sd_426_226_25fps.mp4",
+      "https://videos.pexels.com/video-files/12978459/12978459-sd_426_240_24fps.mp4",
+      "https://videos.pexels.com/video-files/4139994/4139994-sd_426_226_24fps.mp4",
+      "https://videos.pexels.com/video-files/7665028/7665028-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/5264325/5264325-sd_426_240_25fps.mp4",
+      "https://videos.pexels.com/video-files/7665026/7665026-sd_426_240_25fps.mp4"
+    ]
+  },
+  {
     "id": "c5c5a3d432",
     "kind": "short",
     "channel": "Channel3",
