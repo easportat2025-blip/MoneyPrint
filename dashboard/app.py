@@ -43,6 +43,44 @@ except ImportError:
 
 app = Flask(__name__)
 
+API_PATHS = (
+    "/api",
+    "/live",
+    "/sync",
+    "/kill",
+    "/trigger",
+    "/cancel",
+    "/accounts",
+    "/views",
+    "/missions",
+    "/channel",
+    "/updatecode",
+)
+
+
+@app.errorhandler(404)
+def _e404(err):
+    if request.path.startswith(API_PATHS):
+        return jsonify({"ok": False, "msg": f"404 {request.path}"}), 404
+    return "<h3>404</h3>", 404
+
+
+@app.errorhandler(500)
+def _e500(err):
+    if request.path.startswith(API_PATHS):
+        return jsonify({"ok": False, "msg": "loi server (xem dong terminal)"}), 500
+    return "<h3>500 - loi server</h3>", 500
+
+
+@app.errorhandler(Exception)
+def _eany(err):
+    if request.path.startswith(API_PATHS):
+        return (
+            jsonify({"ok": False, "msg": f"{type(err).__name__}: {str(err)[:200]}"}),
+            500,
+        )
+    raise err
+
 CRONS = [
     {"job": "Acc1 Short #1", "utc": "16:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
     {"job": "Acc1 Short #2", "utc": "19:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
@@ -416,12 +454,13 @@ function filterCh(name){var s=document.getElementById('fCh');if(s){s.value=name;
 function filterChSlot(slot){var s=document.getElementById('fCh');if(s){s.value=slot;}filtr();tab('videos',document.querySelector('.navbtn'));}
 function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var okCh=(!c)||(r.dataset.slot?r.dataset.slot===c:r.dataset.ch===c);var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&okCh&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
-function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
-function updCode(){document.getElementById('msg').textContent='pulling...';fetch('/updatecode').then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg+' — TAT dashboard (dong cua so den) roi mo lai MoneyPrint.bat';}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
-function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
-function goViews(){document.getElementById('msgV').textContent='sync logs...';fetch('/sync').then(function(r){return r.json();}).then(function(s){document.getElementById('msgV').textContent='fetching views...';return fetch('/views?force=1');}).then(function(r){return r.json();}).then(function(j){document.getElementById('msgV').textContent=j.msg||'';setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgV').textContent='error: '+e;});}
-function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
-function trigN(wf,n){var c=parseInt(n||'1',10);if(!(c>0)){c=1;}var label=wf==='backfill'?'Top-up':(wf==='long'?'Long video':wf.replace('shorts-',''));if(c>1&&!confirm('Queue '+c+' video cho '+label+'? Video thu 2+ se chay sau, ~12 phut moi ca.'))return;document.getElementById('msgF').textContent='dang queue '+c+' video...';fetch('/trigger?wf='+wf+'&count='+c).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
+function api(u,el,after){document.getElementById(el||'msg').textContent='working...';fetch(u).then(function(r){return r.text();}).then(function(t){var j;try{j=JSON.parse(t);}catch(e){j={ok:false,msg:'server tra ve HTML (loi noi bo) - thu lai hoac Update code'};}document.getElementById(el||'msg').textContent=j.msg||JSON.stringify(j);if(after)after(j);}).catch(function(e){document.getElementById(el||'msg').textContent='error: '+e;});}
+function go(u){api(u,'msg',function(j){setTimeout(function(){location.reload();},1200);});}
+function goAcc(){api('/accounts?force=1','msgAcc',function(){setTimeout(function(){location.reload();},900);});}
+function goViews(){api('/sync','msgV',function(){setTimeout(function(){api('/views?force=1','msgV',function(){setTimeout(function(){location.reload();},900);});},600);});}
+function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');api('/trigger?wf='+wf,'msgF');}
+function trigN(wf,n){var c=parseInt(n||'1',10);if(!(c>0)){c=1;}var label=wf==='backfill'?'Top-up':(wf==='long'?'Long video':wf.replace('shorts-',''));if(c>1&&!confirm('Queue '+c+' video cho '+label+'? Video thu 2+ se chay sau, ~12 phut moi ca.'))return;api('/trigger?wf='+wf+'&count='+c,'msgF');}
+function updCode(){api('/updatecode','msg');}
 function pad2(n){return (n<10?'0':'')+n;}
 function tickCount(){var now=new Date();var nowU=Date.now();var best=null,bestJob='';document.querySelectorAll('#cronTbl tr[data-utc]').forEach(function(r){if(!r.dataset.utc){return;}var p=r.dataset.utc.split(':');var t=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate(),parseInt(p[0],10),parseInt(p[1],10),0));if(t.getTime()<=nowU){t=new Date(t.getTime()+86400000);}var s=Math.floor((t.getTime()-nowU)/1000);var txt=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';var cell=r.querySelector('.left');if(cell){cell.textContent=txt;}if(best===null||t.getTime()<best){best=t.getTime();bestJob=r.dataset.job;}});var nc=document.getElementById('nextCount');if(nc&&best!==null){var s=Math.floor((best-nowU)/1000);nc.textContent=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';document.getElementById('nextJob').textContent=bestJob+' · tu dong dem nguoc moi giay';}}
 setInterval(tickCount,1000);tickCount();
@@ -437,13 +476,8 @@ def _gh() -> tuple:
     tok = os.environ.get("GH_TOKEN", "").strip()
     repo = ""
     try:
-        p = subprocess.run(
-            ["git", "config", "--get", "remote.origin.url"],
-            capture_output=True,
-            text=True,
-            timeout=10,
-        )
-        url = p.stdout.strip()
+        _, out, _ = _run_git(["git", "config", "--get", "remote.origin.url"], timeout=15)
+        url = out.strip()
         if "github.com" in url:
             part = url.split("github.com")[1].strip("/: ")
             if part.endswith(".git"):
@@ -1020,19 +1054,26 @@ def missions():
     return jsonify(_missions(records))
 
 
+def _run_git(args: list, timeout: int = 120) -> tuple[int, str, str]:
+    proc = subprocess.run(args, capture_output=True, timeout=timeout)
+    out = (proc.stdout or b"").decode("utf-8", errors="replace")
+    err = (proc.stderr or b"").decode("utf-8", errors="replace")
+    return proc.returncode, out, err
+
+
 @app.route("/sync")
 def sync():
-    p = subprocess.run(["git", "fetch", "origin", "logs"], capture_output=True)
-    proc = subprocess.run(
-        ["git", "show", "origin/logs:state.json"],
-        capture_output=True,
-        text=True,
-    )
-    if proc.returncode != 0 or not proc.stdout.strip():
-        return jsonify({"ok": False, "msg": "no logs branch state yet"})
-    (config.ROOT / "state_from_logs.json").write_text(proc.stdout, encoding="utf-8")
+    rc, _, _ = _run_git(["git", "fetch", "origin", "logs"], timeout=180)
+    rc2, out, err = _run_git(["git", "show", "origin/logs:state.json"])
+    if rc2 != 0 or not out.strip():
+        detail = (err or out).strip().splitlines()
+        tail = detail[-1][:180] if detail else "khong co logs branch"
+        return jsonify(
+            {"ok": False, "msg": f"sync that bai: {tail}"}
+        )
+    (config.ROOT / "state_from_logs.json").write_text(out, encoding="utf-8")
     try:
-        n = len(json.loads(proc.stdout))
+        n = len(json.loads(out))
     except json.JSONDecodeError:
         n = 0
     return jsonify({"ok": True, "msg": f"synced {n} records"})
@@ -1041,19 +1082,14 @@ def sync():
 @app.route("/updatecode")
 def updatecode():
     try:
-        proc = subprocess.run(
-            ["git", "pull", "--ff-only"], capture_output=True, text=True, timeout=120
-        )
-        if proc.returncode != 0:
-            proc = subprocess.run(
-                ["git", "pull", "origin", "main"],
-                capture_output=True,
-                text=True,
-                timeout=120,
+        rc, out, err = _run_git(["git", "pull", "--ff-only"], timeout=300)
+        if rc != 0:
+            rc, out, err = _run_git(
+                ["git", "pull", "origin", "main"], timeout=300
             )
-        out = (proc.stdout + proc.stderr).strip().splitlines()
-        tail = " | ".join(out[-3:]) if out else "empty"
-        if proc.returncode != 0:
+        lines = (out + err).strip().splitlines()
+        tail = " | ".join(lines[-3:]) if lines else "empty"
+        if rc != 0:
             return jsonify({"ok": False, "msg": f"git pull LOI: {tail[:250]}"})
         return jsonify({"ok": True, "msg": f"git pull OK: {tail[:250]}"})
     except Exception as e:
