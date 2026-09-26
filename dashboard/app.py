@@ -50,11 +50,25 @@ CRONS = [
     {"job": "Acc2 Short #1", "utc": "17:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
     {"job": "Acc2 Short #2", "utc": "20:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
     {"job": "Acc2 Short #3", "utc": "23:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
+    {"job": "Acc3 Short #1 (VN)", "utc": "00:30", "ch": "Channel3", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #2 (VN)", "utc": "05:00", "ch": "Channel3", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #3 (VN)", "utc": "13:00", "ch": "Channel3", "wf": "shorts-acc3.yml"},
     {"job": "Acc1 Long (/5d)", "utc": "15:00", "ch": "ReZain", "wf": "long.yml"},
 ]
 
 SHORTS_TARGET = 3
-ALLOWED_WF = {"shorts-acc1": "shorts-acc1.yml", "shorts-acc2": "shorts-acc2.yml", "long": "long.yml"}
+WF_PATHS = (
+    ".github/workflows/shorts-acc1.yml",
+    ".github/workflows/shorts-acc2.yml",
+    ".github/workflows/shorts-acc3.yml",
+    ".github/workflows/long.yml",
+)
+ALLOWED_WF = {
+    "shorts-acc1": "shorts-acc1.yml",
+    "shorts-acc2": "shorts-acc2.yml",
+    "shorts-acc3": "shorts-acc3.yml",
+    "long": "long.yml",
+}
 VIEWS_FILE = ROOT / "views_history.json"
 
 PAGE = """<!doctype html>
@@ -154,6 +168,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <div class="ws">WORKSPACE</div>
 <div class="ws-acc" onclick="filterCh('{{ acc1_name }}')"><span class="av">{{ acc1_name[0] }}</span>{{ acc1_name }}<span class="dot {{ 'ok' if acc1_ok else 'bad' }}"></span></div>
 <div class="ws-acc" onclick="filterCh('{{ acc2_name }}')"><span class="av">{{ acc2_name[0] }}</span>{{ acc2_name }}<span class="dot {{ 'ok' if acc2_ok else 'bad' }}"></span></div>
+<div class="ws-acc" onclick="filterCh('{{ acc3_name }}')"><span class="av">{{ acc3_name[0] }}</span>{{ acc3_name }}<span class="dot {{ 'ok' if acc3_ok else 'bad' }}"></span></div>
 <div class="ws">MENU</div>
 <button class="navbtn on" onclick="tab('videos',this)"><span class="ic">▦</span>Videos</button>
 <button class="navbtn" onclick="tab('force',this)"><span class="ic">▶</span>Force Make</button>
@@ -170,9 +185,9 @@ h2{font-size:15.5px;margin:22px 0 10px}
 
 <div class="panel on" id="p-videos">
 <div class="hero">
-<div class="row"><h1>Autopilot</h1><span class="pill {{ 'ok' if wf_on>0 else '' }}">{{ wf_on }}/3 workflows active</span></div>
+<div class="row"><h1>Autopilot</h1><span class="pill {{ 'ok' if wf_on>0 else '' }}">{{ wf_on }}/4 workflows active</span></div>
 <p>Set once. MoneyPrint creates your next videos.</p>
-<div class="bigstat">{{ acc1_name }} + {{ acc2_name }}</div>
+<div class="bigstat">{{ acc1_name }} + {{ acc2_name }} + {{ acc3_name }}</div>
 <p>{{ per_day }} videos per day &middot; English &middot; Automatic publishing</p>
 <p class="note">Planned posting time</p>
 <div class="bigstat">{{ next_slot }}</div>
@@ -241,6 +256,9 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <div class="force-card"><h3>Acc 2 – {{ acc2_name }}</h3>
 <p>1 Short kenh 2. Hom nay: {{ amap2.done }}/3.</p>
 <button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc2')" {% if not has_token %}disabled{% endif %}>Force 1 Short</button></div>
+<div class="force-card"><h3>Acc 3 – {{ acc3_name }}</h3>
+<p>Animated everyday life, gio VN. Hom nay: {{ amap3.done }}/3.</p>
+<button class="primary big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('shorts-acc3')" {% if not has_token %}disabled{% endif %}>Force 1 Short</button></div>
 <div class="force-card"><h3>Long video – Acc 1</h3>
 <p>1 video &gt;5 phut (~30-60 phut).</p>
 <button class="big force-btn" data-locked="{% if not has_token %}1{% endif %}" onclick="trig('long')" {% if not has_token %}disabled{% endif %}>Force 1 Long</button></div>
@@ -327,6 +345,8 @@ Ping chinh xac: <b>worker-ping.js</b> (Cloudflare) – xem README.</p>
 <span class="note">dung mail: <b>{{ acc1_email }}</b></span>
 <button class="primary" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
 <span class="note">dung mail: <b>{{ acc2_email }}</b></span>
+<button class="primary" onclick="window.open('/login?slot=3','_blank')">Dang nhap Google acc 3</button>
+<span class="note">dung mail: <b>{{ acc3_email }}</b></span>
 <button onclick="window.open('/gcp','_blank')">Tao Client ID</button>
 <button onclick="goAcc()">Check lai login</button>
 <span id="msgAcc" class="note"></span>
@@ -583,13 +603,7 @@ def _wf_states() -> int:
         return 0
     n = 0
     for w in res["data"].get("workflows", []):
-        if w.get("state") == "active" and w.get("path", "").startswith(
-            ".github/workflows/"
-        ) and w.get("path", "") in (
-            ".github/workflows/shorts-acc1.yml",
-            ".github/workflows/shorts-acc2.yml",
-            ".github/workflows/long.yml",
-        ):
+        if w.get("state") == "active" and w.get("path") in WF_PATHS:
             n += 1
     return n
 
@@ -768,15 +782,21 @@ def index():
     tok, _ = _gh()
     ch_names = sorted({r.get("channel") or "?" for r in records})
     if not ch_names:
-        ch_names = [config.CHANNEL_1_NAME, config.CHANNEL_2_NAME]
+        ch_names = [
+            config.CHANNEL_1_NAME,
+            config.CHANNEL_2_NAME,
+            config.CHANNEL_3_NAME,
+        ]
     channels = [_channel_missions(records, c) for c in ch_names]
     accs = yt_mod.check_all()
     done_by_name = {c["name"]: c["done"] for c in channels}
     amap = {a["slot"]: {"done": done_by_name.get(a["name"], 0)} for a in accs}
     acc1 = next((a for a in accs if a["slot"] == "1"), {})
     acc2 = next((a for a in accs if a["slot"] == "2"), {})
+    acc3 = next((a for a in accs if a["slot"] == "3"), {})
     acc1_email = os.environ.get("ACCOUNT_1_EMAIL", "").strip() or "mail chu kenh 1"
     acc2_email = os.environ.get("ACCOUNT_2_EMAIL", "").strip() or "mail chu kenh 2"
+    acc3_email = os.environ.get("ACCOUNT_3_EMAIL", "").strip() or "mail chu kenh 3"
     views = views_snapshot()
     nxt, nxt_note = _next_slot()
     plan_rows = []
@@ -820,15 +840,19 @@ def index():
         acc2_email=acc2_email,
         acc1_name=config.CHANNEL_1_NAME,
         acc2_name=config.CHANNEL_2_NAME,
+        acc3_name=config.CHANNEL_3_NAME,
         acc1_ok=bool(acc1.get("readonly_ok")),
         acc2_ok=bool(acc2.get("readonly_ok")),
+        acc3_ok=bool(acc3.get("readonly_ok")),
+        acc3_email=acc3_email,
         amap1=amap.get("1", {"done": 0}),
         amap2=amap.get("2", {"done": 0}),
+        amap3=amap.get("3", {"done": 0}),
         ch=channel_stats(),
         view_list=views["list"],
         view_bars=views["trend"],
         wf_on=_wf_states(),
-        per_day=6,
+        per_day=9,
         plan_rows=plan_rows,
         next_slot=nxt,
         next_note=nxt_note,
@@ -1024,7 +1048,7 @@ def gcp():
 @app.route("/login")
 def login():
     slot = request.args.get("slot", "1")
-    if slot not in ("1", "2"):
+    if slot not in ("1", "2", "3"):
         slot = "1"
     cid = os.environ.get("YOUTUBE_CLIENT_ID", "").strip()
     if not cid:
@@ -1078,7 +1102,7 @@ def oauth_callback():
     code = request.args.get("code", "")
     st = request.args.get("state", "")
     slot, _, rnd = st.partition(".")
-    if slot not in ("1", "2") or _oauth_states.pop(rnd, None) != slot or not code:
+    if slot not in ("1", "2", "3") or _oauth_states.pop(rnd, None) != slot or not code:
         return "<h3>Phien het han</h3><p>Dong tab, bam Dang nhap lai tu dashboard.</p>", 400
     if _rq is None:
         return "<h3>Thieu requests</h3>", 500
@@ -1108,7 +1132,7 @@ def oauth_callback():
             "go quyen app, roi Dang nhap lai.</p>",
             400,
         )
-    key = "YOUTUBE_REFRESH_TOKEN" if slot == "1" else "YOUTUBE_REFRESH_TOKEN_2"
+    key = "YOUTUBE_REFRESH_TOKEN" if slot == "1" else f"YOUTUBE_REFRESH_TOKEN_{slot}"
     wiz = _wiz()
     env = wiz.read_env()
     env[key] = rt

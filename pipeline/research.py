@@ -44,6 +44,18 @@ HISTORY_RULES = """HISTORY MODE (strict):
   beats landscapes for figure episodes). Label reconstructions as
   illustration in caption, never as authentic photo."""
 
+LIFESTYLE_RULES = """EVERYDAY-LIFE MODE (strict):
+- Topics must be things people do daily: sleep, food, money, phone habits,
+  body, brain, eyes, posture, hydration, temperature, screens, driving.
+- NO space, NO astronomy, NO ancient wars/history, NO royal figures.
+- search queries must look for MOTION footage, prefer animated/stylized:
+  "3d animation", "motion graphics", "loop animation", "isometric render",
+  "explainer animation", "cartoony 3d". Concretely show everyday objects
+  (phone, bed, coffee, mirror, money, food, screen) - not landscapes.
+- Curiosities of daily life, not generic self-help advice. Numbers beat
+  adjectives. Hook = one surprising number or contradiction about the body
+  or an everyday object."""
+
 SCIENCE_RULES = ""
 
 
@@ -52,9 +64,16 @@ def research(idea: dict, duration: int, scene_sec: int) -> list:
 
     n_scenes = max(3, math.ceil(duration / scene_sec))
     client = gemini_client.GeminiClient()
-    history = "history" in config.NICHE.lower()
+    niche = config.NICHE.lower()
+    history = "history" in niche
+    lifestyle = ("everyday life" in niche) or ("animation" in niche)
+    rules = (
+        HISTORY_RULES
+        if history
+        else (LIFESTYLE_RULES if lifestyle else SCIENCE_RULES)
+    )
     prompt = RESEARCH_PROMPT.format(
-        HISTORY_RULES=HISTORY_RULES if history else SCIENCE_RULES,
+        HISTORY_RULES=rules,
         title=idea.get("title", ""),
         hook=idea.get("hook", ""),
         beats=json_dumps(idea.get("beats", [])),

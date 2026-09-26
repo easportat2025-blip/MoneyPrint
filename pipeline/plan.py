@@ -22,10 +22,18 @@ Requirements:
 def generate_ideas(n: int = 5) -> list:
     client = gemini_client.GeminiClient()
     used = ", ".join(sorted(state.used_titles())) or "none"
-    history = "history" in config.NICHE.lower()
+    niche = config.NICHE.lower()
+    history = "history" in niche
+    lifestyle = ("everyday life" in niche) or ("animation" in niche)
     if history:
         imagery = "public-domain paintings, engravings, portraits, busts, old maps, archival photos"
         exclude = "- FORBIDDEN topics: space, astronomy, planets, stars, physics, cosmic events. HUMAN history only."
+    elif lifestyle:
+        imagery = "3D animation, motion graphics, stylized loop animation, everyday objects on clean backgrounds"
+        exclude = (
+            "- FORBIDDEN topics: space/astronomy, ancient history, wars, kings and queens.\n"
+            "- MUST be about everyday human life: body, sleep, food, money, phone, habits."
+        )
     else:
         imagery = "stock footage / public-domain space imagery"
         exclude = ""

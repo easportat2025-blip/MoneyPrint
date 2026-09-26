@@ -54,26 +54,46 @@ def model_chain() -> list:
 CHANNEL = env("CHANNEL", "1")
 CHANNEL_1_NAME = env("CHANNEL_1_NAME", "ReZain")
 CHANNEL_2_NAME = env("CHANNEL_2_NAME", "Channel2")
+CHANNEL_3_NAME = env("CHANNEL_3_NAME", "Channel3")
+
+CHANNEL_NAMES = {
+    "1": CHANNEL_1_NAME,
+    "2": CHANNEL_2_NAME,
+    "3": CHANNEL_3_NAME,
+}
+
+DEFAULT_NICHE = {
+    "1": "space science documentary facts",
+    "2": "human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations",
+    "3": "everyday life explained with animation - human body, sleep, food, money, habits, phone and screen myths, curious science of daily life",
+}
+
+DEFAULT_VOICE = {
+    "1": "en-US-ChristopherNeural",
+    "2": "en-US-GuyNeural",
+    "3": "en-US-AvaMultilingualNeural",
+}
 
 YOUTUBE_CLIENT_ID = env("YOUTUBE_CLIENT_ID")
 YOUTUBE_CLIENT_SECRET = env("YOUTUBE_CLIENT_SECRET")
-if CHANNEL == "2":
-    YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN") or env(
-        "YOUTUBE_REFRESH_TOKEN_2"
-    )
-    NICHE_ACTIVE = env("NICHE_2", "")
-    VOICE_ACTIVE = env("VOICE_2", "")
-    CHANNEL_NAME = CHANNEL_2_NAME
-else:
-    YOUTUBE_REFRESH_TOKEN = env("YOUTUBE_REFRESH_TOKEN")
-    NICHE_ACTIVE = env("NICHE", "")
-    VOICE_ACTIVE = env("VOICE", "")
-    CHANNEL_NAME = CHANNEL_1_NAME
 
-if not NICHE_ACTIVE:
-    NICHE_ACTIVE = "space science documentary facts"
-if not VOICE_ACTIVE:
-    VOICE_ACTIVE = "en-US-GuyNeural" if CHANNEL == "2" else "en-US-ChristopherNeural"
+
+def slot_token(slot: str) -> str:
+    mapped = env("YOUTUBE_REFRESH_TOKEN")
+    if slot == "1":
+        return mapped
+    return env(f"YOUTUBE_REFRESH_TOKEN_{slot}") or mapped
+
+
+YOUTUBE_REFRESH_TOKEN = slot_token(CHANNEL)
+CHANNEL_NAME = CHANNEL_NAMES.get(CHANNEL, CHANNEL_1_NAME)
+NICHE_ACTIVE = (
+    env("NICHE") if CHANNEL == "1" else env(f"NICHE_{CHANNEL}", "")
+) or DEFAULT_NICHE.get(CHANNEL, DEFAULT_NICHE["1"])
+VOICE_ACTIVE = (
+    (env("VOICE") if CHANNEL == "1" else env(f"VOICE_{CHANNEL}", ""))
+    or DEFAULT_VOICE.get(CHANNEL, DEFAULT_VOICE["1"])
+)
 
 PEXELS_API_KEY = env("PEXELS_API_KEY")
 PIXABAY_API_KEY = env("PIXABAY_API_KEY")

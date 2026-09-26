@@ -46,7 +46,12 @@ def _write_cache(slot: str, data: dict) -> None:
 def check_slot(slot: str, force: bool = False) -> dict:
     cid = _env("YOUTUBE_CLIENT_ID")
     csec = _env("YOUTUBE_CLIENT_SECRET")
-    rt = _env("YOUTUBE_REFRESH_TOKEN" if slot == "1" else "YOUTUBE_REFRESH_TOKEN_2")
+    mapped = _env("YOUTUBE_REFRESH_TOKEN")
+    rt = (
+        mapped
+        if slot == "1"
+        else (_env(f"YOUTUBE_REFRESH_TOKEN_{slot}") or mapped)
+    )
     email = _env(f"ACCOUNT_{slot}_EMAIL")
     name = _env(f"CHANNEL_{slot}_NAME", f"Channel{slot}")
     out = {
@@ -126,4 +131,4 @@ def check_slot(slot: str, force: bool = False) -> dict:
 
 
 def check_all(force: bool = False) -> list:
-    return [check_slot("1", force), check_slot("2", force)]
+    return [check_slot("1", force), check_slot("2", force), check_slot("3", force)]

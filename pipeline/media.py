@@ -378,6 +378,14 @@ def from_pexels_video(
 
 QUERY_SUFFIX = ["", " cinematic", " close up", " slow motion", " aerial view"]
 STILLS_SUFFIX = [" portrait", " painting", " old map", " engraving", " archival photo", " bust statue"]
+ANIM_SUFFIX = [
+    " 3d animation",
+    " motion graphics",
+    " loop animation",
+    " isometric render",
+    " explainer animation",
+    " stylized 3d",
+]
 
 
 def fetch_scene(
@@ -498,7 +506,14 @@ def fetch_all(
     skip: set | None = None,
 ) -> list[tuple[Path, bool, str, str]]:
     skip = set(skip or set())
-    suffixes = STILLS_SUFFIX if config.MEDIA_MODE == "stills" else QUERY_SUFFIX
+    niche = config.NICHE.lower()
+    lifestyle = ("everyday life" in niche) or ("animation" in niche)
+    if config.MEDIA_MODE == "stills":
+        suffixes = STILLS_SUFFIX
+    elif lifestyle:
+        suffixes = ANIM_SUFFIX
+    else:
+        suffixes = QUERY_SUFFIX
     paths = []
     for i, s in enumerate(scenes):
         if config.kill_requested():
