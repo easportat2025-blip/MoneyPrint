@@ -1,5 +1,195 @@
 [
   {
+    "id": "4ab2defab1",
+    "kind": "short",
+    "channel": "Channel2",
+    "status": "done",
+    "title": "The Bizarre Plague That Made People Dance to Death",
+    "idea": {
+      "title": "The Bizarre Plague That Made People Dance to Death",
+      "hook": "In July 1518, a woman stepped into a Strasbourg street and began dancing uncontrollably—within a month, hundreds joined until their hearts gave out.",
+      "beats": [
+        "Frau Troffea danced alone for six straight days without food, water, or sleep.",
+        "Local authorities believed 'hot blood' was the cause, so they hired musicians and built a wooden stage to encourage them to dance it out.",
+        "The mania quickly spread to over 400 citizens, with dozens collapsing and dying daily from exhaustion and strokes.",
+        "Historians now point to mass psychogenic hysteria triggered by devastating famine, or poisoning from ergot-infected rye bread."
+      ],
+      "keywords": [
+        "dancing plague 1518 engraving",
+        "medieval woodcut strasbourg",
+        "renaissance doctor painting",
+        "medieval street scene illustration",
+        "holy roman empire archival map"
+      ],
+      "tags": [
+        "history",
+        "weirdhistory",
+        "medievalhistory",
+        "unexplainedmysteries",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1518, hundreds of people danced themselves to death.",
+        "search": "dancing plague 1518 engraving",
+        "caption": "In July 1518, hundreds danced until they died."
+      },
+      {
+        "narration": "It began in Strasbourg, an imperial free city of the Holy Roman Empire.",
+        "search": "holy roman empire archival map engraving",
+        "caption": "Strasbourg, Holy Roman Empire, summer of 1518."
+      },
+      {
+        "narration": "In mid-July, a lone woman named Frau Troffea stepped onto a cobblestone street.",
+        "search": "medieval street scene illustration woodcut",
+        "caption": "Frau Troffea stepped alone into the street."
+      },
+      {
+        "narration": "Without any music playing, she began twisting and dancing uncontrollably.",
+        "search": "woman dancing medieval woodcut engraving",
+        "caption": "She danced frantically without music or rest."
+      },
+      {
+        "narration": "For six consecutive days, she danced until her shoes soaked through with blood.",
+        "search": "medieval cobblestone street dark engraving",
+        "caption": "For six days, her dancing never stopped."
+      },
+      {
+        "narration": "Instead of intervening, onlookers watched in horror as others felt the same compulsion.",
+        "search": "crowd hysteria medieval engraving",
+        "caption": "Within days, dozens joined the manic frenzy."
+      },
+      {
+        "narration": "By August, over four hundred citizens had joined the manic, involuntary procession.",
+        "search": "strasbourg dancing plague medieval woodcut",
+        "caption": "Over 400 citizens filled the city square."
+      },
+      {
+        "narration": "Desperate civic magistrates summoned local physicians to diagnose the spreading madness.",
+        "search": "renaissance doctor painting oil portrait",
+        "caption": "City authorities consulted the region's top physicians."
+      },
+      {
+        "narration": "The doctors rejected demonic possession, concluding the victims suffered from overheated blood.",
+        "search": "medieval physician bloodletting manuscript illustration",
+        "caption": "Doctors diagnosed an illness caused by overheated blood."
+      },
+      {
+        "narration": "Their prescribed cure was catastrophic: the afflicted had to keep dancing to purge the sickness.",
+        "search": "renaissance city council meeting oil painting",
+        "caption": "Authorities ordered victims to dance continuously to purge it."
+      },
+      {
+        "narration": "City leaders constructed two wooden platforms and hired professional pipers and drummers.",
+        "search": "medieval musicians flute drum woodcut",
+        "caption": "The city hired musicians and built open-air stages."
+      },
+      {
+        "narration": "The constant rhythm only intensified the hysteria, driving dancers past human endurance.",
+        "search": "dancing mania 16th century engraving",
+        "caption": "The relentless music accelerated the physical collapse."
+      },
+      {
+        "narration": "Contemporary chronicles record that up to fifteen people collapsed dead each day.",
+        "search": "medieval danse macabre woodcut engraving",
+        "caption": "Up to 15 people died daily from heart failure."
+      },
+      {
+        "narration": "Authorities panicked, banned public music, and loaded survivors onto carts bound for Saint Vitus shrine.",
+        "search": "saint vitus medieval church engraving",
+        "caption": "Survivors were dragged to the shrine of Saint Vitus."
+      },
+      {
+        "narration": "Early modern theorists blamed ergotism, a toxic fungus on rye bread causing hallucinations.",
+        "search": "rye grain botanical engraving vintage",
+        "caption": "Was it ergot poisoning from toxic mold on rye?"
+      },
+      {
+        "narration": "Yet ergot cuts blood supply to extremities, making sustained, rhythmic movement physically impossible.",
+        "search": "famine in medieval europe oil painting",
+        "caption": "Ergotism restricts blood flow, ruling out weeks of dancing."
+      },
+      {
+        "narration": "Historians now recognize mass psychogenic hysteria, ignited by devastating famine and intense psychological terror.",
+        "search": "strasbourg cathedral 16th century engraving",
+        "caption": "Famine and sheer terror sparked lethal mass hysteria."
+      }
+    ],
+    "error": "",
+    "youtube_id": "7xQPOklwmJA",
+    "youtube_url": "https://www.youtube.com/watch?v=7xQPOklwmJA",
+    "created_at": "2026-09-26T00:29:40.672875+00:00",
+    "updated_at": "2026-09-26T00:31:29.505096+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-26T00:29:54.513806+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "508 chars",
+        "at": "2026-09-26T00:30:21.085224+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.1s 8 sentences",
+        "at": "2026-09-26T00:30:23.694198+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-26T00:30:25.078082+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-26T00:30:35.758139+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.1s 11739353 bytes",
+        "at": "2026-09-26T00:31:26.834647+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=7xQPOklwmJA",
+        "at": "2026-09-26T00:31:29.219554+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-26T00:31:29.489571+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-26T00:31:29.505089+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/1607862/pexels-photo-1607862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39533700/pexels-photo-39533700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16342542/pexels-photo-16342542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858955/pexels-photo-31858955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/102729/pexels-photo-102729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16130427/pexels-photo-16130427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29209870/pexels-photo-29209870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39238586/pexels-photo-39238586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18062023/pexels-photo-18062023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588835/pexels-photo-4588835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38003124/pexels-photo-38003124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32154972/pexels-photo-32154972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28866525/pexels-photo-28866525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38150412/pexels-photo-38150412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12840962/pexels-photo-12840962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38150411/pexels-photo-38150411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19235933/pexels-photo-19235933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0327085243",
     "kind": "short",
     "channel": "ReZain",
