@@ -3,6 +3,13 @@ import os
 import time
 from pathlib import Path
 
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except ImportError:
+    pass
+
 ROOT = Path(__file__).resolve().parents[1]
 
 try:
@@ -11,6 +18,13 @@ except ImportError:
     _rq = None
 
 CACHE_TTL = 3600
+CACHE_VERSION = 2
+
+
+def _fp(token: str) -> str:
+    import hashlib
+
+    return hashlib.sha256((token or "").encode()).hexdigest()[:16]
 
 
 def _env(key: str, default: str = "") -> str:
@@ -23,20 +37,25 @@ def _cache_path(slot: str) -> Path:
     return ROOT / f"account_cache_{slot}.json"
 
 
-def _read_cache(slot: str) -> dict | None:
+def _read_cache(slot: str, fp: str) -> dict | None:
     p = _cache_path(slot)
     if p.exists():
         try:
             d = json.loads(p.read_text(encoding="utf-8"))
             if time.time() - d.get("at", 0) < CACHE_TTL:
+                if d.get("v") != CACHE_VERSION or d.get("fp") != fp:
+                    return None
                 return d
         except (json.JSONDecodeError, OSError):
             pass
     return None
 
 
-def _write_cache(slot: str, data: dict) -> None:
+def _write_cache(slot: str, data: dict, fp: str = "") -> None:
     data["at"] = time.time()
+    data["v"] = CACHE_VERSION
+    if fp:
+        data["fp"] = fp
     try:
         _cache_path(slot).write_text(json.dumps(data), encoding="utf-8")
     except OSError:
@@ -75,8 +94,9 @@ def check_slot(slot: str, force: bool = False) -> dict:
     if not rt:
         out["error"] = "chua co refresh token slot nay"
         return out
+    fp = _fp(rt)
     if not force:
-        cached = _read_cache(slot)
+        cached = _read_cache(slot, fp)
         if cached and cached.get("ok"):
             merged = dict(cached)
             merged["slot"] = slot
@@ -111,7 +131,7 @@ def check_slot(slot: str, force: bool = False) -> dict:
         )
         if r.status_code == 403:
             out["error"] = "thieu scope readonly (chay lai Dang nhap)"
-            _write_cache(slot, {**out, "ok": False})
+            _write_cache(slot, {**out, "ok": False}, fp)
             return out
         if r.status_code != 200:
             out["error"] = f"channels {r.status_code}"
@@ -134,7 +154,7 @@ def check_slot(slot: str, force: bool = False) -> dict:
                 "videos": st.get("videoCount", "0"),
             }
         )
-        _write_cache(slot, {**out, "ok": True})
+        _write_cache(slot, {**out, "ok": True}, fp)
     except Exception as e:
         out["error"] = str(e)[:150]
     return out
