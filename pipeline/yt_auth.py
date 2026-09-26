@@ -43,20 +43,24 @@ def _write_cache(slot: str, data: dict) -> None:
         pass
 
 
+def token_for_slot(slot: str) -> str:
+    if slot == "1":
+        return _env("YOUTUBE_REFRESH_TOKEN")
+    return _env(f"YOUTUBE_REFRESH_TOKEN_{slot}")
+
+
 def check_slot(slot: str, force: bool = False) -> dict:
     cid = _env("YOUTUBE_CLIENT_ID")
     csec = _env("YOUTUBE_CLIENT_SECRET")
-    mapped = _env("YOUTUBE_REFRESH_TOKEN")
-    rt = (
-        mapped
-        if slot == "1"
-        else (_env(f"YOUTUBE_REFRESH_TOKEN_{slot}") or mapped)
-    )
+    rt = token_for_slot(slot)
     email = _env(f"ACCOUNT_{slot}_EMAIL")
-    name = _env(f"CHANNEL_{slot}_NAME", f"Channel{slot}")
+    env_name = _env(f"CHANNEL_{slot}_NAME", "")
+    if slot == "1" and not env_name:
+        env_name = "ReZain"
     out = {
         "slot": slot,
-        "name": name,
+        "name": env_name or f"Slot {slot}",
+        "display": env_name or f"Slot {slot}",
         "email": email or "-",
         "configured": bool(cid and rt),
         "token_ok": False,
@@ -68,14 +72,18 @@ def check_slot(slot: str, force: bool = False) -> dict:
         "videos": "-",
         "error": "",
     }
-    if not out["configured"]:
-        out["error"] = "thieu refresh token"
+    if not rt:
+        out["error"] = "chua co refresh token slot nay"
         return out
     if not force:
         cached = _read_cache(slot)
         if cached and cached.get("ok"):
-            cached["slot"] = slot
-            return cached
+            merged = dict(cached)
+            merged["slot"] = slot
+            merged["display"] = cached.get("channel_title") or out["name"]
+            merged["email"] = email or merged.get("email", "-")
+            merged["name"] = env_name or merged.get("name", f"Slot {slot}")
+            return merged
     if _rq is None:
         out["error"] = "thieu requests"
         return out
@@ -102,7 +110,7 @@ def check_slot(slot: str, force: bool = False) -> dict:
             timeout=30,
         )
         if r.status_code == 403:
-            out["error"] = "thieu scope readonly (chay lai wizard)"
+            out["error"] = "thieu scope readonly (chay lai Dang nhap)"
             _write_cache(slot, {**out, "ok": False})
             return out
         if r.status_code != 200:
@@ -110,15 +118,17 @@ def check_slot(slot: str, force: bool = False) -> dict:
             return out
         items = r.json().get("items", [])
         if not items:
-            out["error"] = "mail nay chua co kenh YouTube"
+            out["error"] = "mail nay chua tao kenh YouTube"
             return out
         ch = items[0]
         st = ch.get("statistics", {})
+        title = ch.get("snippet", {}).get("title", "")
         out.update(
             {
                 "readonly_ok": True,
                 "channel_id": ch.get("id", ""),
-                "channel_title": ch.get("snippet", {}).get("title", ""),
+                "channel_title": title,
+                "display": title or out["name"],
                 "subs": st.get("subscriberCount", "0"),
                 "views": st.get("viewCount", "0"),
                 "videos": st.get("videoCount", "0"),
@@ -131,4 +141,18 @@ def check_slot(slot: str, force: bool = False) -> dict:
 
 
 def check_all(force: bool = False) -> list:
-    return [check_slot("1", force), check_slot("2", force), check_slot("3", force)]
+    accs = [check_slot(s, force) for s in ("1", "2", "3")]
+    seen: dict = {}
+    for a in accs:
+        if a["readonly_ok"] and a["channel_id"]:
+            first = seen.get(a["channel_id"])
+            if first:
+                a["duplicate_of"] = first
+                a["error"] = f"TRUNG KENH voi slot {first} - kiem tra lai token"
+            else:
+                seen[a["channel_id"]] = a["slot"]
+    return accs
+
+
+def by_slot(accs: list) -> dict:
+    return {a["slot"]: a for a in accs}

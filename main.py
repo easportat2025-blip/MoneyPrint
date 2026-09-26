@@ -102,10 +102,10 @@ def cmd_accounts(args):
 
     for a in yt.check_all(force=args.force):
         status = "OK" if a["readonly_ok"] else ("TOKEN_OK" if a["token_ok"] else "FAIL")
+        flag = f" DUPLICATE_OF_SLOT_{a['duplicate_of']}" if a.get("duplicate_of") else ""
         print(
-            f"[slot {a['slot']}] {a['name']} <{a['email']}> :: {status} "
-            f"channel={a['channel_title'] or '-'} subs={a['subs']} "
-            f"videos={a['videos']} err={a['error']}"
+            f"[slot {a['slot']}] {a['display']} <{a['email']}> :: {status}{flag} "
+            f"subs={a['subs']} views={a['views']} videos={a['videos']} err={a['error']}"
         )
 
 

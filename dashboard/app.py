@@ -160,15 +160,31 @@ h2{font-size:15.5px;margin:22px 0 10px}
 .vrow img{width:86px;border-radius:8px}
 .vrow .t{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .vrow b{color:var(--mint)}
+.acct-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px;margin-bottom:16px}
+.acct{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px}
+.acct.ok{border-color:var(--mint-d)}
+.acct.bad{border-color:var(--yel)}
+.acct-top{display:flex;align-items:center;gap:11px;margin-bottom:14px}
+.acct-top .av{width:40px;height:40px;border-radius:12px;background:#23402f;display:inline-flex;align-items:center;justify-content:center;font-size:17px;font-weight:800;color:var(--mint);flex-shrink:0}
+.acct-id{flex:1;min-width:0}
+.acct-id b{display:block;font-size:15.5px}
+.acct-top .badge{flex-shrink:0}
+.acct-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px}
+.acct-stats div{background:#0e1512;border:1px solid var(--line);border-radius:10px;padding:8px 6px;text-align:center}
+.acct-stats b{display:block;font-size:16px}
+.acct-stats span{font-size:10.5px;color:var(--mut)}
+.acct-actions{display:flex;gap:8px;flex-wrap:wrap}
+.err-line{color:#fca5a5}
+code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:12px}
 @media(max-width:800px){.side{display:none}body{display:block}}
 </style></head><body>
 <div class="side">
 <div class="logo"><span class="mk">M</span> MoneyPrint <small>studio</small></div>
 <button class="create" onclick="tab('force',null)">＋ Force video</button>
 <div class="ws">WORKSPACE</div>
-<div class="ws-acc" onclick="filterCh('{{ acc1_name }}')"><span class="av">{{ acc1_name[0] }}</span>{{ acc1_name }}<span class="dot {{ 'ok' if acc1_ok else 'bad' }}"></span></div>
-<div class="ws-acc" onclick="filterCh('{{ acc2_name }}')"><span class="av">{{ acc2_name[0] }}</span>{{ acc2_name }}<span class="dot {{ 'ok' if acc2_ok else 'bad' }}"></span></div>
-<div class="ws-acc" onclick="filterCh('{{ acc3_name }}')"><span class="av">{{ acc3_name[0] }}</span>{{ acc3_name }}<span class="dot {{ 'ok' if acc3_ok else 'bad' }}"></span></div>
+{% for a in accs %}
+<div class="ws-acc" onclick="filterChSlot('{{ a.slot }}')"><span class="av">{{ a.display[0] }}</span>{{ a.display }}<span class="dot {{ 'ok' if a.readonly_ok else 'bad' }}"></span></div>
+{% endfor %}
 <div class="ws">MENU</div>
 <button class="navbtn on" onclick="tab('videos',this)"><span class="ic">▦</span>Videos</button>
 <button class="navbtn" onclick="tab('force',this)"><span class="ic">▶</span>Force Make</button>
@@ -209,14 +225,14 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <button class="warn" onclick="go('/cancel')" {% if not has_token %}disabled{% endif %}>Cancel jobs</button>
 <select id="fStatus" onchange="filtr()"><option value="">all status</option><option>done</option><option>failed</option><option>planned</option><option>uploading</option><option>rendering</option></select>
 <select id="fKind" onchange="filtr()"><option value="">short+long</option><option value="short">short</option><option value="long">long</option></select>
-<select id="fCh" onchange="filtr()"><option value="">all channels</option>{% for c in ch_names %}<option>{{ c }}</option>{% endfor %}</select>
+<select id="fCh" onchange="filtr()"><option value="">all channels</option>{% for c in ch_options %}<option value="{{ c.value }}">{{ c.label }}</option>{% endfor %}</select>
 <input id="fText" placeholder="search title..." oninput="filtr()">
 <span id="msg"></span>
 </div>
 <table id="tbl">
 <tr><th></th><th>ID</th><th>Status</th><th>Title</th><th>YouTube</th><th>Stages</th><th>Error</th><th>Updated</th><th></th></tr>
 {% for r in records %}
-<tr class="row" data-status="{{ r.status }}" data-kind="{{ r.kind }}" data-title="{{ r.title|lower }}" data-ch="{{ r.channel or '' }}">
+<tr class="row" data-status="{{ r.status }}" data-kind="{{ r.kind }}" data-title="{{ r.title|lower }}" data-ch="{{ r.channel or '' }}" data-slot="{{ r.slot or '' }}">
 <td>{% if r.youtube_id %}<a href="{{ r.youtube_url }}" target="_blank"><img class="thumb" src="https://i.ytimg.com/vi/{{ r.youtube_id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}</td>
 <td>{{ r.id }}</td>
 <td class="st-{{ r.status }}">{{ r.status }}</td>
@@ -295,7 +311,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 {% for a in accs %}
 {% if a.readonly_ok %}
 <div class="mission done">
-<h3>{{ a.name }}{% if a.channel_title %} – {{ a.channel_title }}{% endif %} <span class="badge ok">LIVE</span></h3>
+<h3>{{ a.display }} <span class="badge ok">LIVE</span></h3>
 <div class="grid">
 <div class="card"><b>{{ a.subs }}</b><span>subscribers</span></div>
 <div class="card"><b>{{ a.views }}</b><span>total views (kenh)</span></div>
@@ -308,7 +324,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <h2>Views tung video (moi nhat truoc)</h2>
 {% if not view_list %}<p class="note">Chua co snapshot – bam <b>Refresh view stats</b> o tren (ton ~1 unit/50 video).</p>{% endif %}
 {% for v in view_list %}
-<div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}</span><b>{{ v.views }} views · +{{ v.vel }}/ngay</b></div>
+<div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}<br><span class="note">{{ v.owner }}</span></span><b>{{ v.views }} views · +{{ v.vel }}/ngay</b></div>
 {% endfor %}
 <h2>Tong views theo ngay (tu snapshot)</h2>
 {% if not view_bars %}<p class="note">Chua co du lieu – bam <b>Refresh view stats</b>, de vai ngay chart se dai ra.</p>{% endif %}
@@ -321,7 +337,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <div class="mission"><h3>Doanh thu uoc tinh: $0</h3>
 <div class="prog"><div class="low" style="width:2%">0%</div></div>
 <div class="note">Partner (Shorts): <b>1000 subs</b> + <b>10M Shorts views/90 ngay</b>.<br>
-{% for a in accs %}{% if a.readonly_ok %}{{ a.name }}: {{ a.subs }}/1000 subs, {{ a.views }} views.<br>{% endif %}{% endfor %}
+{% for a in accs %}{% if a.readonly_ok %}{{ a.display }}: {{ a.subs }}/1000 subs, {{ a.views }} views.<br>{% endif %}{% endfor %}
 Du dieu kien bat trong YouTube Studio &gt; Earn.</div></div>
 </div>
 
@@ -340,35 +356,38 @@ Ping chinh xac: <b>worker-ping.js</b> (Cloudflare) – xem README.</p>
 </div>
 
 <div class="panel" id="p-accounts">
-<div class="toolbar">
-<button class="primary" onclick="window.open('/login?slot=1','_blank')">Dang nhap Google acc 1</button>
-<span class="note">dung mail: <b>{{ acc1_email }}</b></span>
-<button class="primary" onclick="window.open('/login?slot=2','_blank')">Dang nhap Google acc 2</button>
-<span class="note">dung mail: <b>{{ acc2_email }}</b></span>
-<button class="primary" onclick="window.open('/login?slot=3','_blank')">Dang nhap Google acc 3</button>
-<span class="note">dung mail: <b>{{ acc3_email }}</b></span>
-<button onclick="window.open('/gcp','_blank')">Tao Client ID</button>
-<button onclick="goAcc()">Check lai login</button>
-<span id="msgAcc" class="note"></span>
-</div>
+<div class="acct-grid">
 {% for a in accs %}
-<div class="mission {{ 'done' if a.readonly_ok else '' }}">
-<h3>Slot {{ a.slot }} – {{ a.name }} &lt;{{ a.email }}&gt;
-{% if a.readonly_ok %}<span class="badge ok">LOGGED IN</span>
-{% elif a.token_ok %}<span class="badge">TOKEN OK / thieu scope</span>
-{% elif a.configured %}<span class="badge no">TOKEN DIE</span>
-{% else %}<span class="badge">CHUA CAI</span>{% endif %}</h3>
-{% if a.channel_title %}<div>Kenh: <a href="https://www.youtube.com/channel/{{ a.channel_id }}" target="_blank">{{ a.channel_title }}</a></div>{% endif %}
-<div class="grid">
-<div class="card"><b>{{ a.subs }}</b><span>subs</span></div>
-<div class="card"><b>{{ a.views }}</b><span>views</span></div>
-<div class="card"><b>{{ a.videos }}</b><span>videos</span></div>
-<div class="card"><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
+<div class="acct {{ 'ok' if a.readonly_ok else ('bad' if a.token_ok else '') }}">
+<div class="acct-top">
+<span class="av">{{ a.display[0] }}</span>
+<div class="acct-id">
+<b>{{ a.display }}</b>
+<span class="note">Slot {{ a.slot }} &middot; {{ a.email }}</span>
 </div>
-{% if a.error %}<div class="err">{{ a.error }}</div>{% endif %}
-<div class="note">Login lai: nut Dang nhap o tren (chon dung mail) &rarr; copy token vao .env + Secrets. Thu hoi: <a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a></div>
+<span class="badge {{ 'ok' if a.readonly_ok else 'no' }}">{{ 'LOGGED IN' if a.readonly_ok else ('TOKEN OK' if a.token_ok else 'CHUA CAI') }}</span>
+</div>
+{% if a.duplicate_of %}<div class="err">TRUNG KENH voi slot {{ a.duplicate_of }} - token bi trung, can login lai</div>{% endif %}
+{% if a.error %}<div class="note err-line">{{ a.error }}</div>{% endif %}
+<div class="acct-stats">
+<div><b>{{ a.subs }}</b><span>subs</span></div>
+<div><b>{{ a.views }}</b><span>views</span></div>
+<div><b>{{ a.videos }}</b><span>videos</span></div>
+<div><b>{{ amap[a.slot].done }}/3</b><span>shorts hom nay</span></div>
+</div>
+<div class="acct-actions">
+<button class="primary" onclick="window.open('/login?slot={{ a.slot }}','_blank')">Dang nhap Google</button>
+<button onclick="goAcc()">Check lai</button>
+</div>
 </div>
 {% endfor %}
+</div>
+<div class="toolbar">
+<button onclick="window.open('/gcp','_blank')">Tao Client ID</button>
+<a class="note" href="https://myaccount.google.com/permissions" target="_blank">Thu hoi quyen app</a>
+<span id="msgAcc" class="note"></span>
+</div>
+<p class="note">Ten kenh lay tu dong tu YouTube (khong dung ten trong .env) nen luon dung hien trang. Neu slot bao “CHUA CAI” thi chua co <code>YOUTUBE_REFRESH_TOKEN_N</code> trong .env – bam <b>Dang nhap Google</b> de lay.</p>
 </div>
 
 <p class="note">Kill chi dung local. Token chi trong .env local, khong commit.</p>
@@ -376,7 +395,8 @@ Ping chinh xac: <b>worker-ping.js</b> (Cloudflare) – xem README.</p>
 <script>
 function tab(n,el){document.querySelectorAll('.navbtn').forEach(function(t){t.classList.remove('on');});if(el){el.classList.add('on');}document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});document.getElementById('p-'+n).classList.add('on');}
 function filterCh(name){var s=document.getElementById('fCh');if(s){s.value=name;}filtr();tab('videos',document.querySelector('.navbtn'));}
-function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&(!c||r.dataset.ch===c)&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
+function filterChSlot(slot){var s=document.getElementById('fCh');if(s){s.value=slot;}filtr();tab('videos',document.querySelector('.navbtn'));}
+function filtr(){var s=document.getElementById('fStatus').value,k=document.getElementById('fKind').value,c=document.getElementById('fCh').value,t=document.getElementById('fText').value.toLowerCase();document.querySelectorAll('#tbl tr.row').forEach(function(r){var okCh=(!c)||(r.dataset.slot?r.dataset.slot===c:r.dataset.ch===c);var ok=(!s||r.dataset.status===s)&&(!k||r.dataset.kind===k)&&okCh&&(!t||r.dataset.title.includes(t));r.style.display=ok?'':'none';});}
 function tog(id){var e=document.getElementById(id);e.style.display=e.style.display==='table-row'?'none':'table-row';}
 function go(u){document.getElementById('msg').textContent='working...';fetch(u).then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg||JSON.stringify(j);setTimeout(function(){location.reload();},1200);}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
 function updCode(){document.getElementById('msg').textContent='pulling...';fetch('/updatecode').then(function(r){return r.json();}).then(function(j){document.getElementById('msg').textContent=j.msg+' — TAT dashboard (dong cua so den) roi mo lai MoneyPrint.bat';}).catch(function(e){document.getElementById('msg').textContent='error: '+e;});}
@@ -550,11 +570,19 @@ def views_snapshot(force: bool = False) -> dict:
     except ValueError:
         span_days = 1
     id_title = {r.get("youtube_id"): r.get("title", "") for r in _all_records()}
+    id_slot = {
+        r.get("youtube_id"): (r.get("slot") or r.get("channel") or "?")
+        for r in _all_records()
+    }
+    slot_name = {a["slot"]: a["display"] for a in yt_mod.check_all()}
     view_list = sorted(
         [
             {
                 "id": vid,
                 "title": v.get("title") or id_title.get(vid, vid),
+                "owner": slot_name.get(
+                    str(id_slot.get(vid, "?")), str(id_slot.get(vid, "?"))
+                ),
                 "views": v.get("views", 0),
                 "vel": round(
                     (v.get("views", 0) - first.get(vid, {}).get("views", 0))
@@ -644,17 +672,17 @@ def _synced() -> str:
     return "-"
 
 
-def _channel_missions(records: list, channel: str) -> dict:
+def _channel_missions(records: list, key: str) -> dict:
     today = datetime.date.today().isoformat()
     shorts_today = [
         r.get("title", "")
         for r in records
         if r.get("kind") == "short"
-        and (r.get("channel") or "") == channel
+        and (r.get("slot") or r.get("channel") or "") == key
         and r.get("youtube_id")
         and (r.get("created_at", "")[:10] == today)
     ]
-    return {"name": channel, "done": len(shorts_today), "titles": shorts_today}
+    return {"key": key, "name": key, "done": len(shorts_today), "titles": shorts_today}
 
 
 def _missions(records: list) -> dict:
@@ -780,17 +808,27 @@ def index():
     total = len(records)
     rate = round(100 * len(done) / total) if total else 0
     tok, _ = _gh()
-    ch_names = sorted({r.get("channel") or "?" for r in records})
-    if not ch_names:
-        ch_names = [
-            config.CHANNEL_1_NAME,
-            config.CHANNEL_2_NAME,
-            config.CHANNEL_3_NAME,
-        ]
-    channels = [_channel_missions(records, c) for c in ch_names]
     accs = yt_mod.check_all()
-    done_by_name = {c["name"]: c["done"] for c in channels}
-    amap = {a["slot"]: {"done": done_by_name.get(a["name"], 0)} for a in accs}
+    label = {a["slot"]: a["display"] for a in accs}
+    fallback = {
+        "1": config.CHANNEL_1_NAME,
+        "2": config.CHANNEL_2_NAME,
+        "3": config.CHANNEL_3_NAME,
+    }
+    keys = sorted(
+        {(r.get("slot") or r.get("channel") or "?") for r in records if r.get("youtube_id")}
+        or set(fallback)
+    )
+    ch_options = [{"value": k, "label": label.get(k, fallback.get(k, k))} for k in keys]
+    channels = []
+    for k in keys:
+        m = _channel_missions(records, k)
+        m["name"] = label.get(k, fallback.get(k, k))
+        channels.append(m)
+    done_by_key = {c["key"]: c["done"] for c in channels}
+    amap = {
+        a["slot"]: {"done": done_by_key.get(a["slot"], 0)} for a in accs
+    }
     acc1 = next((a for a in accs if a["slot"] == "1"), {})
     acc2 = next((a for a in accs if a["slot"] == "2"), {})
     acc3 = next((a for a in accs if a["slot"] == "3"), {})
@@ -833,14 +871,14 @@ def index():
         ideas=_ideas(),
         m=_missions(records),
         channels=channels,
-        ch_names=ch_names,
+        ch_options=ch_options,
         accs=accs,
         amap=amap,
         acc1_email=acc1_email,
         acc2_email=acc2_email,
-        acc1_name=config.CHANNEL_1_NAME,
-        acc2_name=config.CHANNEL_2_NAME,
-        acc3_name=config.CHANNEL_3_NAME,
+        acc1_name=acc1.get("display", config.CHANNEL_1_NAME),
+        acc2_name=acc2.get("display", config.CHANNEL_2_NAME),
+        acc3_name=acc3.get("display", config.CHANNEL_3_NAME),
         acc1_ok=bool(acc1.get("readonly_ok")),
         acc2_ok=bool(acc2.get("readonly_ok")),
         acc3_ok=bool(acc3.get("readonly_ok")),
