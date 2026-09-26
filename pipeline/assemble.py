@@ -56,11 +56,14 @@ def ken_burns(
     fps: int,
     extra: str = "",
     zin: bool = True,
+    punch: bool = False,
 ) -> Path:
     frames = max(int(seconds * fps), fps)
     out.parent.mkdir(parents=True, exist_ok=True)
     tail = f",{extra}" if extra else ""
-    if zin:
+    if punch:
+        zoom = "zoompan=z='min(1.0+0.0024*on,1.28)'"
+    elif zin:
         zoom = "zoompan=z='min(1.0+0.0012*on,1.18)'"
     else:
         zoom = "zoompan=z='max(1.18-0.0012*on,1.0)'"
@@ -540,7 +543,9 @@ def assemble(
         if is_video:
             fit_clip(path, clip, d, w, h, fps, extra)
         else:
-            ken_burns(path, clip, d, w, h, fps, extra, zin=(i % 2 == 0))
+            ken_burns(
+                path, clip, d, w, h, fps, extra, zin=(i % 2 == 0), punch=(i == 0)
+            )
         clips.append(clip)
     if sentences:
         subs_path = build_karaoke(sentences, workdir / "subs.ass", kind, cap)

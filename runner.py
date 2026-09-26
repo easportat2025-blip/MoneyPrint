@@ -105,6 +105,14 @@ def run_one(kind: str = "short") -> dict:
         )
         audio_dur = tts_mod.duration(audio_path)
         sentences = tts_mod.parse_sentences(srt_tmp)
+        try:
+            shift = tts_mod.trim_leading_silence(audio_path)
+            if shift > 0:
+                sentences = tts_mod.shift_sentences(sentences, shift)
+                audio_dur = tts_mod.duration(audio_path)
+        except Exception as e:
+            shift = 0.0
+            state.stage(rec_id, "trim", False, str(e)[:150])
         state.stage(
             rec_id, "tts", True, f"{audio_dur:.1f}s {len(sentences)} sentences"
         )
@@ -146,6 +154,29 @@ def run_one(kind: str = "short") -> dict:
         urls = [u for _, _, u, _c in items if u]
         credits = sorted({c for _, _, _u, c in items if c})
         state.update(rec_id, media_urls=urls)
+        hook_checks = []
+        hook_checks.append(("motion-first-frame", bool(items and items[0][1])))
+        hook_checks.append(
+            (
+                "first-word-instant",
+                bool(sentences and sentences[0]["start"] < 0.2),
+            )
+        )
+        hook_checks.append(
+            (
+                "hook-short",
+                bool(
+                    sentences and len(sentences[0]["text"].split()) <= 12
+                ),
+            )
+        )
+        passed = [k for k, v in hook_checks if v]
+        state.stage(
+            rec_id,
+            "hook3s",
+            len(passed) == len(hook_checks),
+            f"{len(passed)}/{len(hook_checks)}: " + ", ".join(passed),
+        )
         state.stage(
             rec_id, "media", True, f"{n_vid} video clips + {len(items) - n_vid} images"
         )

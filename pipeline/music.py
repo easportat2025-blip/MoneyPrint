@@ -64,7 +64,7 @@ def mix(
     dur = _voice_dur(voice)
     fade_st = max(dur + 1.0 - 0.8, 0.5)
     tail = (
-        f"afade=t=in:st=0:d=0.3,apad=pad_dur=1.0,"
+        f"afade=t=in:st=0:d=0.05,apad=pad_dur=1.0,"
         f"afade=t=out:st={fade_st:.2f}:d=0.8,alimiter=limit=0.891[aout]"
     )
     if track is None:
