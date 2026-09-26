@@ -290,7 +290,7 @@ h2{font-size:15.5px;margin:22px 0 10px}
 <h2>Views tung video (moi nhat truoc)</h2>
 {% if not view_list %}<p class="note">Chua co snapshot – bam <b>Refresh view stats</b> o tren (ton ~1 unit/50 video).</p>{% endif %}
 {% for v in view_list %}
-<div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}</span><b>{{ v.views }} views</b></div>
+<div class="vrow">{% if v.id %}<a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" loading="lazy"></a>{% endif %}<span class="t">{{ v.title }}</span><b>{{ v.views }} views · +{{ v.vel }}/ngay</b></div>
 {% endfor %}
 <h2>Tong views theo ngay (tu snapshot)</h2>
 {% if not view_bars %}<p class="note">Chua co du lieu – bam <b>Refresh view stats</b>, de vai ngay chart se dai ra.</p>{% endif %}
@@ -518,6 +518,17 @@ def views_snapshot(force: bool = False) -> dict:
     for t in trend:
         t["h"] = int(100 * t["n"] / mx) if mx else 3
     latest = hist[days[-1]] if days else {}
+    first = hist[days[0]] if days else {}
+    try:
+        span_days = max(
+            (
+                datetime.date.fromisoformat(days[-1])
+                - datetime.date.fromisoformat(days[0])
+            ).days,
+            1,
+        )
+    except ValueError:
+        span_days = 1
     id_title = {r.get("youtube_id"): r.get("title", "") for r in _all_records()}
     view_list = sorted(
         [
@@ -525,6 +536,11 @@ def views_snapshot(force: bool = False) -> dict:
                 "id": vid,
                 "title": v.get("title") or id_title.get(vid, vid),
                 "views": v.get("views", 0),
+                "vel": round(
+                    (v.get("views", 0) - first.get(vid, {}).get("views", 0))
+                    / span_days,
+                    1,
+                ),
             }
             for vid, v in latest.items()
         ],
