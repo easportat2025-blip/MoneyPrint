@@ -69,7 +69,7 @@ def shift_sentences(sentences: list, shift: float) -> list:
     for s in sentences:
         start = round(max(s["start"] - shift, 0.0), 3)
         end = round(max(s["end"] - shift, 0.01), 3)
-        if end > start:
+        if end - start >= 0.05:
             out.append({"start": start, "end": end, "text": s["text"]})
     return out
 
