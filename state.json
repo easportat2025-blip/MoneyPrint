@@ -1,5 +1,221 @@
 [
   {
+    "id": "c5c5a3d432",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bật đèn ngủ lại âm thầm làm bạn tăng cân?",
+    "idea": {
+      "title": "Tại sao bật đèn ngủ lại âm thầm làm bạn tăng cân?",
+      "hook": "Bạn nghĩ ngủ bật chút đèn mờ là vô hại, nhưng thực tế não bạn đang bí mật tích mỡ vì điều đó.",
+      "beats": [
+        "Dù nhắm mắt, tế bào hạch võng mạc vẫn thu nhận ánh sáng và đánh lừa não rằng trời chưa sáng hẳn.",
+        "Quá trình tiết melatonin bị gián đoạn, làm sụp đổ nhịp sinh học tự nhiên kiểm soát trao đổi chất.",
+        "Mức cortisol tăng vọt khi bạn thức giấc, kích hoạt cơn thèm tinh bột và giảm khả năng đốt cháy calo.",
+        "Tắt triệt để mọi nguồn sáng là cách giảm cân thụ động đơn giản nhất mà ai cũng bỏ qua."
+      ],
+      "keywords": [
+        "sleeping bedroom light night",
+        "circadian rhythm sleep dark",
+        "hormone cortisol metabolism",
+        "weight gain scale unhealthy",
+        "girl sleeping dark room"
+      ],
+      "tags": [
+        "meo giac ngu",
+        "suc khoe doi song",
+        "khoa hoc co the",
+        "giam can tu nhien",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật đèn ngủ khiến bạn bí mật tích mỡ mỗi đêm.",
+        "search": "ngu bat den phong ngu toi",
+        "caption": "Bật đèn ngủ khiến bạn tăng cân không kiểm soát"
+      },
+      {
+        "narration": "Bạn nghĩ nhắm chặt mắt thì chút ánh sáng mờ sẽ hoàn toàn vô hại?",
+        "search": "nguoi nham mat phong ngu anh sang mo",
+        "caption": "Nhắm mắt vẫn không ngăn được ánh sáng"
+      },
+      {
+        "narration": "Thực tế mi mắt người rất mỏng và không thể cản được các bước sóng ánh sáng.",
+        "search": "tia sang xuyen qua mi mat can canh",
+        "caption": "Mi mắt quá mỏng để cản ánh sáng"
+      },
+      {
+        "narration": "Các tế bào hạch võng mạc vẫn hấp thu ánh sáng và gửi tín hiệu về não.",
+        "search": "mo phong te bao vong mac mat nguoi",
+        "caption": "Tế bào võng mạc vẫn báo động về não"
+      },
+      {
+        "narration": "Vùng dưới đồi lập tức bị đánh lừa rằng trời vẫn chưa thực sự tối.",
+        "search": "mo phong nao bo phat sang ban dem",
+        "caption": "Não bị đánh lừa trời chưa chuyển đêm"
+      },
+      {
+        "narration": "Tuyến tùng lập tức bị ức chế và ngừng tiết hormone ngủ sâu melatonin.",
+        "search": "tuyen tung nao bo tiet hormone toi",
+        "caption": "Tuyến tùng ngừng sản xuất melatonin"
+      },
+      {
+        "narration": "Mất melatonin, đồng hồ sinh học kiểm soát chuyển hóa năng lượng bị sụp đổ hoàn toàn.",
+        "search": "dong ho sinh hoc vo vun phong toi",
+        "caption": "Nhịp sinh học trao đổi chất bị phá vỡ"
+      },
+      {
+        "narration": "Mô mỡ nâu thay vì đốt cháy calo ban đêm thì bị ép ngừng hoạt động.",
+        "search": "mo mo co the nguoi tich luy",
+        "caption": "Mỡ nâu ngừng đốt cháy calo"
+      },
+      {
+        "narration": "Nguy hiểm hơn, nồng độ cortisol bắt đầu tăng vọt bất thường lúc nửa đêm.",
+        "search": "hormone cortisol kich thich mach mau",
+        "caption": "Hormone căng thẳng cortisol tăng vọt"
+      },
+      {
+        "narration": "Cortisol cao làm giảm độ nhạy insulin, ép cơ thể chuyển hóa năng lượng thành mỡ thừa.",
+        "search": "te bao khang insulin mo bung can canh",
+        "caption": "Giảm nhạy insulin khiến mỡ tích tụ"
+      },
+      {
+        "narration": "Khi thức dậy, não bộ lập tức kích hoạt cơn thèm tinh bột và đường mất kiểm soát.",
+        "search": "nguoi them an do ngot ban sang",
+        "caption": "Cơn thèm đường dữ dội vào buổi sáng"
+      },
+      {
+        "narration": "Tốc độ trao đổi chất cơ bản của bạn đã bị kéo tụt xuống mức báo động.",
+        "search": "bieu do nang luong suy giam toi",
+        "caption": "Tốc độ đốt calo tụt dốc không phanh"
+      },
+      {
+        "narration": "Nghiên cứu chứng minh ngủ phòng có ánh đèn làm tăng ba mươi phần trăm nguy cơ béo phì.",
+        "search": "nguoi dung len can trong luong that vong",
+        "caption": "Tăng 30% nguy cơ béo phì vì đèn mờ"
+      },
+      {
+        "narration": "Ngay cả đốm sáng đỏ từ sạc dự phòng hay màn hình chờ cũng đủ gây hại.",
+        "search": "den led dien thoai phat sang phong toi",
+        "caption": "Đèn báo thiết bị điện tử cũng gây hại"
+      },
+      {
+        "narration": "Giải pháp giảm cân thụ động dễ nhất là trả lại bóng tối tuyệt đối cho phòng ngủ.",
+        "search": "phong ngu toi den hoan toan yen tinh",
+        "caption": "Trả lại bóng tối tuyệt đối cho phòng ngủ"
+      },
+      {
+        "narration": "Trong bóng tối hoàn toàn, melatonin hồi sinh và kích hoạt cỗ máy đốt mỡ tự nhiên suốt đêm.",
+        "search": "nguoi ngu say giac trong bong toi",
+        "caption": "Melatonin kích hoạt cỗ máy đốt mỡ tự nhiên"
+      },
+      {
+        "narration": "Hãy rút phích cắm và tắt toàn bộ nguồn sáng trước khi ngủ tối nay.",
+        "search": "tay tat cong tac den phong toi",
+        "caption": "Tắt toàn bộ ánh sáng trước khi lên giường"
+      }
+    ],
+    "error": "",
+    "youtube_id": "IKpLzCzHYw8",
+    "youtube_url": "https://www.youtube.com/watch?v=IKpLzCzHYw8",
+    "created_at": "2026-09-26T16:53:16.973735+00:00",
+    "updated_at": "2026-09-26T16:55:38.982499+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-26T16:53:52.732285+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "525 chars",
+        "at": "2026-09-26T16:54:06.368693+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.6s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-26T16:54:19.508701+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-26T16:54:21.006012+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-26T16:54:40.744396+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-26T16:54:40.748327+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.6s 10422523 bytes",
+        "at": "2026-09-26T16:55:33.418378+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=IKpLzCzHYw8",
+        "at": "2026-09-26T16:55:37.893095+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-26T16:55:38.229726+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-26T16:55:38.503673+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-26T16:55:38.690089+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-26T16:55:38.956314+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-26T16:55:38.960995+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-26T16:55:38.982493+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9706434/9706434-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/6753998/6753998-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7291762/7291762-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/12723966/12723966-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/11983826/11983826-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/8102309/8102309-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/28923787/12518267_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/13770932/13770932-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/5851870/5851870-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6941906/6941906-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34268289/14519765_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/8272744/8272744-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6615423/6615423-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/9481092/9481092-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/34810093/14762436_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/26583077/11964616_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6657883/6657883-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "b7d7b7bfb6",
     "kind": "short",
     "channel": "Channel3",
