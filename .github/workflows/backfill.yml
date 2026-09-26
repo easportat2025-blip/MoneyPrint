@@ -1,19 +1,13 @@
-name: shorts-acc2
+name: backfill
 
 on:
   schedule:
-    - cron: "30 17 * * *"
-    - cron: "0 20 * * *"
-    - cron: "30 22 * * *"
-    - cron: "0 1 * * *"
-    - cron: "30 3 * * *"
-  repository_dispatch:
-    types: [short-acc2]
+    - cron: "0 */3 * * *"
   workflow_dispatch:
     inputs:
-      count:
-        description: How many shorts
-        default: "1"
+      max:
+        description: Max videos in this run
+        default: "20"
 
 permissions:
   contents: write
@@ -23,9 +17,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  short:
+  fill:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -45,14 +39,29 @@ jobs:
           git fetch origin logs:refs/remotes/origin/logs || true
           if git rev-parse --verify origin/logs >/dev/null 2>&1; then
             git show origin/logs:state.json > state.json || echo "[]" > state.json
+            git show origin/logs:views_history.json > views_history.json 2>/dev/null || true
           else
             echo "[]" > state.json
           fi
 
-      - name: Run shorts (channel 2)
+      - name: Sync state between videos
+        run: |
+          git config user.name "moneyprint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin logs || true
+          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
+            git checkout -f -B logs origin/logs
+            cp -f "$GITHUB_WORKSPACE/state.json" state.json 2>/dev/null || true
+          else
+            git checkout --orphan logs
+            git rm -rf --cached . >/dev/null 2>&1 || true
+          fi
+          git add -f state.json views_history.json 2>/dev/null || true
+          git commit -m "state mid-backfill ${{ github.run_id }}" || true
+          git push origin logs || true
+
+      - name: Top up channels to daily target
         env:
-          SCHEDULE: short
-          CHANNEL: "2"
           GEMINI_KEY_A: ${{ secrets.GEMINI_KEY_A }}
           GEMINI_KEY_B: ${{ secrets.GEMINI_KEY_B }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
@@ -60,23 +69,27 @@ jobs:
           GEMINI_MODELS: ${{ secrets.GEMINI_MODELS }}
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN_2 }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          YOUTUBE_REFRESH_TOKEN_2: ${{ secrets.YOUTUBE_REFRESH_TOKEN_2 }}
+          YOUTUBE_REFRESH_TOKEN_3: ${{ secrets.YOUTUBE_REFRESH_TOKEN_3 }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          CHANNEL_1_NAME: ${{ vars.CHANNEL_1_NAME || 'ReZain' }}
           CHANNEL_2_NAME: ${{ vars.CHANNEL_2_NAME || 'Channel2' }}
+          CHANNEL_3_NAME: ${{ vars.CHANNEL_3_NAME || 'Channel3' }}
+          NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
           NICHE_2: ${{ vars.NICHE_2 || 'human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations' }}
+          NICHE_3: ${{ vars.NICHE_3 || 'doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet' }}
+          VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
           VOICE_2: ${{ vars.VOICE_2 || 'en-US-GuyNeural' }}
-          MEDIA_MODE: stills
-          MAX_DAILY_UPLOADS: "6"
-        run: |
-          count="${{ github.event.inputs.count || '1' }}"
-          failed=0
-          for i in $(seq 1 "$count"); do
-            python main.py short || failed=1
-          done
-          exit $failed
+          VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
+          TARGET_ACC1: ${{ vars.TARGET_ACC1 || '4' }}
+          TARGET_ACC2: ${{ vars.TARGET_ACC2 || '8' }}
+          TARGET_ACC3: ${{ vars.TARGET_ACC3 || '3' }}
+          MAX_DAILY_UPLOADS: "40"
+        run: python main.py backfill --max "${{ github.event.inputs.max || '20' }}"
 
-      - name: Push state to logs branch
+      - name: Push final state
         if: always()
         run: |
           rm -rf cache output || true
@@ -91,6 +104,6 @@ jobs:
             git rm -rf --cached . >/dev/null 2>&1 || true
           fi
           cp -f /tmp/mp_state.json state.json
-          git add -f state.json
-          git commit -m "state acc2 ${{ github.run_id }}" || true
+          git add -f state.json views_history.json 2>/dev/null || true
+          git commit -m "state backfill ${{ github.run_id }}" || true
           git push origin logs

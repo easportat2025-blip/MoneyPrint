@@ -68,6 +68,7 @@ ALLOWED_WF = {
     "shorts-acc2": "shorts-acc2.yml",
     "shorts-acc3": "shorts-acc3.yml",
     "long": "long.yml",
+    "backfill": "backfill.yml",
 }
 VIEWS_FILE = ROOT / "views_history.json"
 
@@ -264,7 +265,18 @@ code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1
 <div class="panel" id="p-force">
 <h2 style="margin-top:0">Force make video</h2>
 <div id="forceLock"></div>
-<p class="note">1 video/luc. Dang co job chay = tat ca nut KHOA (server + UI).</p>
+<div class="hero" style="padding:16px 18px">
+<b>Queue nhieu video ngay (burst)</b>
+<p class="note" style="margin:4px 0 10px">GitHub chay tuần tu: 1 video/luc, con lai xep hang. Video thu 2+ se ra cham hon ~12 phut moi ca.</p>
+<div class="row" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+<input id="burstN" type="number" min="1" max="20" value="3" style="width:74px">
+<button class="primary" onclick="trigN('shorts-acc1',this.value)">Burst acc 1</button>
+<button class="primary" onclick="trigN('shorts-acc2',this.value)">Burst acc 2</button>
+<button class="primary" onclick="trigN('shorts-acc3',this.value)">Burst acc 3</button>
+<button class="warn" onclick="trigN('backfill',1)">Top-up ngay (ben duoi muc tieu)</button>
+</div>
+</div>
+<p class="note">Moi luc 1 video. Dang co job chay = tat ca nut KHOA (server + UI).</p>
 <div class="force-grid">
 <div class="force-card"><h3>Acc 1 – {{ acc1_name }}</h3>
 <p>1 Short (~12 phut). Hom nay: {{ amap1.done }}/3.</p>
@@ -285,10 +297,11 @@ code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1
 <div class="panel" id="p-missions">
 <h2 style="margin-top:0">Nhiem vu hom nay ({{ today }})</h2>
 {% for ch in channels %}
-<div class="mission {{ 'done' if ch.done>=3 else '' }}">
-<h3>{{ ch.name }}: {{ ch.done }}/3 shorts</h3>
-<div class="prog"><div class="{{ '' if ch.done>=3 else 'low' }}" style="width:{{ (100*ch.done//3) if ch.done<3 else 100 }}%">{{ ch.done }}/3</div></div>
-<div class="note">{% for t in ch.titles %}&#10003; {{ t }}<br>{% endfor %}{% if ch.done<3 %}Con thieu {{ 3-ch.done }} video.{% else %}Xong.{% endif %}</div>
+{% set t = amap.get(ch.key, {'done': 0, 'target': 0, 'left': 0}) %}
+<div class="mission {{ 'done' if t.target and ch.done >= t.target else '' }}">
+<h3>{{ ch.name }}: {{ ch.done }}/{{ t.target or '-' }} shorts</h3>
+<div class="prog"><div class="{{ '' if t.target and ch.done >= t.target else 'low' }}" style="width:{{ (100*ch.done//t.target) if t.target and ch.done < t.target else (100 if t.target else 0) }}%">{{ ch.done }}/{{ t.target or '-' }}</div></div>
+<div class="note">{% for x in ch.titles %}&#10003; {{ x }}<br>{% endfor %}{% if t.target and ch.done < t.target %}Con thieu {{ t.left }} video - cron + backfill tu bu.{% else %}{% if t.target %}Xong muc tieu.{% else %}Chua dat muc tieu.{% endif %}{% endif %}</div>
 </div>
 {% endfor %}
 <div class="mission {{ 'done' if not m.long_due else '' }}">
@@ -403,6 +416,7 @@ function updCode(){document.getElementById('msg').textContent='pulling...';fetch
 function goAcc(){document.getElementById('msgAcc').textContent='checking...';fetch('/accounts?force=1').then(function(r){return r.json();}).then(function(j){setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgAcc').textContent='error: '+e;});}
 function goViews(){document.getElementById('msgV').textContent='sync logs...';fetch('/sync').then(function(r){return r.json();}).then(function(s){document.getElementById('msgV').textContent='fetching views...';return fetch('/views?force=1');}).then(function(r){return r.json();}).then(function(j){document.getElementById('msgV').textContent=j.msg||'';setTimeout(function(){location.reload();},800);}).catch(function(e){document.getElementById('msgV').textContent='error: '+e;});}
 function trig(wf){var label=wf==='long'?'Long video':(wf==='shorts-acc2'?'Acc 2':'Acc 1');document.getElementById('msgF').textContent='dang kich chay '+label+'...';fetch('/trigger?wf='+wf).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
+function trigN(wf,n){var c=parseInt(n||'1',10);if(!(c>0)){c=1;}var label=wf==='backfill'?'Top-up':(wf==='long'?'Long video':wf.replace('shorts-',''));if(c>1&&!confirm('Queue '+c+' video cho '+label+'? Video thu 2+ se chay sau, ~12 phut moi ca.'))return;document.getElementById('msgF').textContent='dang queue '+c+' video...';fetch('/trigger?wf='+wf+'&count='+c).then(function(r){return r.json();}).then(function(k){document.getElementById('msgF').textContent=k.msg||JSON.stringify(k);});}
 function pad2(n){return (n<10?'0':'')+n;}
 function tickCount(){var now=new Date();var nowU=Date.now();var best=null,bestJob='';document.querySelectorAll('#cronTbl tr[data-utc]').forEach(function(r){if(!r.dataset.utc){return;}var p=r.dataset.utc.split(':');var t=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate(),parseInt(p[0],10),parseInt(p[1],10),0));if(t.getTime()<=nowU){t=new Date(t.getTime()+86400000);}var s=Math.floor((t.getTime()-nowU)/1000);var txt=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';var cell=r.querySelector('.left');if(cell){cell.textContent=txt;}if(best===null||t.getTime()<best){best=t.getTime();bestJob=r.dataset.job;}});var nc=document.getElementById('nextCount');if(nc&&best!==null){var s=Math.floor((best-nowU)/1000);nc.textContent=Math.floor(s/3600)+'h '+pad2(Math.floor(s%3600/60))+'m '+pad2(s%60)+'s';document.getElementById('nextJob').textContent=bestJob+' · tu dong dem nguoc moi giay';}}
 setInterval(tickCount,1000);tickCount();
@@ -809,6 +823,12 @@ def index():
     rate = round(100 * len(done) / total) if total else 0
     tok, _ = _gh()
     accs = yt_mod.check_all()
+    try:
+        import backfill as bf
+
+        tg = bf.targets()
+    except Exception:
+        tg = {"1": 4, "2": 8, "3": 3}
     label = {a["slot"]: a["display"] for a in accs}
     fallback = {
         "1": config.CHANNEL_1_NAME,
@@ -827,7 +847,14 @@ def index():
         channels.append(m)
     done_by_key = {c["key"]: c["done"] for c in channels}
     amap = {
-        a["slot"]: {"done": done_by_key.get(a["slot"], 0)} for a in accs
+        a["slot"]: {
+            "done": done_by_key.get(a["slot"], 0),
+            "target": int(tg.get(a["slot"], 0) or 0),
+            "left": max(
+                int(tg.get(a["slot"], 0) or 0) - done_by_key.get(a["slot"], 0), 0
+            ),
+        }
+        for a in accs
     }
     acc1 = next((a for a in accs if a["slot"] == "1"), {})
     acc2 = next((a for a in accs if a["slot"] == "2"), {})
@@ -837,6 +864,8 @@ def index():
     acc3_email = os.environ.get("ACCOUNT_3_EMAIL", "").strip() or "mail chu kenh 3"
     views = views_snapshot()
     nxt, nxt_note = _next_slot()
+    slots = yt_mod.by_slot(accs)
+    uploaded_by_slot = state.uploads_today_by_slot()
     plan_rows = []
     for c in CRONS:
         m = c["utc"]
@@ -890,7 +919,8 @@ def index():
         view_list=views["list"],
         view_bars=views["trend"],
         wf_on=_wf_states(),
-        per_day=9,
+        per_day=sum(int(v or 0) for v in tg.values()),
+        uploaded_total=sum(uploaded_by_slot.values()),
         plan_rows=plan_rows,
         next_slot=nxt,
         next_note=nxt_note,
@@ -1038,6 +1068,7 @@ def trigger():
     wf = request.args.get("wf", "shorts-acc1")
     if wf not in ALLOWED_WF:
         return jsonify({"ok": False, "msg": f"unknown wf (chon {list(ALLOWED_WF)})"})
+    count = max(1, min(int(request.args.get("count", "1") or 1), 20))
     busy = _gh_api("GET", "/actions/runs?per_page=5")
     if busy["ok"]:
         for r in busy["data"].get("workflow_runs", []):
@@ -1048,13 +1079,16 @@ def trigger():
                         "msg": f"KHOA: dang co job '{r['name']}' chay. Doi xong moi force.",
                     }
                 )
+    inputs = {"count": str(count)}
+    if wf == "backfill":
+        inputs = {"max": str(count * 4)}
     res = _gh_api(
         "POST",
         f"/actions/workflows/{ALLOWED_WF[wf]}/dispatches",
-        {"ref": "main", "inputs": {"count": request.args.get("count", "1")}},
+        {"ref": "main", "inputs": inputs},
     )
     if res["ok"]:
-        res["msg"] = f"dispatched {wf} on GitHub"
+        res["msg"] = f"dispatched {wf} (count={count}) tren GitHub"
     return jsonify(res)
 
 

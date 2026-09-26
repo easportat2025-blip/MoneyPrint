@@ -12,6 +12,7 @@ gemini_usage.json
 views_history.json
 KILL
 cache/
+_worker.py
 output/
 tmp/
 *.mp4

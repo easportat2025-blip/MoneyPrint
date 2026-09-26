@@ -97,6 +97,30 @@ def cmd_bank_list(_args):
     print(_json.dumps(bank_mod.stats(), indent=2, ensure_ascii=False))
 
 
+def cmd_backfill(args):
+    import backfill as bf
+
+    bf.backfill(args.max)
+
+
+def cmd_burst(args):
+    import backfill as bf
+
+    bf.burst(args.count, args.kind)
+
+
+def cmd_backfill(args):
+    import backfill as bf
+
+    bf.backfill(args.max)
+
+
+def cmd_burst(args):
+    import backfill as bf
+
+    bf.burst(args.count, args.kind)
+
+
 def cmd_accounts(args):
     from pipeline import yt_auth as yt
 
@@ -137,6 +161,14 @@ def main():
     ap = sub.add_parser("accounts", help="check YouTube login status")
     ap.add_argument("--force", action="store_true")
     ap.set_defaults(fn=cmd_accounts)
+
+    bf = sub.add_parser("backfill", help="top-up channels to daily target")
+    bf.add_argument("--max", type=int, default=40)
+    bf.set_defaults(fn=cmd_backfill)
+    bu = sub.add_parser("burst", help="make N videos back to back on this channel")
+    bu.add_argument("count", type=int, nargs="?", default=3)
+    bu.add_argument("--kind", default="short")
+    bu.set_defaults(fn=cmd_burst)
     sub.add_parser("sync", help="pull state.json from logs branch").set_defaults(fn=cmd_sync)
 
     bp = sub.add_parser("bank-build", help="curate clips into bank/clips.json")

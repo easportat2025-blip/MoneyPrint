@@ -15,11 +15,14 @@ Requirements:
 - Each idea: hook, 3-5 key beats, 5 search keywords for stock sites
 - Skip ideas already used: {used}
 {exclude}
+{proven}
 - Return JSON array: [{{"title","hook","beats":[..],"keywords":[..],"tags":[..]}}]
 """
 
 
 def generate_ideas(n: int = 5) -> list:
+    from pipeline import performance as perf
+
     client = gemini_client.GeminiClient()
     used = ", ".join(sorted(state.used_titles())) or "none"
     niche = config.NICHE.lower()
@@ -27,7 +30,11 @@ def generate_ideas(n: int = 5) -> list:
     lifestyle = ("everyday life" in niche) or ("animation" in niche)
     if history:
         imagery = "public-domain paintings, engravings, portraits, busts, old maps, archival photos"
-        exclude = "- FORBIDDEN topics: space, astronomy, planets, stars, physics, cosmic events. HUMAN history only."
+        exclude = (
+            "- FORBIDDEN topics: space, astronomy, planets, stars, physics, cosmic events. HUMAN history only.\n"
+            "- Hooks that work: a named person + a shocking action + a consequence. "
+            "Use regret, betrayal, irony, mystery words (Hối hận / bất ngờ / bí ẩn / sai lầm / không ai ngờ)."
+        )
     elif lifestyle:
         imagery = "3D animation, motion graphics, stylized loop animation, everyday objects on clean backgrounds"
         exclude = (
@@ -36,7 +43,12 @@ def generate_ideas(n: int = 5) -> list:
         )
     else:
         imagery = "stock footage / public-domain space imagery"
-        exclude = ""
+        exclude = (
+            "- Hooks that work: turn a dry fact into a hidden cost or a "
+            "contradiction. Prefer people/experiences over bare numbers. "
+            "Words like secretly, hidden, actually, everyone gets wrong, "
+            "nobody expected, scientists worried, real cost."
+        )
     prompt = IDEA_PROMPT.format(
         niche=config.NICHE,
         brand=config.CHANNEL_NAME,
@@ -45,6 +57,7 @@ def generate_ideas(n: int = 5) -> list:
         imagery=imagery,
         exclude=exclude,
         lang=config.LANG_NAME,
+        proven=perf.proven_block(),
     )
     ideas = client.generate_json(prompt, temperature=0.9)
     if isinstance(ideas, dict):

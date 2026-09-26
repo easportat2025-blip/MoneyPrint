@@ -119,3 +119,14 @@ def bump_gemini(n: int = 1) -> int:
 def uploads_today() -> int:
     today = datetime.now(timezone.utc).date().isoformat()
     return sum(1 for r in load() if r.get("youtube_id") and r.get("created_at", "").startswith(today))
+
+
+def uploads_today_by_slot() -> dict:
+    today = datetime.now(timezone.utc).date().isoformat()
+    out: dict = {}
+    for r in load():
+        if not r.get("youtube_id") or not r.get("created_at", "").startswith(today):
+            continue
+        key = r.get("slot") or r.get("channel") or "?"
+        out[key] = out.get(key, 0) + 1
+    return out
