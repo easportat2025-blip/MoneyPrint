@@ -148,21 +148,55 @@ def run_one(kind: str = "short") -> dict:
 
         state.update(rec_id, status="fetching_media")
         vertical = kind == "short"
-        skip = state.used_media_urls()
-        items = attempt(
-            rec_id,
-            "media",
-            media_mod.fetch_all,
-            scenes,
-            workdir / "media",
-            vertical,
-            scene_sec,
-            skip,
-        )
-        n_vid = sum(1 for _, is_v, _u, _c in items if is_v)
-        urls = [u for _, _, u, _c in items if u]
-        credits = sorted({c for _, _, _u, c in items if c})
-        state.update(rec_id, media_urls=urls)
+        credits = []
+        if config.VISUAL_STYLE == "stickman":
+            from pipeline import stickman
+
+            base = workdir / "render" / "base.mp4"
+            cap_total = min(audio_dur, duration) if kind == "short" else audio_dur
+            n = max(3, int(cap_total / config.STICKMAN_SCENE_SEC))
+            use = scenes[:n] if len(scenes) >= n else (
+                list(scenes) + [scenes[-1]] * (n - len(scenes))
+            )
+            seconds = max(cap_total / len(use), 1.0)
+            stickman.render(
+                use,
+                base,
+                w=config.SHORT_W if vertical else config.LONG_W,
+                h=config.SHORT_H if vertical else config.LONG_H,
+                fps=config.STICKMAN_FPS,
+                seconds_per_scene=seconds,
+                watermark=f"@{config.CHANNEL_NAME}",
+            )
+            items = [(base, True, "", "")]
+            state.stage(
+                rec_id,
+                "media",
+                True,
+                f"stickman {len(use)} scenes {base.stat().st_size} bytes",
+            )
+        else:
+            skip = state.used_media_urls()
+            items = attempt(
+                rec_id,
+                "media",
+                media_mod.fetch_all,
+                scenes,
+                workdir / "media",
+                vertical,
+                scene_sec,
+                skip,
+            )
+            n_vid = sum(1 for _, is_v, _u, _c in items if is_v)
+            urls = [u for _, _, u, _c in items if u]
+            credits = sorted({c for _, _, _u, c in items if c})
+            state.update(rec_id, media_urls=urls)
+            state.stage(
+                rec_id,
+                "media",
+                True,
+                f"{n_vid} video clips + {len(items) - n_vid} images",
+            )
         hook_checks = []
         hook_checks.append(("motion-first-frame", bool(items and items[0][1])))
         hook_checks.append(

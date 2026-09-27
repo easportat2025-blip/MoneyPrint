@@ -77,15 +77,19 @@ jobs:
           CHANNEL_1_NAME: ${{ vars.CHANNEL_1_NAME || 'ReZain' }}
           CHANNEL_2_NAME: ${{ vars.CHANNEL_2_NAME || 'Channel2' }}
           CHANNEL_3_NAME: ${{ vars.CHANNEL_3_NAME || 'Channel3' }}
-          NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
           NICHE_2: ${{ vars.NICHE_2 || 'human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations' }}
           NICHE_3: ${{ vars.NICHE_3 || 'doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet' }}
           VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
           VOICE_2: ${{ vars.VOICE_2 || 'en-US-GuyNeural' }}
           VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
-          TARGET_ACC1: ${{ vars.TARGET_ACC1 || '4' }}
+          TARGET_ACC1: ${{ vars.TARGET_ACC1 || '1' }}
           TARGET_ACC2: ${{ vars.TARGET_ACC2 || '8' }}
           TARGET_ACC3: ${{ vars.TARGET_ACC3 || '3' }}
+          TARGET_LONG_ACC1: ${{ vars.TARGET_LONG_ACC1 || '1' }}
+          NICHE: ${{ vars.NICHE || 'explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits' }}
+          VISUAL_STYLE: stickman
+          STICKMAN_FPS: "30"
+          STICKMAN_SCENE_SEC: "14"
           MAX_DAILY_UPLOADS: "40"
         run: python main.py backfill --max "${{ github.event.inputs.max || '20' }}"
 

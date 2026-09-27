@@ -8,22 +8,28 @@ import state
 
 ROOT = Path(__file__).resolve().parents[1]
 
-
 def targets() -> dict:
     return {
-        "1": int(os.environ.get("TARGET_ACC1", "4")),
+        "1": int(os.environ.get("TARGET_ACC1", "1")),
         "2": int(os.environ.get("TARGET_ACC2", "8")),
         "3": int(os.environ.get("TARGET_ACC3", "3")),
     }
 
 
-def run_one(kind: str = "short") -> bool:
+LONG_SLOTS = {
+    "1": int(os.environ.get("TARGET_LONG_ACC1", "1")),
+}
+
+
+def run_one(kind: str = "short", slot: str = "") -> bool:
     env = dict(os.environ)
+    if slot:
+        env["CHANNEL"] = slot
     proc = subprocess.run(
         [sys.executable, str(ROOT / "main.py"), kind],
         cwd=str(ROOT),
         env=env,
-        timeout=3000,
+        timeout=5400,
     )
     return proc.returncode == 0
 
@@ -31,7 +37,8 @@ def run_one(kind: str = "short") -> bool:
 def backfill(max_videos: int = 40) -> int:
     tg = targets()
     made = 0
-    for _slot in ("2", "1", "3"):
+    plan = [("1", "long"), ("2", "short"), ("3", "short")]
+    for _slot, kind in plan:
         if made >= max_videos:
             break
         os.environ["CHANNEL"] = _slot
@@ -40,18 +47,32 @@ def backfill(max_videos: int = 40) -> int:
         import config as cfg
         import state as st
 
-        want = tg.get(_slot, 0)
+        want = LONG_SLOTS.get(_slot, 0) if kind == "long" else tg.get(_slot, 0)
         have = st.uploads_today_by_slot().get(_slot, 0)
+        if kind == "short":
+            have_short = sum(
+                1
+                for r in st.load()
+                if (r.get("slot") or r.get("channel")) == _slot
+                and r.get("kind") == "short"
+                and r.get("youtube_id")
+                and r.get("created_at", "").startswith(
+                    st.datetime.now(st.timezone.utc).date().isoformat()
+                )
+            )
+            have = have_short
         need = want - have
         print(
-            f"[backfill] channel {_slot} ({cfg.CHANNEL_NAME}): {have}/{want} -> need {need}",
+            f"[backfill] {kind} channel {_slot} ({cfg.CHANNEL_NAME}): {have}/{want} -> need {need}",
             flush=True,
         )
         for i in range(max(0, need)):
             if made >= max_videos:
                 break
-            print(f"[backfill] making video {i + 1}/{need} for slot {_slot}", flush=True)
-            if run_one("short"):
+            print(
+                f"[backfill] making {kind} {i + 1}/{need} for slot {_slot}", flush=True
+            )
+            if run_one(kind, slot=_slot):
                 made += 1
             else:
                 print(f"[backfill] slot {_slot} failed, moving on", flush=True)
@@ -60,11 +81,11 @@ def backfill(max_videos: int = 40) -> int:
     return made
 
 
-def burst(count: int, kind: str = "short") -> int:
+def burst(count: int, kind: str = "short", slot: str = "") -> int:
     made = 0
     for i in range(count):
         print(f"[burst] {i + 1}/{count} {kind}", flush=True)
-        if run_one(kind):
+        if run_one(kind, slot=slot):
             made += 1
         else:
             time.sleep(20)

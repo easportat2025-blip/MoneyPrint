@@ -82,16 +82,15 @@ def _eany(err):
     raise err
 
 CRONS = [
-    {"job": "Acc1 Short #1", "utc": "16:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
-    {"job": "Acc1 Short #2", "utc": "19:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
-    {"job": "Acc1 Short #3", "utc": "22:00", "ch": "ReZain", "wf": "shorts-acc1.yml"},
-    {"job": "Acc2 Short #1", "utc": "17:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
-    {"job": "Acc2 Short #2", "utc": "20:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
-    {"job": "Acc2 Short #3", "utc": "23:30", "ch": "Channel2", "wf": "shorts-acc2.yml"},
-    {"job": "Acc3 Short #1 (VN)", "utc": "00:30", "ch": "Channel3", "wf": "shorts-acc3.yml"},
-    {"job": "Acc3 Short #2 (VN)", "utc": "05:00", "ch": "Channel3", "wf": "shorts-acc3.yml"},
-    {"job": "Acc3 Short #3 (VN)", "utc": "13:00", "ch": "Channel3", "wf": "shorts-acc3.yml"},
-    {"job": "Acc1 Long (/5d)", "utc": "15:00", "ch": "ReZain", "wf": "long.yml"},
+    {"job": "Acc1 Long (stickman)", "utc": "15:00", "ch": "ReZain", "wf": "long.yml"},
+    {"job": "Acc2 Short #1", "utc": "17:30", "ch": "seigh", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #2", "utc": "20:00", "ch": "seigh", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #3", "utc": "22:30", "ch": "seigh", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #4", "utc": "01:00", "ch": "seigh", "wf": "shorts-acc2.yml"},
+    {"job": "Acc2 Short #5", "utc": "03:30", "ch": "seigh", "wf": "shorts-acc2.yml"},
+    {"job": "Acc3 Short #1 (VN)", "utc": "00:30", "ch": "rescey", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #2 (VN)", "utc": "05:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #3 (VN)", "utc": "13:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
 ]
 
 SHORTS_TARGET = 3
@@ -337,9 +336,9 @@ code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1
 {% for ch in channels %}
 {% set t = amap.get(ch.key, {'done': 0, 'target': 0, 'left': 0}) %}
 <div class="mission {{ 'done' if t.target and ch.done >= t.target else '' }}">
-<h3>{{ ch.name }}: {{ ch.done }}/{{ t.target or '-' }} shorts</h3>
+<h3>{{ ch.name }}: {{ ch.done }}/{{ t.target or '-' }} videos</h3>
 <div class="prog"><div class="{{ '' if t.target and ch.done >= t.target else 'low' }}" style="width:{{ (100*ch.done//t.target) if t.target and ch.done < t.target else (100 if t.target else 0) }}%">{{ ch.done }}/{{ t.target or '-' }}</div></div>
-<div class="note">{% for x in ch.titles %}&#10003; {{ x }}<br>{% endfor %}{% if t.target and ch.done < t.target %}Con thieu {{ t.left }} video - cron + backfill tu bu.{% else %}{% if t.target %}Xong muc tieu.{% else %}Chua dat muc tieu.{% endif %}{% endif %}</div>
+<div class="note">{{ ch.role }}<br>{% for x in ch.titles %}&#10003; {{ x }}<br>{% endfor %}{% if t.target and ch.done < t.target %}Con thieu {{ t.left }} - cron + backfill tu bu.{% else %}{% if t.target %}Xong muc tieu.{% else %}{% endif %}{% endif %}</div>
 </div>
 {% endfor %}
 <div class="mission {{ 'done' if not m.long_due else '' }}">
@@ -725,17 +724,22 @@ def _synced() -> str:
     return "-"
 
 
-def _channel_missions(records: list, key: str) -> dict:
+def _channel_missions(records: list, key: str, role: str = "") -> dict:
     today = datetime.date.today().isoformat()
     shorts_today = [
         r.get("title", "")
         for r in records
-        if r.get("kind") == "short"
-        and (r.get("slot") or r.get("channel") or "") == key
+        if (r.get("slot") or r.get("channel") or "") == key
         and r.get("youtube_id")
-        and (r.get("created_at", "")[:10] == today)
+        and r.get("created_at", "")[:10] == today
     ]
-    return {"key": key, "name": key, "done": len(shorts_today), "titles": shorts_today}
+    return {
+        "key": key,
+        "name": key,
+        "role": role or ("long-form stickman" if key == "1" else "shorts"),
+        "done": len(shorts_today),
+        "titles": shorts_today,
+    }
 
 
 def _missions(records: list) -> dict:

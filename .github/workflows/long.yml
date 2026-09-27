@@ -2,7 +2,7 @@ name: long
 
 on:
   schedule:
-    - cron: "0 15 */5 * *"
+    - cron: "0 15 * * *"
   repository_dispatch:
     types: [long-video]
   workflow_dispatch:

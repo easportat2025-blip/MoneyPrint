@@ -1,10 +1,8 @@
 name: shorts-acc1
 
+# Acc 1 is now a LONG-FORM channel (see long.yml, daily 22:00 VN).
+# Space shorts are retired; this file stays for manual one-off experiments only.
 on:
-  schedule:
-    - cron: "0 16 * * *"
-    - cron: "0 19 * * *"
-    - cron: "0 22 * * *"
   repository_dispatch:
     types: [short-acc1]
   workflow_dispatch:

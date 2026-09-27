@@ -64,6 +64,9 @@ jobs:
           CHANNEL_3_NAME: ${{ vars.CHANNEL_3_NAME || 'Channel3' }}
           NICHE_3: ${{ vars.NICHE_3 || 'doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet' }}
           VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
+          VISUAL_STYLE: stickman
+          STICKMAN_FPS: "30"
+          STICKMAN_SCENE_SEC: "3.0"
           MEDIA_MODE: mixed
           MAX_DAILY_UPLOADS: "9"
         run: |
