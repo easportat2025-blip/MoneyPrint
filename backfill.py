@@ -20,11 +20,24 @@ LONG_SLOTS = {
     "1": int(os.environ.get("TARGET_LONG_ACC1", "1")),
 }
 
+# visual identity per slot: (VISUAL_STYLE, MEDIA_MODE)
+# acc1 = long stickman, acc2 = history archival stills, acc3 = animated stock
+SLOT_STYLE = {
+    "1": ("stickman", "mixed"),
+    "2": ("stock", "stills"),
+    "3": ("stock", "mixed"),
+}
+
 
 def run_one(kind: str = "short", slot: str = "") -> bool:
     env = dict(os.environ)
     if slot:
         env["CHANNEL"] = slot
+        style, media = SLOT_STYLE.get(slot, ("stock", "mixed"))
+        env["VISUAL_STYLE"] = style
+        env["MEDIA_MODE"] = media
+        if kind == "long":
+            env["STICKMAN_SCENE_SEC"] = "14"
     proc = subprocess.run(
         [sys.executable, str(ROOT / "main.py"), kind],
         cwd=str(ROOT),

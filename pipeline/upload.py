@@ -17,6 +17,15 @@ CAPTION_URL = "https://www.googleapis.com/upload/youtube/v3/captions"
 COST = {"captions": 400, "comment": 50, "playlist": 50, "item": 50, "thumb": 50}
 
 
+class MissingScopeError(RuntimeError):
+    pass
+
+
+def _scope_err(text: str) -> bool:
+    t = text.lower()
+    return "insufficient" in t and ("scope" in t or "permission" in t)
+
+
 def _budget(cost: int, reserve: int = 0) -> bool:
     return state.units_left(reserve) >= cost
 
@@ -150,6 +159,8 @@ def upload_captions(
         timeout=60,
     )
     if init.status_code not in (200, 201):
+        if init.status_code == 403 and _scope_err(init.text):
+            raise MissingScopeError("captions: thieu scope force-ssl")
         raise RuntimeError(
             f"caption init failed: {init.status_code} {init.text[:300]}"
         )
@@ -206,6 +217,8 @@ def insert_comment(video_id: str, text: str) -> str:
         timeout=60,
     )
     if r.status_code not in (200, 201):
+        if r.status_code == 403 and _scope_err(r.text):
+            raise MissingScopeError("comment: thieu scope force-ssl")
         raise RuntimeError(f"comment failed: {r.status_code} {r.text[:200]}")
     _spend("comment")
     return r.json().get("id", "")
@@ -236,6 +249,8 @@ def ensure_playlist(title: str) -> str:
         timeout=60,
     )
     if r.status_code not in (200, 201):
+        if r.status_code == 403 and _scope_err(r.text):
+            raise MissingScopeError("playlist: thieu scope force-ssl")
         raise RuntimeError(f"playlist failed: {r.status_code} {r.text[:200]}")
     pid = r.json().get("id", "")
     if pid:
@@ -263,6 +278,8 @@ def add_to_playlist(playlist_id: str, video_id: str) -> bool:
         timeout=60,
     )
     if r.status_code not in (200, 201):
+        if r.status_code == 403 and _scope_err(r.text):
+            raise MissingScopeError("playlistItem: thieu scope force-ssl")
         raise RuntimeError(f"playlistItem failed: {r.status_code} {r.text[:200]}")
     _spend("item")
     return True

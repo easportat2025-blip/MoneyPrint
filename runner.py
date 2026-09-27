@@ -276,10 +276,24 @@ def run_one(kind: str = "short") -> dict:
 
         vid = result["youtube_id"]
         series = f"{config.CHANNEL_NAME} Shorts"
-        if config.ENABLE_CAPTIONS:
+        no_scope = False
+
+        def _skip(name: str) -> bool:
+            state.stage(
+                rec_id,
+                name,
+                False,
+                "bo qua: token thieu scope force-ssl (login lai de bat)",
+            )
+            return False
+
+        if config.ENABLE_CAPTIONS and not no_scope:
             try:
                 cap_id = upload_mod.upload_captions(vid, srt_path)
                 state.stage(rec_id, "captions", bool(cap_id), cap_id or "het quota units")
+            except upload_mod.MissingScopeError:
+                no_scope = True
+                _skip("captions")
             except Exception as e:
                 state.stage(rec_id, "captions", False, str(e)[:200])
 
@@ -296,20 +310,26 @@ def run_one(kind: str = "short") -> dict:
                 print(f"[thumbnail] FULL ERROR: {e}", flush=True)
                 state.stage(rec_id, "thumbnail", False, str(e)[:200])
 
-        if config.ENABLE_COMMENT:
+        if config.ENABLE_COMMENT and not no_scope:
             try:
                 q = script.get("question") or ""
                 txt = f"{q}\n\nFollow for more {config.NICHE.split(',')[0]} shorts.".strip()
                 cid = upload_mod.insert_comment(vid, txt)
                 state.stage(rec_id, "comment", bool(cid), cid or "het quota")
+            except upload_mod.MissingScopeError:
+                no_scope = True
+                _skip("comment")
             except Exception as e:
                 state.stage(rec_id, "comment", False, str(e)[:200])
 
-        if config.ENABLE_PLAYLIST:
+        if config.ENABLE_PLAYLIST and not no_scope:
             try:
                 pid = upload_mod.ensure_playlist(series)
                 ok = upload_mod.add_to_playlist(pid, vid)
                 state.stage(rec_id, "playlist", ok, series)
+            except upload_mod.MissingScopeError:
+                no_scope = True
+                _skip("playlist")
             except Exception as e:
                 state.stage(rec_id, "playlist", False, str(e)[:200])
 

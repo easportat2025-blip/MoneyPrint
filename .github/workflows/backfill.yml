@@ -87,9 +87,6 @@ jobs:
           TARGET_ACC3: ${{ vars.TARGET_ACC3 || '3' }}
           TARGET_LONG_ACC1: ${{ vars.TARGET_LONG_ACC1 || '1' }}
           NICHE: ${{ vars.NICHE || 'explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits' }}
-          VISUAL_STYLE: stickman
-          STICKMAN_FPS: "30"
-          STICKMAN_SCENE_SEC: "14"
           MAX_DAILY_UPLOADS: "40"
         run: python main.py backfill --max "${{ github.event.inputs.max || '20' }}"
 
