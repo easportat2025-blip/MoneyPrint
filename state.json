@@ -1,5 +1,167 @@
 [
   {
+    "id": "343cdf78b2",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật đáng sợ khi ngủ trong phòng quá yên tĩnh",
+    "idea": {
+      "title": "Sự thật đáng sợ khi ngủ trong phòng quá yên tĩnh",
+      "hook": "Nhiều người nghĩ phòng càng yên tĩnh càng dễ ngủ, nhưng sự thật là sự im lặng tuyệt đối lại đang âm thầm tra tấn não bộ của bạn.",
+      "beats": [
+        "Trong không gian cực kỳ yên tĩnh (dưới 20 decibel), tai bạn sẽ tự động tăng độ nhạy để tìm kiếm âm thanh.",
+        "Bạn sẽ bắt đầu nghe thấy những tiếng động kỳ lạ: tiếng tim đập, tiếng thở, thậm chí là tiếng máu chảy trong tai.",
+        "Não bộ rơi vào trạng thái cảnh giác cao độ (hyper-awareness), khiến bạn căng thẳng và khó đi vào giấc ngủ sâu.",
+        "Đó là lý do tại sao tiếng ồn trắng (white noise) hoặc tiếng quạt nhẹ lại giúp bạn dễ ngủ hơn là sự im lặng tuyệt đối."
+      ],
+      "keywords": [
+        "silent room",
+        "sleeping brain",
+        "white noise",
+        "insomnia",
+        "ear close up"
+      ],
+      "tags": [
+        "channel3",
+        "giacngu",
+        "khoahoc",
+        "suckhoe",
+        "bimat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ trong phòng quá yên tĩnh cực kỳ nguy hiểm cho não bộ.",
+        "search": "nguoi dan ong mat mo to trong bong toi hoat hoa",
+        "caption": "Phòng quá yên tĩnh là một sai lầm tai hại"
+      },
+      {
+        "narration": "Sự im lặng tuyệt đối không hề mang lại cảm giác bình yên như bạn nghĩ.",
+        "search": "phong ngu toi den am dam quat tran khong quay",
+        "caption": "Sự im lặng tuyệt đối đang tra tấn bạn"
+      },
+      {
+        "narration": "Khi âm thanh môi trường giảm xuống dưới mức 20 decibel, cơ thể bắt đầu phản ứng.",
+        "search": "bieu do am thanh giam xuong muc cuc thap",
+        "caption": "Khi âm thanh môi trường giảm dưới 20 decibel"
+      },
+      {
+        "narration": "Tai của bạn sẽ tự động tăng độ nhạy lên mức tối đa để săn tìm tiếng động.",
+        "search": "can canh tai nguoi hoat hoa song am vao tai",
+        "caption": "Tai tự động tăng độ nhạy lên tối đa"
+      },
+      {
+        "narration": "Trong không gian vô vọng đó, bộ não bắt đầu khuếch đại những âm thanh bên trong cơ thể.",
+        "search": "bo nao hoat hoa phat sang trong dem toi",
+        "caption": "Não tự khuếch đại âm thanh bên trong"
+      },
+      {
+        "narration": "Đầu tiên, bạn sẽ nghe thấy tiếng tim mình đập rõ mồn một như tiếng trống.",
+        "search": "trai tim hoat hoa dap lien tuc trong long nguc",
+        "caption": "Tiếng tim đập rõ mồn một như tiếng trống"
+      },
+      {
+        "narration": "Tiếp theo là tiếng luồng khí di chuyển nặng nề qua mũi và phổi của bạn.",
+        "search": "phoi hoat hoa co bop khi hit tho",
+        "caption": "Tiếng thở trở nên nặng nề kỳ lạ"
+      },
+      {
+        "narration": "Đáng sợ nhất là tiếng máu chảy rào rào qua các mạch máu sát màng nhĩ.",
+        "search": "dong mau do chay trong mach mau hoat hoa",
+        "caption": "Tiếng máu chảy rào rào sát màng nhĩ"
+      },
+      {
+        "narration": "Những âm thanh sinh học này bình thường bị tiếng ồn nền che lấp, nay lại vang dội.",
+        "search": "nguoi che tai nham mat kho chiu tren giuong",
+        "caption": "Những âm thanh sinh học bỗng vang dội"
+      },
+      {
+        "narration": "Bộ não lập tức rơi vào trạng thái cảnh giác cao độ vì không gian quá dị thường.",
+        "search": "mat nguoi mo to giat minh trong dem toi",
+        "caption": "Não rơi vào trạng thái cảnh giác cao"
+      },
+      {
+        "narration": "Nó hiểu sự im lặng tuyệt đối này là dấu hiệu của một mối nguy hiểm đang rình rập.",
+        "search": "bong den quet qua can phong toi am u",
+        "caption": "Sự im lặng báo hiệu nguy hiểm rình rập"
+      },
+      {
+        "narration": "Cơ thể liên tục tiết ra hormone căng thẳng, khiến nhịp tim tăng lên.",
+        "search": "tuyen thuong than tiet ra hormone hoat hoa",
+        "caption": "Hormone căng thẳng liên tục tiết ra"
+      },
+      {
+        "narration": "Bạn sẽ trằn trọc, xoay người liên tục và không thể nào bước vào giấc ngủ sâu.",
+        "search": "nguoi dan ong tran troc xoay nguoi tren giuong",
+        "caption": "Bạn trằn trọc không thể ngủ sâu"
+      },
+      {
+        "narration": "Đây chính là lý do tại sao nhiều người bị mất ngủ kinh niên trong những căn phòng quá kín.",
+        "search": "nguoi om dau bat luc ngoi tren giuong toi",
+        "caption": "Nguyên nhân gây mất ngủ kinh niên"
+      },
+      {
+        "narration": "Để giải quyết, bạn cần một thứ gọi là tiếng ồn trắng hoặc âm thanh nền đều đặn.",
+        "search": "song am mau trang muot ma hoat hoa",
+        "caption": "Tiếng ồn trắng là cứu cánh duy nhất"
+      },
+      {
+        "narration": "Tiếng quạt gió nhẹ hoặc tiếng mưa rơi sẽ che lấp các âm thanh đáng sợ từ cơ thể.",
+        "search": "quat ban quay nhe nhang trong phong ngu am ap",
+        "caption": "Tiếng quạt nhẹ xoa dịu bộ não"
+      },
+      {
+        "narration": "Hãy bật một chiếc quạt nhỏ để đánh lừa bộ não và có một giấc ngủ ngon lành đêm nay.",
+        "search": "nguoi ngu ngon lanh mim cuoi trong phong am ap",
+        "caption": "Bật quạt nhẹ để ngủ ngon đêm nay"
+      }
+    ],
+    "error": "cannot access local variable 'n_vid' where it is not associated with a value",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-27T06:09:18.633968+00:00",
+    "updated_at": "2026-09-27T06:11:30.377058+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T06:10:15.149437+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "587 chars",
+        "at": "2026-09-27T06:11:07.421441+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.2s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-09-27T06:11:17.391332+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T06:11:18.910398+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 12 scenes 1244080 bytes",
+        "at": "2026-09-27T06:11:30.351465+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-27T06:11:30.362537+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "cannot access local variable 'n_vid' where it is not associated with a value",
+        "at": "2026-09-27T06:11:30.377046+00:00"
+      }
+    }
+  },
+  {
     "id": "d4bf6764b7",
     "kind": "long",
     "channel": "ReZain",
