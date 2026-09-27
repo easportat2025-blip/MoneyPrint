@@ -1,5 +1,446 @@
 [
   {
+    "id": "327239ca9f",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "failed",
+    "title": "The Strange Science of Why Airplane Food Tastes So Bad",
+    "idea": {
+      "title": "The Strange Science of Why Airplane Food Tastes So Bad",
+      "hook": "Airline food doesn’t actually taste bad because of cheap ingredients—flying secretly numbs your tongue.",
+      "beats": [
+        "Introduce the universal mystery: Why does gourmet food prepared on the ground taste like cardboard once you're in the air?",
+        "Explain the physics of the cabin: At 30,000 feet, cabin pressure is artificially set to simulate an altitude of 6,000 to 8,000 feet, which drastically alters human physiology.",
+        "Detail the Saharan dryness of flight: Cabin humidity levels drop to under 12%, which is drier than most deserts, instantly drying out your nasal passages.",
+        "Explain the biology of smell and taste: Since 80% of what we perceive as flavor actually comes from our sense of smell, dried-out nasal membranes immediately cripple our ability to taste.",
+        "Break down the 30% drop: Under low pressure and extreme dryness, our taste buds' sensitivity to sweet and salty flavors is suppressed by roughly 30%, while sour and bitter tastes remain largely unaffected.",
+        "Introduce 'sonic seasoning': The constant 80 to 85 decibel white noise of the jet engine acts as a sensory distraction, overloading the brain and blunting our taste perception even further.",
+        "Explore the psychology of sound: Research reveals that loud, low-frequency background noise actively suppresses our perception of sweetness while making food taste crunchier.",
+        "Reveal the airlines' secret recipe: To make food taste normal at cruising altitude, airline caterers must heavily over-salt, over-sugar, and over-spice every dish by up to 30% compared to ground restaurants.",
+        "Explain the reheating bottleneck: Food safety laws require meals to be cooked on the ground, blast-chilled, and then reheated on board using dry convection ovens, which further destroys texture and moisture.",
+        "Introduce the Umami Loophole: Explain why tomato juice and Bloody Marys are incredibly popular in the sky. Umami (the savory fifth taste) is the only primary flavor completely unaffected by cabin pressure and noise.",
+        "Discuss how modern aviation is fighting back: Newer aircraft like the Boeing 787 Dreamliner and Airbus A350 use carbon-fiber bodies to allow higher cabin humidity and pressure, naturally improving food flavor.",
+        "Provide actionable tips for the viewer: Wear noise-canceling headphones to restore taste, choose wet dishes like curries or stews, and opt for umami-rich ingredients to get the best culinary experience in the air."
+      ],
+      "keywords": [
+        "airplane food",
+        "food science",
+        "aviation physics",
+        "cabin pressure",
+        "sensory perception",
+        "sonic seasoning",
+        "umami tomato juice",
+        "why airplane food tastes bad",
+        "human biology",
+        "taste buds"
+      ],
+      "tags": [
+        "science",
+        "biology",
+        "physics",
+        "food",
+        "aviation",
+        "travel hacks",
+        "human body",
+        "psychology",
+        "sensory",
+        "how things work"
+      ],
+      "kind": "long",
+      "thumbnail_text": "Why Flight Numbs Your Tongue"
+    },
+    "scenes": [
+      {
+        "narration": "Flying secretly numbs your tongue.",
+        "search": "macro shot human tongue close up dark lighting",
+        "caption": "Flying secretly numbs your tongue"
+      },
+      {
+        "narration": "It isn’t cheap ingredients making airplane food taste like cardboard.",
+        "search": "airplane food tray plastic wrap dramatic lighting",
+        "caption": "It isn't the cheap ingredients"
+      },
+      {
+        "narration": "A silent biological shutdown alters your senses at thirty thousand feet.",
+        "search": "commercial airplane flying through dark storm clouds",
+        "caption": "A silent biological shutdown begins"
+      },
+      {
+        "narration": "The culprit is a combination of physics, biology, and extreme noise.",
+        "search": "scientific abstract animation of sensory molecules",
+        "caption": "The secret physics of flight"
+      },
+      {
+        "narration": "Even gourmet meals prepared by world-class chefs suffer the same fate.",
+        "search": "professional chef plating luxury food dark kitchen",
+        "caption": "Even gourmet meals lose their flavor"
+      },
+      {
+        "narration": "Once loaded onto a plane, high-quality ingredients lose their magic.",
+        "search": "flight attendant pushing food cart down dark aisle",
+        "caption": "Magic lost in the cabin"
+      },
+      {
+        "narration": "Passengers frequently complain about bland, dry, and tasteless dishes.",
+        "search": "disappointed airplane passenger looking at food tray",
+        "caption": "The universal passenger struggle"
+      },
+      {
+        "narration": "We blame the airlines, but the real enemy is completely invisible.",
+        "search": "invisible air currents swirling abstract 3d render",
+        "caption": "An invisible enemy in the air"
+      },
+      {
+        "narration": "To understand why, we must look at what happens to the cabin air.",
+        "search": "airplane cabin air vents blowing mist slow motion",
+        "caption": "What happens to cabin air?"
+      },
+      {
+        "narration": "At cruising altitude, the air outside is far too thin for humans to survive.",
+        "search": "earth atmosphere from space dark and vast",
+        "caption": "Cruising at thirty thousand feet"
+      },
+      {
+        "narration": "Heavy machinery must artificially pressurize the cabin to keep you breathing.",
+        "search": "airplane jet engine turbine spinning close up",
+        "caption": "Heavy machinery keeps you alive"
+      },
+      {
+        "narration": "This pressure is set to simulate an altitude of up to eight thousand feet.",
+        "search": "rocky mountain peak high altitude dramatic clouds",
+        "caption": "Simulating high mountain altitude"
+      },
+      {
+        "narration": "This sudden atmospheric shift triggers an immediate physiological reaction.",
+        "search": "human body scan glowing nervous system 3d render",
+        "caption": "Your body reacts instantly"
+      },
+      {
+        "narration": "Your blood oxygen levels drop, altering how your brain processes sensory input.",
+        "search": "red blood cells flowing through artery slow motion",
+        "caption": "Oxygen levels begin to drop"
+      },
+      {
+        "narration": "At the same time, the cabin air becomes exceptionally dry.",
+        "search": "cracked desert ground heat waves rising",
+        "caption": "Extreme dryness in the cabin"
+      },
+      {
+        "narration": "Humidity levels inside a plane drop to less than twelve percent.",
+        "search": "digital hygrometer showing low humidity percentage",
+        "caption": "Humidity drops below twelve percent"
+      },
+      {
+        "narration": "This is actually drier than most of the world's natural deserts.",
+        "search": "vast empty sand dunes under harsh sun",
+        "caption": "Drier than the Sahara desert"
+      },
+      {
+        "narration": "Every breath you take siphons moisture directly from your body.",
+        "search": "person breathing out visible vapor cold air dark background",
+        "caption": "Moisture is stripped away"
+      },
+      {
+        "narration": "Your nasal passages dry out completely within minutes of takeoff.",
+        "search": "anatomical cross section of human nasal cavity 3d render",
+        "caption": "Nasal passages dry out completely"
+      },
+      {
+        "narration": "This dry environment cripples your primary tool for tasting food.",
+        "search": "close up of nose smelling steam from hot drink",
+        "caption": "Your tasting tool is crippled"
+      },
+      {
+        "narration": "Eighty percent of what we perceive as flavor actually comes from smell.",
+        "search": "brain glowing olfactory bulb sensory pathways 3d render",
+        "caption": "Flavor is eighty percent smell"
+      },
+      {
+        "narration": "Without moisture, odor molecules cannot bind to your olfactory receptors.",
+        "search": "microscopic odor molecules floating towards receptors abstract",
+        "caption": "Odor molecules fail to bind"
+      },
+      {
+        "narration": "It is like trying to taste food while holding your nose closed.",
+        "search": "person pinching nose shut while eating frustrated",
+        "caption": "Like eating with a blocked nose"
+      },
+      {
+        "narration": "The brain receives only a fraction of the chemical signals it needs.",
+        "search": "neural network firing slowly dimming lights",
+        "caption": "Weak sensory signals to brain"
+      },
+      {
+        "narration": "This sensory deprivation is only the first stage of the process.",
+        "search": "dark empty sensory deprivation chamber water",
+        "caption": "Sensory deprivation in the sky"
+      },
+      {
+        "narration": "Under these extreme conditions, your taste buds undergo a dramatic shift.",
+        "search": "macro shot of taste buds on tongue pink surface",
+        "caption": "Taste buds undergo a shift"
+      },
+      {
+        "narration": "Your sensitivity to sweet flavors is suppressed by roughly thirty percent.",
+        "search": "sugar cubes dissolving in dark liquid slow motion",
+        "caption": "Sweetness sensitivity drops thirty percent"
+      },
+      {
+        "narration": "Salty flavors experience an equally devastating reduction in perception.",
+        "search": "salt crystals falling against black background slow motion",
+        "caption": "Salty flavors fade away"
+      },
+      {
+        "narration": "Surprisingly, sour and bitter tastes remain almost completely unaffected.",
+        "search": "fresh lemon slice dripping juice dark background",
+        "caption": "Sour and bitter remain unaffected"
+      },
+      {
+        "narration": "This imbalance distorts the entire flavor profile of your meal.",
+        "search": "abstract distorted food colors swirling",
+        "caption": "Distorted flavor profiles"
+      },
+      {
+        "narration": "The food tastes flat because the key highlights are missing.",
+        "search": "dull grey plate of food sitting on table",
+        "caption": "Why your food tastes flat"
+      },
+      {
+        "narration": "But the physical environment is only half of the problem.",
+        "search": "airplane wing and engine vibrating in flight",
+        "caption": "The environment is only half"
+      },
+      {
+        "narration": "The constant roar of the jet engine creates a wall of sound.",
+        "search": "sound waves vibrating sand on plate scientific experiment",
+        "caption": "A constant wall of sound"
+      },
+      {
+        "narration": "This background noise averages eighty to eighty-five decibels.",
+        "search": "decibel meter showing high noise level red warning",
+        "caption": "Eighty-five decibels of noise"
+      },
+      {
+        "narration": "Scientists refer to the acoustic impact on flavor as sonic seasoning.",
+        "search": "futuristic sound wave graphic overlaying food plate",
+        "caption": "The concept of sonic seasoning"
+      },
+      {
+        "narration": "This loud white noise acts as a massive sensory distraction.",
+        "search": "person covering ears in noisy crowded environment",
+        "caption": "A massive sensory distraction"
+      },
+      {
+        "narration": "Your brain is too busy processing noise to focus on taste.",
+        "search": "human brain MRI scan with lit up auditory cortex",
+        "caption": "Brain overloaded by noise"
+      },
+      {
+        "narration": "Studies show that loud, low-frequency sounds actively suppress sweetness.",
+        "search": "low frequency bass speaker cone vibrating water drops",
+        "caption": "Sound actively suppresses sweetness"
+      },
+      {
+        "narration": "The heavy hum of the engines acts like a mute button for sugar.",
+        "search": "hand pressing mute button on remote control close up",
+        "caption": "A mute button for sugar"
+      },
+      {
+        "narration": "Conversely, this same noise can actually enhance other textures.",
+        "search": "potato chip breaking in half slow motion macro",
+        "caption": "Enhancing food texture instead"
+      },
+      {
+        "narration": "It makes food feel significantly crunchier than it actually is.",
+        "search": "person biting into crunchy food close up mouth",
+        "caption": "Making food feel crunchier"
+      },
+      {
+        "narration": "This auditory illusion changes how we evaluate what we eat.",
+        "search": "optical illusion spinning black and white pattern",
+        "caption": "The auditory illusion of food"
+      },
+      {
+        "narration": "The brain is tricked by the ears, leaving the tongue confused.",
+        "search": "stylized illustration of ear and tongue connected by light",
+        "caption": "Brain tricked by sound"
+      },
+      {
+        "narration": "Airline catering companies are well aware of this sensory deficit.",
+        "search": "industrial kitchen preparing thousands of airplane meals",
+        "caption": "Caterers know this secret"
+      },
+      {
+        "narration": "To compensate, they must aggressively alter their recipes.",
+        "search": "chef dumping large amount of salt and spices into pot",
+        "caption": "Aggressively altering recipes"
+      },
+      {
+        "narration": "They dump up to thirty percent more salt and sugar into dishes.",
+        "search": "white sugar and salt pouring together dark background",
+        "caption": "Thirty percent more salt and sugar"
+      },
+      {
+        "narration": "On the ground, these same meals would taste sickeningly intense.",
+        "search": "person making disgusted face tasting over-salted food",
+        "caption": "Too intense for the ground"
+      },
+      {
+        "narration": "But in the sky, this heavy seasoning is barely enough.",
+        "search": "passenger eating meal on plane looking neutral",
+        "caption": "Barely enough to taste normal"
+      },
+      {
+        "narration": "It is a delicate chemical balancing act performed daily.",
+        "search": "laboratory beaker mixing colorful liquids dramatic lighting",
+        "caption": "A delicate chemical balance"
+      },
+      {
+        "narration": "The logistics of flight catering present another major obstacle.",
+        "search": "metal food carts lined up in cold warehouse storage",
+        "caption": "The logistical nightmare"
+      },
+      {
+        "narration": "Food safety laws forbid cooking raw meals directly on board.",
+        "search": "food safety inspector checking temperatures in kitchen",
+        "caption": "Strict food safety laws"
+      },
+      {
+        "narration": "Meals must be cooked, blast-chilled, and stored in refrigerators.",
+        "search": "blast freezer blowing cold air over trays of food",
+        "caption": "Blast-chilled and stored cold"
+      },
+      {
+        "narration": "Once airborne, flight attendants reheat them using dry convection ovens.",
+        "search": "flight attendant opening small metal oven on airplane",
+        "caption": "Reheated in dry ovens"
+      },
+      {
+        "narration": "This secondary heating process strips away any remaining moisture.",
+        "search": "steam escaping from hot food tray drying out fast",
+        "caption": "Stripping away remaining moisture"
+      },
+      {
+        "narration": "Yet, there is one major flavor loophole in the sky.",
+        "search": "glowing keyhole in dark wall light shining through",
+        "caption": "The major flavor loophole"
+      },
+      {
+        "narration": "It explains why tomato juice is incredibly popular on flights.",
+        "search": "red tomato juice being poured into plastic cup on plane",
+        "caption": "The mystery of tomato juice"
+      },
+      {
+        "narration": "Tomato juice is rich in umami, the savory fifth taste.",
+        "search": "fresh ripe tomatoes on vine with water droplets macro",
+        "caption": "Rich in savory umami"
+      },
+      {
+        "narration": "Unlike sweet and salty, umami is completely immune to cabin pressure.",
+        "search": "shield protecting glowing core from abstract wind",
+        "caption": "Immune to cabin pressure"
+      },
+      {
+        "narration": "The loud engine noise actually enhances our perception of umami.",
+        "search": "sound waves hitting a glowing red sphere gently",
+        "caption": "Noise enhances umami perception"
+      },
+      {
+        "narration": "This makes a sky-high Bloody Mary taste exceptionally rich.",
+        "search": "bloody mary cocktail with celery stick on airplane tray",
+        "caption": "Exceptionally rich flavor"
+      },
+      {
+        "narration": "Modern aerospace engineering is finally addressing this issue.",
+        "search": "boeing 787 dreamliner flying high above clouds sunset",
+        "caption": "Aerospace engineering fighting back"
+      },
+      {
+        "narration": "Newer aircraft are built with advanced carbon-fiber composite bodies.",
+        "search": "carbon fiber texture close up dark sleek pattern",
+        "caption": "Advanced carbon-fiber bodies"
+      },
+      {
+        "narration": "Unlike aluminum, carbon fiber does not corrode under high humidity.",
+        "search": "water droplets beaded on sleek black composite material",
+        "caption": "No corrosion from humidity"
+      },
+      {
+        "narration": "This allows airlines to safely increase cabin moisture levels.",
+        "search": "mist spray nozzle humidifying clean modern environment",
+        "caption": "Safely increasing cabin moisture"
+      },
+      {
+        "narration": "Higher pressure and humidity make food taste naturally better.",
+        "search": "smiling passenger enjoying delicious meal on modern plane",
+        "caption": "Naturally better tasting food"
+      },
+      {
+        "narration": "Until you fly on these new planes, you can take control.",
+        "search": "person putting on high quality noise canceling headphones",
+        "caption": "Take control of your taste"
+      },
+      {
+        "narration": "Wearing noise-canceling headphones can instantly restore your taste buds.",
+        "search": "sound waves disappearing as headphones cover ear animation",
+        "caption": "Block noise to restore taste"
+      },
+      {
+        "narration": "Always choose wet dishes like curries, stews, or saucy pastas.",
+        "search": "steaming hot chicken curry dish close up macro",
+        "caption": "Choose wet, saucy dishes"
+      },
+      {
+        "narration": "These dishes retain moisture far better during the reheating process.",
+        "search": "rich gravy bubbling in pan slow motion",
+        "caption": "Retaining moisture during reheat"
+      },
+      {
+        "narration": "And always opt for umami-rich ingredients to conquer the physics of flight.",
+        "search": "airplane window view sunset clouds peaceful transition",
+        "caption": "Conquer the physics of flight"
+      },
+      {
+        "narration": "Your tongue is secretly numbed the moment you step onto a commercial flight.",
+        "search": "close up macro human tongue dark background",
+        "caption": "Flying secretly numbs your tongue."
+      }
+    ],
+    "error": "No module named 'PIL'",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-27T05:31:41.047254+00:00",
+    "updated_at": "2026-09-27T05:36:19.766692+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "70 scenes",
+        "at": "2026-09-27T05:33:05.786988+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4618 chars",
+        "at": "2026-09-27T05:34:10.159762+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "303.5s en-US-ChristopherNeural 51 cau",
+        "at": "2026-09-27T05:34:52.135502+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T05:35:03.530166+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "No module named 'PIL'",
+        "at": "2026-09-27T05:36:19.766682+00:00"
+      }
+    }
+  },
+  {
     "id": "2b789bba44",
     "kind": "long",
     "channel": "ReZain",
