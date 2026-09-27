@@ -1,5 +1,221 @@
 [
   {
+    "id": "224dd3a661",
+    "kind": "short",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "done",
+    "title": "Why astronauts secretly see bright flashes in the dark",
+    "idea": {
+      "title": "Why astronauts secretly see bright flashes in the dark",
+      "hook": "Astronauts aboard the ISS noticed a terrifying symptom the moment they shut their eyes to sleep: sudden, blinding flashes of light.",
+      "beats": [
+        "Apollo and ISS crews reported seeing silent streaks and explosions of white light through closed eyelids in pitch-black quarters.",
+        "It wasn't a psychological trick; high-energy cosmic rays were literally punching through the spacecraft hull and striking their retinas.",
+        "This phenomenon, known as cosmic ray visual phosphenes, is the real physical cost of stepping outside Earth's protective magnetic field.",
+        "Scientists worry that on long missions to Mars, these continuous microscopic particle strikes will cause permanent optical and brain damage."
+      ],
+      "keywords": [
+        "astronaut sleeping space station",
+        "cosmic rays deep space animation",
+        "human eye retina macro shot",
+        "international space station interior",
+        "space radiation particles visual"
+      ],
+      "tags": [
+        "#spacefacts",
+        "#astronauts",
+        "#spacescience",
+        "#nasafacts",
+        "#rezain"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Astronauts close their eyes to sleep, yet see blinding explosions.",
+        "search": "astronaut sleeping quarters international space station",
+        "caption": "Astronauts see blinding flashes with their eyes closed."
+      },
+      {
+        "narration": "The Apollo moonwalkers were the first to report it in pitch darkness.",
+        "search": "apollo astronaut inside dark lunar module vintage",
+        "caption": "Apollo moonwalkers first reported seeing flashes in pitch black."
+      },
+      {
+        "narration": "Decades later, International Space Station crews confirmed the exact same chilling phenomenon.",
+        "search": "international space station cupola interior earth view dark",
+        "caption": "ISS crews confirmed the exact same phenomenon."
+      },
+      {
+        "narration": "At first, NASA flight doctors feared astronauts were suffering severe psychological breakdowns.",
+        "search": "nasa mission control room dark monitors retro",
+        "caption": "NASA feared astronauts were suffering psychological breakdowns."
+      },
+      {
+        "narration": "Yet every crew member described identical silent fireworks behind their eyelids.",
+        "search": "abstract white light burst black background slow motion",
+        "caption": "Every astronaut reported identical silent fireworks behind their eyelids."
+      },
+      {
+        "narration": "Some saw microscopic pinpricks of light, while others saw blinding comets rip across their vision.",
+        "search": "glowing light streak cosmic particle dark void",
+        "caption": "Some saw pinpricks; others saw blinding comets rip across vision."
+      },
+      {
+        "narration": "Astronauts tried wearing thick sleep masks, but the flashes never stopped.",
+        "search": "astronaut face close up dark helmet visor reflection",
+        "caption": "Even with blackout masks, the flashes never stopped."
+      },
+      {
+        "narration": "That proved the light wasn't coming from inside the cabin.",
+        "search": "dark space station corridor empty floating camera",
+        "caption": "The mysterious light was not coming from inside the cabin."
+      },
+      {
+        "narration": "Deep space is completely flooded with subatomic particles traveling near light speed.",
+        "search": "cosmic rays deep space animation particles moving fast",
+        "caption": "Deep space is flooded with subatomic particles moving near light speed."
+      },
+      {
+        "narration": "Earth's atmosphere and magnetic shield block nearly all of this deadly cosmic radiation.",
+        "search": "earth magnetic field magnetosphere solar wind animation",
+        "caption": "Earth's magnetic shield protects us from this cosmic bombardment."
+      },
+      {
+        "narration": "In space, solid aluminum and titanium hulls offer zero resistance to them.",
+        "search": "spacecraft metallic hull exterior orbit deep shadow",
+        "caption": "Spacecraft walls offer almost zero protection against cosmic rays."
+      },
+      {
+        "narration": "These invisible particles punch clean through spacecraft hulls, human skin, and bone.",
+        "search": "space radiation particles piercing surface simulation",
+        "caption": "Invisible particles punch straight through spacecraft walls and human bone."
+      },
+      {
+        "narration": "When a cosmic heavy ion collides with the eyeball, it moves faster than light travels through optical fluid.",
+        "search": "human eye retina macro shot medical scan",
+        "caption": "Cosmic ions travel through the eyeball faster than light in water."
+      },
+      {
+        "narration": "This triggers Cherenkov radiation—a microscopic optical sonic boom right inside the vitreous humor.",
+        "search": "cherenkov radiation blue glow water reactor core",
+        "caption": "It creates a microscopic optical sonic boom inside the eye."
+      },
+      {
+        "narration": "The resulting shockwave of photons directly stimulates the retina, tricking the brain into seeing light.",
+        "search": "human optic nerve brain neural firing glowing animation",
+        "caption": "The shockwave hits the retina, forcing the brain to see light."
+      },
+      {
+        "narration": "On a three-year voyage to Mars, millions of these microscopic bullets will penetrate astronauts' brains.",
+        "search": "mars journey spaceship deep space dark cinematic",
+        "caption": "On a Mars mission, millions of cosmic bullets will strike their brains."
+      },
+      {
+        "narration": "Those terrifying flashes aren't hallucinations—they are the visible signature of cosmic radiation shredding living cells.",
+        "search": "astronaut silhouette staring into deep starfield vast universe",
+        "caption": "The flashes are the visible signature of radiation destroying cells."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Y64RfW6_q5I",
+    "youtube_url": "https://www.youtube.com/watch?v=Y64RfW6_q5I",
+    "created_at": "2026-09-27T00:21:04.217502+00:00",
+    "updated_at": "2026-09-27T00:23:06.422301+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T00:21:16.414217+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "556 chars",
+        "at": "2026-09-27T00:21:30.830814+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.2s en-US-ChristopherNeural 7 cau",
+        "at": "2026-09-27T00:21:34.957264+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T00:21:36.380575+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-27T00:21:54.166608+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-27T00:21:54.171257+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.2s 25692606 bytes",
+        "at": "2026-09-27T00:23:00.529853+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Y64RfW6_q5I",
+        "at": "2026-09-27T00:23:05.248003+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T00:23:05.598443+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-27T00:23:05.866034+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T00:23:06.109705+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T00:23:06.390956+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T00:23:06.396382+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T00:23:06.422294+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7169782/7169782-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/37001328/15675684_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36489364/15472766_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/5377991/5377991-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/39483259/16818314_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39259166/16703991_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7170787/7170787-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/36602423/15518739_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/35535227/15054640_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39428970/16790476_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36267210/15380014_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34914594/14789852_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7299473/7299473-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35014255/14833266_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/10456671/10456671-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34707013/14710950_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8474603/8474603-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "05acd35562",
     "kind": "long",
     "channel": "ReZain",
