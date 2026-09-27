@@ -1,5 +1,202 @@
 [
   {
+    "id": "cf4165f408",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật phũ phàng về việc tắt ứng dụng chạy ngầm trên điện thoại",
+    "idea": {
+      "title": "Sự thật phũ phàng về việc tắt ứng dụng chạy ngầm trên điện thoại",
+      "hook": "Bạn nghĩ vuốt tắt ứng dụng chạy ngầm giúp tiết kiệm pin? Thực chất, thói quen này đang âm thầm vắt kiệt năng lượng điện thoại của bạn nhanh hơn.",
+      "beats": [
+        "Hệ điều hành hiện đại tự động đóng băng các ứng dụng không dùng đến để tiết kiệm tài nguyên.",
+        "Khi bạn vuốt tắt, bạn ép điện thoại phải đóng hoàn toàn tiến trình đó.",
+        "Lần tới khi mở lại, CPU phải khởi động lại từ đầu, tiêu tốn nhiều pin và RAM hơn là để im.",
+        "Hãy để hệ thống tự quản lý, chỉ chủ động tắt khi ứng dụng bị đơ hoặc lỗi."
+      ],
+      "keywords": [
+        "smartphone battery",
+        "swiping phone screen",
+        "processor chip close up",
+        "phone usage",
+        "running mobile apps"
+      ],
+      "tags": [
+        "#congnghe",
+        "#meovat",
+        "#dienthoai",
+        "#pin",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vuốt tắt ứng dụng đang khiến pin sụt nhanh hơn.",
+        "search": "tay vuot man hinh dien thoai trong bong toi",
+        "caption": "Vuốt tắt ứng dụng làm pin sụt nhanh hơn"
+      },
+      {
+        "narration": "Hầu hết chúng ta đều có thói quen dọn sạch đa nhiệm vì nghĩ máy sẽ mượt hơn. Nhưng sự thật hoàn toàn trái ngược.",
+        "search": "nguoi dung dien thoai anh sang xanh toi tam",
+        "caption": "Thói quen dọn đa nhiệm tưởng chừng vô hại"
+      },
+      {
+        "narration": "Càng chăm chỉ vuốt tắt mọi thứ, bạn càng vô tình ép pin và vi xử lý phải gánh thêm áp lực nặng nề.",
+        "search": "dien thoai nong do ruc tia lua dien phat sang",
+        "caption": "Bạn đang ép phần cứng chịu thêm gánh nặng"
+      },
+      {
+        "narration": "Cả iOS lẫn Android ngày nay đều được lập trình với cơ chế thông minh vượt xa cách bạn tưởng tượng.",
+        "search": "chip dien tu vi mach phat sang trong dem",
+        "caption": "Hệ điều hành hiện đại thông minh hơn bạn nghĩ"
+      },
+      {
+        "narration": "Khi bạn quay về màn hình chính, các ứng dụng không hề tự do chạy ngầm mà lập tức bị đưa vào trạng thái đóng băng.",
+        "search": "khoi bang lanh bao trum bieu tuong cong nghe",
+        "caption": "Ứng dụng lập tức bị đóng băng hoàn toàn"
+      },
+      {
+        "narration": "Giao diện đa nhiệm mà bạn thấy thực chất chỉ là những tấm ảnh chụp lịch sử, không hề ngốn pin hay chiếm dụng CPU.",
+        "search": "man hinh ao giac vo so khung anh trôi noi",
+        "caption": "Giao diện đa nhiệm chỉ là ảnh chụp lịch sử"
+      },
+      {
+        "narration": "Thế nhưng, khoảnh khắc ngón tay bạn vuốt chúng biến mất, một lệnh cưỡng chế tiêu cực vừa được kích hoạt.",
+        "search": "ngon tay cham vao man hinh vet nut vo",
+        "caption": "Cú vuốt tay kích hoạt lệnh tiêu cực"
+      },
+      {
+        "narration": "Hệ thống bị ép tống khứ toàn bộ dữ liệu ra khỏi RAM, dọn đường cho một thảm họa tốn năng lượng ngay sau đó.",
+        "search": "bo nho may tinh ram xoa du lieu tia chop",
+        "caption": "Dữ liệu bị xóa sạch mở đầu chuỗi tốn pin"
+      },
+      {
+        "narration": "Lần tới khi bạn nhấn mở lại ứng dụng đó, một quy trình khởi động nguội lập tức bị kích hoạt bên trong vi xử lý.",
+        "search": "vi xu ly dien thoai tia lua dien ruc sang",
+        "caption": "Quy trình khởi động nguội tàn khốc bắt đầu"
+      },
+      {
+        "narration": "Thay vì chỉ đánh thức tiến trình đang ngủ, con chip buộc phải tải lại toàn bộ mã nguồn từ bộ nhớ flash.",
+        "search": "bo mach dien tu du lieu chay cham chap toi tam",
+        "caption": "Chip xử lý phải cày xới dữ liệu từ đầu"
+      },
+      {
+        "narration": "CPU và GPU bị ép nâng xung nhịp lên mức tối đa, tiêu tốn lượng điện năng gấp nhiều lần bình thường.",
+        "search": "dong ho do toc do qua tai kim do",
+        "caption": "Xung nhịp CPU bị ép chạm trần cực đại"
+      },
+      {
+        "narration": "Dòng xả đột ngột này ngay lập tức chuyển hóa thành nhiệt năng, âm thầm nung nóng các cell pin lithium bên trong.",
+        "search": "pin dien thoai phat sang do ruc vi nhiet",
+        "caption": "Nhiệt độ tăng vọt nung nóng cell pin"
+      },
+      {
+        "narration": "Càng vuốt tắt nhiều lần trong ngày, bạn càng ép chiếc điện thoại chịu hàng chục cú sốc tải điện liên tiếp.",
+        "search": "ban tay luot man hinh dien thoai lien tuc trong toi",
+        "caption": "Chu kỳ sốc tải năng lượng lặp đi lặp lại"
+      },
+      {
+        "narration": "Các kỹ sư phần mềm hàng đầu đều xác nhận: thao tác này đốt pin nhanh hơn nhiều so với việc để ứng dụng tự đóng băng.",
+        "search": "phong thi nghiem kiem tra pin thiet bi cong nghe",
+        "caption": "Thói quen này bào mòn pin nhanh hơn bình thường"
+      },
+      {
+        "narration": "Nghịch lý là, việc cố dọn sạch màn hình đa nhiệm chỉ đem lại ảo tưởng tâm lý về một thiết bị mượt mà.",
+        "search": "ao anh quang hoc mat dong ho quay cuong",
+        "caption": "Cảm giác mượt mà chỉ là ảo tưởng tâm lý"
+      },
+      {
+        "narration": "Vậy cơ chế tự cân bằng tài nguyên của máy thực sự vận hành thế nào, và đâu là thời điểm duy nhất bạn nên tắt ứng dụng?",
+        "search": "mach dien logic thong minh phat sang trong bong toi",
+        "caption": "Khi nào mới là lúc duy nhất nên can thiệp?"
+      },
+      {
+        "narration": "Hệ điều hành hiện nay tự động đóng băng các ứng dụng không dùng mà không hề tốn điện năng. Hãy để máy tự tối ưu tài nguyên, bạn chỉ nên vuốt tắt khi ứng dụng thực sự bị treo hoặc lỗi.",
+        "search": "chip vi xu ly dien thoai tiet kiem pin anh sang xanh",
+        "caption": "Chỉ vuốt tắt khi ứng dụng bị đơ, hãy để máy tự quản lý!"
+      }
+    ],
+    "error": "",
+    "youtube_id": "G0vYxSmfCUY",
+    "youtube_url": "https://www.youtube.com/watch?v=G0vYxSmfCUY",
+    "created_at": "2026-09-27T07:30:57.592276+00:00",
+    "updated_at": "2026-09-27T07:34:24.019526+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T07:32:49.387297+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "481 chars",
+        "at": "2026-09-27T07:33:41.608554+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.4s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-27T07:33:49.884736+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T07:33:51.079246+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 10 scenes 1045923 bytes",
+        "at": "2026-09-27T07:33:59.157704+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-27T07:33:59.164304+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.4s 2506577 bytes",
+        "at": "2026-09-27T07:34:20.289981+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=G0vYxSmfCUY",
+        "at": "2026-09-27T07:34:22.229860+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T07:34:22.482492+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-27T07:34:23.581184+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T07:34:23.784940+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T07:34:23.993799+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T07:34:24.000841+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T07:34:24.019517+00:00"
+      }
+    }
+  },
+  {
     "id": "bf88290170",
     "kind": "long",
     "channel": "ReZain",
