@@ -1,5 +1,157 @@
 [
   {
+    "id": "aa294af5da",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật phũ phàng về Chế độ tối trên điện thoại",
+    "idea": {
+      "title": "Sự thật phũ phàng về Chế độ tối trên điện thoại",
+      "hook": "Bạn bật chế độ tối để bảo vệ mắt? Thực tế, bạn đang âm thầm làm mắt mình mệt mỏi hơn mà không hề hay biết.",
+      "beats": [
+        "Chế độ tối (Dark Mode) giúp tiết kiệm pin cho màn hình OLED, nhưng với mắt của bạn thì ngược lại.",
+        "Khi đọc chữ trắng trên nền tối, đồng tử của bạn phải giãn ra to hơn để đón nhận ánh sáng.",
+        "Điều này làm mờ các ký tự và buộc các cơ mắt phải co bóp vất vả hơn để tập trung tiêu cự.",
+        "Nếu bạn bị loạn thị nhẹ (chiếm đến 70% dân số), chế độ tối càng làm tăng hiện tượng nhòe chữ, gây mỏi mắt và đau đầu nhanh hơn."
+      ],
+      "keywords": [
+        "smartphone dark mode",
+        "eye strain closeup",
+        "reading phone in dark",
+        "human eye pupil",
+        "mobile screen glow"
+      ],
+      "tags": [
+        "channel3",
+        "meo dung dien thoai",
+        "suc khoe",
+        "dark mode",
+        "thoi quen"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật chế độ tối để bảo vệ mắt? Sai lầm lớn rồi.",
+        "search": "nguoi dung dien thoai trong bong toi can canh",
+        "caption": "Bật chế độ tối bảo vệ mắt? Sai lầm lớn!"
+      },
+      {
+        "narration": "Hầu hết chúng ta đều tin rằng giao diện đen thui này sẽ giúp mắt dễ chịu hơn khi lướt điện thoại ban đêm.",
+        "search": "man hinh dien thoai phat sang trong dem",
+        "caption": "Ai cũng nghĩ Dark Mode giúp mắt dễ chịu hơn."
+      },
+      {
+        "narration": "Sự thật là, chế độ tối chỉ thực sự tốt cho pin điện thoại của bạn, chứ không hề tốt cho mắt.",
+        "search": "pin dien thoai va man hinh oled phat sang",
+        "caption": "Nó chỉ tốt cho pin, không tốt cho mắt."
+      },
+      {
+        "narration": "Hãy nhìn vào cách mà cơ thể bạn phản ứng khi nhìn vào màn hình tối.",
+        "search": "mo phong do hoa mat nguoi 3d",
+        "caption": "Cơ thể bạn phản ứng thế nào với màn hình tối?"
+      },
+      {
+        "narration": "Khi bạn đọc chữ trắng trên nền đen, mắt bạn phải đối mặt với một nghịch lý ánh sáng.",
+        "search": "dong tu mat nguoi co gian can canh",
+        "caption": "Nghịch lý ánh sáng khi đọc chữ trắng nền đen."
+      },
+      {
+        "narration": "Vì môi trường xung quanh quá tối, đồng tử của bạn buộc phải giãn ra to hơn để đón nhận nhiều ánh sáng hơn.",
+        "search": "dong tu mat nguoi no to ra trong bong toi",
+        "caption": "Đồng tử buộc phải giãn to để đón ánh sáng."
+      },
+      {
+        "narration": "Hiện tượng này tương tự như việc bạn mở khẩu độ ống kính camera quá lớn, khiến mọi thứ xung quanh bị mờ đi.",
+        "search": "ong kinh may anh mo khau do xoa phong",
+        "caption": "Giống như mở khẩu độ camera lớn, gây mờ."
+      },
+      {
+        "narration": "Các ký tự màu trắng trên nền đen sẽ bắt đầu có hiện tượng nhòe biên hay còn gọi là tán xạ ánh sáng.",
+        "search": "chu viet tren man hinh bi nhoe sang",
+        "caption": "Chữ trắng bị nhòe biên và tán xạ ánh sáng."
+      },
+      {
+        "narration": "Để đọc rõ những chữ bị nhòe này, các cơ mi trong mắt bạn phải liên tục co bóp cực kỳ vất vả.",
+        "search": "mo phong co mat hoat dong cang thang",
+        "caption": "Cơ mắt phải liên tục co bóp để tập trung."
+      },
+      {
+        "narration": "Ngược lại, ở chế độ sáng, đồng tử co nhỏ lại, giúp bạn nhìn chữ sắc nét hơn mà không cần cố gắng.",
+        "search": "mat nguoi nhin man hinh sang ban ngay",
+        "caption": "Chế độ sáng giúp đồng tử co lại, nhìn rõ hơn."
+      },
+      {
+        "narration": "Mọi chuyện còn tồi tệ hơn rất nhiều nếu bạn thuộc nhóm người này.",
+        "search": "nguoi can thi loan thi deo kinh nhin dien thoai",
+        "caption": "Tình hình sẽ tồi tệ hơn nếu bạn bị cận loạn."
+      },
+      {
+        "narration": "Bạn có biết rằng có đến 70% dân số thế giới bị loạn thị ở các mức độ khác nhau?",
+        "search": "do hoa ty le phan tram nguoi tren trai dat",
+        "caption": "70% dân số thế giới bị loạn thị nhẹ."
+      },
+      {
+        "narration": "Với người loạn thị, giác mạc không tròn đều, khiến ánh sáng đi vào mắt bị bẻ cong không đồng nhất.",
+        "search": "mo phong giac mac mat bi lech anh sang bieu do",
+        "caption": "Giác mạc người loạn thị bẻ cong ánh sáng không đều."
+      },
+      {
+        "narration": "Chế độ tối cộng với loạn thị sẽ tạo ra hiệu ứng bóng mờ kép xung quanh mỗi chữ cái bạn đọc.",
+        "search": "chu tren man hinh dien thoai bi bong mo nhan doi",
+        "caption": "Chế độ tối tạo ra bóng mờ kép cực khó chịu."
+      },
+      {
+        "narration": "Điều này giải thích vì sao bạn nhanh chóng bị mỏi mắt, khô mắt và thậm chí là đau đầu sau vài phút lướt web ban đêm.",
+        "search": "nguoi tre om dau nhuc mat vi dung dien thoai",
+        "caption": "Gây mỏi mắt, khô mắt và đau đầu nhanh chóng."
+      },
+      {
+        "narration": "Vậy giải pháp là gì? Hãy bật chế độ sáng nhưng giảm độ sáng màn hình xuống mức thấp nhất khi ở trong tối.",
+        "search": "tay dieu chinh thanh cuon do sang man hinh dien thoai",
+        "caption": "Hãy dùng chế độ sáng và giảm độ sáng tối đa."
+      },
+      {
+        "narration": "Hoặc tốt nhất, hãy bật một chiếc đèn ngủ nhỏ để mắt không phải gồng mình chiến đấu với bóng tối.",
+        "search": "bat den ngu nho ben canh giuong ngu",
+        "caption": "Bật thêm đèn ngủ để bảo vệ đôi mắt của bạn."
+      }
+    ],
+    "error": "No module named 'PIL'",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-27T05:38:18.278636+00:00",
+    "updated_at": "2026-09-27T05:39:42.992825+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T05:39:17.021601+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "523 chars",
+        "at": "2026-09-27T05:39:24.971856+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.2s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-27T05:39:41.376472+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T05:39:42.965842+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "No module named 'PIL'",
+        "at": "2026-09-27T05:39:42.992817+00:00"
+      }
+    }
+  },
+  {
     "id": "327239ca9f",
     "kind": "long",
     "channel": "ReZain",
