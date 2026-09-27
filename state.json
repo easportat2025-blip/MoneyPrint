@@ -1,5 +1,488 @@
 [
   {
+    "id": "bf88290170",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "done",
+    "title": "Why Your Phone's GPS Secretly Uses Time Travel",
+    "idea": {
+      "title": "Why Your Phone's GPS Secretly Uses Time Travel",
+      "hook": "Your phone is secretly correcting for time travel every single second, and if it stopped, your GPS would crash in minutes.",
+      "beats": [
+        "We use GPS daily for navigation, but your phone is actually communicating with 'time travelers' orbiting Earth to find your location.",
+        "GPS works through trilateration: your phone doesn't send signals, it just listens to precise time-stamped radio signals from at least four satellites.",
+        "Because radio waves travel at the speed of light, even a tiny error in timing of one-millionth of a second translates to a positioning error of 300 meters.",
+        "This is where Einstein enters: his theory of Special Relativity states that fast-moving objects experience time slower. Satellites orbit at 14,000 km/h, making their clocks lose 7 microseconds a day.",
+        "But Einstein's General Relativity states gravity warps time too. At 20,000 km high, gravity is weaker, causing satellite clocks to tick faster by 45 microseconds a day.",
+        "Combining both relativistic effects, GPS satellite clocks tick faster than clocks on Earth by exactly 38 microseconds every single day.",
+        "Without correction, this 38-microsecond daily drift would compound, throwing off your GPS location by over 11 kilometers (7 miles) in just 24 hours.",
+        "To prevent global navigation from collapsing, scientists programmed Einstein's equations directly into the satellite computer chips, adjusting their clock frequencies before launch.",
+        "These satellites carry ultra-precise atomic clocks using cesium or rubidium, which are so accurate they only lose one second every 1.4 million years.",
+        "Next time you use your phone to find a coffee shop, remember you are using a real-time physics experiment that proves space and time are fluid."
+      ],
+      "keywords": [
+        "GPS",
+        "Einstein",
+        "relativity",
+        "time travel",
+        "physics",
+        "how GPS works",
+        "time dilation",
+        "atomic clocks",
+        "space",
+        "technology explained"
+      ],
+      "tags": [
+        "science",
+        "physics",
+        "technology",
+        "GPS",
+        "Einstein",
+        "space",
+        "howitworks",
+        "timedilation",
+        "astronomy"
+      ],
+      "kind": "long",
+      "thumbnail_text": "GPS USES TIME TRAVEL"
+    },
+    "scenes": [
+      {
+        "narration": "Your phone is secretly correcting for real time travel. If it stopped, your GPS would completely fail in minutes.",
+        "search": "extreme close up smartphone screen glowing dark room",
+        "caption": "Your phone secretly corrects for real time travel."
+      },
+      {
+        "narration": "Every time you open a map app, you assume it is just a simple satellite ping. But you are actually communicating with literal time travelers orbiting high above Earth.",
+        "search": "glowing satellite orbiting earth dark space photorealistic",
+        "caption": "You are communicating with literal time travelers."
+      },
+      {
+        "narration": "Your phone never actually sends a signal back to space; it is completely silent. It calculates your exact position by decoding precise time-stamped radio signals from at least four different satellites.",
+        "search": "abstract digital network lines connecting earth to satellites",
+        "caption": "Your phone never sends signals; it only listens."
+      },
+      {
+        "narration": "These radio waves travel at the speed of light, meaning time is everything. A timing error of just one-millionth of a second translates to a massive positioning error of three hundred meters on the ground.",
+        "search": "beam of light shooting through dark city grid top down",
+        "caption": "A microsecond error throws you off by 300 meters."
+      },
+      {
+        "narration": "If these clocks drift by even a fraction of a second, global navigation would instantly collapse. This is why the system must fight against a fundamental law of physics that warps reality itself.",
+        "search": "dramatic night traffic highway long exposure speed",
+        "caption": "A tiny drift would cause global navigation to collapse."
+      },
+      {
+        "narration": "Enter Albert Einstein, who proved that time is not constant. Because GPS satellites hurtle through space at fourteen thousand kilometers per hour, Special Relativity dictates their clocks tick slower than ours.",
+        "search": "vintage portrait of albert einstein thinking dark background",
+        "caption": "Einstein proved that fast-moving objects experience time slower."
+      },
+      {
+        "narration": "Due to this extreme orbital speed, the satellites lose exactly seven microseconds every single day relative to your phone. But speed is only half of the cosmic equation tearing time apart.",
+        "search": "digital clock ticking rapidly glowing numbers dark background",
+        "caption": "Satellite clocks lose seven microseconds every single day."
+      },
+      {
+        "narration": "Einstein's second theory, General Relativity, reveals that gravity itself bends the fabric of time. Orbiting twenty thousand kilometers high, the satellites experience much weaker gravity than we do on the surface.",
+        "search": "earth warping the fabric of space time grid 3d animation",
+        "caption": "Gravity bends the very fabric of space and time."
+      },
+      {
+        "narration": "Because gravity is weaker up there, time actually runs faster for the satellites, gaining forty-five microseconds every single day. This creates a violent, invisible tug-of-war between two opposing cosmic forces.",
+        "search": "earth gravity field warping space time grid 3d animation",
+        "caption": "Weaker gravity makes satellite clocks tick faster."
+      },
+      {
+        "narration": "When you subtract the seven microseconds lost to speed from the forty-five gained by weaker gravity, a terrifying discrepancy remains. The satellite clocks run exactly thirty-eight microseconds faster than clocks on Earth every day.",
+        "search": "digital clock glowing numbers ticking fast dark background",
+        "caption": "Satellites gain 38 microseconds every single day."
+      },
+      {
+        "narration": "Thirty-eight microseconds might sound like a negligible blink of an eye. But at the speed of light, even this microscopic drift instantly shatters the delicate math your phone relies on.",
+        "search": "macro shot of computer microchip glowing circuits",
+        "caption": "A microscopic error destroys the entire system."
+      },
+      {
+        "narration": "If left uncorrected for just twenty-four hours, this tiny time slip would compound, throwing off your GPS location by over eleven kilometers. Within days, the entire system would become completely useless.",
+        "search": "aerial view city map glitching dissolving into static",
+        "caption": "Your location would drift by 11 kilometers daily."
+      },
+      {
+        "narration": "Planes would lose their runways, shipping vessels would drift off course, and emergency services would be guided to empty fields. The modern global economy would quietly grind to a halt.",
+        "search": "cargo ship lost in dark stormy ocean fog",
+        "caption": "Global navigation would completely collapse."
+      },
+      {
+        "narration": "To prevent this invisible catastrophe, engineers had to build Einstein's equations of relativity directly into the satellite's computer hardware. They literally programmed the physics of time travel into the silicon before launch.",
+        "search": "satellite assembly cleanroom engineers high tech",
+        "caption": "Einstein's equations are programmed directly into the chips."
+      },
+      {
+        "narration": "Inside each satellite sits an ultra-precise atomic clock powered by vaporized cesium or rubidium. These cosmic metronomes are so precise they lose only one second every one point four million years.",
+        "search": "atomic clock chamber laser physics laboratory dark",
+        "caption": "Atomic clocks lose one second every million years."
+      },
+      {
+        "narration": "Yet, even these perfect atomic clocks must be constantly adjusted to match the warped spacetime of Earth. But how does your tiny, fragile phone decode these relativistic signals without burning through its battery?",
+        "search": "hand holding smartphone glowing screen night city street",
+        "caption": "How does your phone decode these cosmic signals?"
+      },
+      {
+        "narration": "Your phone doesn't actually calculate relativity itself, as doing so would instantly drain your battery and overheat the processor. Instead, the heavy mathematical lifting is done entirely in orbit before the signal ever reaches Earth.",
+        "search": "smartphone overheating glowing processor circuit board macro",
+        "caption": "Your phone doesn't calculate relativity; it would melt the processor."
+      },
+      {
+        "narration": "Before launch, engineers program Einstein's exact field equations directly into the satellite's onboard computer chips. This physically slows down the ticking rate of the atomic clocks to match Earth's time.",
+        "search": "satellite computer chip circuit board clean room close up",
+        "caption": "Einstein's equations are programmed directly into the satellite's hardware."
+      },
+      {
+        "narration": "But even with perfect relativistic corrections, the signal must still survive a chaotic, 20,000-kilometer journey to your pocket. The first major obstacle is Earth's violent ionosphere.",
+        "search": "earth atmosphere ionosphere glowing plasma space view dramatic",
+        "caption": "The signal must survive a chaotic journey through the atmosphere."
+      },
+      {
+        "narration": "Filled with charged particles and solar radiation, this upper layer of the atmosphere acts like a thick lens, bending and slowing down the radio waves. This creates an unpredictable delay of up to tens of nanoseconds.",
+        "search": "solar wind hitting earth magnetic field simulation dramatic",
+        "caption": "Charged particles in the ionosphere warp and delay the signal."
+      },
+      {
+        "narration": "A delay of just thirty nanoseconds shifts your GPS location by nearly ten meters, placing you on the wrong street entirely. Einstein's equations alone cannot predict this shifting, turbulent atmospheric barrier.",
+        "search": "car driving GPS navigation error wrong turn city night",
+        "caption": "A thirty-nanosecond delay puts you on the wrong street entirely."
+      },
+      {
+        "narration": "To defeat this atmospheric chaos, GPS satellites broadcast on two separate radio frequencies at the exact same time. Because different frequencies travel through charged particles at different speeds, they arrive at slightly different moments.",
+        "search": "glowing radio waves pulse traveling through space animation",
+        "caption": "Satellites broadcast dual frequencies to measure the atmospheric delay."
+      },
+      {
+        "narration": "Your phone's internal receiver measures this tiny difference in arrival times to calculate exactly how much the atmosphere delayed the signal. It then subtracts this lag to reveal the true, uncorrupted time.",
+        "search": "smartphone screen showing digital matrix code glowing data",
+        "caption": "Your phone calculates and subtracts the atmospheric delay instantly."
+      },
+      {
+        "narration": "Yet, even after surviving space, relativity, and the atmosphere, the signal faces its most dangerous enemy: the concrete jungle of your city. A single bounce off a skyscraper can trick your phone into thinking you are blocks away.",
+        "search": "futuristic city skyscrapers dramatic dark night aerial view",
+        "caption": "Concrete jungles create deadly signal echoes that ruin accuracy."
+      },
+      {
+        "narration": "Yet, even after surviving the concrete jungle, your phone's survival depends entirely on communicating with 'time travelers' orbiting Earth.",
+        "search": "satellite orbiting planet earth dark space cinematic",
+        "caption": "Communicating with time travelers orbiting Earth"
+      },
+      {
+        "narration": "GPS works through trilateration, where your phone simply listens to precise time-stamped radio signals from at least four satellites.",
+        "search": "radar waves pulsing digital grid dark background",
+        "caption": "Listening to precise radio signals from space"
+      },
+      {
+        "narration": "Because radio waves travel at the speed of light, an error of just one-millionth of a second creates a positioning error of 300 meters.",
+        "search": "speed of light laser beam dark futuristic abstract",
+        "caption": "Tiny timing errors create massive distance mistakes"
+      },
+      {
+        "narration": "This is where Einstein enters: his theory of Special Relativity states that fast-moving objects experience time slower.",
+        "search": "einstein equations glowing chalkboard dark moody physics",
+        "caption": "Special relativity: fast-moving objects slow down time"
+      },
+      {
+        "narration": "Orbiting at 14,000 kilometers per hour, satellite clocks actually lose 7 microseconds every single day.",
+        "search": "satellite moving fast dark orbit starfield",
+        "caption": "Satellites lose 7 microseconds a day from speed"
+      },
+      {
+        "narration": "But Einstein's General Relativity states gravity warps time too, meaning weaker gravity at high altitudes makes clocks tick faster.",
+        "search": "gravitational waves warping spacetime dark abstract 3d",
+        "caption": "Gravity warps time at high altitudes"
+      },
+      {
+        "narration": "At 20,000 kilometers high, this weaker gravity causes satellite clocks to tick faster by 45 microseconds a day.",
+        "search": "high altitude earth view dark void space",
+        "caption": "Weaker gravity makes clocks tick faster by 45 microseconds"
+      },
+      {
+        "narration": "Combining both relativistic effects, GPS satellite clocks drift by a net total of 38 microseconds every single day.",
+        "search": "atomic clock digital readout dark cinematic lighting",
+        "caption": "A net drift of 38 microseconds every single day"
+      },
+      {
+        "narration": "To a human, thirty-eight microseconds is an imperceptible blink of an eye, completely unnoticeable in daily life.",
+        "search": "macro shot human eye blinking dark slow motion",
+        "caption": "Thirty-eight microseconds is completely invisible to human perception."
+      },
+      {
+        "narration": "But to a radio signal traveling at the speed of light, thirty-eight microseconds is a massive physical distance.",
+        "search": "glowing laser beam shooting through dark space",
+        "caption": "At the speed of light, tiny fractions of time become massive distances."
+      },
+      {
+        "narration": "Every single second that passes, the mismatch between Earth time and space time grows wider.",
+        "search": "abstract clock melting or warping in dark space",
+        "caption": "The gap between Earth time and space time grows every second."
+      },
+      {
+        "narration": "Within just twenty-four hours, this tiny daily drift compounds into a positioning error of over eleven kilometers.",
+        "search": "satellite view of city zooming out rapidly to massive scale",
+        "caption": "In one day, the error grows to over eleven kilometers."
+      },
+      {
+        "narration": "Your phone would locate you in the middle of the ocean or on top of a mountain instead of your actual street.",
+        "search": "car driving in heavy fog on empty dark highway",
+        "caption": "Your navigation system would become completely useless."
+      },
+      {
+        "narration": "But the chaos wouldn't stop at lost drivers; global shipping lanes and commercial flights would instantly lose their bearings.",
+        "search": "cargo ship navigating dark stormy ocean aerial view",
+        "caption": "Global shipping and aviation would instantly lose their bearings."
+      },
+      {
+        "narration": "Even our global financial networks, which rely on GPS timestamps to synchronize trillions of dollars in transactions, would collapse.",
+        "search": "glowing digital server room dark blue lights blinking",
+        "caption": "Global financial networks would face immediate collapse."
+      },
+      {
+        "narration": "To prevent this total systemic collapse, physicists had to find a way to rewrite the laws of engineering using Einstein's wildest theories.",
+        "search": "vintage chalkboard filled with complex physics equations dusty room",
+        "caption": "Engineers had to build Einstein's wildest theories directly into machines."
+      },
+      {
+        "narration": "To solve this, scientists had to look at Einstein's theory of Special Relativity, which deals with the physics of high-speed travel. This theory states that the faster an object moves through space, the slower it moves through time.",
+        "search": "albert einstein chalkboard equations dark study",
+        "caption": "Einstein's theory reveals that speed directly alters the flow of time."
+      },
+      {
+        "narration": "GPS satellites are not sitting still; they are screaming through orbit at a staggering fourteen thousand kilometers per hour. At this extreme velocity, the universe begins to warp their perception of time.",
+        "search": "satellite orbiting earth high speed dark space",
+        "caption": "Satellites orbit Earth at fourteen thousand kilometers per hour."
+      },
+      {
+        "narration": "Because they are moving so much faster than we are on the ground, their onboard clocks experience time at a slower rate. This is a physical reality, not a mechanical glitch.",
+        "search": "futuristic clock ticking slow motion neon glow",
+        "caption": "High speed causes the satellite clocks to tick slower."
+      },
+      {
+        "narration": "Due to this high-speed motion alone, the satellite clocks lose about seven microseconds every single day. If left uncorrected, this tiny lag would quickly render the entire navigation system useless.",
+        "search": "digital clock counting down microsecond display glitch",
+        "caption": "Special relativity causes a loss of seven microseconds daily."
+      },
+      {
+        "narration": "But speed is only half of the cosmic puzzle. Einstein’s second, even more mind-bending theory introduces an opposing force that pulls time in the opposite direction.",
+        "search": "cosmic grid bending under heavy sphere gravity deep space",
+        "caption": "A second opposing force pulls time in the opposite direction."
+      },
+      {
+        "narration": "This is General Relativity, which explains that gravity is not just a force, but the actual bending of space and time. The stronger the gravity, the slower time passes.",
+        "search": "earth warping spacetime grid gravity well dramatic",
+        "caption": "Gravity warps the very fabric of space and time."
+      },
+      {
+        "narration": "Because GPS satellites orbit twenty thousand kilometers above the Earth, they experience much weaker gravity than we do on the surface. Up there, the grip of Earth's mass is significantly loosened.",
+        "search": "earth globe from high orbit vast dark space stars",
+        "caption": "At twenty thousand kilometers high, Earth's gravity is weaker."
+      },
+      {
+        "narration": "With less gravity pulling on them, the satellite clocks actually speed up, ticking faster than clocks on the ground. This creates a bizarre cosmic tug-of-war between speed and gravity.",
+        "search": "glowing clock hands spinning fast abstract space background",
+        "caption": "Weaker gravity causes the satellite clocks to run faster."
+      },
+      {
+        "narration": "Special relativity slows the satellite clock down by seven microseconds each day, but general relativity speeds it up by forty-five.",
+        "search": "mathematical physics equations glowing dark background calculation",
+        "caption": "Speed loses seven microseconds; gravity gains forty-five."
+      },
+      {
+        "narration": "When you calculate the net difference, satellite clocks run faster than Earth clocks by precisely thirty-eight microseconds every twenty-four hours.",
+        "search": "glowing digital atomic clock ticking rapid time lapse",
+        "caption": "Satellites run 38 microseconds faster every day."
+      },
+      {
+        "narration": "Thirty-eight microseconds sounds utterly negligible, an invisible blink in human perception.",
+        "search": "human eye macro pupil dilation dark dramatic lighting",
+        "caption": "An invisible sliver of time to human senses."
+      },
+      {
+        "narration": "But because navigation signals travel at the speed of light, that tiny drift compounds into an error of over eleven kilometers every single day.",
+        "search": "satellite laser beam scanning earth surface dark continent",
+        "caption": "38 microseconds equals an 11-kilometer daily error."
+      },
+      {
+        "narration": "In less than an afternoon, autonomous systems would fail, maritime shipping lanes would collapse, and your phone would place you in the wrong city.",
+        "search": "modern cargo ship navigation bridge dark stormy sea radar",
+        "caption": "Global logistics would collapse within hours."
+      },
+      {
+        "narration": "Yet when the Pentagon built the first operational navigation prototype in 1977, skeptical military engineers refused to trust Einstein's equations.",
+        "search": "vintage military command center 1970s mainframe computers dark",
+        "caption": "Military engineers doubted Einstein's physics would matter."
+      },
+      {
+        "narration": "They considered time dilation purely theoretical and insisted on installing an override switch to disable the relativity correction in orbit.",
+        "search": "aerospace technician soldering satellite circuitry cleanroom dramatic lighting",
+        "caption": "Engineers installed a manual kill-switch for relativity."
+      },
+      {
+        "narration": "The satellite launched into the blackness of space with the switch set to ignore relativity, waiting to see who was right.",
+        "search": "rocket launch dark night sky fiery exhaust trajectory",
+        "caption": "The satellite launched with Einstein's math switched off."
+      },
+      {
+        "narration": "In June 1977, the experimental satellite activated its uncorrected atomic clocks, beaming raw, unadjusted timecodes down to monitoring stations.",
+        "search": "vintage military computer terminal glowing green phosphor screen dark bunker",
+        "caption": "In 1977, the uncorrected atomic clock began transmitting from orbit."
+      },
+      {
+        "narration": "Within hours, the telemetry monitors revealed the harsh truth: the orbiting clock was running measurably faster than identical clocks on Earth.",
+        "search": "electronic oscilloscope screen green wave pulse dark laboratory",
+        "caption": "The satellite clock instantly began racing ahead of Earth time."
+      },
+      {
+        "narration": "The gap accumulated at precisely thirty-eight microseconds every single day, matching Einstein's mathematical predictions down to the nanosecond.",
+        "search": "glowing digital timer numbers counting fast dark background macro",
+        "caption": "The time drift matched Einstein's exact calculations down to nanoseconds."
+      },
+      {
+        "narration": "At the speed of light, that invisible sliver of time translated into a catastrophic navigation drift of over eleven kilometers every twenty-four hours.",
+        "search": "red digital radar map grid showing drifting coordinates dark room",
+        "caption": "An uncorrected error would displace targets by 11 kilometers daily."
+      },
+      {
+        "narration": "Facing undeniable physical proof, military engineers conceded defeat and beamed an encrypted command upward to flip the electronic switch.",
+        "search": "deep space communications dish antenna night fog glowing telemetry lights",
+        "caption": "Engineers transmitted an emergency command to engage the relativity switch."
+      },
+      {
+        "narration": "The satellite adjusted its master oscillator frequency down to ten point two two nine megahertz, deliberately running slow so it would match Earth.",
+        "search": "macro shot silicon microchip circuit board glowing blue trace lights",
+        "caption": "Satellites are programmed to run slow so they match Earth time."
+      },
+      {
+        "narration": "The location drift vanished, proving once and for all that space and time were physically pliable fabric rather than fixed constants.",
+        "search": "digital globe wireframe satellite constellation orbiting in deep space",
+        "caption": "Spacetime was proven to bend, permanently validating relativistic physics."
+      },
+      {
+        "narration": "Yet stabilizing the satellite clocks solved only half the crisis, because the chaotic movement of Earth itself was about to warp time even further.",
+        "search": "planet Earth rotating slowly in deep dark space dramatic rim lighting",
+        "caption": "Earth's own rotation was about to introduce a second time warp."
+      },
+      {
+        "narration": "Because Earth spins beneath the satellite constellation, signals traveling eastward travel further than signals traveling westward, creating a relativistic distortion called the Sagnac effect. Navigation chips must calculate this rotational shift in real time to prevent hundred-meter tracking blunders.",
+        "search": "rotating planet earth glowing orbital satellite lasers dark cinematic",
+        "caption": "Earth's rotation distorts radio signals through the relativistic Sagnac effect."
+      },
+      {
+        "narration": "Ground control stations scattered across five continents monitor every satellite drift around the clock, uplinking nano-second adjustments to maintain synchronization with Earth's surface. Without this constant tether, orbital clocks would wander back into temporal chaos.",
+        "search": "deep space network antenna dish night glowing telemetry data",
+        "caption": "Ground stations beam nano-second clock adjustments into orbit continuously."
+      },
+      {
+        "narration": "Inside your pocket, your smartphone processes these fractured transmissions and solves for four variables: latitude, longitude, altitude, and relativistic time itself. Your phone cannot reveal where you stand without calculating when you exist across four dimensions.",
+        "search": "smartphone processor microchip glowing light trails macro 3d",
+        "caption": "Your phone must solve four dimensions: space and warped time."
+      },
+      {
+        "narration": "If GPS receivers ignored Einstein's warped spacetime, automated container ports would freeze, international flight paths would vanish, and global cellular grids would collapse within hours. Modern civilization is anchored to clocks ticking in another temporal frame.",
+        "search": "dark global shipping port cargo ship digital wireframe grid",
+        "caption": "Global infrastructure relies entirely on relativistic orbital timing."
+      },
+      {
+        "narration": "Thirty-one satellites traveling 14,000 kilometers per hour remain humanity's largest operational confirmation of Einstein's genius. Every turn on your daily commute actively harness the cosmic bending of time.",
+        "search": "satellite constellation orbiting glowing blue earth grid space",
+        "caption": "Every satellite is an active proof of Einstein's relativity."
+      },
+      {
+        "narration": "The next time you open a map to find coffee, remember your phone is speaking to literal time travelers falling through curved space. You are holding physical proof in your palm that time is fluid, pliable, and running ahead of you.",
+        "search": "person holding glowing smartphone street navigation dark city cinematic",
+        "caption": "Your phone navigates using time travelers orbiting above Earth."
+      },
+      {
+        "narration": "Your phone corrects for time travel every second. Without it, modern navigation instantly collapses.",
+        "search": "smartphone glowing screen dark city night navigation",
+        "caption": "Your phone corrects for time travel every second."
+      }
+    ],
+    "error": "",
+    "youtube_id": "48Y5Wvs1I_8",
+    "youtube_url": "https://www.youtube.com/watch?v=48Y5Wvs1I_8",
+    "created_at": "2026-09-27T06:53:56.118424+00:00",
+    "updated_at": "2026-09-27T07:12:16.842019+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "70 scenes",
+        "at": "2026-09-27T07:02:34.458458+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4039 chars",
+        "at": "2026-09-27T07:03:06.205079+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "258.3s en-US-ChristopherNeural 37 cau",
+        "at": "2026-09-27T07:03:25.709822+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T07:03:35.211092+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 18 scenes 9039085 bytes",
+        "at": "2026-09-27T07:09:40.292088+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-27T07:09:40.300512+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 258.2s 18220791 bytes",
+        "at": "2026-09-27T07:12:12.532429+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=48Y5Wvs1I_8",
+        "at": "2026-09-27T07:12:15.727516+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T07:12:16.015159+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-27T07:12:16.278138+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T07:12:16.546370+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T07:12:16.803746+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T07:12:16.812971+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T07:12:16.842012+00:00"
+      }
+    }
+  },
+  {
     "id": "fcb537c291",
     "kind": "short",
     "channel": "Channel2",
