@@ -70,7 +70,7 @@ def run_one(kind: str = "short") -> dict:
         duration = config.SHORT_MAX_SEC - 5
         scene_sec = config.SHORT_SCENE_SEC
     else:
-        duration = 420
+        duration = config.LONG_TARGET_SEC
         scene_sec = config.LONG_SCENE_SEC
 
     idea = plan_mod.next_idea(kind)

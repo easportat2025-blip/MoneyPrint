@@ -63,7 +63,7 @@ CHANNEL_NAMES = {
 }
 
 DEFAULT_NICHE = {
-    "1": "space science documentary facts",
+    "1": "explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits",
     "2": "human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations",
     "3": "doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet",
 }
@@ -114,9 +114,21 @@ ENABLE_CAPTIONS = env("ENABLE_CAPTIONS", "1") == "1"
 ENABLE_COMMENT = env("ENABLE_COMMENT", "1") == "1"
 ENABLE_PLAYLIST = env("ENABLE_PLAYLIST", "1") == "1"
 ENABLE_THUMB = env("ENABLE_THUMB", "1") == "1"
-VISUAL_STYLE = env("VISUAL_STYLE", "stock")
+
+# Per-slot visual identity. Explicit env override still wins, but if a
+# workflow forgets VISUAL_STYLE we still render the right look for the channel.
+VISUAL_STYLE_BY_SLOT = {
+    "1": "stickman",
+    "2": "stock",
+    "3": "stickman",
+}
+VISUAL_STYLE = env("VISUAL_STYLE", "")
+if CHANNEL in VISUAL_STYLE_BY_SLOT and not VISUAL_STYLE:
+    VISUAL_STYLE = VISUAL_STYLE_BY_SLOT[CHANNEL]
+VISUAL_STYLE = VISUAL_STYLE or "stock"
 STICKMAN_FPS = int(env("STICKMAN_FPS", "30"))
 STICKMAN_SCENE_SEC = float(env("STICKMAN_SCENE_SEC", "3.0"))
+LONG_TARGET_SEC = int(env("LONG_TARGET_SEC", "420"))
 
 SHORT_FPS = 30
 SHORT_W, SHORT_H = 1080, 1920

@@ -55,8 +55,12 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
-          NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
+          NICHE: ${{ vars.NICHE || 'explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits' }}
           VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
+          VISUAL_STYLE: ${{ vars.VISUAL_STYLE || 'stickman' }}
+          STICKMAN_FPS: ${{ vars.STICKMAN_FPS || '30' }}
+          STICKMAN_SCENE_SEC: ${{ vars.STICKMAN_SCENE_SEC || '14' }}
+          LONG_TARGET_SEC: ${{ vars.LONG_TARGET_SEC || '420' }}
           MAX_DAILY_UPLOADS: ${{ vars.MAX_DAILY_UPLOADS || '6' }}
         run: python main.py long
 
