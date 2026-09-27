@@ -59,6 +59,58 @@ LIFESTYLE_RULES = """EVERYDAY-LIFE MODE (strict):
 SCIENCE_RULES = ""
 
 
+BATCH = 8
+
+
+def _one_batch(client, base: dict, take: int, offset: int, total: int, prev: list) -> list:
+    first = offset == 0
+    last = offset + take >= total
+    if first:
+        role = "Scene 1 = HOOK (core question/claim under 10 words, no greetings). Others = OPEN LOOP."
+    elif last:
+        role = "Keep escalating, then the FINAL scene = PAYOFF (clear resolution, drives replays)."
+    else:
+        role = "Middle scenes = OPEN LOOP then ESCALATE. Never resolve early."
+    ctx = ""
+    if prev:
+        ctx = "Previous scenes ended with:\n" + "\n".join(
+            f"- {s['narration']}" for s in prev[-2:]
+        )
+    prompt = RESEARCH_PROMPT.format(
+        HISTORY_RULES=base["rules"],
+        lang=base["lang"],
+        search_lang=base["search_lang"],
+        title=base["title"],
+        hook=base["hook"],
+        beats=base["beats"],
+        keywords=base["keywords"],
+        niche=base["niche"],
+        duration=base["duration"],
+        n_scenes=take,
+    )
+    prompt += (
+        f"\nThis is part {offset // BATCH + 1}: write scenes {offset + 1} to "
+        f"{offset + take} of {total} total.\n{role}\n{ctx}"
+    )
+    data = client.generate_json(prompt, temperature=0.6)
+    scenes = data.get("scenes", data if isinstance(data, list) else [])
+    clean = []
+    for s in scenes[:take]:
+        if not isinstance(s, dict):
+            continue
+        narration = (s.get("narration") or "").strip()
+        search = (s.get("search") or "").strip()
+        if narration and search:
+            clean.append(
+                {
+                    "narration": narration,
+                    "search": search,
+                    "caption": (s.get("caption") or "").strip(),
+                }
+            )
+    return clean
+
+
 def research(idea: dict, duration: int, scene_sec: int) -> list:
     import math
 
@@ -72,37 +124,31 @@ def research(idea: dict, duration: int, scene_sec: int) -> list:
         if history
         else (LIFESTYLE_RULES if lifestyle else SCIENCE_RULES)
     )
-    prompt = RESEARCH_PROMPT.format(
-        HISTORY_RULES=rules,
-        lang=config.LANG_NAME,
-        search_lang="Vietnamese, no diacritics" if config.LANG == "vi" else "English",
-        title=idea.get("title", ""),
-        hook=idea.get("hook", ""),
-        beats=json_dumps(idea.get("beats", [])),
-        keywords=json_dumps(idea.get("keywords", [])),
-        niche=config.NICHE,
-        duration=duration,
-        n_scenes=n_scenes,
-    )
-    data = client.generate_json(prompt, temperature=0.6)
-    scenes = data.get("scenes", data if isinstance(data, list) else [])
-    clean = []
-    for s in scenes[:n_scenes]:
-        if not isinstance(s, dict):
-            continue
-        narration = (s.get("narration") or "").strip()
-        search = (s.get("search") or "").strip()
-        if narration and search:
-            clean.append(
-                {
-                    "narration": narration,
-                    "search": search,
-                    "caption": (s.get("caption") or "").strip(),
-                }
-            )
-    if not clean:
-        raise RuntimeError("research returned no scenes")
-    return clean
+    base = {
+        "rules": rules,
+        "lang": config.LANG_NAME,
+        "search_lang": "Vietnamese, no diacritics" if config.LANG == "vi" else "English",
+        "title": idea.get("title", ""),
+        "hook": idea.get("hook", ""),
+        "beats": json_dumps(idea.get("beats", [])),
+        "keywords": json_dumps(idea.get("keywords", [])),
+        "niche": config.NICHE,
+        "duration": duration,
+    }
+    out: list = []
+    offset = 0
+    while offset < n_scenes:
+        take = min(BATCH, n_scenes - offset)
+        got = _one_batch(client, base, take, offset, n_scenes, out)
+        if not got:
+            if not out:
+                raise RuntimeError("research returned no scenes")
+            break
+        out.extend(got)
+        offset += len(got)
+        if len(got) < take:
+            break
+    return out
 
 
 def research_long(idea: dict) -> dict:

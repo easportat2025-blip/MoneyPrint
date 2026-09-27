@@ -93,5 +93,44 @@ class GeminiClient:
             text = text[start : end + 1]
         try:
             return json.loads(text)
-        except json.JSONDecodeError as e:
-            raise GeminiError(f"invalid json: {e}: {text[:300]}") from e
+        except json.JSONDecodeError:
+            pass
+        salvaged = _salvage_truncated(text)
+        if salvaged is not None:
+            return salvaged
+        raise GeminiError(f"invalid json: {text[:300]}")
+
+
+def _salvage_truncated(text: str):
+    import json
+
+    closers = []
+    depth = 0
+    in_str = False
+    esc = False
+    for i, ch in enumerate(text):
+        if in_str:
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+        elif ch in "{[":
+            depth += 1
+        elif ch in "}]":
+            depth -= 1
+            if depth == 2 and ch == "}":
+                closers.append(i)
+    for pos in reversed(closers[-6:]):
+        candidate = text[: pos + 1] + "]}"
+        try:
+            data = json.loads(candidate)
+            if isinstance(data, dict) and data.get("scenes"):
+                return data
+        except json.JSONDecodeError:
+            continue
+    return None
