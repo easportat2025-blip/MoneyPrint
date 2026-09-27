@@ -1,5 +1,221 @@
 [
   {
+    "id": "fcb537c291",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Richest Man in Rome's Horrific End",
+    "idea": {
+      "title": "The Richest Man in Rome's Horrific End",
+      "hook": "Marcus Licinius Crassus wanted more wealth than Rome could offer, but his final, greedy campaign ended in a shocking act of betrayal and a golden nightmare.",
+      "beats": [
+        "Crassus was Rome's wealthiest man, but desperately craved military glory to match Caesar and Pompey.",
+        "He launched an unauthorized invasion of the Parthian Empire, only to be lured into a devastating desert trap at Carrhae.",
+        "After his legions were completely crushed, Crassus was captured during a tense, failed negotiation.",
+        "To mock his legendary greed, the Parthians executed him by pouring molten gold down his throat."
+      ],
+      "keywords": [
+        "Marcus Licinius Crassus bust",
+        "ancient Roman legion",
+        "Parthian horse archers",
+        "molten gold pouring",
+        "ancient Rome battle map"
+      ],
+      "tags": [
+        "roman history",
+        "ancient rome",
+        "historical irony",
+        "crassus",
+        "ancient battles"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 53 BC, Marcus Licinius Crassus was the wealthiest man in Rome.",
+        "search": "Marcus Licinius Crassus bust",
+        "caption": "Crassus amassed a fortune that dwarfed all of Rome."
+      },
+      {
+        "narration": "Yet, his immense wealth could not rival the military glory of Caesar and Pompey.",
+        "search": "ancient Roman legion",
+        "caption": "Crassus craved military glory to match his rivals."
+      },
+      {
+        "narration": "Driven by envy, he launched an unauthorized invasion of the Parthian Empire.",
+        "search": "ancient Rome battle map",
+        "caption": "He launched an unprovoked invasion of Parthia."
+      },
+      {
+        "narration": "Crassus marched his legions straight into the unforgiving Mesopotamian desert.",
+        "search": "Parthian horse archers",
+        "caption": "His legions marched into a devastating desert trap."
+      },
+      {
+        "narration": "Near the city of Carrhae, the Roman army was surrounded by Parthian horse archers.",
+        "search": "ancient Roman legion",
+        "caption": "Trapped and battered at the Battle of Carrhae."
+      },
+      {
+        "narration": "Clouds of arrows rained down on the trapped and exhausted Roman legions.",
+        "search": "Parthian horse archers",
+        "caption": "Parthian archers decimated the trapped Romans."
+      },
+      {
+        "narration": "Crassus lost his son Publius in the brutal onslaught.",
+        "search": "ancient Roman legion",
+        "caption": "Crassus lost his son in the brutal onslaught."
+      },
+      {
+        "narration": "With his army decimated, Crassus was forced into a desperate peace negotiation.",
+        "search": "ancient Roman legion",
+        "caption": "A desperate negotiation turned into a fatal trap."
+      },
+      {
+        "narration": "During the parley at Carrhae, fighting broke out and Crassus was captured.",
+        "search": "Marcus Licinius Crassus bust",
+        "caption": "Crassus was captured during the tense talks."
+      },
+      {
+        "narration": "The Parthians held the richest man in Rome captive.",
+        "search": "Marcus Licinius Crassus bust",
+        "caption": "The wealthiest Roman was now a captive."
+      },
+      {
+        "narration": "His captors decided to punish him for a lifetime of relentless greed.",
+        "search": "molten gold pouring",
+        "caption": "Punishment awaited the notoriously greedy Roman."
+      },
+      {
+        "narration": "They prepared a brutal fate fitting for a man obsessed with gold.",
+        "search": "molten gold pouring",
+        "caption": "A terrifying execution was devised for Crassus."
+      },
+      {
+        "narration": "Crassus was pinned down as his enemies mocked his legendary wealth.",
+        "search": "molten gold pouring",
+        "caption": "Mocked for his legendary wealth until the end."
+      },
+      {
+        "narration": "Molten gold was poured directly down his throat.",
+        "search": "molten gold pouring",
+        "caption": "Molten gold was poured down his throat."
+      },
+      {
+        "narration": "This gruesome execution symbolized the literal consumption of his fortune.",
+        "search": "molten gold pouring",
+        "caption": "A horrific end symbolizing his endless greed."
+      },
+      {
+        "narration": "The horrific death shocked the Roman Republic to its core.",
+        "search": "ancient Roman legion",
+        "caption": "Rome was left stunned by the brutal assassination."
+      },
+      {
+        "narration": "Crassus bought everything he ever wanted, but paid with his life.",
+        "search": "Marcus Licinius Crassus bust",
+        "caption": "His insatiable greed ultimately destroyed him."
+      }
+    ],
+    "error": "",
+    "youtube_id": "OT6PI2reK-8",
+    "youtube_url": "https://www.youtube.com/watch?v=OT6PI2reK-8",
+    "created_at": "2026-09-27T06:28:46.353794+00:00",
+    "updated_at": "2026-09-27T06:31:54.999352+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T06:29:51.066887+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "521 chars",
+        "at": "2026-09-27T06:30:48.111154+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.4s en-US-GuyNeural 9 cau",
+        "at": "2026-09-27T06:30:50.840888+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T06:30:51.912660+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-27T06:31:07.071070+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-27T06:31:07.077190+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.4s 11726527 bytes",
+        "at": "2026-09-27T06:31:50.457107+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=OT6PI2reK-8",
+        "at": "2026-09-27T06:31:53.724575+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T06:31:54.368413+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-27T06:31:54.599971+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T06:31:54.786407+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T06:31:54.969230+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T06:31:54.976430+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T06:31:54.999345+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29754964/pexels-photo-29754964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30204962/pexels-photo-30204962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31067413/pexels-photo-31067413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27112676/pexels-photo-27112676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6968386/pexels-photo-6968386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057039/pexels-photo-29057039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049684/pexels-photo-19049684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23510533/pexels-photo-23510533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18525362/pexels-photo-18525362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29442932/pexels-photo-29442932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28224885/pexels-photo-28224885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29442930/pexels-photo-29442930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39485368/pexels-photo-39485368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4905088/pexels-photo-4905088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6968302/pexels-photo-6968302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8579084/pexels-photo-8579084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "728b16783d",
     "kind": "long",
     "channel": "ReZain",
