@@ -1,5 +1,221 @@
 [
   {
+    "id": "c77bf5619c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Worst Diplomatic Mistake in World History",
+    "idea": {
+      "title": "The Worst Diplomatic Mistake in World History",
+      "hook": "In 1218, a proud Persian governor executed Genghis Khan's peace caravan, triggering the complete annihilation of his empire.",
+      "beats": [
+        "Genghis Khan sent 500 camels loaded with gold and silk seeking trade, not war.",
+        "The governor of Otrar seized the convoy and executed the Mongol merchants as spies.",
+        "When Genghis sent ambassadors demanding justice, the Shah shaved their beards and sent their severed heads back.",
+        "Enraged, Genghis mobilized 200,000 warriors, diverted rivers to drown cities, and erased the Khwarazmian Empire forever."
+      ],
+      "keywords": [
+        "Genghis Khan portrait painting",
+        "Mongol cavalry engraving",
+        "Ancient Samarkand city map",
+        "Persian miniature battle",
+        "Mongol empire invasion map"
+      ],
+      "tags": [
+        "GenghisKhan",
+        "MongolEmpire",
+        "HistoryFacts",
+        "AncientHistory",
+        "MilitaryHistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One diplomatic insult erased an empire of twelve million people.",
+        "search": "Genghis Khan portrait painting historical",
+        "caption": "The single deadliest diplomatic mistake in world history."
+      },
+      {
+        "narration": "In 1218, the Khwarazmian Empire controlled the trade corridors of Persia and Central Asia.",
+        "search": "ancient Khwarazmian empire historical map engraving",
+        "caption": "In 1218, Khwarazm dominated Central Asian commerce."
+      },
+      {
+        "narration": "Its ruler, Shah Muhammad the Second, commanded a formidable army and vast imperial cities.",
+        "search": "Shah Muhammad II Khwarazm miniature painting",
+        "caption": "Shah Muhammad II ruled over twelve million subjects."
+      },
+      {
+        "narration": "To the east, Genghis Khan had recently unified the nomadic tribes into a disciplined force.",
+        "search": "Mongol cavalry soldiers medieval manuscript painting",
+        "caption": "Genghis Khan consolidated nomadic power on Khwarazm's border."
+      },
+      {
+        "narration": "Seeking profitable commerce rather than conflict, Genghis dispatched five hundred camels laden with treasure.",
+        "search": "Silk Road camel caravan ancient illustration",
+        "caption": "Genghis sent 500 trade camels carrying gold."
+      },
+      {
+        "narration": "The caravan carried raw gold, fine silk, jade, and a personal message offering peace.",
+        "search": "medieval Persian gold coins artifact museum",
+        "caption": "Mongol envoys offered peaceful trade and open borders."
+      },
+      {
+        "narration": "The convoy arrived at the Khwarazmian border fortress of Otrar.",
+        "search": "ancient Otrar fortress ruins historical engraving",
+        "caption": "The caravan reached the frontier fortress of Otrar."
+      },
+      {
+        "narration": "The governor of Otrar, Inalchuq, suspected the merchants were spies and coveted their immense wealth.",
+        "search": "medieval Persian governor court miniature painting",
+        "caption": "Governor Inalchuq accused the merchants of espionage."
+      },
+      {
+        "narration": "Defying ancient diplomatic customs, Inalchuq executed nearly four hundred merchants and impounded their goods.",
+        "search": "ancient execution medieval manuscript illumination",
+        "caption": "Nearly 400 foreign merchants were executed immediately."
+      },
+      {
+        "narration": "Genghis Khan hesitated to launch total war, first sending three envoys directly to the Shah.",
+        "search": "Genghis Khan seated throne medieval Persian miniature",
+        "caption": "Genghis demanded the Shah surrender Inalchuq for punishment."
+      },
+      {
+        "narration": "Shah Muhammad rejected the demand, shaved the envoys' beards, and beheaded the chief diplomat.",
+        "search": "severed head execution medieval engraving",
+        "caption": "The Shah beheaded the lead Mongol diplomat."
+      },
+      {
+        "narration": "The surviving mutilated envoys returned to Genghis, who climbed a sacred mountain to mourn and vow revenge.",
+        "search": "Burkhan Khaldun sacred mountain landscape painting",
+        "caption": "Genghis prayed for retribution on Mount Burkhan Khaldun."
+      },
+      {
+        "narration": "In 1219, Genghis mobilized over one hundred fifty thousand horsemen in a multi-pronged assault.",
+        "search": "Mongol cavalry army invasion medieval manuscript painting",
+        "caption": "150,000 Mongol warriors marched on Central Asia."
+      },
+      {
+        "narration": "Otrar was besieged and breached, and Inalchuq was captured alive and executed without mercy.",
+        "search": "siege of ancient city medieval miniature painting",
+        "caption": "Otrar fell, sealing Governor Inalchuq's fatal end."
+      },
+      {
+        "narration": "The great Silk Road metropolises of Samarkand, Bukhara, and Urgench were systematically leveled.",
+        "search": "ancient Samarkand city ruins 19th century engraving",
+        "caption": "Centuries of Central Asian civilization were razed."
+      },
+      {
+        "narration": "Shah Muhammad fled in terror across Persia, dying in absolute destitution on an island in the Caspian Sea.",
+        "search": "lonely island Caspian Sea stormy landscape painting",
+        "caption": "Shah Muhammad died in exile on a Caspian island."
+      },
+      {
+        "narration": "A single arrogant decision had triggered the Mongol storm that permanently altered world history.",
+        "search": "Mongol empire conquest expansion map engraving",
+        "caption": "One murdered envoy unleashed the Mongol conquests across Eurasia."
+      }
+    ],
+    "error": "",
+    "youtube_id": "3q60yTb_apA",
+    "youtube_url": "https://www.youtube.com/watch?v=3q60yTb_apA",
+    "created_at": "2026-09-27T00:23:57.876014+00:00",
+    "updated_at": "2026-09-27T00:25:27.641224+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T00:24:29.525464+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "581 chars",
+        "at": "2026-09-27T00:24:35.688569+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "38.0s en-US-GuyNeural 8 cau",
+        "at": "2026-09-27T00:24:39.528816+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T00:24:40.353415+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-27T00:24:52.579600+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-27T00:24:52.582399+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 38.0s 14346450 bytes",
+        "at": "2026-09-27T00:25:24.583804+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=3q60yTb_apA",
+        "at": "2026-09-27T00:25:26.758100+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T00:25:27.020361+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-27T00:25:27.213420+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T00:25:27.422042+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T00:25:27.624926+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T00:25:27.628189+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T00:25:27.641220+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6466766/pexels-photo-6466766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38971089/pexels-photo-38971089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543459/pexels-photo-17543459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736365/pexels-photo-30736365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18651376/pexels-photo-18651376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19750691/pexels-photo-19750691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13043210/pexels-photo-13043210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142319/pexels-photo-19142319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14288651/pexels-photo-14288651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39406503/pexels-photo-39406503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25746323/pexels-photo-25746323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12698067/pexels-photo-12698067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268891/pexels-photo-9268891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39662204/pexels-photo-39662204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39662545/pexels-photo-39662545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20591584/pexels-photo-20591584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30247330/pexels-photo-30247330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "224dd3a661",
     "kind": "short",
     "channel": "ReZain",
