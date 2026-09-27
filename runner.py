@@ -220,9 +220,6 @@ def run_one(kind: str = "short") -> dict:
             len(passed) == len(hook_checks),
             f"{len(passed)}/{len(hook_checks)}: " + ", ".join(passed),
         )
-        state.stage(
-            rec_id, "media", True, f"{n_vid} video clips + {len(items) - n_vid} images"
-        )
 
         state.update(rec_id, status="rendering")
         title_text = idea.get("title", "ReZain")
