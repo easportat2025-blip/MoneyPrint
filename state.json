@@ -1,5 +1,68 @@
 [
   {
+    "id": "728b16783d",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "failed",
+    "title": "Why This Tiny Red Dot Secretly Controls Your Brain",
+    "idea": {
+      "title": "Why This Tiny Red Dot Secretly Controls Your Brain",
+      "hook": "Tech giants secretly designed a specific color to trigger your survival instinct, and it’s slowly draining your focus every day.",
+      "beats": [
+        "The unnoticed phenomenon: how a 10-pixel red circle on your phone screen reliably interrupts deep work and forces you to unlock your device.",
+        "The evolutionary roots of color: why primate trichromatic vision evolved specifically to detect red against green foliage for blood, venom, and ripe food.",
+        "Neuroscience of visual threat: how the amygdala processes high-frequency red wavelengths faster than conscious thought, inducing an involuntary micro-spike of cortisol.",
+        "The early UI experiments: how tech designers tested subtle blue and gray badges before discovering that saturated red (#FF3B30) spiked click-through rates exponentially.",
+        "Operant conditioning in your pocket: how B.F. Skinner's variable ratio schedule turns each red dot into an unpredictable digital slot machine.",
+        "The Zeigarnik Effect: why leaving a notification badge unclicked creates acute cognitive tension by framing the alert as an unresolved survival task.",
+        "The hidden cognitive tax: how checking a two-second red dot incurs up to 23 minutes of attention residue, fragmenting your working memory.",
+        "Dark pattern escalation: why non-essential apps now intentionally use red dots for marketing promotions to hijack your primal alert system.",
+        "The grayscale intervention: the neurobiology of why turning your phone display black-and-white immediately disarms the amygdala and neutralizes screen compulsion.",
+        "Reclaiming your attention: an actionable behavioral protocol to audit app badges, batch notifications, and dismantle the tech industry's psychological trap."
+      ],
+      "keywords": [
+        "notification psychology",
+        "red dot notifications",
+        "dopamine addiction",
+        "smartphone neuroscience",
+        "attention economy",
+        "Zeigarnik effect",
+        "brain hacking",
+        "habit loops",
+        "screen time science",
+        "evolutionary psychology"
+      ],
+      "tags": [
+        "#neuroscience",
+        "#psychology",
+        "#smartphones",
+        "#attentioneconomy",
+        "#focus",
+        "#screentime",
+        "#brainscience",
+        "#habits",
+        "#digitaldetox",
+        "#productivity"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE RED DOT TRAP"
+    },
+    "scenes": [],
+    "error": "invalid json: Expecting ',' delimiter: line 47 column 229 (char 10684): {\"scenes\":[\n  {\"narration\":\"That tiny red dot on your screen isn't just a notification. It's a biological weapon.\",\"search\":\"macro extreme close up of smartphone screen with red notification dot dark moody lighting\",\"caption\":\"That tiny red dot is a biological weapon.\"},\n  {\"narration\":\"Tech giants ",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-27T06:13:28.730173+00:00",
+    "updated_at": "2026-09-27T06:14:40.071683+00:00",
+    "stages": {
+      "error": {
+        "ok": false,
+        "detail": "invalid json: Expecting ',' delimiter: line 47 column 229 (char 10684): {\"scenes\":[\n  {\"narration\":\"That tiny red dot on your screen isn't just a notification. It's a biological weapon.\",\"search\":\"macro extreme close up of smartphone screen with red notification dot dark moody lighting\",\"caption\":\"That tiny red dot is a biological weapon.\"},\n  {\"narration\":\"Tech giants ",
+        "at": "2026-09-27T06:14:40.071675+00:00"
+      }
+    }
+  },
+  {
     "id": "343cdf78b2",
     "kind": "short",
     "channel": "Channel3",
