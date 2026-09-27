@@ -1,4 +1,4 @@
-name: shorts-acc2
+﻿name: shorts-acc2
 
 on:
   schedule:
@@ -67,7 +67,7 @@ jobs:
           NICHE_2: ${{ vars.NICHE_2 || 'human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations' }}
           VOICE_2: ${{ vars.VOICE_2 || 'en-US-GuyNeural' }}
           MEDIA_MODE: stills
-          MAX_DAILY_UPLOADS: "6"
+          MAX_DAILY_UPLOADS: "30"
         run: |
           count="${{ github.event.inputs.count || '1' }}"
           failed=0

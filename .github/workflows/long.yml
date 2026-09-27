@@ -61,7 +61,7 @@ jobs:
           STICKMAN_FPS: ${{ vars.STICKMAN_FPS || '30' }}
           STICKMAN_SCENE_SEC: ${{ vars.STICKMAN_SCENE_SEC || '14' }}
           LONG_TARGET_SEC: ${{ vars.LONG_TARGET_SEC || '420' }}
-          MAX_DAILY_UPLOADS: ${{ vars.MAX_DAILY_UPLOADS || '6' }}
+          MAX_DAILY_UPLOADS: ${{ vars.MAX_DAILY_UPLOADS || '30' }}
         run: python main.py long
 
       - name: Push state to logs branch

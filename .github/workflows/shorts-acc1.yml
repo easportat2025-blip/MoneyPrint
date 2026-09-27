@@ -1,4 +1,4 @@
-name: shorts-acc1
+﻿name: shorts-acc1
 
 # Acc 1 is now a LONG-FORM channel (see long.yml, daily 22:00 VN).
 # Space shorts are retired; this file stays for manual one-off experiments only.
@@ -63,7 +63,7 @@ jobs:
           CHANNEL_1_NAME: ${{ vars.CHANNEL_1_NAME || 'ReZain' }}
           NICHE: ${{ vars.NICHE || 'space science documentary facts' }}
           VOICE: ${{ vars.VOICE || 'en-US-ChristopherNeural' }}
-          MAX_DAILY_UPLOADS: "6"
+          MAX_DAILY_UPLOADS: "30"
         run: |
           count="${{ github.event.inputs.count || '1' }}"
           failed=0

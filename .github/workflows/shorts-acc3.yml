@@ -1,4 +1,4 @@
-name: shorts-acc3
+﻿name: shorts-acc3
 
 on:
   schedule:
@@ -68,7 +68,7 @@ jobs:
           STICKMAN_FPS: "30"
           STICKMAN_SCENE_SEC: "3.0"
           MEDIA_MODE: mixed
-          MAX_DAILY_UPLOADS: "9"
+          MAX_DAILY_UPLOADS: "30"
         run: |
           count="${{ github.event.inputs.count || '1' }}"
           failed=0
