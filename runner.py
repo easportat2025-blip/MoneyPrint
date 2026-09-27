@@ -72,6 +72,8 @@ def run_one(kind: str = "short") -> dict:
     else:
         duration = config.LONG_TARGET_SEC
         scene_sec = config.LONG_SCENE_SEC
+    stickman_mode = config.VISUAL_STYLE == "stickman"
+    research_sec = config.STICKMAN_SCENE_SEC if stickman_mode else scene_sec
 
     idea = plan_mod.next_idea(kind)
     rec = state.create(kind, idea, config.CHANNEL_NAME, config.CHANNEL)
@@ -81,7 +83,7 @@ def run_one(kind: str = "short") -> dict:
 
     try:
         state.update(rec_id, status="researching")
-        scenes = research_mod.research(idea, duration, scene_sec)
+        scenes = research_mod.research(idea, duration, research_sec)
         state.stage(rec_id, "research", True, f"{len(scenes)} scenes")
         state.update(rec_id, scenes=scenes)
 
@@ -134,10 +136,11 @@ def run_one(kind: str = "short") -> dict:
         state.stage(rec_id, "music", True, credit or "voice only")
 
         target = duration if kind == "short" else max(duration, int(audio_dur) + 10)
-        n_scenes = max(len(scenes), int(target / scene_sec) + 1)
+        eff_sec = research_sec if stickman_mode else scene_sec
+        n_scenes = max(len(scenes), int(target / eff_sec) + 1)
         if n_scenes > len(scenes):
             extra = research_mod.research(
-                idea, n_scenes * scene_sec, scene_sec
+                idea, n_scenes * eff_sec, eff_sec
             )
             seen = {s["narration"] for s in scenes}
             for s in extra:
@@ -283,10 +286,14 @@ def run_one(kind: str = "short") -> dict:
         if config.ENABLE_THUMB:
             try:
                 tp = workdir / "render" / "thumb.png"
-                assemble_mod.build_short_thumb(final, idea.get("title", ""), tp)
+                if kind == "long":
+                    assemble_mod.build_thumb(final, idea.get("title", ""), tp)
+                else:
+                    assemble_mod.build_short_thumb(final, idea.get("title", ""), tp)
                 ok = upload_mod.set_thumbnail(vid, tp)
                 state.stage(rec_id, "thumbnail", ok, f"{tp.stat().st_size} bytes")
             except Exception as e:
+                print(f"[thumbnail] FULL ERROR: {e}", flush=True)
                 state.stage(rec_id, "thumbnail", False, str(e)[:200])
 
         if config.ENABLE_COMMENT:

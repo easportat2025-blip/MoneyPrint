@@ -458,38 +458,51 @@ def mux_xfade(
     raise err
 
 
+def _thumb_variants(txt: Path, size: int, w: int, h: int, frac: str, border: int) -> list:
+    base_no_font = (
+        f"drawtext=textfile='{txt.as_posix()}':fontsize={size}:"
+        f"fontcolor=white:borderw={border}:bordercolor=black@0.85:"
+        f"x=(w-text_w)/2:y={frac}:line_spacing=10"
+    )
+    return [
+        base_no_font.replace("drawtext=", f"drawtext=fontfile={FONT}:", 1),
+        base_no_font.replace("drawtext=", "drawtext=font='DejaVu Sans':", 1),
+        None,
+    ]
+
+
 def build_thumb(video: Path, title: str, out: Path) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     info = probe(video)
     ss = max((info["duration"] or 10) * 0.3, 1.0)
     txt = out.parent / "thumb.txt"
     txt.write_text(wrap_title(title, width=18, lines=3), encoding="utf-8")
-    base = (
+    pre = (
         "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,"
         "drawbox=x=0:y=ih*0.5:w=iw:h=ih*0.5:color=black@0.6:t=fill,"
-        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:fontsize=72:"
-        "fontcolor=white:borderw=2:bordercolor=black@0.8:"
-        "x=(w-text_w)/2:y=h*0.58:line_spacing=10"
     )
-    cmd = [
-        "ffmpeg",
-        "-y",
-        "-ss",
-        f"{ss:.1f}",
-        "-i",
-        str(video),
-        "-frames:v",
-        "1",
-        "-vf",
-        base,
-        str(out),
-    ]
-    try:
-        _run(cmd, timeout=120)
-    except RuntimeError:
-        cmd[cmd.index("-vf") + 1] = base.replace(f"fontfile={FONT}:", "")
-        _run(cmd, timeout=120)
-    return out
+    errs = []
+    for i, dt in enumerate(_thumb_variants(txt, 72, 1280, 720, "h*0.58", 2)):
+        vf = pre + dt if dt else pre.rstrip(",")
+        cmd = [
+            "ffmpeg",
+            "-y",
+            "-ss",
+            f"{ss:.1f}",
+            "-i",
+            str(video),
+            "-frames:v",
+            "1",
+            "-vf",
+            vf,
+            str(out),
+        ]
+        try:
+            _run(cmd, timeout=120)
+            return out
+        except RuntimeError as e:
+            errs.append(f"try{i}:{str(e)[-200:]}")
+    raise RuntimeError("thumbnail all variants failed: " + " | ".join(errs))
 
 
 def build_short_thumb(video: Path, title: str, out: Path) -> Path:
@@ -498,32 +511,32 @@ def build_short_thumb(video: Path, title: str, out: Path) -> Path:
     ss = min(max((info["duration"] or 10) * 0.25, 0.5), 6.0)
     txt = out.parent / "sthumb.txt"
     txt.write_text(wrap_title(title, width=13, lines=4), encoding="utf-8")
-    base = (
+    pre = (
         "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
         "drawbox=x=0:y=ih*0.42:w=iw:h=ih*0.42:color=black@0.55:t=fill,"
-        f"drawtext=textfile='{txt.as_posix()}':fontfile={FONT}:fontsize=104:"
-        "fontcolor=white:borderw=3:bordercolor=black@0.85:"
-        "x=(w-text_w)/2:y=ih*0.48:line_spacing=12"
     )
-    cmd = [
-        "ffmpeg",
-        "-y",
-        "-ss",
-        f"{ss:.1f}",
-        "-i",
-        str(video),
-        "-frames:v",
-        "1",
-        "-vf",
-        base,
-        str(out),
-    ]
-    try:
-        _run(cmd, timeout=120)
-    except RuntimeError:
-        cmd[cmd.index("-vf") + 1] = base.replace(f"fontfile={FONT}:", "")
-        _run(cmd, timeout=120)
-    return out
+    errs = []
+    for i, dt in enumerate(_thumb_variants(txt, 104, 1080, 1920, "ih*0.48", 3)):
+        vf = pre + dt if dt else pre.rstrip(",")
+        cmd = [
+            "ffmpeg",
+            "-y",
+            "-ss",
+            f"{ss:.1f}",
+            "-i",
+            str(video),
+            "-frames:v",
+            "1",
+            "-vf",
+            vf,
+            str(out),
+        ]
+        try:
+            _run(cmd, timeout=120)
+            return out
+        except RuntimeError as e:
+            errs.append(f"try{i}:{str(e)[-200:]}")
+    raise RuntimeError("short thumbnail all variants failed: " + " | ".join(errs))
 
 
 def verify_short(path: Path) -> dict:

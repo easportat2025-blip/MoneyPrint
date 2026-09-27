@@ -68,20 +68,23 @@ def cmd_delete(args):
         sys.exit(1)
 
 
-def cmd_sync(_args):
+def _git_bytes(args: list, timeout: int = 180) -> tuple[int, str, str]:
     import subprocess
 
-    subprocess.run(["git", "fetch", "origin", "logs"], capture_output=True)
-    proc = subprocess.run(
-        ["git", "show", "origin/logs:state.json"],
-        capture_output=True,
-        text=True,
-    )
-    if proc.returncode != 0 or not proc.stdout.strip():
+    proc = subprocess.run(args, capture_output=True, timeout=timeout)
+    out = (proc.stdout or b"").decode("utf-8", errors="replace")
+    err = (proc.stderr or b"").decode("utf-8", errors="replace")
+    return proc.returncode, out, err
+
+
+def cmd_sync(_args):
+    _git_bytes(["git", "fetch", "origin", "logs"])
+    rc, out, _ = _git_bytes(["git", "show", "origin/logs:state.json"])
+    if rc != 0 or not out.strip():
         print("no logs branch state yet", file=sys.stderr)
         sys.exit(1)
-    (config.ROOT / "state_from_logs.json").write_text(proc.stdout, encoding="utf-8")
-    print(f"synced {len(proc.stdout)} chars from logs branch")
+    (config.ROOT / "state_from_logs.json").write_text(out, encoding="utf-8")
+    print(f"synced {len(out)} chars from logs branch")
 
 
 def cmd_bank_build(args):

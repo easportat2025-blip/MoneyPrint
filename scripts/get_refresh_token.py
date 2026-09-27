@@ -12,6 +12,7 @@ REDIRECT = f"http://127.0.0.1:{REDIRECT_PORT}"
 SCOPES = (
     "https://www.googleapis.com/auth/youtube.upload"
     " https://www.googleapis.com/auth/youtube.readonly"
+    " https://www.googleapis.com/auth/youtube.force-ssl"
 )
 ROOT = Path(__file__).resolve().parents[1]
 

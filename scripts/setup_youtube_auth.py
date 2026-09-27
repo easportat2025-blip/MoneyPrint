@@ -13,6 +13,7 @@ REDIRECT = f"http://127.0.0.1:{REDIRECT_PORT}"
 SCOPES = (
     "https://www.googleapis.com/auth/youtube.upload"
     " https://www.googleapis.com/auth/youtube.readonly"
+    " https://www.googleapis.com/auth/youtube.force-ssl"
 )
 
 CID_RE = re.compile(r"^\d+-[a-z0-9\-]+\.apps\.googleusercontent\.com$", re.I)

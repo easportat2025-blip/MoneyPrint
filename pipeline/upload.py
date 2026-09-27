@@ -168,9 +168,6 @@ def upload_captions(
     return r.json().get("id", "")
 
 
-THUMB_URL = "https://www.googleapis.com/upload/youtube/v3/thumbnails/set"
-
-
 def set_thumbnail(video_id: str, png_path: Path) -> bool:
     if not _budget(COST["thumb"]):
         return False
