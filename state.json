@@ -1,5 +1,454 @@
 [
   {
+    "id": "d4bf6764b7",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "failed",
+    "title": "The Uncomfortable Truth About Your Phone's 'Night Shift'",
+    "idea": {
+      "title": "The Uncomfortable Truth About Your Phone's 'Night Shift'",
+      "hook": "You secretly wasted your money on those blue-light blocking glasses, and your phone’s 'night mode' actually does almost nothing for your sleep.",
+      "beats": [
+        "The Billion-Dollar Myth: How we were convinced that turning our screens orange is the magic cure for insomnia and eye strain.",
+        "The Biology of Sleep: How ipRGC receptors in your eyes detect light and tell your brain's master clock to suppress melatonin.",
+        "Why Blue Light Got Blamed: The scientific origin of the blue light panic, focusing on early studies of high-intensity blue wavelengths.",
+        "The Brightness Bombshell: Why research from Harvard and other institutions reveals that screen brightness (lux) matters just as much as color temperature.",
+        "The Spectrum Illusion: How 'Night Shift' software merely tints the screen but fails to eliminate the sleep-disrupting light intensity.",
+        "The Dopamine Trap: Why the psychological stimulation of interactive scrolling keeps your brain in a state of high alert, regardless of screen color.",
+        "The False Sense of Security: How the soothing yellow tint tricks us into staying awake and scrolling even longer than we normally would.",
+        "The Blue-Light Glasses Scam: What clinical trials and systematic reviews actually say about the effectiveness of blue-light blocking lenses.",
+        "The Proximity Factor: Why holding a bright, interactive screen inches from your face is vastly different from watching a distant television.",
+        "The Science-Backed Solution: Practical, evidence-based habits to actually protect your sleep cycle without relying on software quick-fixes."
+      ],
+      "keywords": [
+        "blue light",
+        "night shift",
+        "sleep science",
+        "melatonin",
+        "circadian rhythm",
+        "blue light glasses",
+        "smartphone habits",
+        "insomnia",
+        "neuroscience",
+        "screen time"
+      ],
+      "tags": [
+        "sleep",
+        "science",
+        "health",
+        "technology",
+        "biology",
+        "productivity",
+        "wellness",
+        "night mode",
+        "habits",
+        "education"
+      ],
+      "kind": "long",
+      "thumbnail_text": "The Night Mode Lie"
+    },
+    "scenes": [
+      {
+        "narration": "Your phone's orange night mode is doing absolutely nothing to help you sleep.",
+        "search": "person face illuminated by blue smartphone screen in dark room close up",
+        "caption": "Night mode is not saving your sleep."
+      },
+      {
+        "narration": "We have been sold a massive lie about how screens affect our brains.",
+        "search": "glowing smartphone factory production line dark",
+        "caption": "A multi-billion dollar marketing myth"
+      },
+      {
+        "narration": "Companies convinced us that a simple color shift could cure modern insomnia.",
+        "search": "person tossing and turning in bed dark room dramatic",
+        "caption": "The promise of an easy insomnia cure"
+      },
+      {
+        "narration": "Millions of people now sleep with a false sense of digital safety.",
+        "search": "glowing orange phone screen close up fingers scrolling",
+        "caption": "We bought into a false sense of safety"
+      },
+      {
+        "narration": "The market for blue-light blocking products has exploded into a billion-dollar industry.",
+        "search": "stack of money bills glowing under blue light",
+        "caption": "A booming industry built on fear"
+      },
+      {
+        "narration": "Software developers quickly added amber tints to every operating system.",
+        "search": "computer screen shifting from blue to orange tint",
+        "caption": "Every device got an orange filter"
+      },
+      {
+        "narration": "But the underlying science behind these features is deeply flawed.",
+        "search": "scientific formula whiteboard illuminated by neon light",
+        "caption": "The flawed science behind the filter"
+      },
+      {
+        "narration": "To understand why, we have to look inside the human eye itself.",
+        "search": "macro extreme close up of human eye iris contracting",
+        "caption": "How your eyes actually process light"
+      },
+      {
+        "narration": "Deep inside your retina lies a specialized group of cells called ipRGCs.",
+        "search": "3d render of neural pathway glowing cells",
+        "caption": "The hidden light detectors in your eyes"
+      },
+      {
+        "narration": "These cells do not help you see shapes; they only detect ambient light.",
+        "search": "abstract glowing particles floating in darkness",
+        "caption": "Cells that only measure brightness"
+      },
+      {
+        "narration": "They act as the direct link to your brain's master clock, the suprachiasmatic nucleus.",
+        "search": "human brain model glowing central core animation",
+        "caption": "The master clock of the human brain"
+      },
+      {
+        "narration": "When these receptors detect light, they signal your brain to stop producing melatonin.",
+        "search": "microscopic view of chemical molecules floating",
+        "caption": "Melatonin production is instantly shut down"
+      },
+      {
+        "narration": "Melatonin is the hormone responsible for signaling your body that it is time to rest.",
+        "search": "person sleeping peacefully in dark room moonlight",
+        "caption": "The hormone that controls your sleep"
+      },
+      {
+        "narration": "Even a tiny fraction of light can disrupt this delicate chemical cascade.",
+        "search": "single drop of water falling into dark liquid ripple",
+        "caption": "A fragile biochemical balance"
+      },
+      {
+        "narration": "But the type of light that triggers this system isn't what you think.",
+        "search": "prism splitting white light into spectrum dark background",
+        "caption": "The truth about light wavelengths"
+      },
+      {
+        "narration": "Early laboratory studies found that blue light wavelengths suppress melatonin most aggressively.",
+        "search": "scientist in dark lab looking at blue laser beam",
+        "caption": "Why blue light was singled out"
+      },
+      {
+        "narration": "Researchers exposed subjects to extreme levels of pure blue light in controlled environments.",
+        "search": "person sitting in front of massive glowing blue panel",
+        "caption": "Extreme laboratory light exposure"
+      },
+      {
+        "narration": "The results showed a massive drop in sleep hormone levels.",
+        "search": "medical monitor showing declining graph line red",
+        "caption": "A dramatic drop in sleep hormones"
+      },
+      {
+        "narration": "Media outlets quickly weaponized these findings to create a public panic.",
+        "search": "glitchy television screens displaying static in dark",
+        "caption": "The birth of the blue light panic"
+      },
+      {
+        "narration": "Suddenly, the blue light from your phone was labeled a toxic sleep destroyer.",
+        "search": "smartphone screen glowing intensely in dark bedroom",
+        "caption": "Your phone became the ultimate villain"
+      },
+      {
+        "narration": "Tech companies rushed to create a software-based solution to this newly discovered threat.",
+        "search": "hands typing rapidly on keyboard in dark room",
+        "caption": "The rush for a quick software fix"
+      },
+      {
+        "narration": "But these early studies ignored one massive variable: real-world brightness.",
+        "search": "bright light bulb shining in pitch black room",
+        "caption": "The missing variable in the research"
+      },
+      {
+        "narration": "Recent research from institutions like Harvard has revealed a shocking truth.",
+        "search": "prestigious brick university building at night dramatic",
+        "caption": "Harvard researchers uncover a new truth"
+      },
+      {
+        "narration": "The total amount of light entering your eye matters far more than its color.",
+        "search": "macro shot of camera lens aperture opening wide",
+        "caption": "Total light volume is the real enemy"
+      },
+      {
+        "narration": "This light volume is measured in lux, which represents perceived brightness.",
+        "search": "digital light meter displaying numbers glowing",
+        "caption": "Measuring light intensity in lux"
+      },
+      {
+        "narration": "A high-lux orange screen disrupts sleep just as much as a low-lux blue screen.",
+        "search": "split screen orange glow vs blue glow dark room",
+        "caption": "Orange light can still ruin sleep"
+      },
+      {
+        "narration": "Your eye's receptors are highly sensitive to overall intensity, regardless of wavelength.",
+        "search": "abstract animation of light waves hitting a surface",
+        "caption": "Your eyes detect total energy"
+      },
+      {
+        "narration": "Turning your screen orange while keeping it bright does not protect your brain.",
+        "search": "person holding bright orange glowing phone close up",
+        "caption": "Color changes do not stop the light"
+      },
+      {
+        "narration": "You are still blasting your eyes with enough photons to mimic daytime.",
+        "search": "bright sun shining through dark forest trees",
+        "caption": "Tricking your brain into thinking it's day"
+      },
+      {
+        "narration": "Software like 'Night Shift' only shifts the color temperature of your display.",
+        "search": "color palette shifting from cool to warm tones",
+        "caption": "How night shift software actually works"
+      },
+      {
+        "narration": "It does not eliminate blue light; it merely reduces its proportion relative to red.",
+        "search": "scientific spectrum analyzer graph moving",
+        "caption": "Blue light is still being emitted"
+      },
+      {
+        "narration": "The screen still emits a significant amount of high-energy visible light.",
+        "search": "close up of smartphone pixels glowing red green blue",
+        "caption": "The pixels are still shining bright"
+      },
+      {
+        "narration": "To truly block the sleep-disrupting spectrum, your screen would have to be completely black.",
+        "search": "smartphone screen turning completely off dark room",
+        "caption": "Only a dead screen blocks the light"
+      },
+      {
+        "narration": "The warm amber glow is nothing more than a digital optical illusion.",
+        "search": "abstract warm light bokeh swirling in darkness",
+        "caption": "A comforting but useless color illusion"
+      },
+      {
+        "narration": "It makes the screen feel more comfortable, but comfort does not equal biological safety.",
+        "search": "person smiling while looking at phone in bed",
+        "caption": "Comfort does not equal safety"
+      },
+      {
+        "narration": "In fact, this comfortable feeling creates a dangerous psychological trap.",
+        "search": "mousetrap in dark room illuminated by single light",
+        "caption": "The trap of comfortable screen time"
+      },
+      {
+        "narration": "The physical light from your screen is only half of the problem.",
+        "search": "brain scan mri showing glowing active areas",
+        "caption": "Light is only half the battle"
+      },
+      {
+        "narration": "The content you are consuming actively forces your brain to stay awake.",
+        "search": "finger scrolling rapidly through social media feed",
+        "caption": "The endless scroll keeps you alert"
+      },
+      {
+        "narration": "Every swipe, like, and notification triggers a micro-dose of dopamine.",
+        "search": "abstract colorful liquid splashing in dark space",
+        "caption": "Dopamine floods your neural pathways"
+      },
+      {
+        "narration": "Dopamine is a neurotransmitter that promotes alertness and search behavior.",
+        "search": "person wide awake staring at ceiling in dark",
+        "caption": "Dopamine forces your brain to search"
+      },
+      {
+        "narration": "Your brain cannot transition into sleep mode while actively processing new information.",
+        "search": "complex machinery gears turning rapidly dark background",
+        "caption": "An active brain cannot fall asleep"
+      },
+      {
+        "narration": "It doesn't matter if you scroll through an orange filter or a blue one.",
+        "search": "phone screen reflecting orange light on face",
+        "caption": "The color of the app changes nothing"
+      },
+      {
+        "narration": "The cognitive stimulation keeps your nervous system in a state of high fight-or-flight alert.",
+        "search": "heart rate monitor line spiking on dark screen",
+        "caption": "Your nervous system remains highly active"
+      },
+      {
+        "narration": "Because the orange screen looks cozy, we feel safe using our phones longer.",
+        "search": "person wrapped in blanket holding phone in dark",
+        "caption": "The illusion of a cozy screen"
+      },
+      {
+        "narration": "This false security actually increases our total nightly screen time.",
+        "search": "digital clock changing from midnight to 3am fast",
+        "caption": "Scrolling much longer than we should"
+      },
+      {
+        "narration": "We justify staying awake because we think our eyes are protected.",
+        "search": "person looking guilty staring at glowing phone",
+        "caption": "Justifying our bad sleep habits"
+      },
+      {
+        "narration": "In reality, we are compounding the damage to our circadian rhythm.",
+        "search": "hourglass sand running out in dark room dramatic",
+        "caption": "Stealing precious hours of deep sleep"
+      },
+      {
+        "narration": "The orange tint acts as a psychological license to ignore sleep hygiene.",
+        "search": "messy bedroom with glowing devices everywhere dark",
+        "caption": "Ignoring basic sleep hygiene rules"
+      },
+      {
+        "narration": "You are trading real physiological rest for a marketing gimmick.",
+        "search": "neon sign glowing with word illusion flickering",
+        "caption": "Trading real rest for a gimmick"
+      },
+      {
+        "narration": "And this gimmick extends far beyond your phone's software settings.",
+        "search": "racks of glasses on display in modern store",
+        "caption": "The scam goes beyond software"
+      },
+      {
+        "narration": "Millions of people have bought blue-light blocking glasses to save their eyes.",
+        "search": "person putting on stylish glasses close up dramatic",
+        "caption": "The rise of blue-light glasses"
+      },
+      {
+        "narration": "But major systematic reviews have analyzed dozens of clinical trials on these lenses.",
+        "search": "stack of medical research papers under magnifying glass",
+        "caption": "What clinical trials actually reveal"
+      },
+      {
+        "narration": "The consensus among ophthalmologists is clear: they do almost nothing.",
+        "search": "doctor in dark office shaking head slowly",
+        "caption": "Ophthalmologists agree they are useless"
+      },
+      {
+        "narration": "Most commercial glasses only block about ten to fifteen percent of blue light anyway.",
+        "search": "light passing through glass lens showing minimal change",
+        "caption": "They only block a tiny fraction"
+      },
+      {
+        "narration": "To block enough light to matter, the lenses would have to be solid orange.",
+        "search": "person wearing bright industrial orange safety goggles",
+        "caption": "Real blocking requires solid orange lenses"
+      },
+      {
+        "narration": "The clear lenses sold in stores are largely a marketing fashion statement.",
+        "search": "fashion model wearing glasses looking at camera",
+        "caption": "A fashion statement, not a remedy"
+      },
+      {
+        "narration": "You are paying a premium for a placebo effect that fails under scientific scrutiny.",
+        "search": "empty medicine bottle with pills spilled on dark table",
+        "caption": "Paying for a high-tech placebo"
+      },
+      {
+        "narration": "Another critical factor we ignore is physical distance.",
+        "search": "person holding phone extremely close to eyes dark",
+        "caption": "The danger of extreme proximity"
+      },
+      {
+        "narration": "Holding a bright screen inches from your face concentrates the light energy.",
+        "search": "flashlight shining directly into camera lens close up",
+        "caption": "Concentrating light directly into your eyes"
+      },
+      {
+        "narration": "This is vastly different from watching a television across the room.",
+        "search": "living room with television glowing in distance dark",
+        "caption": "Distance dramatically reduces light intensity"
+      },
+      {
+        "narration": "The inverse-square law of physics dictates how light intensity drops over distance.",
+        "search": "physics diagram showing light waves spreading out",
+        "caption": "The inverse-square law of light"
+      },
+      {
+        "narration": "By holding the phone close, you maximize the photon impact on your retinas.",
+        "search": "macro shot of eye pupil dilating in dark",
+        "caption": "Maximizing the impact on your retinas"
+      },
+      {
+        "narration": "No software filter can overcome the raw physics of close-range light.",
+        "search": "glowing smartphone screen reflecting in human eye",
+        "caption": "Physics defeats software every time"
+      },
+      {
+        "narration": "You are effectively staring into a miniature sun right before bed.",
+        "search": "bright sun setting over dark horizon cinematic",
+        "caption": "Staring into a miniature sun"
+      },
+      {
+        "narration": "So, how do we actually protect our sleep in a digital world?",
+        "search": "person sitting in peaceful dark room looking out window",
+        "caption": "How to actually protect your sleep"
+      },
+      {
+        "narration": "The only scientifically proven method is to eliminate screen brightness entirely.",
+        "search": "hand placing smartphone face down on wooden table",
+        "caption": "Put the phone completely away"
+      },
+      {
+        "narration": "Establish a digital curfew at least sixty minutes before you close your eyes.",
+        "search": "vintage wall clock ticking slowly in dark room",
+        "caption": "A strict sixty-minute digital curfew"
+      },
+      {
+        "narration": "If you must use a device, lower the physical brightness to its absolute minimum.",
+        "search": "finger sliding down brightness slider on phone screen",
+        "caption": "Drop the physical brightness to zero"
+      },
+      {
+        "narration": "Replace scrolling with low-stimulation activities like reading a physical book.",
+        "search": "hand turning page of book under warm lamp",
+        "caption": "Switch to low-stimulation habits"
+      },
+      {
+        "narration": "Stop relying on orange screens and cheap glasses; true sleep requires real darkness.",
+        "search": "person sleeping deeply in completely dark peaceful bedroom",
+        "caption": "True sleep requires real darkness"
+      },
+      {
+        "narration": "Every night, millions of us flip on 'Night Shift' believing we've shielded our brains from insomnia.",
+        "search": "finger tapping phone screen night shift toggle orange",
+        "caption": "The nightly ritual of millions."
+      }
+    ],
+    "error": "cannot access local variable 'n_vid' where it is not associated with a value",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-27T05:56:59.329497+00:00",
+    "updated_at": "2026-09-27T06:02:11.793814+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "70 scenes",
+        "at": "2026-09-27T05:58:17.561247+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3496 chars",
+        "at": "2026-09-27T05:58:31.603390+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "222.1s en-US-ChristopherNeural 35 cau",
+        "at": "2026-09-27T05:58:50.691862+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T05:58:58.812489+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 15 scenes 8025172 bytes",
+        "at": "2026-09-27T06:02:11.772360+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-27T06:02:11.779833+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "cannot access local variable 'n_vid' where it is not associated with a value",
+        "at": "2026-09-27T06:02:11.793803+00:00"
+      }
+    }
+  },
+  {
     "id": "aa294af5da",
     "kind": "short",
     "channel": "Channel3",
