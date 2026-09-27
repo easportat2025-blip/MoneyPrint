@@ -1,5 +1,221 @@
 [
   {
+    "id": "52bf110ec8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman Emperor Who Became a Living Footstool",
+    "idea": {
+      "title": "The Roman Emperor Who Became a Living Footstool",
+      "hook": "When Emperor Valerian rode out to crush the Persian Empire in 260 AD, he never imagined he would spend his final years on his hands and knees as a foreign king's mounting block.",
+      "beats": [
+        "Valerian led 70,000 legionaries against Persian King Shapur I, but disease and tactical disaster ended in Valerian's capture.",
+        "Shapur refused all ransom, subjecting the supreme ruler of Rome to the ultimate humiliation: using Valerian's back to mount his warhorse.",
+        "Ancient chroniclers recorded that after Valerian died in captivity, Shapur ordered him flayed, dyed red, and mounted on a temple wall.",
+        "He remains the only Roman emperor ever taken alive by an enemy, forever breaking Rome's myth of absolute invincibility."
+      ],
+      "keywords": [
+        "Emperor Valerian portrait bust",
+        "King Shapur I rock relief Naqsh-e Rostam",
+        "Roman legion battle engraving",
+        "Roman Empire vs Sasanian map",
+        "ancient Persian court painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#romanempire",
+        "#ancientpersia",
+        "#historyshorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did Rome's supreme ruler become a human footstool?",
+        "search": "Emperor Valerian portrait bust sculpture",
+        "caption": "Rome's supreme ruler became a human footstool."
+      },
+      {
+        "narration": "In 260 AD, the absolute invincibility of the Roman Empire was permanently shattered by a single catastrophic defeat.",
+        "search": "Roman Empire vs Sasanian map historical engraving",
+        "caption": "In 260 AD, Rome's invincibility was shattered."
+      },
+      {
+        "narration": "This disaster shook the ancient world, proving that even a divine Caesar could be enslaved.",
+        "search": "roman legion battle engraving",
+        "caption": "A disaster that shook the ancient world."
+      },
+      {
+        "narration": "The conflict centered on the eastern frontier, where the Roman Empire clashed with the rising Sasanian Persian Empire.",
+        "search": "ancient Roman ruins middle east desert oil painting",
+        "caption": "The brutal clash on Rome's eastern frontier."
+      },
+      {
+        "narration": "Emperor Valerian, ruling alongside his son Gallienus, resolved to personally crush the Persian threat.",
+        "search": "Emperor Valerian Roman coin close up profile",
+        "caption": "Emperor Valerian resolved to crush the Persian threat."
+      },
+      {
+        "narration": "He gathered a massive force of seventy thousand Roman legionaries, marching directly into Mesopotamia.",
+        "search": "roman army marching engraving",
+        "caption": "Seventy thousand legionaries marched into Mesopotamia."
+      },
+      {
+        "narration": "Their opponent was King Shapur the First, a brilliant military tactician who ruled the Sasanian Empire.",
+        "search": "King Shapur I rock relief Naqsh-e Rostam",
+        "caption": "Sasanian King Shapur the First awaited them."
+      },
+      {
+        "narration": "But before the armies even clashed, a devastating plague swept through the Roman camps, weakening Valerian's forces.",
+        "search": "ancient plague sick soldiers engraving",
+        "caption": "A devastating plague weakened the Roman forces."
+      },
+      {
+        "narration": "Trapped near Edessa with a dying army, Valerian attempted to negotiate peace terms with the Persian king.",
+        "search": "ancient city of Edessa ruins oil painting",
+        "caption": "Valerian attempted to negotiate peace terms."
+      },
+      {
+        "narration": "Instead, Shapur seized the emperor during a truce meeting, taking him prisoner alongside his top generals.",
+        "search": "ancient Persian court painting capturing enemy",
+        "caption": "Shapur seized the Roman emperor during a truce."
+      },
+      {
+        "narration": "Rome offered massive gold ransoms to secure his release, but Shapur rejected every proposal.",
+        "search": "roman gold coins treasure chest oil painting",
+        "caption": "Rome offered massive gold ransoms for his release."
+      },
+      {
+        "narration": "Instead of ransom, Shapur subjected the supreme ruler of Rome to the ultimate daily humiliation.",
+        "search": "ancient Persian palace throne room illustration",
+        "caption": "Valerian was subjected to ultimate daily humiliation."
+      },
+      {
+        "narration": "Whenever the Persian king wished to mount his warhorse, Valerian was forced onto his hands and knees to serve as a footstool.",
+        "search": "king mounting horse slave back engraving",
+        "caption": "Valerian served as a human mounting block."
+      },
+      {
+        "narration": "For years, the captured emperor lived in chains, a living symbol of Rome's complete submission.",
+        "search": "roman prisoner in chains engraving",
+        "caption": "The emperor lived in chains for years."
+      },
+      {
+        "narration": "Ancient chroniclers record that after Valerian died in captivity, Shapur ordered his body to be flayed.",
+        "search": "ancient temple interior dark oil painting",
+        "caption": "After his death, Valerian's body was flayed."
+      },
+      {
+        "narration": "His skin was dyed bright red, stuffed with straw, and mounted on a Persian temple wall as a permanent trophy.",
+        "search": "ancient Persian temple ruins dramatic oil painting",
+        "caption": "His dyed skin was displayed as a trophy."
+      },
+      {
+        "narration": "Valerian remains the only Roman emperor ever captured alive, leaving an eternal scar on the myth of Rome.",
+        "search": "King Shapur I rock relief Naqsh-e Rostam detail",
+        "caption": "The only Roman emperor ever captured alive."
+      }
+    ],
+    "error": "",
+    "youtube_id": "mK-YxI3Npkk",
+    "youtube_url": "https://www.youtube.com/watch?v=mK-YxI3Npkk",
+    "created_at": "2026-09-27T00:45:46.565836+00:00",
+    "updated_at": "2026-09-27T00:48:27.145658+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-27T00:47:03.408092+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "543 chars",
+        "at": "2026-09-27T00:47:14.075162+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.4s en-US-GuyNeural 8 cau",
+        "at": "2026-09-27T00:47:16.380688+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-27T00:47:17.836481+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-27T00:47:28.889979+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-27T00:47:28.895040+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.4s 14097344 bytes",
+        "at": "2026-09-27T00:48:24.377869+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=mK-YxI3Npkk",
+        "at": "2026-09-27T00:48:26.410590+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "caption init failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n       ",
+        "at": "2026-09-27T00:48:26.556004+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "ffmpeg failed: ['ffmpeg', '-y', '-ss', '6.0', '-i']\nndHandler\n      vendor_id       : [0][0][0][0]\nStream mapping:\n  Stream #0:0 -> #0:0 (h264 (native) -> png (native))\nPress [q] to stop, [?] for help",
+        "at": "2026-09-27T00:48:26.852103+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"dom",
+        "at": "2026-09-27T00:48:26.987605+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlist failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Request had insufficient authentication scopes.\",\n    \"errors\": [\n      {\n        \"message\": \"Insufficient Permission\",\n        \"do",
+        "at": "2026-09-27T00:48:27.119705+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-27T00:48:27.125692+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-27T00:48:27.145651+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20838779/pexels-photo-20838779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39654369/pexels-photo-39654369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405771/pexels-photo-37405771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4084506/pexels-photo-4084506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11289756/pexels-photo-11289756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35764797/pexels-photo-35764797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34620134/pexels-photo-34620134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18746476/pexels-photo-18746476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8247979/pexels-photo-8247979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080480/pexels-photo-7080480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30491872/pexels-photo-30491872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36246805/pexels-photo-36246805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26792226/pexels-photo-26792226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20702212/pexels-photo-20702212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31085562/pexels-photo-31085562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081432/pexels-photo-20081432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c77bf5619c",
     "kind": "short",
     "channel": "Channel2",
