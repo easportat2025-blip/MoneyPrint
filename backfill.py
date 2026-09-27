@@ -12,7 +12,7 @@ def targets() -> dict:
     return {
         "1": int(os.environ.get("TARGET_ACC1", "1")),
         "2": int(os.environ.get("TARGET_ACC2", "8")),
-        "3": int(os.environ.get("TARGET_ACC3", "3")),
+        "3": int(os.environ.get("TARGET_ACC3", "5")),
     }
 
 

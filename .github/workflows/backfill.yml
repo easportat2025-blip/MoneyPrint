@@ -84,7 +84,7 @@ jobs:
           VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
           TARGET_ACC1: ${{ vars.TARGET_ACC1 || '1' }}
           TARGET_ACC2: ${{ vars.TARGET_ACC2 || '8' }}
-          TARGET_ACC3: ${{ vars.TARGET_ACC3 || '3' }}
+          TARGET_ACC3: ${{ vars.TARGET_ACC3 || '5' }}
           TARGET_LONG_ACC1: ${{ vars.TARGET_LONG_ACC1 || '1' }}
           NICHE: ${{ vars.NICHE || 'explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits' }}
           MAX_DAILY_UPLOADS: "40"

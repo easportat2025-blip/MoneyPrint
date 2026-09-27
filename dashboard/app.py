@@ -91,7 +91,9 @@ CRONS = [
     {"job": "Acc2 Short #5", "utc": "03:30", "ch": "seigh", "wf": "shorts-acc2.yml"},
     {"job": "Acc3 Short #1 (VN)", "utc": "00:30", "ch": "rescey", "wf": "shorts-acc3.yml"},
     {"job": "Acc3 Short #2 (VN)", "utc": "05:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
-    {"job": "Acc3 Short #3 (VN)", "utc": "13:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #3 (VN)", "utc": "08:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #4 (VN)", "utc": "13:00", "ch": "rescey", "wf": "shorts-acc3.yml"},
+    {"job": "Acc3 Short #5 (VN)", "utc": "15:30", "ch": "rescey", "wf": "shorts-acc3.yml"},
 ]
 
 SHORTS_TARGET = 3
