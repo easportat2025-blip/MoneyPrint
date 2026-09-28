@@ -1,5 +1,211 @@
 [
   {
+    "id": "a88fb772f0",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Bật điều hòa 25°C thực sự đang làm gì cơ thể bạn?",
+    "idea": {
+      "title": "Bật điều hòa 25°C thực sự đang làm gì cơ thể bạn?",
+      "hook": "Bạn nghĩ 25 độ C là mức nhiệt hoàn hảo để ngủ? Cơ thể bạn lại đang ngầm gào thét vì một lý do bất ngờ.",
+      "beats": [
+        "Giải thích lý do nhiệt độ 25°C đánh lừa bộ não về trạng thái an toàn ban ngày.",
+        "Cơ thể phải liên tục tốn năng lượng để điều hòa thân nhiệt thay vì phục hồi sâu.",
+        "Sự thật khoa học về việc giấc ngủ sâu bị bẻ vụn mà bạn không hề hay biết.",
+        "Giải pháp điều chỉnh nhiệt độ chuẩn sinh học để sáng mai tỉnh dậy không mệt mỏi."
+      ],
+      "keywords": [
+        "astronaut sleep",
+        "dark space earth",
+        "cosmic background",
+        "night Earth lights",
+        "satellite orbit"
+      ],
+      "tags": [
+        "giacngu",
+        "suckhoe",
+        "dieuhua",
+        "meohay",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật điều hòa 25 độ C đang phá hủy giấc ngủ.",
+        "search": "trai dat ban dem tu vu tru",
+        "caption": "25°C có thực sự là mức nhiệt lý tưởng khi ngủ?"
+      },
+      {
+        "narration": "Hầu hết mọi người đều tin 25 độ C là con số hoàn hảo nhất cho phòng ngủ.",
+        "search": "thanh pho ve dem nhin tu ve tinh",
+        "caption": "Con số 25°C mà hàng triệu người tin dùng mỗi đêm."
+      },
+      {
+        "narration": "Thế nhưng cơ thể bạn lại đang phát đi những tín hiệu cảnh báo ngầm.",
+        "search": "mo hinh nao bo phat sang trong bong toi",
+        "caption": "Bộ não nhận diện tín hiệu hoàn toàn ngược lại."
+      },
+      {
+        "narration": "Về mặt sinh học, 25 độ C mô phỏng môi trường ban ngày đầy ánh sáng.",
+        "search": "be mat hanh tinh toi va anh sang le loi",
+        "caption": "25°C là mức nhiệt sinh học của ban ngày."
+      },
+      {
+        "narration": "Để bước vào trạng thái phục hồi sâu, thân nhiệt bắt buộc phải hạ xuống.",
+        "search": "phi hanh gia ngu say trong khoang tau toi",
+        "caption": "Cơ thể cần hạ thân nhiệt để bắt đầu ngủ sâu."
+      },
+      {
+        "narration": "Ở mức 25 độ kèm chăn dày, nhiệt lượng bị nhốt lại không thể thoát ra.",
+        "search": "anh quet nhiet co the phat sang do ruc",
+        "caption": "Nhiệt độ cơ thể bị mắc kẹt không thể tự làm mát."
+      },
+      {
+        "narration": "Trái tim và mạch máu buộc phải liên tục làm việc để giải tỏa nhiệt thừa.",
+        "search": "duong song nhip tim phat sang trong bong toi",
+        "caption": "Cơ thể phải tăng ca suốt đêm thay vì nghỉ ngơi."
+      },
+      {
+        "narration": "Điều này âm thầm bẻ vụn toàn bộ chu kỳ ngủ sâu quý giá nhất.",
+        "search": "ve tinh bay qua trai dat nua toi",
+        "caption": "Giấc ngủ sâu bị phân mảnh mà bạn không hề hay biết."
+      },
+      {
+        "narration": "Bộ não không nhận được tín hiệu hạ nhiệt tuyệt đối để chuyển sang chế độ sửa chữa tế bào.",
+        "search": "astronaut sleep",
+        "caption": "Bộ não không nhận được tín hiệu hạ nhiệt để sửa chữa"
+      },
+      {
+        "narration": "Thay vì bước vào giấc ngủ REM phục hồi năng lượng, bạn cứ trôi dạt ở trạng thái nửa tỉnh nửa mê.",
+        "search": "dark space earth",
+        "caption": "Trôi dạt ở trạng thái nửa tỉnh nửa mê suốt đêm"
+      },
+      {
+        "narration": "Hệ miễn dịch mất đi cơ hội vàng để sản xuất kháng thể quan trọng trong môi trường này.",
+        "search": "cosmic background",
+        "caption": "Hệ miễn dịch bỏ lỡ cơ hội vàng sản xuất kháng thể"
+      },
+      {
+        "narration": "Đó là lý do dù ngủ đủ 8 tiếng, bạn vẫn thấy ê ẩm và kiệt quệ khi chuông reo.",
+        "search": "night Earth lights",
+        "caption": "Ngủ đủ 8 tiếng nhưng vẫn kiệt quệ khi tỉnh dậy"
+      },
+      {
+        "narration": "Khoa học chứng minh, nhiệt độ phòng lý tưởng cho giấc ngủ phải thấp hơn bạn tưởng.",
+        "search": "satellite orbit",
+        "caption": "Nhiệt độ phòng lý tưởng thực ra thấp hơn bạn tưởng"
+      },
+      {
+        "narration": "Hãy thử tăng lên 27 độ kết hợp quạt gió nhẹ, hoặc hạ dần 26 độ vào nửa đêm.",
+        "search": "astronaut sleep",
+        "caption": "Thử tăng 27 độ kết hợp quạt gió nhẹ"
+      },
+      {
+        "narration": "Cơ thể bạn sẽ lập tức biết ơn vì cuối cùng cũng được chìm vào giấc ngủ sâu thực sự.",
+        "search": "dark space earth",
+        "caption": "Cơ thể chìm vào giấc ngủ sâu thực sự"
+      },
+      {
+        "narration": "Thay đổi nhỏ này chính là chìa khóa để sáng mai tỉnh dậy với 100% năng lượng.",
+        "search": "cosmic background",
+        "caption": "Chìa khóa thức dậy với 100% năng lượng mỗi sáng"
+      },
+      {
+        "narration": "Hạ điều hòa xuống khoảng 20 đến 22 độ C ngay đêm nay, cơ thể bạn sẽ thức dậy với trạng thái hồi sinh trọn vẹn nhất. Đừng để mức 25 độ C tiếp tục đánh cắp giấc ngủ sâu của bạn thêm một lần nào nữa.",
+        "search": "trai dat ban dem nhin tu quy dao khong gian toi anh sang lap lanh",
+        "caption": "Đặt 20-22 độ C để lấy lại giấc ngủ sâu trọn vẹn mỗi đêm."
+      }
+    ],
+    "error": "",
+    "youtube_id": "5srmnEvytKI",
+    "youtube_url": "https://www.youtube.com/watch?v=5srmnEvytKI",
+    "created_at": "2026-09-28T21:20:26.933263+00:00",
+    "updated_at": "2026-09-28T21:24:45.064311+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-28T21:21:52.960249+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "720 chars (cat 111 de vua 55s)",
+        "at": "2026-09-28T21:22:56.879215+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "48.1s vi-VN-NamMinhNeural 10 cau",
+        "at": "2026-09-28T21:23:05.842667+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-28T21:23:07.845348+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-28T21:23:27.143397+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-09-28T21:23:27.159334+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 48.1s 18993291 bytes",
+        "at": "2026-09-28T21:24:40.821349+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=5srmnEvytKI",
+        "at": "2026-09-28T21:24:43.581081+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-28T21:24:43.967697+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The thumbnail can't be set for the specified video. The request might not be properly authorized.\",\n    \"errors\": [\n      {\n      ",
+        "at": "2026-09-28T21:24:45.001797+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-28T21:24:45.015860+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-28T21:24:45.064295+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/12330934/12330934-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/19332991/19332991-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/4536416/4536416-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6874844/6874844-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107026/13687890_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34387688/14567470_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38381787/16299907_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30452860/13050969_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8077583/8077583-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/20360283/20360283-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39105222/16638004_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36644498/15535636_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/39660819/16907012_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8474632/8474632-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32873862/14011445_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/20349634/20349634-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/29383266/12657191_720_1280_60fps.mp4"
+    ]
+  },
+  {
     "id": "af5fe113de",
     "kind": "long",
     "channel": "ReZain",
