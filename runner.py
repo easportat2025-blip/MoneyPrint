@@ -12,6 +12,19 @@ from pipeline import upload as upload_mod
 from pipeline import cleanup as cleanup_mod
 
 
+def pick_keyframes(n: int, k: int) -> set:
+    """Hook (0) + payoff (n-1) + evenly spaced middles, max k keyframes."""
+    if n <= 0:
+        return set()
+    k = max(2, min(k, n))
+    if k == 2:
+        return {0, n - 1}
+    mids = set()
+    for j in range(1, k - 1):
+        mids.add(round(j * (n - 1) / (k - 1)))
+    return {0, n - 1} | mids
+
+
 def _check_quota() -> bool:
     return state.uploads_today() < config.MAX_DAILY_UPLOADS
 
@@ -162,6 +175,8 @@ def run_one(kind: str = "short") -> dict:
                 list(scenes) + [scenes[-1]] * (n - len(scenes))
             )
             seconds = max(cap_total / len(use), 1.0)
+            n_keys = 5 if kind == "short" else 8
+            keyframes = pick_keyframes(len(use), n_keys)
             stickman.render(
                 use,
                 base,
@@ -170,13 +185,15 @@ def run_one(kind: str = "short") -> dict:
                 fps=config.STICKMAN_FPS,
                 seconds_per_scene=seconds,
                 watermark=f"@{config.CHANNEL_NAME}",
+                keyframes=keyframes,
             )
             items = [(base, True, "", "")]
             state.stage(
                 rec_id,
                 "media",
                 True,
-                f"stickman {len(use)} scenes {base.stat().st_size} bytes",
+                f"stickman {len(use)} scenes / {len(keyframes)} keyframes "
+                f"{base.stat().st_size} bytes",
             )
         else:
             skip = state.used_media_urls()

@@ -407,8 +407,13 @@ def render(
     fps: int = 30,
     seconds_per_scene: float = 3.0,
     watermark: str = "",
+    keyframes: set | None = None,
 ) -> Path:
     scenes = list(scenes) or [{"narration": "", "caption": ""}]
+    if keyframes is None:
+        keys = set(range(len(scenes)))
+    else:
+        keys = set(keyframes) | {0, len(scenes) - 1}
     out_path.parent.mkdir(parents=True, exist_ok=True)
     lw = max(3, int(w * 0.0068))
     rnd = random.Random(7)
@@ -423,40 +428,54 @@ def render(
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
     rnd2 = random.Random(11)
     layouts = []
+    last_fx, last_side = 0.5, 1
     for si in range(len(scenes)):
-        reveal = (si % 3 == 2)
-        layouts.append(
-            {
-                "fx": rnd2.choice([0.38, 0.42, 0.5, 0.58, 0.62]),
-                "side": 1 if si % 2 == 0 else -1,
-                "pz": rnd2.uniform(1.12, 1.24) if reveal else 1.0,
-            }
-        )
+        if si in keys:
+            reveal = (si % 3 == 2)
+            last_fx = rnd2.choice([0.38, 0.42, 0.5, 0.58, 0.62])
+            last_side = 1 if si % 2 == 0 else -1
+            layouts.append(
+                {
+                    "fx": last_fx,
+                    "side": last_side,
+                    "pz": rnd2.uniform(1.12, 1.24) if reveal else 1.0,
+                    "key": True,
+                }
+            )
+        else:
+            layouts.append({"fx": last_fx, "side": last_side, "pz": 1.0, "key": False})
     try:
         for i in range(frame_count):
             t = i / fps
             si = min(int(t / seconds_per_scene), len(scenes) - 1)
             sc = scenes[si]
             st = t - si * seconds_per_scene
-            prop, pose_name = _pick_prop(
-                (sc.get("caption") or "") + " " + (sc.get("narration") or "")
-            )
             lay = layouts[si]
             side = lay["side"]
-            seq = [POSES["idle"], POSES[pose_name], POSES["idle"]]
-            if st < seconds_per_scene * 0.4:
-                a, b, local = seq[0], seq[1], st / (seconds_per_scene * 0.4)
-            elif st < seconds_per_scene * 0.8:
-                a, b, local = (
-                    seq[1],
-                    seq[2],
-                    (st - seconds_per_scene * 0.4) / (seconds_per_scene * 0.4),
+            if lay["key"]:
+                prop, pose_name = _pick_prop(
+                    (sc.get("caption") or "") + " " + (sc.get("narration") or "")
                 )
+                seq = [POSES["idle"], POSES[pose_name], POSES["idle"]]
+                if st < seconds_per_scene * 0.4:
+                    a, b, local = seq[0], seq[1], st / (seconds_per_scene * 0.4)
+                elif st < seconds_per_scene * 0.8:
+                    a, b, local = (
+                        seq[1],
+                        seq[2],
+                        (st - seconds_per_scene * 0.4) / (seconds_per_scene * 0.4),
+                    )
+                else:
+                    a, b, local = seq[2], seq[0], (st - seconds_per_scene * 0.8) / (seconds_per_scene * 0.2)
+                e = 0.5 - 0.5 * math.cos(math.pi * max(0.0, min(1.0, local)))
+                pose = _lerp_pose(a, b, e)
+                bob_amp = 0.0035
             else:
-                a, b, local = seq[2], seq[0], (st - seconds_per_scene * 0.8) / (seconds_per_scene * 0.2)
-            e = 0.5 - 0.5 * math.cos(math.pi * max(0.0, min(1.0, local)))
-            pose = _lerp_pose(a, b, e)
-            bob = math.sin(t * 2.2) * 0.0035
+                prop, pose_name = None, "idle"
+                e = 0.0
+                pose = dict(POSES["idle"])
+                bob_amp = 0.0012
+            bob = math.sin(t * 2.2) * bob_amp
             pose = {k: (v[0], v[1] + bob) for k, v in pose.items()}
             zoom_in = 1.0 + (lay["pz"] - 1.0) * e
             pose = _transform(pose, lay["fx"], 0.52, zoom_in)
@@ -469,11 +488,12 @@ def render(
                 fill=(205, 200, 190),
                 width=max(2, lw // 2),
             )
-            _draw_panel(d, w, h, lw, rnd, zoom_in, side)
-            _draw_prop(
-                d, prop, w, h, lw, rnd, side,
-                cx=w * pcx, cy=h * pcy, pz=zoom_in,
-            )
+            if lay["key"]:
+                _draw_panel(d, w, h, lw, rnd, zoom_in, side)
+                _draw_prop(
+                    d, prop, w, h, lw, rnd, side,
+                    cx=w * pcx, cy=h * pcy, pz=zoom_in,
+                )
             _draw_figure(d, pose, w, h, lw, rnd)
             _draw_watermark(d, watermark, w, h, lw)
             proc.stdin.write(img.tobytes())
