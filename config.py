@@ -120,7 +120,7 @@ ENABLE_THUMB = env("ENABLE_THUMB", "1") == "1"
 VISUAL_STYLE_BY_SLOT = {
     "1": "stickman",
     "2": "stock",
-    "3": "stickman",
+    "3": "stock",
 }
 VISUAL_STYLE = env("VISUAL_STYLE", "")
 if CHANNEL in VISUAL_STYLE_BY_SLOT and not VISUAL_STYLE:
