@@ -67,7 +67,6 @@ jobs:
           NICHE_3: ${{ vars.NICHE_3 || 'doi song tieng Viet giai thich bang hoat hinh - co the, giac ngu, an uong, tien, thoi quen, thoi tiet, meo dung dien thoai va may tinh, nhung dieu binh thuong ngay ma it nguoi biet' }}
           VOICE_3: ${{ vars.VOICE_3 || 'vi-VN-NamMinhNeural' }}
           MEDIA_MODE: mixed
-          MEDIA_MODE: mixed
           MAX_DAILY_UPLOADS: "30"
         run: |
           count="${{ github.event.inputs.count || '1' }}"
