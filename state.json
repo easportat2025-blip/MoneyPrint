@@ -1,5 +1,211 @@
 [
   {
+    "id": "96d2facabb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Traitor Who Conquered Ancient Greece",
+    "idea": {
+      "title": "The Traitor Who Conquered Ancient Greece",
+      "hook": "Alcibiades betrayed Athens to Sparta, then betrayed Sparta to Persia, leaving every empire he touched in ruins.",
+      "beats": [
+        "Accused of defacing sacred statues in Athens, brilliant general Alcibiades escaped before trial and defected straight to Sparta.",
+        "He revealed Athens' secret military plans, helping Sparta secure catastrophic victories against his own homeland.",
+        "After impregnating the Spartan king's wife, he fled to Persia, advising Persian satraps to bleed both Greek cities dry.",
+        "Astonishingly, a desperate Athens begged him back to lead their navy once again before exile finally sealed his violent end."
+      ],
+      "keywords": [
+        "Alcibiades marble bust portrait",
+        "ancient Athens acropolis engraving",
+        "Spartan hoplite phalanx painting",
+        "Peloponnesian war antique map",
+        "ancient Persian court illustration"
+      ],
+      "tags": [
+        "history",
+        "ancientgreece",
+        "sparta",
+        "athens",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One man betrayed every ancient empire and survived.",
+        "search": "Alcibiades marble bust statue portrait",
+        "caption": "One man betrayed every ancient Greek superpower."
+      },
+      {
+        "narration": "In 415 BC, Athenian general Alcibiades launched the invasion of Sicily, promising total Mediterranean dominion.",
+        "search": "ancient Athens acropolis fleet trireme oil painting",
+        "caption": "415 BC: Athens launches the massive Sicilian expedition."
+      },
+      {
+        "narration": "On the eve of sailing, Athens awoke to find sacred statues of Hermes systematically desecrated across the city.",
+        "search": "ancient greek hermes marble statue bust museum",
+        "caption": "Sacred herms across Athens were mutilated in one night."
+      },
+      {
+        "narration": "Accused of sacrilege and facing execution, Alcibiades slipped past his Athenian guards mid-voyage and vanished.",
+        "search": "ancient greek galley ship stormy sea oil painting",
+        "caption": "Facing execution for impiety, Alcibiades escaped into the night."
+      },
+      {
+        "narration": "Rather than go into hiding, he sailed directly into the camp of Athens' mortal enemy: Sparta.",
+        "search": "Spartan hoplite phalanx battle painting",
+        "caption": "He defected directly to Sparta, Athens' deadliest rival."
+      },
+      {
+        "narration": "Alcibiades handed Spartan commanders the exact blueprints to fortify Decelea and encircle Athenian forces in Sicily.",
+        "search": "Peloponnesian war ancient greece antique map engraving",
+        "caption": "He handed Sparta the exact plans to crush Athens."
+      },
+      {
+        "narration": "Over ten thousand Athenian soldiers were slaughtered or worked to death in Sicilian quarries because of his counsel.",
+        "search": "latomia stone quarry syracuse sicily antique engraving",
+        "caption": "Ten thousand Athenians perished in the quarries of Syracuse."
+      },
+      {
+        "narration": "Yet while Sparta celebrated victory, King Agis II discovered Alcibiades had secretly seduced and impregnated Queen Timaea.",
+        "search": "ancient spartan king royal court classical oil painting",
+        "caption": "Sparta's king ordered his assassination after royal treason."
+      },
+      {
+        "narration": "In 412 BC, fleeing Spartan assassins, Alcibiades crossed the Aegean to seek refuge with the Persian satrap Tissaphernes.",
+        "search": "Tissaphernes Persian satrap silver coin",
+        "caption": "Alcibiades fled to Persia to escape Spartan death squads."
+      },
+      {
+        "narration": "He convinced the Persians to fund both Athens and Sparta just enough to keep them fighting, slowly bleeding Greece to death.",
+        "search": "Peloponnesian war antique map",
+        "caption": "He orchestrated a strategy to exhaust both Greek superpowers."
+      },
+      {
+        "narration": "Next, Alcibiades contacted Athenian generals at Samos, promising Persian financial aid if Athens overthrew its democratic government.",
+        "search": "ancient Athens acropolis engraving",
+        "caption": "He offered Persian gold in exchange for political control."
+      },
+      {
+        "narration": "His plotting triggered the Athenian coup of 411 BC, replacing the democracy with a brutal oligarchy known as the Four Hundred.",
+        "search": "ancient Greek senate conflict oil painting",
+        "caption": "His schemes triggered a violent coup inside Athens."
+      },
+      {
+        "narration": "Despite his previous betrayals, the desperate Athenian fleet at Samos recalled Alcibiades and appointed him supreme commander.",
+        "search": "Alcibiades marble bust portrait",
+        "caption": "A desperate Athens begged their greatest traitor to return."
+      },
+      {
+        "narration": "From 411 to 408 BC, Alcibiades delivered stunning naval victories at Abydos and Cyzicus, crippling the Spartan navy.",
+        "search": "ancient Greek trireme naval battle oil painting",
+        "caption": "He won brilliant victories for the city he once betrayed."
+      },
+      {
+        "narration": "In 407 BC, Alcibiades entered Athens in absolute triumph, his crimes pardoned as citizens cheered their returning savior.",
+        "search": "ancient Greek crowd triumph engraving",
+        "caption": "Athens welcomed him back with golden crowns."
+      },
+      {
+        "narration": "But the triumph was short-lived; after his lieutenant lost the Battle of Notium in 406 BC, suspicious Athenians stripped Alcibiades of command.",
+        "search": "ancient Greek ruins dramatic oil painting",
+        "caption": "One minor defeat turned Athens against him once more."
+      },
+      {
+        "narration": "In 404 BC, Persian assassins set fire to Alcibiades's refuge in Phrygia, shooting him down as he fled and ending the chaotic life of Greece's most ruinous traitor.",
+        "search": "death of alcibiades oil painting",
+        "caption": "In 404 BC, assassins executed the ancient world's ultimate traitor."
+      }
+    ],
+    "error": "",
+    "youtube_id": "hudXYUU0Pa0",
+    "youtube_url": "https://www.youtube.com/watch?v=hudXYUU0Pa0",
+    "created_at": "2026-09-28T01:00:11.633862+00:00",
+    "updated_at": "2026-09-28T01:05:52.037589+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-28T01:03:35.404741+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "424 chars",
+        "at": "2026-09-28T01:05:03.786111+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.8s en-US-GuyNeural 5 cau",
+        "at": "2026-09-28T01:05:06.185740+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-28T01:05:06.839940+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-28T01:05:20.659932+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-28T01:05:20.665820+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.8s 11597490 bytes",
+        "at": "2026-09-28T01:05:46.529722+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=hudXYUU0Pa0",
+        "at": "2026-09-28T01:05:50.185744+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-28T01:05:50.507628+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-28T01:05:52.010437+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-28T01:05:52.016993+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-28T01:05:52.037585+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13778880/pexels-photo-13778880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32138553/pexels-photo-32138553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16770095/pexels-photo-16770095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32491778/pexels-photo-32491778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1581711/pexels-photo-1581711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27853847/pexels-photo-27853847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19593236/pexels-photo-19593236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20644995/pexels-photo-20644995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7707130/pexels-photo-7707130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627842/pexels-photo-8627842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15670565/pexels-photo-15670565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36496698/pexels-photo-36496698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726194/pexels-photo-23726194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6932157/pexels-photo-6932157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991513/pexels-photo-18991513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11314109/pexels-photo-11314109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1589282/pexels-photo-1589282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "92998731af",
     "kind": "short",
     "channel": "Channel2",
