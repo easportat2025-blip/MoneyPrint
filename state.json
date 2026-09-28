@@ -1,5 +1,192 @@
 [
   {
+    "id": "440ed30d4c",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm sạc pin 100% ai cũng mắc phải mỗi ngày",
+    "idea": {
+      "title": "Sai lầm sạc pin 100% ai cũng mắc phải mỗi ngày",
+      "hook": "Bạn luôn cố sạc điện thoại chạm mốc 100%? Thực ra, bạn đang âm thầm làm viên pin của mình lão hóa nhanh gấp đôi.",
+      "beats": [
+        "Pin Lithium-ion chịu áp lực căng thẳng cực lớn khi bị ép nạp đầy từ mức 80% lên 100%.",
+        "Mỗi lần đầy 100% và giữ cắm sạc qua đêm, điện áp cao sẽ tạo nhiệt độ ngầm ăn mòn cấu trúc bên trong pin.",
+        "Mức lý tưởng nhất để pin bền bỉ gấp 3 lần thực ra chỉ nằm trong khoảng từ 20% đến 80%.",
+        "Các hãng công nghệ đều biết điều này, đó là lý do tính năng giới hạn sạc 80% dần xuất hiện trên điện thoại hiện đại."
+      ],
+      "keywords": [
+        "smartphone charging battery",
+        "lithium ion battery close up",
+        "charging phone overnight",
+        "phone battery percentage",
+        "modern smartphone screen"
+      ],
+      "tags": [
+        "#channel3",
+        "#congnghe",
+        "#meodienthoai",
+        "#meocongnghe",
+        "#sacpin"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn luôn cố sạc điện thoại chạm mốc 100%?",
+        "search": "smartphone charging battery",
+        "caption": "Sạc điện thoại luôn đầy 100%?"
+      },
+      {
+        "narration": "Thực ra, bạn đang âm thầm làm viên pin của mình lão hóa nhanh gấp đôi.",
+        "search": "lithium ion battery close up",
+        "caption": "Bạn đang tự tay phá hỏng pin điện thoại"
+      },
+      {
+        "narration": "Pin Lithium-ion chịu áp lực căng thẳng cực lớn khi bị ép nạp đầy từ mức 80% lên 100%.",
+        "search": "phone battery percentage",
+        "caption": "Đoạn từ 80% đến 100% là cực hình cho pin"
+      },
+      {
+        "narration": "Mỗi lần đầy 100% và giữ cắm sạc qua đêm, điện áp cao sẽ tạo nhiệt độ ngầm ăn mòn cấu trúc bên trong pin.",
+        "search": "charging phone overnight",
+        "caption": "Cắm sạc qua đêm sinh nhiệt ngầm phá hủy pin"
+      },
+      {
+        "narration": "Đó là lý do tại sao dung lượng tối đa của máy cứ sụt giảm từng ngày mà bạn không hiểu vì sao.",
+        "search": "modern smartphone screen",
+        "caption": "Dung lượng pin sụt giảm từng ngày"
+      },
+      {
+        "narration": "Mức lý tưởng nhất để pin bền bỉ gấp 3 lần thực ra chỉ nằm trong khoảng từ 20% đến 80%.",
+        "search": "smartphone charging battery",
+        "caption": "Khoảng sạc lý tưởng nhất là 20% đến 80%"
+      },
+      {
+        "narration": "Nhiều người nghĩ cắm sạc liên tục giúp tiết kiệm thời gian, nhưng thực tế lại đang đốt cháy tuổi thọ linh kiện.",
+        "search": "charging phone overnight",
+        "caption": "Tiết kiệm thời gian nhưng hại linh kiện"
+      },
+      {
+        "narration": "Các hãng công nghệ đều biết điều này, đó là lý do tính năng giới hạn sạc 80% dần xuất hiện trên điện thoại hiện đại.",
+        "search": "modern smartphone screen",
+        "caption": "Tính năng giới hạn sạc 80% trên điện thoại"
+      },
+      {
+        "narration": "Và nếu bạn nghĩ thói quen cắm sạc này là vô hại, hãy nhìn vào những gì diễn ra bên trong cục pin lúc nửa đêm.",
+        "search": "charging phone overnight",
+        "caption": "Thói quen vô hại mỗi đêm?"
+      },
+      {
+        "narration": "Khi điện thoại đã đạt ngưỡng tuyệt đối mà vẫn tiếp tục nhận dòng điện, năng lượng dư thừa không biết đi đâu.",
+        "search": "smartphone charging battery",
+        "caption": "Năng lượng dư thừa đi đâu?"
+      },
+      {
+        "narration": "Chúng buộc phải chuyển hóa thành nhiệt lượng tích tụ âm ỉ trong một không gian kín.",
+        "search": "lithium ion battery close up",
+        "caption": "Nhiệt lượng âm ỉ tàn phá"
+      },
+      {
+        "narration": "Nhiệt độ chính là kẻ thù số một âm thầm bẻ gãy các liên kết hóa học quý giá.",
+        "search": "modern smartphone screen",
+        "caption": "Kẻ thù số một của pin"
+      },
+      {
+        "narration": "Chỉ qua vài trăm chu kỳ như vậy, dung lượng thực tế sẽ sụt giảm không phanh.",
+        "search": "phone battery percentage",
+        "caption": "Dung lượng sụt giảm không phanh"
+      },
+      {
+        "narration": "Đến lúc đó, thời gian sử dụng trong ngày của bạn sẽ ngắn đi một nửa một cách khó hiểu.",
+        "search": "smartphone charging battery",
+        "caption": "Thời gian sử dụng ngắn đi"
+      },
+      {
+        "narration": "Thay vì cố chấp nạp đầy, việc ngắt sớm hơn sẽ giữ cho năng lượng bên trong ở trạng thái an toàn.",
+        "search": "charging phone overnight",
+        "caption": "Giải pháp an toàn hơn"
+      },
+      {
+        "narration": "Đó là cách đơn giản nhất để thiết bị của bạn đồng hành bền bỉ theo năm tháng.",
+        "search": "lithium ion battery close up",
+        "caption": "Bí quyết kéo dài tuổi thọ"
+      },
+      {
+        "narration": "Hãy kích hoạt tính năng giới hạn sạc tám mươi phần trăm ngay hôm nay để viên pin không còn phải gồng mình chịu áp lực quá tải mỗi đêm.",
+        "search": "man hinh smartphone phat sang bieu tuong pin 80 phan tram trong dem toi",
+        "caption": "Bật giới hạn sạc 80% để bảo vệ pin ngay hôm nay"
+      }
+    ],
+    "error": "",
+    "youtube_id": "OyEDLdY96VE",
+    "youtube_url": "https://www.youtube.com/watch?v=OyEDLdY96VE",
+    "created_at": "2026-09-28T10:49:39.133236+00:00",
+    "updated_at": "2026-09-28T10:57:30.988486+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-28T10:54:45.284114+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "706 chars (cat 260 de vua 55s)",
+        "at": "2026-09-28T10:56:17.869184+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "43.2s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-09-28T10:56:39.319542+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-28T10:56:41.129067+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 14 scenes / 5 keyframes 1048388 bytes",
+        "at": "2026-09-28T10:56:54.956820+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-28T10:56:54.967717+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 43.2s 2955372 bytes",
+        "at": "2026-09-28T10:57:27.528890+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=OyEDLdY96VE",
+        "at": "2026-09-28T10:57:29.333396+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-28T10:57:29.688941+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-28T10:57:30.944646+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-28T10:57:30.956211+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-28T10:57:30.988478+00:00"
+      }
+    }
+  },
+  {
     "id": "a3d750f117",
     "kind": "short",
     "channel": "Channel3",
