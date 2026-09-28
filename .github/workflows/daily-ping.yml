@@ -1,0 +1,75 @@
+name: daily-ping
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: moneyprint-video
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Pull state from logs branch
+        run: |
+          git fetch origin logs:refs/remotes/origin/logs || true
+          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
+            git show origin/logs:state.json > state.json || echo "[]" > state.json
+            git show origin/logs:views_history.json > views_history.json 2>/dev/null || echo "{}" > views_history.json
+          else
+            echo "[]" > state.json
+            echo "{}" > views_history.json
+          fi
+
+      - name: Build daily report
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python tools/daily_ping.py | tee REPORT.md
+
+      - name: Push DAILY.md to logs branch
+        if: always()
+        run: |
+          git config user.name "moneyprint-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin logs || true
+          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
+            git checkout -f -B logs origin/logs
+          else
+            git checkout --orphan logs
+            git rm -rf --cached . >/dev/null 2>&1 || true
+          fi
+          cp -f "$GITHUB_WORKSPACE/DAILY.md" DAILY.md 2>/dev/null || true
+          cp -f "$GITHUB_WORKSPACE/views_history.json" views_history.json 2>/dev/null || true
+          git add -f DAILY.md views_history.json 2>/dev/null || true
+          git commit -m "daily ping ${{ github.run_id }}" || true
+          git push origin logs
+
+      - name: Open daily issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="Daily ping $(date -u +%d/%m/%Y)"
+          if [ -f REPORT.md ]; then
+            gh issue create --title "$TITLE" --body-file REPORT.md || true
+          fi

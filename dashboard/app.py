@@ -336,6 +336,12 @@ code{background:#0e1512;border:1px solid var(--line);border-radius:6px;padding:1
 
 <div class="panel" id="p-missions">
 <h2 style="margin-top:0">Nhiem vu hom nay ({{ today }})</h2>
+{% if daily_md %}
+<div class="mission done">
+<h3>Bao cao sang nay (tu GitHub)</h3>
+<pre>{{ daily_md }}</pre>
+</div>
+{% endif %}
 {% for ch in channels %}
 {% set t = amap.get(ch.key, {'done': 0, 'target': 0, 'left': 0}) %}
 <div class="mission {{ 'done' if t.target and ch.done >= t.target else '' }}">
@@ -911,6 +917,13 @@ def index():
     acc3_email = os.environ.get("ACCOUNT_3_EMAIL", "").strip() or "mail chu kenh 3"
     views = views_snapshot()
     nxt, nxt_note = _next_slot()
+    daily_md = ""
+    try:
+        dp = config.ROOT / "DAILY.md"
+        if dp.exists():
+            daily_md = dp.read_text(encoding="utf-8")[:3000]
+    except OSError:
+        pass
     slots = yt_mod.by_slot(accs)
     uploaded_by_slot = state.uploads_today_by_slot()
     plan_rows = []
@@ -968,6 +981,7 @@ def index():
         wf_on=_wf_states(),
         per_day=sum(int(v or 0) for v in tg.values()),
         uploaded_total=sum(uploaded_by_slot.values()),
+        daily_md=daily_md,
         plan_rows=plan_rows,
         next_slot=nxt,
         next_note=nxt_note,
@@ -1083,6 +1097,9 @@ def sync():
         n = len(json.loads(out))
     except json.JSONDecodeError:
         n = 0
+    rc3, dout, _ = _run_git(["git", "show", "origin/logs:DAILY.md"])
+    if rc3 == 0 and dout.strip():
+        (config.ROOT / "DAILY.md").write_text(dout, encoding="utf-8")
     return jsonify({"ok": True, "msg": f"synced {n} records"})
 
 

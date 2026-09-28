@@ -11,6 +11,8 @@ account_cache_*.json
 gemini_usage.json
 views_history.json
 units_usage.json
+DAILY.md
+REPORT.md
 KILL
 cache/
 _worker.py
