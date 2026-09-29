@@ -1,5 +1,210 @@
 [
   {
+    "id": "705ed16ffc",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman Emperor Who Appointed His Horse Consul",
+    "idea": {
+      "title": "The Roman Emperor Who Appointed His Horse Consul",
+      "hook": "Caligula didn't just threaten to make his favorite horse a consul—he actually gave it a marble palace and a golden drinking bowl.",
+      "beats": [
+        "Caligula's deep obsession with his beloved stallion, Incitatus, baffled the Roman senate.",
+        "He furnished the horse with an ivory manger, purple blankets, and a staff of royal servants to attend to its needs.",
+        "Historians debate whether this was a true descent into madness or a calculated, humiliating insult to degrade the Roman political elite."
+      ],
+      "keywords": [
+        "Roman emperor portrait",
+        "ancient rome painting",
+        "marble bust roman",
+        "ancient senate engraving",
+        "historical horse painting"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#romanempire",
+        "#historyfacts",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Caligula didn't just threaten to make his horse a consul—he actually gave it a marble palace.",
+        "search": "marble bust roman emperor caligula",
+        "caption": "The Roman Emperor Who Appointed His Horse Consul"
+      },
+      {
+        "narration": "In 37 AD, the Roman Empire fell under the rule of Emperor Gaius, universally known as Caligula.",
+        "search": "ancient rome painting of emperor",
+        "caption": "The Ascent of Caligula in 37 AD"
+      },
+      {
+        "narration": "Amidst the brutal politics of the Roman Senate, the emperor's deepest affection focused entirely on his stallion, Incitatus.",
+        "search": "historical horse painting classical style",
+        "caption": "Caligula's Obsession with Incitatus"
+      },
+      {
+        "narration": "Caligula baffled the Roman senate by showering the animal with unimaginable imperial luxury.",
+        "search": "ancient senate engraving roman politicians",
+        "caption": "Baffling the Roman Senate"
+      },
+      {
+        "narration": "The horse was furnished with an ivory manger, purple blankets, and a jeweled collar.",
+        "search": "ancient roman treasury gold artifacts engraving",
+        "caption": "Luxury Beyond Reason"
+      },
+      {
+        "narration": "A dedicated staff of royal servants attended daily to the animal's elaborate needs.",
+        "search": "roman servants oil painting historical",
+        "caption": "A Royal Staff for a Stallion"
+      },
+      {
+        "narration": "Incitatus even dined from a golden drinking bowl while invited guests watched in stunned silence.",
+        "search": "roman banquet painting historical art",
+        "caption": "Dining from a Golden Bowl"
+      },
+      {
+        "narration": "Rome's political elite endured the humiliation of watching an animal treated as an equal citizen.",
+        "search": "roman senator statue portrait marble",
+        "caption": "Humiliating the Roman Elite"
+      },
+      {
+        "narration": "Roman biographer Suetonius recorded that Caligula went further, formally proposing to appoint Incitatus to the consulship, Rome's supreme magistracy.",
+        "search": "suetonius twelve caesars antique manuscript engraving",
+        "caption": "Suetonius recorded Caligula's plan to make Incitatus supreme consul of Rome."
+      },
+      {
+        "narration": "Many historians believe this was not madness, but a lethal satire meant to demonstrate that a horse could perform a senator's duties just as competently.",
+        "search": "roman senate debate oil painting",
+        "caption": "The appointment was a calculated insult designed to mock elite senators."
+      },
+      {
+        "narration": "Historian Cassius Dio noted that the emperor even served the stallion oats mixed with gold flake and forbade anyone from disturbing the beast.",
+        "search": "caligula roman emperor marble bust",
+        "caption": "Historical records describe oats mixed with gold flake served to Incitatus."
+      },
+      {
+        "narration": "The Praetorian Guard enforced complete silence around the neighborhood the night before races, punishing ordinary citizens who disrupted the animal's rest.",
+        "search": "praetorian guard roman soldiers engraving",
+        "caption": "Soldiers patrolled Roman streets to enforce absolute silence near the stables."
+      },
+      {
+        "narration": "By AD 40, Caligula's relentless extravagance had nearly emptied the imperial treasury of 2.7 billion sesterces amassed by his predecessor, Tiberius.",
+        "search": "ancient roman coin gold aureus tiberius",
+        "caption": "Imperial spending quickly drained Rome's treasury of billions of sesterces."
+      },
+      {
+        "narration": "The threat of being presided over by an equine magistrate drove the surviving aristocracy into desperate, clandestine resistance.",
+        "search": "ancient rome palatine hill ruins oil painting",
+        "caption": "Senators saw an animal consul as the complete destruction of Rome."
+      },
+      {
+        "narration": "Led by Praetorian officer Cassius Chaerea, high-ranking conspirators resolved to strike before the emperor could consummate his supreme political mockery.",
+        "search": "assassination of caligula ancient roman engraving",
+        "caption": "Conspirators plotted Caligula's assassination to prevent the final humiliation."
+      },
+      {
+        "narration": "On January 24, AD 41, conspirators ambushed the twenty-eight-year-old ruler in an underground corridor beneath the imperial palace.",
+        "search": "ancient roman underground corridor ruins engraving",
+        "caption": "In January AD 41, the Praetorian Guard struck down the emperor."
+      },
+      {
+        "narration": "Historians debate whether Caligula's elevation of his stallion Incitatus was a true descent into madness or a calculated insult to degrade the Roman Senate in 37 AD.",
+        "search": "ancient senate engraving",
+        "caption": "Madness or ultimate political insult?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "af3kB6LJhgU",
+    "youtube_url": "https://www.youtube.com/watch?v=af3kB6LJhgU",
+    "created_at": "2026-09-29T23:18:49.888144+00:00",
+    "updated_at": "2026-09-29T23:24:03.480098+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T23:21:46.583073+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "596 chars (cat 234 de vua 55s)",
+        "at": "2026-09-29T23:22:49.627537+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.9s en-US-GuyNeural 7 cau",
+        "at": "2026-09-29T23:22:53.713701+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T23:22:55.206333+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-29T23:23:05.372420+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-09-29T23:23:05.386355+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.9s 13931301 bytes",
+        "at": "2026-09-29T23:23:59.623928+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=af3kB6LJhgU",
+        "at": "2026-09-29T23:24:01.770384+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T23:24:01.992727+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T23:24:03.419376+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T23:24:03.434157+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T23:24:03.480091+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360561/pexels-photo-32360561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33621475/pexels-photo-33621475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806586/pexels-photo-38806586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38320805/pexels-photo-38320805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3214598/pexels-photo-3214598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708932/pexels-photo-35708932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25461450/pexels-photo-25461450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844701/pexels-photo-37844701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15476105/pexels-photo-15476105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564807/pexels-photo-12564807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698400/pexels-photo-8698400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28892477/pexels-photo-28892477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29498936/pexels-photo-29498936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224005/pexels-photo-38224005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38923438/pexels-photo-38923438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37787335/pexels-photo-37787335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "be11ef7c1e",
     "kind": "short",
     "channel": "Channel2",
