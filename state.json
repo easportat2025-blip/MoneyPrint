@@ -1,5 +1,210 @@
 [
   {
+    "id": "3b18f9813a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật rùng mình về cái bóng của chính bạn dưới ánh đèn",
+    "idea": {
+      "title": "Sự thật rùng mình về cái bóng của chính bạn dưới ánh đèn",
+      "hook": "Bạn nghĩ cái bóng dưới đèn phòng là duy nhất? Thực tế, mắt bạn đang bị lừa suốt đời.",
+      "beats": [
+        "Giải thích hiện tượng vật lý: Bóng đa sắc do nhiều nguồn sáng trong phòng tạo ra mà não tự động che giấu.",
+        "Cơ chế não bộ: Não cố gắng đơn giản hóa thế giới bằng cách chỉ hiển thị một cái bóng rõ nhất để tiết kiệm năng lượng.",
+        "Hậu quả: Việc não liên tục 'chỉnh sửa' thực tế này khiến thị giác mệt mỏi âm thầm mỗi tối."
+      ],
+      "keywords": [
+        "shadow room dark",
+        "light bulb glowing",
+        "human silhouette night",
+        "brain neural network",
+        "optical illusion cosmos"
+      ],
+      "tags": [
+        "sự thật thú vị",
+        "khoa học cơ thể",
+        "mẹo cuộc sống",
+        "Channel3",
+        "hiện tượng lạ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cái bóng dưới ánh đèn phòng của bạn thực chất không hề duy nhất.",
+        "search": "bong nguoi phong toi anh sang",
+        "caption": "Cái bóng dưới đèn không hề duy nhất."
+      },
+      {
+        "narration": "Mỗi đêm, khi bạn đứng dưới ánh đèn, có một \"bản thể\" khác của cái bóng đang ẩn nấp ngay trước mắt bạn.",
+        "search": "nguoi dung duoi anh den dem toi",
+        "caption": "Có một cái bóng khác đang ẩn nấp."
+      },
+      {
+        "narration": "Thực tế, các bóng đèn và sự phản chiếu từ tường tạo ra hàng chục cái bóng đa sắc màu bao quanh bạn.",
+        "search": "bong den phat sang phong toi",
+        "caption": "Hàng chục cái bóng đa sắc bao quanh bạn."
+      },
+      {
+        "narration": "But tại sao mắt bạn chỉ nhìn thấy một cái bóng màu đen duy nhất và rõ ràng?",
+        "search": "mat nguoi nhin cham cham bong toi",
+        "caption": "Tại sao ta chỉ thấy một cái bóng?"
+      },
+      {
+        "narration": "Đó là vì não bộ đang liên tục thực hiện một cú lừa thị giác vĩ đại để bảo vệ bạn.",
+        "search": "mang luoi than kinh nao bo phat sang",
+        "caption": "Não bộ đang thực hiện cú lừa vĩ đại."
+      },
+      {
+        "narration": "Để tiết kiệm năng lượng, não tự động xóa bỏ các bóng mờ và chỉ hiển thị vùng tối rõ nhất.",
+        "search": "mo hinh nao bo quet du lieu",
+        "caption": "Não tự xóa bóng mờ để tiết kiệm năng lượng."
+      },
+      {
+        "narration": "Quá trình \"chỉnh sửa ảnh thực tế\" này diễn ra âm thầm từng giây mà bạn không hề hay biết.",
+        "search": "ao anh thi giac vu tru",
+        "caption": "Quá trình chỉnh sửa thực tế diễn ra âm thầm."
+      },
+      {
+        "narration": "Nhưng việc ép buộc hệ thần kinh hoạt động quá tải này đang để lại một hậu quả đáng sợ cho giấc ngủ của bạn.",
+        "search": "nguoi met moi om dau trong dem",
+        "caption": "Hậu quả đáng sợ cho giấc ngủ mỗi đêm."
+      },
+      {
+        "narration": "Khi bạn tắt bớt đèn và chỉ để lại một nguồn sáng yếu, não bộ phải căng mình gấp đôi để xóa bỏ các bóng mờ xung quanh.",
+        "search": "nao bo phat sang mo ao trong bong toi",
+        "caption": "Não bộ phải căng mình gấp đôi để xóa bỏ bóng mờ."
+      },
+      {
+        "narration": "Năng lượng lẽ ra dành cho việc phục hồi tế bào lúc cuối ngày bị tiêu hao vô ích vào việc lọc và chỉnh sửa thị giác.",
+        "search": "nang luong hao hut te bao nao met moi",
+        "caption": "Năng lượng phục hồi bị tiêu hao cho việc lọc hình ảnh."
+      },
+      {
+        "narration": "Đây là lý do tại sao bạn thường cảm thấy mỏi mắt, nhức đầu âm ỉ sau vài tiếng làm việc dưới ánh đèn phòng.",
+        "search": "nguoi met moi om dau nhuc mat duoi anh den",
+        "caption": "Mỏi mắt và nhức đầu âm ỉ xuất hiện không rõ nguyên nhân."
+      },
+      {
+        "narration": "Nguy hiểm hơn, sự quá tải này giữ cho hệ thần kinh luôn ở trạng thái cảnh giác cao độ ngay cả khi bạn đã nhắm mắt.",
+        "search": "he than kinh can thang hoat dong trong dem",
+        "caption": "Hệ thần kinh luôn cảnh giác cao độ dù đã nhắm mắt."
+      },
+      {
+        "narration": "Các xung thần kinh liên tục xử lý ảo ảnh thị giác trước đó làm gián đoạn quá trình sản sinh melatonin - hormone kích hoạt giấc ngủ.",
+        "search": "hormone melatonin giam sut trong nao dem",
+        "caption": "Quá trình sản sinh hormone giấc ngủ bị gián đoạn nghiêm trọng."
+      },
+      {
+        "narration": "Kết quả là bạn rơi vào trạng thái ngủ chập chờn, dễ giật mình tỉnh giấc và thường xuyên gặp ác mộng về những bóng đen.",
+        "search": "nguoi ngu chap chon giat minh ac mong dem",
+        "caption": "Giấc ngủ chập chờn và những cơn ác mộng về bóng đen."
+      },
+      {
+        "narration": "Chu kỳ mệt mỏi này lặp đi lặp lại mỗi đêm, biến căn phòng ngủ ấm cúng thành một áp lực vô hình cho võng mạc.",
+        "search": "can phong toi tam u am ap luc ap buc",
+        "caption": "Căn phòng ngủ vô tình biến thành áp lực cho võng mạc."
+      },
+      {
+        "narration": "Để giải thoát cho não bộ và lấy lại giấc ngủ sâu, có một quy luật vật lý cực đơn giản về khoảng cách đèn mà bạn phải thay đổi ngay lập tức.",
+        "search": "khoang cach bong den ban lam viec ban dem",
+        "caption": "Quy luật khoảng cách đèn cực đơn giản để cứu giấc ngủ."
+      },
+      {
+        "narration": "Chỉ cần đưa nguồn sáng ra xa trên hai mét và dùng duy nhất một đèn vàng khuếch tán, các ảo ảnh bóng sẽ biến mất, trả lại sự thư giãn tuyệt đối cho hệ thần kinh.",
+        "search": "phong ngu toi anh sang vang am ap thu gian",
+        "caption": "Dùng một đèn vàng cách xa hai mét để bảo vệ não bộ."
+      }
+    ],
+    "error": "",
+    "youtube_id": "8HY74jF0XgQ",
+    "youtube_url": "https://www.youtube.com/watch?v=8HY74jF0XgQ",
+    "created_at": "2026-09-29T14:32:03.769634+00:00",
+    "updated_at": "2026-09-29T14:38:21.051259+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T14:34:41.470781+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "730 chars (cat 310 de vua 55s)",
+        "at": "2026-09-29T14:36:17.171399+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "46.7s vi-VN-NamMinhNeural 10 cau",
+        "at": "2026-09-29T14:36:31.887995+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T14:36:33.840130+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-29T14:36:53.422825+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-09-29T14:36:53.435351+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 46.7s 20055941 bytes",
+        "at": "2026-09-29T14:38:12.518679+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=8HY74jF0XgQ",
+        "at": "2026-09-29T14:38:18.575846+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T14:38:19.097525+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T14:38:20.984562+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T14:38:20.999082+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T14:38:21.051242+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/29853914/12819355_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30728867/13145952_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439750/15439750-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37989261/16121816_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28939893/12523799_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/4157418/4157418-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30562535/13088990_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6560041/6560041-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/39481916/16817858_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28923586/12518190_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31943335/13608073_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/10556550/10556550-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8102668/8102668-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7621626/7621626-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/28923613/12518219_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/3755081/3755081-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/6800041/6800041-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "c6c4bea38b",
     "kind": "short",
     "channel": "Channel3",
