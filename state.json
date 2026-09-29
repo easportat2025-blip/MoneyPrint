@@ -1,5 +1,211 @@
 [
   {
+    "id": "c6c4bea38b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao một nửa thế giới đang uống nước sai cách?",
+    "idea": {
+      "title": "Tại sao một nửa thế giới đang uống nước sai cách?",
+      "hook": "Bạn nghĩ uống 2 lít nước mỗi ngày là tốt? Sự thật là cơ thể bạn đang tự rút cạn năng lượng chỉ vì một thói quen uống nước sai lầm mà 90% người mắc phải.",
+      "beats": [
+        "Giải thích lý do uống nước quá nhanh khiến thận quá tải và tế bào thực sự không nhận được nước.",
+        "Sai lầm phổ biến: Uống nước ngay sau khi ăn làm loãng dịch vị và cản trở tiêu hóa.",
+        "Công thức khoa học thực sự giúp cơ thể hấp thụ tối đa từng ngụm nước.",
+        "Kết luận: Thay đổi nhỏ trong cách uống nước giúp bạn tỉnh táo suốt cả ngày."
+      ],
+      "keywords": [
+        "drinking water",
+        "human body animation",
+        "hydration science",
+        "stomach digestion",
+        "healthy habits"
+      ],
+      "tags": [
+        "suckhoE",
+        "uongnuoc",
+        "meohay",
+        "khoahoc",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Uống 2 lít nước mỗi ngày chưa chắc đã giúp bạn khỏe mạnh.",
+        "search": "nguoi uong nuoc u uat",
+        "caption": "Uống 2 lít nước mỗi ngày chưa chắc đã đúng?"
+      },
+      {
+        "narration": "Thực tế, 90% chúng ta đang uống nước sai cách khiến cơ thể luôn mệt mỏi.",
+        "search": "co the met moi u o",
+        "caption": "90% người đang mắc sai lầm này!"
+      },
+      {
+        "narration": "Khi bạn tu ừng ừng một lượng lớn, thận phải làm việc quá tải ngay lập tức.",
+        "search": "than nguoi hoat dong qua tai",
+        "caption": "Uống quá nhanh làm thận quá tải"
+      },
+      {
+        "narration": "Nước trôi tuột qua cơ thể mà các tế bào hoàn toàn không kịp hấp thụ.",
+        "search": "te bao khat nuoc animation",
+        "caption": "Tế bào hoàn toàn không nhận được nước"
+      },
+      {
+        "narration": "Chưa hết, thói quen uống nước ngay sau bữa ăn còn phá hủy hệ tiêu hóa.",
+        "search": "da day tieu hoa thuc an",
+        "caption": "Uống nước sau ăn phá hủy tiêu hóa?"
+      },
+      {
+        "narration": "Nước làm loãng dịch vị dạ dày, khiến thức ăn không thể được tiêu hóa.",
+        "search": "dich vi da day loang",
+        "caption": "Làm loãng dịch vị, cản trở tiêu hóa"
+      },
+      {
+        "narration": "Đã đến lúc áp dụng công thức uống từng ngụm nhỏ chuẩn khoa học.",
+        "search": "nguoi uong tung ngum nuoc",
+        "caption": "Công thức uống nước chuẩn khoa học"
+      },
+      {
+        "narration": "Chỉ cần đổi cách uống, năng lượng của bạn sẽ bừng tỉnh suốt cả ngày.",
+        "search": "nguoi tran truyen nang luong",
+        "caption": "Thay đổi nhỏ giúp bạn tỉnh táo cả ngày"
+      },
+      {
+        "narration": "Nhiều người nghĩ uống càng nhiều càng tốt, nhưng thực tế nước có thể bị đào thải ngay lập tức.",
+        "search": "human body animation water flush kidneys",
+        "caption": "Uống nhiều chưa chắc đã tốt"
+      },
+      {
+        "narration": "Thận phải làm việc gấp đôi để lọc lượng nước dồn dập vào cơ thể trong thời gian ngắn.",
+        "search": "stomach digestion water overload graphic",
+        "caption": "Thận làm việc quá tải"
+      },
+      {
+        "narration": "Tế bào bên trong vẫn khát khô dù bạn vừa uống một lượng lớn nước.",
+        "search": "hydration science thirsty cells microscopic",
+        "caption": "Tế bào vẫn khát nước"
+      },
+      {
+        "narration": "Thói quen uống nước ngay sau bữa ăn khiến dịch vị dạ dày bị loãng đi.",
+        "search": "stomach digestion food breaking down",
+        "caption": "Loãng dịch vị tiêu hóa"
+      },
+      {
+        "narration": "Thức ăn không được tiêu hóa triệt để, gây cảm giác nặng nề và mệt mỏi.",
+        "search": "stomach digestion slow motion dark",
+        "caption": "Cản trở quá trình tiêu hóa"
+      },
+      {
+        "narration": "Công thức chuẩn khoa học là uống từng ngụm nhỏ, rải đều trong suốt cả ngày.",
+        "search": "drinking water glass drops close up",
+        "caption": "Công thức uống nước chuẩn"
+      },
+      {
+        "narration": "Cơ thể hấp thụ tối đa từng giọt nước thay vì để chúng trôi tuột đi.",
+        "search": "human body animation glowing water flow",
+        "caption": "Hấp thụ nước tối đa"
+      },
+      {
+        "narration": "Thay đổi nhỏ này giúp năng lượng bừng tỉnh và duy trì sự tập trung suốt cả ngày.",
+        "search": "healthy habits energetic person morning light",
+        "caption": "Năng lượng bừng tỉnh cả ngày"
+      },
+      {
+        "narration": "Uống đúng cách quan trọng hơn uống nhiều, hãy để từng ngụm nước thực sự nuôi dưỡng và tái tạo cơ thể bạn.",
+        "search": "ly nuoc tinh khiet phat sang trong bong toi toi gian",
+        "caption": "Uống đúng cách quan trọng hơn uống nhiều"
+      }
+    ],
+    "error": "",
+    "youtube_id": "9-b6jzBtO4M",
+    "youtube_url": "https://www.youtube.com/watch?v=9-b6jzBtO4M",
+    "created_at": "2026-09-29T10:59:55.611244+00:00",
+    "updated_at": "2026-09-29T11:11:33.168771+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T11:04:56.420764+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "751 chars",
+        "at": "2026-09-29T11:09:33.058691+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "45.9s vi-VN-NamMinhNeural 10 cau",
+        "at": "2026-09-29T11:09:51.902076+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T11:09:53.783452+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-29T11:10:11.363211+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-29T11:10:11.376015+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 45.9s 15407120 bytes",
+        "at": "2026-09-29T11:11:26.188295+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=9-b6jzBtO4M",
+        "at": "2026-09-29T11:11:30.604401+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T11:11:31.304844+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T11:11:33.112334+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T11:11:33.126447+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T11:11:33.168755+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/32904797/14023642_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7984178/7984178-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/9756613/9756613-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/9667863/9667863-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/37703804/15987296_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6801387/6801387-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/32087851/13678028_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38381820/16299895_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5714708/5714708-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/5838997/5838997-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/4622775/4622775-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6054019/6054019-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7280674/7280674-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/30211454/12952952_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36125347/15320283_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6801320/6801320-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/27935830/12266925_720_1280_24fps.mp4"
+    ]
+  },
+  {
     "id": "0ea79e645c",
     "kind": "short",
     "channel": "Channel2",
