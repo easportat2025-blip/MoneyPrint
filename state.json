@@ -1,5 +1,211 @@
 [
   {
+    "id": "7c26b55bd0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Empress Who Blinded Her Own Son for the Throne",
+    "idea": {
+      "title": "The Empress Who Blinded Her Own Son for the Throne",
+      "hook": "In 797 AD, Empress Irene dragged her own son into the room where she gave birth to him—and ordered guards to gouge his eyes out.",
+      "beats": [
+        "Her son, Constantine VI, wanted to rule independently, sparking a ruthless power struggle with his ambitious mother.",
+        "Irene sent imperial guards to butcher his eyes so deeply that he died from infection days later.",
+        "She crowned herself the first sole female ruler of Rome, but the Pope considered the imperial throne legally vacant.",
+        "This single horrific betrayal gave the Vatican justification to crown Charlemagne, permanently splitting Western and Eastern Europe."
+      ],
+      "keywords": [
+        "Empress Irene Byzantine portrait",
+        "Constantine VI engraving",
+        "Byzantine emperor mosaic",
+        "medieval Roman court engraving",
+        "Charlemagne coronation painting"
+      ],
+      "tags": [
+        "Empress Irene",
+        "Byzantine Empire",
+        "Roman History",
+        "Medieval History",
+        "History Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 797, a mother blinded her son for Rome.",
+        "search": "Empress Irene Byzantine coin gold macro",
+        "caption": "In 797, an Empress blinded her own son for Rome."
+      },
+      {
+        "narration": "When Emperor Leo IV died in 780, Empress Irene seized control of the Byzantine Empire as regent for her nine-year-old son, Constantine VI.",
+        "search": "Constantine VI and Irene Byzantine coin gold close-up",
+        "caption": "Irene ruled Constantinople as regent for nine-year-old Constantine VI."
+      },
+      {
+        "narration": "As Constantine reached adulthood, he demanded absolute imperial authority, but Irene refused to step down, splitting the court into hostile factions.",
+        "search": "Byzantine imperial court medieval manuscript illumination",
+        "caption": "Constantine demanded his throne, sparking a vicious court rift."
+      },
+      {
+        "narration": "In 790, military revolts briefly stripped Irene of power, but Constantine soon proved disastrous in disastrous campaigns against the Bulgars.",
+        "search": "medieval battle Byzantine Bulgars manuscript illustration",
+        "caption": "Constantine took command, suffering catastrophic military defeats."
+      },
+      {
+        "narration": "Exploiting his cratering popularity, Irene returned to court in 792 and systematically turned the imperial guard against her own child.",
+        "search": "medieval palace conspiracy dark engraving",
+        "caption": "Irene returned to power, plotting in secret with the palace guard."
+      },
+      {
+        "narration": "On August 15, 797, Irene's loyalists captured Constantine across the Bosporus and hauled him into the Great Palace of Constantinople.",
+        "search": "Constantinople palace medieval manuscript illumination",
+        "caption": "Conspirators captured Constantine and dragged him into the palace."
+      },
+      {
+        "narration": "Inside the Porphyra chamber where she had delivered him into the world, Irene ordered guards to gouge out his eyes.",
+        "search": "medieval torture blinding engraving",
+        "caption": "Guards blinded the young emperor inside his own birthplace."
+      },
+      {
+        "narration": "Irene proclaimed herself sole male emperor of Rome, but in the West, Pope Leo III declared the imperial throne legally vacant.",
+        "search": "Pope Leo III medieval mosaic portrait",
+        "caption": "Irene claimed sole rule, but Rome declared the throne vacant."
+      },
+      {
+        "narration": "In Aachen, the Frankish king Charlemagne seized the political vacuum created by Irene's brutal usurpation of power.",
+        "search": "Charlemagne coronation painting",
+        "caption": "Charlemagne seizes the political vacuum of Rome."
+      },
+      {
+        "narration": "Pope Leo III crowned Charlemagne as Roman Emperor on Christmas Day in the year 800.",
+        "search": "Pope Leo III medieval illumination",
+        "caption": "Pope Leo III crowns Charlemagne in Rome."
+      },
+      {
+        "narration": "This unprecedented coronation created two rival Roman empires, deeply fracturing the Christian world.",
+        "search": "medieval Roman court engraving",
+        "caption": "Two rival Roman empires fracture Christendom."
+      },
+      {
+        "narration": "The Eastern court in Constantinople refused to recognize the legitimacy of the Frankish title.",
+        "search": "Byzantine emperor mosaic",
+        "caption": "Constantinople rejects the Frankish title."
+      },
+      {
+        "narration": "Decades of bitter diplomacy and border wars followed between East and West over the imperial mantle.",
+        "search": "medieval battle manuscript painting",
+        "caption": "Decades of border wars erupt between East and West."
+      },
+      {
+        "narration": "Irene's desperate bid to hold absolute power permanently severed the unity of ancient Europe.",
+        "search": "Empress Irene Byzantine portrait icon",
+        "caption": "Irene's ambition permanently fractures European unity."
+      },
+      {
+        "narration": "Her reign collapsed shortly after when palace officials exiled her to the island of Lesbos in 802.",
+        "search": "ancient Greek island Lesbos old map engraving",
+        "caption": "Irene is exiled to Lesbos in 802."
+      },
+      {
+        "narration": "Yet the shadow of her betrayal in the Porphyra chamber outlived the Byzantine Empire itself.",
+        "search": "Constantine VI engraving",
+        "caption": "The brutal betrayal outlives the empire."
+      },
+      {
+        "narration": "By mutilating her son to rule alone, Irene led Pope Leo III to declare the imperial throne vacant, crowning Charlemagne in 800 AD and permanently fracturing Europe into East and West.",
+        "search": "coronation of Charlemagne Rome 800 oil painting",
+        "caption": "Blinding her son crowned Charlemagne, permanently fracturing medieval Europe."
+      }
+    ],
+    "error": "",
+    "youtube_id": "N3w7DrO2bmU",
+    "youtube_url": "https://www.youtube.com/watch?v=N3w7DrO2bmU",
+    "created_at": "2026-09-29T02:09:17.939973+00:00",
+    "updated_at": "2026-09-29T02:12:34.152867+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T02:11:14.508116+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "469 chars",
+        "at": "2026-09-29T02:11:24.610466+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.4s en-US-GuyNeural 7 cau",
+        "at": "2026-09-29T02:11:27.292572+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T02:11:28.522363+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-29T02:11:42.718299+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-29T02:11:42.732501+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.4s 12541399 bytes",
+        "at": "2026-09-29T02:12:30.585692+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=N3w7DrO2bmU",
+        "at": "2026-09-29T02:12:32.614414+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T02:12:32.780118+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T02:12:34.099880+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T02:12:34.112854+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T02:12:34.152858+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7114277/pexels-photo-7114277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25068354/pexels-photo-25068354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27327992/pexels-photo-27327992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26241927/pexels-photo-26241927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5623614/pexels-photo-5623614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4780540/pexels-photo-4780540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24389386/pexels-photo-24389386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38254605/pexels-photo-38254605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142970/pexels-photo-19142970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11849914/pexels-photo-11849914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39164652/pexels-photo-39164652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30835423/pexels-photo-30835423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8264909/pexels-photo-8264909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7412095/pexels-photo-7412095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35239167/pexels-photo-35239167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422579/pexels-photo-20422579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "948026db5a",
     "kind": "short",
     "channel": "Channel2",
