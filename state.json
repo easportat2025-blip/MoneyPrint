@@ -1,5 +1,211 @@
 [
   {
+    "id": "0ea79e645c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Queen Who Ordered an Entire River Executed",
+    "idea": {
+      "title": "The Queen Who Ordered an Entire River Executed",
+      "hook": "When Queen Semiramis suffered a personal tragedy by the Euphrates, she didn't just cry—she ordered her entire army to punish the river itself.",
+      "beats": [
+        "Introduction of the legendary Assyrian queen and her absolute power over ancient empires.",
+        "The sudden loss of a beloved companion near the banks of the Euphrates river.",
+        "The bizarre royal decree: diverting the massive river into hundreds of tiny canals to make it 'dry up and die' of thirst.",
+        "The historic irony: how this act of pure grief accidentally created one of the greatest irrigation networks of the ancient world."
+      ],
+      "keywords": [
+        "ancient queen portrait",
+        "assyrian empire engraving",
+        "ancient river map",
+        "historical oil painting",
+        "ancient royal crown"
+      ],
+      "tags": [
+        "history",
+        "documentary",
+        "ancientempires",
+        "shorts",
+        "queen"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In the ninth century BC, one ruler did the impossible: she sentenced a massive river to death.",
+        "search": "queen semiramis historical oil painting portrait",
+        "caption": "This queen sentenced a river to death."
+      },
+      {
+        "narration": "Her bizarre act of vengeance forever altered the geography of the ancient Near East, leaving behind ruins still visible today.",
+        "search": "ancient mesopotamia ruins archaeological site photograph",
+        "caption": "A royal grudge that reshaped the ancient world."
+      },
+      {
+        "narration": "In 811 BC, Queen Semiramis assumed sole regency over the vast Assyrian Empire, ruling from the majestic city of Babylon.",
+        "search": "ancient babylon city engraving",
+        "caption": "Queen Semiramis ruled Assyria from Babylon in 811 BC."
+      },
+      {
+        "narration": "While traveling along the treacherous Euphrates River, a sudden, violent current swept away her closest companion and royal horse.",
+        "search": "euphrates river ancient map engraving",
+        "caption": "The Euphrates River claimed her closest companion."
+      },
+      {
+        "narration": "Blinded by grief and fury, Semiramis declared that the river itself had committed treason against the crown.",
+        "search": "assyrian queen semiramis dramatic oil painting",
+        "caption": "She declared the river guilty of high treason."
+      },
+      {
+        "narration": "She ordered her entire imperial army to halt their military campaigns and prepare to punish the water.",
+        "search": "ancient assyrian army soldiers engraving",
+        "caption": "An entire army mobilized to fight water."
+      },
+      {
+        "narration": "Thousands of soldiers spent months digging exactly three hundred and sixty channels to divert and drain the Euphrates, forcing it to 'die of thirst'.",
+        "search": "ancient canal construction engraving",
+        "caption": "Diverting the river into 360 separate channels."
+      },
+      {
+        "narration": "Though born of madness, this execution accidentally created one of the most sophisticated irrigation networks of the ancient world.",
+        "search": "ancient mesopotamian agriculture irrigation oil painting",
+        "caption": "A mad execution created an agricultural masterpiece."
+      },
+      {
+        "narration": "The diversion of the Euphrates transformed the arid Mesopotamian basin into the most fertile agricultural hub of the ancient world.",
+        "search": "mesopotamia ancient agriculture engraving",
+        "caption": "The dry plains became fertile farmland."
+      },
+      {
+        "narration": "By controlling the flow of the river, the Assyrian Empire under Queen Shammuramat in 811 BC secured absolute geopolitical dominance.",
+        "search": "assyrian empire map engraving",
+        "caption": "Assyria secured absolute geopolitical dominance."
+      },
+      {
+        "narration": "Semiramis leveraged this massive agricultural surplus to fund unprecedented monumental construction across Babylon.",
+        "search": "ancient babylon reconstruction oil painting",
+        "caption": "Surplus wealth funded massive monumental construction."
+      },
+      {
+        "narration": "Early Greek historians, including Diodorus Siculus, even credited her with building the legendary walls and obelisks of the city.",
+        "search": "ancient walls of babylon engraving",
+        "caption": "Historians credited her with Babylon's great walls."
+      },
+      {
+        "narration": "Yet, as her engineering marvels grew, so did the terrifying legends of her absolute, unchecked authority.",
+        "search": "queen semiramis portrait oil painting",
+        "caption": "Her absolute authority spawned terrifying legends."
+      },
+      {
+        "narration": "Clay tablets from the Neo-Assyrian period depict her ruling with a military ferocity unmatched by any male predecessor.",
+        "search": "assyrian stone relief warrior carving",
+        "caption": "She ruled with unmatched military ferocity."
+      },
+      {
+        "narration": "When her reign ended in 806 BC, she vanished from records, leaving behind a legacy blurred between myth and historical fact.",
+        "search": "assyrian ruins archival photograph",
+        "caption": "Her reign ended in mystery."
+      },
+      {
+        "narration": "But the ancient canal networks carving through modern Iraq still trace the path of her vengeful decree.",
+        "search": "mesopotamia ancient canal map engraving",
+        "caption": "Ancient canal networks still scar the landscape."
+      },
+      {
+        "narration": "By attempting to execute a river, Semiramis accidentally engineered the ancient world's greatest irrigation system. Her grief did not kill the Euphrates—it permanently bent the water to her absolute will.",
+        "search": "ancient mesopotamia map engraving",
+        "caption": "Her ultimate revenge shaped the ancient world forever."
+      }
+    ],
+    "error": "",
+    "youtube_id": "fuaJx95tPFI",
+    "youtube_url": "https://www.youtube.com/watch?v=fuaJx95tPFI",
+    "created_at": "2026-09-29T10:04:58.453008+00:00",
+    "updated_at": "2026-09-29T10:14:07.266587+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T10:11:08.319589+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "547 chars",
+        "at": "2026-09-29T10:13:04.894369+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.8s en-US-GuyNeural 7 cau",
+        "at": "2026-09-29T10:13:07.892299+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T10:13:09.224289+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-29T10:13:22.280925+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-29T10:13:22.289867+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.8s 12898966 bytes",
+        "at": "2026-09-29T10:14:02.373509+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=fuaJx95tPFI",
+        "at": "2026-09-29T10:14:05.261519+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T10:14:05.499721+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T10:14:07.220878+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T10:14:07.231590+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T10:14:07.266579+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3095593/pexels-photo-3095593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38191418/pexels-photo-38191418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18938481/pexels-photo-18938481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32466284/pexels-photo-32466284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31595324/pexels-photo-31595324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10291906/pexels-photo-10291906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37915873/pexels-photo-37915873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39766579/pexels-photo-39766579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39622876/pexels-photo-39622876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828621/pexels-photo-8828621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320568/pexels-photo-15320568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29422654/pexels-photo-29422654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14748091/pexels-photo-14748091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7814126/pexels-photo-7814126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28891033/pexels-photo-28891033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34393243/pexels-photo-34393243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26065542/pexels-photo-26065542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3a1f62e2cc",
     "kind": "short",
     "channel": "Channel2",
