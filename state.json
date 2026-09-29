@@ -1,5 +1,212 @@
 [
   {
+    "id": "d616ec77ae",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn luôn tự tỉnh giấc trước khi chuông báo reo?",
+    "idea": {
+      "title": "Tại sao bạn luôn tự tỉnh giấc trước khi chuông báo reo?",
+      "hook": "Bạn có bao giờ thắc mắc vì sao cơ thể lại luôn đánh thức bạn đúng 5 phút trước khi chuông báo thức reo? Thực ra, bộ não đang âm thầm cứu bạn khỏi một cú sốc.",
+      "beats": [
+        "Tiếng chuông báo thức đột ngột thực chất là một cú sốc cực lớn đối với tim và hệ thần kinh của bạn.",
+        "Để bảo vệ bạn, bộ não đã tự ghi nhớ lịch trình ngủ và thiết lập một chiếc đồng hồ sinh học vô cùng chính xác.",
+        "Khoảng 1 tiếng trước khi dậy, não bắt đầu giải phóng hormone căng thẳng ACTH để đánh thức bạn từ từ.",
+        "Nhờ lượng hormone này tăng dần, bạn sẽ tỉnh giấc một cách tự nhiên và dễ chịu nhất.",
+        "Nếu bạn tự thức dậy trước chuông, chúc mừng, cơ thể bạn đang vận hành vô cùng hoàn hảo."
+      ],
+      "keywords": [
+        "sleeping person",
+        "alarm clock",
+        "brain animation",
+        "hormone molecule",
+        "waking up peaceful"
+      ],
+      "tags": [
+        "giấc ngủ",
+        "sức khỏe",
+        "đồng hồ sinh học",
+        "bí ẩn cơ thể",
+        "mẹo ngủ ngon"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn có bao giờ thắc mắc vì sao cơ thể luôn đánh thức bạn đúng năm phút trước chuông báo?",
+        "search": "nguoi ngu tren giuong dong ho bao thuc",
+        "caption": "Luon tinh giac truoc chuong bao thuc?"
+      },
+      {
+        "narration": "Thực ra, bộ não đang âm thầm cứu bạn khỏi một cú sốc.",
+        "search": "nao bo hoat dong animation toi",
+        "caption": "Bo nao dang cuu ban khoi cu soc"
+      },
+      {
+        "narration": "Tiếng chuông báo thức đột ngột thực chất là một cú sốc cực lớn đối với tim và hệ thần kinh.",
+        "search": "dong ho bao thuc reo bat ngo giat minh",
+        "caption": "Chuong bao thuc la cu soc lon"
+      },
+      {
+        "narration": "Nó làm tăng huyết áp và khiến tim đập nhanh hơn bình thường.",
+        "search": "nhip tim dap nhanh anh sang do",
+        "caption": "Lam tang huyet ap va tim dap nhanh"
+      },
+      {
+        "narration": "Để bảo vệ bạn, bộ não đã tự ghi nhớ lịch trình ngủ và thiết lập một chiếc đồng hồ sinh học.",
+        "search": "dong ho sinh hoc nao ngu dem",
+        "caption": "Bo nao tu thiet lap dong ho sinh hoc"
+      },
+      {
+        "narration": "Hệ thống này hoạt động chính xác đến từng phút mỗi ngày.",
+        "search": "mach thoi gian chuyen dong 3d",
+        "caption": "Hoat dong chinh xac den tung phut"
+      },
+      {
+        "narration": "Khoảng một tiếng trước khi dậy, não bắt đầu âm thầm chuẩn bị.",
+        "search": "te bao nao phat sang animation",
+        "caption": "Nao bo bat dau chuan bi thuc giac"
+      },
+      {
+        "narration": "Nó kích hoạt quá trình giải phóng hormone để đánh thức bạn từ từ.",
+        "search": "phan tu hormone chay trong mau",
+        "caption": "Giai phong hormone danh thuc tu tu"
+      },
+      {
+        "narration": "Hormone ACTH được bơm vào máu, phát tín hiệu cho toàn bộ cơ quan sẵn sàng hoạt động.",
+        "search": "hormone molecule glowing inside body",
+        "caption": "Hormone ACTH được giải phóng vào máu"
+      },
+      {
+        "narration": "Nó làm tăng nhẹ huyết áp và nhịp tim để chuyển cơ thể từ trạng thái ngủ sâu sang trạng thái tỉnh táo.",
+        "search": "heart rate monitor increasing fast",
+        "caption": "Tăng nhẹ nhịp tim và huyết áp"
+      },
+      {
+        "narration": "Nhờ sự chuẩn bị chu đáo này, bạn mở mắt đón chào ngày mới một cách nhẹ nhàng thay vì giật mình.",
+        "search": "waking up peaceful in morning light",
+        "caption": "Tỉnh giấc nhẹ nhàng không giật mình"
+      },
+      {
+        "narration": "Ngược lại, tiếng chuông báo thức réo vang đột ngột lại là một câu chuyện hoàn toàn khác.",
+        "search": "alarm clock ringing aggressive red",
+        "caption": "Tiếng chuông báo thức là một cú sốc"
+      },
+      {
+        "narration": "Nó tạo ra một cú sốc lớn cho hệ thần kinh, kích hoạt phản ứng chiến hay bỏ ngay lập tức.",
+        "search": "brain under stress nervous system",
+        "caption": "Cú sốc lớn cho hệ thần kinh"
+      },
+      {
+        "narration": "Tim đập loạn nhịp và lượng cortisol tăng vọt khiến bạn cảm thấy cáu kỉnh và mệt mỏi cả ngày.",
+        "search": "stressed person holding head morning",
+        "caption": "Cảm giác mệt mỏi và cáu kỉnh suốt ngày"
+      },
+      {
+        "narration": "Vì vậy, việc tự tỉnh giấc chính là cách cơ thể tự bảo vệ bạn khỏi những tổn thương không đáng có.",
+        "search": "sleeping person smiling peacefully",
+        "caption": "Cơ thể tự bảo vệ bạn khỏi tổn thương"
+      },
+      {
+        "narration": "Hãy tự hào nếu bạn thường xuyên dậy trước chuông, vì chiếc đồng hồ sinh học của bạn đang hoạt động tuyệt vời.",
+        "search": "brain animation glowing success",
+        "caption": "Đồng hồ sinh học hoạt động hoàn hảo"
+      },
+      {
+        "narration": "Hãy tôn trọng chiếc đồng hồ sinh học kỳ diệu này bằng cách đi ngủ đúng giờ ngay đêm nay.",
+        "search": "nguoi nam ngu yen binh dem toi",
+        "caption": "Ngủ đúng giờ để bảo vệ chiếc đồng hồ sinh học."
+      }
+    ],
+    "error": "",
+    "youtube_id": "phObr23IUxU",
+    "youtube_url": "https://www.youtube.com/watch?v=phObr23IUxU",
+    "created_at": "2026-09-29T05:59:08.319599+00:00",
+    "updated_at": "2026-09-29T06:06:40.956241+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T06:02:40.500100+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "670 chars (cat 122 de vua 55s)",
+        "at": "2026-09-29T06:03:44.915563+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "41.7s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-29T06:03:54.238194+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T06:03:56.051682+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "16 video clips + 1 images",
+        "at": "2026-09-29T06:05:37.123099+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-09-29T06:05:37.135255+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 41.8s 12638966 bytes",
+        "at": "2026-09-29T06:06:36.296304+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=phObr23IUxU",
+        "at": "2026-09-29T06:06:39.109293+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T06:06:39.474843+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T06:06:40.898785+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T06:06:40.911895+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T06:06:40.956234+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7361128/7361128-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8087314/8087314-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/27844618/12240582_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28292251/12352698_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31455842/13413925_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39468586/16811350_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36364613/15422874_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5723825/5723825-hd_720_1366_25fps.mp4",
+      "https://images.pexels.com/photos/17369154/pexels-photo-17369154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://videos.pexels.com/video-files/39787566/16966083_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8090724/8090724-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/5909972/5909972-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7299413/7299413-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9902309/9902309-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7214644/7214644-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/9162046/9162046-hd_720_1130_16fps.mp4",
+      "https://videos.pexels.com/video-files/9808082/9808082-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "7c26b55bd0",
     "kind": "short",
     "channel": "Channel2",
