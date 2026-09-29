@@ -44,22 +44,6 @@ jobs:
             echo "[]" > state.json
           fi
 
-      - name: Sync state between videos
-        run: |
-          git config user.name "moneyprint-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git fetch origin logs || true
-          if git rev-parse --verify origin/logs >/dev/null 2>&1; then
-            git checkout -f -B logs origin/logs
-            cp -f "$GITHUB_WORKSPACE/state.json" state.json 2>/dev/null || true
-          else
-            git checkout --orphan logs
-            git rm -rf --cached . >/dev/null 2>&1 || true
-          fi
-          git add -f state.json views_history.json 2>/dev/null || true
-          git commit -m "state mid-backfill ${{ github.run_id }}" || true
-          git push origin logs || true
-
       - name: Top up channels to daily target
         env:
           GEMINI_KEY_A: ${{ secrets.GEMINI_KEY_A }}
