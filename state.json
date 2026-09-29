@@ -1,5 +1,211 @@
 [
   {
+    "id": "948026db5a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Severed Head That Killed Its Slayer",
+    "idea": {
+      "title": "The Severed Head That Killed Its Slayer",
+      "hook": "Earl Sigurd beheaded his greatest enemy in victory, but that severed head took fatal revenge hours later.",
+      "beats": [
+        "Sigurd the Mighty challenged rival chieftain Mael Brigte to a 40-man duel, but betrayed the deal by bringing 80 warriors.",
+        "After slaughtering the outnumbered foe, Sigurd tied Mael Brigte's decapitated head to his horse saddle as a victory trophy.",
+        "As Sigurd rode home in triumph, the severed head's prominent bucktooth repeatedly scratched his lower leg.",
+        "The minor cut turned into a raging septic infection, killing Sigurd days later—slain by a dead man."
+      ],
+      "keywords": [
+        "Viking Earl historical portrait",
+        "severed head ancient engraving",
+        "medieval Norse battle painting",
+        "Orkney islands vintage map",
+        "Viking horse warrior illustration"
+      ],
+      "tags": [
+        "vikings",
+        "ancienthistory",
+        "weirdhistory",
+        "historicalirony",
+        "historyshorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A severed head once killed its own Viking conqueror.",
+        "search": "severed head ancient engraving",
+        "caption": "A severed head killed its own conqueror."
+      },
+      {
+        "narration": "In the late ninth century, Sigurd Eysteinsson ruled the Orkney Islands as Norse Earl.",
+        "search": "orkney islands vintage map engraving",
+        "caption": "Late 9th century: Sigurd the Mighty rules Orkney."
+      },
+      {
+        "narration": "Expanding his dominion into mainland Scotland, Sigurd collided with the Pictish mormaer, Máel Brigte.",
+        "search": "pictish stone monument carving",
+        "caption": "Sigurd clashed with Scottish ruler Máel Brigte."
+      },
+      {
+        "narration": "Máel Brigte was known across the Highlands for an unusually prominent, protruding bucktooth.",
+        "search": "celtic warrior portrait engraving",
+        "caption": "Máel Brigte was known for a protruding tooth."
+      },
+      {
+        "narration": "To end their bloody border war, the two leaders agreed to a formal duel of forty mounted warriors each.",
+        "search": "medieval mounted warriors oil painting",
+        "caption": "Both agreed to a forty-man duel."
+      },
+      {
+        "narration": "Sigurd violated the truce before departing, secretly mounting two fully armed warriors onto every horse.",
+        "search": "viking horse warriors battle manuscript illumination",
+        "caption": "Sigurd secretly brought eighty warriors instead of forty."
+      },
+      {
+        "narration": "Approaching the rendezvous, Máel Brigte spotted four boots hanging from each Norse saddle, exposing the trap.",
+        "search": "medieval cavalry battle engraving",
+        "caption": "Máel Brigte realized the treachery too late."
+      },
+      {
+        "narration": "The outnumbered Scots fought to the last man, and Sigurd decapitated Máel Brigte on the field.",
+        "search": "medieval execution decapitation manuscript illumination",
+        "caption": "Sigurd slaughtered and decapitated his rival."
+      },
+      {
+        "narration": "To parade his total conquest, Earl Sigurd bound Máel Brigte’s severed head to the side of his saddle.",
+        "search": "viking warrior saddle trophy medieval manuscript illustration",
+        "caption": "Sigurd strapped the severed head directly to his saddle."
+      },
+      {
+        "narration": "The slain Scottish chieftain bore the moniker 'The Tusk' due to an abnormally large, protruding front tooth.",
+        "search": "ancient human skull protruding tooth macro engraving",
+        "caption": "Máel Brigte was known as 'The Tusk' for his protruding tooth."
+      },
+      {
+        "narration": "Triumphant, the Norse host turned south toward Moray, galloping through the rugged Scottish coastal terrain.",
+        "search": "viking warriors on horseback oil painting",
+        "caption": "The Norse force rode south in celebration."
+      },
+      {
+        "narration": "With every heavy stride of the horse, the severed head violently battered against Sigurd’s bare lower leg.",
+        "search": "medieval war horse galloping side view painting",
+        "caption": "The swinging head repeatedly struck Sigurd's calf."
+      },
+      {
+        "narration": "The protruding tooth repeatedly dug into Sigurd’s flesh, tearing open a jagged scratch beneath his knee.",
+        "search": "injured leg cut medieval medical manuscript illumination",
+        "caption": "The protruding tooth sliced into Sigurd's leg."
+      },
+      {
+        "narration": "Disregarding the superficial abrasion, the Earl rode on without cleaning the blood from his skin.",
+        "search": "dornoch firth scotland coastal landscape vintage engraving",
+        "caption": "Sigurd dismissed the minor wound as harmless."
+      },
+      {
+        "narration": "Oral microbes from the dead chieftain’s mouth seeped deep into the laceration, triggering an aggressive bacterial infection.",
+        "search": "medieval physician examining sick patient woodcut engraving",
+        "caption": "Lethal bacteria invaded the open wound within hours."
+      },
+      {
+        "narration": "By nightfall, Sigurd's leg had blackened with severe cellulitis, leaving the conqueror delirious with raging fever.",
+        "search": "dying viking warrior camp tent oil painting",
+        "caption": "Raging sepsis rapidly immobilized the Norse earl."
+      },
+      {
+        "narration": "In 892 AD, Earl Sigurd Eysteinsson succumbed to the infection, cementing his legacy as the conqueror slain by his own decapitated victim.",
+        "search": "Viking burial mound oil painting",
+        "caption": "Sigurd Eysteinsson died in 892 AD, slain by his decapitated victim."
+      }
+    ],
+    "error": "",
+    "youtube_id": "ILib4qamvNo",
+    "youtube_url": "https://www.youtube.com/watch?v=ILib4qamvNo",
+    "created_at": "2026-09-29T00:02:38.452028+00:00",
+    "updated_at": "2026-09-29T00:06:30.317200+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T00:04:23.239230+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "504 chars",
+        "at": "2026-09-29T00:05:25.452809+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.4s en-US-GuyNeural 8 cau",
+        "at": "2026-09-29T00:05:28.689420+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T00:05:29.821832+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-29T00:05:42.796344+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-29T00:05:42.816689+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.4s 10665980 bytes",
+        "at": "2026-09-29T00:06:24.523774+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ILib4qamvNo",
+        "at": "2026-09-29T00:06:27.711420+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T00:06:27.965777+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T00:06:30.272285+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T00:06:30.283320+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T00:06:30.317183+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10560568/pexels-photo-10560568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5370912/pexels-photo-5370912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9806133/pexels-photo-9806133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11750217/pexels-photo-11750217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268889/pexels-photo-9268889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386134/pexels-photo-38386134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327479/pexels-photo-35327479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18062017/pexels-photo-18062017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386060/pexels-photo-38386060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37011584/pexels-photo-37011584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38868920/pexels-photo-38868920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35249695/pexels-photo-35249695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7699506/pexels-photo-7699506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35450010/pexels-photo-35450010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5214990/pexels-photo-5214990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30835422/pexels-photo-30835422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32836031/pexels-photo-32836031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2c9354ee11",
     "kind": "short",
     "channel": "Channel2",
