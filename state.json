@@ -1,5 +1,211 @@
 [
   {
+    "id": "be11ef7c1e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Execution Henry VIII Regretted Until His Death",
+    "idea": {
+      "title": "The Execution Henry VIII Regretted Until His Death",
+      "hook": "King Henry VIII executed his most brilliant advisor, Thomas Cromwell, on false charges, only to spend his final days in bitter regret realizing he had destroyed his own crown.",
+      "beats": [
+        "Thomas Cromwell was the mastermind behind Henry's break from Rome and his massive wealth accumulation.",
+        "But a disastrous arranged marriage to Anne of Cleves made Henry furious, allowing Cromwell's enemies to frame him for treason.",
+        "Just months after the execution, Henry realized he had been manipulated and publicly lamented losing the most faithful servant he ever had.",
+        "He spent his remaining years paranoid, realizing no one else could govern his chaotic kingdom."
+      ],
+      "keywords": [
+        "Henry VIII portrait",
+        "Thomas Cromwell engraving",
+        "Tudor court painting",
+        "executioner axe",
+        "Tudor England map"
+      ],
+      "tags": [
+        "history",
+        "henryviii",
+        "tudor",
+        "regret",
+        "britishhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "The one execution King Henry the Eighth bitterly regretted.",
+        "search": "King Henry VIII portrait painting close up",
+        "caption": "The one execution Henry VIII bitterly regretted."
+      },
+      {
+        "narration": "In July 1540, the English crown lost its most brilliant administrative mastermind, plunging the Tudor court into chaos.",
+        "search": "Tudor England map 16th century engraving",
+        "caption": "In July 1540, the Tudor court fell into chaos."
+      },
+      {
+        "narration": "Thomas Cromwell had risen from obscurity to become the chief architect of the English Reformation and the King's most powerful minister.",
+        "search": "Thomas Cromwell engraving portrait",
+        "caption": "Thomas Cromwell engineered the English Reformation."
+      },
+      {
+        "narration": "By dismantling the monasteries, Cromwell filled the royal treasury with unprecedented wealth, securing Henry's absolute power.",
+        "search": "dissolution of the monasteries 16th century manuscript illustration",
+        "caption": "Cromwell brought unprecedented wealth to the royal treasury."
+      },
+      {
+        "narration": "But in late 1539, Cromwell arranged Henry's disastrous fourth marriage to the German princess, Anne of Cleves.",
+        "search": "Anne of Cleves oil painting portrait",
+        "caption": "Cromwell arranged the disastrous marriage to Anne of Cleves."
+      },
+      {
+        "narration": "Seizing on the King's immediate fury, Cromwell's conservative rivals at court framed the minister for heresy and high treason.",
+        "search": "Tudor court painting political plotting",
+        "caption": "Rivals accused Cromwell of heresy and high treason."
+      },
+      {
+        "narration": "Without a trial, the fifty-five-year-old statesman was condemned to the scaffold on Tower Hill on July twenty-eighth, 1540.",
+        "search": "executioner axe 16th century engraving",
+        "caption": "Cromwell was executed without trial on July 28, 1540."
+      },
+      {
+        "narration": "Within months of the execution, Henry realized he had been manipulated, publicly accusing his ministers of destroying his most faithful servant.",
+        "search": "King Henry VIII older portrait painting",
+        "caption": "Henry soon realized he had executed his most faithful servant."
+      },
+      {
+        "narration": "Following Cromwell’s death in 1540, the administrative machinery of Tudor England immediately began to fracture.",
+        "search": "16th century Tudor court oil painting",
+        "caption": "The Tudor administration fractured without Cromwell's guidance."
+      },
+      {
+        "narration": "The vast wealth Cromwell had secured from the dissolved monasteries was quickly squandered on aggressive, fruitless military campaigns.",
+        "search": "dissolution of the monasteries ruins engraving",
+        "caption": "Cromwell's accumulated wealth was rapidly squandered."
+      },
+      {
+        "narration": "In 1542, Henry launched costly invasions of Scotland and France, lacking the financial strategy to sustain them.",
+        "search": "Battle of Solway Moss 1542 engraving",
+        "caption": "Costly military campaigns drained the royal treasury."
+      },
+      {
+        "narration": "The conservative faction led by Thomas Howard, Duke of Norfolk, proved utterly incapable of managing the state's complex finances.",
+        "search": "Thomas Howard 3rd Duke of Norfolk portrait painting",
+        "caption": "Rival factions lacked Cromwell's administrative genius."
+      },
+      {
+        "narration": "By 1544, desperate for funds, Henry was forced to debase the English coinage, triggering massive inflation across the realm.",
+        "search": "King Henry VIII silver coin engraving",
+        "caption": "Currency debasement triggered widespread economic crisis."
+      },
+      {
+        "narration": "As his physical health failed and a painful leg ulcer confined him, Henry's paranoia reached a fever pitch.",
+        "search": "King Henry VIII older portrait painting",
+        "caption": "Physical decline fueled the King's growing paranoia."
+      },
+      {
+        "narration": "He realized that his remaining courtiers were merely sycophants, plotting for power rather than serving the Crown.",
+        "search": "Tudor politicians plotting oil painting",
+        "caption": "Henry realized his advisors were self-serving sycophants."
+      },
+      {
+        "narration": "In his final years, Henry repeatedly lamented that no minister could ever replace the absolute loyalty of the man he had beheaded.",
+        "search": "Tower of London scaffold engraving",
+        "caption": "Henry lamented the loss of his most loyal servant."
+      },
+      {
+        "narration": "When Henry VIII died in 1547, he left behind a fractured dynasty, forever haunted by the self-inflicted execution of the one man who could have saved his crown.",
+        "search": "King Henry VIII late portrait oil painting",
+        "caption": "Henry VIII died in 1547, ruined by his own fatal mistake."
+      }
+    ],
+    "error": "",
+    "youtube_id": "qgm7C09nsto",
+    "youtube_url": "https://www.youtube.com/watch?v=qgm7C09nsto",
+    "created_at": "2026-09-29T21:32:03.308216+00:00",
+    "updated_at": "2026-09-29T21:37:12.208986+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-29T21:34:48.783039+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "680 chars",
+        "at": "2026-09-29T21:35:51.640765+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "43.4s en-US-GuyNeural 8 cau",
+        "at": "2026-09-29T21:35:54.711092+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-29T21:35:56.422974+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-29T21:36:07.487696+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-29T21:36:07.502037+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 43.4s 12884750 bytes",
+        "at": "2026-09-29T21:37:08.054602+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=qgm7C09nsto",
+        "at": "2026-09-29T21:37:10.314214+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-29T21:37:10.535344+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-29T21:37:12.147417+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-29T21:37:12.162626+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-29T21:37:12.208976+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/9890091/pexels-photo-9890091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34415901/pexels-photo-34415901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24827415/pexels-photo-24827415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34512355/pexels-photo-34512355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20720305/pexels-photo-20720305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10659454/pexels-photo-10659454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15604717/pexels-photo-15604717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15584330/pexels-photo-15584330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36107327/pexels-photo-36107327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9983090/pexels-photo-9983090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37150088/pexels-photo-37150088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12337706/pexels-photo-12337706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588830/pexels-photo-4588830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8792982/pexels-photo-8792982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13990959/pexels-photo-13990959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39625422/pexels-photo-39625422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "22ff4b341b",
     "kind": "short",
     "channel": "Channel3",
