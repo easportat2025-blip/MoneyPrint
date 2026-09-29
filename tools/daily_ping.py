@@ -78,6 +78,31 @@ def refresh_views(records: list) -> dict:
     return out
 
 
+SLOT_ALIAS = {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "rezain": "1",
+    "seigh": "2",
+    "rescey": "3",
+    "channel2": "2",
+    "channel3": "3",
+    "?": "?",
+}
+
+SLOT_LABEL = {
+    "1": "Slot 1 (ReZain)",
+    "2": "Slot 2 (seigh)",
+    "3": "Slot 3 (rescey)",
+    "?": "Chua gan nhan",
+}
+
+
+def _slot_key(r: dict) -> str:
+    raw = str(r.get("slot") or r.get("channel") or "?").strip()
+    return SLOT_ALIAS.get(raw.lower(), raw)
+
+
 def main() -> int:
     today_vn = datetime.now(VN).date()
     today_utc = today_vn.isoformat()
@@ -96,7 +121,7 @@ def main() -> int:
     for r in state:
         if not r.get("youtube_id"):
             continue
-        slot = r.get("slot") or r.get("channel") or "?"
+        slot = _slot_key(r)
         vid = r["youtube_id"]
         v = cur.get(vid, {}).get("views", 0)
         try:
@@ -143,8 +168,9 @@ def main() -> int:
     L.append("## Theo kenh")
     for slot in sorted(by_slot):
         d = by_slot[slot]
+        label = SLOT_LABEL.get(slot, f"Slot {slot}")
         L.append(
-            f"- Slot {slot}: {d['n']} video, {d['views']} views "
+            f"- {label}: {d['n']} video, {d['views']} views "
             f"(top: {d['top'][1][:50]} - {d['top'][0]})"
         )
     L.append("")
