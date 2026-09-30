@@ -1,5 +1,212 @@
 [
   {
+    "id": "33dc2493ce",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao uống cà phê ngay khi thức dậy là sai lầm?",
+    "idea": {
+      "title": "Tại sao uống cà phê ngay khi thức dậy là sai lầm?",
+      "hook": "Cốc cà phê đầu tiên lúc 7 giờ sáng không hề giúp bạn tỉnh táo hơn, mà thực chất đang âm thầm khiến bạn kiệt sức vào buổi chiều.",
+      "beats": [
+        "Khi vừa mở mắt, cơ thể bạn đang tự tiết ra lượng cortisol (hormone tỉnh táo) ở mức cao nhất trong ngày.",
+        "Nạp caffeine vào thời điểm này khiến não lầm tưởng cơ thể thừa cortisol, từ đó ngừng sản xuất tự nhiên và nhanh chóng bị nhờn thuốc.",
+        "Caffeine ngăn chặn thụ thể adenosine tạm thời, khiến các phân tử mệt mỏi tích tụ dồn dập sau lưng.",
+        "Khi caffeine tan hết sau vài giờ, toàn bộ adenosine ập vào não cùng lúc, tạo ra cú sụp đổ năng lượng kinh hoàng lúc 2-3 giờ chiều.",
+        "Thời điểm vàng: hãy chờ 60 đến 90 phút sau khi thức dậy mới nên uống ngụm cà phê đầu tiên."
+      ],
+      "keywords": [
+        "morning coffee wake up",
+        "tired office worker yawning",
+        "cortisol adrenal gland animation",
+        "caffeine molecule brain receptors",
+        "afternoon energy crash desk"
+      ],
+      "tags": [
+        "ca phe",
+        "khoa hoc co the",
+        "thoi quen buoi sang",
+        "suc khoe",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cốc cà phê sáng đang âm thầm vắt kiệt bạn.",
+        "search": "nguoi uong ca phe buoi sang toi u am",
+        "caption": "Cà phê sáng sớm đang khiến bạn kiệt sức"
+      },
+      {
+        "narration": "Ngay khi bạn mở mắt, cơ thể tự động giải phóng lượng cortisol đạt đỉnh để kích hoạt năng lượng tự nhiên.",
+        "search": "dong ho bao thuc anh sang chieu phong toi",
+        "caption": "Cơ thể tự tiết hormone tỉnh táo lúc thức giấc"
+      },
+      {
+        "narration": "Đưa caffeine vào thời điểm này khiến bộ não lầm tưởng cơ thể đang dư thừa năng lượng một cách bất thường.",
+        "search": "nao nguoi phat sang hoat hinh do hoa toi",
+        "caption": "Caffeine làm gián đoạn chu trình tỉnh táo tự nhiên"
+      },
+      {
+        "narration": "Tuyến thượng thận lập tức đình chỉ sản xuất cortisol, biến bạn thành kẻ lệ thuộc hoàn toàn vào cà phê.",
+        "search": "tuyen thuong than hoat hoa sinh hoc te bao",
+        "caption": "Cơ thể mất phản xạ tự tỉnh táo và bị nhờn thuốc"
+      },
+      {
+        "narration": "Chưa dừng lại, caffeine không hề triệt tiêu mệt mỏi mà chỉ tạm thời bịt kín các thụ thể adenosine.",
+        "search": "phan tu hoa hoc lien ket thu the than kinh",
+        "caption": "Caffeine chỉ che giấu cảm giác mệt mỏi"
+      },
+      {
+        "narration": "Bên ngoài thụ thể, các phân tử mệt mỏi tiếp tục âm thầm nhân lên và tích tụ dồn dập như sóng ngầm.",
+        "search": "phan tu nang luong tich tu day dac bong toi",
+        "caption": "Cơn mệt mỏi vô hình liên tục tích tụ"
+      },
+      {
+        "narration": "Đến đầu giờ chiều, lớp màng caffeine biến mất, toàn bộ adenosine ập vào não tạo nên cú sụp đổ năng lượng.",
+        "search": "nhan vien van phong guc nga tren ban toi",
+        "caption": "Cú sụp đổ năng lượng tàn khốc lúc 2 giờ chiều"
+      },
+      {
+        "narration": "Giải pháp duy nhất là lùi giờ uống cà phê lại từ sáu mươi đến chín mươi phút sau khi thức dậy.",
+        "search": "ly ca phe khoi bop len dong ho dem gio",
+        "caption": "Chờ 60 đến 90 phút trước ngụm cà phê đầu tiên"
+      },
+      {
+        "narration": "Trì hoãn chín mươi phút chỉ phát huy tác dụng nếu bạn không phạm phải sai lầm nghiêm trọng thứ hai: uống khi bụng rỗng.",
+        "search": "coc ca phe den tren ban go toi mau",
+        "caption": "Sai lầm tai hại: uống cà phê khi bụng đói"
+      },
+      {
+        "narration": "Hợp chất axit trong cà phê kích hoạt dạ dày tiết dịch vị ồ ạt, trực tiếp tấn công lớp niêm mạc chưa có thức ăn che chắn.",
+        "search": "axit an mon mo hinh 3d da day",
+        "caption": "Axit kích thích mạnh bào mòn niêm mạc dạ dày"
+      },
+      {
+        "narration": "Đồng thời, caffeine nhanh chóng rút cạn nguồn nước sau giấc ngủ dài, khiến máu cô đặc và tim phải đập dồn dập hơn.",
+        "search": "tim nguoi dap nhanh trong bong toi mo hinh",
+        "caption": "Máu cô đặc khiến tim chịu áp lực lớn"
+      },
+      {
+        "narration": "Việc ép tuyến thượng thận phóng thích adrenaline liên tục mỗi sáng sẽ sớm đẩy cơ thể vào trạng thái kiệt quệ hormone mạn tính.",
+        "search": "tuyen thuong than phat sang do kiet que",
+        "caption": "Tuyến thượng thận suy kiệt vì kích thích liên tục"
+      },
+      {
+        "narration": "Hậu quả là ngưỡng dung nạp tăng vọt: bạn cần hai, thậm chí ba cốc mỗi sáng chỉ để đạt trạng thái tỉnh táo bình thường.",
+        "search": "nhieu ly ca phe xep tang dan mat ban",
+        "caption": "Não nhờn caffeine buộc phải tăng liều liên tục"
+      },
+      {
+        "narration": "Lượng caffeine tồn dư kéo dài suốt mười hai tiếng, âm thầm triệt tiêu giai đoạn ngủ sâu phục hồi vào ban đêm.",
+        "search": "song nao mat ngu dem toi can phong",
+        "caption": "Caffeine phá hủy chu kỳ ngủ sâu ban đêm"
+      },
+      {
+        "narration": "Bạn thức dậy sáng hôm sau trong trạng thái mệt mỏi gấp bội, và não bộ lại gào thét đòi hỏi một ly cà phê mới.",
+        "search": "nguoi ngoi day tren giuong met moi tuyet vong",
+        "caption": "Vòng lặp kiệt sức không lối thoát mỗi sáng"
+      },
+      {
+        "narration": "Để bẻ gãy cái bẫy sinh học này, giới khoa học đã đưa ra một quy tắc nạp năng lượng chuẩn xác từng bước trước ngụm cà phê.",
+        "search": "dong ho cat chay trong phong toi bi an",
+        "caption": "Thứ tự nạp năng lượng chuẩn xác phá vỡ bẫy"
+      },
+      {
+        "narration": "Hãy trì hoãn ly cà phê đầu tiên từ 60 đến 90 phút sau khi thức dậy, để cortisol tự nhiên làm sạch adenosine trước khi caffeine tiếp quản.",
+        "search": "dong ho cat dem nguoc nguoi dan ong uong ca phe sang",
+        "caption": "Hãy chờ 60 đến 90 phút mới uống ly cà phê đầu tiên"
+      }
+    ],
+    "error": "",
+    "youtube_id": "cBTasYhUW8k",
+    "youtube_url": "https://www.youtube.com/watch?v=cBTasYhUW8k",
+    "created_at": "2026-09-30T10:48:19.806712+00:00",
+    "updated_at": "2026-09-30T10:54:32.383499+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T10:50:16.330632+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "568 chars",
+        "at": "2026-09-30T10:52:46.639509+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.9s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-30T10:52:59.010087+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T10:53:00.622487+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-30T10:53:25.593722+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-30T10:53:25.609942+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.9s 18000116 bytes",
+        "at": "2026-09-30T10:54:27.726256+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=cBTasYhUW8k",
+        "at": "2026-09-30T10:54:30.630409+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T10:54:30.832143+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T10:54:32.304754+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T10:54:32.321712+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T10:54:32.383483+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7341244/7341244-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34619062/14672158_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39322567/16732200_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/17230362/17230362-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38930436/16557929_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/37704027/15987658_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39670272/16911477_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/32653717/13922599_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/19901707/19901707-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28925319/12518750_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6670422/6670422-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34094892/14460685_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6932740/6932740-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/3825405/3825405-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/28962440/12529173_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39616306/16886513_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/27808229/12229199_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "b9d8d9dd15",
     "kind": "short",
     "channel": "Channel2",
