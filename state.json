@@ -1,5 +1,50 @@
 [
   {
+    "id": "5e422830aa",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Died Laughing",
+    "idea": {
+      "title": "The Roman Emperor Who Died Laughing",
+      "hook": "The Roman emperor who laughed so hard at a bad joke that his heart literally stopped beating.",
+      "beats": [
+        "Introduce Emperor Chrysippus or the historical variant of the philosopher/ruler dying of laughter over a donkey eating figs.",
+        "Show how an ordinary moment of high-stakes court humor turned instantly fatal.",
+        "Detail the bizarre medical and historical aftermath of a ruler passing away from pure amusement."
+      ],
+      "keywords": [
+        "roman bust",
+        "ancient rome painting",
+        "historical portrait",
+        "roman emperor statue",
+        "oil painting classical"
+      ],
+      "tags": [
+        "history",
+        "romanempire",
+        "historyfacts",
+        "shorts",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "invalid json: {\"scenes\":\":[{\"narration\":\"Court physicians recorded the unprecedented mechanics of a sovereign expiring from pure mirth in 206 BC.\",\"search\":\"ancient rome painting\",\"caption\":\"Physicians documented the bizarre imperial fatality.\"},{\"narration\":\"The philosopher Chrysippus of Soli met a nearly identi",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-09-30T21:38:16.795296+00:00",
+    "updated_at": "2026-09-30T21:40:53.003725+00:00",
+    "stages": {
+      "error": {
+        "ok": false,
+        "detail": "invalid json: {\"scenes\":\":[{\"narration\":\"Court physicians recorded the unprecedented mechanics of a sovereign expiring from pure mirth in 206 BC.\",\"search\":\"ancient rome painting\",\"caption\":\"Physicians documented the bizarre imperial fatality.\"},{\"narration\":\"The philosopher Chrysippus of Soli met a nearly identi",
+        "at": "2026-09-30T21:40:53.003706+00:00"
+      }
+    }
+  },
+  {
     "id": "465bec0846",
     "kind": "long",
     "channel": "ReZain",
