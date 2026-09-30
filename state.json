@@ -1,5 +1,211 @@
 [
   {
+    "id": "286218d954",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật về cơn buồn ngủ lúc 2 giờ chiều",
+    "idea": {
+      "title": "Sự thật về cơn buồn ngủ lúc 2 giờ chiều",
+      "hook": "Bạn nghĩ mình buồn ngủ lúc 2 giờ chiều là do ăn no? Thực ra cơ thể bạn đang bị lập trình để làm việc này.",
+      "beats": [
+        "Hầu hết mọi người đổ lỗi cho bữa trưa nhiều tinh bột gây ra cơn buồn ngủ đỉnh điểm lúc 14g.",
+        "Nhưng thực chất, đây là nhịp sinh học tự nhiên (circadian rhythm) giảm xuống, gọi là 'bản đồ năng lượng' của con người.",
+        "Tổ tiên chúng ta từng ngủ hai giấc mỗi ngày, và cơn buồn ngủ chiều này là tàn dư sinh học của giấc ngủ thứ hai đó.",
+        "Thay vì uống caffeine (sẽ phá hủy giấc ngủ tối), một giấc ngủ ngắn 15 phút hoặc đi bộ dưới nắng mới là giải pháp đúng."
+      ],
+      "keywords": [
+        "tired office worker",
+        "circadian rhythm animation",
+        "sunlight walking",
+        "sleeping at desk",
+        "brain clock"
+      ],
+      "tags": [
+        "khoahoc",
+        "suckhoe",
+        "giacngu",
+        "thoiquen",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ mình buồn ngủ lúc 2 giờ chiều là do ăn no? Sự thật đáng sợ hơn thế nhiều.",
+        "search": "nhan vien van phong met moi ngu guc tren ban lam viec",
+        "caption": "Buồn ngủ lúc 2 giờ chiều không phải do ăn no."
+      },
+      {
+        "narration": "Hầu hết chúng ta đều đổ lỗi cho đĩa cơm trưa đầy tinh bột đã hút cạn năng lượng. Nhưng tại sao cơn thèm ngủ này luôn ập đến chính xác vào khung giờ đó?",
+        "search": "dia com tam thit nuong hap dan ngon mieng",
+        "caption": "Đĩa cơm trưa không phải là thủ phạm thực sự."
+      },
+      {
+        "narration": "Sâu bên trong não bộ của bạn, có một chiếc đồng hồ sinh học đang âm thầm điều khiển cuộc chơi.",
+        "search": "mo hinh dong ho sinh hoc nao bo phat sang",
+        "caption": "Một chiếc đồng hồ bí ẩn đang điều khiển bạn."
+      },
+      {
+        "narration": "Đây gọi là nhịp sinh học tự nhiên, nơi \"bản đồ năng lượng\" của con người bị sụt giảm nghiêm trọng sau mỗi 12 tiếng.",
+        "search": "bieu do nang luong co the nguoi di xuong",
+        "caption": "Bản đồ năng lượng của bạn tự động sụt giảm."
+      },
+      {
+        "narration": "Nhưng tại sao cơ thể lại tự hủy hoại năng lượng vào giữa ngày? Câu trả lời nằm ở DNA của tổ tiên chúng ta.",
+        "search": "nguoi tien su ngu trong hang toi ben dong lua",
+        "caption": "Bí mật nằm trong DNA của tổ tiên loài người."
+      },
+      {
+        "narration": "Hàng vạn năm trước, loài người không ngủ một mạch 8 tiếng mà chia làm hai giấc mỗi ngày, và cơn buồn ngủ chiều này chính là tàn dư đó.",
+        "search": "nguoi co dai thuc day giua dem toi",
+        "caption": "Tổ tiên chúng ta từng ngủ hai giấc mỗi ngày."
+      },
+      {
+        "narration": "Sai lầm lớn nhất là nạp ngay một ly caffeine vào lúc này, hành động trực tiếp tàn phá giấc ngủ sâu của bạn vào ban đêm.",
+        "search": "ly ca phe den nong khoi nghi ngut",
+        "caption": "Uống cà phê lúc này sẽ tàn phá giấc ngủ tối."
+      },
+      {
+        "narration": "Thay vào đó, chỉ cần một giấc ngủ ngắn đúng 15 phút hoặc đi bộ dưới ánh nắng tự nhiên để lập trình lại bộ não của bạn.",
+        "search": "nguoi di bo duoi anh nang mat troi chieu roi",
+        "caption": "Đi bộ dưới nắng hoặc chợp mắt 15 phút là cứu cánh."
+      },
+      {
+        "narration": "Ánh sáng mặt trời lúc này hoạt động như một công tắc reset, lập tức ngăn chặn sự tích tụ của adenosine - hoạt chất gây buồn ngủ trong não bộ.",
+        "search": "anh sang mat troi chieu qua cua so van phong toi",
+        "caption": "Ánh sáng tự nhiên dập tắt chất gây buồn ngủ."
+      },
+      {
+        "narration": "Ngược lại, nếu bạn cố ép cơ thể tỉnh táo bằng đường hoặc nước tăng lực, bạn đang tự tạo ra một khoản nợ năng lượng khổng lồ.",
+        "search": "nguoi dan ong met moi uong nuoc tang luc phong toi",
+        "caption": "Ép bản thân tỉnh táo tạo ra nợ năng lượng."
+      },
+      {
+        "narration": "Khoản nợ này không hề biến mất. Nó tích tụ lại và bùng phát thành cơn kiệt quệ tinh thần nghiêm trọng vào cuối ngày làm việc.",
+        "search": "dong ho cat chay nhanh cat den roi xuong",
+        "caption": "Cơn kiệt sức tích tụ bùng phát cuối ngày."
+      },
+      {
+        "narration": "Các nhà nhân chủng học phát hiện ra rằng, tổ tiên chúng ta từng chia giấc ngủ làm hai giai đoạn để tối ưu hóa năng lượng sinh học.",
+        "search": "nguoi co dai ngu ben dong lua dem toi",
+        "caption": "Tổ tiên từng ngủ hai giấc mỗi ngày."
+      },
+      {
+        "narration": "Việc ép cơ thể làm việc liên tục 8 tiếng là một phát minh công nghiệp hiện đại, hoàn toàn đi ngược lại thiết kế sinh học nguyên bản.",
+        "search": "banh rang may moc khong lo quay trong bong toi",
+        "caption": "Làm việc liên tục đi ngược lại sinh học."
+      },
+      {
+        "narration": "Cuộc chiến hóa học âm thầm này diễn ra mỗi ngày bên trong não bộ, khiến bạn luôn cảm thấy kiệt quệ dù không làm việc nặng.",
+        "search": "mo phong nao bo phat sang xanh lam trong toi",
+        "caption": "Cuộc chiến hóa học âm thầm trong não bộ."
+      },
+      {
+        "narration": "Chìa khóa không phải là chống lại cơn buồn ngủ, mà là dịch chuyển những công việc đòi hỏi sự tập trung cao ra khỏi khung giờ tử thần này.",
+        "search": "nguoi viet chu tren bang kinh toi mat tap trung",
+        "caption": "Đừng xếp việc quan trọng vào giờ tử thần."
+      },
+      {
+        "narration": "Khi bạn ngừng chống lại nhịp sinh học tự nhiên, cơ thể sẽ tự động giải phóng một nguồn năng lượng dự trữ cực lớn vào cuối buổi chiều.",
+        "search": "luong anh sang bung phat tu co the nguoi toi",
+        "caption": "Năng lượng bùng nổ khi thuận theo tự nhiên."
+      },
+      {
+        "narration": "Thay vì uống caffeine, một giấc ngủ ngắn 15 phút hoặc đi bộ dưới nắng mới là giải pháp đúng để nạp lại năng lượng.",
+        "search": "sunlight walking",
+        "caption": "Thay vì uống caffeine, hãy ngủ ngắn 15 phút hoặc đi bộ!"
+      }
+    ],
+    "error": "",
+    "youtube_id": "QmMieMi2rYU",
+    "youtube_url": "https://www.youtube.com/watch?v=QmMieMi2rYU",
+    "created_at": "2026-09-30T05:48:17.759139+00:00",
+    "updated_at": "2026-09-30T05:54:58.737994+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T05:51:54.989554+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "577 chars",
+        "at": "2026-09-30T05:53:21.385227+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.2s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-09-30T05:53:31.006050+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T05:53:32.543105+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-30T05:53:53.853251+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-09-30T05:53:53.868205+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.2s 19149366 bytes",
+        "at": "2026-09-30T05:54:53.475834+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=QmMieMi2rYU",
+        "at": "2026-09-30T05:54:56.337444+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T05:54:56.600410+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T05:54:58.662352+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T05:54:58.678411+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T05:54:58.737980+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6913282/6913282-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7355444/7355444-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/38697709/16438452_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/10506826/10506826-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/33022367/14072758_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/16620283/16620283-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/19162418/19162418-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/27076988/12065344_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32699200/13940303_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35241235/14929839_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/28424269/12378612_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38381773/16299914_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30319098/12996828_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/15168376/15168376-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39542551/16848424_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31157265/13312568_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39257127/16702986_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "e46d91b8a4",
     "kind": "short",
     "channel": "Channel2",
