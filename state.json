@@ -1,5 +1,211 @@
 [
   {
+    "id": "188c4b6ef7",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ khi bật quạt thẳng vào người khi ngủ",
+    "idea": {
+      "title": "Sự thật đáng sợ khi bật quạt thẳng vào người khi ngủ",
+      "hook": "Bạn nghĩ bật quạt thẳng vào người là cách tốt nhất để giải nhiệt? Thực chất, cơ thể bạn đang âm thầm rơi vào trạng thái mất nước nghiêm trọng.",
+      "beats": [
+        "Gió từ quạt liên tục làm bay hơi lớp ẩm tự nhiên trên da và mắt, khiến bạn thức dậy với cổ họng khô rát.",
+        "Luồng khí lạnh tập trung vào một vùng cơ thể khiến các cơ bắp liên tục co rút vô thức để giữ ấm.",
+        "Đây là lý do tại sao bạn thường bị đau nửa đầu hoặc cứng cổ vào buổi sáng dù ngủ rất ngon.",
+        "Để bảo vệ sức khỏe, hãy để quạt quay đều hoặc hướng vào tường để lưu thông không khí gián tiếp."
+      ],
+      "keywords": [
+        "sleeping with fan",
+        "dehydration skin",
+        "muscle stiffness",
+        "bedroom air circulation",
+        "morning headache"
+      ],
+      "tags": [
+        "channel3",
+        "suc khoe",
+        "giac ngu",
+        "meo vat",
+        "khoa hoc doi song"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật quạt thẳng khi ngủ cực kỳ nguy hiểm.",
+        "search": "quat dien quay trong phong toi am u",
+        "caption": "Bật quạt thẳng khi ngủ cực kỳ nguy hiểm."
+      },
+      {
+        "narration": "Bạn nghĩ nó giúp giải nhiệt, nhưng thực chất cơ thể đang rơi vào trạng thái mất nước nghiêm trọng suốt đêm.",
+        "search": "nguoi nam ngu mo hoi boc hoi mat nuoc",
+        "caption": "Cơ thể mất nước nghiêm trọng suốt đêm."
+      },
+      {
+        "narration": "Luồng gió liên tục từ quạt nhanh chóng làm bay hơi lớp ẩm tự nhiên trên da và mắt của bạn.",
+        "search": "gio thoi vao mat kho khoc nut ne",
+        "caption": "Gió quạt làm khô kiệt làn da và mắt."
+      },
+      {
+        "narration": "Đó là lý do vì sao mỗi sáng thức dậy, cổ họng bạn luôn trong trạng thái khô rát và đau buốt.",
+        "search": "nguoi thuc day ho khan dau co hong",
+        "caption": "Cổ họng khô rát, đau buốt mỗi sáng."
+      },
+      {
+        "narration": "Nguy hiểm hơn, luồng khí lạnh tập trung vào một vùng khiến các bó cơ co rút vô thức để giữ ấm.",
+        "search": "co bap co rut mo phong 3d lanh",
+        "caption": "Các bó cơ liên tục co rút vô thức."
+      },
+      {
+        "narration": "Sự co rút liên tục này giải thích vì sao bạn hay bị cứng cổ hoặc đau nửa đầu vai gáy khi thức dậy.",
+        "search": "nguoi om dau vai gay dau don buoi sang",
+        "caption": "Cơn đau đầu, cứng cổ xuất hiện đột ngột."
+      },
+      {
+        "narration": "Nhưng bạn không cần phải tắt quạt và chịu nóng để bảo vệ sức khỏe của mình.",
+        "search": "nguoi nong buc do mo hoi trong dem",
+        "caption": "Làm sao để vừa mát vừa an toàn?"
+      },
+      {
+        "narration": "Hãy để quạt quay đều hoặc hướng thẳng vào tường để lưu thông không khí gián tiếp khắp phòng.",
+        "search": "quat dien quay deu huong vao tuong",
+        "caption": "Hãy để quạt quay hoặc hướng vào tường."
+      },
+      {
+        "narration": "Thế nhưng, luồng gió mát lạnh đó còn mang theo một mối đe dọa vô hình khác mà mắt thường không thể nhìn thấy.",
+        "search": "can phong toi bui bay trong khong khi chuyen dong cham",
+        "caption": "Mối đe dọa vô hình ẩn trong luồng gió mát."
+      },
+      {
+        "narration": "Cánh quạt khi quay liên tục hoạt động như một máy hút, gom hết bụi bẩn, tế bào chết và phấn hoa trong phòng.",
+        "search": "canh quat quay tich tu bui ban can canh",
+        "caption": "Cánh quạt tích tụ và phát tán hàng triệu hạt bụi."
+      },
+      {
+        "narration": "Luồng gió thổi trực tiếp sẽ ép toàn bộ lượng dị nguyên này thẳng vào đường hô hấp của bạn suốt 8 tiếng ban đêm.",
+        "search": "nguoi ngu hit tho mui mieng mo ra tia sang quet qua",
+        "caption": "Bụi mịn bị ép thẳng vào hệ hô hấp suốt đêm."
+      },
+      {
+        "narration": "Để tự bảo vệ, hệ miễn dịch buộc phải kích hoạt cơ chế tiết dịch nhầy khẩn cấp để bẫy các hạt bụi này.",
+        "search": "mo phong sinh hoc mui tiet dich nhay hoat hoa",
+        "caption": "Cơ thể tiết dịch nhầy khẩn cấp để tự vệ."
+      },
+      {
+        "narration": "Đây là lý do bạn thường tỉnh dậy với chiếc mũi nghẹt cứng và cổ họng đầy đờm dù không hề bị cảm lạnh.",
+        "search": "nguoi dan ong thuc day buoi sang ho khan mui do",
+        "caption": "Nghẹt mũi, đau họng buổi sáng không phải do cảm."
+      },
+      {
+        "narration": "Nghiêm trọng hơn, nhiệt độ giảm đột ngột ở vùng da tiếp xúc với gió khiến các mạch máu dưới da co thắt mạnh.",
+        "search": "quet nhiet co the nguoi mau xanh lanh co that mach mau",
+        "caption": "Mạch máu co thắt đột ngột do nhiệt độ giảm."
+      },
+      {
+        "narration": "Sự mất cân bằng tuần hoàn này trực tiếp kích hoạt các cơn đau đầu vận mạch âm ỉ ngay khi bạn vừa mở mắt.",
+        "search": "nguoi om dau nhan mat dau don tren giuong toi",
+        "caption": "Kích hoạt cơn đau đầu vận mạch dữ dội."
+      },
+      {
+        "narration": "Chu kỳ giấc ngủ sâu bị gián đoạn liên tục do các phản ứng tự vệ của cơ thể, khiến não bộ hoàn toàn kiệt quệ.",
+        "search": "bieu do song nao giac ngu dao dong hon loan do",
+        "caption": "Giấc ngủ sâu bị phá vỡ, não bộ kiệt quệ."
+      },
+      {
+        "narration": "Để bảo vệ sức khỏe, hãy luôn bật chế độ quay đều hoặc hướng quạt vào tường để lưu thông không khí gián tiếp.",
+        "search": "electric fan oscillating dark bedroom night",
+        "caption": "Hãy để quạt quay hoặc hướng vào tường để bảo vệ sức khỏe"
+      }
+    ],
+    "error": "",
+    "youtube_id": "L-GBn-36R0s",
+    "youtube_url": "https://www.youtube.com/watch?v=L-GBn-36R0s",
+    "created_at": "2026-09-30T18:14:10.087685+00:00",
+    "updated_at": "2026-09-30T18:19:24.971140+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T18:17:04.899984+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "605 chars",
+        "at": "2026-09-30T18:17:48.504222+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "38.6s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-30T18:17:57.632416+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T18:17:59.331802+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-30T18:18:20.262747+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-30T18:18:20.278639+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 38.6s 15903155 bytes",
+        "at": "2026-09-30T18:19:19.858409+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=L-GBn-36R0s",
+        "at": "2026-09-30T18:19:23.303071+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T18:19:23.568821+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T18:19:24.895128+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T18:19:24.911791+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T18:19:24.971131+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8102660/8102660-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6753379/6753379-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/26200881/11938221_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/27844617/12240613_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38522480/16360161_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6639914/6639914-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/9808519/9808519-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15524257/15524257-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28894824/12507359_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/29959024/12856312_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/27375089/12127589_720_1280_120fps.mp4",
+      "https://videos.pexels.com/video-files/6198813/6198813-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7131727/7131727-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/7565887/7565887-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/30035129/12885052_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/38902001/16542411_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/30157094/12931975_720_1280_60fps.mp4"
+    ]
+  },
+  {
     "id": "135a20c001",
     "kind": "short",
     "channel": "Channel3",
