@@ -1,5 +1,212 @@
 [
   {
+    "id": "35c5985958",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman Emperor Who Died in a Burning Hut",
+    "idea": {
+      "title": "The Roman Emperor Who Died in a Burning Hut",
+      "hook": "Emperor Valens rushed into battle without his co-emperor to steal all the military glory, only to end up trapped and burned alive in a peasant's wooden hut.",
+      "beats": [
+        "In 378 AD, Roman Emperor Valens faced a massive Gothic rebellion near Adrianople.",
+        "His co-emperor was marching to assist him, but Valens wanted the glory entirely for himself.",
+        "He refused to wait and launched a reckless attack, leading his army into a devastating trap.",
+        "As the Roman lines collapsed, a wounded Valens fled and hid inside a nearby wooden cottage.",
+        "Gothic soldiers, unaware the Emperor was inside, set the cottage on fire, burning him alive."
+      ],
+      "keywords": [
+        "Emperor Valens bust",
+        "Battle of Adrianople painting",
+        "Roman legionaries engraving",
+        "Gothic warriors illustration",
+        "Ancient Rome historical map"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "romanemperor",
+        "battleofadrianople",
+        "historicalmysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's emperor died trapped in a burning peasant hut.",
+        "search": "emperor valens bust statue",
+        "caption": "A Roman emperor burned alive inside a wooden hut"
+      },
+      {
+        "narration": "On August 9, 378 AD, the Eastern Roman Empire suffered its most catastrophic military collapse in four centuries.",
+        "search": "battle of adrianople oil painting",
+        "caption": "August 9, 378 AD: Rome's greatest military disaster"
+      },
+      {
+        "narration": "Emperor Valens ruled the East from Constantinople, facing an unprecedented crisis along the imperial Danube frontier.",
+        "search": "ancient roman empire map 4th century engraving",
+        "caption": "Emperor Valens ruled the Eastern Roman Empire"
+      },
+      {
+        "narration": "Over one hundred thousand Gothic refugees had crossed the river, driven to open rebellion by corrupt Roman officials.",
+        "search": "gothic warriors crossing danube river engraving",
+        "caption": "Tens of thousands of armed Goths revolted"
+      },
+      {
+        "narration": "Their chieftain, Fritigern, united the splintered tribes into a lethal force that pillaged Roman Thrace with impunity.",
+        "search": "fritigern gothic chieftain illustration",
+        "caption": "Fritigern unified the Gothic tribes against Rome"
+      },
+      {
+        "narration": "In the West, Emperor Gratian won stunning victories and dispatched a relief army to reinforce his uncle Valens.",
+        "search": "emperor gratian roman coin portrait",
+        "caption": "Western Emperor Gratian marched east to help"
+      },
+      {
+        "narration": "Court flatterers warned Valens that waiting for Gratian would force him to share the ultimate military glory.",
+        "search": "roman emperor imperial court oil painting",
+        "caption": "Advisors urged Valens not to share victory"
+      },
+      {
+        "narration": "Relying on faulty reconnaissance that undercounted the enemy, Valens marched his legions straight into the Thracian hills.",
+        "search": "roman legionaries marching column engraving",
+        "caption": "Valens marched his legions without waiting for help"
+      },
+      {
+        "narration": "On the blistering afternoon of August 9, 378 AD, Valens's exhausted legions arrived before the Gothic wagon fort near Adrianople.",
+        "search": "roman legionaries marching hot sun engraving",
+        "caption": "August 9, 378 AD: Roman legions arrive exhausted."
+      },
+      {
+        "narration": "The Gothic chieftain Fritigern initiated stalling negotiations, desperately waiting for his absent cavalry to return from foraging.",
+        "search": "gothic warriors camp historical illustration",
+        "caption": "Gothic leader Fritigern stalls for time."
+      },
+      {
+        "narration": "Before negotiations could conclude, impatient Roman archers launched an unauthorized attack, triggering a chaotic, full-scale battle.",
+        "search": "roman archers battle of adrianople engraving",
+        "caption": "An unauthorized Roman attack sparks chaotic battle."
+      },
+      {
+        "narration": "Suddenly, the Gothic cavalry swept down from the hills like a thunderbolt, completely blindsiding the Roman flanks.",
+        "search": "gothic cavalry charge battle painting",
+        "caption": "Gothic cavalry descends on the Roman flanks."
+      },
+      {
+        "narration": "The Roman lines were packed so tightly together that soldiers could not even draw their swords or shield themselves from the onslaught.",
+        "search": "battle of adrianople roman defeat engraving",
+        "caption": "Roman soldiers are trapped in a crushing press."
+      },
+      {
+        "narration": "By late afternoon, the Roman left wing collapsed entirely, turning the battlefield into a horrific slaughterhouse of imperial elite troops.",
+        "search": "ancient battlefield carnage oil painting",
+        "caption": "The Roman left wing collapses into slaughter."
+      },
+      {
+        "narration": "Amidst the chaos, Emperor Valens was struck by an enemy arrow, his royal armor offering no protection against the incoming volley.",
+        "search": "emperor valens wounded battle painting",
+        "caption": "Emperor Valens is wounded amidst the chaos."
+      },
+      {
+        "narration": "Abandoned by his fleeing guards, the bleeding emperor was dragged by a few loyal officers into a nearby, unmarked peasant cottage.",
+        "search": "ancient peasant wooden cottage engraving",
+        "caption": "The wounded emperor is dragged into a wooden cottage."
+      },
+      {
+        "narration": "Unaware the Roman Emperor was inside, Gothic soldiers barricaded the cottage and set it ablaze, burning Valens to death on August 9, 378 AD, a catastrophic defeat from which Rome's military never recovered.",
+        "search": "death of emperor valens burning cottage engraving",
+        "caption": "Valens burned alive, sealing Rome’s most catastrophic military defeat."
+      }
+    ],
+    "error": "",
+    "youtube_id": "YuKHSH-Bo1s",
+    "youtube_url": "https://www.youtube.com/watch?v=YuKHSH-Bo1s",
+    "created_at": "2026-09-30T23:19:56.384026+00:00",
+    "updated_at": "2026-09-30T23:24:01.172522+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T23:21:27.609799+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "654 chars (cat 176 de vua 55s)",
+        "at": "2026-09-30T23:22:34.330094+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "43.9s en-US-GuyNeural 9 cau",
+        "at": "2026-09-30T23:22:37.681690+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T23:22:39.463036+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-30T23:22:53.553165+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-30T23:22:53.570751+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 44.0s 16714629 bytes",
+        "at": "2026-09-30T23:23:56.603569+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=YuKHSH-Bo1s",
+        "at": "2026-09-30T23:23:59.085459+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T23:23:59.338664+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T23:24:01.102136+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T23:24:01.119491+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T23:24:01.172513+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32389701/pexels-photo-32389701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412598/pexels-photo-29412598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36122311/pexels-photo-36122311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37921233/pexels-photo-37921233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27163509/pexels-photo-27163509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33611525/pexels-photo-33611525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19940743/pexels-photo-19940743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19189942/pexels-photo-19189942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37970746/pexels-photo-37970746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34958015/pexels-photo-34958015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19578895/pexels-photo-19578895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35739484/pexels-photo-35739484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6968383/pexels-photo-6968383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34075947/pexels-photo-34075947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063867/pexels-photo-27063867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28221311/pexels-photo-28221311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18188768/pexels-photo-18188768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5e422830aa",
     "kind": "short",
     "channel": "Channel2",
