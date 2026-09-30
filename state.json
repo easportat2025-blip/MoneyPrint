@@ -1,5 +1,211 @@
 [
   {
+    "id": "135a20c001",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao uống nước đá khi trời nóng lại khiến bạn nóng hơn?",
+    "idea": {
+      "title": "Tại sao uống nước đá khi trời nóng lại khiến bạn nóng hơn?",
+      "hook": "Bạn vừa đi ngoài nắng về và uống ngay một ly nước đá để giải nhiệt? Bạn đang làm điều hoàn toàn ngược lại với cơ thể mình.",
+      "beats": [
+        "Nước đá lạnh làm co đột ngột các mạch máu ở dạ dày, làm giảm khả năng tự tỏa nhiệt tự nhiên của cơ thể.",
+        "Để tiêu hóa lượng nước quá lạnh đó, cơ thể bạn phải tốn thêm năng lượng để hâm nóng nó lên bằng nhiệt độ cơ thể (37 độ C).",
+        "Quá trình này vô tình sinh thêm nhiệt lượng từ bên trong, khiến bạn cảm thấy nóng bức hơn chỉ sau vài phút.",
+        "Thay vào đó, uống nước ấm hoặc nước ấm nhẹ mới thực sự kích thích đổ mồ hôi và làm mát cơ thể hiệu quả nhất."
+      ],
+      "keywords": [
+        "drinking ice water",
+        "sweating hot weather",
+        "body heat regulation",
+        "thermoregulation",
+        "warm water drink"
+      ],
+      "tags": [
+        "channel3",
+        "suc khoe",
+        "meo vat",
+        "khoa hoc",
+        "giai thich"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Uống nước đá khi trời nóng thực chất đang thiêu đốt cơ thể bạn từ bên trong.",
+        "search": "nguoi dan ong uong nuoc da duoi nang nong",
+        "caption": "Uống nước đá ngày nóng làm bạn nóng hơn."
+      },
+      {
+        "narration": "Cảm giác sảng khoái tức thì khi nuốt dòng nước lạnh thực ra chỉ là một cú lừa của hệ thần kinh.",
+        "search": "nao bo bi danh lua boi nhiet do",
+        "caption": "Cảm giác mát lạnh chỉ là cú lừa."
+      },
+      {
+        "narration": "Ngay khi nước đá chạm vào dạ dày, các mạch máu tại đây lập tức co thắt dữ dội.",
+        "search": "mach mau da day co that sinh hoc",
+        "caption": "Mạch máu dạ dày lập tức co thắt."
+      },
+      {
+        "narration": "Sự co thắt đột ngột này vô tình chặn đứng quá trình tự tỏa nhiệt tự nhiên của cơ thể ra môi trường.",
+        "search": "luong nhiet bi mac ket trong co the",
+        "caption": "Quá trình tỏa nhiệt tự nhiên bị chặn."
+      },
+      {
+        "narration": "Để tiêu hóa lượng nước quá lạnh đó, cơ thể bạn buộc phải huy động năng lượng để hâm nóng nó lên 37 độ C.",
+        "search": "co the sinh nhiet ham nong nuoc",
+        "caption": "Cơ thể phải hâm nóng nước lên 37 độ."
+      },
+      {
+        "narration": "Quá trình hâm nóng cưỡng bức này tiêu tốn rất nhiều calo, vô tình sinh thêm một lượng nhiệt lượng khổng lồ.",
+        "search": "te bao dot chay nang luong toa nhiet",
+        "caption": "Quá trình này vô tình sinh thêm nhiệt."
+      },
+      {
+        "narration": "Chỉ sau vài phút, lượng nhiệt nội sinh này tỏa ra khiến bạn cảm thấy nóng bức và ngột ngạt hơn trước.",
+        "search": "nguoi dan ong mo hoi dam dia nong buc",
+        "caption": "Bạn sẽ thấy nóng bức hơn lúc đầu."
+      },
+      {
+        "narration": "Thay vì nước đá, uống nước ấm nhẹ mới thực sự kích thích đổ mồ hôi và làm mát cơ thể hiệu quả nhất.",
+        "search": "uong nuoc am kich hoat do mo hoi",
+        "caption": "Nước ấm mới giúp làm mát hiệu quả."
+      },
+      {
+        "narration": "Nhưng sự thật còn tồi tệ hơn thế: nước đá lạnh khi đi vào cơ thể đột ngột sẽ làm tê liệt hệ tiêu hóa của bạn.",
+        "search": "he tieu hoa dong bang hoat hinh",
+        "caption": "Nước đá làm tê liệt hệ tiêu hóa đột ngột"
+      },
+      {
+        "narration": "Khi các mạch máu dạ dày bị co thắt mạnh do nhiệt độ thấp, quá trình hấp thụ nước bị đình trệ hoàn toàn.",
+        "search": "mach mau da day co that hoat hinh",
+        "caption": "Quá trình hấp thụ nước bị đình trệ"
+      },
+      {
+        "narration": "Cơ thể bạn lúc này dù vừa nạp nước nhưng các tế bào vẫn đang khát khô và kiệt quệ.",
+        "search": "te bao kho heo kiet que hoat hinh",
+        "caption": "Tế bào vẫn khát khô dù vừa uống nước"
+      },
+      {
+        "narration": "Điều này kích hoạt một cơ chế sinh tồn khẩn cấp, buộc tim phải đập nhanh hơn để bơm máu cứu các cơ quan.",
+        "search": "tim dap nhanh do ruc hoat hinh",
+        "caption": "Kích hoạt cơ chế sinh tồn khẩn cấp"
+      },
+      {
+        "narration": "Tim hoạt động quá công suất đồng nghĩa với việc cơ thể bạn lại tiếp tục sản sinh ra một lượng nhiệt khổng lồ khác.",
+        "search": "co the toa nhiet do hoat hinh",
+        "caption": "Tim đập nhanh tạo thêm nhiệt lượng lớn"
+      },
+      {
+        "narration": "Chưa kể, sự thay đổi nhiệt độ đột ngột ở vùng họng còn tạo điều kiện cho vi khuẩn có hại tấn công ngay lập tức.",
+        "search": "vi khuan tan cong co hong hoat hinh",
+        "caption": "Vi khuẩn dễ dàng tấn công vòm họng"
+      },
+      {
+        "narration": "Đó là lý do tại sao bạn thường bị viêm họng hoặc sốt cao ngay sau khi uống nước đá giải nhiệt giữa trời nóng.",
+        "search": "nguoi bi sot nam om hoat hinh",
+        "caption": "Viêm họng và sốt xuất hiện bất ngờ"
+      },
+      {
+        "narration": "Một hiểm họa ngầm khác ít ai ngờ tới chính là hiện tượng sốc nhiệt tim mạch cực kỳ nguy hiểm.",
+        "search": "nguoi nga guc vi soc nhiet hoat hinh",
+        "caption": "Hiểm họa sốc nhiệt tim mạch cực nguy hiểm"
+      },
+      {
+        "narration": "Để làm mát cơ thể nhanh và an toàn nhất, hãy uống một ly nước ấm nhẹ giúp kích hoạt cơ chế toát mồ hôi tự nhiên thay vì tự đầu độc dạ dày bằng đá lạnh.",
+        "search": "nguoi uong ly nuoc am toa hoi nuoc phong bep am ap",
+        "caption": "Uống nước ấm nhẹ mới là cách hạ nhiệt cơ thể chuẩn khoa học"
+      }
+    ],
+    "error": "",
+    "youtube_id": "GPgew8XRSSo",
+    "youtube_url": "https://www.youtube.com/watch?v=GPgew8XRSSo",
+    "created_at": "2026-09-30T14:37:09.525714+00:00",
+    "updated_at": "2026-09-30T14:41:25.052279+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T14:39:30.173954+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "587 chars",
+        "at": "2026-09-30T14:40:14.183773+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "38.0s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-09-30T14:40:21.352677+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T14:40:22.305742+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-09-30T14:40:45.749843+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-09-30T14:40:45.759483+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 38.0s 18858105 bytes",
+        "at": "2026-09-30T14:41:20.857369+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=GPgew8XRSSo",
+        "at": "2026-09-30T14:41:23.622943+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T14:41:23.928885+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T14:41:24.997928+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T14:41:25.007386+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T14:41:25.052273+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35841417/15198428_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39883631/17009242_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7477550/7477550-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/10551703/10551703-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28923509/12518170_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37875674/16069830_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/38562077/16378874_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/6932463/6932463-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/32698841/13940217_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/32324543/13787947_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/36024505/15277120_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/29074588/12565900_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7477915/7477915-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/33100058/14108966_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/38396381/16304126_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39399518/16774965_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35604307/15088539_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "33dc2493ce",
     "kind": "short",
     "channel": "Channel3",
