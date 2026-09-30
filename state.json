@@ -1,5 +1,211 @@
 [
   {
+    "id": "b9d8d9dd15",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Forged Letter That Destroyed an Empire",
+    "idea": {
+      "title": "The Forged Letter That Destroyed an Empire",
+      "hook": "A single forged letter forced a crown prince to end his own life, triggering the ultimate betrayal that destroyed China’s first empire.",
+      "beats": [
+        "Qin Shi Huang, China's first emperor, died suddenly, leaving his brilliant son Fusu as the rightful heir.",
+        "Terrified of losing power, the court eunuch Zhao Gao forged a death decree, commanding Fusu to commit suicide for 'disloyalty.'",
+        "Fusu, bound by filial piety, tragically obeyed and killed himself without questioning the letter's authenticity.",
+        "Zhao Gao installed a weak puppet prince, leading to chaotic rebellions that completely collapsed the dynasty in just three years."
+      ],
+      "keywords": [
+        "Qin Dynasty",
+        "Emperor Qin Shi Huang",
+        "ancient China engraving",
+        "palace intrigue painting",
+        "Chinese soldier portrait"
+      ],
+      "tags": [
+        "ancientchina",
+        "history",
+        "betrayal",
+        "emperor",
+        "worldhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Could one forged letter destroy history's most powerful empire?",
+        "search": "ancient China engraving war scene dramatic",
+        "caption": "Could one forged letter destroy an empire?"
+      },
+      {
+        "narration": "In 210 BC, Emperor Qin Shi Huang, the unifier of China, died suddenly during an imperial tour.",
+        "search": "Emperor Qin Shi Huang portrait painting",
+        "caption": "Emperor Qin Shi Huang died suddenly in 210 BC"
+      },
+      {
+        "narration": "His eldest son, Crown Prince Fusu, was the rightful heir, then commanding forces on the northern frontier.",
+        "search": "ancient Chinese soldier portrait painting",
+        "caption": "Crown Prince Fusu commanded the northern frontier"
+      },
+      {
+        "narration": "Terrified of losing his influence, the powerful court eunuch Zhao Gao plotted to seize control of the succession.",
+        "search": "ancient Chinese palace intrigue painting court officials",
+        "caption": "Eunuch Zhao Gao plotted to seize imperial power"
+      },
+      {
+        "narration": "Zhao Gao forged an imperial decree bearing the dead emperor's seal, commanding Fusu to commit suicide.",
+        "search": "ancient Chinese calligraphy scroll ink painting",
+        "caption": "A forged imperial death decree was sent"
+      },
+      {
+        "narration": "Bound by strict filial piety, Fusu chose to obey his father's supposed command without questioning its authenticity.",
+        "search": "ancient Chinese warrior suicide ink painting",
+        "caption": "Fusu tragically obeyed the fake suicide order"
+      },
+      {
+        "narration": "With the rightful heir dead, Zhao Gao installed the weak, easily manipulated prince Huhai as a puppet ruler.",
+        "search": "Qin Dynasty emperor court painting",
+        "caption": "A weak puppet prince took the throne"
+      },
+      {
+        "narration": "This single act of betrayal triggered massive rebellions, completely collapsing the Qin Dynasty just three years later.",
+        "search": "Qin Dynasty terracotta army statues close up",
+        "caption": "The Qin Dynasty collapsed within three years"
+      },
+      {
+        "narration": "In late 210 BC, Zhao Gao initiated a brutal internal purge across Xianyang, executing twelve princes and ten princesses to eliminate any imperial challengers.",
+        "search": "ancient chinese palace painting qin dynasty",
+        "caption": "Zhao Gao systematically purged the imperial bloodline in 210 BC."
+      },
+      {
+        "narration": "General Meng Tian, commander of three hundred thousand elite frontier soldiers along the northern border, was arrested and coerced into drinking lethal poison.",
+        "search": "ancient chinese general portrait painting",
+        "caption": "General Meng Tian was forced to swallow lethal poison."
+      },
+      {
+        "narration": "With the frontier stripped of leadership, conscripted soldiers Chen Sheng and Wu Guang launched an armed revolt in July 209 BC against Qin's draconian penal code.",
+        "search": "ancient chinese rebellion ink wash painting",
+        "caption": "A peasant rebellion ignited against Qin's brutal penal laws."
+      },
+      {
+        "narration": "The insurrection ignited across the former conquered states, swelling rebel ranks with hundreds of thousands of vengeful anti-Qin fighters.",
+        "search": "ancient chinese battle engraving historical",
+        "caption": "Six conquered kingdoms rose simultaneously in open rebellion."
+      },
+      {
+        "narration": "Alarmed by the spreading mutinies, Grand Councilor Li Si urged the young puppet emperor to suspend lavish building projects and dispatch imperial reserves.",
+        "search": "ancient chinese chancellor portrait painting",
+        "caption": "Chancellor Li Si urged the puppet emperor to confront revolts."
+      },
+      {
+        "narration": "Zhao Gao countered by framing Li Si for high treason in 208 BC, subjecting the dynasty's premier legal scholar to torture and public bisection.",
+        "search": "ancient chinese imperial court trial painting",
+        "caption": "In 208 BC, Chancellor Li Si was executed for fabricated treason."
+      },
+      {
+        "narration": "To enforce absolute fear in court, Zhao Gao presented a live deer before the throne in 207 BC, executing every official who refused to call it a horse.",
+        "search": "point to deer call it a horse ancient chinese painting",
+        "caption": "Zhao Gao executed every minister who refused his absurd lie."
+      },
+      {
+        "narration": "When rebel general Xiang Yu annihilated the remaining Qin field armies at Julu in 207 BC, Zhao Gao turned his armed retainers directly against Emperor Huhai.",
+        "search": "ancient chinese warrior portrait painting xiang yu",
+        "caption": "Rebel victories left Xianyang defenseless as Zhao Gao staged a coup."
+      },
+      {
+        "narration": "Huhai took his own life, Zhao Gao was executed, and in 206 BC, the entire Qin dynasty collapsed—annihilated just three years after Crown Prince Fusu obeyed a forged letter.",
+        "search": "Qin dynasty Xianyang destruction ancient Chinese historical painting",
+        "caption": "An empire destroyed just three years after a single forged letter."
+      }
+    ],
+    "error": "",
+    "youtube_id": "D25INIoFFhA",
+    "youtube_url": "https://www.youtube.com/watch?v=D25INIoFFhA",
+    "created_at": "2026-09-30T09:55:01.066879+00:00",
+    "updated_at": "2026-09-30T09:58:31.679706+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-09-30T09:57:19.890609+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "554 chars",
+        "at": "2026-09-30T09:57:40.381920+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.2s en-US-GuyNeural 8 cau",
+        "at": "2026-09-30T09:57:42.415909+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-09-30T09:57:43.211223+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-09-30T09:57:56.739631+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-09-30T09:57:56.748112+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.2s 12334125 bytes",
+        "at": "2026-09-30T09:58:27.403800+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=D25INIoFFhA",
+        "at": "2026-09-30T09:58:30.275708+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-09-30T09:58:30.453584+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-09-30T09:58:31.640921+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-09-30T09:58:31.649936+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-09-30T09:58:31.679700+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36692261/pexels-photo-36692261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37252254/pexels-photo-37252254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35464780/pexels-photo-35464780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39116630/pexels-photo-39116630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37454687/pexels-photo-37454687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37670364/pexels-photo-37670364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26741551/pexels-photo-26741551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33890157/pexels-photo-33890157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13445836/pexels-photo-13445836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35216549/pexels-photo-35216549.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11135761/pexels-photo-11135761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27791213/pexels-photo-27791213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30346485/pexels-photo-30346485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36163422/pexels-photo-36163422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18502996/pexels-photo-18502996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37670351/pexels-photo-37670351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5deafbf985",
     "kind": "short",
     "channel": "Channel2",
