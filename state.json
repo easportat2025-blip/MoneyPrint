@@ -1,5 +1,211 @@
 [
   {
+    "id": "e3d9c43c23",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm 5 giây ngay khi thức dậy đang phá hủy cả ngày của bạn",
+    "idea": {
+      "title": "Sai lầm 5 giây ngay khi thức dậy đang phá hủy cả ngày của bạn",
+      "hook": "Việc đầu tiên bạn làm khi mở mắt vào buổi sáng đang âm thầm bắt cóc hormone hạnh phúc của bạn suốt cả ngày.",
+      "beats": [
+        "Khi vừa thức dậy, não bạn chuyển từ sóng delta sang theta rồi alpha - trạng thái cực kỳ nhạy bén và dễ tiếp thu.",
+        "Việc vớ lấy điện thoại ngay lập tức kích hoạt lượng dopamine ảo, khiến não bỏ qua giai đoạn chuyển đổi tự nhiên.",
+        "Hậu quả là bạn sẽ rơi vào trạng thái mệt mỏi, mất tập trung và thèm khát dopamine liên tục trong ngày.",
+        "Thay vì lướt màn hình, hãy dành 5 phút đầu tiên chỉ để vươn vai và đón nhận ánh sáng tự nhiên."
+      ],
+      "keywords": [
+        "morning alarm phone bed",
+        "tired man waking up",
+        "brain dopamine animation",
+        "stress looking screen morning",
+        "sunlight window morning"
+      ],
+      "tags": [
+        "#suckhoe",
+        "#thoiquen",
+        "#naobo",
+        "#meovat",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Hành động 5 giây sau khi thức dậy đang hủy hoại cả ngày của bạn.",
+        "search": "nguoi dan ong met moi thuc day giuong",
+        "caption": "Sai lầm 5 giây khi thức dậy phá hủy cả ngày."
+      },
+      {
+        "narration": "Khi vừa mở mắt, não bộ của bạn đang ở trạng thái chuyển giao cực kỳ nhạy cảm giữa các tầng sóng thần kinh.",
+        "search": "mo phong song nao hoat hoa",
+        "caption": "Não bộ vừa thức dậy cực kỳ nhạy cảm."
+      },
+      {
+        "narration": "Nhưng đa số chúng ta ngay lập tức vớ lấy chiếc điện thoại để kiểm tra thông báo.",
+        "search": "tay cam dien thoai tren giuong buoi sang",
+        "caption": "Thói quen vớ lấy điện thoại ngay lập tức."
+      },
+      {
+        "narration": "Hành động này kích hoạt một lượng dopamine ảo khổng lồ, ép não bộ bỏ qua giai đoạn khởi động tự nhiên.",
+        "search": "mo phong dopamine nao bo phat sang",
+        "caption": "Dopamine ảo ép não bộ hoạt động quá tải."
+      },
+      {
+        "narration": "Hệ quả là bạn vô tình lập trình cho não bộ trạng thái căng thẳng và thèm khát kích thích suốt cả ngày.",
+        "search": "nguoi stress nhin man hinh dien thoai buoi sang",
+        "caption": "Bạn bị kiệt quệ năng lượng từ sáng sớm."
+      },
+      {
+        "narration": "Đó là lý do bạn luôn cảm thấy mệt mỏi, mất tập trung dù vừa ngủ dậy không lâu.",
+        "search": "nguoi lam viec met moi mat tap trung",
+        "caption": "Sự mệt mỏi và mất tập trung kéo dài."
+      },
+      {
+        "narration": "Để cứu lấy ngày mới, hãy trì hoãn việc chạm vào màn hình trong ít nhất 5 phút đầu tiên.",
+        "search": "dien thoai de xa giuong ngu",
+        "caption": "Hãy để điện thoại tránh xa giường ngủ."
+      },
+      {
+        "narration": "Thay vào đó, hãy vươn vai và để mắt tiếp xúc trực tiếp với ánh sáng tự nhiên từ cửa sổ.",
+        "search": "anh sang mat troi chieu qua cua so buoi sang",
+        "caption": "Đón ánh sáng tự nhiên để kích hoạt năng lượng."
+      },
+      {
+        "narration": "Ánh sáng tự nhiên vào buổi sáng là công tắc kích hoạt cortisol, giúp bạn tỉnh táo một cách tự nhiên.",
+        "search": "anh sang mat troi chieu qua cua so phong ngu",
+        "caption": "Ánh sáng tự nhiên kích hoạt Cortisol tự nhiên"
+      },
+      {
+        "narration": "Ngược lại, luồng ánh sáng xanh từ màn hình điện thoại sẽ đánh lừa não bộ rằng trời vẫn chưa sáng.",
+        "search": "nguoi nhin man hinh dien thoai trong toi anh sang xanh",
+        "caption": "Ánh sáng xanh đánh lừa đồng hồ sinh học"
+      },
+      {
+        "narration": "Sự nhầm lẫn này trì hoãn quá trình giải phóng adenosine, chất gây buồn ngủ tích tụ từ ngày hôm trước.",
+        "search": "mo phong hoat hoa phan tu hoa hoc nao bo hoat dong",
+        "caption": "Chất gây buồn ngủ Adenosine bị tắc nghẽn"
+      },
+      {
+        "narration": "Đó là lý do tại sao bạn cảm thấy uể oải, sương mù não kéo dài đến tận giữa trưa dù đã uống cà phê.",
+        "search": "nhan vien van phong met moi ngu guc tren ban lam viec",
+        "caption": "Cơn uể oải kéo dài đến tận giữa trưa"
+      },
+      {
+        "narration": "Nghiêm trọng hơn, việc nạp dopamine ảo quá sớm khiến khả năng tập trung sâu của bạn bị phá hủy hoàn toàn.",
+        "search": "nguoi dan ong mat tap trung lam viec tay cam dien thoai",
+        "caption": "Khả năng tập trung sâu bị phá hủy hoàn toàn"
+      },
+      {
+        "narration": "Não bộ sẽ liên tục đòi hỏi những kích thích ngắn hạn, biến bạn thành nô lệ của các thông báo mạng xã hội.",
+        "search": "mang luoi day xich troi buoc chiec dien thoai thong minh",
+        "caption": "Biến bạn thành nô lệ của thông báo"
+      },
+      {
+        "narration": "Để bẻ gãy chiếc xích này, hãy áp dụng quy tắc năm phút không màn hình ngay ngày mai.",
+        "search": "dong ho cat chay nguoi dan ong nhin ra cua so",
+        "caption": "Áp dụng quy tắc 5 phút không màn hình"
+      },
+      {
+        "narration": "Chỉ cần năm phút vươn vai dưới nắng, bạn sẽ thấy năng lượng làm việc tăng vọt gấp ba lần.",
+        "search": "nguoi dan ong khoe manh vuon vai don binh minh nang luong",
+        "caption": "Năng lượng làm việc tăng vọt gấp ba lần"
+      },
+      {
+        "narration": "Bảo vệ năm phút đầu tiên khi thức dậy chính là chìa khóa vàng để bạn làm chủ hoàn toàn một ngày hiệu suất.",
+        "search": "nguoi dung truoc cua so don anh nang binh minh ruc ro",
+        "caption": "Làm chủ 5 phút đầu ngày để làm chủ cuộc đời."
+      }
+    ],
+    "error": "",
+    "youtube_id": "CY_lzBX3xhs",
+    "youtube_url": "https://www.youtube.com/watch?v=CY_lzBX3xhs",
+    "created_at": "2026-10-01T18:39:39.520247+00:00",
+    "updated_at": "2026-10-01T18:44:14.823389+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T18:41:49.387656+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "525 chars",
+        "at": "2026-10-01T18:42:40.451877+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.2s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-01T18:42:57.247232+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T18:42:58.802324+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-01T18:43:14.630642+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-01T18:43:14.649484+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.2s 16958749 bytes",
+        "at": "2026-10-01T18:44:10.506890+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=CY_lzBX3xhs",
+        "at": "2026-10-01T18:44:13.325995+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-01T18:44:13.495717+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-01T18:44:14.735739+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-01T18:44:14.755472+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-01T18:44:14.823379+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39183308/16672848_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36897748/15630153_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7392457/7392457-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7023329/7023329-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6611951/6611951-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6538840/6538840-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/19026325/19026325-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8056006/8056006-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5020961/5020961-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/9558523/9558523-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8540005/8540005-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8719390/8719390-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7679620/7679620-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/31647956/13483624_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39815202/16983350_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/27791727/12225869_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/32046231/13660454_720_1280_50fps.mp4"
+    ]
+  },
+  {
     "id": "2cf6152dce",
     "kind": "short",
     "channel": "Channel3",
