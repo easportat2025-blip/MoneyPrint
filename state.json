@@ -1,5 +1,193 @@
 [
   {
+    "id": "e4871c13b2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Drowned an Emperor in Blood",
+    "idea": {
+      "title": "The Queen Who Drowned an Emperor in Blood",
+      "hook": "When Persian Emperor Cyrus demanded her surrender, Queen Tomyris made a promise that horrified the ancient world.",
+      "beats": [
+        "Cyrus the Great invaded the steppes and used poisoned wine to capture and drive Tomyris's prince to suicide.",
+        "Grief-stricken, the nomadic warrior queen challenged the Persian war machine to open battle.",
+        "Her horse archers annihilated Cyrus's elite forces in one of antiquity's bloodiest clashes.",
+        "Finding the emperor's fallen body, Tomyris severed his head and plunged it into a wineskin filled with human blood to finally quench his thirst for conquest."
+      ],
+      "keywords": [
+        "queen tomyris painting",
+        "cyrus the great bust",
+        "massagetae horse archers engraving",
+        "ancient persia battle map",
+        "peter paul rubens tomyris"
+      ],
+      "tags": [
+        "ancient history",
+        "queen tomyris",
+        "cyrus the great",
+        "persian empire",
+        "history documentary",
+        "ancient warfare",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One nomadic queen defeated history's greatest conqueror using blood.",
+        "search": "queen tomyris oil painting",
+        "caption": "The nomadic queen who shattered the Persian Empire."
+      },
+      {
+        "narration": "In 530 BC, Cyrus the Great ruled the largest empire the ancient world had ever witnessed.",
+        "search": "cyrus the great bust statue close up",
+        "caption": "Cyrus the Great ruled antiquity's largest superpower in 530 BC."
+      },
+      {
+        "narration": "Seeking to expand northeast of the Caspian Sea, Cyrus marched against the Massagetae, a confederation of nomadic horse warriors.",
+        "search": "ancient persia map engraving",
+        "caption": "The Persian war machine targeted the steppe nomads of Central Asia."
+      },
+      {
+        "narration": "Leading the nomads was Queen Tomyris, who rejected Cyrus's deceitful marriage proposals meant to seize her kingdom without war.",
+        "search": "queen tomyris portrait painting",
+        "caption": "Queen Tomyris refused Cyrus's offer to surrender her kingdom."
+      },
+      {
+        "narration": "Advancing across the Araxes River, Cyrus laid a calculated trap, abandoning camp filled with unwatered wine and luxury provisions.",
+        "search": "ancient persian banquet engraving",
+        "caption": "Cyrus abandoned his camp with intoxicating wine as bait."
+      },
+      {
+        "narration": "The queen's son, Prince Spargapises, led the steppe vanguard into the camp, where Persian forces ambushed his intoxicated men and captured him.",
+        "search": "massagetae warriors manuscript illustration",
+        "caption": "Prince Spargapises was captured after falling into Cyrus's trap."
+      },
+      {
+        "narration": "When the prince regained sobriety in chains, he took his own life rather than remain a Persian hostage.",
+        "search": "ancient persian prisoner relief sculpture",
+        "caption": "The prince chose suicide over remaining an imperial hostage."
+      },
+      {
+        "narration": "Grief-stricken, Queen Tomyris sent Cyrus an ultimatum, vowing that if he did not retreat, she would give him his fill of blood.",
+        "search": "massagetae horse archers engraving",
+        "caption": "Tomyris vowed to quench Cyrus's unending thirst for blood."
+      },
+      {
+        "narration": "Cyrus dismissed the nomad queen's warning and marched his imperial army across the Jaxartes River in 530 BC.",
+        "search": "cyrus the great bust statue ancient persia",
+        "caption": "Cyrus ignored the warning and crossed the Jaxartes River in 530 BC."
+      },
+      {
+        "narration": "Queen Tomyris assembled the full force of the Massagetae, luring the overconfident Persians into the harsh steppe flatlands.",
+        "search": "ancient persia battle map engraving",
+        "caption": "Tomyris lured the Persian imperial army deep into nomadic territory."
+      },
+      {
+        "narration": "The battle opened with torrential volleys of steppe arrows that rained upon the armored Persian infantry from galloping flanks.",
+        "search": "massagetae horse archers engraving ancient warfare",
+        "caption": "Massagetae horse archers unleashed dense volleys on Persian infantry."
+      },
+      {
+        "narration": "Herodotus recorded that when both sides exhausted their quivers, the combat turned to daggers, spears, and axes at point-blank range.",
+        "search": "ancient melee battle engraving soldiers hand to hand",
+        "caption": "Antiquity's fiercest hand-to-hand clash erupted once arrows ran dry."
+      },
+      {
+        "narration": "For hours neither side yielded ground, but the steppe cavalry steadily enveloped and broke the elite Persian vanguard.",
+        "search": "persian immortals bas relief carving persepolis",
+        "caption": "The imperial vanguard shattered under relentless steppe cavalry charges."
+      },
+      {
+        "narration": "After three decades of undefeated conquests across Babylon, Lydia, and Media, Cyrus the Great fell mortally wounded on the field.",
+        "search": "death of cyrus engraving ancient persia battle",
+        "caption": "Cyrus the Great was struck down amidst the chaotic slaughter."
+      },
+      {
+        "narration": "With the Persian army shattered in a total rout, Tomyris walked the blood-soaked plains searching among the dead.",
+        "search": "ancient battlefield aftermath engraving dead soldiers",
+        "caption": "Tomyris searched the carnage to locate the fallen emperor's body."
+      },
+      {
+        "narration": "Finding the corpse of Cyrus, the queen severed his head and summoned a wineskin brimmed with freshly gathered human blood.",
+        "search": "peter paul rubens tomyris with the head of cyrus oil painting",
+        "caption": "Tomyris severed Cyrus's head to fulfill her terrifying vow."
+      },
+      {
+        "narration": "By plunging his severed head into the blood, Queen Tomyris fulfilled her grim vow to finally quench Cyrus the Great's insatiable thirst for conquest in 530 BC.",
+        "search": "peter paul rubens queen tomyris with the head of cyrus oil painting",
+        "caption": "Queen Tomyris fulfills her vow to Cyrus the Great, 530 BC"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-01T23:33:08.180665+00:00",
+    "updated_at": "2026-10-01T23:36:24.659807+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T23:34:13.095974+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "639 chars",
+        "at": "2026-10-01T23:35:11.150241+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "41.7s en-US-GuyNeural 9 cau",
+        "at": "2026-10-01T23:35:13.446309+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T23:35:15.013919+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-01T23:35:25.164434+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-01T23:35:25.184114+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 41.7s 14931690 bytes",
+        "at": "2026-10-01T23:36:24.516554+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-01T23:36:24.659795+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14748101/pexels-photo-14748101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779793/pexels-photo-13779793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6745358/pexels-photo-6745358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28652839/pexels-photo-28652839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158651/pexels-photo-33158651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237298/pexels-photo-38237298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27139858/pexels-photo-27139858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18433477/pexels-photo-18433477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33242133/pexels-photo-33242133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8728567/pexels-photo-8728567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20305647/pexels-photo-20305647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33007715/pexels-photo-33007715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37998608/pexels-photo-37998608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142320/pexels-photo-19142320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35807092/pexels-photo-35807092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18250534/pexels-photo-18250534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28300341/pexels-photo-28300341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "407d7d7b9a",
     "kind": "short",
     "channel": "Channel2",
