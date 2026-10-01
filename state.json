@@ -1,5 +1,211 @@
 [
   {
+    "id": "5f069fd078",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Pirate Queen Who Avenged Her Husband",
+    "idea": {
+      "title": "The Pirate Queen Who Avenged Her Husband",
+      "hook": "When the King of France betrayed and executed her husband, Jeanne de Clisson swore a blood oath, sold her lands to buy three warships, and spent thirteen years terrorizing French waters.",
+      "beats": [
+        "She painted her ships pitch black and dyed the sails blood red, earning the terrifying nickname the 'Lioness of Brittany'.",
+        "Jeanne hunted down French noble vessels, personally beheading any aristocrat she captured with a battle axe.",
+        "She deliberately left only one or two sailors alive on every ship, sending them back with a message of pure terror for the King.",
+        "Her relentless crusade of vengeance lasted over a decade, making her one of the most feared and successful pirates in history."
+      ],
+      "keywords": [
+        "pirate ship painting",
+        "medieval woman portrait",
+        "medieval battle axe",
+        "french king engraving",
+        "black sailing ship"
+      ],
+      "tags": [
+        "history",
+        "medieval history",
+        "pirates",
+        "jeanne de clisson",
+        "untold stories"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can one widow destroy an entire medieval fleet?",
+        "search": "medieval navy battle oil painting",
+        "caption": "Can one widow destroy an entire medieval fleet?"
+      },
+      {
+        "narration": "In 1343, King Philip VI of France executed Breton nobleman Olivier de Clisson for alleged treason.",
+        "search": "King Philip VI of France portrait painting",
+        "caption": "In 1343, King Philip VI executed Olivier de Clisson."
+      },
+      {
+        "narration": "His widow, Jeanne de Clisson, swore a blood oath of vengeance, liquidated her estates, and purchased three warships.",
+        "search": "medieval woman portrait oil painting",
+        "caption": "Jeanne de Clisson sold her lands to buy warships."
+      },
+      {
+        "narration": "She painted the hulls pitch black and dyed the sails blood red, creating the infamous Black Fleet.",
+        "search": "black sailing ship medieval oil painting",
+        "caption": "She painted her fleet black with blood-red sails."
+      },
+      {
+        "narration": "Patrolling the English Channel as the Lioness of Brittany, Jeanne relentlessly hunted down French aristocratic vessels.",
+        "search": "medieval sea battle engraving",
+        "caption": "The Lioness of Brittany hunted French noble vessels."
+      },
+      {
+        "narration": "Jeanne personally executed captured French nobles, decapitating them with a heavy battle axe on her flagship.",
+        "search": "medieval battle axe artifact",
+        "caption": "Jeanne personally executed captured aristocrats with an axe."
+      },
+      {
+        "narration": "She deliberately spared only one or two sailors from every crew to deliver accounts of her wrath to the King.",
+        "search": "french king engraving",
+        "caption": "Survivors were sent back to terrify the King."
+      },
+      {
+        "narration": "For thirteen years, Jeanne's relentless crusade terrorized French waters, cementing her legacy as history's most vengeful pirate.",
+        "search": "medieval ship storm oil painting",
+        "caption": "Her thirteen-year crusade remains history's ultimate act of vengeance."
+      },
+      {
+        "narration": "To sustain her war against King Philip VI, Jeanne allied with the English crown during the Hundred Years' War.",
+        "search": "king edward iii of england portrait painting",
+        "caption": "Jeanne allied with England to fund her war."
+      },
+      {
+        "narration": "She used her fleet to supply English troops in Brittany, turning her personal vendetta into a critical geopolitical threat to France.",
+        "search": "14th century medieval ships at sea manuscript",
+        "caption": "Her fleet supplied English forces in Brittany."
+      },
+      {
+        "narration": "King Philip VI of France declared her an outlaw and ordered her immediate capture, yet her ships repeatedly evaded the royal navy.",
+        "search": "king philip vi of france portrait engraving",
+        "caption": "King Philip VI declared her a royal outlaw."
+      },
+      {
+        "narration": "The conflict ravaged the Breton coastline, as Jeanne's forces struck French strongholds and intercepted vital military supplies.",
+        "search": "medieval naval battle 14th century manuscript",
+        "caption": "Jeanne's fleet intercepted vital French military supplies."
+      },
+      {
+        "narration": "Amidst the bloodshed, Jeanne raised her young son, Olivier, on the warships, grooming him to inherit her hatred of the French crown.",
+        "search": "medieval noble boy portrait oil painting",
+        "caption": "She raised her son Olivier to hate France."
+      },
+      {
+        "narration": "By 1356, the political landscape of the War of the Breton Succession shifted, threatening to leave Jeanne without her English allies.",
+        "search": "14th century treaty manuscript document",
+        "caption": "Shifting alliances threatened to end her campaign."
+      },
+      {
+        "narration": "Despite dwindling resources, the Lioness of Brittany launched a series of desperate, high-stakes raids against French ports.",
+        "search": "medieval port under attack oil painting",
+        "caption": "She launched desperate raids against French ports."
+      },
+      {
+        "narration": "With her fleet battered and the French crown closing in, Jeanne faced a choice that would decide the fate of her family's legacy.",
+        "search": "medieval woman looking at stormy sea painting",
+        "caption": "Jeanne faced a choice to save her family."
+      },
+      {
+        "narration": "In 1356, after thirteen years of terrorizing the English Channel, Jeanne de Clisson retired to England, having successfully avenged her husband and defied the French crown.",
+        "search": "medieval noblewoman portrait oil painting",
+        "caption": "Jeanne de Clisson retired in 1356, her blood oath fulfilled."
+      }
+    ],
+    "error": "",
+    "youtube_id": "pzcvM5XvfKc",
+    "youtube_url": "https://www.youtube.com/watch?v=pzcvM5XvfKc",
+    "created_at": "2026-10-01T10:22:31.422982+00:00",
+    "updated_at": "2026-10-01T10:28:38.310650+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T10:27:32.928878+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "521 chars",
+        "at": "2026-10-01T10:27:44.414779+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.9s en-US-GuyNeural 7 cau",
+        "at": "2026-10-01T10:27:46.311630+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T10:27:47.124938+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-01T10:28:01.191772+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-01T10:28:01.202168+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.9s 11782736 bytes",
+        "at": "2026-10-01T10:28:33.743621+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=pzcvM5XvfKc",
+        "at": "2026-10-01T10:28:36.506259+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-01T10:28:36.971267+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-01T10:28:38.264436+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-01T10:28:38.275237+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-01T10:28:38.310645+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16375130/pexels-photo-16375130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19235978/pexels-photo-19235978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19364447/pexels-photo-19364447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38498258/pexels-photo-38498258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30506561/pexels-photo-30506561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386335/pexels-photo-38386335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12464199/pexels-photo-12464199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33200138/pexels-photo-33200138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27799460/pexels-photo-27799460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10121429/pexels-photo-10121429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27951919/pexels-photo-27951919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10205723/pexels-photo-10205723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9046670/pexels-photo-9046670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13207104/pexels-photo-13207104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32333227/pexels-photo-32333227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30216220/pexels-photo-30216220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037019/pexels-photo-16037019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a7c7ccef55",
     "kind": "short",
     "channel": "Channel2",
