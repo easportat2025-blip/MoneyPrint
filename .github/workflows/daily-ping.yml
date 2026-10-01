@@ -49,6 +49,9 @@ jobs:
       - name: Push DAILY.md to logs branch
         if: always()
         run: |
+          mkdir -p /tmp/mpkeep
+          cp -f "$GITHUB_WORKSPACE/DAILY.md" /tmp/mpkeep/DAILY.md 2>/dev/null || true
+          cp -f "$GITHUB_WORKSPACE/views_history.json" /tmp/mpkeep/views_history.json 2>/dev/null || true
           git config user.name "moneyprint-bot"
           git config user.email "actions@users.noreply.github.com"
           git fetch origin logs || true
@@ -58,9 +61,12 @@ jobs:
             git checkout --orphan logs
             git rm -rf --cached . >/dev/null 2>&1 || true
           fi
-          cp -f "$GITHUB_WORKSPACE/DAILY.md" DAILY.md 2>/dev/null || true
-          cp -f "$GITHUB_WORKSPACE/views_history.json" views_history.json 2>/dev/null || true
-          git add -f DAILY.md views_history.json 2>/dev/null || true
+          cp -f /tmp/mpkeep/DAILY.md DAILY.md 2>/dev/null || true
+          cp -f /tmp/mpkeep/views_history.json views_history.json 2>/dev/null || true
+          git add -f DAILY.md 2>/dev/null || true
+          if python -c "import json;json.load(open('views_history.json',encoding='utf-8'))" 2>/dev/null; then
+            git add -f views_history.json
+          fi
           git commit -m "daily ping ${{ github.run_id }}" || true
           git push origin logs
 

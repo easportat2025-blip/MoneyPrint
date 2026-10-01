@@ -54,7 +54,10 @@ def refresh_views(records: list) -> dict:
     vids = [r["youtube_id"] for r in records if r.get("youtube_id")]
     out: dict = {}
     token = _yt_token()
-    if not token or not vids:
+    if not token:
+        print("WARN refresh_views: no access token", file=sys.stderr)
+        return out
+    if not vids:
         return out
     try:
         for i in range(0, len(vids), 50):
@@ -66,6 +69,11 @@ def refresh_views(records: list) -> dict:
                 timeout=30,
             )
             if r.status_code != 200:
+                print(
+                    f"WARN refresh_views: videos.list HTTP {r.status_code} "
+                    f"chunk {i // 50 + 1}: {r.text[:150]}",
+                    file=sys.stderr,
+                )
                 break
             for it in r.json().get("items", []):
                 st = it.get("statistics", {})
@@ -110,8 +118,20 @@ def main() -> int:
     hist = _load(ROOT / "views_history.json") or {}
 
     fresh = refresh_views(state)
+    stale = False
     if fresh:
         hist[today_utc] = fresh
+        for d in sorted(hist)[:-30]:
+            del hist[d]
+        try:
+            (ROOT / "views_history.json").write_text(
+                json.dumps(hist, ensure_ascii=False), encoding="utf-8"
+            )
+        except OSError as e:
+            print(f"WARN cannot save views_history.json: {e}", file=sys.stderr)
+    elif hist:
+        stale = True
+        print("WARN refresh failed, using last snapshot", file=sys.stderr)
 
     days = sorted(hist)
     cur = hist.get(days[-1], {}) if days else {}
@@ -163,6 +183,9 @@ def main() -> int:
     L = []
     L.append(f"# Daily ping {today_vn.strftime('%d/%m/%Y')}")
     L.append("")
+    if stale and days:
+        L.append(f"_Refresh that bai - dung so lieu cu ngay {days[-1]}._")
+        L.append("")
     L.append(f"Total views (all tracked): **{total}** (+{gain} vs snapshot truoc)")
     L.append("")
     L.append("## Theo kenh")

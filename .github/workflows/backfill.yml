@@ -89,6 +89,9 @@ jobs:
             git rm -rf --cached . >/dev/null 2>&1 || true
           fi
           cp -f /tmp/mp_state.json state.json
-          git add -f state.json views_history.json 2>/dev/null || true
+          git add -f state.json 2>/dev/null || true
+          if python -c "import json;json.load(open('views_history.json',encoding='utf-8'))" 2>/dev/null; then
+            git add -f views_history.json
+          fi
           git commit -m "state backfill ${{ github.run_id }}" || true
           git push origin logs
