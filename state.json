@@ -1,5 +1,192 @@
 [
   {
+    "id": "407d7d7b9a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Executed His Own Doctor",
+    "idea": {
+      "title": "The Roman Emperor Who Executed His Own Doctor",
+      "hook": "Emperor Hadrian cured his terminal illness, then hunted down and executed the doctor who saved him.",
+      "beats": [
+        "As Emperor Hadrian lay dying of a painful illness, a desperate physician administered a forbidden poison cocktail to end his suffering or cure him.",
+        "Miraculously, the heavy dose cured Hadrian completely, restoring him to full health.",
+        "Instead of rewarding the doctor, Hadrian viewed the man's knowledge of lethal medicine as a terrifying threat to his own life.",
+        "He immediately ordered the physician put to death for possessing the power to kill an emperor.",
+        "A chilling reminder of how dangerous it was to save a Roman ruler's life."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman doctor",
+        "historic marble statue",
+        "roman coin profile",
+        "dark oil painting"
+      ],
+      "tags": [
+        "history",
+        "rome",
+        "hadrian",
+        "romanempire",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman emperor executed the doctor who cured him.",
+        "search": "emperor hadrian marble bust dramatic lighting",
+        "caption": "A Roman emperor executed the doctor who cured him."
+      },
+      {
+        "narration": "In the summer of 138 AD, Emperor Hadrian lay dying in his villa at Baiae, wracked by agonizing edema.",
+        "search": "ancient roman villa baiae ruins oil painting",
+        "caption": "In 138 AD, Emperor Hadrian lay dying in Baiae."
+      },
+      {
+        "narration": "Standard treatments failed, and the imperial court feared the ruler would die before naming a succession plan.",
+        "search": "ancient roman senate marble relief carving",
+        "caption": "Imperial physicians exhausted every standard medical treatment."
+      },
+      {
+        "narration": "In sheer agony, Hadrian demanded an extreme compound formulated with lethal botanical poisons.",
+        "search": "ancient apothecary herbal remedies dark oil painting",
+        "caption": "Hadrian demanded an extreme, forbidden medicinal draft."
+      },
+      {
+        "narration": "The desperate physician prepared the toxic mixture, knowing a single miscalculation meant instant death.",
+        "search": "ancient roman medical bronze tools artifact museum",
+        "caption": "The physician compounded a potentially lethal dose."
+      },
+      {
+        "narration": "Hadrian drank the mixture, and against all medical odds, the toxic shock broke his terminal fever.",
+        "search": "dying roman emperor bed historical oil painting",
+        "caption": "Against all odds, the toxic dose broke the fever."
+      },
+      {
+        "narration": "Hadrian stood up revitalized, but his relief instantly curdled into profound imperial paranoia.",
+        "search": "emperor hadrian bronze statue portrait head",
+        "caption": "Hadrian recovered, but gratitude turned into suspicion."
+      },
+      {
+        "narration": "The emperor realized this physician possessed the exact botanical formula to silently assassinate him at will.",
+        "search": "ancient roman palace shadowy corridor oil painting",
+        "caption": "The doctor possessed the formula for invisible murder."
+      },
+      {
+        "narration": "In 138 AD, the aging Roman emperor viewed his own survival not as a medical miracle, but as an intolerable security threat.",
+        "search": "roman emperor bust",
+        "caption": "Survival became an intolerable security threat."
+      },
+      {
+        "narration": "Roman imperial courts were notorious killing grounds where poison was the weapon of choice for ambitious rivals.",
+        "search": "ancient roman doctor",
+        "caption": "Imperial courts were notorious killing grounds."
+      },
+      {
+        "narration": "By curing the imperial body, the physician had inadvertently demonstrated the capability to dismantle the entire Roman state.",
+        "search": "historic marble statue",
+        "caption": "Demonstrating the capability to dismantle the state."
+      },
+      {
+        "narration": "Hadrian's absolute power meant his personal fears superseded any debt of gratitude owed to his healer.",
+        "search": "roman coin profile",
+        "caption": "Personal fears superseded any debt of gratitude."
+      },
+      {
+        "narration": "The life-saving prescription was swiftly reinterpreted by the paranoid ruler as a treasonous blueprint for regicide.",
+        "search": "dark oil painting",
+        "caption": "Reinterpreted as a treasonous blueprint for regicide."
+      },
+      {
+        "narration": "Roman law offered the emperor total immunity to eliminate any subject deemed an existential hazard to the throne.",
+        "search": "roman emperor bust",
+        "caption": "Total immunity to eliminate any existential hazard."
+      },
+      {
+        "narration": "Without a formal trial or public hearing, the death sentence was quietly dispatched across the capital.",
+        "search": "ancient roman doctor",
+        "caption": "A death sentence quietly dispatched across the capital."
+      },
+      {
+        "narration": "The man who cheated death was himself executed, leaving history a stark warning about the perils of saving a ruler.",
+        "search": "historic marble statue",
+        "caption": "The perils of saving a Roman ruler."
+      },
+      {
+        "narration": "In 138 AD, Emperor Hadrian executed the physician who miraculously cured his terminal illness, fearing anyone with the knowledge to end an emperor's life possessed a threat too great to let live.",
+        "search": "roman emperor bust",
+        "caption": "The emperor who executed his own savior."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-01T21:58:19.645328+00:00",
+    "updated_at": "2026-10-01T22:02:51.258061+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T22:00:34.461720+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "656 chars (cat 142 de vua 55s)",
+        "at": "2026-10-01T22:01:37.128427+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "46.2s en-US-GuyNeural 11 cau",
+        "at": "2026-10-01T22:01:41.713853+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T22:01:43.241663+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-01T22:01:56.431715+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-01T22:01:56.462994+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 46.2s 13807264 bytes",
+        "at": "2026-10-01T22:02:51.099340+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-01T22:02:51.258043+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38259388/pexels-photo-38259388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35416350/pexels-photo-35416350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20419213/pexels-photo-20419213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35226355/pexels-photo-35226355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17299015/pexels-photo-17299015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34786085/pexels-photo-34786085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12860064/pexels-photo-12860064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38182672/pexels-photo-38182672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844692/pexels-photo-37844692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18605455/pexels-photo-18605455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6869706/pexels-photo-6869706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37060942/pexels-photo-37060942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130611/pexels-photo-11130611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14481772/pexels-photo-14481772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20804360/pexels-photo-20804360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32766647/pexels-photo-32766647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "615acc1885",
     "kind": "short",
     "channel": "Channel3",
