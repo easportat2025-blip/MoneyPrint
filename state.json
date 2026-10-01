@@ -1,5 +1,211 @@
 [
   {
+    "id": "a7c7ccef55",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The King Who Used Sacred Cats to Conquer Egypt",
+    "idea": {
+      "title": "The King Who Used Sacred Cats to Conquer Egypt",
+      "hook": "In 525 BC, Persian King Cambyses II painted sacred cats onto his soldiers' shields—and forced an entire Egyptian army to surrender without firing a single arrow.",
+      "beats": [
+        "Persian conqueror Cambyses II marched on Pelusium, the heavily fortified gateway into ancient Egypt.",
+        "Knowing Egyptians revered the feline goddess Bastet and punished harming cats with death, Cambyses ordered cats painted on his men's shields and drove sacred animals onto the front line.",
+        "Paralyzed by fear of divine blasphemy, the Egyptian archers refused to shoot their bows.",
+        "Egypt fell in a single afternoon, permanently ending thousands of years of native pharaoh rule."
+      ],
+      "keywords": [
+        "Battle of Pelusium painting",
+        "Cambyses II Persian engraving",
+        "Ancient Egyptian goddess Bastet statue",
+        "Ancient Persian warriors relief",
+        "Ancient Egypt military map"
+      ],
+      "tags": [
+        "ancient egypt",
+        "persian empire",
+        "military history",
+        "bizarre tactics",
+        "ancient history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did cats destroy the ancient Egyptian empire?",
+        "search": "Ancient Egyptian goddess Bastet statue",
+        "caption": "Did cats destroy the ancient Egyptian empire?"
+      },
+      {
+        "narration": "In 525 BC, the Battle of Pelusium permanently ended thousands of years of native pharaonic rule.",
+        "search": "Ancient Egypt military map engraving",
+        "caption": "The 525 BC defeat ended native pharaoh rule forever."
+      },
+      {
+        "narration": "Persian King Cambyses II marched his massive army toward Pelusium, the heavily fortified gateway into Egypt.",
+        "search": "Cambyses II Persian engraving",
+        "caption": "King Cambyses II targeted the fortified gateway of Pelusium."
+      },
+      {
+        "narration": "Pharaoh Psamtik III prepared a formidable defense, relying on formidable walls and thousands of archers.",
+        "search": "Ancient Egyptian warriors relief",
+        "caption": "Pharaoh Psamtik III deployed a formidable defense."
+      },
+      {
+        "narration": "Knowing Egyptians revered the feline deity Bastet, Cambyses devised an unprecedented psychological weapon.",
+        "search": "Ancient Egyptian goddess Bastet statue bronze",
+        "caption": "Egyptians revered the feline goddess Bastet."
+      },
+      {
+        "narration": "The Persian king ordered his soldiers to paint images of the sacred cat onto their shields.",
+        "search": "Ancient Persian warriors relief stone carving",
+        "caption": "Persian soldiers painted sacred cats onto their shields."
+      },
+      {
+        "narration": "Historical accounts state Cambyses even placed live cats and other sacred animals directly on the front lines.",
+        "search": "Battle of Pelusium painting oil",
+        "caption": "Live cats were placed on the front lines."
+      },
+      {
+        "narration": "Terrified of committing eternal blasphemy by harming the sacred felines, the Egyptian archers faced an agonizing choice.",
+        "search": "Ancient Egyptian temple ruins dramatic oil painting",
+        "caption": "Archers feared divine wrath if they shot."
+      },
+      {
+        "narration": "To shoot meant risking the eternal wrath of the goddess Bastet, a sin punished by immediate execution in ancient Egypt.",
+        "search": "ancient egyptian goddess bastet bronze statue dark background",
+        "caption": "Harming a cat meant eternal damnation"
+      },
+      {
+        "narration": "As the Persian ranks steadily advanced, the formidable Egyptian archers lowered their bows, refusing to release a single arrow.",
+        "search": "ancient persian archers relief stone carving",
+        "caption": "The Egyptian archers refused to shoot"
+      },
+      {
+        "narration": "With their primary defense neutralized by psychological warfare, the Egyptian front lines collapsed in sheer panic.",
+        "search": "battle of pelusium ancient ruins egypt dramatic sky",
+        "caption": "The Egyptian defenses collapsed in panic"
+      },
+      {
+        "narration": "The Persian army swept through the gates of Pelusium, turning the sacred standoff into a decisive rout.",
+        "search": "ancient persian soldiers battle engraving",
+        "caption": "Persians breached the gateway of Pelusium"
+      },
+      {
+        "narration": "Pharaoh Psamtik III fled to the capital of Memphis, but the relentless Persian forces quickly pursued him.",
+        "search": "pharaoh psamtik iii ancient egyptian relief",
+        "caption": "Pharaoh Psamtik III fled to Memphis"
+      },
+      {
+        "narration": "Memphis fell soon after, and Psamtik III was captured, ending his brief six-month reign in 525 BC.",
+        "search": "ancient egyptian ruins memphis oil painting",
+        "caption": "Memphis fell to the Persian invaders"
+      },
+      {
+        "narration": "The historian Polyaenus recorded that Cambyses II celebrated his victory by throwing cats directly into the faces of the defeated.",
+        "search": "king cambyses ii persian warrior engraving",
+        "caption": "Cambyses II mocked the defeated Egyptians"
+      },
+      {
+        "narration": "This devastating psychological defeat marked the end of the Twenty-Sixth Dynasty and centuries of independent native rule.",
+        "search": "ancient egypt map engraving 18th century",
+        "caption": "Independent native Egyptian rule was broken"
+      },
+      {
+        "narration": "Thus, in 525 BC, the Persian Empire proved that Egypt's deepest sacred devotion could be weaponized to dismantle its entire civilization.",
+        "search": "ancient Egyptian goddess Bastet bronze statue",
+        "caption": "A sacred devotion weaponized to destroy an empire."
+      }
+    ],
+    "error": "",
+    "youtube_id": "N1oghvqsCbw",
+    "youtube_url": "https://www.youtube.com/watch?v=N1oghvqsCbw",
+    "created_at": "2026-10-01T07:05:17.926848+00:00",
+    "updated_at": "2026-10-01T07:10:40.781214+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T07:08:14.551764+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "478 chars",
+        "at": "2026-10-01T07:09:30.774555+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.4s en-US-GuyNeural 8 cau",
+        "at": "2026-10-01T07:09:33.139114+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T07:09:34.475518+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-01T07:09:45.042049+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-01T07:09:45.060201+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.4s 14565638 bytes",
+        "at": "2026-10-01T07:10:36.215645+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=N1oghvqsCbw",
+        "at": "2026-10-01T07:10:38.513126+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-01T07:10:38.774299+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-01T07:10:40.704965+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-01T07:10:40.723715+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-01T07:10:40.781201+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34148347/pexels-photo-34148347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33713420/pexels-photo-33713420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634704/pexels-photo-7634704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29574097/pexels-photo-29574097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713313/pexels-photo-36713313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25261414/pexels-photo-25261414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20895757/pexels-photo-20895757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934673/pexels-photo-18934673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36089620/pexels-photo-36089620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33185291/pexels-photo-33185291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12563822/pexels-photo-12563822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14785226/pexels-photo-14785226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31015269/pexels-photo-31015269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38242077/pexels-photo-38242077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8652162/pexels-photo-8652162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36324208/pexels-photo-36324208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14681328/pexels-photo-14681328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6f6aaac545",
     "kind": "short",
     "channel": "Channel3",
