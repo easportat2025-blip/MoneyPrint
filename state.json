@@ -1,5 +1,210 @@
 [
   {
+    "id": "2cf6152dce",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm rửa bát đang âm thầm đưa hóa chất vào người",
+    "idea": {
+      "title": "Sai lầm rửa bát đang âm thầm đưa hóa chất vào người",
+      "hook": "Bạn có biết mỗi năm chúng ta đang \"ăn\" khoảng một ly nước rửa bát mà không hề hay biết?",
+      "beats": [
+        "Rửa bát bằng tay luôn để lại một lớp màng hóa học mỏng vô hình mà mắt thường không thể nhìn thấy.",
+        "Khi thức ăn nóng tiếp xúc với bát đĩa, lớp màng này bong ra và trộn thẳng vào đồ ăn của bạn.",
+        "Các chất hoạt động bề mặt này làm hỏng lớp màng nhầy bảo vệ của ruột, dễ gây viêm nhiễm tiêu hóa âm thầm.",
+        "Cách giải quyết: Hãy tráng bằng nước ấm hoặc dùng tay chà kỹ dưới vòi nước chảy ít nhất 15 giây."
+      ],
+      "keywords": [
+        "washing dishes",
+        "chemical residue",
+        "clean plate",
+        "stomach pain",
+        "dish soap"
+      ],
+      "tags": [
+        "ruabat",
+        "suckhoe",
+        "meovat",
+        "doisong",
+        "khoahoc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Mỗi năm bạn đang uống một ly nước rửa bát.",
+        "search": "ly nuoc thuy tinh chat long mau xanh doc hai tren ban toi",
+        "caption": "Uống một ly nước rửa bát mỗi năm?"
+      },
+      {
+        "narration": "Sự thật đáng sợ này đến từ thói quen rửa bát bằng tay hàng ngày của chúng ta.",
+        "search": "nguoi rua bat dia trong can bep toi tam",
+        "caption": "Thói quen rửa bát hàng ngày đang hại bạn?"
+      },
+      {
+        "narration": "Dù đã tráng sạch, một lớp màng hóa học vô hình vẫn luôn bám chặt trên bề mặt đĩa.",
+        "search": "dia thuy tinh sach bong duoi anh sang quet tia uv",
+        "caption": "Lớp màng hóa học vô hình bám trên đĩa"
+      },
+      {
+        "narration": "Khi bạn múc thức ăn nóng vào bát, nhiệt độ cao lập tức làm bong lớp màng này.",
+        "search": "thuc an nong khoi nghi ngut do vao dia",
+        "caption": "Thức ăn nóng làm bong lớp hóa chất"
+      },
+      {
+        "narration": "Hóa chất độc hại từ nước rửa bát hòa thẳng vào đồ ăn và đi trực tiếp vào cơ thể.",
+        "search": "chat long mau xanh hoa vao nuoc sot thuc an",
+        "caption": "Hóa chất hòa thẳng vào đồ ăn của bạn"
+      },
+      {
+        "narration": "Các chất hoạt động bề mặt bắt đầu bào mòn lớp màng nhầy bảo vệ dạ dày và ruột.",
+        "search": "mo phong te bao duong ruot bi tan cong boi hoa chat",
+        "caption": "Lớp màng bảo vệ đường ruột bị bào mòn"
+      },
+      {
+        "narration": "Đây là nguyên nhân gây ra những cơn đau bụng, viêm nhiễm tiêu hóa âm thầm mà bạn không rõ lý do.",
+        "search": "nguoi om bung dau don trong bong toi",
+        "caption": "Cơn đau bụng âm thầm không rõ nguyên nhân"
+      },
+      {
+        "narration": "Để tự cứu mình, hãy tráng bát bằng nước ấm hoặc dùng tay chà kỹ dưới vòi nước chảy ít nhất 15 giây.",
+        "search": "rua dia duoi voi nuoc nong chay manh",
+        "caption": "Tráng nước ấm và chà kỹ trong 15 giây"
+      },
+      {
+        "narration": "Nhưng liệu chỉ tráng nước sạch đã đủ an toàn khi miếng bọt biển của bạn vẫn chứa đầy hiểm họa?",
+        "search": "mieng bot bien cu nat trong bong toi",
+        "caption": "Miếng bọt biển rửa bát có thực sự sạch?"
+      },
+      {
+        "narration": "Miếng bọt biển ẩm ướt là nơi tích tụ hàng triệu vi khuẩn và giữ chặt hóa chất tẩy rửa đậm đặc nhất.",
+        "search": "vi khuan sieu nho nhan ban tren be mat bot bien",
+        "caption": "Nơi tích tụ hàng triệu vi khuẩn và hóa chất"
+      },
+      {
+        "narration": "Mỗi lần bạn tái sử dụng, bạn đang vô tình chà xát một lớp độc tố mới lên bát đĩa.",
+        "search": "ban tay lau bat dia de lai vet nuoc mo duc",
+        "caption": "Vô tình bôi thêm độc tố lên bát đĩa"
+      },
+      {
+        "narration": "Nguy hiểm hơn, cơ thể chúng ta không thể tự đào thải hết các chất diện hoạt này.",
+        "search": "te bao co the nguoi bi hoa chat bao mon",
+        "caption": "Cơ thể không thể tự đào thải hết hóa chất"
+      },
+      {
+        "narration": "Chúng âm thầm tích tụ trong gan và thận qua nhiều năm, bào mòn hệ miễn dịch từ bên trong.",
+        "search": "co quan noi tang gan than phat sang mau do canh bao",
+        "caption": "Tích tụ trong gan thận, bào mòn miễn dịch"
+      },
+      {
+        "narration": "Nhiều người đổi sang dùng nước rửa bát hữu cơ nhưng nhãn mác này thường chỉ là chiêu trò quảng cáo.",
+        "search": "chai nuoc rua bat mau xanh la duoi anh sang ma mi",
+        "caption": "Sự thật về nước rửa bát gắn mác hữu cơ"
+      },
+      {
+        "narration": "Chúng vẫn chứa các chất tạo bọt tổng hợp có gốc sulfate gây hại không kém gì nước rửa bát thông thường.",
+        "search": "bong bong xa phong hoa hoc vo ra trong phong thi nghiem",
+        "caption": "Chất tạo bọt sulfate vẫn âm thầm tàn phá"
+      },
+      {
+        "narration": "Vậy giải pháp tối ưu nhất để cắt đứt chu kỳ nhiễm độc này là gì?",
+        "search": "nguoi dung tram ngam nhin bat dia trong can bep toi",
+        "caption": "Giải pháp tối ưu nhất để bảo vệ sức khỏe?"
+      },
+      {
+        "narration": "Hãy tráng bát đĩa bằng nước ấm, hoặc dùng tay chà kỹ dưới vòi nước chảy liên tục ít nhất 15 giây để loại bỏ hoàn toàn lớp màng hóa chất này.",
+        "search": "tay cha sach dia duoi voi nuoc chay am ap",
+        "caption": "Tráng nước ấm, chà kỹ dưới vòi chảy ít nhất 15 giây"
+      }
+    ],
+    "error": "",
+    "youtube_id": "ep6gjVD0Vp8",
+    "youtube_url": "https://www.youtube.com/watch?v=ep6gjVD0Vp8",
+    "created_at": "2026-10-01T15:01:16.658427+00:00",
+    "updated_at": "2026-10-01T15:07:00.445352+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-01T15:05:00.713169+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "403 chars",
+        "at": "2026-10-01T15:05:40.164014+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.4s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-01T15:05:47.089901+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T15:05:47.758790+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "11 video clips + 6 images",
+        "at": "2026-10-01T15:06:29.169051+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-01T15:06:29.179642+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 7002079 bytes",
+        "at": "2026-10-01T15:06:55.251022+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ep6gjVD0Vp8",
+        "at": "2026-10-01T15:06:58.007131+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-01T15:06:58.696401+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-01T15:07:00.385176+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-01T15:07:00.398615+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-01T15:07:00.445334+00:00"
+      }
+    },
+    "media_urls": [
+      "archive.org:dhamma-in-photo-vominh-20231008/20231008_0943281.ia.mp4",
+      "https://images.pexels.com/photos/29066478/pexels-photo-29066478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://videos.pexels.com/video-files/18069700/18069700-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/6366608/6366608-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/10533415/10533415-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/37777213/16023945_720_960_30fps.mp4",
+      "https://videos.pexels.com/video-files/8426115/8426115-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7477416/7477416-hd_720_1280_25fps.mp4",
+      "https://images.pexels.com/photos/36120713/pexels-photo-36120713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://videos.pexels.com/video-files/29058025/12560576_720_1280_24fps.mp4",
+      "https://images.pexels.com/photos/4888482/pexels-photo-4888482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://videos.pexels.com/video-files/36897613/15629923_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7316384/7316384-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8426126/8426126-hd_720_1280_25fps.mp4",
+      "https://images.pexels.com/photos/39908353/pexels-photo-39908353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10246156/pexels-photo-10246156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e5646348cb",
     "kind": "short",
     "channel": "Channel3",
