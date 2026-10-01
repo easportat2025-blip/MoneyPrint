@@ -1,5 +1,211 @@
 [
   {
+    "id": "6f6aaac545",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tác hại âm thầm khi cài bài hát yêu thích làm báo thức",
+    "idea": {
+      "title": "Tác hại âm thầm khi cài bài hát yêu thích làm báo thức",
+      "hook": "Bạn nghĩ cài bài hát yêu thích làm chuông báo thức sẽ giúp bạn thức dậy vui vẻ? Thực chất, bộ não đang âm thầm biến giai điệu đó thành một kẻ thù kích hoạt stress.",
+      "beats": [
+        "Khi nghe chuông báo thức, cơ thể giải phóng cortisol (hormone căng thẳng) để cưỡng ép bạn tỉnh giấc.",
+        "Nếu dùng bài hát yêu thích, não sẽ vô thức liên kết giai điệu đó với cảm giác giật mình lo âu.",
+        "Lâu dần, mỗi khi bài hát vang lên ngẫu nhiên vào ban ngày, bạn sẽ tự dưng cảm thấy bất an, tim đập nhanh.",
+        "Lời khuyên: Hãy dùng âm thanh tự nhiên tăng dần âm lượng để bảo vệ hệ thần kinh của bạn."
+      ],
+      "keywords": [
+        "alarm clock morning",
+        "stressed person waking up",
+        "brain stress animation",
+        "phone screen alarm",
+        "relaxing nature sound"
+      ],
+      "tags": [
+        "channel3",
+        "suckhoe",
+        "giacngu",
+        "meovat",
+        "khoahoccuocsong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đừng bao giờ cài bài hát yêu thích làm chuông báo thức.",
+        "search": "dien thoai bao thuc keu sang som",
+        "caption": "Đừng bao giờ cài bài hát yêu thích làm báo thức."
+      },
+      {
+        "narration": "Bạn nghĩ giai điệu đó sẽ giúp bạn thức dậy trong vui vẻ và tràn đầy năng lượng?",
+        "search": "nguoi nam nghe nhac trong phong toi",
+        "caption": "Bạn nghĩ nó giúp bạn thức dậy vui vẻ?"
+      },
+      {
+        "narration": "Thực tế, mỗi khi chuông reo, cơ thể bạn phải đột ngột giải phóng cortisol - hormone căng thẳng cực mạnh.",
+        "search": "nao bo phat sang do stress hoat hoa",
+        "caption": "Cơ thể giải phóng hormone căng thẳng cực mạnh."
+      },
+      {
+        "narration": "Bộ não sẽ vô thức liên kết bài hát bạn yêu thích với cảm giác giật mình và lo âu mỗi sáng.",
+        "search": "nguoi giat minh tinh giac trong bong toi",
+        "caption": "Não liên kết bài hát với sự hoảng sợ."
+      },
+      {
+        "narration": "Hậu quả là, ngay cả vào ban ngày, khi vô tình nghe thấy bài hát đó vang lên...",
+        "search": "nguoi ngo ngoi giat minh lo lang",
+        "caption": "Khi bài hát vang lên vào ban ngày..."
+      },
+      {
+        "narration": "Bạn sẽ lập tức cảm thấy bất an, tim đập nhanh mà không hiểu lý do vì sao.",
+        "search": "bong nguoi am anh tim dap nhanh",
+        "caption": "Bạn sẽ tự dưng thấy bất an, tim đập nhanh."
+      },
+      {
+        "narration": "Bạn không chỉ hủy hoại bài hát tủ của mình, mà hệ thần kinh còn bị tàn phá âm thầm.",
+        "search": "mo hinh day than kinh phat sang do",
+        "caption": "Hệ thần kinh đang bị tàn phá âm thầm."
+      },
+      {
+        "narration": "Vậy làm thế nào để thức dậy tỉnh táo mà không kích hoạt cơ chế sinh tử này?",
+        "search": "nguoi nhin tran nha suy tu bong toi",
+        "caption": "Làm sao để thức dậy an toàn cho não bộ?"
+      },
+      {
+        "narration": "Bạn nghĩ bài hát yêu thích giúp thức dậy vui vẻ?",
+        "search": "stressed person waking up",
+        "caption": "Thức dậy với bài hát yêu thích thật sự vui?"
+      },
+      {
+        "narration": "Thực chất, bộ não đang biến giai điệu đó thành kẻ thù.",
+        "search": "alarm clock morning",
+        "caption": "Não đang biến bài hát thành kẻ thù"
+      },
+      {
+        "narration": "Mỗi khi chuông kêu, cơ thể đột ngột giải phóng cortisol.",
+        "search": "brain stress animation",
+        "caption": "Cơ thể xả hormone căng thẳng"
+      },
+      {
+        "narration": "Đó là hormone căng thẳng cưỡng ép bạn phải tỉnh giấc.",
+        "search": "phone screen alarm",
+        "caption": "Cưỡng ép cơ thể tỉnh giấc"
+      },
+      {
+        "narration": "Dùng bài hát yêu thích khiến não vô thức liên kết với sự lo âu.",
+        "search": "stressed person waking up",
+        "caption": "Liên kết giai điệu với sự lo âu"
+      },
+      {
+        "narration": "Nó tạo ra phản xạ giật mình mỗi khi sáng sớm đến.",
+        "search": "alarm clock morning",
+        "caption": "Tạo phản xạ giật mình mỗi sáng"
+      },
+      {
+        "narration": "Lâu dần, nghe lại bài này ban ngày cũng khiến bạn bất an.",
+        "search": "brain stress animation",
+        "caption": "Nghe ban ngày cũng thấy bất an"
+      },
+      {
+        "narration": "Tim đập nhanh vì bộ não tưởng bạn đang gặp nguy hiểm.",
+        "search": "stressed person waking up",
+        "caption": "Tim đập nhanh vì tưởng gặp nguy hiểm"
+      },
+      {
+        "narration": "Phản ứng này y hệt như cơ chế sinh tồn khi gặp thú dữ.",
+        "search": "stressed person waking up",
+        "caption": "Co the bat che do sinh ton"
+      }
+    ],
+    "error": "",
+    "youtube_id": "s3lxLorSFdE",
+    "youtube_url": "https://www.youtube.com/watch?v=s3lxLorSFdE",
+    "created_at": "2026-10-01T06:17:54.056890+00:00",
+    "updated_at": "2026-10-01T06:26:05.067541+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "8 scenes",
+        "at": "2026-10-01T06:20:26.363698+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "571 chars",
+        "at": "2026-10-01T06:21:36.374279+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-01T06:21:44.024090+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-01T06:21:45.200244+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-01T06:25:14.758691+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-01T06:25:14.773394+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.9s 10092233 bytes",
+        "at": "2026-10-01T06:25:59.327719+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=s3lxLorSFdE",
+        "at": "2026-10-01T06:26:02.871726+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-01T06:26:03.370401+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-01T06:26:05.001848+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-01T06:26:05.016433+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-01T06:26:05.067533+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7821861/7821861-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8118110/8118110-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/8115554/8115554-hd_720_1366_24fps.mp4",
+      "https://videos.pexels.com/video-files/28115366/12303886_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464966/13417764_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34056854/14443889_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7985875/7985875-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7698892/7698892-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7640938/7640938-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8322054/8322054-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8136129/8136129-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8526600/8526600-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8136784/8136784-hd_720_1366_24fps.mp4",
+      "https://videos.pexels.com/video-files/5379822/5379822-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/28483048/12394977_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7593903/7593903-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/9781210/9781210-hd_720_1280_25fps.mp4"
+    ]
+  },
+  {
     "id": "c3a37176ab",
     "kind": "short",
     "channel": "Channel2",
