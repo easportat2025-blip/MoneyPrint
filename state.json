@@ -1,5 +1,190 @@
 [
   {
+    "id": "b57b7c2aab",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Pope Who Executed a Corpse",
+    "idea": {
+      "title": "The Pope Who Executed a Corpse",
+      "hook": "In 897 AD, Pope Stephen VI dragged the rotting corpse of his predecessor out of the grave to put it on trial.",
+      "beats": [
+        "The decomposed body of Pope Formosus was dressed in papal vestments and propped up in a courtroom chair.",
+        "A terrified deacon was forced to speak on behalf of the dead pope as the judges hurled accusations.",
+        "The corpse was found guilty, stripped of its honors, and its fingers were hacked off before being thrown into the Tiber River."
+      ],
+      "keywords": [
+        "medieval pope painting",
+        "papal court engraving",
+        "vatican historical portrait",
+        "skeleton in robes art",
+        "old church manuscript"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#vatican",
+        "#historyfacts",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can a dead pope be put on trial?",
+        "search": "pope formosus medieval portrait painting",
+        "caption": "Can a dead pope be put on trial?"
+      },
+      {
+        "narration": "In 897 AD, the Catholic Church executed a rotting corpse, triggering a political crisis that shook medieval Europe.",
+        "search": "medieval papal court engraving",
+        "caption": "A trial that shook medieval Europe."
+      },
+      {
+        "narration": "The bizarre event began in Rome, where Pope Formosus had ruled from 891 until his death in 896.",
+        "search": "pope formosus historical portrait painting",
+        "caption": "Pope Formosus ruled Rome from 891 to 896."
+      },
+      {
+        "narration": "His successor, Pope Stephen VI, harbored a deep political hatred for Formosus and demanded vengeance.",
+        "search": "pope stephen vi portrait painting",
+        "caption": "Pope Stephen VI demanded political vengeance."
+      },
+      {
+        "narration": "In January 897, Stephen ordered the exhumation of Formosus, who had been buried for nine months.",
+        "search": "medieval graveyard exhumation manuscript illustration",
+        "caption": "The dead pope was dug up after nine months."
+      },
+      {
+        "narration": "The decomposed body was dressed in sacred papal vestments and propped up on a throne in the courtroom.",
+        "search": "cadaver synod oil painting",
+        "caption": "The corpse was dressed in papal robes."
+      },
+      {
+        "narration": "A terrified young deacon was ordered to stand beside the rotting corpse to speak on its behalf.",
+        "search": "medieval church trial manuscript engraving",
+        "caption": "A terrified deacon defended the corpse."
+      },
+      {
+        "narration": "Pope Stephen VI stood before the silent body, screaming accusations of perjury and illegal usurpation of the papacy.",
+        "search": "pope stephen vi cadaver synod painting",
+        "caption": "Stephen VI screamed accusations at the silent body."
+      },
+      {
+        "narration": "As Pope Stephen VI shrieked his demands, the trembling deacon was forced to whisper confessions on behalf of the silent, rotting Pope Formosus.",
+        "search": "cadaver synod medieval engraving",
+        "caption": "The terrified deacon confessed to all charges on behalf of the corpse"
+      },
+      {
+        "narration": "In January 897, the papal court delivered its inevitable verdict, declaring the entire pontificate of Formosus invalid.",
+        "search": "pope stephen vi portrait painting",
+        "caption": "In January 897, Formosus was officially declared guilty of perjury"
+      },
+      {
+        "narration": "Guards stepped forward to violently strip the sacred papal vestments from the decaying corpse, exposing the shroud beneath.",
+        "search": "medieval manuscript illustration of papal trial",
+        "caption": "The sacred vestments were torn from the decaying body"
+      },
+      {
+        "narration": "To symbolically erase his holy authority, the executioners hacked off the three fingers of Formosus's right hand used for papal blessings.",
+        "search": "medieval woodcut of hand mutilation",
+        "caption": "The three blessing fingers of his right hand were hacked off"
+      },
+      {
+        "narration": "The synod officially annulled all of Formosus's ordinations, instantly stripping dozens of priests and bishops of their holy offices.",
+        "search": "jean paul laurens pope formosus oil painting",
+        "caption": "All of the dead pope's official decrees were declared invalid"
+      },
+      {
+        "narration": "The mutilated, half-naked body was dragged out of the basilica and paraded through the chaotic streets of Rome.",
+        "search": "medieval rome city street engraving",
+        "caption": "The mutilated corpse was dragged through the streets of Rome"
+      },
+      {
+        "narration": "Hoping to erase Formosus from history forever, Stephen VI ordered the body to be cast into the depths of the Tiber River.",
+        "search": "tiber river rome old engraving",
+        "caption": "The body was thrown into the Tiber River to be forgotten"
+      },
+      {
+        "narration": "But the river would not keep the secret, as the corpse washed ashore, prompting locals to whisper of divine miracles.",
+        "search": "medieval painting of body washing ashore river",
+        "caption": "The washed-up corpse sparked rumors of divine miracles"
+      },
+      {
+        "narration": "Public outrage soon led to Stephen VI being stripped of his papacy and strangled in prison, while Formosus was eventually reburied in Saint Peter's Basilica, cementing the Cadaver Synod of 897 as the most grotesque trial in Vatican history.",
+        "search": "pope stephen vi historical engraving portrait",
+        "caption": "Stephen VI was strangled, and Formosus was reburied with papal honors."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T10:00:38.178324+00:00",
+    "updated_at": "2026-10-02T10:05:02.520304+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T10:02:59.638060+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars",
+        "at": "2026-10-02T10:03:55.972728+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.4s en-US-GuyNeural 7 cau",
+        "at": "2026-10-02T10:03:58.664020+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T10:04:00.127374+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-02T10:04:10.740639+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-02T10:04:10.761641+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.4s 11356149 bytes",
+        "at": "2026-10-02T10:05:02.369106+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T10:05:02.520276+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38148711/pexels-photo-38148711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32231907/pexels-photo-32231907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14639260/pexels-photo-14639260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731143/pexels-photo-11731143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039706/pexels-photo-12039706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16522994/pexels-photo-16522994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6207364/pexels-photo-6207364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37719753/pexels-photo-37719753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38465806/pexels-photo-38465806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38110779/pexels-photo-38110779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15850552/pexels-photo-15850552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12771426/pexels-photo-12771426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39299246/pexels-photo-39299246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30193112/pexels-photo-30193112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20529518/pexels-photo-20529518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28770936/pexels-photo-28770936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10759013/pexels-photo-10759013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "af19c1e01e",
     "kind": "short",
     "channel": "Channel2",
