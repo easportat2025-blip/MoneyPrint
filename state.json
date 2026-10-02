@@ -1,5 +1,211 @@
 [
   {
+    "id": "c3c7e4f226",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm khi lướt điện thoại trong toilet ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm khi lướt điện thoại trong toilet ai cũng mắc",
+      "hook": "Bồn cầu thực ra chỉ thiết kế để bạn ngồi vài phút, nhưng chiếc điện thoại đang bí mật biến nó thành cái bẫy hủy hoại tĩnh mạch của bạn.",
+      "beats": [
+        "Bệ toilet hình oval không có điểm tựa nâng đỡ cho toàn bộ sàn chậu như ghế thông thường.",
+        "Khi bạn mải lướt điện thoại quá 10 phút, trọng lực dồn toàn bộ áp lực máu xuống vùng tĩnh mạch trực tràng.",
+        "Tĩnh mạch bị ứ máu và căng phồng âm thầm mà không gây đau đớn ngay lúc đó.",
+        "Các bác sĩ cảnh báo đây là nguyên nhân hàng đầu khiến tỷ lệ bệnh trĩ bùng nổ ở người trẻ hiện nay."
+      ],
+      "keywords": [
+        "person scrolling phone toilet",
+        "digital clock ticking fast",
+        "blood vessels medical animation",
+        "bathroom interior modern",
+        "young person sitting looking phone"
+      ],
+      "tags": [
+        "suckhoe",
+        "meovat",
+        "thoi quen",
+        "dienthoai",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bồn cầu đang bí mật hủy hoại mạch máu bạn.",
+        "search": "nguoi ngoi nha ve sinh cam dien thoai toi tam",
+        "caption": "Thói quen lướt điện thoại hủy hoại cơ thể âm thầm"
+      },
+      {
+        "narration": "Bệ bồn cầu vốn không hề được thiết kế như một chiếc ghế thông thường. Cấu trúc rỗng ở giữa khiến toàn bộ sàn chậu của bạn hoàn toàn mất đi điểm nâng đỡ.",
+        "search": "be bon cau toilet trong phong toi",
+        "caption": "Bệ bồn cầu không có điểm nâng đỡ sàn chậu"
+      },
+      {
+        "narration": "Ban đầu chỉ là vài phút giải quyết nhu cầu, nhưng màn hình điện thoại đã giữ bạn ngồi yên hơn mười lăm phút. Thời gian trôi đi mà cơ thể bạn không hề nhận ra sự bất thường.",
+        "search": "dong ho so troi nhanh phong toi anh sang xanh",
+        "caption": "Chiếc điện thoại kéo dài thời gian ngồi gấp nhiều lần"
+      },
+      {
+        "narration": "Trong tư thế ngồi lọt thỏm này, trọng lực bắt đầu phát huy tác động tồi tệ nhất lên vùng dưới cơ thể. Không có bề mặt phẳng nào cản lại lực ép liên tục dồn xuống.",
+        "search": "mo phong trong luc co the nguoi hoat hinh y te",
+        "caption": "Trọng lực dồn ép liên tục khi ngồi sai tư thế"
+      },
+      {
+        "narration": "Áp lực thủy tĩnh buộc dòng máu phải dồn ngược toàn bộ về điểm thấp nhất là các tĩnh mạch trực tràng. Máu lưu thông chậm lại và bắt đầu bị nghẽn cục bộ.",
+        "search": "ap luc mau don xuong truc trang do hoa y te",
+        "caption": "Máu bị dồn ứ toàn bộ xuống trực tràng"
+      },
+      {
+        "narration": "Các tĩnh mạch mỏng manh buộc phải giãn rộng hết mức để chứa lượng máu ứ đọng khổng lồ. Chúng căng phồng lên như những quả bóng sắp nổ dưới lớp niêm mạc.",
+        "search": "tinh mach bi phinh to ap luc mau do hoa",
+        "caption": "Tĩnh mạch trực tràng bị căng phồng quá mức"
+      },
+      {
+        "narration": "Điều nguy hiểm nhất là toàn bộ quá trình biến dạng mạch máu này lại không hề gây ra một chút đau đớn nào. Não bộ hoàn toàn bị đánh lừa bởi sự tập trung trên màn hình.",
+        "search": "he than kinh nao bo khong co tin hieu phong toi",
+        "caption": "Tổn thương diễn ra âm thầm không có cảm giác đau"
+      },
+      {
+        "narration": "Mỗi phút ngồi thêm là một lần các tĩnh mạch bị kéo giãn vĩnh viễn và không thể co lại như cũ. Các bác sĩ vừa phải đưa ra một cảnh báo khẩn cấp về hiện tượng này.",
+        "search": "bac si chi tay bieu do benh ly tang vot",
+        "caption": "Tĩnh mạch mất khả năng đàn hồi sau mỗi lần ngồi lâu"
+      },
+      {
+        "narration": "Cảnh báo này chỉ ra rằng, tỷ lệ người trẻ phải can thiệp ngoại khoa vì bệnh trĩ đã tăng vọt lên mức kỷ lục, trùng khớp hoàn toàn với sự bùng nổ của smartphone.",
+        "search": "bac si chi tay vao bieu do y khoa tang vot",
+        "caption": "Tỷ lệ bệnh trĩ ở người trẻ tăng vọt kỷ lục"
+      },
+      {
+        "narration": "Nguyên nhân cốt lõi nằm ở việc bệ toilet hình oval hoàn toàn không có điểm tựa nâng đỡ cho vùng sàn chậu như những chiếc ghế ngồi thông thường.",
+        "search": "be bon cau hinh oval can canh",
+        "caption": "Thiết kế bệ ngồi không nâng đỡ sàn chậu"
+      },
+      {
+        "narration": "Khi bạn ngồi lơ lửng, trọng lực liên tục dồn toàn bộ áp lực máu xuống vùng tĩnh mạch trực tràng mà không gặp bất kỳ lực cản nào.",
+        "search": "mieu ta trong luc trai dat dồn xuong khoi do",
+        "caption": "Trọng lực dồn ép liên tục xuống trực tràng"
+      },
+      {
+        "narration": "Các mạch máu tại đây mỏng manh như những quả bóng bay, khi bị bơm căng quá mức sẽ bắt đầu xuất hiện các vết nứt vi mô và rỉ máu âm thầm.",
+        "search": "bong bong xat mau sap vo hinh anh y khoa",
+        "caption": "Mạch máu mỏng manh bị căng phồng quá mức"
+      },
+      {
+        "narration": "Không chỉ dừng lại ở mạch máu, môi trường nhà vệ sinh còn đang âm thầm thực hiện một cuộc tấn công sinh học nguy hiểm khác lên cơ thể bạn.",
+        "search": "vi khuan tren man hinh dien thoai hoat hoa",
+        "caption": "Cuộc tấn công sinh học âm thầm trong toilet"
+      },
+      {
+        "narration": "Mỗi lần bạn xả nước, hàng triệu hạt khí dung mang theo vi khuẩn phân và E. coli sẽ bắn xa tới hai mét, lơ lửng trong không khí.",
+        "search": "xa nuoc bon cau vi khuan ban ra khong trung",
+        "caption": "Hạt khí dung mang vi khuẩn bắn xa 2 mét"
+      },
+      {
+        "narration": "Chúng bám chặt vào bề mặt kính điện thoại, biến thiết bị này thành một ổ bệnh di động bám sát lấy khuôn mặt và bàn tay bạn mỗi ngày.",
+        "search": "tay cham vao man hinh dien thoai ban anh sang xanh",
+        "caption": "Điện thoại biến thành ổ vi khuẩn di động"
+      },
+      {
+        "narration": "Để ngăn chặn thảm họa kép này, các nhà khoa học đã tính toán ra một giới hạn thời gian nghiêm ngặt mà bạn tuyệt đối không được vượt qua.",
+        "search": "dong ho cat chay nhanh bong toi am u",
+        "caption": "Giới hạn thời gian sinh tử khi đi vệ sinh"
+      },
+      {
+        "narration": "Giới hạn an toàn tuyệt đối là dưới năm phút: hãy để điện thoại bên ngoài toilet trước khi một thói quen tưởng chừng vô hại biến thành căn bệnh dai dẳng suốt đời.",
+        "search": "dong ho dem nguoc 5 phut ban tay dat dien thoai ra ngoai phong tam",
+        "caption": "Quy tắc 5 phút: Hãy để điện thoại bên ngoài trước khi quá muộn!"
+      }
+    ],
+    "error": "",
+    "youtube_id": "OFADRzuH47A",
+    "youtube_url": "https://www.youtube.com/watch?v=OFADRzuH47A",
+    "created_at": "2026-10-02T05:57:23.400277+00:00",
+    "updated_at": "2026-10-02T06:01:14.848714+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T05:59:31.411345+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "518 chars",
+        "at": "2026-10-02T05:59:39.848371+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.2s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-02T05:59:48.462436+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T05:59:49.928819+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-02T06:00:14.365849+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-02T06:00:14.386551+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.2s 16761072 bytes",
+        "at": "2026-10-02T06:01:10.707772+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=OFADRzuH47A",
+        "at": "2026-10-02T06:01:13.098310+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-02T06:01:13.430331+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-02T06:01:14.741966+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-02T06:01:14.762466+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-02T06:01:14.848698+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/27950220/12271253_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/10472901/10472901-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/9706428/9706428-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/13189497/13189497-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703847/15987358_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/10210550/10210550-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8691682/8691682-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/4217998/4217998-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7195984/7195984-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/32324536/13787974_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34942228/14801537_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/18068664/18068664-hd_720_1278_24fps.mp4",
+      "https://videos.pexels.com/video-files/17808481/17808481-hd_720_1280_40fps.mp4",
+      "https://videos.pexels.com/video-files/9472825/9472825-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/38410501/16310018_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/29996308/12870473_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6752233/6752233-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "b665f27957",
     "kind": "short",
     "channel": "Channel2",
