@@ -1,5 +1,192 @@
 [
   {
+    "id": "af19c1e01e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Drank From His Enemy’s Skull",
+    "idea": {
+      "title": "The King Who Drank From His Enemy’s Skull",
+      "hook": "How King Alboin forced his wife to drink from her father's skull, unaware it would seal his own brutal fate.",
+      "beats": [
+        "In 567 AD, King Alboin of the Lombards crushed the Gepid kingdom and personally slew their ruler, King Cunimund.",
+        "To display his absolute dominance, Alboin fashioned Cunimund's skull into an ornate, gold-rimmed drinking cup.",
+        "At a victory banquet, Alboin forced his new wife, Rosamund—who was Cunimund's daughter—to drink wine from her father's skull.",
+        "Devastated and humiliated, Rosamund secretly conspired with Alboin's bodyguard to seek ultimate revenge.",
+        "One afternoon, while the king napped, Rosamund tied his sword to his bedpost, allowing the conspirators to strike him down defenseless."
+      ],
+      "keywords": [
+        "King Alboin Lombards",
+        "medieval banquet painting",
+        "human skull cup",
+        "Queen Rosamund revenge",
+        "Lombard kingdom map"
+      ],
+      "tags": [
+        "history",
+        "medievalhistory",
+        "darkhistory",
+        "lombards",
+        "betrayal"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He forced his wife to drink from her father's skull.",
+        "search": "human skull cup medieval engraving",
+        "caption": "Forced to drink from her father's skull."
+      },
+      {
+        "narration": "In 567 AD, King Alboin of the Lombards crushed the rival Gepid kingdom.",
+        "search": "King Alboin Lombards historical illustration",
+        "caption": "King Alboin crushed the Gepid kingdom in 567 AD."
+      },
+      {
+        "narration": "During the battle, Alboin personally slew King Cunimund.",
+        "search": "medieval battle oil painting dramatic",
+        "caption": "Alboin personally slew King Cunimund."
+      },
+      {
+        "narration": "To display absolute dominance, Alboin fashioned Cunimund's skull into an ornate drinking cup.",
+        "search": "gold rimmed human skull artifact museum photo",
+        "caption": "Turned his enemy's skull into a drinking cup."
+      },
+      {
+        "narration": "At a royal victory banquet, Alboin demanded his new wife participate in a horrific ritual.",
+        "search": "medieval banquet oil painting dark mood",
+        "caption": "A brutal victory banquet."
+      },
+      {
+        "narration": "He forced Queen Rosamund, Cunimund's daughter, to drink wine from her own father's skull.",
+        "search": "Queen Rosamund revenge historical portrait painting",
+        "caption": "Forced to drink from her father's skull."
+      },
+      {
+        "narration": "Devastated and humiliated, Rosamund plotted ultimate vengeance against her husband.",
+        "search": "dark medieval castle interior oil painting",
+        "caption": "Planning ultimate revenge."
+      },
+      {
+        "narration": "In 567 AD, King Alboin of the Lombards crushed the rival Gepid kingdom in battle.",
+        "search": "Lombard kingdom map historical parchment old manuscript",
+        "caption": "The rise of the Lombard kingdom in 567 AD"
+      },
+      {
+        "narration": "During the fierce conflict, King Alboin personally slew the Gepid ruler, King Cunimund.",
+        "search": "medieval battle oil painting dark dramatic lighting",
+        "caption": "King Alboin slays King Cunimund"
+      },
+      {
+        "narration": "To display absolute dominance, Alboin fashioned Cunimund's skull into an ornate, gold-rimmed cup.",
+        "search": "human skull cup gold rim historical illustration",
+        "caption": "A gruesome goblet crafted from bone"
+      },
+      {
+        "narration": "At a victory banquet, Alboin forced his new wife Rosamund to drink wine from her father's skull.",
+        "search": ". medieval banquet oil painting gloomy atmosphere",
+        "caption": "Forced to drink from her father's skull"
+      },
+      {
+        "narration": "Rosamund was none other than the slain king Cunimund's daughter, trapped in a forced marriage.",
+        "search": "Queen Rosamund portrait painting renaissance art",
+        "caption": "Queen Rosamund's silent humiliation"
+      },
+      {
+        "narration": "Devastated and humiliated, Rosamund secretly conspired with the king's bodyguard for ultimate revenge.",
+        "search": "dark medieval castle corridor conspiracy oil painting",
+        "caption": "A deadly plot forged in secret"
+      },
+      {
+        "narration": "She waited for the right moment to strike down the arrogant Lombard monarch.",
+        "search": "sleeping king dark bedroom historical painting dramatic",
+        "caption": "Vengeance awaits the sleeping king"
+      },
+      {
+        "narration": "In the summer of 572 AD at Verona, Queen Rosamund enacted her dangerous conspiracy.",
+        "search": "Verona Italy medieval map engraving",
+        "caption": "Verona, 572 AD: The stage for betrayal"
+      },
+      {
+        "narration": "She secured the loyalty of Alboin's royal shield-bearer, Helmchis, to strike the fatal blow.",
+        "search": "medieval bodyguard dark knight oil painting",
+        "caption": "Securing the help of the king's bodyguard"
+      },
+      {
+        "narration": "To ensure Alboin could not defend himself, Rosamund plotted an intimate betrayal during the afternoon hours.",
+        "search": "sleeping medieval king dark room oil painting",
+        "caption": "Waiting for the afternoon rest"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T06:53:37.610521+00:00",
+    "updated_at": "2026-10-02T07:01:25.953462+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "7 scenes",
+        "at": "2026-10-02T06:56:00.208745+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "574 chars",
+        "at": "2026-10-02T06:57:03.670558+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.1s en-US-GuyNeural 7 cau",
+        "at": "2026-10-02T06:57:06.276768+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T06:57:07.442982+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-02T07:00:42.228826+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-02T07:00:42.245070+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.1s 10610334 bytes",
+        "at": "2026-10-02T07:01:25.795312+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T07:01:25.953453+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5095880/pexels-photo-5095880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28887237/pexels-photo-28887237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645920/pexels-photo-28645920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8697738/pexels-photo-8697738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8191473/pexels-photo-8191473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839559/pexels-photo-35839559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15441787/pexels-photo-15441787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12463677/pexels-photo-12463677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543474/pexels-photo-17543474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35226350/pexels-photo-35226350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35596652/pexels-photo-35596652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564809/pexels-photo-12564809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18933478/pexels-photo-18933478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14770405/pexels-photo-14770405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16662549/pexels-photo-16662549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9337516/pexels-photo-9337516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728567/pexels-photo-6728567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c3c7e4f226",
     "kind": "short",
     "channel": "Channel3",
