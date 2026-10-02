@@ -1,5 +1,191 @@
 [
   {
+    "id": "187ad4e25b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Literally Ate Himself to Death",
+    "idea": {
+      "title": "The King Who Literally Ate Himself to Death",
+      "hook": "In 1771, King Adolf Frederick of Sweden sat down for dinner and consumed a feast so massive it killed him hours later.",
+      "beats": [
+        "Known as an indulgent and passive monarch, Adolf Frederick cared far more for luxury banquets than statecraft.",
+        "On Shrove Tuesday, he devoured an immense meal of lobster, caviar, kippers, sauerkraut, champagne, and 14 bowls of sweet cream-filled pastries.",
+        "Severe digestive collapse followed almost immediately, and royal physicians could only watch as the monarch suffered excruciating spasms.",
+        "The king died that very night, remembered forever not for his rule, but as the monarch who literally ate himself to death."
+      ],
+      "keywords": [
+        "Adolf Frederick of Sweden portrait",
+        "18th century royal banquet painting",
+        "Swedish royal palace engraving",
+        "vintage feast engraving",
+        "historical Swedish court"
+      ],
+      "tags": [
+        "#history",
+        "#weirdhistory",
+        "#royalty",
+        "#historyfacts",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Swedish king literally ate himself to death.",
+        "search": "Adolf Frederick of Sweden portrait painting",
+        "caption": "A royal feast that proved fatal."
+      },
+      {
+        "narration": "In February 1771, Sweden was gripped by fierce political instability between rival parliamentary factions.",
+        "search": "18th century Swedish Riksdag parliament engraving",
+        "caption": "Stockholm, Sweden, February 1771."
+      },
+      {
+        "narration": "King Adolf Frederick held little constitutional authority, leaving governance to ministers while retreating into private luxury.",
+        "search": "King Adolf Frederick of Sweden oil painting",
+        "caption": "A monarch stripped of political authority."
+      },
+      {
+        "narration": "The monarch was known across northern Europe for avoiding court duties in favor of hours-long banquets.",
+        "search": "18th century royal banquet oil painting",
+        "caption": "Lavish dining replaced governing duties."
+      },
+      {
+        "narration": "On February 12, 1771, the court assembled at Stockholm Palace to observe Shrove Tuesday before Lent.",
+        "search": "Stockholm Royal Palace 18th century engraving",
+        "caption": "Stockholm Royal Palace feast, February 1771."
+      },
+      {
+        "narration": "Adolf Frederick began dinner by consuming immense courses of lobster, caviar, kippers, and boiled meat with sauerkraut.",
+        "search": "18th century still life seafood feast oil painting",
+        "caption": "Courses of lobster, caviar, and meats."
+      },
+      {
+        "narration": "He paired the heavy savory courses with continuous draughts of champagne and fortified wines.",
+        "search": "18th century wine cellar banquet engraving",
+        "caption": "Endless servings of champagne and wine."
+      },
+      {
+        "narration": "Despite visibly struggling after the savory courses, the king demanded fourteen servings of heavy cream-filled pastries.",
+        "search": "18th century European dessert pastry engraving",
+        "caption": "Fourteen bowls of rich sweet pastry ordered."
+      },
+      {
+        "narration": "These pastries, known as hetvägg, were dense wheat buns stuffed with almond paste and served floating in bowls of hot cream.",
+        "search": "18th century swedish pastries engraving",
+        "caption": "Traditional hetvägg buns served floating in hot milk"
+      },
+      {
+        "narration": "Adolf Frederick consumed all fourteen bowls in rapid succession, finishing a meal totaling thousands of dense calories.",
+        "search": "King Adolf Frederick of Sweden portrait painting",
+        "caption": "The monarch finished fourteen bowls of almond pastry"
+      },
+      {
+        "narration": "Retiring to his private bedchamber inside Stockholm Palace, the monarch reported severe pressure across his abdomen.",
+        "search": "Stockholm royal palace 18th century engraving",
+        "caption": "The king retired to Stockholm Palace private apartments"
+      },
+      {
+        "narration": "Within two hours, excruciating digestive spasms incapacitated the sixty-year-old king, leaving him writhing in bed.",
+        "search": "18th century sickbed royal chamber oil painting",
+        "caption": "Violent digestive spasms incapacitated the sixty-year-old king"
+      },
+      {
+        "narration": "Royal physicians rushed to the monarch's bedside, uncertain whether they were treating a sudden poisoning or acute colic.",
+        "search": "18th century doctor bedside examination oil painting",
+        "caption": "Physicians rushed to diagnose suspected poisoning or colic"
+      },
+      {
+        "narration": "Eighteenth-century remedies, including bloodletting and herbal emetics, only exacerbated the king's massive gastric distension.",
+        "search": "18th century medical instruments engraving",
+        "caption": "Bloodletting and emetics failed to relieve gastric pressure"
+      },
+      {
+        "narration": "Internal vascular shock set in as the king's digestive tract suffered severe mechanical and circulatory failure.",
+        "search": "historical royal deathbed sketch engraving",
+        "caption": "Vascular shock and organ failure rapidly intensified"
+      },
+      {
+        "narration": "By late evening on February 12, 1771, government ministers were summoned to witness the ruler slipping into unconsciousness.",
+        "search": "Swedish royal council 18th century oil painting",
+        "caption": "Ministers gathered as the king lost consciousness"
+      },
+      {
+        "narration": "King Adolf Frederick died that very night on February 12, 1771, remembered forever not for his rule, but as the monarch who literally ate himself to death.",
+        "search": "Adolf Frederick of Sweden portrait oil painting",
+        "caption": "Died from a single legendary royal feast in 1771."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T23:24:45.090701+00:00",
+    "updated_at": "2026-10-02T23:33:34.469657+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T23:32:04.921117+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "512 chars",
+        "at": "2026-10-02T23:32:26.389202+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.8s en-US-GuyNeural 8 cau",
+        "at": "2026-10-02T23:32:31.130641+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T23:32:32.472581+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-02T23:32:43.404564+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-02T23:32:43.428472+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.9s 11965268 bytes",
+        "at": "2026-10-02T23:33:34.312650+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T23:33:34.469645+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/11061416/pexels-photo-11061416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30577100/pexels-photo-30577100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35269760/pexels-photo-35269760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30551486/pexels-photo-30551486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29300752/pexels-photo-29300752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9439252/pexels-photo-9439252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16711344/pexels-photo-16711344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11773074/pexels-photo-11773074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12613656/pexels-photo-12613656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20544004/pexels-photo-20544004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27127696/pexels-photo-27127696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39340127/pexels-photo-39340127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5867703/pexels-photo-5867703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12351696/pexels-photo-12351696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7085833/pexels-photo-7085833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33604712/pexels-photo-33604712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3957641/pexels-photo-3957641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d40351ded7",
     "kind": "short",
     "channel": "Channel2",
