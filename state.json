@@ -1,5 +1,211 @@
 [
   {
+    "id": "338c6cfce5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ khi lướt điện thoại bằng một mắt",
+    "idea": {
+      "title": "Sự thật đáng sợ khi lướt điện thoại bằng một mắt",
+      "hook": "Bạn có thói quen nằm nghiêng, nhắm một mắt để lướt điện thoại trong bóng tối? Bạn đang âm thầm khiến một bên mắt của mình bị mù tạm thời mà không hề hay biết.",
+      "beats": [
+        "Khi nằm nghiêng, một mắt bị gối che khuất và thích nghi với bóng tối, trong khi mắt còn lại phải nhìn trực tiếp vào ánh sáng xanh của màn hình.",
+        "Khi bạn tắt điện thoại để đi ngủ, mắt vừa nhìn màn hình sẽ đột ngột không nhìn thấy gì, tạo ra vùng tối đen kéo dài từ vài phút đến nửa tiếng.",
+        "Hiện tượng này được y học gọi là 'Mù điện thoại tạm thời' (Transient Smartphone Blindness), khiến võng mạc bị lệch pha thích ứng ánh sáng.",
+        "Để tránh tình trạng này, các bác sĩ khuyên bạn tuyệt đối không dùng điện thoại trong tối, hoặc bắt buộc phải mở cả hai mắt."
+      ],
+      "keywords": [
+        "smartphone in dark",
+        "eye close up",
+        "lying in bed phone",
+        "human pupil",
+        "dark bedroom"
+      ],
+      "tags": [
+        "channel3",
+        "thói quen",
+        "sức khỏe",
+        "mẹo điện thoại",
+        "khoa học đời sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Lướt điện thoại bằng một mắt có thể gây mù?",
+        "search": "nguoi nam nghieng luot dien thoai phong toi",
+        "caption": "Lướt điện thoại một mắt có thể gây mù?"
+      },
+      {
+        "narration": "Nhiều người có thói quen nằm nghiêng, để gối che khuất một bên mắt khi dùng điện thoại sát giờ ngủ.",
+        "search": "canh can mat nguoi nham mat trong bong toi",
+        "caption": "Thói quen nằm nghiêng che một bên mắt"
+      },
+      {
+        "narration": "Lúc này, con ngươi của mắt bị che sẽ tự động giãn nở tối đa để thích nghi với bóng tối tĩnh mịch.",
+        "search": "dong tu mat nguoi gian no can canh",
+        "caption": "Mắt bị che thích nghi với bóng tối"
+      },
+      {
+        "narration": "Trong khi đó, mắt còn lại phải căng ra để điều tiết trước luồng ánh sáng xanh gay gắt từ màn hình.",
+        "search": "anh sang xanh dien thoai chieu vao mat",
+        "caption": "Mắt kia hứng trọn ánh sáng xanh"
+      },
+      {
+        "narration": "Sự bất thường đáng sợ chỉ thực sự xảy ra ngay khi bạn tắt điện thoại để chìm vào giấc ngủ.",
+        "search": "tay tat man hinh dien thoai phong toi",
+        "caption": "Cơn ác mộng bắt đầu khi tắt máy"
+      },
+      {
+        "narration": "Mắt vừa nhìn màn hình sẽ đột ngột mất thị lực hoàn toàn, tạo ra vùng tối đen kéo dài đến nửa tiếng.",
+        "search": "mat nguoi nhin vao khoang den vo tan",
+        "caption": "Một bên mắt đột ngột bị mù tạm thời"
+      },
+      {
+        "narration": "Y học gọi hiện tượng này là Mù điện thoại tạm thời do võng mạc bị lệch pha thích ứng ánh sáng cực hạn.",
+        "search": "mo hinh do hoa vong mac mat nguoi",
+        "caption": "Hội chứng Mù điện thoại tạm thời"
+      },
+      {
+        "narration": "Để tự cứu lấy đôi mắt, hãy từ bỏ việc dùng điện thoại trong tối hoặc bắt buộc phải mở cả hai mắt.",
+        "search": "bat den phong ngu dung dien thoai hai mat",
+        "caption": "Bật đèn hoặc luôn mở cả hai mắt"
+      },
+      {
+        "narration": "Sự chênh lệch ánh sáng này tạo ra một hố đen thị giác đáng sợ.",
+        "search": "dark bedroom phone screen glow",
+        "caption": "Hố đen thị giác xuất hiện"
+      },
+      {
+        "narration": "Nhiều người lầm tưởng mình bị đột quỵ khi sự việc xảy ra.",
+        "search": "person touching face panic dark",
+        "caption": "Nhầm lẫn với triệu chứng đột quỵ"
+      },
+      {
+        "narration": "Thực tế, não bộ chỉ đang bối rối trước hai tín hiệu quá trái ngược.",
+        "search": "human pupil extreme close up",
+        "caption": "Não bộ bối rối vì tín hiệu trái ngược"
+      },
+      {
+        "narration": "Một bên mắt đã bị mù màu tạm thời trong vô thức.",
+        "search": "eye close up blinking in dark",
+        "caption": "Mắt bị mù màu tạm thời"
+      },
+      {
+        "narration": "Cảm giác hoảng loạn bao trùm khi bạn cố gắng mở to mắt.",
+        "search": "lying in bed phone panic",
+        "caption": "Cảm giác hoảng loạn bao trùm"
+      },
+      {
+        "narration": "Tình trạng này lặp lại mỗi đêm sẽ tàn phá võng mạc vĩnh viễn.",
+        "search": "smartphone in dark blue light",
+        "caption": "Tàn phá võng mạc nếu lặp lại"
+      },
+      {
+        "narration": "Đừng để thói quen vô hại cướp đi ánh sáng của bạn.",
+        "search": "person closing eyes in pain",
+        "caption": "Đừng để thói quen cướp ánh sáng"
+      },
+      {
+        "narration": "Hãy bảo vệ cửa sổ tâm hồn ngay từ đêm nay.",
+        "search": "smartphone in dark bedroom night",
+        "caption": "Bảo vệ cửa sổ tâm hồn ngay"
+      },
+      {
+        "narration": "Tuyệt đối không dùng điện thoại trong tối, hoặc hãy luôn mở cả hai mắt để bảo vệ thị lực.",
+        "search": "smartphone in dark eye close up",
+        "caption": "Bat buoc mo ca hai mat khi dung dien thoai!"
+      }
+    ],
+    "error": "",
+    "youtube_id": "c63_OvilRyg",
+    "youtube_url": "https://www.youtube.com/watch?v=c63_OvilRyg",
+    "created_at": "2026-10-02T20:10:13.642017+00:00",
+    "updated_at": "2026-10-02T20:16:02.558754+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T20:13:29.922247+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "683 chars",
+        "at": "2026-10-02T20:14:32.955251+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "41.6s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-10-02T20:14:40.373064+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T20:14:42.231641+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-02T20:14:57.187707+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-02T20:14:57.210222+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 41.6s 13138658 bytes",
+        "at": "2026-10-02T20:15:58.793587+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=c63_OvilRyg",
+        "at": "2026-10-02T20:16:01.024566+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-02T20:16:01.199824+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-02T20:16:02.463486+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-02T20:16:02.486084+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-02T20:16:02.558745+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35360145/14982025_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7698455/7698455-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/5999370/5999370-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/39833725/16989312_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324574/13788067_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/8458589/8458589-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8720761/8720761-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/10387428/10387428-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/19162466/19162466-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/8458499/8458499-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7198065/7198065-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7198067/7198067-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/9787494/9787494-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/4058888/4058888-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/32107165/13688048_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/28048582/12290988_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7299415/7299415-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "6c9e00c207",
     "kind": "long",
     "channel": "ReZain",
