@@ -1,5 +1,260 @@
 [
   {
+    "id": "6c9e00c207",
+    "kind": "long",
+    "channel": "ReZain",
+    "slot": "1",
+    "status": "failed",
+    "title": "The Real Reason You Actually Use Airplane Mode",
+    "idea": {
+      "title": "The Real Reason You Actually Use Airplane Mode",
+      "hook": "You’ve been told Flight Mode stops planes from crashing, but the real reason is secretly about protecting people on the ground.",
+      "beats": [
+        "The common anxiety: why flight attendants strictly enforce airplane mode, and the myth that a single text message could bring down a commercial jetliner.",
+        "The reality of modern avionics: aircraft systems are heavily shielded against electromagnetic interference to survive lightning strikes and military radar, meaning your phone won't disable the autopilot.",
+        "Understanding how cell phones search for signal: when connection drops, the phone's internal antenna boosts its broadcasting power to its absolute maximum limit to find a tower.",
+        "The line-of-sight paradox: at 30,000 feet, there are no buildings or hills, meaning your phone can suddenly 'see' and attempt to connect to dozens of cell towers simultaneously.",
+        "The speed issue: traveling at 500 miles per hour means your phone passes through cell coverage zones faster than the ground software can process the handoff.",
+        "Ground network chaos: hundreds of phones on a single flight frantically pinging multiple towers at once clogs the terrestrial bandwidth, causing dropped calls and slow data for people on the ground.",
+        "The regulatory division: why the FCC (Federal Communications Commission) actually pushed for the ban to protect ground networks, while the FAA (Federal Aviation Administration) supported it for safety redundancy.",
+        "The audio interference phenomenon: how GSM and LTE signals cause the infamous 'dit-dit-dit' buzzing sound in analog audio equipment, similar to placing a phone near an old speaker.",
+        "The pilot's headset distraction: this repetitive buzzing bleed-through occurs directly in the pilots' and air traffic controllers' headsets, potentially masking critical, split-second audio instructions.",
+        "The modern 5G controversy: how new 5G C-band frequencies operate close to the frequencies used by aircraft radio altimeters, keeping the airplane mode debate alive and necessary today.",
+        "Summary of the true purpose: airplane mode isn't a magical shield keeping the wings on; it's a vital courtesy to ground infrastructure and a safety buffer for pilot communication."
+      ],
+      "keywords": [
+        "airplane mode",
+        "flight mode",
+        "how cell towers work",
+        "aviation science",
+        "electromagnetic interference",
+        "avionics shielding",
+        "5G aircraft interference",
+        "air traffic control",
+        "cell phone signal",
+        "physics of flight"
+      ],
+      "tags": [
+        "science",
+        "technology",
+        "aviation",
+        "how it works",
+        "physics",
+        "travel hacks",
+        "telecommunications",
+        "engineering",
+        "airplane mode myth",
+        "aerospace"
+      ],
+      "kind": "long",
+      "thumbnail_text": "The Flight Mode Lie"
+    },
+    "scenes": [
+      {
+        "narration": "Flight mode doesn't save planes. It saves the ground.",
+        "search": "commercial airplane flying through dark clouds at night dramatic lighting",
+        "caption": "The real reason you use airplane mode."
+      },
+      {
+        "narration": "Flight attendants strictly enforce it, fueling the myth that a single text message could crash a jet.",
+        "search": "flight attendant checking passenger phones on dark airplane cabin",
+        "caption": "The myth of the deadly text message."
+      },
+      {
+        "narration": "In reality, modern avionics are heavily shielded against electromagnetic interference to survive lightning strikes.",
+        "search": "airplane cockpit instrument panel glowing in the dark aviation science",
+        "caption": "Are planes really that fragile?"
+      },
+      {
+        "narration": "When your connection drops at altitude, your phone’s internal antenna boosts its broadcasting power to maximum limit.",
+        "search": "smartphone glowing antenna signal waves dark background",
+        "caption": "Your phone goes into overdrive."
+      },
+      {
+        "narration": "At thirty thousand feet, there are no hills or buildings, letting your phone see dozens of cell towers at once.",
+        "search": "aerial view of cell phone towers flashing lights at night vast landscape",
+        "caption": "The line-of-sight paradox."
+      },
+      {
+        "narration": "Traveling at five hundred miles per hour means your phone passes through coverage zones faster than software can handle handoffs.",
+        "search": "airplane wing blurred motion night lights below",
+        "caption": "Too fast for the network."
+      },
+      {
+        "narration": "Hundreds of phones frantically pinging multiple towers clogs terrestrial bandwidth and crashes ground networks.",
+        "search": "digital network congestion data overload abstract visualization",
+        "caption": "Ground network chaos."
+      },
+      {
+        "narration": "This sudden overload causes dropped calls and data blackouts for millions of people down below.",
+        "search": "frustrated person looking at smartphone screen no service dark room",
+        "caption": "Punishing the people on the ground."
+      },
+      {
+        "narration": "The Federal Communications Commission originally pushed for the ban to protect ground networks from total gridlock.",
+        "search": "government telecommunications control room monitors screens",
+        "caption": "FCC intervention to protect ground networks."
+      },
+      {
+        "narration": "Meanwhile, the Federal Aviation Administration supported the ban strictly for safety redundancy and caution.",
+        "search": "aviation safety regulators reviewing flight data documents",
+        "caption": "FAA safety redundancy and caution."
+      },
+      {
+        "narration": "Older GSM and LTE signals cause the infamous buzzing sound in analog audio equipment.",
+        "search": "audio mixing board waveform interference static noise",
+        "caption": "The infamous analog audio buzzing sound."
+      },
+      {
+        "narration": "This repetitive buzzing bleed-through occurs directly in the headsets of pilots and air traffic controllers.",
+        "search": "commercial airline pilot wearing headset in cockpit at night",
+        "caption": "Bleed-through in pilot and controller headsets."
+      },
+      {
+        "narration": "That disruptive audio interference could potentially mask critical, split-second voice instructions.",
+        "search": "air traffic controller talking intensely into microphone headset",
+        "caption": "Risking critical split-second voice instructions."
+      },
+      {
+        "narration": "Modern 5G C-band frequencies operate dangerously close to the bands used by aircraft radio altimeters.",
+        "search": "commercial airplane cockpit instrument panel glowing gauges",
+        "caption": "Modern 5G C-band frequency proximity."
+      },
+      {
+        "narration": "This proximity to sensitive avionics keeps the airplane mode debate alive and necessary today.",
+        "search": "radar screen displaying altitude tracking data lines",
+        "caption": "Keeping the airplane mode debate alive."
+      },
+      {
+        "narration": "Airplane mode isn't a magical shield keeping the wings attached to the fuselage.",
+        "search": "commercial airplane wing cutting through dark storm clouds",
+        "caption": "Not a magical shield for the wings."
+      },
+      {
+        "narration": "The risk spikes drastically during Category III instrument landings, where pilots cannot see the runway through thick fog. In these blind descents, survival depends entirely on automated radar altimeters measuring the altitude foot by foot.",
+        "search": "commercial airplane landing dense fog cockpit windshield low visibility",
+        "caption": "Automated blind landings rely entirely on micro-precision radar data."
+      },
+      {
+        "narration": "That single instrument controls when the flight computer cuts the engines and pulls the nose up for touchdown. If the reading stutters by even fifty feet, the aircraft can slam violently into the tarmac.",
+        "search": "airplane landing gear touchdown runway night dramatic tire smoke",
+        "caption": "A fifty-foot altimeter error can trigger a catastrophic runway impact."
+      },
+      {
+        "narration": "The 5G frequencies purchased by mobile carriers sit immediately adjacent to this altimeter band. When multiple devices inside the cabin spike their broadcast power, the radio noise floor creeps dangerously close to that critical threshold.",
+        "search": "spectrum analyzer glowing frequency waves oscilloscope dark laboratory",
+        "caption": "Mobile transmission spikes push radio noise into protected aviation bands."
+      },
+      {
+        "narration": "It is not just passenger phones; high-powered ground stations near airport perimeters blast signals upward at thousands of watts. The aircraft becomes caught in a crossfire between terrestrial tower arrays and unshielded devices inside the fuselage.",
+        "search": "massive cell tower array night glowing red aviation warning lights",
+        "caption": "Jetliners fly directly through high-powered transmission fields near runways."
+      },
+      {
+        "narration": "Trillion-dollar telecommunication conglomerates fought aviation agencies for years over these exact buffer zones. Aviation authorities warned of potential crashes, while telecom providers insisted the risk was mathematically negligible.",
+        "search": "dark corporate boardroom high angle skyscraper empty conference table",
+        "caption": "Regulators and telecom giants battled over razor-thin spectrum safety margins."
+      },
+      {
+        "narration": "Aviation safety is never engineered around averages; it is designed around the absolute worst-case cascading failure. A sudden go-around forces a plane to throttle up at two hundred feet while hundreds of passengers instinctively reach for their devices.",
+        "search": "jet airplane sudden steep climb aborted landing stormy dark clouds",
+        "caption": "Aborted landings cause cabin-wide panic and instant device activation."
+      },
+      {
+        "narration": "At that exact second, hundreds of antennas switch into panic mode, flooding the airframe with maximum transmission pulses. Flight attendants enforce the rule because the crew cannot afford an avionics glitch during an emergency climb.",
+        "search": "stressed airline pilot cockpit headset illuminated instrument panel night",
+        "caption": "Hundreds of simultaneous maximum-power pings flood the airframe during emergencies."
+      },
+      {
+        "narration": "Even a brief static burst in a pilot’s headset can mask a critical abort order from air traffic control. The danger isn’t that a phone knocks a plane from the sky, but that it deafens the crew when seconds matter.",
+        "search": "air traffic control tower radar screens silhouettes dark room",
+        "caption": "A split-second audio block can erase life-or-death air traffic instructions."
+      },
+      {
+        "narration": "Just as we mastered analog interference, a new threat emerged with the rollout of high-speed 5G networks. These ultra-fast signals operate on C-band frequencies dangerously close to the radar altimeters planes use to measure their exact height.",
+        "search": "close up of 5G cell tower glowing lights night dramatic",
+        "caption": "High-speed 5G signals operate dangerously close to critical aviation frequencies."
+      },
+      {
+        "narration": "During low-visibility landings in heavy fog, pilots rely entirely on these automated altimeters to guide the plane down. A single corrupted data packet from an active phone could trick autopilot systems during these critical seconds.",
+        "search": "airplane cockpit windshield thick fog landing runway night",
+        "caption": "A single corrupted signal could trick autopilot systems during blind landings."
+      },
+      {
+        "narration": "But the threat isn't just in the cockpit; it is also on the ground directly below you. The Federal Communications Commission banned in-flight cellular use primarily to protect terrestrial networks from being overwhelmed.",
+        "search": "aerial view city grid night digital network lines glowing",
+        "caption": "The ban actually protects ground networks from being overwhelmed by fast-moving phones."
+      },
+      {
+        "narration": "Flying at five hundred miles per hour, your phone screams at dozens of towers simultaneously, attempting handoffs faster than ground software can process. This creates a digital wake that clogs bandwidth and drops calls for people on land.",
+        "search": "abstract digital data stream chaotic lines speed zoom",
+        "caption": "Moving at 500 mph creates a digital wake that clogs terrestrial bandwidth."
+      },
+      {
+        "narration": "So, airplane mode isn't a magical shield keeping the wings attached to the fuselage. It is a vital, dual-purpose safety buffer designed to keep pilot communication clear and prevent ground networks from collapsing.",
+        "search": "commercial jet flying above clouds sunset dramatic wide angle",
+        "caption": "Airplane mode is a vital buffer for both sky and ground."
+      },
+      {
+        "narration": "The next time you flip that switch, remember: you aren't preventing a dramatic mid-air crash. You are ensuring the pilot can hear air traffic control, and the world below can stay connected.",
+        "search": "passenger finger tapping phone screen enabling airplane mode close up dark",
+        "caption": "You aren't preventing a crash—you are keeping the world connected."
+      },
+      {
+        "narration": "Flight mode doesn't save planes from crashing.",
+        "search": "commercial jetliner flying above clouds dramatic lighting",
+        "caption": "Flight mode doesn't save planes from crashing."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T19:45:49.718328+00:00",
+    "updated_at": "2026-10-02T20:06:02.894515+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "30 scenes",
+        "at": "2026-10-02T19:54:19.494574+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3679 chars",
+        "at": "2026-10-02T19:56:16.962095+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "230.7s en-US-ChristopherNeural 35 cau",
+        "at": "2026-10-02T19:56:40.955789+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T19:56:49.560782+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "stickman 16 scenes / 8 keyframes 7394336 bytes",
+        "at": "2026-10-02T20:03:49.048423+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-02T20:03:49.070445+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 230.7s 15578506 bytes",
+        "at": "2026-10-02T20:06:02.725445+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T20:06:02.894500+00:00"
+      }
+    }
+  },
+  {
     "id": "d720dae702",
     "kind": "short",
     "channel": "Channel3",
