@@ -1,5 +1,211 @@
 [
   {
+    "id": "bfe46f0da3",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn không bao giờ ngửi thấy mùi nhà mình?",
+    "idea": {
+      "title": "Tại sao bạn không bao giờ ngửi thấy mùi nhà mình?",
+      "hook": "Bạn có biết ngôi nhà của bạn luôn có một mùi hương rất đặc trưng, nhưng bạn lại là người duy nhất không thể ngửi thấy nó?",
+      "beats": [
+        "Hiện tượng này được gọi là 'mù khứu giác' (olfactory adaptation), một cơ chế sinh tồn cực kỳ quan trọng từ thời tiền sử.",
+        "Khi bạn ở trong một không gian quá lâu, não bộ sẽ tự động bỏ qua mùi hương quen thuộc để tiết kiệm năng lượng và tập trung phát hiện các mùi mới lạ báo hiệu nguy hiểm.",
+        "Các thụ thể trong mũi bạn thực sự đã 'tắt' tín hiệu đối với mùi hương của chính căn nhà bạn.",
+        "Cách duy nhất để bạn ngửi lại được mùi nhà mình là đi du lịch hoặc rời khỏi nhà ít nhất vài ngày."
+      ],
+      "keywords": [
+        "olfactory adaptation",
+        "cozy living room",
+        "person sniffing air",
+        "brain processing sensory",
+        "smelling flowers close up"
+      ],
+      "tags": [
+        "khoa hoc",
+        "co the con nguoi",
+        "bi an cuoc song",
+        "channel3",
+        "kham pha"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vì sao bạn không ngửi thấy mùi nhà mình?",
+        "search": "nguoi buoc vao nha toi ngui khong khi",
+        "caption": "Vì sao bạn không ngửi thấy mùi nhà mình?"
+      },
+      {
+        "narration": "Khách đến chơi nhà đều nhận ra một mùi hương rất đặc trưng, nhưng chính bạn lại hoàn toàn vô cảm với nó.",
+        "search": "khach den nha ngui thay mui la",
+        "caption": "Khách ngửi thấy, nhưng bạn thì không."
+      },
+      {
+        "narration": "Đây không phải là do mũi bạn bị hỏng, mà là một cơ chế sinh tồn đáng sợ từ thời tiền sử.",
+        "search": "nguoi tien su san moi trong rung toi",
+        "caption": "Cơ chế sinh tồn từ thời tiền sử."
+      },
+      {
+        "narration": "Hiện tượng này được gọi là \"mù khứu giác\" tạm thời, nơi não bộ chủ động chặn các tín hiệu quen thuộc.",
+        "search": "nao bo phat sang tin hieu than kinh",
+        "caption": "Hiện tượng \"mù khứu giác\" tạm thời."
+      },
+      {
+        "narration": "Nếu luôn phải xử lý mùi hương của căn nhà, não bạn sẽ quá tải và bỏ sót mùi của kẻ thù hoặc đám cháy.",
+        "search": "khoi chay trong nha ban dem",
+        "caption": "Tránh quá tải để phát hiện nguy hiểm."
+      },
+      {
+        "narration": "Các thụ thể trong mũi bạn thực chất đã tự động \"tắt nguồn\" hoàn toàn đối với các phân tử mùi quen thuộc này.",
+        "search": "mui nguoi can canh phan tu mui",
+        "caption": "Các thụ thể mũi tự động tắt nguồn."
+      },
+      {
+        "narration": "Bạn sẽ vĩnh viễn không bao giờ ngửi lại được mùi hương đó nếu cứ tiếp tục ở trong nhà mỗi ngày.",
+        "search": "nguoi nhin ra ngoai cua so dem toi",
+        "caption": "Bạn bị khóa trong sự quen thuộc."
+      },
+      {
+        "narration": "Cách duy nhất để kích hoạt lại khứu giác là rời khỏi nhà ít nhất ba ngày để mũi bạn được khởi động lại.",
+        "search": "nguoi xach vali buoc ra khoi nha",
+        "caption": "Rời nhà 3 ngày để khởi động lại."
+      },
+      {
+        "narration": "Khi bạn bước ra khỏi nhà, các phân tử mùi hương cũ bắt đầu rụng dần khỏi các thụ thể trong mũi.",
+        "search": "nguoi di bo co don tren duong pho dem lanh",
+        "caption": "Các thụ thể bắt đầu tự làm sạch khi bạn rời đi"
+      },
+      {
+        "narration": "Không còn bị quá tải bởi mùi hương quen thuộc, hệ thần kinh bắt đầu thiết lập lại trạng thái cân bằng.",
+        "search": "mo hinh nao bo phat sang luong dien xanh",
+        "caption": "Hệ thần kinh thiết lập lại trạng thái cân bằng"
+      },
+      {
+        "narration": "Lúc này, khứu giác của bạn trở nên nhạy bén một cách kỳ lạ với mọi biến đổi của môi trường.",
+        "search": "con soi san moi trong dem toi",
+        "caption": "Khứu giác trở nên cực kỳ nhạy bén với môi trường"
+      },
+      {
+        "narration": "Đó là lý do vì sao bạn lập tức ngửi thấy mùi hương lạ ở khách sạn hay nhà người khác rất rõ ràng.",
+        "search": "phong khach san vang nguoi anh sang am u",
+        "caption": "Bạn dễ dàng nhận ra mùi lạ ở nơi khác"
+      },
+      {
+        "narration": "Nhưng khoảnh khắc kỳ diệu nhất chỉ xảy ra ngay khi bạn mở cửa bước lại vào nhà mình.",
+        "search": "ban tay mo canh cua go toi tam",
+        "caption": "Khoảnh khắc bạn mở cửa bước lại vào nhà"
+      },
+      {
+        "narration": "Một luồng mùi hương đặc trưng mà bạn chưa từng nhận ra sẽ lập tức xộc thẳng vào mũi.",
+        "search": "luong khoi huyen ao bay trong dem",
+        "caption": "Mùi hương thực sự của căn nhà xộc vào mũi"
+      },
+      {
+        "narration": "Đó chính là mùi hương thực tế của căn nhà bạn mà bấy lâu nay bộ não đã âm thầm giấu kín.",
+        "search": "nguoi dan ong nham mat ngui mui huong",
+        "caption": "Đó là mùi hương bộ não đã giấu bấy lâu"
+      },
+      {
+        "narration": "Tuy nhiên, bạn chỉ có đúng vài phút ngắn ngủi để cảm nhận nó trước khi một cơ chế cũ lặp lại.",
+        "search": "dong ho cat chay nhanh anh sang mo ao",
+        "caption": "Bạn chỉ có vài phút trước khi nó biến mất"
+      },
+      {
+        "narration": "Chỉ sau vài phút, não bộ sẽ lại lập tức tắt tín hiệu quen thuộc này để tiếp tục bảo vệ bạn, và căn nhà sẽ lại hoàn toàn không có mùi gì.",
+        "search": "nguoi dung trong phong khach anh sang mat troi buong xuong",
+        "caption": "Não bộ sẽ lại tắt mùi hương đó chỉ sau vài phút"
+      }
+    ],
+    "error": "",
+    "youtube_id": "k4oY6rXIVqU",
+    "youtube_url": "https://www.youtube.com/watch?v=k4oY6rXIVqU",
+    "created_at": "2026-10-02T10:48:41.829830+00:00",
+    "updated_at": "2026-10-02T10:54:15.557888+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T10:52:35.971868+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "549 chars",
+        "at": "2026-10-02T10:52:48.159051+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.5s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-02T10:52:55.297818+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T10:52:56.879796+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-02T10:53:13.028737+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-02T10:53:13.052465+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.5s 15914466 bytes",
+        "at": "2026-10-02T10:54:10.770724+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=k4oY6rXIVqU",
+        "at": "2026-10-02T10:54:13.507379+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-02T10:54:13.805446+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-02T10:54:15.460190+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-02T10:54:15.482708+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-02T10:54:15.557872+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8206448/8206448-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6186722/6186722-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/12243869/12243869-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/36534699/15492539_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32746757/13960431_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6652116/6652116-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/5523892/5523892-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7430839/7430839-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/11517833/11517833-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/28913059/12514225_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31345805/13377750_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7702052/7702052-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7698679/7698679-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/963206/963206-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38238836/16236753_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/29235948/12616836_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34056837/14443872_720_1280_60fps.mp4"
+    ]
+  },
+  {
     "id": "b57b7c2aab",
     "kind": "short",
     "channel": "Channel2",
