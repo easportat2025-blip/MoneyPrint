@@ -1,5 +1,210 @@
 [
   {
+    "id": "d720dae702",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao túi quần bạn tự rung dù không có điện thoại?",
+    "idea": {
+      "title": "Tại sao túi quần bạn tự rung dù không có điện thoại?",
+      "hook": "Bạn đã bao giờ giật mình vì điện thoại rung trong túi, nhưng khi rút ra thì chẳng có gì, thậm chí điện thoại đang đặt trên bàn?",
+      "beats": [
+        "Hiện tượng này gọi là \"Hội chứng rung túi ảo\", ảnh hưởng tới hơn 80% người dùng smartphone hiện nay.",
+        "Não bộ của chúng ta đang bị quá tải bởi các kích thích và thông báo liên tục từ thế giới số.",
+        "Để chuẩn bị cho các cuộc gọi quan trọng, não tự động khuếch đại các cảm giác xúc giác nhỏ nhất trên da bạn.",
+        "Nó nhầm tưởng sự cọ xát của quần áo hoặc sự co thắt cơ nhẹ là tín hiệu rung của điện thoại."
+      ],
+      "keywords": [
+        "phantom vibration",
+        "smartphone anxiety",
+        "brain neurons",
+        "sensory illusion",
+        "cell phone pocket"
+      ],
+      "tags": [
+        "điện thoại",
+        "hội chứng rung túi ảo",
+        "sức khỏe trí não",
+        "thói quen công nghệ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đùi bạn vừa rung lên, nhưng túi quần hoàn toàn trống rỗng.",
+        "search": "ban tay so tui quan trong rong kinh ngac",
+        "caption": "Túi quần tự rung dù không có điện thoại?"
+      },
+      {
+        "narration": "Bạn vội rút tay ra, nhận ra điện thoại vẫn đang nằm im trên bàn từ nãy đến giờ.",
+        "search": "dien thoai thong minh nam im tren ban toi",
+        "caption": "Điện thoại vẫn nằm im trên bàn làm việc."
+      },
+      {
+        "narration": "Hiện tượng kỳ lạ này không phải là ảo giác điên rồ của riêng bạn.",
+        "search": "dam dong nguoi nhin vao man hinh dien thoai am u",
+        "caption": "Bạn không hề đơn độc trong ảo giác này."
+      },
+      {
+        "narration": "Khoa học gọi nó là \"Hội chứng rung túi ảo\", đang bủa vây hơn 80% người dùng hiện đại.",
+        "search": "nao bo nguoi phat sang tia dien xanh",
+        "caption": "Hội chứng rung túi ảo ảnh hưởng 80% chúng ta."
+      },
+      {
+        "narration": "Tại sao một khối thịt trong hộp sọ lại có thể đánh lừa xúc giác của bạn một cách hoàn hảo như vậy?",
+        "search": "mang luoi day than kinh nhap nhay trong bong toi",
+        "caption": "Tại sao não bộ lại đánh lừa xúc giác?"
+      },
+      {
+        "narration": "Mỗi ngày, hàng trăm thông báo số liên tục dội bom, đặt hệ thần kinh vào trạng thái báo động đỏ.",
+        "search": "bieu tuong thong bao dien thoai bay ngap tran",
+        "caption": "Hàng trăm thông báo đặt não vào báo động đỏ."
+      },
+      {
+        "narration": "Để không bỏ lỡ bất kỳ cuộc gọi quan trọng nào, não bộ bắt đầu tự động tăng độ nhạy cảm của da lên mức tối đa.",
+        "search": "canh can canh lan da nguoi rung dong nhe",
+        "caption": "Não tự tăng độ nhạy cảm của da lên tối đa."
+      },
+      {
+        "narration": "Lúc này, chỉ một chuyển động nhỏ nhất ở vùng đùi cũng đủ kích hoạt một báo động giả.",
+        "search": "co dui co that duoi lop vai quan jean",
+        "caption": "Chỉ một chuyển động nhỏ cũng kích hoạt báo động."
+      },
+      {
+        "narration": "Sự cọ xát nhẹ của vải quần khi bạn bước đi, hoặc một cái rùng mình nhẹ của cơ đùi, đều bị hiểu nhầm.",
+        "search": "jeans fabric rubbing skin macro",
+        "caption": "Sự cọ xát nhỏ của quần áo cũng bị hiểu lầm."
+      },
+      {
+        "narration": "Các dây thần kinh cảm giác lập tức truyền tín hiệu này về vỏ não với tốc độ cực nhanh.",
+        "search": "glowing blue synapses firing brain",
+        "caption": "Tín hiệu truyền thẳng về não với tốc độ cực nhanh."
+      },
+      {
+        "narration": "Tại đây, bộ lọc thông tin của não đang trong trạng thái chờ đợi cuộc gọi sẽ ngay lập tức dán nhãn nó là điện thoại rung.",
+        "search": "brain hologram scanning data digital",
+        "caption": "Bộ lọc của não lập tức dán nhãn điện thoại rung."
+      },
+      {
+        "narration": "Hiện tượng này liên quan chặt chẽ đến Thuyết phát hiện tín hiệu, nơi bộ não thà chấp nhận báo động giả còn hơn bỏ sót thông tin.",
+        "search": "abstract digital matrix glowing code",
+        "caption": "Não thà báo động giả còn hơn bỏ sót thông tin."
+      },
+      {
+        "narration": "Sự cảnh giác quá mức này khiến hệ thần kinh của bạn luôn trong trạng thái căng thẳng âm ỉ mà bạn không hề nhận ra.",
+        "search": "stressed man head in hands dark room",
+        "caption": "Hệ thần kinh luôn trong trạng thái căng thẳng âm ỉ."
+      },
+      {
+        "narration": "Càng kiểm tra điện thoại nhiều lần sau mỗi cú rung ảo, bạn càng huấn luyện não bộ nhạy cảm hơn với các kích thích giả này.",
+        "search": "glowing phone screen reflecting on face dark",
+        "caption": "Càng kiểm tra, bạn càng huấn luyện não nhạy cảm hơn."
+      },
+      {
+        "narration": "Đây không chỉ là một lỗi cảm giác nhất thời, mà là dấu hiệu cho thấy công nghệ đang tái cấu trúc cách não bộ vận hành.",
+        "search": "abstract cyber brain network glowing",
+        "caption": "Công nghệ đang âm thầm tái cấu trúc não bộ."
+      },
+      {
+        "narration": "Vậy làm thế nào để giải thoát bộ não khỏi chiếc bẫy vô hình này và đưa các dây thần kinh trở lại trạng thái bình thường?",
+        "search": "hand placing smartphone on wooden table dark",
+        "caption": "Làm sao để giải thoát não bộ khỏi chiếc bẫy này?"
+      },
+      {
+        "narration": "Rất đơn giản, hãy đổi vị trí để điện thoại và tắt bớt các thông báo không quan trọng để huấn luyện lại hệ thần kinh của bạn.",
+        "search": "ban tay dat dien thoai xuong ban go toi",
+        "caption": "Đổi vị trí để điện thoại để giải thoát não bộ"
+      }
+    ],
+    "error": "",
+    "youtube_id": "KbxgSg-cNfc",
+    "youtube_url": "https://www.youtube.com/watch?v=KbxgSg-cNfc",
+    "created_at": "2026-10-02T18:11:46.612107+00:00",
+    "updated_at": "2026-10-02T18:19:17.567227+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T18:16:10.853707+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "553 chars",
+        "at": "2026-10-02T18:17:49.584549+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.0s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-02T18:18:01.564653+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T18:18:03.081097+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "17 video clips + 0 images",
+        "at": "2026-10-02T18:18:20.382175+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-02T18:18:20.403552+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.0s 16272834 bytes",
+        "at": "2026-10-02T18:19:12.637302+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=KbxgSg-cNfc",
+        "at": "2026-10-02T18:19:15.562296+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-02T18:19:15.860330+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-02T18:19:17.475396+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-02T18:19:17.497550+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-02T18:19:17.567212+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/10210125/10210125-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/38984707/16585501_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/4788410/4788410-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/36421195/15443245_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31488691/13426130_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36693287/15554361_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/16216322/16216322-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7764691/7764691-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8516546/8516546-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/17144481/17144481-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7579578/7579578-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439758/15439758-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7924517/7924517-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/9784566/9784566-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/34744881/14729432_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30309470/12992906_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/31155752/13311872_720_1280_60fps.mp4"
+    ]
+  },
+  {
     "id": "35ede8a14c",
     "kind": "short",
     "channel": "Channel3",
