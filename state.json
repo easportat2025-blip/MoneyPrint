@@ -1,5 +1,191 @@
 [
   {
+    "id": "d40351ded7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Humiliating Death of Attila the Hun",
+    "idea": {
+      "title": "The Humiliating Death of Attila the Hun",
+      "hook": "The conqueror who brought Rome to its knees, Attila the Hun, met an end so humiliating his own warriors could barely believe it.",
+      "beats": [
+        "Attila had spent decades terrifying empires, slaughtering Roman armies, and extorting tons of gold.",
+        "In 453 AD, after a lavish feast celebrating his marriage to a young noblewoman named Ildico, Attila passed out drunk in his chamber.",
+        "During the night, a catastrophic nosebleed struck him while he was lying flat on his back.",
+        "Paralyzed by alcohol, the feared 'Scourge of God' suffocated silently in his own blood without a single mark on his body."
+      ],
+      "keywords": [
+        "Attila the Hun portrait painting",
+        "ancient Roman banquet engraving",
+        "dark medieval bedchamber painting",
+        "Hun warrior horsemen illustration",
+        "antique map of the Roman Empire"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "attilathehun",
+        "darkhistory",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's deadliest conqueror died without a single wound.",
+        "search": "Attila the Hun portrait oil painting",
+        "caption": "Rome's greatest nightmare died without shedding enemy blood."
+      },
+      {
+        "narration": "Known across Europe as the Scourge of God, Attila had spent two decades devastating both halves of the Roman Empire.",
+        "search": "Hun warrior horsemen battle painting",
+        "caption": "For twenty years, Attila terrorized both halves of Rome."
+      },
+      {
+        "narration": "By 450 AD, Roman emperors were paying him thousands of pounds of pure gold just to spare their capitals from destruction.",
+        "search": "antique map of the Roman Empire engraving",
+        "caption": "Emperors paid thousands of gold pounds to avert destruction."
+      },
+      {
+        "narration": "In early 453 AD, at the peak of his power, Attila took a young noblewoman named Ildico as his newest bride.",
+        "search": "ancient royal banquet feast oil painting",
+        "caption": "In 453 AD, the warlord celebrated another lavish wedding."
+      },
+      {
+        "narration": "The wedding celebration on the Hungarian plains erupted into hours of heavy drinking, feasting, and unrestrained revelry.",
+        "search": "ancient barbarian feast illustration",
+        "caption": "Hours of heavy drinking fueled the raucous Hunnic feast."
+      },
+      {
+        "narration": "Late into the night, heavily intoxicated, the fifty-eight-year-old warlord was escorted into his private wooden bedchamber.",
+        "search": "dark antique royal bedchamber painting",
+        "caption": "Drunk and exhausted, Attila retreated to his bedchamber."
+      },
+      {
+        "narration": "Attila collapsed onto his back in a deep alcoholic stupor, unaware that a severe hemorrhage was developing in his nasal passages.",
+        "search": "dark medieval bedroom candlelight painting",
+        "caption": "A heavy alcoholic stupor masked a sudden internal hemorrhage."
+      },
+      {
+        "narration": "Unable to awaken or roll over, the conqueror of nations began suffocating silently on his own blood while guards stood watch outside.",
+        "search": "Hun guard standing watch night illustration",
+        "caption": "While guards waited outside, the warlord silently suffocated."
+      },
+      {
+        "narration": "By dawn in 453 AD, the terrifying Scourge of God was entirely motionless inside his wooden palace.",
+        "search": "dark medieval bedchamber painting",
+        "caption": "Found dead at dawn"
+      },
+      {
+        "narration": "Guards finally forced the chamber doors open after hours of total silence from the royal quarters.",
+        "search": "ancient Roman banquet engraving",
+        "caption": "Guards enter the silent chamber"
+      },
+      {
+        "narration": "No assassins stood over the bed, and no poison was found in the drinking vessels.",
+        "search": "Attila the Hun portrait painting",
+        "caption": "No signs of a struggle"
+      },
+      {
+        "narration": "His new bride Ildico sat weeping in absolute shock beside the royal marriage bed.",
+        "search": "antique map of the Roman Empire",
+        "caption": "Bride found weeping in shock"
+      },
+      {
+        "narration": "The most feared warlord in the ancient world had fallen without a single sword stroke.",
+        "search": "Hun warrior horsemen illustration",
+        "caption": "Fallen without a single sword stroke"
+      },
+      {
+        "narration": "Roman chroniclers recorded the bizarre death with a mixture of sheer disbelief and profound relief.",
+        "search": "ancient Roman banquet engraving",
+        "caption": "Rome reacts in sheer disbelief"
+      },
+      {
+        "narration": "His empire fractured immediately as his warring sons fought bitterly over the remaining spoils.",
+        "search": "antique map of the Roman Empire",
+        "caption": "His vast empire fractures instantly"
+      },
+      {
+        "narration": "The man who brought Rome to its knees vanished into history through a tragic biological accident.",
+        "search": "Attila the Hun portrait painting",
+        "caption": "A tragic end for a conqueror"
+      },
+      {
+        "narration": "Ultimately, the Scourge of God who terrified the civilized world left behind a legacy defined not by a glorious death on the battlefield, but by a single, fatal nosebleed.",
+        "search": "attila the hun portrait oil painting",
+        "caption": "The Scourge of God was defeated by his own blood."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T21:25:41.169369+00:00",
+    "updated_at": "2026-10-02T21:30:33.646846+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T21:28:14.018616+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "659 chars (cat 338 de vua 55s)",
+        "at": "2026-10-02T21:29:17.286189+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "41.4s en-US-GuyNeural 7 cau",
+        "at": "2026-10-02T21:29:20.651637+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T21:29:22.254956+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-02T21:29:34.605613+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-02T21:29:34.626837+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 41.4s 12797908 bytes",
+        "at": "2026-10-02T21:30:33.488217+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T21:30:33.646836+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17747085/pexels-photo-17747085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29189099/pexels-photo-29189099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543467/pexels-photo-17543467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39212606/pexels-photo-39212606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26076684/pexels-photo-26076684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057040/pexels-photo-29057040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8396109/pexels-photo-8396109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30516934/pexels-photo-30516934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348260/pexels-photo-8348260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30208661/pexels-photo-30208661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12174516/pexels-photo-12174516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30326290/pexels-photo-30326290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5001691/pexels-photo-5001691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15835377/pexels-photo-15835377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14232455/pexels-photo-14232455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6932148/pexels-photo-6932148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "338c6cfce5",
     "kind": "short",
     "channel": "Channel3",
