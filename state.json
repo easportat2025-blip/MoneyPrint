@@ -1,5 +1,191 @@
 [
   {
+    "id": "b665f27957",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Drank Liquid Gold",
+    "idea": {
+      "title": "The Queen Who Drank Liquid Gold",
+      "hook": "When Queen Isabella of Spain demanded absolute wealth, she didn't just want gold—she wanted to digest it, leading to a fatal medical experiment.",
+      "beats": [
+        "Introduction to Isabella's obsession with eternal youth and indestructible wealth.",
+        "The royal alchemist's dangerous prescription: powdered gold dissolved in wine.",
+        "The terrifying physical collapse of the Queen as heavy metal poisoning set in.",
+        "How her final decree banned alchemists from the Spanish court forever."
+      ],
+      "keywords": [
+        "renaissance queen portrait",
+        "historical alchemist lab",
+        "royal court painting",
+        "antique gold chalice",
+        "spanish royal engraving"
+      ],
+      "tags": [
+        "History",
+        "Shorts",
+        "RoyalHistory",
+        "HistoricalMysteries",
+        "TrueHistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "She demanded absolute wealth, and decided to digest it.",
+        "search": "renaissance queen portrait",
+        "caption": "The Queen who tried to drink pure gold."
+      },
+      {
+        "narration": "In 1504 Spain, Queen Isabella faced declining health and a desperate obsession with eternal youth.",
+        "search": "spanish royal engraving",
+        "caption": "Isabella of Spain sought eternal youth."
+      },
+      {
+        "narration": "Her court alchemist offered a deadly solution: consume the ultimate symbol of indestructible power.",
+        "search": "historical alchemist lab",
+        "caption": "The royal alchemist proposed a fatal cure."
+      },
+      {
+        "narration": "Precious metal was crushed into powder and dissolved directly into aged wine.",
+        "search": "antique gold chalice",
+        "caption": "Powdered gold dissolved in wine."
+      },
+      {
+        "narration": "Believing it would preserve her reign, Isabella drank the shimmering liquid.",
+        "search": "royal court painting",
+        "caption": "The Queen ingested the toxic mixture."
+      },
+      {
+        "narration": "Heavy metal poisoning rapidly attacked her vital organs, causing terrifying physical collapse.",
+        "search": "dark renaissance painting",
+        "caption": "Heavy metal poison destroyed her body."
+      },
+      {
+        "narration": "As her organs failed, the absolute monarch lost control of her final days.",
+        "search": "gothic cathedral interior",
+        "caption": "The monarch's health collapsed completely."
+      },
+      {
+        "narration": "Her agonizing demise prompted a sudden, permanent ban on all alchemists from court.",
+        "search": "medieval decree document",
+        "caption": "Alchemists were permanently banned from court."
+      },
+      {
+        "narration": "As her organs failed, the absolute monarch lost control of her final days.",
+        "search": "spanish royal engraving",
+        "caption": "The royal decline"
+      },
+      {
+        "narration": "Her agonizing demise prompted a sudden, permanent ban on all alchemists from court.",
+        "search": "historical alchemist lab",
+        "caption": "The alchemist ban"
+      },
+      {
+        "narration": "The tragic event unfolded inside the Royal Alcazar of Madrid in the autumn of 1504.",
+        "search": "renaissance queen portrait",
+        "caption": "Madrid, 1504"
+      },
+      {
+        "narration": "Queen Isabella sought to transcend human mortality through metallurgical ingestion.",
+        "search": "antique gold chalice",
+        "caption": "The quest for immortality"
+      },
+      {
+        "narration": "Court physicians recorded severe systemic toxicity following the royal experiment.",
+        "search": "royal court painting",
+        "caption": "Fatal prescription"
+      },
+      {
+        "narration": "Heavy metal poisoning rapidly destroyed the sovereign's vital biological functions.",
+        "search": "renaissance queen portrait",
+        "caption": "Severe metal toxicity"
+      },
+      {
+        "narration": "The Spanish crown swiftly outlawed transmutation practices across all territories.",
+        "search": "historical alchemist lab",
+        "caption": "Alchemists banished forever"
+      },
+      {
+        "narration": "Isabella's fatal pursuit of liquid gold remains a dark warning of absolute power.",
+        "search": "antique gold chalice",
+        "caption": "The price of absolute wealth"
+      },
+      {
+        "narration": "In 1504, following her final royal decree banishing all court alchemists, Queen Isabella's fatal medical experiment with liquid gold permanently ended Spain's official pursuit of immortality. Her tragic end stands as history's ultimate warning against the mortal cost of absolute greed.",
+        "search": "Queen Isabella of Spain oil painting portrait",
+        "caption": "The final decree that banned alchemists from Spain forever."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-02T01:48:39.884450+00:00",
+    "updated_at": "2026-10-02T01:56:19.177898+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-02T01:54:29.243499+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "596 chars",
+        "at": "2026-10-02T01:55:09.876038+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "38.3s en-US-GuyNeural 7 cau",
+        "at": "2026-10-02T01:55:12.733062+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-02T01:55:14.315685+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-02T01:55:24.630054+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-02T01:55:24.649935+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 38.3s 10996540 bytes",
+        "at": "2026-10-02T01:56:19.040717+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-02T01:56:19.177885+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16342033/pexels-photo-16342033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16969657/pexels-photo-16969657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792664/pexels-photo-30792664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6370110/pexels-photo-6370110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320601/pexels-photo-15320601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10479486/pexels-photo-10479486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37885093/pexels-photo-37885093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12883183/pexels-photo-12883183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8666438/pexels-photo-8666438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7814006/pexels-photo-7814006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12881580/pexels-photo-12881580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7806354/pexels-photo-7806354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20768587/pexels-photo-20768587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11466375/pexels-photo-11466375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17209362/pexels-photo-17209362.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28774038/pexels-photo-28774038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e4871c13b2",
     "kind": "short",
     "channel": "Channel2",
