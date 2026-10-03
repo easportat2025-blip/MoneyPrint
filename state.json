@@ -1,5 +1,187 @@
 [
   {
+    "id": "c433a724e8",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật rùng mình về hành tinh lạnh nhất vũ trụ",
+    "idea": {
+      "title": "Sự thật rùng mình về hành tinh lạnh nhất vũ trụ",
+      "hook": "Nơi lạnh nhất trong vũ trụ không phải là không gian sâu thẳm, mà là một nơi con người thực sự tạo ra được.",
+      "beats": [
+        "Khoảng không vũ trụ có nhiệt độ trung bình khoảng -270°C, cực kỳ lạnh lẽo nhưng vẫn có nguồn nhiệt nền từ vụ nổ Big Bang.",
+        "Tuy nhiên, các nhà khoa học tại phòng thí nghiệm trên Trái Đất đã tạo ra những vùng không gian còn lạnh hơn cả tự nhiên.",
+        "Bằng cách dùng tia laser để làm chậm các nguyên tử, họ đạt đến nhiệt độ gần như tuyệt đối không độ.",
+        "Ở mức độ này, các định luật vật lý thông thường sụp đổ và vật chất cư xử theo những cách kỳ lạ nhất."
+      ],
+      "keywords": [
+        "deep space nebula cosmic cold",
+        "laser cooling laboratory science",
+        "absolute zero quantum physics",
+        "dark universe stars background",
+        "frozen space cosmos galaxy"
+      ],
+      "tags": [
+        "kienthuc",
+        "khoahoc",
+        "vutru",
+        "channel3",
+        "suthat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nơi lạnh nhất không phải không gian, mà ngay dưới sàn nhà bạn.",
+        "search": "3d animation phong khanh lanh",
+        "caption": "Nơi lạnh nhất không ở ngoài vũ trụ!"
+      },
+      {
+        "narration": "Tủ lạnh gia đình bạn chỉ ở mức âm mười tám độ C.",
+        "search": "motion graphics tu lanh dong da",
+        "caption": "Tủ lạnh chỉ âm mười tám độ"
+      },
+      {
+        "narration": "Nhưng các nhà khoa học đã tạo ra nơi lạnh gấp triệu lần không gian.",
+        "search": "isometric render phong thi nghiem vat ly",
+        "caption": "Phòng thí nghiệm lạnh gấp triệu lần"
+      },
+      {
+        "narration": "Họ dùng chùm tia laser đặc biệt để bắn vào các nguyên tử.",
+        "search": "explainer animation tia laser chieu vao hat",
+        "caption": "Dùng tia laser bắn vào nguyên tử"
+      },
+      {
+        "narration": "Ánh sáng chói lóa này lại có tác dụng làm chậm chuyển động lại.",
+        "search": "cartoony 3d hat nguyen tu dung lai",
+        "caption": "Ánh sáng làm nguyên tử đứng lại"
+      },
+      {
+        "narration": "Khi nguyên tử ngừng chuyển động, nhiệt độ biến mất hoàn toàn.",
+        "search": "3d animation nhiet do ha xuong am tuyet doi",
+        "caption": "Nhiệt độ biến mất hoàn toàn"
+      },
+      {
+        "narration": "Ở mức gần không độ tuyệt đối, các định luật vật lý sụp đổ.",
+        "search": "motion graphics vat chat bien doi ky la",
+        "caption": "Định luật vật lý sụp đổ"
+      },
+      {
+        "narration": "Vật chất không còn ở thể rắn hay lỏng quen thuộc nữa.",
+        "search": "isometric render vat chat xuyen qua nhau",
+        "caption": "Vật chất biến thành dạng kỳ lạ"
+      },
+      {
+        "narration": "Lúc này, các nguyên tử bỗng gộp lại thành một khối siêu nguyên tử duy nhất, gọi là thể ngưng tụ Bose-Einstein.",
+        "search": "3d animation hieu ung nguyen tu gop lai ky la",
+        "caption": "Nguyên tử hòa làm một thể kỳ lạ"
+      },
+      {
+        "narration": "Nó biến thành một siêu chất lỏng có thể chảy ngược lên thành ly mà không gặp chút ma sát nào.",
+        "search": "motion graphics chat long chay nguoc len ly ky la",
+        "caption": "Chất lỏng chảy ngược không ma sát"
+      },
+      {
+        "narration": "Ngay cả điện trở cũng biến mất hoàn toàn, giúp dòng điện chạy mãi mãi không bao giờ tắt.",
+        "search": "isometric render dong dien chay mai mai khong tat",
+        "caption": "Dòng điện chạy vĩnh viễn"
+      },
+      {
+        "narration": "Phòng thí nghiệm này lạnh gấp hàng triệu lần không gian ngoài kia, tạo ra điểm lạnh nhất lịch sử nhân loại.",
+        "search": "explainer animation phong thi nghiem lanh tuyet doi",
+        "caption": "Nơi lạnh gấp triệu lần vũ trụ"
+      },
+      {
+        "narration": "Chính nhờ cái lạnh cực đoan nhân tạo này, chúng ta mới chế tạo được siêu máy tính lượng tử ngày nay.",
+        "search": "cartoony 3d sieu may tinh luong tu hoat hinh",
+        "caption": "Bí mật tạo nên siêu máy tính lượng tử"
+      }
+    ],
+    "error": "",
+    "youtube_id": "aSQzvTbbvxc",
+    "youtube_url": "https://www.youtube.com/watch?v=aSQzvTbbvxc",
+    "created_at": "2026-10-03T05:33:52.549645+00:00",
+    "updated_at": "2026-10-03T05:38:19.156203+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T05:35:59.373136+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "540 chars (cat 384 de vua 55s)",
+        "at": "2026-10-03T05:37:02.291555+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.0s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-03T05:37:09.697627+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T05:37:10.938840+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-03T05:37:25.238934+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-03T05:37:25.258359+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.0s 19586669 bytes",
+        "at": "2026-10-03T05:38:11.860669+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=aSQzvTbbvxc",
+        "at": "2026-10-03T05:38:16.954056+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-03T05:38:17.659765+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T05:38:19.062032+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-03T05:38:19.082249+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T05:38:19.156193+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/28923884/12518288_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39893389/17017502_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069863/18069863-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/39482899/16818130_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34464621/14604133_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39058675/16621018_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39892711/17017295_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029657/16029657-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069233/18069233-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/39893739/17017615_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8342210/8342210-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8927957/8927957-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15989686/15989686-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "1ccd440b2a",
     "kind": "short",
     "channel": "Channel3",
