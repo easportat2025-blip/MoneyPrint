@@ -1,5 +1,141 @@
 [
   {
+    "id": "b250d287ab",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật nghịch lý khi tắm nước nóng trước khi ngủ",
+    "idea": {
+      "title": "Sự thật nghịch lý khi tắm nước nóng trước khi ngủ",
+      "hook": "Bạn nghĩ tắm nước nóng sẽ làm ấm cơ thể? Sự thật là nó đang bí mật lừa não bộ hạ nhiệt độ cốt lõi để bạn thiếp đi nhanh hơn.",
+      "beats": [
+        "Khi ngâm nước ấm khoảng 40 độ C, các mạch máu dưới da giãn nở cực mạnh, đẩy nhiệt lượng từ sâu bên trong cơ thể thoát ra ngoài qua da.",
+        "Khi bước ra khỏi phòng tắm, nhiệt độ cơ thể bạn tụt dốc không phanh, mô phỏng chính xác tín hiệu sinh học tự nhiên báo hiệu giờ đi ngủ của não bộ.",
+        "Nghiên cứu cho thấy chỉ cần tắm nước nóng 10 phút trước khi ngủ từ 1 đến 2 tiếng sẽ rút ngắn thời gian trằn trọc ngủ tới 36%."
+      ],
+      "keywords": [
+        "warm bath steam",
+        "thermal imaging human body",
+        "person sleeping peacefully",
+        "blood vessels dilation",
+        "clock night bedroom"
+      ],
+      "tags": [
+        "#channel3",
+        "#meongungon",
+        "#khoahocthuongthuc",
+        "#suckhoe",
+        "#suthatthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tắm nước nóng thực ra làm bạn lạnh đi.",
+        "search": "nguoi tam nuoc nong hoi nuoc toi am",
+        "caption": "Tắm nước nóng thực ra làm cơ thể lạnh đi?"
+      },
+      {
+        "narration": "Hầu hết chúng ta tin rằng nước nóng giữ ấm để dễ ngủ, nhưng sinh học lại vận hành hoàn toàn ngược lại.",
+        "search": "dong ho dem phong ngu anh sang bi an",
+        "caption": "Trực giác đang đánh lừa bạn về giấc ngủ"
+      },
+      {
+        "narration": "Để chìm vào giấc ngủ sâu, nhiệt độ cốt lõi bên trong cơ thể bắt buộc phải giảm xuống ít nhất một độ.",
+        "search": "camera nhiet co the nguoi sac xanh lanh",
+        "caption": "Não bộ cần nhiệt độ cốt lõi hạ thấp"
+      },
+      {
+        "narration": "Nếu cần hạ nhiệt, tại sao ngâm mình trong làn nước 40 độ C lại khiến bạn thiếp đi nhanh kỳ lạ?",
+        "search": "bon tam hoi nuoc nghi ngut goc toi",
+        "caption": "Nghịch lý dòng nước 40 độ C"
+      },
+      {
+        "narration": "Khi tiếp xúc với nhiệt độ cao, cơ thể lập tức kích hoạt phản ứng khiến các mao mạch dưới da giãn nở cực đại.",
+        "search": "mach mau duoi da phat sang do ruc",
+        "caption": "Các mạch máu dưới da lập tức giãn nở"
+      },
+      {
+        "narration": "Làn da lúc này biến thành một dàn tản nhiệt khổng lồ, hút nhiệt lượng từ sâu bên trong nội tạng đưa ra ngoài.",
+        "search": "luong nhiet thoat ra tu da nguoi toi",
+        "caption": "Cơ thể kích hoạt cơ chế tản nhiệt tối đa"
+      },
+      {
+        "narration": "Khoảnh khắc bạn vừa bước chân ra khỏi phòng tắm, một sự tụt giảm thân nhiệt đột ngột lập tức xảy ra.",
+        "search": "ban chan buoc ra phong tam toi lanh",
+        "caption": "Cú tụt giảm thân nhiệt âm thầm"
+      },
+      {
+        "narration": "Nhiệt độ trung tâm tụt dốc không phanh, gửi một tín hiệu giả khiến bộ não hoàn toàn bị đánh lừa.",
+        "search": "bo nao nguoi phat tin hieu trong bong dem",
+        "caption": "Não bộ bị đánh lừa để đi vào giấc ngủ"
+      },
+      {
+        "narration": "Bộ não lập tức hiểu lầm rằng cơ thể đang bước vào trạng thái nghỉ ngơi tự nhiên và kích hoạt hormone gây buồn ngủ.",
+        "search": "mo hinh nao bo phat sang trong bong toi",
+        "caption": "Não bộ kích hoạt hormone ngủ sâu ngay lập tức."
+      },
+      {
+        "narration": "Sự sụt giảm nhiệt độ đột ngột này mô phỏng chính xác nhịp sinh học tự nhiên diễn ra trước khi bạn chìm vào giấc ngủ sâu.",
+        "search": "dong ho sinh hoc co the nguoi phat sang",
+        "caption": "Mô phỏng hoàn hảo tín hiệu ngủ tự nhiên."
+      },
+      {
+        "narration": "Các nghiên cứu khoa học đã tìm ra công thức vàng để tối ưu hóa hiệu ứng đánh lừa sinh học kỳ diệu này.",
+        "search": "ong nghiem phong thi nghiem phat sang xanh",
+        "caption": "Công thức vàng được khoa học chứng minh."
+      },
+      {
+        "narration": "Chỉ cần ngâm mình trong nước ấm khoảng 10 phút, trước khi lên giường từ một đến hai tiếng.",
+        "search": "dong ho dem phong ngu anh sang mo",
+        "caption": "Tắm nước ấm 10 phút trước khi ngủ 1-2 tiếng."
+      },
+      {
+        "narration": "Thời gian trằn trọc của bạn sẽ được rút ngắn tới 36%, giúp bạn chìm vào giấc ngủ ngon lành và sâu giấc nhất.",
+        "search": "nguoi ngu ngon giac dem anh sang diu",
+        "caption": "Giảm 36% thời gian trằn trọc, ngủ ngon tức thì."
+      }
+    ],
+    "error": "'str' object has no attribute 'name'",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-03T04:01:20.404022+00:00",
+    "updated_at": "2026-10-03T04:04:33.799968+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T04:02:32.007646+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "509 chars",
+        "at": "2026-10-03T04:02:52.202301+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-03T04:03:00.915080+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T04:03:02.294120+00:00"
+      },
+      "media": {
+        "ok": false,
+        "detail": "thu 2 loi: 'str' object has no attribute 'name' - doi 60s",
+        "at": "2026-10-03T04:03:33.754009+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "'str' object has no attribute 'name'",
+        "at": "2026-10-03T04:04:33.799956+00:00"
+      }
+    }
+  },
+  {
     "id": "7807d7b8a2",
     "kind": "short",
     "channel": "Channel2",
