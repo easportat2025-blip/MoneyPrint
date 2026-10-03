@@ -34,35 +34,50 @@ def watermark_fallback(tag: str = "") -> str:
     )
 
 
+def _wrap(text: str, per_line: int = 15, max_lines: int = 3) -> list:
+    words = str(text).split()
+    lines, cur = [], ""
+    for wd in words:
+        cand = (cur + " " + wd).strip()
+        if len(cand) > per_line and cur:
+            lines.append(cur)
+            cur = wd
+        else:
+            cur = cand
+    if cur:
+        lines.append(cur)
+    return lines[:max_lines]
+
+
 def hook_vf(text: str, font: str) -> str:
     """Tieu de lon 3 giay dau - giu nguoi xem khong luot.
 
     Video nao cung bat dau bang mot cuc hinh anh trung tinh (tu marble bat
-    huu, phong trang) - khong co gi khiến người ta dừng lại. Tieu de to dat
-    3 giay dau la thu giu nguoi xem lai.
+    huu, phong trang) - khong co gi khiến người ta dừng lại.
 
     Toa do dung bieu thuc ffmpeg ((h-text_h)/2) nen chay dung o ca
-    1080x1920 va 1920x1080.
+    1080x1920 va 1920x1080. enable='lt(t,3)' bat buoc - truoc day drawtext
+    khong co enable nen tieu de cu nguyen tren man hinh ca video.
     """
     if not text:
         return "null"
-    lines = [s.strip() for s in str(text).split("\n") if s.strip()][:3]
+    lines = _wrap(text, 15 if text.isascii() else 11, 3)
     if not lines:
         return "null"
-    big = 84 if len(lines) == 1 else 72
-    step = big + 26
+    big = {1: 76, 2: 62, 3: 54}.get(len(lines), 54)
+    step = int(big * 1.25)
     total = big * len(lines) + step * (len(lines) - 1)
     top = f"(h-{total})/2"
     parts = [
-        "drawbox=x=0:y=0:w=iw:h=ih:color=black@0.32:t=fill:enable='lt(t\\,3.0)'"
+        "drawbox=x=0:y=0:w=iw:h=ih:color=black@0.34:t=fill:enable='lt(t\\,3.0)'"
     ]
     for i, ln in enumerate(lines):
-        safe = ln.replace("'", "").replace(":", "").replace("\\", "")[:46]
+        safe = ln.replace("'", "").replace(":", "").replace("\\", "")[:30]
         yy = f"({top}+{i * step})" if i else top
         parts.append(
             f"drawtext=text='{safe}':fontfile={font}:fontsize={big}:"
-            f"fontcolor=white:borderw=7:bordercolor=black@0.92:"
-            f"x=(w-text_w)/2:y={yy}"
+            f"fontcolor=white:borderw=6:bordercolor=black@0.92:"
+            f"x=(w-text_w)/2:y={yy}:enable='lt(t\\,3.0)'"
         )
     return ",".join(parts)
 
@@ -70,8 +85,12 @@ def hook_vf(text: str, font: str) -> str:
 def hook_fallback(text: str) -> str:
     if not text:
         return "null"
-    safe = str(text).split("\n")[0].strip().replace("'", "").replace(":", "")[:46]
+    lines = _wrap(text, 15, 1)
+    if not lines:
+        return "null"
+    safe = lines[0].replace("'", "").replace(":", "")[:30]
     return (
-        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=84:fontcolor=white:"
-        f"borderw=7:bordercolor=black@0.92:x=(w-text_w)/2:y=(h-text_h)/2"
+        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=76:fontcolor=white:"
+        f"borderw=6:bordercolor=black@0.92:x=(w-text_w)/2:y=(h-text_h)/2"
+        f":enable='lt(t\\,3.0)'"
     )

@@ -376,8 +376,13 @@ def from_pexels_video(
         return None, ""
 
 
+# KHONG them suffix "portrait"/"painting" vao query lich su.
+# Video ve "Golden Stool cu Ashanti" truoc day ra anh portrait co gai, tu Phat,
+# chua Myanmar, bau tap - vi search "golden stool portrait" tra ve portrai
+# cua người bat ky. Query cua scene da duoc research.vi writing san cho
+# nhan vat/ dia danh rồi, giu nguyen la tot nhat.
 QUERY_SUFFIX = ["", " cinematic", " close up", " slow motion", " aerial view"]
-STILLS_SUFFIX = [" portrait", " painting", " old map", " engraving", " archival photo", " bust statue"]
+STILLS_SUFFIX = [""]
 ANIM_SUFFIX = [
     " 3d animation",
     " motion graphics",
@@ -408,11 +413,11 @@ def _tokens(text: str) -> set:
 
 
 def _relevant(query: str, meta: str) -> bool:
-    """Tra ve False neu hinh kiem duoc co lien quan gi voi scene hay khong.
+    """TraFalse neu hinh kiem duoc khong lien quan gi voi scene.
 
     Video 'uong nuoc sai cach' truoc day lap anh lam banh, nha 3D, may pachinko.
-    Nguoi xem thay hoang khong lien quan gi den chu de -> khong like, khong
-    comment, khong xem tiep. Day la ly do like-rate acc 3 chi 0.85%.
+    Video 'Golden Stool' lap tu Phat, chua Myanmar. Nguoi xem thay hoang ->
+    khong like, khong comment, khong xem tiep. Ly do like-rate acc 3 chi 0.85%.
     """
     if not meta:
         return True
@@ -423,7 +428,9 @@ def _relevant(query: str, meta: str) -> bool:
     q, m = _tokens(query), _tokens(meta)
     if not q or not m:
         return True
-    return bool(q & m)
+    hit = q & m
+    # it nhat 1/3 tu khoa cua scene phai xuat hien, va it nhat 2 tu
+    return len(hit) >= 2 or (len(hit) >= 1 and len(q) <= 2)
 
 
 def fetch_scene(
