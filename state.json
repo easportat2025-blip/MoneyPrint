@@ -1,5 +1,191 @@
 [
   {
+    "id": "ea1a60f000",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Sacred Throne That Sparked an Empire's Rebellion",
+    "idea": {
+      "title": "The Sacred Throne That Sparked an Empire's Rebellion",
+      "hook": "How British Governor Frederick Hodgson demanded a sacred African throne, triggering a brutal war of revenge he never saw coming.",
+      "beats": [
+        "In 1900, British Governor Frederick Hodgson arrived in the Ashanti Empire and demanded to sit on the Golden Stool, desecrating its sacred value.",
+        "He committed a fatal mistake: the stool was so holy that it was never allowed to touch the ground, and not even kings were permitted to sit on it.",
+        "Outraged by this ultimate insult, Queen Mother Yaa Asantewaa rallied her people and laid siege to the British forces.",
+        "Her rebellion became the War of the Golden Stool, proving how one arrogant colonial demand could shake an empire's foundations."
+      ],
+      "keywords": [
+        "ashanti gold stool",
+        "yaa asantewaa queen",
+        "british empire africa",
+        "west african war",
+        "colonial gold coast"
+      ],
+      "tags": [
+        "history",
+        "ancientempires",
+        "rebellion",
+        "african-history",
+        "war"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In March 1900, British Governor Frederick Hodgson demanded West Africa's most sacred throne.",
+        "search": "Frederick Hodgson colonial portrait painting",
+        "caption": "The arrogant demand that triggered an empire's war."
+      },
+      {
+        "narration": "The Golden Stool of the Ashanti Empire was so holy it never touched the ground.",
+        "search": "Ashanti golden stool artifact museum photo",
+        "caption": "Not even Ashanti kings were allowed to sit on it."
+      },
+      {
+        "narration": "Hodgson committed a fatal colonial insult by demanding to sit on it himself.",
+        "search": "British colonial governor Africa historical illustration",
+        "caption": "A desecration of ultimate spiritual authority."
+      },
+      {
+        "narration": "Outraged by the intrusion, Queen Mother Yaa Asantewaa stepped forward to lead.",
+        "search": "Yaa Asantewaa historical portrait painting",
+        "caption": "The fierce queen mother took command."
+      },
+      {
+        "narration": "She rallied the Ashanti chiefs and laid immediate siege to the British garrison at Kumasi.",
+        "search": "West African fort historical engraving 1900",
+        "caption": "The siege of Kumasi began."
+      },
+      {
+        "narration": "Thousands of Ashanti warriors trapped the colonial forces inside a brutal blockade.",
+        "search": "Ashanti warriors historical drawing 1900",
+        "caption": "Trapped by a furious uprising."
+      },
+      {
+        "narration": "For months, the British struggled to break the iron grip of the rebel fighters.",
+        "search": "British colonial troops Africa archival photograph 1900",
+        "caption": "The empire fought for survival."
+      },
+      {
+        "narration": "This sparked the bloody War of the Golden Stool across the Gold Coast.",
+        "search": "Gold Coast Africa colonial map engraving 1900",
+        "caption": "A fierce defense of sovereign soil."
+      },
+      {
+        "narration": "In March 1900, British Governor Frederick Hodgson made the fatal demand to sit upon the sacred Ashanti Golden Stool at Kumasi.",
+        "search": "Frederick Hodgson colonial governor portrait painting",
+        "caption": "Governor Hodgson demanded the sacred Golden Stool"
+      },
+      {
+        "narration": "Queen Mother Yaa Asantewaa stepped forward to lead the rebellion when the men hesitated, rallying thousands of Ashanti warriors to war.",
+        "search": "Yaa Asantewaa queen mother African historical illustration",
+        "caption": "Queen Mother Yaa Asantewaa rallied her people"
+      },
+      {
+        "narration": "Though the British ultimately annexed the Ashanti Empire in late 1900, the Golden Stool was never captured, preserving the soul of the nation.",
+        "search": "Ashanti gold stool historical artifact museum display",
+        "caption": "The Golden Stool remained unconquered and free"
+      },
+      {
+        "narration": "In 1900, British Governor Frederick Hodgson demanded to sit on the most sacred artifact in the Ashanti Empire.",
+        "search": "British colonial governor portrait painting 19th century",
+        "caption": "A colonial demand that sparked a war."
+      }
+    ],
+    "error": "",
+    "youtube_id": "hbPMuHK3dbg",
+    "youtube_url": "https://www.youtube.com/watch?v=hbPMuHK3dbg",
+    "created_at": "2026-10-03T04:39:04.675676+00:00",
+    "updated_at": "2026-10-03T04:45:30.217220+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T04:41:13.159396+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "362 chars (cat 403 de vua 55s)",
+        "at": "2026-10-03T04:42:16.046707+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 5 cau",
+        "at": "2026-10-03T04:42:18.712525+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T04:42:19.867729+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T04:44:34.703376+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T04:44:34.727345+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.2s 7208362 bytes",
+        "at": "2026-10-03T04:45:24.154431+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=hbPMuHK3dbg",
+        "at": "2026-10-03T04:45:26.232286+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab53iGjG4r1Dq2p9lKGA1qKex1viL7GSZMKDsuSfg72ZUmRRR5d",
+        "at": "2026-10-03T04:45:27.164501+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T04:45:28.992057+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T04:45:29.224536+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"hbPMuHK3dbg\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T04:45:30.107019+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T04:45:30.135656+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T04:45:30.217196+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3978291/pexels-photo-3978291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610593/pexels-photo-20610593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35350123/pexels-photo-35350123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27594074/pexels-photo-27594074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32173489/pexels-photo-32173489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31215651/pexels-photo-31215651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4612033/pexels-photo-4612033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33931054/pexels-photo-33931054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14493446/pexels-photo-14493446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33647297/pexels-photo-33647297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610616/pexels-photo-20610616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12847418/pexels-photo-12847418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "509b87becd",
     "kind": "short",
     "channel": "Channel3",
