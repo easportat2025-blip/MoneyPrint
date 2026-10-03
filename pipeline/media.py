@@ -571,7 +571,7 @@ def fetch_all(
                 skip,
                 1 + ((i + attempt) % 3),
             )
-            if not str(p[0]).name.startswith("fallback_"):
+            if not Path(p[0]).name.startswith("fallback_"):
                 break
         if p[2]:
             skip.add(p[2])
