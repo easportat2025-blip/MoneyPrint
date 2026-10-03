@@ -1,5 +1,187 @@
 [
   {
+    "id": "1ccd440b2a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn không bao giờ thực sự 'chạm' vào bất cứ thứ gì?",
+    "idea": {
+      "title": "Tại sao bạn không bao giờ thực sự 'chạm' vào bất cứ thứ gì?",
+      "hook": "Bạn nghĩ mình đang cầm điện thoại? Thực tế, ngón tay bạn chưa từng chạm vào nó – và khoa học vừa phát hiện ra lý do đáng sợ.",
+      "beats": [
+        "Giải thích cấu trúc nguyên tử: Các nguyên tử có khoảng trống lớn và lực đẩy từ các electron.",
+        "Hiện tượng vật lý: Khi bạn 'chạm', thực chất là các đám mây electron đang đẩy nhau ra xa, tạo cảm giác ảo về sự tiếp xúc.",
+        "Hệ quả vũ trụ: Nếu lực đẩy này biến mất, cơ thể bạn sẽ rơi thẳng xuống tâm Trái Đất như một bóng ma.",
+        "Thông điệp kết luận: Cảm giác xúc giác hóa ra chỉ là một trò lừa bịp hoàn hảo của vũ trụ đối với bộ não."
+      ],
+      "keywords": [
+        "quantum field space",
+        "subatomic particles animation",
+        "electron cloud physics",
+        "deep space abstract",
+        "invisible force cosmos"
+      ],
+      "tags": [
+        "khoa học",
+        "vật lý",
+        "sự thật thú vị",
+        "channel3",
+        "khám phá"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ mình đang cầm điện thoại đúng không?",
+        "search": "nguoi cam dien thoai hoat hinh 3d",
+        "caption": "Bạn chưa bao giờ thực sự cầm điện thoại."
+      },
+      {
+        "narration": "Thực tế, các ngón tay bạn chưa bao giờ chạm vào màn hình.",
+        "search": "ngon tay cham vao man hinh 3d motion",
+        "caption": "Không có sự tiếp xúc nào xảy ra."
+      },
+      {
+        "narration": "Bên trong thế giới hạ nguyên tử, mọi thứ hoàn toàn trống rỗng.",
+        "search": "cau truc nguyen tu chuyen dong 3d",
+        "caption": "Nguyên tử chủ yếu là khoảng trống."
+      },
+      {
+        "narration": "Điều duy nhất tồn tại là các đám mây electron mang điện tích âm.",
+        "search": "dam may electron chuyen dong hoat hinh",
+        "caption": "Các đám mây electron bao quanh hạt nhân."
+      },
+      {
+        "narration": "Khi bạn ấn vào điện thoại, hai đám mây này đẩy nhau mạnh mẽ.",
+        "search": "hai tuong tac tu truong day nhau 3d",
+        "caption": "Lực đẩy vô hình tạo ra khoảng cách."
+      },
+      {
+        "narration": "Cảm giác cứng cáp bạn nhận được chỉ là lực từ trường từ các electron.",
+        "search": "cam giac cham vao vat the 3d motion graphics",
+        "caption": "Cảm giác chạm chỉ là lực đẩy điện từ."
+      },
+      {
+        "narration": "Nếu lực đẩy này biến mất một giây, ngón tay bạn sẽ xuyên qua bàn.",
+        "search": "ban tay xuyen qua vat the ao 3d animation",
+        "caption": "Ngón tay bạn có thể xuyên qua mọi thứ."
+      },
+      {
+        "narration": "Bộ não đã lừa bạn tin rằng sự tiếp xúc vật lý là có thật.",
+        "search": "bo nao xu ly thong tin cam giac 3d",
+        "caption": "Vũ trụ đánh lừa bộ não của bạn."
+      },
+      {
+        "narration": "Thực tế, 99% nguyên tử cấu tạo nên chiếc điện thoại hay cơ thể bạn chỉ là khoảng trống rỗng.",
+        "search": "hoat hoa 3d chiec dien thoai di dong xoay tron tren ban",
+        "caption": "99% chiếc điện thoại chỉ là khoảng trống"
+      },
+      {
+        "narration": "Thứ duy nhất giữ bạn không bị lún sâu xuống chiếc giường khi ngủ chính là lực đẩy điện từ cực mạnh.",
+        "search": "hoat hoa 3d nguoi nam tren giuong nem em ai",
+        "caption": "Lực điện từ giữ bạn trên giường"
+      },
+      {
+        "narration": "Nếu lực đẩy này biến mất trong một tích tắc, toàn bộ cơ thể bạn sẽ rã ra và rơi xuyên qua sàn nhà.",
+        "search": "hoat hoa 3d khoi rubik tan ra thanh nhieu manh",
+        "caption": "Cơ thể sẽ rơi xuyên qua sàn"
+      },
+      {
+        "narration": "Bộ não chỉ nhận tín hiệu điện từ dây thần kinh rồi tự dịch mã thành cảm giác cứng hay mềm.",
+        "search": "hoat hoa 3d day than kinh truyen tin hieu dien",
+        "caption": "Bộ não tự vẽ ra cảm giác"
+      },
+      {
+        "narration": "Vì thế, bạn chưa từng thực sự chạm vào ai, bạn chỉ đang lơ lửng phía trên họ một khoảng cách siêu nhỏ.",
+        "search": "hoat hoa 3d ngon tay bam nut dien thoai phong to",
+        "caption": "Bạn đang lơ lửng trên mọi thứ"
+      }
+    ],
+    "error": "",
+    "youtube_id": "rIcOnXcxOzQ",
+    "youtube_url": "https://www.youtube.com/watch?v=rIcOnXcxOzQ",
+    "created_at": "2026-10-03T05:25:14.722519+00:00",
+    "updated_at": "2026-10-03T05:30:09.798171+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T05:27:34.918440+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "525 chars (cat 225 de vua 55s)",
+        "at": "2026-10-03T05:28:38.061237+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-03T05:28:50.918333+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T05:28:52.402158+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-03T05:29:08.535363+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-03T05:29:08.560909+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.1s 11889144 bytes",
+        "at": "2026-10-03T05:30:05.937934+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=rIcOnXcxOzQ",
+        "at": "2026-10-03T05:30:08.211353+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-03T05:30:08.395534+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T05:30:09.691998+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-03T05:30:09.717478+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T05:30:09.798150+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819435/8819435-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8817002/8817002-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/18069803/18069803-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/7565893/7565893-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/38510172/16354197_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/16456773/16456773-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816907/8816907-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439745/15439745-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/19784108/19784108-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/28970550/12532882_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561457/16561457-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7792634/7792634-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655800/16655800-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "72c72f0370",
     "kind": "short",
     "channel": "Channel2",
