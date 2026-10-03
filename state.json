@@ -1,5 +1,191 @@
 [
   {
+    "id": "72c72f0370",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The General Who Won A Battle By Sleeping",
+    "idea": {
+      "title": "The General Who Won A Battle By Sleeping",
+      "hook": "General Toyotomi Hideyoshi didn't draw a single sword to capture a supposedly impenetrable fortress; instead, he ordered his men to sleep.",
+      "beats": [
+        "The fortress was guarded by thousands of fierce samurai on a steep mountain.",
+        "Hideyoshi ordered his army to pitch tents, light massive bonfires, and feast loudly every night at the base.",
+        "The defenders inside grew completely confused and complacent, assuming the enemy had lost their minds.",
+        "On the fourth night, while the defenders were fast asleep from sheer boredom, Hideyoshi's men quietly scaled the unguarded rear cliffs."
+      ],
+      "keywords": [
+        "samurai painting",
+        "japanese castle art",
+        "ancient general portrait",
+        "historic battle engraving",
+        "edo period art"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#samurai",
+        "#militaryhistory",
+        "#tactics"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "General Toyotomi Hideyoshi conquered an impenetrable fortress without drawing a sword.",
+        "search": "ancient general portrait",
+        "caption": "Conquered a fortress without drawing a sword"
+      },
+      {
+        "narration": "In September 1590, the fortress of Tottori sat atop a steep mountain in Japan.",
+        "search": "japanese castle art",
+        "caption": "The impenetrable fortress of Tottori"
+      },
+      {
+        "narration": "It was defended by thousands of fierce samurai loyal to the Mori clan.",
+        "search": "samurai painting",
+        "caption": "Guarded by thousands of fierce samurai"
+      },
+      {
+        "narration": "Instead of a direct assault, Hideyoshi ordered his vast army to pitch tents at the base.",
+        "search": "historic battle engraving",
+        "caption": "Hideyoshi pitched camp at the base"
+      },
+      {
+        "narration": "Every night, his men lit massive bonfires and feasted loudly until dawn.",
+        "search": "edo period art",
+        "caption": "Massive bonfires and loud feasting every night"
+      },
+      {
+        "narration": "The defenders inside grew completely confused by the bizarre spectacle.",
+        "search": "japanese castle art",
+        "caption": "Defenders grew completely confused"
+      },
+      {
+        "narration": "They assumed Hideyoshi's massive army had entirely lost their minds.",
+        "search": "historic battle engraving",
+        "caption": "Assumed the enemy lost their minds"
+      },
+      {
+        "narration": "On the fourth night, the garrison relaxed completely, lowering their guard.",
+        "search": "samurai painting",
+        "caption": "The garrison relaxed completely on night four"
+      },
+      {
+        "narration": "While the garrison relaxed completely, Toyotomi Hideyoshi ordered his elite climbers to scale the unguarded rear cliffs under total darkness in 1590.",
+        "search": "historic battle engraving",
+        "caption": "Climbing the unguarded rear cliffs at night"
+      },
+      {
+        "narration": "Catching the fortress completely by surprise, the attackers breached the inner gates without drawing a single sword.",
+        "search": "japanese castle art",
+        "caption": "Breaching the gates without a fight"
+      },
+      {
+        "narration": "This bloodless victory at Mount Komine proved that psychological warfare could conquer an impenetrable fortress before a blade was ever drawn.",
+        "search": "ancient general portrait",
+        "caption": "Conquering without drawing a sword"
+      },
+      {
+        "narration": "General Toyotomi Hideyoshi won a fortress by sleeping.",
+        "search": "Toyotomi Hideyoshi samurai portrait painting",
+        "caption": "He conquered an impenetrable fortress without drawing a sword."
+      }
+    ],
+    "error": "",
+    "youtube_id": "_ew58e8L77s",
+    "youtube_url": "https://www.youtube.com/watch?v=_ew58e8L77s",
+    "created_at": "2026-10-03T05:07:56.466565+00:00",
+    "updated_at": "2026-10-03T05:14:11.081312+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T05:10:02.229108+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "410 chars (cat 296 de vua 55s)",
+        "at": "2026-10-03T05:11:05.229618+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-03T05:11:07.602831+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T05:11:08.815942+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T05:13:21.018853+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T05:13:21.045068+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.7s 8540653 bytes",
+        "at": "2026-10-03T05:14:05.033990+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=_ew58e8L77s",
+        "at": "2026-10-03T05:14:07.433260+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYM83dquQrKSP25h7YFpyhMN5Zrjla_JtcnKhem2_VW8KXKlwaT",
+        "at": "2026-10-03T05:14:08.202233+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T05:14:09.897791+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T05:14:10.198140+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"_ew58e8L77s\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T05:14:10.971112+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T05:14:10.997547+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T05:14:11.081288+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19820500/pexels-photo-19820500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32180140/pexels-photo-32180140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29225887/pexels-photo-29225887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39112999/pexels-photo-39112999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27573828/pexels-photo-27573828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31743669/pexels-photo-31743669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15890472/pexels-photo-15890472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7778810/pexels-photo-7778810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326490/pexels-photo-18326490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31261317/pexels-photo-31261317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708773/pexels-photo-35708773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39630007/pexels-photo-39630007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "69207ec613",
     "kind": "short",
     "channel": "Channel3",
