@@ -1,5 +1,169 @@
 [
   {
+    "id": "509b87becd",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Cái giá đáng sợ khi bạn cố tình nhịn hắt hơi",
+    "idea": {
+      "title": "Cái giá đáng sợ khi bạn cố tình nhịn hắt hơi",
+      "hook": "Bạn nghĩ nhịn hắt hơi là cử chỉ lịch sự, nhưng cơ thể bạn thực chất đang phải gánh chịu một vụ nổ áp lực nguy hiểm từ bên trong.",
+      "beats": [
+        "Một cơn hắt hơi tự nhiên tống không khí ra ngoài với vận tốc cực lớn lên tới 160 km/h.",
+        "Khi bạn bịt mũi và ngậm miệng lại, toàn bộ xung lực khổng lồ đó không biến mất mà dội ngược vào đầu bạn.",
+        "Áp lực nội tại tăng vọt gấp 5 đến 24 lần, có thể làm thủng màng nhĩ, vỡ mạch máu mắt hoặc thậm chí làm rách mô họng.",
+        "Lần tới khi cơn buồn hắt hơi ập đến, hãy che bằng khuỷu tay áo thay vì cố nuốt một quả bom áp suất vào trong cơ thể."
+      ],
+      "keywords": [
+        "person sneezing slow motion",
+        "pressure explosion concept",
+        "throat anatomy 3d animation",
+        "eardrum medical diagram",
+        "covering sneeze elbow"
+      ],
+      "tags": [
+        "Channel3",
+        "hắt hơi",
+        "sức khỏe",
+        "cơ thể người",
+        "sự thật thú vị",
+        "mẹo sống",
+        "khoa học đời sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ nhịn hắt hơi là lịch sự ư?",
+        "search": "person sneezing slow motion",
+        "caption": "Nhịn hắt hơi tưởng lịch sự nhưng cực kỳ nguy hiểm"
+      },
+      {
+        "narration": "Thực chất cơ thể bạn đang chịu một vụ nổ từ bên trong.",
+        "search": "pressure explosion concept",
+        "caption": "Cơ thể gánh chịu vụ nổ áp lực từ bên trong"
+      },
+      {
+        "narration": "Một cơn hắt hơi tự nhiên tống không khí ra ngoài.",
+        "search": "nguoi hat hoi manh",
+        "caption": "Hắt hơi tống không khí ra ngoài cực mạnh"
+      },
+      {
+        "narration": "Vận tốc của luồng khí này có thể lên tới 160 km/h.",
+        "search": "toc do gio bao",
+        "caption": "Vận tốc luồng khí lên tới 160 km mỗi giờ"
+      },
+      {
+        "narration": "Khi bạn bịt mũi và ngậm miệng lại để chặn nó.",
+        "search": "nguoi biet chat mui mieng",
+        "caption": "Hành động bịt mũi ngậm miệng khi hắt hơi"
+      },
+      {
+        "narration": "Toàn bộ xung lực khổng lồ không hề biến mất đi.",
+        "search": "song xung kich nang luong",
+        "caption": "Xung lực khổng lồ bị giữ lại bên trong"
+      },
+      {
+        "narration": "Nó dội ngược trực tiếp vào đầu và cổ của bạn.",
+        "search": "throat anatomy 3d animation",
+        "caption": "Áp lực dội ngược trực tiếp vào vùng đầu cổ"
+      },
+      {
+        "narration": "Áp lực nội tại lúc này tăng vọt đến chóng mặt.",
+        "search": "bieu do ap luc tang cao",
+        "caption": "Áp lực nội tại tăng vọt gấp nhiều lần bình thường"
+      },
+      {
+        "narration": "Nó tăng gấp 5 đến 24 lần bình thường, đủ sức làm thủng màng nhĩ hoặc vỡ mạch máu não.",
+        "search": "eardrum medical diagram",
+        "caption": "Noi ap luc tang vot"
+      },
+      {
+        "narration": "Thậm chí, áp lực quá lớn còn có thể làm rách mô họng hoặc gây tổn thương thanh quản vĩnh viễn.",
+        "search": "throat anatomy 3d animation",
+        "caption": "Nguy co rach mo hong"
+      },
+      {
+        "narration": "Hành động nhịn hắt hơi tưởng chừng lịch sự hóa ra lại là một quả bom áp suất nổ chậm.",
+        "search": "pressure explosion concept",
+        "caption": "Qua bom ap suat"
+      },
+      {
+        "narration": "Thay vì chặn đường thoát, hãy dùng khuỷu tay áo để che chắn an toàn cho cơ thể.",
+        "search": "covering sneeze elbow",
+        "caption": "Hay che bang khuyu tay"
+      },
+      {
+        "narration": "Đừng bao giờ bóp nghẹt phản xạ tự nhiên này nếu bạn không muốn đánh đổi sức khỏe.",
+        "search": "person sneezing slow motion",
+        "caption": "Bao ve co the ban"
+      }
+    ],
+    "error": "name 'h' is not defined",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-03T04:24:32.317130+00:00",
+    "updated_at": "2026-10-03T04:31:17.311131+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T04:26:54.377550+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "517 chars (cat 103 de vua 55s)",
+        "at": "2026-10-03T04:27:57.522424+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.3s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-10-03T04:28:03.874191+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T04:28:05.301250+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-03T04:28:19.248085+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-03T04:28:19.270051+00:00"
+      },
+      "render": {
+        "ok": false,
+        "detail": "thu 2 loi: name 'h' is not defined - doi 60s",
+        "at": "2026-10-03T04:29:48.057952+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "name 'h' is not defined",
+        "at": "2026-10-03T04:31:17.311122+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6865227/6865227-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/34767735/14740054_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30237738/12963864_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/4788417/4788417-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/28913173/12514231_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/12465750/12465750-hd_720_1282_60fps.mp4",
+      "https://videos.pexels.com/video-files/39903212/17025287_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39006630/16598105_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7230298/7230298-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863502/15863502-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35044924/14845175_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/3959056/3959056-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/9165944/9165944-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "26a7496b58",
     "kind": "short",
     "channel": "Channel2",
