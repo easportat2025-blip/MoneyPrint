@@ -1,5 +1,166 @@
 [
   {
+    "id": "da517c0b55",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bạn nên úp màn hình điện thoại khi đặt lên bàn?",
+    "idea": {
+      "title": "Tại sao bạn nên úp màn hình điện thoại khi đặt lên bàn?",
+      "hook": "Bạn có thói quen luôn úp màn hình điện thoại xuống khi đặt lên bàn? Hóa ra, hành động nhỏ này đang âm thầm bảo vệ cả quyền riêng tư lẫn túi tiền của bạn theo cách không ai ngờ.",
+      "beats": [
+        "Hầu hết camera sau của smartphone ngày nay đều lồi lên, việc úp màn hình xuống sẽ giúp bảo vệ cụm kính camera đắt đỏ không bị trầy xước khi tiếp xúc với mặt bàn.",
+        "Cảm biến tiệm cận ở mặt trước sẽ nhận diện điện thoại đang úp và tự động tắt màn hình chờ, giúp bạn tiết kiệm pin một cách đáng kể.",
+        "Nó ngăn chặn những thông báo nhạy cảm hiển thị trước mắt người khác, bảo vệ quyền riêng tư của bạn một cách tuyệt đối."
+      ],
+      "keywords": [
+        "phone face down",
+        "smartphone camera lens",
+        "phone screen protector",
+        "table surface",
+        "notifications privacy"
+      ],
+      "tags": [
+        "meo dung dien thoai",
+        "cong nghe",
+        "meo vat",
+        "baomat",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Úp điện thoại xuống bàn cứu bạn cả đống tiền.",
+        "search": "3d animation dien thoai up mat xuong ban",
+        "caption": "Úp điện thoại xuống bàn giúp tiết kiệm tiền"
+      },
+      {
+        "narration": "Nhiều người luôn để ngửa vì sợ xước kính trước. Nhưng sự thật hoàn toàn ngược lại.",
+        "search": "motion graphics man hinh dien thoai sang tren ban go",
+        "caption": "Để ngửa điện thoại có thực sự an toàn?"
+      },
+      {
+        "narration": "Hầu hết camera sau của điện thoại hiện nay đều lồi lên từ một đến hai milimét.",
+        "search": "3d render cum camera dien thoai loi can canh",
+        "caption": "Cụm camera lồi lên bề mặt lưng"
+      },
+      {
+        "narration": "Khi bạn đặt ngửa, toàn bộ trọng lượng máy sẽ dồn trực tiếp lên cụm kính camera mỏng manh này.",
+        "search": "hoat hinh 3d mat lung dien thoai tiep xuc mat ban",
+        "caption": "Áp lực dồn vào mặt kính camera"
+      },
+      {
+        "narration": "Chỉ cần một hạt bụi cứng trên bàn chà xát, chi phí thay kính camera có thể lên tới tiền triệu.",
+        "search": "motion graphics hat cat lam xuoc kinh camera can canh",
+        "caption": "Hạt bụi nhỏ có thể gây xước kính đắt tiền"
+      },
+      {
+        "narration": "Trong khi đó, mặt kính trước đã có sẵn miếng dán cường lực giá rẻ và viền ốp nhô cao đỡ lấy.",
+        "search": "isometric render mieng dan cuong luc man hinh dien thoai",
+        "caption": "Mặt trước được bảo vệ bởi kính cường lực"
+      },
+      {
+        "narration": "Không chỉ dừng lại ở việc bảo vệ kính, phía trên màn hình còn ẩn chứa một con mắt vô hình.",
+        "search": "3d animation cam bien tiem can tren vien dien thoai",
+        "caption": "Con mắt vô hình ẩn dưới viền màn hình"
+      },
+      {
+        "narration": "Đó là cảm biến tiệm cận, và nó đang chờ đợi một thay đổi ánh sáng để kích hoạt bí mật tiếp theo.",
+        "search": "motion graphics song tia hong ngoai phat ra tu dien thoai",
+        "caption": "Cảm biến tiệm cận chờ kích hoạt"
+      },
+      {
+        "narration": "Khi bạn úp xuống, cảm biến này nhận biết bóng tối và lập tức tắt hoàn toàn màn hình chờ Always-On Display.",
+        "search": "hoat hoa 3d cam bien tiem can dien thoai tat man hinh",
+        "caption": "Cảm biến tiệm cận tắt màn hình chờ lập tức"
+      },
+      {
+        "narration": "Việc này ngăn màn hình tự động sáng lên mỗi khi có thông báo rác, tiết kiệm tới 15% dung lượng pin mỗi ngày.",
+        "search": "do hoa chuyen dong bieu tuong pin dien thoai tiet kiem",
+        "caption": "Tiết kiệm đến 15% pin mỗi ngày"
+      },
+      {
+        "narration": "Nhưng lợi ích lớn nhất lại nằm ở việc ngăn chặn những cặp mắt tò mò xung quanh khi điện thoại rung lên.",
+        "search": "hoat hoa 3d nguoi liac mat nhin trom man hinh",
+        "caption": "Ngăn chặn những ánh mắt tò mò xung quanh"
+      },
+      {
+        "narration": "Chỉ một tin nhắn nhạy cảm hiển thị trong 2 giây cũng đủ khiến thông tin cá nhân của bạn bị lộ sạch.",
+        "search": "do hoa chuyen dong tin nhan bao mat khoa lai",
+        "caption": "Bảo vệ tin nhắn nhạy cảm không bị lộ"
+      },
+      {
+        "narration": "Úp điện thoại xuống là cách đơn giản nhất để vừa bảo vệ camera, giữ kín riêng tư lại vừa tiết kiệm pin.",
+        "search": "hoat hoa 3d dien thoai up mat xuong ban",
+        "caption": "Thói quen nhỏ bảo vệ cả ví tiền lẫn riêng tư"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-03T12:55:55.698871+00:00",
+    "updated_at": "2026-10-03T12:58:40.168372+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T12:56:59.903742+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "524 chars (cat 36 de vua 55s)",
+        "at": "2026-10-03T12:57:15.572436+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-03T12:57:22.850190+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T12:57:24.309957+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-03T12:57:41.947703+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-03T12:57:41.973794+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.6s 22124057 bytes",
+        "at": "2026-10-03T12:58:39.998807+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-03T12:58:40.168358+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/16456768/16456768-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/25758192/11907792_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029655/16029655-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39905195/17025398_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324654/13788039_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34632735/14678219_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39872367/17003974_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35048042/14846644_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/27137608/12083404_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/32324554/13787992_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/28203566/12326886_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28733290/12464588_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029663/16029663-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "8bbbaf8140",
     "kind": "short",
     "channel": "Channel3",
