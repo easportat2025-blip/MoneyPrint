@@ -1,5 +1,221 @@
 [
   {
+    "id": "7807d7b8a2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The General Who Defeated 150,000 Men with a Lute",
+    "idea": {
+      "title": "The General Who Defeated 150,000 Men with a Lute",
+      "hook": "In 228 AD, General Zhuge Liang stood on a city wall with just a lute, facing an army of 150,000 men—and won without firing a single arrow.",
+      "beats": [
+        "Zhuge Liang was trapped in a city with only a handful of soldiers left against a massive, unstoppable army.",
+        "Instead of hiding, he ordered all the gates opened and calmly sat on top of the wall playing his lute.",
+        "The enemy general, suspecting a deadly ambush due to Zhuge's legendary reputation, panicked and ordered a full retreat.",
+        "This legendary bluff became one of the greatest psychological victories in military history."
+      ],
+      "keywords": [
+        "Zhuge Liang",
+        "ancient Chinese army",
+        "Three Kingdoms painting",
+        "ancient city gates",
+        "traditional lute player"
+      ],
+      "tags": [
+        "#history",
+        "#militaryhistory",
+        "#ancientchina",
+        "#mindgames",
+        "#warstrategy"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can a single lute defeat a 150,000-man army?",
+        "search": "Zhuge Liang traditional Chinese ink painting portrait",
+        "caption": "Can a single lute defeat 150,000 men?"
+      },
+      {
+        "narration": "In 228 AD, the survival of the Shu Han state depended on defending a vulnerable outpost in Xicheng.",
+        "search": "ancient Chinese map engraving Three Kingdoms period",
+        "caption": "In 228 AD, the fate of Shu Han hangs in the balance."
+      },
+      {
+        "narration": "Commander Sima Yi marched toward the city gates with a massive force of one hundred and fifty thousand soldiers.",
+        "search": "Sima Yi portrait painting ancient Chinese illustration",
+        "caption": "Commander Sima Yi leads 150,000 soldiers."
+      },
+      {
+        "narration": "General Zhuge Liang was trapped inside with only a handful of civil servants and low-ranking soldiers.",
+        "search": "ancient Chinese city gates oil painting dramatic",
+        "caption": "Zhuge Liang is trapped with no army."
+      },
+      {
+        "narration": "Instead of preparing a defense or fleeing, Zhuge Liang ordered all the city gates to be thrown wide open.",
+        "search": "ancient Chinese city walls open gates illustration",
+        "caption": "The general orders the gates to be opened."
+      },
+      {
+        "narration": "He commanded his remaining soldiers to disguise themselves as civilians sweeping the dusty streets outside the gates.",
+        "search": "ancient Chinese peasants sweeping streets painting",
+        "caption": "Soldiers disguise themselves as simple street sweepers."
+      },
+      {
+        "narration": "Zhuge Liang then donned a Taoist robe and climbed to the top of the viewing platform with a traditional guqin lute.",
+        "search": "traditional Chinese lute player guqin painting",
+        "caption": "Zhuge Liang sits atop the wall with a lute."
+      },
+      {
+        "narration": "As the massive vanguard of the Wei army approached, they saw the gates wide open and heard the calm, resonant notes of the lute.",
+        "search": "ancient Chinese army marching oil painting dramatic",
+        "caption": "The massive army arrives to a bizarre sight."
+      },
+      {
+        "narration": "Sima Yi, commanding 150,000 veteran troops, halted his advance immediately upon seeing the bizarre sight.",
+        "search": "Sima Yi general portrait painting Three Kingdoms",
+        "caption": "The enemy general halts in sheer confusion."
+      },
+      {
+        "narration": "Renowned for his caution, Sima Yi suspected an elaborate trap prepared by the master strategist.",
+        "search": "ancient Chinese military commander tactical scroll painting",
+        "caption": "A legendary reputation sparks deep paranoia."
+      },
+      {
+        "narration": "Two incense burners flanked Zhuge Liang, while unarmed soldiers swept the ground below the threshold in silence.",
+        "search": "ancient Chinese city gates wide open oil painting",
+        "caption": "Unarmed sweepers maintain an eerie, calm facade."
+      },
+      {
+        "narration": "Sima Yi listened closely, believing the relaxed posture hid an overwhelming ambush force lying in wait.",
+        "search": "ancient Chinese army formation misty landscape painting",
+        "caption": "Suspicion grows as the music continues."
+      },
+      {
+        "narration": "He remembered Zhuge Liang's past military brilliance and refused to risk his vanguard inside the walls.",
+        "search": "ancient strategist calculating scroll illustration",
+        "caption": "Past brilliance dictates current caution."
+      },
+      {
+        "narration": "The haunting notes of the guqin echoed across the empty moat, deepening the psychological torment.",
+        "search": "traditional Chinese guqin player ink wash painting",
+        "caption": "Haunting notes echo across the moat."
+      },
+      {
+        "narration": "Convinced certain doom awaited his men inside, Sima Yi overruled his subordinates and ordered the retreat.",
+        "search": "ancient army retreating in panic oil painting",
+        "caption": "The terrifying decision to retreat."
+      },
+      {
+        "narration": "The empty city of Xicheng was spared through pure psychological warfare on that fateful day in 228 AD.",
+        "search": "ancient Chinese walled city aerial view painting",
+        "caption": "A masterclass in psychological warfare."
+      },
+      {
+        "narration": "This masterclass in psychological warfare by Zhuge Liang remains one of the greatest military bluffs in human history.",
+        "search": "Three Kingdoms painting ancient Chinese army",
+        "caption": "The ultimate psychological victory of the ancient world."
+      }
+    ],
+    "error": "",
+    "youtube_id": "LeDC8Rh7syQ",
+    "youtube_url": "https://www.youtube.com/watch?v=LeDC8Rh7syQ",
+    "created_at": "2026-10-03T01:20:12.257199+00:00",
+    "updated_at": "2026-10-03T01:25:37.933157+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "17 scenes",
+        "at": "2026-10-03T01:23:03.178556+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "666 chars (cat 342 de vua 55s)",
+        "at": "2026-10-03T01:24:06.507197+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "46.2s en-US-GuyNeural 10 cau",
+        "at": "2026-10-03T01:24:09.970884+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T01:24:11.746643+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 17 images",
+        "at": "2026-10-03T01:24:26.202300+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T01:24:26.225104+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 46.2s 16725534 bytes",
+        "at": "2026-10-03T01:25:30.867045+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=LeDC8Rh7syQ",
+        "at": "2026-10-03T01:25:33.566576+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaa54K92xJG1MouJ_Kxgh8GZxIqPaLchUaAUvW6HfvHwqptt9x_x",
+        "at": "2026-10-03T01:25:34.698563+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T01:25:36.164394+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T01:25:36.468557+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"LeDC8Rh7syQ\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T01:25:37.840819+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T01:25:37.863392+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T01:25:37.933148+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/9478287/pexels-photo-9478287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34153668/pexels-photo-34153668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9994973/pexels-photo-9994973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38540693/pexels-photo-38540693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19834246/pexels-photo-19834246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10610142/pexels-photo-10610142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33667340/pexels-photo-33667340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16669071/pexels-photo-16669071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29582632/pexels-photo-29582632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17642882/pexels-photo-17642882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35632315/pexels-photo-35632315.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30737851/pexels-photo-30737851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8957707/pexels-photo-8957707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36679416/pexels-photo-36679416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15063029/pexels-photo-15063029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39879416/pexels-photo-39879416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33494425/pexels-photo-33494425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "187ad4e25b",
     "kind": "short",
     "channel": "Channel2",
