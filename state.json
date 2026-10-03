@@ -1,5 +1,191 @@
 [
   {
+    "id": "aa5cd3d05f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Alexander the Great Was Buried Alive",
+    "idea": {
+      "title": "Why Alexander the Great Was Buried Alive",
+      "hook": "In 323 BC, physicians declared Alexander the Great dead—yet his body showed zero signs of decay for six straight days because his mind was still awake inside.",
+      "beats": [
+        "At age 32, the conqueror of the Persian Empire collapsed after a brutal fever and fell completely paralyzed, unable to move or utter a single word.",
+        "As temperatures soared in Babylon, ancient embalmers refused to touch him, baffled that his corpse stayed completely fresh and lifelike.",
+        "Convinced he was an immortal god, his weeping generals immediately organized his state funeral while Alexander lay trapped in a locked-in state.",
+        "Modern physicians believe he suffered from Guillain-Barré syndrome, meaning history's greatest conqueror was conscious while hearing his empire being divided."
+      ],
+      "keywords": [
+        "Alexander the Great marble bust",
+        "ancient Babylon palace painting",
+        "death of Alexander the Great engraving",
+        "Macedonian phalanx battle map",
+        "ancient Greek sarcophagus illustration"
+      ],
+      "tags": [
+        "alexanderthegreat",
+        "ancienthistory",
+        "historicalmysteries",
+        "ancientgreece",
+        "historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "History’s greatest conqueror was likely buried alive.",
+        "search": "Alexander the Great marble bust statue",
+        "caption": "Alexander the Great was likely buried alive in 323 BC."
+      },
+      {
+        "narration": "In June 323 BC, thirty-two-year-old Alexander collapsed inside the royal palace of Babylon.",
+        "search": "ancient Babylon palace ruins painting",
+        "caption": "In June 323 BC, Alexander collapsed suddenly in Babylon."
+      },
+      {
+        "narration": "After twelve days of violent fever, Macedonian physicians formally pronounced the king dead.",
+        "search": "death of Alexander the Great historical engraving",
+        "caption": "Royal physicians pronounced the thirty-two-year-old ruler dead."
+      },
+      {
+        "narration": "Yet beneath the sweltering Mesopotamian summer heat, his body showed zero signs of decomposition for six days.",
+        "search": "ancient Greek embalming ritual illustration engraving",
+        "caption": "In brutal desert heat, his body showed zero decay for six days."
+      },
+      {
+        "narration": "Ancient embalmers refused to touch him, declaring the lack of decay proved Alexander was an immortal god.",
+        "search": "Alexander the Great head coin ancient Greek artifact",
+        "caption": "Terrified embalmers believed his intact corpse proved he was a god."
+      },
+      {
+        "narration": "Believing the king deceased, his Macedonian generals immediately gathered around his bed to carve up the empire.",
+        "search": "Macedonian phalanx battle historical map engraving",
+        "caption": "His generals gathered around his bed to divide the empire."
+      },
+      {
+        "narration": "Work began on an elaborate golden sarcophagus, oblivious to the fact that his heart was still beating.",
+        "search": "ancient Greek golden sarcophagus engraving",
+        "caption": "Craftsmen prepared his tomb while faint breaths still remained."
+      },
+      {
+        "narration": "Modern medical researchers believe an acute autoimmune disorder left Alexander fully conscious in a locked-in state.",
+        "search": "Alexander the Great mosaic battle Pompeii detail",
+        "caption": "Modern medicine reveals a horrifying locked-in neurological paralysis."
+      },
+      {
+        "narration": "In June 323 BC inside Babylon's palace, Macedonian generals partitioned the empire directly beside Alexander's bed, completely unaware that his mind remained fully intact.",
+        "search": "alexander the great deathbed babylon oil painting",
+        "caption": "Generals partitioned the empire right beside his paralyzed body."
+      },
+      {
+        "narration": "Because Guillain-Barré syndrome reduced his breathing to imperceptible autonomic gasps, embalmers placed his warm, uncorrupted body inside an airtight golden vessel.",
+        "search": "ancient greek golden sarcophagus engraving sealed",
+        "caption": "Embalmers sealed his still-breathing body into a golden casket."
+      },
+      {
+        "narration": "The conqueror of Persia met antiquity's most terrifying fate: declared dead six days prematurely and buried alive while listening to his empire shatter.",
+        "search": "alexander the great marble bust museum statue",
+        "caption": "Alexander the Great was buried alive as his empire shattered."
+      },
+      {
+        "narration": "In June 323 BC, history's greatest conqueror was buried while still fully conscious.",
+        "search": "Alexander the Great marble bust close up",
+        "caption": "Buried alive in 323 BC."
+      }
+    ],
+    "error": "",
+    "youtube_id": "bjf_sw5_ar8",
+    "youtube_url": "https://www.youtube.com/watch?v=bjf_sw5_ar8",
+    "created_at": "2026-10-03T20:07:23.506182+00:00",
+    "updated_at": "2026-10-03T20:11:51.091904+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T20:08:47.538622+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "425 chars (cat 134 de vua 55s)",
+        "at": "2026-10-03T20:09:30.978853+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.8s en-US-GuyNeural 6 cau",
+        "at": "2026-10-03T20:09:33.785955+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T20:09:35.006747+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T20:10:59.956516+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T20:10:59.982336+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.8s 8793002 bytes",
+        "at": "2026-10-03T20:11:44.723806+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=bjf_sw5_ar8",
+        "at": "2026-10-03T20:11:46.724375+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaZGodH1A_8ZAGsdcfIO4_QgPHCpfbq6f22bTjXDKAW9zSnVIfL",
+        "at": "2026-10-03T20:11:47.735081+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T20:11:49.223765+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T20:11:49.541438+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"bjf_sw5_ar8\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T20:11:50.988452+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T20:11:51.014530+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T20:11:51.091895+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8109752/pexels-photo-8109752.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14322617/pexels-photo-14322617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19785488/pexels-photo-19785488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11803918/pexels-photo-11803918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38238246/pexels-photo-38238246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634701/pexels-photo-7634701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592172/pexels-photo-39592172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39521830/pexels-photo-39521830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397763/pexels-photo-16397763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29579303/pexels-photo-29579303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30491870/pexels-photo-30491870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12323685/pexels-photo-12323685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "06368f851a",
     "kind": "short",
     "channel": "Channel3",
