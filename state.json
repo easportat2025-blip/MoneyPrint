@@ -1,5 +1,161 @@
 [
   {
+    "id": "26a7496b58",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Smothered His Guests in Roses",
+    "idea": {
+      "title": "The Emperor Who Smothered His Guests in Roses",
+      "hook": "Roman Emperor Elagabalus invited his wealthiest nobles to an opulent banquet, but when the ceiling opened, his lavish gift turned into a suffocating death trap.",
+      "beats": [
+        "At just 14 years old, the erratic teenage emperor Elagabalus loved terrorizing Rome's aristocratic elite with cruel pranks.",
+        "During an extravagant feast, a concealed trapdoor in the ceiling released an overwhelming avalanche of violet and rose petals.",
+        "The guests laughed at first, but the flowers fell in such massive quantities that they were pinned to their dining couches.",
+        "Unable to dig themselves out from under the perfumed weight, several nobles suffocated to death while the emperor calmly watched."
+      ],
+      "keywords": [
+        "Roses of Heliogabalus painting",
+        "Elagabalus Roman emperor bust",
+        "ancient Roman banquet artwork",
+        "Roman imperial feast engraving",
+        "classical Rome architecture painting"
+      ],
+      "tags": [
+        "RomanHistory",
+        "AncientRome",
+        "HistoricalMysteries",
+        "Elagabalus",
+        "HistoryShorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Which Roman emperor executed his guests with flower petals?",
+        "search": "Elagabalus Roman emperor bust",
+        "caption": "Executed by flowers?"
+      },
+      {
+        "narration": "This bizarre act of lethal opulence cemented his legacy as one of Rome's most erratic teenage rulers.",
+        "search": "Roses of Heliogabalus painting",
+        "caption": "A lethal legacy of Roman decadence."
+      },
+      {
+        "narration": "In 218 AD, fourteen-year-old Elagabalus ascended the imperial throne, bringing unprecedented chaos to the empire.",
+        "search": "classical Rome architecture painting",
+        "caption": "Rome, 218 AD."
+      },
+      {
+        "narration": "Known for his eccentric behavior, the young ruler took pleasure in terrorizing Rome's wealthy senatorial class.",
+        "search": "Roman imperial feast engraving",
+        "caption": "Humiliating the Roman elite."
+      },
+      {
+        "narration": "For one specific summer banquet, Elagabalus devised a lavish prank designed to test the limits of his power.",
+        "search": "ancient Roman banquet artwork",
+        "caption": "An invitation to a deadly feast."
+      },
+      {
+        "narration": "He secretly modified the dining hall's ceiling, installing massive, concealed trapdoors loaded with tons of fresh flowers.",
+        "search": "Roman palace interior classical oil painting",
+        "caption": "Concealed ceiling trapdoors."
+      },
+      {
+        "narration": "As the unsuspecting nobles drank and feasted, the emperor gave a silent signal to release the ceiling latches.",
+        "search": "roman emperor on throne oil painting",
+        "caption": "The silent signal."
+      },
+      {
+        "narration": "An overwhelming avalanche of heavily scented violet and rose petals suddenly rained down, completely burying the dining couches.",
+        "search": "Roses of Heliogabalus painting detail",
+        "caption": "An avalanche of roses."
+      },
+      {
+        "narration": "At first, the Roman elite laughed at the prank, but the sheer volume of the heavy, perfumed petals quickly pinned them to their couches.",
+        "search": "Roses of Heliogabalus painting",
+        "caption": "The playful prank quickly turned into a suffocating trap."
+      },
+      {
+        "narration": "Unable to claw their way out of the dense floral mountain, several wealthy nobles suffocated to death while the teenage emperor calmly watched.",
+        "search": "Elagabalus Roman emperor bust",
+        "caption": "Several wealthy nobles suffocated under the perfumed weight."
+      },
+      {
+        "narration": "This deadly excess defined the brief, chaotic reign of Elagabalus, who was assassinated in 222 AD at just eighteen years old.",
+        "search": "classical Rome architecture painting",
+        "caption": "Elagabalus was assassinated in 222 AD, ending his chaotic reign."
+      },
+      {
+        "narration": "Can a shower of rose petals actually kill you?",
+        "search": "Roses of Heliogabalus painting oil canvas close up",
+        "caption": "Can roses actually kill you?"
+      }
+    ],
+    "error": "name 'h' is not defined",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-03T04:16:15.639188+00:00",
+    "updated_at": "2026-10-03T04:23:08.806015+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T04:17:44.259892+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "353 chars (cat 162 de vua 55s)",
+        "at": "2026-10-03T04:18:37.787506+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-03T04:18:40.283713+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T04:18:41.226367+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T04:20:40.020809+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T04:20:40.045627+00:00"
+      },
+      "render": {
+        "ok": false,
+        "detail": "thu 2 loi: name 'h' is not defined - doi 60s",
+        "at": "2026-10-03T04:21:49.208091+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "name 'h' is not defined",
+        "at": "2026-10-03T04:23:08.805996+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/23844583/pexels-photo-23844583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28937106/pexels-photo-28937106.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37928223/pexels-photo-37928223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353491/pexels-photo-38353491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30088416/pexels-photo-30088416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37978063/pexels-photo-37978063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581676/pexels-photo-35581676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2964362/pexels-photo-2964362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7235809/pexels-photo-7235809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6166211/pexels-photo-6166211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422576/pexels-photo-20422576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902536/pexels-photo-34902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b250d287ab",
     "kind": "short",
     "channel": "Channel3",
