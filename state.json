@@ -1,5 +1,191 @@
 [
   {
+    "id": "4bec33fc4d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The King Who Crowned His Lover's Corpse",
+    "idea": {
+      "title": "The King Who Crowned His Lover's Corpse",
+      "hook": "King Peter of Portugal dug up his murdered lover, crowned her rotting corpse, and forced his court to kiss her hand.",
+      "beats": [
+        "Prince Pedro fell deeply in love with Inês de Castro, but his father, the King, had her brutally assassinated to prevent a political scandal.",
+        "When Pedro ascended the throne, his grief transformed into a terrifying obsession for vengeance.",
+        "He hunted down the assassins and personally ripped their hearts out during a royal banquet.",
+        "In a final, macabre act of devotion, he exhumed Inês, dressed her in royal robes, and forced the guilty nobles to kiss her decomposing hand to swear allegiance."
+      ],
+      "keywords": [
+        "medieval king",
+        "royal crown",
+        "gothic skeleton",
+        "ancient portugal",
+        "throne room"
+      ],
+      "tags": [
+        "history",
+        "royalfamily",
+        "darkhistory",
+        "middleages",
+        "creepyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A medieval king once crowned his lover's exhumed corpse.",
+        "search": "coronation of ines de castro oil painting",
+        "caption": "A king crowned his lover's exhumed corpse."
+      },
+      {
+        "narration": "In 1357, Portuguese nobles were ordered to kneel and kiss the decaying hand of the deceased Inês de Castro.",
+        "search": "ines de castro tomb alcobaca monastery marble sculpture",
+        "caption": "Nobles were forced to kiss her decaying hand."
+      },
+      {
+        "narration": "Twelve years earlier, Crown Prince Pedro of Portugal fell in love with Inês, a noblewoman from the rival kingdom of Castile.",
+        "search": "pedro i of portugal portrait oil painting",
+        "caption": "Prince Pedro fell for Inês de Castro in the 1340s."
+      },
+      {
+        "narration": "Fearing Castilian influence over the succession, King Afonso IV viewed Pedro's unsanctioned union as an existential danger to the crown.",
+        "search": "king afonso iv of portugal engraving portrait",
+        "caption": "King Afonso IV saw their union as a threat."
+      },
+      {
+        "narration": "On January 7, 1355, King Afonso dispatched three royal councilors to Coimbra to assassinate Inês while Pedro was away on a hunt.",
+        "search": "murder of ines de castro historic oil painting",
+        "caption": "In 1355, royal assassins executed Inês in Coimbra."
+      },
+      {
+        "narration": "Devastated by the execution, Pedro immediately launched a brutal civil war against his father that ravaged northern Portugal.",
+        "search": "medieval siege 14th century illuminated manuscript battle",
+        "caption": "Pedro waged a brutal civil war against his father."
+      },
+      {
+        "narration": "When Afonso died in 1357, Pedro ascended the throne as King Pedro I and negotiated an extradition treaty to capture the assassins.",
+        "search": "pedro i king of portugal marble tomb statue alcobaca",
+        "caption": "Ascending the throne in 1357, Pedro hunted the killers."
+      },
+      {
+        "narration": "At a royal banquet in Santarém, Pedro had the executioners rip out the assassins' hearts through their chests and backs while he dined.",
+        "search": "medieval execution engraving 14th century historic",
+        "caption": "Pedro ripped the assassins' hearts out before the court."
+      },
+      {
+        "narration": "In 1360, Pedro announced he had secretly wed Inês before her assassination, officially proclaiming her the lawful Queen of Portugal. He ordered her body unearthed from her tomb at Santa Clara in Coimbra to receive full royal honors.",
+        "search": "Ines de Castro exhumation historical oil painting",
+        "caption": "Pedro proclaimed Inês lawful queen and ordered her exhumation in 1360."
+      },
+      {
+        "narration": "Court chronicles recorded that Pedro placed her decaying corpse upon the throne in royal robes, set a crown upon her skull, and compelled the nobility to kiss her decomposing hand.",
+        "search": "Coronation of Ines de Castro corpse historical oil painting",
+        "caption": "Nobles were forced to kiss the dead queen's rotting hand."
+      },
+      {
+        "narration": "Pedro reburied Inês at the royal Monastery of Alcobaça in a masterwork marble tomb facing his own, so they would rise together at the final resurrection.",
+        "search": "Alcobaca monastery tomb Pedro Ines medieval marble sculpture",
+        "caption": "Their facing tombs in Alcobaça await the end of the world."
+      },
+      {
+        "narration": "One medieval king crowned his lover’s rotting corpse Queen.",
+        "search": "coronation of ines de castro oil painting",
+        "caption": "A dead woman was crowned Queen of Portugal."
+      }
+    ],
+    "error": "",
+    "youtube_id": "li7V5JUme4s",
+    "youtube_url": "https://www.youtube.com/watch?v=li7V5JUme4s",
+    "created_at": "2026-10-03T09:21:00.719618+00:00",
+    "updated_at": "2026-10-03T09:24:23.005468+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T09:21:27.114874+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "355 chars (cat 175 de vua 55s)",
+        "at": "2026-10-03T09:23:05.953746+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-03T09:23:08.377856+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T09:23:09.379651+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T09:23:39.540624+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T09:23:39.564561+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 7467406 bytes",
+        "at": "2026-10-03T09:24:17.638997+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=li7V5JUme4s",
+        "at": "2026-10-03T09:24:19.461976+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZFSmTU87Q-e-J0mx5Df-GdwPrd1nehgh00ur9HRT-fEORIqFNT",
+        "at": "2026-10-03T09:24:20.390745+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T09:24:21.913155+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T09:24:22.128644+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"li7V5JUme4s\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T09:24:22.910539+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T09:24:22.933926+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T09:24:23.005460+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39019724/pexels-photo-39019724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32878813/pexels-photo-32878813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34776057/pexels-photo-34776057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37978956/pexels-photo-37978956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718531/pexels-photo-6718531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9459163/pexels-photo-9459163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31589978/pexels-photo-31589978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6307895/pexels-photo-6307895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12268359/pexels-photo-12268359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39019714/pexels-photo-39019714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24702584/pexels-photo-24702584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2258795/pexels-photo-2258795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "fbb00b857d",
     "kind": "short",
     "channel": "Channel2",
