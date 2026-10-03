@@ -1,8 +1,8 @@
 name: long
 
 on:
-  schedule:
-    - cron: "0 15 * * *"
+  # ACC A (ReZain) tam khoa: YouTube refresh token da bi thu hoi (invalid_grant).
+  # Mo lai bang cach bo comment dong nay.
   repository_dispatch:
     types: [long-video]
   workflow_dispatch:

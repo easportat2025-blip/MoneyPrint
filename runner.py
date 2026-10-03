@@ -242,7 +242,7 @@ def run_one(kind: str = "short") -> dict:
         )
 
         state.update(rec_id, status="rendering")
-        title_text = idea.get("title", "ReZain")
+        title_text = idea.get("title") or config.CHANNEL_NAME
         final, srt_path = attempt(
             rec_id,
             "render",

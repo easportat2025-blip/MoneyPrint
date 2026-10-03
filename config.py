@@ -62,6 +62,28 @@ CHANNEL_NAMES = {
     "3": CHANNEL_3_NAME,
 }
 
+# Handle kiem tra tren YouTube - dung cho watermark trong moi video.
+# Sai handle = ro ri cong ty khac len video cua minh (bug da lam watermark @ReZain
+# lot sang ca acc 2 va acc 3).
+CHANNEL_HANDLES = {
+    "1": env("CHANNEL_1_HANDLE", "@rezain-com"),
+    "2": env("CHANNEL_2_HANDLE", "@seigh"),
+    "3": env("CHANNEL_3_HANDLE", "@rescey-s4y"),
+}
+WATERMARK = env("WATERMARK", "") or CHANNEL_HANDLES.get(CHANNEL, "")
+
+# Ngan sach mo tao chay qua dong deu de vi giong noi dai khong ai xem het.
+# Do duoi day tu 57 video That 2/10:
+#   acc2 (seigh)  <30s: 864 views/video | 30-36s: 631 | 36-40s: 403
+#                 40-45s: 57 views/video  <- tuyet doi
+#   acc3 (rescey) 36-40s la nho, nen giu ngan rong hon.
+SHORT_MAX_SEC_BY_SLOT = {
+    "1": 40,
+    "2": 38,
+    "3": 42,
+}
+SHORT_MAX_SEC = int(env("SHORT_MAX_SEC", "0")) or SHORT_MAX_SEC_BY_SLOT.get(CHANNEL, 42)
+
 DEFAULT_NICHE = {
     "1": "explained - how everyday technology and science actually works - sleep, memory, money, internet, phones, human body, physics of daily life, psychology of habits",
     "2": "human history documentaries - ancient empires, famous wars, kings queens and historical figures, mysteries of lost civilizations",
@@ -132,7 +154,6 @@ LONG_TARGET_SEC = int(env("LONG_TARGET_SEC", "420"))
 
 SHORT_FPS = 30
 SHORT_W, SHORT_H = 1080, 1920
-SHORT_MAX_SEC = 55
 SHORT_SCENE_SEC = 3
 
 LONG_FPS = 24

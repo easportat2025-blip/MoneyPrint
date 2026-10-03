@@ -388,6 +388,44 @@ ANIM_SUFFIX = [
 ]
 
 
+IRRELEVANT_HINTS = (
+    "pachinko", "pachislot", "slot machine", "casino", "vending machine",
+    "arcade", "anime figure", "cosplay", "lego", "minecraft",
+)
+
+
+def _tokens(text: str) -> set:
+    import re
+
+    stop = {
+        "a", "an", "the", "of", "in", "on", "and", "or", "to", "for", "with",
+        "at", "by", "from", "is", "was", "were", "are", "be", "as", "that",
+        "this", "it", "his", "her", "their", "its", "an", "old", "new",
+        "khong", "va", "co", "la", "cac", "mot", "nhung", "khi", "theo",
+        "trong", "cho", "cua", "bi", "khong", "nguoi", "mot", "khi", "vao",
+    }
+    return {w for w in re.findall(r"[a-z0-9]{4,}", (text or "").lower()) if w not in stop}
+
+
+def _relevant(query: str, meta: str) -> bool:
+    """Tra ve False neu hinh kiem duoc co lien quan gi voi scene hay khong.
+
+    Video 'uong nuoc sai cach' truoc day lap anh lam banh, nha 3D, may pachinko.
+    Nguoi xem thay hoang khong lien quan gi den chu de -> khong like, khong
+    comment, khong xem tiep. Day la ly do like-rate acc 3 chi 0.85%.
+    """
+    if not meta:
+        return True
+    low = meta.lower()
+    for bad in IRRELEVANT_HINTS:
+        if bad in low:
+            return False
+    q, m = _tokens(query), _tokens(meta)
+    if not q or not m:
+        return True
+    return bool(q & m)
+
+
 def fetch_scene(
     query: str,
     scene_dir: Path,
@@ -406,14 +444,15 @@ def fetch_scene(
     if dest.exists() and dest.stat().st_size > 5000:
         return dest, False, "", ""
     if not stills:
-        try:
-            got_vid, vid_url = from_pexels_video(
-                query, vertical, vid_dest, need_sec, skip, page
-            )
-        except Exception:
-            got_vid, vid_url = None, ""
-        if got_vid:
-            return got_vid, True, vid_url, ""
+        for attempt in range(3):
+            try:
+                got_vid, vid_url = from_pexels_video(
+                    query, vertical, vid_dest, need_sec, skip, page + attempt
+                )
+            except Exception:
+                got_vid, vid_url = None, ""
+            if got_vid:
+                return got_vid, True, vid_url, ""
         try:
             got_pbv, pbv_url = from_pixabay_video(
                 query, vertical, vid_dest, need_sec, skip
@@ -427,7 +466,10 @@ def fetch_scene(
     except Exception:
         hit = None
     if hit and hit.get("url"):
-        if hit.get("type") == "video" and stills:
+        meta = hit.get("title", "") + " " + hit.get("tags", "")
+        if not _relevant(query, meta):
+            hit = None
+        elif hit.get("type") == "video" and stills:
             hit = None
         else:
             dest_b = scene_dir / f"{slug}_bank"
@@ -519,10 +561,18 @@ def fetch_all(
         if config.kill_requested():
             raise RuntimeError("kill switch on")
         query = s["search"] + suffixes[i % len(suffixes)]
-        page = 1 + (i % 3)
-        p = fetch_scene(
-            query, cache_dir / f"scene_{i:02d}", vertical, scene_sec, skip, page
-        )
+        # ha cap do khop: thu 3 trang cho cung mot scene truoc khi bo qua
+        for attempt in range(3):
+            p = fetch_scene(
+                query,
+                cache_dir / f"scene_{i:02d}_{attempt}",
+                vertical,
+                scene_sec,
+                skip,
+                1 + ((i + attempt) % 3),
+            )
+            if not str(p[0]).name.startswith("fallback_"):
+                break
         if p[2]:
             skip.add(p[2])
         paths.append(p)

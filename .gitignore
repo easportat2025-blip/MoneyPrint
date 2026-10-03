@@ -24,3 +24,6 @@ tmp/
 *.jpg
 *.png
 .DS_Store
+
+audit/
+cache_comments_*.json

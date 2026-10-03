@@ -187,29 +187,63 @@ def _clean(w: str) -> str:
     return w.replace("{", "").replace("}", "").strip()
 
 
+def _chunk_words(words: list, max_words: int = 7, max_sec: float = 2.6) -> list:
+    """Chia caption theo cum chu khong cat giua giua mang nghia.
+
+    Ban cu chia cung 4 tu nen ra manh nhu "về chúng ta. Hàng" / "độc đang bán phá"
+    - doc khong hieu, va text be nho khong ai doc. Bay gio moi nhan dung 7 tu
+    hoac 2.6s, va khong bao gio cat giua mot cum.
+    """
+    out, cur = [], []
+    for w in words:
+        cur.append(w)
+        span = cur[-1]["end"] - cur[0]["start"]
+        full = len(" ".join(x["w"] for x in cur))
+        if len(cur) >= max_words or span >= max_sec:
+            # khong cat ngay sau dau cham - do la het mot y
+            joined = " ".join(x["w"] for x in cur).rstrip(".,;:!?")
+            if len(cur) >= 3 and not joined.endswith((".", "!", "?", "…")):
+                out.append(cur)
+                cur = []
+    if cur:
+        out.append(cur)
+    return out
+
+
 def build_karaoke(
     sentences: list, path: Path, kind: str, cap: float | None = None
 ) -> Path:
     if kind == "short":
-        size, margin = 72, 600
+        size, margin, box = 104, 430, 1
     else:
-        size, margin = 60, 140
+        size, margin, box = 76, 150, 1
     words = _words_from_sentences(sentences, cap)
+    groups = _chunk_words(words)
     path.parent.mkdir(parents=True, exist_ok=True)
+    if box:
+        style = (
+            f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
+            f"&H10000000,&H78000000,-1,0,0,0,100,100,0,0,3,10,0,2,"
+            f"70,70,{margin},1\n\n"
+        )
+    else:
+        style = (
+            f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
+            f"&H90000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,0,2,"
+            f"40,40,{margin},1\n\n"
+        )
     header = (
         "[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\n\n"
         "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, "
         "SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, "
         "StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, "
         "Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
-        f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
-        f"&H90000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,{margin},1\n\n"
-        "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, "
+        + style
+        + "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, "
         "MarginV, Effect, Text\n"
     )
     lines = [header]
-    for i in range(0, len(words), 4):
-        chunk = words[i : i + 4]
+    for chunk in groups:
         tags = "".join(
             "{\\k%d}%s " % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
             for x in chunk
@@ -220,6 +254,18 @@ def build_karaoke(
         )
     path.write_text("".join(lines), encoding="utf-8")
     return path
+
+
+def _two_lines(chunk: list) -> str:
+    """Chu thuong cho 1 den 2 dong, khong vuot khung 1080px."""
+    txt = " ".join(_clean(x["w"]) for x in chunk)
+    if len(txt) <= 20:
+        return txt
+    half = len(txt) // 2
+    for i, ch in enumerate(txt):
+        if i >= half - 8 and ch == " ":
+            return txt[:i] + r"\N" + txt[i + 1 :]
+    return txt
 
 
 def build_burst_srt(
@@ -236,8 +282,7 @@ def build_burst_srt(
     path.parent.mkdir(parents=True, exist_ok=True)
     blocks = []
     n = 1
-    for i in range(0, len(words), 4):
-        chunk = words[i : i + 4]
+    for chunk in _chunk_words(words):
         text = " ".join(_clean(x["w"]) for x in chunk)
         blocks.append(f"{n}\n{ts(chunk[0]['start'])} --> {ts(chunk[-1]['end'])}\n{text}\n")
         n += 1
@@ -276,11 +321,14 @@ def mux_ass(
     ass: Path,
     out: Path,
     max_sec: float | None = None,
+    hook_text: str = "",
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     ass_esc = str(ass).replace(":", "\\:").replace("'", "")
     base = f"ass='{ass_esc}',format=yuv420p"
     vfs = [
+        f"{fx_mod.hook_vf(hook_text, fx_mod.FONT)},{fx_mod.watermark_vf()},{base}",
+        f"{fx_mod.hook_vf(hook_text, fx_mod.FONT)},{fx_mod.watermark_fallback()},{base}",
         f"{fx_mod.watermark_vf()},{base}",
         f"{fx_mod.watermark_fallback()},{base}",
         base,
@@ -334,22 +382,28 @@ def mux_subs(
     out: Path,
     kind: str,
     max_sec: float | None = None,
+    hook_text: str = "",
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     if kind == "short":
-        margin = 600
-        size = 64
+        margin = 430
+        size = 96
     else:
-        margin = 140
-        size = 58
+        margin = 150
+        size = 70
     style = (
         "FontName=DejaVu Sans,FontSize={sz},PrimaryColour=&HFFFFFF,"
-        "OutlineColour=&H90000000,BorderStyle=1,Outline=3,Shadow=0,"
+        "OutlineColour=&H90000000,BorderStyle=1,Outline=4,Shadow=0,"
         "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
     )
     srt_esc = str(srt).replace(":", "\\:").replace("'", "")
     base = f"subtitles='{srt_esc}':force_style='{style}',format=yuv420p"
+    hook = fx_mod.hook_vf(hook_text, fx_mod.FONT)
+    hook_fb = fx_mod.hook_fallback(hook_text)
     vfs = [
+        f"{hook},{fx_mod.watermark_vf()},{base}",
+        f"{hook},{fx_mod.watermark_fallback()},{base}",
+        f"{hook_fb},{base}",
         f"{fx_mod.watermark_vf()},{base}",
         f"{fx_mod.watermark_fallback()},{base}",
         base,
@@ -403,6 +457,7 @@ def mux_xfade(
     out: Path,
     clip_dur: float,
     max_sec: float | None = None,
+    hook_text: str = "",
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     n = len(clips)
@@ -411,6 +466,9 @@ def mux_xfade(
         inputs += ["-i", str(c)]
     inputs += ["-i", str(audio)]
     vfs = [
+        f"{fx_mod.hook_vf(hook_text, fx_mod.FONT)},{fx_mod.watermark_vf()},{subfilter},format=yuv420p",
+        f"{fx_mod.hook_vf(hook_text, fx_mod.FONT)},{fx_mod.watermark_fallback()},{subfilter},format=yuv420p",
+        f"{fx_mod.hook_fallback(hook_text)},{fx_mod.watermark_vf()},{subfilter},format=yuv420p",
         f"{fx_mod.watermark_vf()},{subfilter},format=yuv420p",
         f"{fx_mod.watermark_fallback()},{subfilter},format=yuv420p",
         f"{subfilter},format=yuv420p",
@@ -567,7 +625,7 @@ def assemble(
             config.SHORT_W,
             config.SHORT_H,
             config.SHORT_FPS,
-            55.0,
+            float(config.SHORT_MAX_SEC),
         )
     else:
         w, h, fps, cap = (
@@ -603,23 +661,40 @@ def assemble(
         cc = write_srt(scenes, durs, workdir / "cc.srt")
         srt_esc = str(cc).replace(":", "\\:").replace("'", "")
         if kind == "short":
-            margin, size = 600, 64
+            margin, size = 430, 96
         else:
-            margin, size = 140, 58
+            margin, size = 150, 70
         style = (
             "FontName=DejaVu Sans,FontSize={sz},PrimaryColour=&HFFFFFF,"
-            "OutlineColour=&H90000000,BorderStyle=1,Outline=3,Shadow=0,"
+            "OutlineColour=&H90000000,BorderStyle=1,Outline=4,Shadow=0,"
             "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
         )
         subfilter = f"subtitles='{srt_esc}':force_style='{style}'"
+    hook_text = _hook_headline(title, scenes)
     final = workdir / "final.mp4"
     hard_cap = (cap + 3.0) if cap else None
     if n > 1:
-        mux_xfade(clips, audio, subfilter, final, d, max_sec=hard_cap)
+        mux_xfade(clips, audio, subfilter, final, d, max_sec=hard_cap, hook_text=hook_text)
     else:
-        mux_ass(clips[0], audio, subs_path if sentences else cc, final, max_sec=hard_cap)
+        mux_ass(clips[0], audio, subs_path if sentences else cc, final, max_sec=hard_cap, hook_text=hook_text)
     for c in clips:
         c.unlink(missing_ok=True)
     if kind == "short":
         verify_short(final)
     return final, cc
+
+
+def _hook_headline(title: str, scenes: list) -> str:
+    """Tieu de 3 giay dau: lay phan 'dieu le do' cua tieu de video.
+
+    Video nao cung bat dau bang mot cuc hinh anh trung tinh, nhin khong ra
+    chuyen gi dang xay ra. Tieu de lon 3 giay dau la thu giu nguoi xem lai.
+    """
+    t = " ".join(str(title or "").split())
+    t = t.split(" - ")[0].strip()
+    if not t:
+        return ""
+    words = t.split()
+    if len(words) > 9:
+        t = " ".join(words[:9])
+    return t.upper() if t.isascii() else t
