@@ -1,5 +1,191 @@
 [
   {
+    "id": "7498f8d70d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Last Roman Hero Betrayed by His Best General",
+    "idea": {
+      "title": "The Last Roman Hero Betrayed by His Best General",
+      "hook": "Emperor Majorian almost saved the Western Roman Empire from ruin, but a shocking betrayal by his closest general sealed Rome's fate forever.",
+      "beats": [
+        "Majorian took the throne in 457 AD when Rome was collapsing, launching brilliant campaigns to reclaim Spain and Gaul.",
+        "He reformed corrupt laws, rebuilt the navy, and was hailed as a savior by his people.",
+        "Terrified of his rising popularity, his close friend and general Ricimer staged a sudden military coup.",
+        "Majorian was arrested, tortured, stripped of his crown, and beheaded, ending Rome's last chance of survival."
+      ],
+      "keywords": [
+        "Roman emperor bust",
+        "ancient roman coins",
+        "Ricimer portrait",
+        "Rome ruins painting",
+        "historical execution engraving"
+      ],
+      "tags": [
+        "roman empire",
+        "ancient history",
+        "majorian",
+        "betrayal",
+        "history documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Which emperor's betrayal guaranteed the total collapse of Rome?",
+        "search": "ancient Rome ruins oil painting",
+        "caption": "The betrayal that ended Rome."
+      },
+      {
+        "narration": "In 457 AD, the Western Roman Empire was on the brink of total destruction, shattered by invasions and internal corruption.",
+        "search": "fifth century Roman Empire map engraving",
+        "caption": "Rome was collapsing in 457 AD."
+      },
+      {
+        "narration": "Julius Valerius Majorianus, known as Majorian, took the throne to launch a desperate restoration of the dying empire.",
+        "search": "Emperor Majorian Roman coin face close up",
+        "caption": "Emperor Majorian seized the throne."
+      },
+      {
+        "narration": "He personally led brilliant military campaigns, successfully reclaiming lost imperial territories in Gaul and Hispania.",
+        "search": "Roman army battle in Gaul oil painting",
+        "caption": "Reclaiming lost imperial territories."
+      },
+      {
+        "narration": "To secure the future, Majorian rebuilt the Roman navy and passed sweeping laws to protect citizens from corrupt tax collectors.",
+        "search": "ancient Roman senate assembly engraving",
+        "caption": "Rebuilding the navy and laws."
+      },
+      {
+        "narration": "But his rapid rise to popularity terrified his own master of soldiers, the powerful Germanic general Ricimer.",
+        "search": "Ricimer Roman general portrait engraving",
+        "caption": "Ricimer feared his rising power."
+      },
+      {
+        "narration": "In August 461 AD, Ricimer betrayed his close friend, instigating a military mutiny that trapped the returning emperor.",
+        "search": "Roman soldiers arresting emperor historical illustration",
+        "caption": "A sudden military coup."
+      },
+      {
+        "narration": "Stripped of his crown, tortured, and beheaded, Majorian's death ended the Western Empire's last true chance of survival.",
+        "search": "historical execution of Roman emperor engraving",
+        "caption": "Rome's last hope was executed."
+      },
+      {
+        "narration": "Following Majorian's execution on August 7, 461 AD, Ricimer installed powerless puppet emperors while Rome's centralized authority shattered.",
+        "search": "ancient roman gold coin solidus majorian macro",
+        "caption": "Ricimer installed puppet rulers after executing Majorian in 461 AD."
+      },
+      {
+        "narration": "Without Majorian's military leadership, reclaimed territories in Gaul and Hispania permanently fractured into independent barbarian kingdoms.",
+        "search": "western roman empire collapse fifth century map engraving",
+        "caption": "Lost territories broke away forever without Majorian's command."
+      },
+      {
+        "narration": "Just fifteen years later in 476 AD, Western Rome collapsed entirely, proving Majorian was indeed its final savior.",
+        "search": "sack of rome 476 ad oil painting",
+        "caption": "Rome fell forever in 476 AD—its last hero betrayed."
+      },
+      {
+        "narration": "One betrayal ended the Roman Empire forever.",
+        "search": "ancient Rome ruins oil painting",
+        "caption": "One betrayal ended the Roman Empire forever."
+      }
+    ],
+    "error": "",
+    "youtube_id": "lLcFkdsuFcg",
+    "youtube_url": "https://www.youtube.com/watch?v=lLcFkdsuFcg",
+    "created_at": "2026-10-03T22:31:59.017587+00:00",
+    "updated_at": "2026-10-03T22:36:15.573653+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T22:32:48.414925+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "296 chars (cat 362 de vua 55s)",
+        "at": "2026-10-03T22:33:41.214190+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "20.9s en-US-GuyNeural 5 cau",
+        "at": "2026-10-03T22:33:43.653682+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T22:33:44.594073+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T22:35:33.908902+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T22:35:33.934916+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 20.9s 8296596 bytes",
+        "at": "2026-10-03T22:36:08.600309+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=lLcFkdsuFcg",
+        "at": "2026-10-03T22:36:10.237789+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYDNh0oPFJbJLw5-7cDQguxNWM6zj0HY5BPqpazktgCB0a3uI96",
+        "at": "2026-10-03T22:36:11.550376+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T22:36:13.403192+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T22:36:13.745254+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"lLcFkdsuFcg\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T22:36:15.468914+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T22:36:15.495317+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T22:36:15.573644+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35626657/pexels-photo-35626657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31502205/pexels-photo-31502205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19486235/pexels-photo-19486235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125800/pexels-photo-38125800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581647/pexels-photo-35581647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237019/pexels-photo-38237019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11097743/pexels-photo-11097743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224012/pexels-photo-38224012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6765370/pexels-photo-6765370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839556/pexels-photo-35839556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15088869/pexels-photo-15088869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38041900/pexels-photo-38041900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "aa5cd3d05f",
     "kind": "short",
     "channel": "Channel2",
