@@ -1,5 +1,182 @@
 [
   {
+    "id": "69207ec613",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ về ánh sáng xanh từ màn hình tối",
+    "idea": {
+      "title": "Sự thật đáng sợ về ánh sáng xanh từ màn hình tối",
+      "hook": "Bạn nghĩ chế độ tối trên điện thoại đang bảo vệ mắt? Sự thật là nó đang lừa não bạn thức khuya gấp đôi.",
+      "beats": [
+        "Màn hình tối làm giảm chói nhưng lại tăng độ tương phản khiến mắt điều tiết nhiều hơn.",
+        "Não bộ nhận diện sai lệch quang phổ và tiếp tục ức chế hormone buồn ngủ melatonin.",
+        "Hệ quả là bạn lướt điện thoại vô thức lâu hơn mà không hề cảm nhận được sự mỏi mệt."
+      ],
+      "keywords": [
+        "dark space stars galaxy cosmos nebula"
+      ],
+      "tags": [
+        "channel3",
+        "congnghe",
+        "suthat",
+        "meohay",
+        "khoahoc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ chế độ tối đang bảo vệ mắt?",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Chế độ tối bảo vệ mắt bạn?"
+      },
+      {
+        "narration": "Thực tế nó đang đánh lừa não bộ mỗi đêm.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Sự thật đáng sợ đằng sau màn hình tối"
+      },
+      {
+        "narration": "Màn hình tối giảm chói nhưng tăng độ tương phản.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Tăng độ tương phản làm mắt mỏi hơn"
+      },
+      {
+        "narration": "Điều này bắt mắt phải điều tiết liên tục không ngừng.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Mắt điều tiết liên tục không nghỉ"
+      },
+      {
+        "narration": "Não bộ nhận diện sai lệch tín hiệu quang phổ.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Não bộ nhận diện sai lệch quang phổ"
+      },
+      {
+        "narration": "Hormone buồn ngủ melatonin bị ức chế mạnh mẽ.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Ức chế hormone buồn ngủ melatonin"
+      },
+      {
+        "narration": "Bạn lướt điện thoại vô thức lâu hơn nhiều.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Lướt điện thoại vô thức lâu hơn"
+      },
+      {
+        "narration": "Và hoàn toàn không cảm nhận được sự mỏi mệt.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Không cảm nhận được sự mỏi mệt"
+      },
+      {
+        "narration": "Đó là lúc vùng não kiểm soát thời gian bị lừa tuyệt đối.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Não bộ bị lừa tuyệt đối"
+      },
+      {
+        "narration": "Đồng hồ sinh học tưởng rằng trời vẫn đang là ban ngày.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Tưởng nhầm vẫn là ban ngày"
+      },
+      {
+        "narration": "Cơ thể ngừng sản xuất hoàn toàn hormone tạo giấc ngủ sâu.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Ngừng tiết hormone giấc ngủ"
+      },
+      {
+        "narration": "Hệ quả là bạn mất ngủ kinh niên mà không rõ nguyên nhân.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Mất ngủ kinh niên vô cớ"
+      },
+      {
+        "narration": "Hãy tắt điện thoại trước khi ngủ một tiếng để bảo vệ não bộ.",
+        "search": "dark space stars galaxy cosmos nebula",
+        "caption": "Tắt điện thoại trước khi ngủ"
+      }
+    ],
+    "error": "",
+    "youtube_id": "BytN_bDr2zg",
+    "youtube_url": "https://www.youtube.com/watch?v=BytN_bDr2zg",
+    "created_at": "2026-10-03T04:52:50.494216+00:00",
+    "updated_at": "2026-10-03T04:56:58.255711+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-03T04:55:00.238081+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "412 chars",
+        "at": "2026-10-03T04:56:03.244835+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.5s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-10-03T04:56:09.477434+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T04:56:10.146142+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-03T04:56:20.805024+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-03T04:56:20.818682+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.5s 23313366 bytes",
+        "at": "2026-10-03T04:56:54.206620+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=BytN_bDr2zg",
+        "at": "2026-10-03T04:56:56.790442+00:00"
+      },
+      "captions": {
+        "ok": false,
+        "detail": "bo qua: token thieu scope force-ssl (login lai de bat)",
+        "at": "2026-10-03T04:56:57.035388+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T04:56:58.189968+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "0/10000 used today",
+        "at": "2026-10-03T04:56:58.204147+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T04:56:58.255703+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39267198/16707610_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39863062/17002349_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39866661/17003654_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30450505/13049988_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/33413565/14222487_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/34912823/14789361_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30450505/13049988_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35288610/14950089_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34870216/14776318_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/27741118/12215868_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39859850/17002281_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/19182136/19182136-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/30450505/13049988_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "ea1a60f000",
     "kind": "short",
     "channel": "Channel2",
