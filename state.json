@@ -1,5 +1,191 @@
 [
   {
+    "id": "fbb00b857d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Traitor Who Lost His Skin for a Crown",
+    "idea": {
+      "title": "The Traitor Who Lost His Skin for a Crown",
+      "hook": "In 522 BC, a nobleman betrayed his emperor to claim a city, but his ultimate reward was horrifyingly unexpected.",
+      "beats": [
+        "During a massive rebellion against King Darius of Persia, a noble named Intaphrenes helped overthrow the usurper Bardiya.",
+        "Convinced of his untouchable status, he barged into the royal palace and brutally mutilated two royal guards who barred his way.",
+        "Darius suspected an imminent coup and arrested Intaphrenes along with his entire male lineage.",
+        "The emperor offered his wife the choice to save just one family member; she chose her brother, leaving the traitor and his sons to excruciating execution."
+      ],
+      "keywords": [
+        "Darius the Great engraving",
+        "Persepolis relief ancient persia",
+        "Persian guards bas relief",
+        "Achaemenid Empire historical portrait",
+        "ancient execution drawing"
+      ],
+      "tags": [
+        "#history",
+        "#ancientpersia",
+        "#weirdhistory",
+        "#betrayal",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 522 BC, one Persian noble's betrayal cost his entire family their lives.",
+        "search": "Darius the Great engraving",
+        "caption": "One Persian noble's betrayal cost his family everything."
+      },
+      {
+        "narration": "During a massive rebellion in the Achaemenid Empire, the noble Intaphrenes helped Darius the Great overthrow the usurper Bardiya.",
+        "search": "Persepolis relief ancient persia",
+        "caption": "Intaphrenes helped Darius the Great seize the Persian throne."
+      },
+      {
+        "narration": "Believing his role in the coup made him untouchable, Intaphrenes demanded immediate access to the new emperor's private quarters.",
+        "search": "Achaemenid Empire historical portrait engraving",
+        "caption": "Intaphrenes believed he was untouchable after the coup."
+      },
+      {
+        "narration": "When two royal palace guards barred his way, the outraged nobleman drew his sword and brutally mutilated them.",
+        "search": "Persian guards bas relief",
+        "caption": "He brutally mutilated two royal guards who stopped him."
+      },
+      {
+        "narration": "King Darius the Great, fearing an imminent coup by his former ally, immediately ordered the arrest of Intaphrenes.",
+        "search": "Darius the Great Persian king statue bust",
+        "caption": "King Darius feared a coup and ordered his arrest."
+      },
+      {
+        "narration": "To completely eliminate the threat, Darius also imprisoned every male member of Intaphrenes's lineage.",
+        "search": "ancient execution drawing engraving",
+        "caption": "Darius arrested Intaphrenes and his entire male lineage."
+      },
+      {
+        "narration": "Moved by the tears of Intaphrenes's wife, the emperor offered her a cruel choice: she could save just one male relative from death.",
+        "search": "ancient Persian woman illustration engraving",
+        "caption": "Darius offered the wife a choice to save one relative."
+      },
+      {
+        "narration": "Instead of her husband or sons, she chose to save her brother, leaving the traitor and his children to face execution.",
+        "search": "ancient Persian execution relief",
+        "caption": "She chose her brother, leaving her husband to die."
+      },
+      {
+        "narration": "King Darius the Great respected her logical choice, sparing her brother, but ordered the immediate execution of Intaphrenes and his remaining sons.",
+        "search": "ancient Persian execution engraving",
+        "caption": "Darius spared the brother but condemned the traitor's lineage."
+      },
+      {
+        "narration": "In 522 BC, the Persian executioners carried out the sentence, flaying the conspirators to serve as a gruesome warning to the empire.",
+        "search": "ancient flaying punishment historical drawing",
+        "caption": "The brutal execution served as a warning to future rebels."
+      },
+      {
+        "narration": "Intaphrenes's quest for the Persian crown ended not with a throne, but with his skin displayed on a judgment seat, securing Darius's absolute rule.",
+        "search": "Persepolis relief ancient persia stone carving",
+        "caption": "A traitor’s skin became the foundation of an empire."
+      },
+      {
+        "narration": "In ancient Persia, one nobleman’s quest for the crown cost his entire family their lives.",
+        "search": "Darius the Great engraving",
+        "caption": "One noble's betrayal destroyed his entire family."
+      }
+    ],
+    "error": "",
+    "youtube_id": "vdVnnQX4sZ4",
+    "youtube_url": "https://www.youtube.com/watch?v=vdVnnQX4sZ4",
+    "created_at": "2026-10-03T06:17:18.314139+00:00",
+    "updated_at": "2026-10-03T06:23:05.229647+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-03T06:20:14.306885+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "372 chars (cat 226 de vua 55s)",
+        "at": "2026-10-03T06:20:41.278110+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.5s en-US-GuyNeural 5 cau",
+        "at": "2026-10-03T06:20:43.549756+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-03T06:20:44.579056+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-03T06:22:20.968778+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-03T06:22:20.992869+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.5s 8989048 bytes",
+        "at": "2026-10-03T06:22:59.762038+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=vdVnnQX4sZ4",
+        "at": "2026-10-03T06:23:01.881123+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab97UblBo_oBg6HjokSgfBuD3nGK4dWycZBL7-p6hpzUPvNhc_R",
+        "at": "2026-10-03T06:23:02.865580+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-03T06:23:04.135771+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-03T06:23:04.373235+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"vdVnnQX4sZ4\\\"\",\n    \"errors\"",
+        "at": "2026-10-03T06:23:05.135310+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-03T06:23:05.158877+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-03T06:23:05.229640+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/9473646/pexels-photo-9473646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158649/pexels-photo-33158649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15253810/pexels-photo-15253810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11586274/pexels-photo-11586274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564808/pexels-photo-12564808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39544425/pexels-photo-39544425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39488055/pexels-photo-39488055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158648/pexels-photo-33158648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36324192/pexels-photo-36324192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21633185/pexels-photo-21633185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28354546/pexels-photo-28354546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13596107/pexels-photo-13596107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c433a724e8",
     "kind": "short",
     "channel": "Channel3",
