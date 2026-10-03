@@ -19,12 +19,17 @@ Structure the scenes as a retention arc:
 
 For each scene return:
 - narration: 1-2 sentences of voiceover ({lang}, factual, no fluff)
-- search: one stock-media search query ({search_lang}, concrete visual nouns,
-  match the MOOD: dark, vast, dramatic)
+- search: one stock-media search query ({search_lang}, concrete visual nouns).
+  Describe what is literally ON SCREEN. Every scene MUST have a DIFFERENT
+  search string - never repeat the same query across scenes.
 - caption: on-screen caption max 12 words
 
 Return JSON: {{"scenes":[{{"narration","search","caption"}}]}}
 """
+
+# KHONG duoc dung "dark, vast, dramatic" o prompt chung. Cau do day day
+# Gemini xuat "dark space stars galaxy cosmos nebula" cho ca 13 scene cua
+# video ve anh sang xanh man hinh tivi.
 
 
 HISTORY_RULES = """HISTORY MODE (strict):
@@ -111,19 +116,40 @@ def _one_batch(client, base: dict, take: int, offset: int, total: int, prev: lis
     return clean
 
 
+def _niche_mode() -> str:
+    """history | lifestyle | general.
+
+    Phai lay theo CHANNEL, khong do chuoi trong NICHE: niche cua acc 3 viet
+    bang tieng Viet ("doi song tieng Viet... hoat hinh") nen ham "everyday
+    life" / "animation" khong bao gio khop -> slot 3 im lang dung LIFESTYLE_RULES
+    va roi vao prompt chung.
+    """
+    explicit = config.env("NICHE_MODE", "").strip().lower()
+    if explicit in ("history", "lifestyle", "general"):
+        return explicit
+    by_slot = {"1": "general", "2": "history", "3": "lifestyle"}
+    mode = by_slot.get(config.CHANNEL, "")
+    if mode:
+        return mode
+    niche = config.NICHE.lower()
+    if "history" in niche:
+        return "history"
+    if "everyday life" in niche or "animation" in niche or "hoat hinh" in niche:
+        return "lifestyle"
+    return "general"
+
+
 def research(idea: dict, duration: int, scene_sec: int) -> list:
     import math
 
     n_scenes = max(3, math.ceil(duration / scene_sec))
     client = gemini_client.GeminiClient()
-    niche = config.NICHE.lower()
-    history = "history" in niche
-    lifestyle = ("everyday life" in niche) or ("animation" in niche)
-    rules = (
-        HISTORY_RULES
-        if history
-        else (LIFESTYLE_RULES if lifestyle else SCIENCE_RULES)
-    )
+    mode = _niche_mode()
+    rules = {
+        "history": HISTORY_RULES,
+        "lifestyle": LIFESTYLE_RULES,
+        "general": SCIENCE_RULES,
+    }[mode]
     base = {
         "rules": rules,
         "lang": config.LANG_NAME,
@@ -148,6 +174,72 @@ def research(idea: dict, duration: int, scene_sec: int) -> list:
         offset += len(got)
         if len(got) < take:
             break
+    _diversify(out, idea)
+    return out
+
+
+def _diversify(scenes: list, idea: dict) -> None:
+    """Scene nao trung query voi scene truoc -> gan query rieng tu caption.
+
+    Gemini thinh thoang tra ve cung mot cum tu khoa cho ca loat scene. Hinh
+    anh lap lai 13 lan thi nguoi xem chay ngay giay 3. Day la nguyen nhac
+    video nao cung rut gon nhu nhau.
+    """
+    used_q: set[str] = set()
+    used_kw: set[str] = set()
+    fallback = [
+        "close up", "wide shot", "slow motion", "handheld", "low angle",
+        "detail view", "over the shoulder", "timelapse",
+    ]
+    for i, s in enumerate(scenes):
+        q = " ".join((s.get("search") or "").lower().split())
+        if q in used_q:
+            picked = None
+            for cand in _keywords_from(s, idea, used_kw):
+                used_kw.add(cand)
+                picked = cand
+                break
+            if picked is None:
+                picked = fallback[i % len(fallback)]
+            s["search"] = f"{s['search']} {picked}".strip()
+            q = " ".join(s["search"].lower().split())
+        else:
+            for cand in _keywords_from(s, idea, used_kw)[:2]:
+                used_kw.add(cand)
+        used_q.add(q)
+
+
+_VN_STOP = {
+    "khong", "nguoi", "mot", "giac", "dung", "lam", "voi", "cua", "cho", "the",
+    "trong", "nen", "bi", "va", "co", "la", "cac", "nhung", "khi", "thi", "de",
+    "nay", "do", "ra", "se", "ma", "thi", "nen", "hon", "nhu", "voi", "thanh",
+    "hieu", "biet", "khac", "nhieu", "it", "rat", "cung", "da", "duoc",
+}
+
+
+def _norm(w: str) -> str:
+    import unicodedata
+
+    w = "".join(
+        c
+        for c in unicodedata.normalize("NFD", w.lower())
+        if unicodedata.category(c) != "Mn"
+    )
+    return "".join(c for c in w if c.isalnum() or c.isspace())
+
+
+def _keywords_from(scene: dict, idea: dict, used: set) -> list:
+    """Lay tu khoa rieng cho tung scene tu caption + keywords cua idea."""
+    pool = [str(k) for k in (idea.get("keywords") or [])]
+    words = str(scene.get("caption") or "").split()
+    out = []
+    for raw in words + pool:
+        w = "".join(c for c in raw if c.isalnum() or c.isspace()).strip()
+        low = _norm(w)
+        if len(low) < 5 or low in _VN_STOP or low in used:
+            continue
+        used.add(low)
+        out.append(low)
     return out
 
 
