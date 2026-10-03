@@ -61,10 +61,10 @@ def hook_vf(text: str, font: str) -> str:
     """
     if not text:
         return "null"
-    lines = _wrap(text, 15 if text.isascii() else 11, 3)
+    lines = _wrap(text, 16 if text.isascii() else 13, 3)
     if not lines:
         return "null"
-    big = {1: 76, 2: 62, 3: 54}.get(len(lines), 54)
+    big = {1: 80, 2: 72, 3: 64}.get(len(lines), 64)
     step = int(big * 1.25)
     total = big * len(lines) + step * (len(lines) - 1)
     top = f"(h-{total})/2"
@@ -85,12 +85,12 @@ def hook_vf(text: str, font: str) -> str:
 def hook_fallback(text: str) -> str:
     if not text:
         return "null"
-    lines = _wrap(text, 15, 1)
+    lines = _wrap(text, 16, 1)
     if not lines:
         return "null"
     safe = lines[0].replace("'", "").replace(":", "")[:30]
     return (
-        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=76:fontcolor=white:"
+        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=80:fontcolor=white:"
         f"borderw=6:bordercolor=black@0.92:x=(w-text_w)/2:y=(h-text_h)/2"
         f":enable='lt(t\\,3.0)'"
     )
