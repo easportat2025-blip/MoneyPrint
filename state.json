@@ -1,5 +1,191 @@
 [
   {
+    "id": "7b8be06a92",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Greek Genius Killed by a Flying Tortoise",
+    "idea": {
+      "title": "The Greek Genius Killed by a Flying Tortoise",
+      "hook": "Aeschylus, Greece's legendary playwright, fled to the countryside to escape a prophecy of a falling house, only for an eagle to mistake his bald head for a rock.",
+      "beats": [
+        "A prophet warned Aeschylus that he would be killed by a falling object, prompting him to live entirely outdoors for safety.",
+        "An eagle flying overhead was carrying a live tortoise, searching for a hard stone to crack open its shell.",
+        "The bird spotted Aeschylus's bald head from above, mistook it for a smooth rock, and dropped the heavy reptile.",
+        "The impact fractured his skull, fulfilling the bizarre prophecy in the most ironic way possible."
+      ],
+      "keywords": [
+        "ancient greek portrait",
+        "eagle flying",
+        "tortoise",
+        "greek ruins",
+        "prophecy painting"
+      ],
+      "tags": [
+        "#ancientgreece",
+        "#weirdhistory",
+        "#historicalfigures",
+        "#greekmythology",
+        "#historymysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A flying tortoise killed Greece’s greatest playwright.",
+        "search": "aeschylus bust statue ancient greek sculpture",
+        "caption": "A flying tortoise killed Greece’s greatest playwright."
+      },
+      {
+        "narration": "In 456 BC, Aeschylus was revered across the Mediterranean as the father of Greek tragedy.",
+        "search": "ancient athens acropolis parthenon 19th century oil painting",
+        "caption": "Aeschylus: Father of Greek Tragedy in 456 BC."
+      },
+      {
+        "narration": "His fame offered no safety when an oracle issued a grim prediction regarding his fate.",
+        "search": "delphi oracle pythia ancient greek engraving",
+        "caption": "An oracle foretold his bizarre and unavoidable death."
+      },
+      {
+        "narration": "The prophecy warned the playwright that a falling house would strike him down.",
+        "search": "ancient greek temple ruins oil painting classical",
+        "caption": "The prophecy: death caused by a falling house."
+      },
+      {
+        "narration": "Determined to outsmart destiny, Aeschylus abandoned urban life and fled to Gela in Sicily.",
+        "search": "ancient sicily map antique engraving historical",
+        "caption": "Fleeing stone cities to escape the deadly curse."
+      },
+      {
+        "narration": "He refused to enter any building, choosing to work entirely under the open Mediterranean sky.",
+        "search": "sicilian countryside landscape 19th century painting",
+        "caption": "Living under the open sky to avoid roofs."
+      },
+      {
+        "narration": "High above the Sicilian plains, a bearded vulture hunted with a tortoise clutched in its talons.",
+        "search": "bearded vulture raptor antique zoology engraving",
+        "caption": "A raptor carrying a live tortoise overhead."
+      },
+      {
+        "narration": "The raptor scanned the ground below, searching for a bare rock hard enough to shatter the reptile's shell.",
+        "search": "arid rocky landscape 19th century watercolor",
+        "caption": "Searching the earth for a stone to shatter shell."
+      },
+      {
+        "narration": "Spotting a smooth, shining dome in the fields of Gela, the bird mistook the bald head of Aeschylus for a stone and released its grip.",
+        "search": "19th century engraving eagle dropping tortoise from the sky",
+        "caption": "The raptor mistook his bald head for a stone."
+      },
+      {
+        "narration": "In 456 BC, the heavy reptile struck the playwright's skull, killing him instantly and fulfilling the prophecy of a falling house in the most literal, tragic manner.",
+        "search": "ancient greek marble bust of aeschylus portrait",
+        "caption": "The impact killed Aeschylus instantly in 456 BC."
+      },
+      {
+        "narration": "Today, the father of Greek tragedy is remembered not only for his dramatic masterpieces, but for suffering history's most absurdly ironic death.",
+        "search": "ancient greek ruins of gela sicily oil painting",
+        "caption": "The father of tragedy met history's most ironic end."
+      },
+      {
+        "narration": "A flying tortoise killed Greece's greatest tragic playwright.",
+        "search": "ancient greek tragedy theater ruins oil painting",
+        "caption": "A flying tortoise killed history's greatest tragic playwright."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Xo5jep2fyhk",
+    "youtube_url": "https://www.youtube.com/watch?v=Xo5jep2fyhk",
+    "created_at": "2026-10-04T06:43:59.369980+00:00",
+    "updated_at": "2026-10-04T06:50:02.147390+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-04T06:45:04.182441+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "298 chars (cat 363 de vua 55s)",
+        "at": "2026-10-04T06:47:16.120702+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "18.8s en-US-GuyNeural 3 cau",
+        "at": "2026-10-04T06:47:18.485163+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T06:47:19.299123+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-04T06:49:22.283066+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T06:49:22.310872+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 18.8s 6920576 bytes",
+        "at": "2026-10-04T06:49:54.452206+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Xo5jep2fyhk",
+        "at": "2026-10-04T06:49:56.636087+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYYiHKly6VKS_dXuHGJsfz6IRdusb-8Hd_kYDlEgOZdSKmzX4GZ",
+        "at": "2026-10-04T06:49:58.064597+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T06:49:59.929172+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T06:50:00.283231+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Xo5jep2fyhk\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T06:50:02.033195+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T06:50:02.061068+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T06:50:02.147375+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37727418/pexels-photo-37727418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36050702/pexels-photo-36050702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32774783/pexels-photo-32774783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26256183/pexels-photo-26256183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543464/pexels-photo-17543464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7573266/pexels-photo-7573266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39795191/pexels-photo-39795191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36535734/pexels-photo-36535734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33618859/pexels-photo-33618859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22937483/pexels-photo-22937483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28185850/pexels-photo-28185850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15236841/pexels-photo-15236841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "203a9afc39",
     "kind": "short",
     "channel": "Channel3",
