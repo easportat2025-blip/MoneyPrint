@@ -1,5 +1,192 @@
 [
   {
+    "id": "ac9837805e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Disgusting Disaster That Killed 60 Nobles",
+    "idea": {
+      "title": "The Disgusting Disaster That Killed 60 Nobles",
+      "hook": "In 1184, King Henry VI held a royal peace summit in a church, but an unexpected collapse plunged dozens of nobles straight into human waste.",
+      "beats": [
+        "King Henry VI gathered Germany's feuding princes inside the cathedral of St. Peter in Erfurt to settle an escalating civil war.",
+        "The massive weight of hundreds of nobles and their heavy gear proved too much for the old wooden second floor.",
+        "The floor gave way, smashing through the first floor and dumping dozens of lords straight into the cathedral's deep cesspool pit.",
+        "Around 60 nobles drowned in liquid waste, while the King only survived by clinging desperately to an iron window grate until rescue arrived."
+      ],
+      "keywords": [
+        "Erfurt latrine disaster painting",
+        "King Henry VI Holy Roman Empire bust",
+        "medieval cathedral engraving",
+        "medieval knights council illustration",
+        "Holy Roman Empire antique map"
+      ],
+      "tags": [
+        "history",
+        "medieval history",
+        "erfurt disaster",
+        "holy roman empire",
+        "bizarre history",
+        "historical facts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1184, sixty German nobles drowned in human waste.",
+        "search": "medieval cathedral latrine disaster engraving",
+        "caption": "In 1184, sixty German nobles drowned in human waste."
+      },
+      {
+        "narration": "The catastrophic collapse wiped out an entire generation of German aristocracy, nearly killing the future Holy Roman Emperor.",
+        "search": "King Henry VI Holy Roman Empire bust statue",
+        "caption": "The disaster nearly killed the future Holy Roman Emperor."
+      },
+      {
+        "narration": "In July 1184, twenty-year-old King Henry VI summoned the imperial diet to Erfurt to negotiate a truce.",
+        "search": "Holy Roman Empire 12th century antique map",
+        "caption": "King Henry VI summoned the imperial court to Erfurt in 1184."
+      },
+      {
+        "narration": "Landgrave Louis III of Thuringia and Archbishop Conrad of Mainz were locked in a feud threatening civil war.",
+        "search": "Archbishop Conrad of Mainz medieval illuminated manuscript",
+        "caption": "A bitter territorial feud brought rival factions together."
+      },
+      {
+        "narration": "Hundreds of high-ranking nobles, bodyguards, and administrators crowded into the upper hall of Saint Peter’s Church.",
+        "search": "medieval knights council hall oil painting",
+        "caption": "Hundreds of armored nobles packed into the church upper hall."
+      },
+      {
+        "narration": "Decades-old wooden floorbeams began to groan under the sheer tonnage of iron armor and gathered spectators.",
+        "search": "medieval church timber rafters architectural engraving",
+        "caption": "Decayed wooden floorbeams buckled under the immense weight."
+      },
+      {
+        "narration": "Without warning, the second-story floor snapped, smashing straight through the first floor directly beneath it.",
+        "search": "medieval stone cathedral interior wood collapse engraving",
+        "caption": "The upper floor collapsed, crashing through the lower levels."
+      },
+      {
+        "narration": "Dozens of screams echoed as the entire assembly plummeted into the church's subterranean cesspool pit.",
+        "search": "medieval fortress cesspool pit stone engraving",
+        "caption": "Dozens of lords plunged into the deep cesspool pit below."
+      },
+      {
+        "narration": "Trapped beneath heavy chainmail and falling debris, dozens of high-ranking medieval lords found themselves drowning in several feet of liquid human waste.",
+        "search": "Erfurt latrine disaster painting",
+        "caption": "Trapped in heavy armor, the lords sank into the waste."
+      },
+      {
+        "narration": "King Henry VI only survived the 1184 disaster by desperately clinging to an iron window grate in the stone wall until rescuers could reach him.",
+        "search": "King Henry VI Holy Roman Empire bust",
+        "caption": "King Henry VI survived by clinging to a window grate."
+      },
+      {
+        "narration": "In total, around sixty nobles drowned in the filth of Erfurt, cementing this event as one of the most bizarre and embarrassing tragedies in the history of the Holy Roman Empire.",
+        "search": "medieval cathedral engraving",
+        "caption": "Over sixty nobles died in history's most embarrassing royal disaster."
+      },
+      {
+        "narration": "A bitter feud between Landgrave Louis III of Thuringia and Archbishop Conrad of Mainz threatened civil war across the Holy Roman Empire.",
+        "search": "Holy Roman Empire 12th century antique map",
+        "caption": "A bitter feud threatened civil war across Germany in 1184."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Sn0iNryBkew",
+    "youtube_url": "https://www.youtube.com/watch?v=Sn0iNryBkew",
+    "created_at": "2026-10-04T20:23:48.710495+00:00",
+    "updated_at": "2026-10-04T20:28:39.149462+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-04T20:25:24.853757+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "373 chars (cat 145 de vua 55s)",
+        "at": "2026-10-04T20:26:23.664376+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.3s en-US-GuyNeural 5 cau",
+        "at": "2026-10-04T20:26:25.529474+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T20:26:26.571712+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-04T20:27:54.030999+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T20:27:54.062126+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 8395344 bytes",
+        "at": "2026-10-04T20:28:33.220747+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Sn0iNryBkew",
+        "at": "2026-10-04T20:28:35.224497+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaY3U4BobslfhPNXgcC4YqNryJHaCi8MmJMXcwmxgw7HV2MYgRX",
+        "at": "2026-10-04T20:28:36.410481+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T20:28:37.943380+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T20:28:38.179351+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Sn0iNryBkew\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T20:28:39.017520+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T20:28:39.050695+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T20:28:39.149442+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36000480/pexels-photo-36000480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18043792/pexels-photo-18043792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2127869/pexels-photo-2127869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15983906/pexels-photo-15983906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35727993/pexels-photo-35727993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33226578/pexels-photo-33226578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35518204/pexels-photo-35518204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34253555/pexels-photo-34253555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34561805/pexels-photo-34561805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319285/pexels-photo-29319285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39244959/pexels-photo-39244959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22756439/pexels-photo-22756439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1595d0a3c5",
     "kind": "short",
     "channel": "Channel3",
