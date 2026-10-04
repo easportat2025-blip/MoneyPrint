@@ -1,5 +1,630 @@
 [
   {
+    "id": "512618d40b",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Emperor Hadrian Murdered Rome's Greatest Architect",
+    "idea": {
+      "title": "Why Emperor Hadrian Murdered Rome's Greatest Architect",
+      "hook": "When Rome's greatest architect told Emperor Hadrian his royal blueprints looked like pumpkins, it cost him his life.",
+      "beats": [
+        "Introduce Apollodorus of Damascus, the legendary engineering genius who built Rome's golden age under Emperor Trajan.",
+        "Detail Apollodorus's marvels, including the miraculous Danube Bridge and the monumental Trajan's Forum.",
+        "Introduce Hadrian as a self-styled artistic intellectual with a fragile ego and an obsession with architecture.",
+        "Recount the first fatal clash: an arrogant young Hadrian interrupts an imperial build, only for Apollodorus to sneer, 'Go away and draw your pumpkins.'",
+        "Trajan dies, and against all odds, the mocked amateur Hadrian inherits the throne with supreme power over life and death.",
+        "Hadrian seeks to cement his artistic legacy by personally designing the colossal Temple of Venus and Roma.",
+        "Seeking validation, Hadrian sends his blueprints to Apollodorus, expecting the banished master to finally submit to his genius.",
+        "Apollodorus delivers a ruthless critique, declaring that if the giant statues ever stood up, they would smash their heads through the roof.",
+        "Hadrian's wounded pride turns into uncontrollable, vindictive rage upon realizing the fatal design flaw cannot be fixed.",
+        "Hadrian fabricates treason charges, seizing the architect's property and exiling him far from Rome.",
+        "Refusing to let the humiliation linger, Hadrian secretly orders the execution of Rome's greatest living visionary.",
+        "Reflect on the legacy recorded by historian Cassius Dio, revealing the dark, petty tyrant hiding beneath the mask of a philosopher emperor."
+      ],
+      "keywords": [
+        "Hadrian",
+        "Apollodorus of Damascus",
+        "Roman Empire",
+        "Ancient Rome documentary",
+        "Roman architecture",
+        "Pantheon",
+        "Trajan",
+        "Temple of Venus and Roma",
+        "Roman engineering",
+        "ancient history",
+        "Roman history"
+      ],
+      "tags": [
+        "Emperor Hadrian",
+        "Apollodorus of Damascus",
+        "Ancient Rome",
+        "Roman History",
+        "History Documentary",
+        "Roman Architecture",
+        "Pantheon",
+        "Ancient Empires",
+        "Trajan",
+        "Roman Engineering"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE KILLED HIS OWN ARCHITECT"
+    },
+    "scenes": [
+      {
+        "narration": "An architectural insult cost Rome's greatest engineer his life.",
+        "search": "Apollodorus of Damascus bust statue Roman",
+        "caption": "An architectural insult cost Rome's greatest engineer his life."
+      },
+      {
+        "narration": "In the early second century AD, Apollodorus of Damascus served as the mastermind behind Emperor Trajan's most ambitious monuments, including the massive Danube Bridge built in 105 AD.",
+        "search": "Trajan's Forum Rome engraving",
+        "caption": "Apollodorus designed Rome's most ambitious second-century monuments."
+      },
+      {
+        "narration": "When Trajan's adoptive son Hadrian interrupted an imperial build with his own designs, Apollodorus reportedly dismissed him, telling him to go draw his pumpkins.",
+        "search": "Emperor Hadrian bust statue close up",
+        "caption": "Apollodorus mocked Hadrian's early architectural designs as mere pumpkins."
+      },
+      {
+        "narration": "Following the death of Emperor Trajan in 117 AD, the mocked amateur Hadrian ascended the throne, gaining absolute authority over the empire.",
+        "search": "Roman Emperor Trajan coin gold",
+        "caption": "Hadrian ascended the throne in 117 AD with absolute power."
+      },
+      {
+        "narration": "To cement his artistic legacy, Hadrian personally designed the colossal Temple of Venus and Roma around 121 AD and sent the blueprints to the exiled architect.",
+        "search": "Temple of Venus and Roma Rome engraving",
+        "caption": "Hadrian personally designed the colossal Temple of Venus and Roma."
+      },
+      {
+        "narration": "Apollodorus delivered a devastating critique, pointing out that the temple's giant statues were so disproportionate they would smash their heads if they tried to stand up.",
+        "search": "statue of Venus classical marble sculpture",
+        "caption": "The architect proved the temple's statues were mathematically flawed."
+      },
+      {
+        "narration": "Unable to correct the structural embarrassment, a humiliated Hadrian fabricated charges of treason against Apollodorus and secretly ordered his execution.",
+        "search": "Roman execution illustration engraving",
+        "caption": "Illustration of a Roman execution under imperial order."
+      },
+      {
+        "narration": "Recorded by the historian Cassius Dio, this fatal clash exposed the dark, fragile ego of a philosopher emperor who tolerated no rival.",
+        "search": "ancient Roman manuscript page",
+        "caption": "Historian Cassius Dio exposed the emperor's fatal, fragile ego."
+      },
+      {
+        "narration": "In 105 AD, Apollodorus of Damascus completed a massive wooden arch bridge over the Danube River to aid Emperor Trajan's military campaigns in Dacia.",
+        "search": "trajan column danube bridge relief engraving",
+        "caption": "Engraving of the Danube bridge relief from Trajan's Column"
+      },
+      {
+        "narration": "This engineering feat was followed by the construction of Trajan's Forum in Rome, a colossal complex completed in 112 AD that cemented Apollodorus as the empire's premier architect.",
+        "search": "trajans forum rome engraving",
+        "caption": "18th-century engraving of the ruins of Trajan's Forum"
+      },
+      {
+        "narration": "Meanwhile, Trajan's ward, Hadrian, spent his youth studying Greek culture and developing a passionate, yet amateur, obsession with architectural design.",
+        "search": "hadrian marble bust statue",
+        "caption": "Marble bust of Emperor Hadrian, Roman artwork"
+      },
+      {
+        "narration": "Around 113 AD, when Hadrian attempted to offer advice on one of Trajan's active construction sites, Apollodorus famously dismissed him, telling him to go draw his pumpkins.",
+        "search": "roman architectural drawing illustration",
+        "caption": "Illustration of ancient Roman architectural plans"
+      },
+      {
+        "narration": "The pumpkin comment mockingly referred to the ribbed, multi-domed vaults that Hadrian favored, creating a deep, lasting resentment in the young aristocrat.",
+        "search": "hadrian roman coin photograph",
+        "caption": "Silver denarius coin depicting Hadrian, minted circa 119 AD"
+      },
+      {
+        "narration": "The power dynamic shifted permanently in August 117 AD when Emperor Trajan died, leaving Hadrian to inherit the imperial throne of Rome.",
+        "search": "trajan marble bust statue",
+        "caption": "Marble bust of Emperor Trajan, ruled 98 to 117 AD"
+      },
+      {
+        "narration": "As emperor, Hadrian immediately initiated grand building projects across the empire, eager to prove his artistic vision surpassed that of his predecessor's master builder.",
+        "search": "pantheon rome oil painting",
+        "caption": "18th-century oil painting of the Pantheon interior in Rome"
+      },
+      {
+        "narration": "In 121 AD, Hadrian began designing his most ambitious project yet: the Temple of Venus and Roma, intended to be the largest temple in the capital.",
+        "search": "temple of venus and roma engraving",
+        "caption": "Engraving of the ruins of the Temple of Venus and Roma"
+      },
+      {
+        "narration": "In 121 AD, Hadrian personally drafted the architectural plans for the colossal Temple of Venus and Roma, aiming to prove his superior artistic vision.",
+        "search": "temple of venus and roma architectural reconstruction drawing",
+        "caption": "Hadrian personally designed the massive Temple of Venus and Roma."
+      },
+      {
+        "narration": "To secure ultimate validation for his self-proclaimed genius, the emperor sent these highly detailed blueprints to his exiled rival, Apollodorus of Damascus.",
+        "search": "emperor hadrian profile on roman coin",
+        "caption": "Hadrian sought validation from his greatest critic, Apollodorus."
+      },
+      {
+        "narration": "Apollodorus analyzed the imperial blueprints and immediately identified a catastrophic structural flaw in the temple's design.",
+        "search": "roman architect studying plans illustration",
+        "caption": "Apollodorus analyzed the emperor's flawed architectural blueprints."
+      },
+      {
+        "narration": "The master architect wrote back, mockingly stating that if the giant cult statues tried to stand up, they would smash their heads through the low ceiling.",
+        "search": "statue of goddess roma inside temple engraving",
+        "caption": "Apollodorus mocked the proportions of Hadrian's cult statues."
+      },
+      {
+        "narration": "Hadrian received the critique with absolute fury, realizing that the temple's construction was already too advanced to correct this embarrassing design error.",
+        "search": "emperor hadrian marble bust close up",
+        "caption": "Hadrian was consumed by rage over his uncorrectable error."
+      },
+      {
+        "narration": "Driven by humiliation, the emperor fabricated charges of treason against Apollodorus, stripping him of his wealth and exiling him to a remote province.",
+        "search": "roman soldiers arresting a citizen engraving",
+        "caption": "Hadrian fabricated treason charges to banish the master architect."
+      },
+      {
+        "narration": "Unable to endure the living reminder of his artistic incompetence, Hadrian secretly ordered the execution of Rome's greatest engineer in approximately 130 AD.",
+        "search": "ancient roman execution scene engraving",
+        "caption": "Hadrian ordered the secret execution of Apollodorus of Damascus."
+      },
+      {
+        "narration": "The historian Cassius Dio preserved this dark episode, exposing the lethal vanity of an emperor remembered by history as a peaceful philosopher.",
+        "search": "roman historian writing manuscript illustration",
+        "caption": "Cassius Dio recorded the dark truth behind the philosopher emperor."
+      },
+      {
+        "narration": "Today, the massive ruins of the Temple of Venus and Roma still stand near the Colosseum, serving as physical evidence of a deadly imperial grudge.",
+        "search": "Temple of Venus and Roma Rome archival photograph 1890",
+        "caption": "The ruins of the Temple of Venus and Roma in Rome."
+      },
+      {
+        "narration": "Modern architectural surveys of the temple's cella confirm that the vaulted ceilings were remarkably low, validating the exact critique that cost Apollodorus his life.",
+        "search": "Temple of Venus and Roma interior architectural engraving",
+        "caption": "Architectural plans showing the low vaulted ceilings of the temple."
+      },
+      {
+        "narration": "To understand how a disagreement over ceiling heights turned fatal, we must travel back to 117 AD, when Hadrian ascended to the imperial throne.",
+        "search": "Emperor Hadrian bust statue",
+        "caption": "Emperor Hadrian ruled the Roman Empire starting in 117 AD."
+      },
+      {
+        "narration": "Unlike his predecessor Trajan, who expanded Rome through bloody conquest, Hadrian sought to immortalize his reign through monumental brick and concrete.",
+        "search": "Emperor Trajan Roman coin",
+        "caption": "Emperor Trajan expanded Rome's borders through military conquest."
+      },
+      {
+        "narration": "Hadrian's obsession with architecture led him to oversee the reconstruction of the Pantheon, a project that pushed Roman engineering to its absolute limits.",
+        "search": "Pantheon Rome 18th century oil painting",
+        "caption": "The Pantheon was rebuilt under Hadrian's direct supervision."
+      },
+      {
+        "narration": "But as Hadrian designed his grand monuments, he constantly operated under the shadow of Rome's undisputed master builder, Apollodorus of Damascus.",
+        "search": "Trajan's Column Rome engraving",
+        "caption": "Apollodorus of Damascus was Rome's most celebrated imperial architect."
+      },
+      {
+        "narration": "Apollodorus had achieved legendary status by constructing a massive military bridge across the Danube River in 105 AD, a feat deemed impossible by contemporaries.",
+        "search": "Trajan's Bridge Danube River engraving",
+        "caption": "The historic bridge over the Danube built in 105 AD."
+      },
+      {
+        "narration": "This unparalleled engineering triumph granted Apollodorus immense influence, setting him on a direct collision course with the envious future emperor.",
+        "search": "Roman Senate meeting oil painting",
+        "caption": "The growing rivalry between the master architect and the future emperor."
+      },
+      {
+        "narration": "While Apollodorus of Damascus dominated imperial construction, the young nobleman Hadrian, born in 76 AD, harbored a fierce, competitive obsession with architecture.",
+        "search": "emperor hadrian marble bust statue close up",
+        "caption": "Hadrian, born in 76 AD, possessed an intense passion for architecture."
+      },
+      {
+        "narration": "During the reign of Emperor Trajan, Hadrian frequently intruded upon active imperial construction sites to offer his own amateur design advice.",
+        "search": "emperor trajan marble bust statue",
+        "caption": "Hadrian regularly interrupted official imperial construction projects with his own ideas."
+      },
+      {
+        "narration": "Annoyed by the intrusion, Apollodorus publicly dismissed the future emperor, telling him to go away and draw his pumpkins—a mocking reference to Hadrian's dome designs.",
+        "search": "ancient roman architectural drawing engraving",
+        "caption": "Apollodorus famously mocked Hadrian's dome designs as mere pumpkins."
+      },
+      {
+        "narration": "The dynamic of Roman power shifted permanently in August 117 AD when Emperor Trajan died, unexpectedly leaving the imperial throne to his mocked rival, Hadrian.",
+        "search": "death of roman emperor oil painting",
+        "caption": "Emperor Trajan died in 117 AD, elevating Hadrian to supreme power."
+      },
+      {
+        "narration": "Now holding absolute authority over life and death across the Roman Empire, Hadrian possessed the power to destroy anyone who had ever wounded his fragile ego.",
+        "search": "ancient roman senate engraving",
+        "caption": "As emperor, Hadrian held absolute authority over his former critics."
+      },
+      {
+        "narration": "Determined to prove his architectural genius, Hadrian personally drafted the blueprints for the colossal Temple of Venus and Roma in 121 AD.",
+        "search": "temple of venus and roma ruins photo",
+        "caption": "Hadrian designed the massive Temple of Venus and Roma in 121 AD."
+      },
+      {
+        "narration": "Seeking professional validation, the new emperor sent his completed blueprints to the exiled Apollodorus, expecting the master to finally submit to his superior talent.",
+        "search": "ancient roman papyrus scroll manuscript",
+        "caption": "Hadrian sent his blueprints to Apollodorus to demand his approval."
+      },
+      {
+        "narration": "Instead of praise, Apollodorus sent back a devastating critique, warning that if the temple's giant statues ever stood up, they would smash their heads through the low roof.",
+        "search": "roman temple interior reconstruction illustration",
+        "caption": "Apollodorus warned that the giant statues would smash through the roof."
+      },
+      {
+        "narration": "Upon reading the critique, Emperor Hadrian realized the mathematical truth of Apollodorus's words, yet the temple's foundations were already laid, making the design flaw impossible to correct.",
+        "search": "Temple of Venus and Roma ruins Rome photograph",
+        "caption": "The ruins of Hadrian's Temple of Venus and Roma in Rome."
+      },
+      {
+        "narration": "Unable to endure the public humiliation of his architectural incompetence, Hadrian fabricated charges of treason against the legendary engineer in 130 AD.",
+        "search": "Emperor Hadrian marble bust statue close up wide shot",
+        "caption": "Emperor Hadrian, who ruled the Roman Empire from 117 to 138 AD."
+      },
+      {
+        "narration": "The Roman state stripped Apollodorus of his wealth, confiscated his property, and formally banished him to a remote corner of the empire.",
+        "search": "Roman forum ruins engraving",
+        "caption": "The Roman Forum, where the architect's achievements were once celebrated."
+      },
+      {
+        "narration": "Even in exile, the brilliant engineer's silent mockery haunted the emperor, prompting Hadrian to secretly sign a warrant for Apollodorus's execution.",
+        "search": "Roman soldier bronze statue",
+        "caption": "Roman authority was enforced throughout the provinces by imperial decree."
+      },
+      {
+        "narration": "Around 130 AD, Rome's greatest visionary, the man who built the Danube Bridge and Trajan's Forum, was quietly put to death on imperial orders.",
+        "search": "Apollodorus of Damascus illustration portrait",
+        "caption": "Illustration of Apollodorus of Damascus, the master architect of Rome."
+      },
+      {
+        "narration": "The Temple of Venus and Roma was finally dedicated in 135 AD, standing as a colossal monument to Hadrian's pride and his unalterable design flaws.",
+        "search": "Temple of Venus and Roma interior engraving",
+        "caption": "An 18th-century engraving of the Temple of Venus and Roma."
+      },
+      {
+        "narration": "The details of this petty execution survived through the writings of the third-century Roman historian Cassius Dio, who documented the dark realities of Hadrian's reign.",
+        "search": "Cassius Dio ancient manuscript page",
+        "caption": "The historical accounts of Cassius Dio preserved Hadrian's darker deeds."
+      },
+      {
+        "narration": "While history remembers Hadrian as a peaceful philosopher king, the murder of Apollodorus reveals the ruthless, fragile ego that governed the height of the Roman Empire.",
+        "search": "Hadrian gold coin Roman Empire",
+        "caption": "A gold coin depicting the profile of Emperor Hadrian."
+      },
+      {
+        "narration": "An insult about pumpkins cost Rome's greatest architect his life.",
+        "search": "roman emperor hadrian marble bust statue close up",
+        "caption": "A petty architectural insult ended in imperial execution."
+      },
+      {
+        "narration": "In the early second century, Apollodorus of Damascus served as Emperor Trajan's chief engineer, constructing the monumental Danube Bridge and Trajan's Forum.",
+        "search": "trajan forum rome ruins engraving",
+        "caption": "Apollodorus of Damascus built the monuments of Rome's golden age."
+      },
+      {
+        "narration": "Before his ascension, the young artistic dilettante Hadrian tried to advise the master, only for Apollodorus to mock his amateur drawings of domes.",
+        "search": "pantheon dome rome interior oil painting",
+        "caption": "The future emperor was publicly mocked for his amateur designs."
+      },
+      {
+        "narration": "Following Trajan's death in 117 AD, Hadrian seized supreme power, leaving the legendary architect vulnerable to a ruler with a fragile, vindictive ego.",
+        "search": "emperor trajan roman coin profile",
+        "caption": "Hadrian ascended the throne with absolute power over his critics."
+      },
+      {
+        "narration": "Seeking to cement his legacy, Hadrian personally designed the massive Temple of Venus and Roma and sent the blueprints to the retired master to demand his validation.",
+        "search": "temple of venus and roma ruins oil painting",
+        "caption": "Hadrian designed a colossal temple to prove his own genius."
+      },
+      {
+        "narration": "Apollodorus delivered a ruthless critique, declaring that the cult statues were so oversized they would smash their heads through the roof if they stood up.",
+        "search": "ancient roman temple interior statue engraving",
+        "caption": "The master architect exposed a fatal flaw in Hadrian's design."
+      },
+      {
+        "narration": "Unable to alter the completed stone structure, a humiliated Hadrian turned his embarrassment into rage, fabricating treason charges to exile the elderly genius.",
+        "search": "roman senate meeting engraving",
+        "caption": "Wounded imperial pride turned into a campaign of state vengeance."
+      },
+      {
+        "narration": "As recorded by the third-century historian Cassius Dio, Hadrian secretly ordered the execution of Apollodorus, revealing the ruthless tyrant behind the philosopher's mask.",
+        "search": "cassius dio ancient manuscript illustration",
+        "caption": "Historian Cassius Dio exposed the dark truth of Hadrian's reign."
+      },
+      {
+        "narration": "The execution of Apollodorus of Damascus in the early 130s AD permanently tarnished Emperor Hadrian's carefully cultivated image as an enlightened philosopher-king.",
+        "search": "emperor hadrian marble bust statue",
+        "caption": "Hadrian's reputation suffered after the execution of his chief architect."
+      },
+      {
+        "narration": "In Rome, during the final years of his reign leading up to 138 AD, Hadrian attempted to overshadow this brutality by accelerating his grandest imperial building campaigns.",
+        "search": "ancient rome map engraving",
+        "caption": "Rome witnessed massive construction projects in the 130s AD."
+      },
+      {
+        "narration": "To assert his absolute artistic authority, Hadrian personally dedicated the colossal Temple of Venus and Roma in 135 AD, ignoring the late master's warnings.",
+        "search": "temple of venus and roma ruins photograph",
+        "caption": "Hadrian dedicated his controversial temple in 135 AD."
+      },
+      {
+        "narration": "Roman elites and later historians, including Cassius Dio, quietly noted that the temple's low ceiling indeed made the seated cult statues look disproportionately massive.",
+        "search": "cassius dio roman historian manuscript illustration",
+        "caption": "Illustration of Roman history records by Cassius Dio."
+      },
+      {
+        "narration": "This structural disproportion meant that any major seismic activity threatened to collapse the roof onto the colossal statues, exactly as Apollodorus had predicted.",
+        "search": "ancient roman temple interior oil painting",
+        "caption": "Illustration of a grand Roman temple interior with colossal statues."
+      },
+      {
+        "narration": "While Hadrian's flawed temple suffered repeated damage and required extensive rebuilding by later emperors, the architectural legacy of Apollodorus endured.",
+        "search": "trajans forum rome ruins photograph",
+        "caption": "The works of Apollodorus outlasted Hadrian's personal designs."
+      },
+      {
+        "narration": "The iconic dome of the Pantheon, which modern scholars suggest was heavily influenced by Apollodorus's engineering principles, still stands intact today.",
+        "search": "pantheon rome interior engraving",
+        "caption": "The Pantheon reflects the superior engineering of Apollodorus's era."
+      },
+      {
+        "narration": "Hadrian could execute his most brilliant critic, but he could never silence the physical proof of his own architectural mediocrity left in the stone ruins of Rome.",
+        "search": "hadrian tomb castel sant angelo engraving",
+        "caption": "Hadrian's architectural rivalry ended in a tragic abuse of power."
+      },
+      {
+        "narration": "A design critique cost Rome's greatest architect his life.",
+        "search": "apollodorus of damascus bust statue",
+        "caption": "The legendary architect Apollodorus of Damascus."
+      },
+      {
+        "narration": "In 113 AD, Apollodorus completed the monumental Trajan's Forum in Rome, cementing his status as the empire's premier engineer.",
+        "search": "trajans forum rome engraving grandest",
+        "caption": "Rome's grandest imperial forum completed in 113 AD."
+      },
+      {
+        "narration": "The emperor's ward, Hadrian, frequently drew his own amateur architectural designs, which Apollodorus famously dismissed as useless pumpkins.",
+        "search": "emperor hadrian bust statue fancied",
+        "caption": "Hadrian fancied himself a master designer."
+      },
+      {
+        "narration": "When Trajan died in 117 AD, Hadrian assumed absolute imperial power, leaving his outspoken critic completely vulnerable.",
+        "search": "emperor trajan gold coin",
+        "caption": "Trajan's death in 117 AD elevated Hadrian to the throne."
+      },
+      {
+        "narration": "To prove his artistic superiority, Hadrian personally designed the massive Temple of Venus and Roma in 121 AD and sent the plans to Apollodorus.",
+        "search": "temple of venus and roma ruins oil painting low angle",
+        "caption": "Hadrian's grand temple design."
+      },
+      {
+        "narration": "Apollodorus bluntly responded that the seated statues were so poorly proportioned they would smash their heads on the ceiling if they stood up.",
+        "search": "ancient roman temple interior illustration",
+        "caption": "The fatal design flaw exposed by the master."
+      },
+      {
+        "narration": "Humiliated by the unfixable error, Hadrian banished the architect before secretly ordering his execution in approximately 130 AD.",
+        "search": "roman execution engraving",
+        "caption": "Apollodorus was silenced forever on imperial orders."
+      },
+      {
+        "narration": "Recorded by historian Cassius Dio, this act of vengeance exposed the lethal, fragile ego hiding behind Hadrian's enlightened reputation.",
+        "search": "hadrian marble bust statue legacy",
+        "caption": "The dark legacy of Rome's philosopher king."
+      },
+      {
+        "narration": "A pumpkin insult cost Rome's greatest architect his life.",
+        "search": "emperor hadrian marble bust statue deadly",
+        "caption": "A deadly grudge hidden behind imperial marble."
+      },
+      {
+        "narration": "In the early second century, Apollodorus of Damascus engineered Rome’s golden age, constructing the monumental Danube Bridge in 105 AD.",
+        "search": "trajan bridge danube river engraving",
+        "caption": "Apollodorus of Damascus engineered Rome's greatest triumphs."
+      },
+      {
+        "narration": "The brilliant engineer frequently clashed with Trajan's adoptive son, Hadrian, an amateur architect who possessed a fragile artistic ego.",
+        "search": "roman emperor trajan coin profile",
+        "caption": "Tension brewed between the master builder and the future emperor."
+      },
+      {
+        "narration": "When Hadrian interrupted an imperial build, Apollodorus dismissed him, mockingly telling him to go away and draw his pumpkins.",
+        "search": "pantheon rome dome interior photograph",
+        "caption": "Apollodorus mocked Hadrian's architectural drawings as mere pumpkins."
+      },
+      {
+        "narration": "Following Trajan’s death in 117 AD, Hadrian ascended the throne, gaining absolute power over the empire and his old rival.",
+        "search": "hadrian arch rome ancient ruins photograph",
+        "caption": "Hadrian assumed absolute power over the Roman Empire in 117 AD."
+      },
+      {
+        "narration": "Seeking validation, Hadrian personally designed the colossal Temple of Venus and Roma and sent the blueprints to the exiled Apollodorus.",
+        "search": "temple of venus and roma ruins oil painting detail view",
+        "caption": "Hadrian designed the colossal Temple of Venus and Roma."
+      },
+      {
+        "narration": "Apollodorus ruthlessly pointed out that the giant statues were too tall for the ceiling, prompting a humiliated Hadrian to order his execution in 130 AD.",
+        "search": "roman execution ancient manuscript illustration",
+        "caption": "The architect was executed for exposing the emperor's design flaw."
+      },
+      {
+        "narration": "Recorded by historian Cassius Dio, this act of vengeance exposed the lethal, fragile ego hiding behind Hadrian's enlightened reputation.",
+        "search": "cassius dio historian ancient bust statue",
+        "caption": "Cassius Dio preserved the dark truth of Hadrian's fragile ego."
+      },
+      {
+        "narration": "An architectural insult provoked a Roman emperor to commit murder.",
+        "search": "Roman emperor Hadrian marble bust statue close up",
+        "caption": "An architectural insult led to an imperial execution."
+      }
+    ],
+    "error": "",
+    "youtube_id": "WbELtpKJBVw",
+    "youtube_url": "https://www.youtube.com/watch?v=WbELtpKJBVw",
+    "created_at": "2026-10-04T17:56:27.291393+00:00",
+    "updated_at": "2026-10-04T18:19:59.290543+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-04T18:03:59.000676+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3767 chars",
+        "at": "2026-10-04T18:04:51.804015+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "227.5s en-US-GuyNeural 33 cau",
+        "at": "2026-10-04T18:05:01.605914+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T18:05:09.797893+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-04T18:15:11.176158+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T18:15:11.206110+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 227.5s 71224024 bytes",
+        "at": "2026-10-04T18:19:42.691937+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-10-04T18:19:42.754745+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=WbELtpKJBVw",
+        "at": "2026-10-04T18:19:54.581775+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZAOHpG92czbUrZq5LM-VzxD_rhmb1ETDdgFblVamSLhdOlaZRl",
+        "at": "2026-10-04T18:19:55.976896+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T18:19:57.341273+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T18:19:57.634187+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"WbELtpKJBVw\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T18:19:59.141922+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T18:19:59.173929+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T18:19:59.290527+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/4890543/pexels-photo-4890543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38458280/pexels-photo-38458280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11114125/pexels-photo-11114125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15954089/pexels-photo-15954089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37879425/pexels-photo-37879425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4890556/pexels-photo-4890556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27221822/pexels-photo-27221822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6207365/pexels-photo-6207365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37880993/pexels-photo-37880993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38355882/pexels-photo-38355882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714846/pexels-photo-6714846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11600381/pexels-photo-11600381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927968/pexels-photo-29927968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838611/pexels-photo-20838611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7206294/pexels-photo-7206294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12073648/pexels-photo-12073648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37879348/pexels-photo-37879348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20755094/pexels-photo-20755094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8086373/pexels-photo-8086373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39498485/pexels-photo-39498485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5564949/pexels-photo-5564949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125823/pexels-photo-38125823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2022650/pexels-photo-2022650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9572570/pexels-photo-9572570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086496/pexels-photo-38086496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13724036/pexels-photo-13724036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20555223/pexels-photo-20555223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37768105/pexels-photo-37768105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20419785/pexels-photo-20419785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20766859/pexels-photo-20766859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14851603/pexels-photo-14851603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397731/pexels-photo-16397731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319286/pexels-photo-29319286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30252686/pexels-photo-30252686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19968241/pexels-photo-19968241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35400747/pexels-photo-35400747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20012463/pexels-photo-20012463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26798933/pexels-photo-26798933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39904233/pexels-photo-39904233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36635790/pexels-photo-36635790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4890544/pexels-photo-4890544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7469866/pexels-photo-7469866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15447299/pexels-photo-15447299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7448388/pexels-photo-7448388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38514824/pexels-photo-38514824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342494/pexels-photo-29342494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37520853/pexels-photo-37520853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36428607/pexels-photo-36428607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20461381/pexels-photo-20461381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13829407/pexels-photo-13829407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28002443/pexels-photo-28002443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11840360/pexels-photo-11840360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37843997/pexels-photo-37843997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30019470/pexels-photo-30019470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1033142/pexels-photo-1033142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35667690/pexels-photo-35667690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20007295/pexels-photo-20007295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/771326/pexels-photo-771326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708938/pexels-photo-35708938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360562/pexels-photo-32360562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14754731/pexels-photo-14754731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13192431/pexels-photo-13192431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11001099/pexels-photo-11001099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7002240/pexels-photo-7002240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9898339/pexels-photo-9898339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7584351/pexels-photo-7584351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6198949/pexels-photo-6198949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20484004/pexels-photo-20484004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23938509/pexels-photo-23938509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5209705/pexels-photo-5209705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32573366/pexels-photo-32573366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29217829/pexels-photo-29217829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3822482/pexels-photo-3822482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33008991/pexels-photo-33008991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29464859/pexels-photo-29464859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32408771/pexels-photo-32408771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4102579/pexels-photo-4102579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12398109/pexels-photo-12398109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13250916/pexels-photo-13250916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "26c07133e9",
     "kind": "short",
     "channel": "Channel3",
