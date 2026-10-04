@@ -1,5 +1,191 @@
 [
   {
+    "id": "e5299f8262",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Peter the Great Kept a Head by His Wife's Bed",
+    "idea": {
+      "title": "Why Peter the Great Kept a Head by His Wife's Bed",
+      "hook": "When Tsar Peter the Great discovered his empress had a secret lover, he had the man executed—and forced her to sleep beside his severed head floating in a jar.",
+      "beats": [
+        "In 1724, Peter discovered his wife Catherine was having a passionate affair with her royal chamberlain, Willem Mons.",
+        "Enraged by the betrayal, Peter had Mons arrested, tortured, and beheaded within days.",
+        "Rather than burying him, Peter ordered the severed head preserved in a glass jar of alcohol and placed onto Catherine's bedroom nightstand.",
+        "Catherine never cracked, calmly ignoring the grim jar until Peter died months later."
+      ],
+      "keywords": [
+        "Peter the Great portrait antique",
+        "Catherine I of Russia painting",
+        "Willem Mons execution engraving",
+        "Saint Petersburg 18th century historical art",
+        "Russian imperial court painting"
+      ],
+      "tags": [
+        "history",
+        "peterthegreat",
+        "russianhistory",
+        "darkhistory",
+        "weirdhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Peter the Great preserve a severed head?",
+        "search": "Peter the Great tsar Russia oil painting portrait",
+        "caption": "The Tsar's morbid bedroom punishment."
+      },
+      {
+        "narration": "In November 1724, Tsar Peter governed the Russian Empire from his newly constructed capital, Saint Petersburg.",
+        "search": "Saint Petersburg 18th century city engraving map",
+        "caption": "Saint Petersburg imperial court, November 1724."
+      },
+      {
+        "narration": "His wife, Empress Catherine the First, held immense authority and had been crowned co-ruler earlier that year.",
+        "search": "Catherine I of Russia oil painting portrait",
+        "caption": "Empress Catherine I was crowned co-ruler in 1724."
+      },
+      {
+        "narration": "Imperial informants revealed that Catherine maintained a secret, intimate relationship with her court chamberlain, Willem Mons.",
+        "search": "18th century European aristocrat courtier oil painting",
+        "caption": "Chamberlain Willem Mons managed Catherine's inner royal court."
+      },
+      {
+        "narration": "Peter confronted Mons directly, officially accusing the chamberlain of high treason, bribery, and abuse of palace access.",
+        "search": "Peter the Great interrogating prisoner oil painting",
+        "caption": "Mons faced interrogation by the Tsar."
+      },
+      {
+        "narration": "On November 27, 1724, Willem Mons was taken to the scaffold in Saint Petersburg and publicly beheaded.",
+        "search": "18th century public execution scaffold historical engraving",
+        "caption": "Mons was beheaded on November 27, 1724."
+      },
+      {
+        "narration": "Instead of burying the remains, Peter ordered royal physicians to seal the severed head inside an alcohol-filled glass vessel.",
+        "search": "18th century anatomical specimen jar historical engraving",
+        "caption": "The severed head was preserved in alcohol."
+      },
+      {
+        "narration": "Under armed escort, Peter had the preserved head delivered directly into Catherine's private royal bedchamber.",
+        "search": "18th century imperial palace bedchamber interior painting",
+        "caption": "Peter brought the gruesome jar into Catherine's bedroom."
+      },
+      {
+        "narration": "In November 1724, Peter ordered the jar containing Willem Mons's head to be placed directly on Catherine’s nightstand, forcing her to sleep beside her dead lover.",
+        "search": "Empress Catherine I of Russia oil painting portrait",
+        "caption": "Peter placed the severed head on Catherine's nightstand."
+      },
+      {
+        "narration": "Despite this extreme psychological torture, Catherine refused to show any emotion, maintaining absolute composure to deny Peter his satisfaction.",
+        "search": "Tsar Peter the Great oil painting portrait antique",
+        "caption": "Catherine refused to break under the pressure."
+      },
+      {
+        "narration": "Following Peter's death in January 1725, Catherine ascended the Russian throne as sole ruler, finally removing the grim jar from her sight.",
+        "search": "Saint Petersburg Kunstkamera 18th century engraving",
+        "caption": "Catherine became Empress of Russia after Peter's death."
+      },
+      {
+        "narration": "Why did Tsar Peter the Great preserve his rival's head?",
+        "search": "Peter the Great portrait antique oil painting",
+        "caption": "The Tsar's grim bedroom punishment."
+      }
+    ],
+    "error": "",
+    "youtube_id": "gYs7OrkxOfU",
+    "youtube_url": "https://www.youtube.com/watch?v=gYs7OrkxOfU",
+    "created_at": "2026-10-04T01:46:17.411505+00:00",
+    "updated_at": "2026-10-04T01:49:56.240568+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-04T01:47:17.430842+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "425 chars (cat 126 de vua 55s)",
+        "at": "2026-10-04T01:47:56.991920+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-04T01:47:59.774656+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T01:48:00.928197+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-04T01:49:06.910796+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T01:49:06.939322+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 8047573 bytes",
+        "at": "2026-10-04T01:49:49.552922+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=gYs7OrkxOfU",
+        "at": "2026-10-04T01:49:52.379802+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaVecj46vH_oh6X8d3E66FzEnr-BLRwi_F7wPKRmkwyGbla19uI",
+        "at": "2026-10-04T01:49:53.572350+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T01:49:54.932870+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T01:49:55.283263+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"gYs7OrkxOfU\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T01:49:56.130165+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T01:49:56.158134+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T01:49:56.240556+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38904036/pexels-photo-38904036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11723052/pexels-photo-11723052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17694024/pexels-photo-17694024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6834842/pexels-photo-6834842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29797822/pexels-photo-29797822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38072631/pexels-photo-38072631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34970162/pexels-photo-34970162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30485487/pexels-photo-30485487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8382703/pexels-photo-8382703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885618/pexels-photo-7885618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12269351/pexels-photo-12269351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8667910/pexels-photo-8667910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7498f8d70d",
     "kind": "short",
     "channel": "Channel2",
