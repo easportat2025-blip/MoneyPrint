@@ -1,5 +1,196 @@
 [
   {
+    "id": "1595d0a3c5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao camera trước điện thoại đang bí mật 'lừa dối' bạn?",
+    "idea": {
+      "title": "Tại sao camera trước điện thoại đang bí mật 'lừa dối' bạn?",
+      "hook": "Bạn có bao giờ tự hỏi tại sao mình nhìn trong gương rất ổn, nhưng khi chụp ảnh selfie thì trông lại... lạ lẫm và kém sắc hơn?",
+      "beats": [
+        "Bộ não của bạn đã quá quen thuộc với hình ảnh phản chiếu qua gương nhờ hiệu ứng tiếp xúc thường xuyên (Mere Exposure Effect).",
+        "Camera điện thoại chụp lại hình ảnh thực tế không bị lộn ngược, khiến não bạn cảm thấy không quen và tự động coi đó là bất thường.",
+        "Ống kính góc rộng của camera trước thường bị méo hình khi chụp gần, làm mũi bạn to hơn và tai nhỏ đi so với thực tế ngoài đời."
+      ],
+      "keywords": [
+        "mirror reflection",
+        "selfie camera",
+        "focal length face distortion",
+        "psychology confidence",
+        "smartphone front camera distortion"
+      ],
+      "tags": [
+        "channel3",
+        "selfie",
+        "camera",
+        "tamly",
+        "meodienthoai"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao bạn nhìn gương rất đẹp nhưng chụp selfie lại xấu?",
+        "search": "hoat hoa 3d nguoi soi guong cuoi dien thoai",
+        "caption": "Tại sao ảnh selfie luôn xấu hơn gương?"
+      },
+      {
+        "narration": "Sự thật là khuôn mặt của chúng ta hoàn toàn không đối xứng như bạn nghĩ.",
+        "search": "do hoa chuyen dong khuon mat chia lam hai nua khong doi xung",
+        "caption": "Khuôn mặt bạn thực chất không hề đối xứng"
+      },
+      {
+        "narration": "Mỗi ngày, bộ não đã quá quen thuộc với hình ảnh phản chiếu ngược qua gương.",
+        "search": "hoat hoa 3d bo nao nhin vao chiec guong lon",
+        "caption": "Não bộ bị đánh lừa bởi gương mỗi ngày"
+      },
+      {
+        "narration": "Hiệu ứng tâm lý này khiến não tự động coi hình ảnh phản chiếu là đẹp chuẩn.",
+        "search": "do hoa chuyen dong tim do va bieu tuong thich",
+        "caption": "Hiệu ứng tiếp xúc thường xuyên tạo ảo giác"
+      },
+      {
+        "narration": "Nhưng camera trước lại chụp ảnh thực tế không bị lộn ngược, khiến não bạn hoảng hốt.",
+        "search": "hoat hoa 3d dien thoai chup anh xoay nguoc mat",
+        "caption": "Camera chụp lại góc nhìn của người khác"
+      },
+      {
+        "narration": "Chưa hết, thủ phạm vật lý chính là ống kính góc rộng của camera trước.",
+        "search": "do hoa chuyen dong ong kinh may anh phong to thu nho",
+        "caption": "Ống kính góc rộng là thủ phạm thứ hai"
+      },
+      {
+        "narration": "Khi chụp gần, tiêu cự ngắn sẽ làm mũi bạn to ra và tai nhỏ đi trông thấy.",
+        "search": "hoat hoa 3d mui to ra tai nho lai tren mat",
+        "caption": "Mũi bị to ra và tai nhỏ đi"
+      },
+      {
+        "narration": "Đừng lo, bạn không hề xấu đi, hãy bật tính năng đối xứng camera và đưa máy ra xa hơn!",
+        "search": "hoat hoa 3d tay cam dien thoai chup xa cuoi tuoi",
+        "caption": "Bật đối xứng camera và đưa máy ra xa"
+      },
+      {
+        "narration": "Sự khác biệt nhỏ giữa ảnh chụp và gương kích hoạt vùng cảnh giác trong não bộ, khiến bạn tự ti vô thức.",
+        "search": "3d animation cartoon brain glowing warning light phone screen",
+        "caption": "Não bộ tự động cảnh giác với sự khác biệt nhỏ"
+      },
+      {
+        "narration": "Thực tế, bạn đã nhìn gương hàng vạn lần và coi hình ảnh ngược đó là quy chuẩn duy nhất.",
+        "search": "3d character looking at mirror reflection motion graphics",
+        "caption": "Bạn đã quá quen với ảnh phản chiếu qua gương"
+      },
+      {
+        "narration": "Khi chụp gần, tiêu cự ngắn của camera trước sẽ bóp méo tỷ lệ, làm mũi to ra và tai nhỏ đi.",
+        "search": "3d animation camera lens focal length face distortion zoom",
+        "caption": "Tiêu cự ngắn làm mũi to và tai nhỏ lại"
+      },
+      {
+        "narration": "Nhưng có một sự thật bất ngờ: những người xung quanh lại thấy ảnh selfie của bạn cực kỳ tự nhiên.",
+        "search": "3d cartoon friends smiling looking at smartphone screen isometric",
+        "caption": "Người khác lại thấy ảnh selfie của bạn rất đẹp"
+      },
+      {
+        "narration": "Vì họ đã quen nhìn gương mặt thật của bạn ngoài đời, hãy tự tin vì bạn luôn đẹp hơn bạn nghĩ!",
+        "search": "3d character smiling confident heart icons motion graphics",
+        "caption": "Bạn luôn đẹp hơn những gì mình tự thấy"
+      }
+    ],
+    "error": "",
+    "youtube_id": "g9aHwTufzDI",
+    "youtube_url": "https://www.youtube.com/watch?v=g9aHwTufzDI",
+    "created_at": "2026-10-04T18:43:55.431455+00:00",
+    "updated_at": "2026-10-04T18:47:36.163417+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-04T18:45:19.204116+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "533 chars",
+        "at": "2026-10-04T18:46:09.540157+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.2s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-04T18:46:20.568931+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T18:46:22.096501+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-04T18:46:36.414554+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-04T18:46:36.444389+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.2s 12143849 bytes",
+        "at": "2026-10-04T18:47:30.351344+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=g9aHwTufzDI",
+        "at": "2026-10-04T18:47:32.718649+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYEezf7BMKSuPwHisJ_pQ9MMC7q-ctA2V-YVAX-69KVF04KXRj5",
+        "at": "2026-10-04T18:47:33.767223+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T18:47:35.094502+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T18:47:35.309980+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"g9aHwTufzDI\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T18:47:36.037116+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T18:47:36.067774+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T18:47:36.163407+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/36024708/15277390_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6668619/6668619-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8048123/8048123-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8402118/8402118-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/29625744/12748429_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7823351/7823351-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/6668664/6668664-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/31890629/13583548_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34636797/14680682_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029653/16029653-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34132691/14473082_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6608939/6608939-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15376594/15376594-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "512618d40b",
     "kind": "long",
     "channel": "seigh",
