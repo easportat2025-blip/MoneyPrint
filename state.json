@@ -1,5 +1,196 @@
 [
   {
+    "id": "8a144811e1",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ về máy sấy tay trong nhà vệ sinh",
+    "idea": {
+      "title": "Sự thật đáng sợ về máy sấy tay trong nhà vệ sinh",
+      "hook": "Bạn nghĩ máy sấy tay trong nhà vệ sinh công cộng là sạch sẽ? Thực tế, nó đang âm thầm phủ đầy vi khuẩn lên tay bạn.",
+      "beats": [
+        "Máy sấy hút không khí trực tiếp từ môi trường nhà vệ sinh - nơi chứa đầy các hạt nước siêu nhỏ bắn ra từ bồn cầu khi xả nước.",
+        "Luồng khí nóng áp lực cao thổi bay lượng vi khuẩn lơ lửng này thẳng vào làn da tay vừa được bạn rửa sạch.",
+        "Nghiên cứu cho thấy dùng khăn giấy giúp giảm vi khuẩn tốt hơn, trong khi máy sấy có thể làm tăng lượng vi khuẩn trên tay bạn lên gấp nhiều lần."
+      ],
+      "keywords": [
+        "public restroom hand dryer",
+        "bacteria micro particles animation",
+        "washing hands dirty water",
+        "paper towel hygienic",
+        "microscope germs blowing"
+      ],
+      "tags": [
+        "channel3",
+        "sức khỏe",
+        "thói quen",
+        "sự thật",
+        "mẹo hay"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Càng dùng máy sấy, tay bạn càng bẩn hơn.",
+        "search": "hoat hinh 3d may say tay ban tay vi khuan",
+        "caption": "Dùng máy sấy khiến tay bẩn hơn gấp bội"
+      },
+      {
+        "narration": "Bạn vừa rửa tay sạch sẽ bằng xà phòng và tự tin đưa tay vào máy sấy.",
+        "search": "hoat hinh 3d rua tay voi nuoc phong ve sinh",
+        "caption": "Vừa rửa sạch tay với xà phòng"
+      },
+      {
+        "narration": "Thế nhưng, chiếc máy này hoàn toàn không tự tạo ra luồng khí sạch như bạn nghĩ.",
+        "search": "mo phong 3d may say tay hut khong khi",
+        "caption": "Máy sấy không hề tạo ra khí vô trùng"
+      },
+      {
+        "narration": "Mỗi khi bồn cầu xả nước không đậy nắp, hàng triệu hạt nước mang vi khuẩn phân tán khắp căn phòng.",
+        "search": "3d animation xa nuoc bon cau vi khuan ban len",
+        "caption": "Hàng triệu vi khuẩn phát tán khi xả bồn cầu"
+      },
+      {
+        "narration": "Máy sấy hoạt động hệt như một chiếc máy hút bụi, gom trọn bầu không khí đầy mầm bệnh này vào trong.",
+        "search": "do hoa 3d may say hut vi khuan lo lung",
+        "caption": "Máy gom trọn vi khuẩn lơ lửng vào trong"
+      },
+      {
+        "narration": "Sau đó, luồng gió nóng tốc độ cao thổi bay lượng vi khuẩn này găm thẳng vào da tay bạn.",
+        "search": "hoat hinh 3d luong gio may say thoi vi khuan vao tay",
+        "caption": "Gió mạnh bắn vi khuẩn thẳng vào da tay"
+      },
+      {
+        "narration": "Các đĩa thí nghiệm đặt dưới máy sấy sau bốn mươi tám giờ đều mọc kín các ổ nấm mốc.",
+        "search": "animation dia petri vi khuan moc len kinh hien vi",
+        "caption": "Đĩa thí nghiệm mọc đầy nấm mốc sau 48 giờ"
+      },
+      {
+        "narration": "Đáng sợ hơn, dòng máy sấy phản lực gió siêu tốc còn làm một điều tồi tệ hơn thế rất nhiều.",
+        "search": "mo phong 3d may say phan luc phat tan vi khuan",
+        "caption": "Máy sấy phản lực còn nguy hiểm hơn thế"
+      },
+      {
+        "narration": "Luồng gió cực mạnh từ máy sấy phản lực thổi bay vi khuẩn xa tới ba mét, tạo thành một đám mây vi sinh vật lơ lửng.",
+        "search": "3d animation hand dryer blowing bacteria particles bathroom",
+        "caption": "Gió siêu tốc thổi bay vi khuẩn xa tới 3 mét"
+      },
+      {
+        "narration": "Bất kỳ ai bước vào sau đó đều vô tình hít phải hoặc bị lượng vi khuẩn này bám đầy lên cơ thể.",
+        "search": "motion graphics person breathing invisible bacteria particles",
+        "caption": "Bạn đang hít phải vi khuẩn lơ lửng"
+      },
+      {
+        "narration": "Ngược lại hoàn toàn, việc dùng khăn giấy không hề tạo ra luồng khí dung phát tán mầm bệnh này.",
+        "search": "isometric render hand pulling paper towel",
+        "caption": "Khăn giấy không làm phát tán vi khuẩn"
+      },
+      {
+        "narration": "Sự ma sát khi lau bằng khăn giấy còn giúp lấy đi thêm chín mươi chín phần trăm vi khuẩn còn sót lại.",
+        "search": "3d animation hands wiping with paper towel",
+        "caption": "Lau tay giúp loại bỏ 99% vi khuẩn sót lại"
+      },
+      {
+        "narration": "Vì vậy, lần tới nếu không có khăn giấy, hãy để tay khô tự nhiên thay vì đưa tay vào máy sấy.",
+        "search": "cartoony 3d hand shaking water drops",
+        "caption": "Hãy để tay khô tự nhiên để bảo vệ sức khỏe"
+      }
+    ],
+    "error": "",
+    "youtube_id": "0BZiwBgShwE",
+    "youtube_url": "https://www.youtube.com/watch?v=0BZiwBgShwE",
+    "created_at": "2026-10-04T13:37:09.152179+00:00",
+    "updated_at": "2026-10-04T13:39:54.968625+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-04T13:37:57.958957+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "468 chars (cat 174 de vua 55s)",
+        "at": "2026-10-04T13:38:49.035218+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-04T13:38:57.607229+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T13:38:58.620027+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-04T13:39:08.955548+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-04T13:39:08.979734+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.6s 12050498 bytes",
+        "at": "2026-10-04T13:39:49.952330+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=0BZiwBgShwE",
+        "at": "2026-10-04T13:39:52.029050+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaIZlMAuKQ027GFdJua4GPjeY5YurK2GpAYRHP1RkjPLEyOow7V",
+        "at": "2026-10-04T13:39:52.808369+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T13:39:53.859009+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T13:39:54.054528+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"0BZiwBgShwE\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T13:39:54.802444+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T13:39:54.892030+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T13:39:54.968613+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/38501316/16351239_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/10251371/10251371-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/4836695/4836695-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8676984/8676984-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/31464975/13417830_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283172/15283172-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5839043/5839043-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/5805686/5805686-hd_720_1144_30fps.mp4",
+      "https://videos.pexels.com/video-files/39483398/16818572_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35638268/15103504_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819586/8819586-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816988/8816988-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818610/8818610-hd_720_1280_25fps.mp4"
+    ]
+  },
+  {
     "id": "134cecdb2d",
     "kind": "short",
     "channel": "Channel3",
