@@ -272,6 +272,15 @@ def run_one(kind: str = "short") -> dict:
             description += f"\n\nMusic: {credit}"
         if credits:
             description += "\nImagery: " + "; ".join(credits[:4])
+        if kind == "long":
+            chapters = assemble_mod.build_chapters(
+                scenes, sentences, idea.get("beats")
+            )
+            if chapters.count("\n") >= 2:
+                description += "\n\nChapters:\n" + chapters
+                state.stage(
+                    rec_id, "chapters", True, f"{chapters.count(chr(10)) + 1} chapters"
+                )
         result = attempt(
             rec_id,
             "upload",

@@ -17,7 +17,8 @@ def targets() -> dict:
 
 
 LONG_SLOTS = {
-    "1": int(os.environ.get("TARGET_LONG_ACC1", "1")),
+    "1": int(os.environ.get("TARGET_LONG_ACC1", "0")),
+    "2": int(os.environ.get("TARGET_LONG_ACC2", "1")),
 }
 
 # visual identity per slot: (VISUAL_STYLE, MEDIA_MODE)
@@ -50,7 +51,7 @@ def run_one(kind: str = "short", slot: str = "") -> bool:
 def backfill(max_videos: int = 40) -> int:
     tg = targets()
     made = 0
-    plan = [("1", "long"), ("2", "short"), ("3", "short")]
+    plan = [("2", "long"), ("2", "short"), ("3", "short")]
     for _slot, kind in plan:
         if made >= max_videos:
             break

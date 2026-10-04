@@ -684,6 +684,52 @@ def assemble(
     return final, cc
 
 
+def build_chapters(scenes: list, sentences: list, beats: list | None = None) -> str:
+    """Muc luc chapters cho video dai - tang CTR va retention.
+
+    YouTube hien chapters tren thanh tien trinh khi mo ta co dong
+    "MM:SS tieu de" bat dau tu 00:00, toi thieu 3 chapter, moi chapter >=10s.
+    Lay moc tu gio bat dau cau noi cua moi scene (noi suy theo thu tu vi
+    voiceover doc scene theo dung thu tu).
+    """
+    if not scenes or not sentences:
+        return ""
+    per = max(1, len(sentences) / max(1, len(scenes)))
+    names = []
+    if beats:
+        names = [str(b)[:60] for b in beats if str(b).strip()]
+    lines = []
+    for i, s in enumerate(scenes):
+        si = min(int(i * per), len(sentences) - 1)
+        t = max(0.0, float(sentences[si].get("start", 0)))
+        label = ""
+        if names:
+            label = names[min(i * len(names) // max(1, len(scenes)), len(names) - 1)]
+        if not label:
+            label = " ".join(str(s.get("caption") or "").split()[:7]) or f"Part {i + 1}"
+        lines.append((t, label.strip()[:60]))
+    # gop chapter <30s ke nhau, giu toi da 12 chapter
+    merged = []
+    for t, label in lines:
+        if merged and t - merged[-1][0] < 30:
+            continue
+        if merged and label.lower() == merged[-1][1].lower():
+            continue
+        merged.append([t, label])
+    while len(merged) > 12:
+        step = len(merged) / 12
+        merged = [merged[int(i * step)] for i in range(12)]
+    if merged:
+        merged[0][0] = 0.0
+    out = []
+    for t, label in merged:
+        mm, ss = divmod(int(t), 60)
+        hh, mm = divmod(mm, 60)
+        ts = f"{hh}:{mm:02d}:{ss:02d}" if hh else f"{mm:02d}:{ss:02d}"
+        out.append(f"{ts} {label}")
+    return "\n".join(out)
+
+
 def _hook_headline(title: str, scenes: list) -> str:
     """Tieu de 3 giay dau: lay phan 'dieu le do' cua tieu de video.
 
