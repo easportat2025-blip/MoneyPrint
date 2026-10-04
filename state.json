@@ -1,5 +1,192 @@
 [
   {
+    "id": "b7e876f9a9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman Savior Who Cursed His Own Country",
+    "idea": {
+      "title": "The Roman Savior Who Cursed His Own Country",
+      "hook": "Rome’s greatest hero Scipio Africanus annihilated Hannibal—only to be betrayed by politicians and die cursing the very nation he saved.",
+      "beats": [
+        "Scipio achieved total victory at the Battle of Zama, saving the Roman Republic from catastrophic destruction.",
+        "Threatened by his overwhelming fame, jealous senators led by Cato framed Scipio and his brother with forged corruption charges.",
+        "Disgusted by Rome's bitter betrayal, Scipio abandoned the capital forever and went into self-imposed countryside exile.",
+        "On his deathbed, he ordered an epitaph carved into his tomb: 'Ungrateful country, you shall not even possess my bones.'"
+      ],
+      "keywords": [
+        "Scipio Africanus bust",
+        "Battle of Zama painting",
+        "Roman Senate engraving",
+        "Punic Wars archival map",
+        "Ancient Rome ruin painting"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "scipio",
+        "shorts",
+        "betrayal",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Rome’s greatest savior order his body never to be buried in Rome?",
+        "search": "Scipio Africanus marble bust statue close up",
+        "caption": "Why did Rome's greatest savior banish his own corpse?"
+      },
+      {
+        "narration": "In 202 BC, general Scipio Africanus defeated Hannibal Barca at the Battle of Zama, ending the Second Punic War.",
+        "search": "Battle of Zama Hannibal Scipio oil painting",
+        "caption": "In 202 BC, Scipio crushed Hannibal at Zama."
+      },
+      {
+        "narration": "This decisive victory saved the Roman Republic from total annihilation and made Scipio a legendary hero.",
+        "search": "Punic Wars Roman Republic map engraving",
+        "caption": "His victory saved the Roman Republic from total destruction."
+      },
+      {
+        "narration": "But in 187 BC, jealous senators led by Cato the Elder launched a political campaign to destroy Scipio's reputation.",
+        "search": "Cato the Elder marble bust portrait",
+        "caption": "Jealous senators led by Cato plotted his downfall."
+      },
+      {
+        "narration": "They accused Scipio and his brother of taking massive bribes from King Antiochus the Third.",
+        "search": "Roman Senate debate engraving",
+        "caption": "They framed the war hero with false corruption charges."
+      },
+      {
+        "narration": "Disgusted by the betrayal, Scipio tore up his financial accounts in front of the Senate and refused to defend himself.",
+        "search": "Ancient Roman trial oil painting",
+        "caption": "Scipio tore up the evidence in pure defiance."
+      },
+      {
+        "narration": "He permanently abandoned the capital in 185 BC, choosing self-imposed exile in his country estate at Liternum.",
+        "search": "Ancient Rome countryside ruin oil painting",
+        "caption": "He abandoned Rome forever for countryside exile."
+      },
+      {
+        "narration": "Dying in 183 BC, Scipio ordered his tomb to read: \"Ungrateful country, you shall not even possess my bones.\"",
+        "search": "Ancient Roman tomb ruins engraving",
+        "caption": "\"Ungrateful country, you shall not even possess my bones.\""
+      },
+      {
+        "narration": "Scipio was buried at his private villa in Liternum rather than the ancestral family tomb, honoring his vow of defiance to the end. In an ironic historical coincidence, his greatest rival, Hannibal Barca, died in exile in Bithynia that very same year.",
+        "search": "tomb of the scipios appian way engraving",
+        "caption": "Scipio and Hannibal both died in exile in 183 BC."
+      },
+      {
+        "narration": "The Senate's betrayal of Scipio taught future Roman commanders that republic loyalty yielded disgrace, while personal military loyalty ensured survival. Decades later, generals like Sulla and Julius Caesar remembered Scipio's fate and chose to march their legions directly on Rome instead.",
+        "search": "julius caesar roman marble bust statue",
+        "caption": "Scipio’s betrayal inspired later commanders to turn armies against Rome."
+      },
+      {
+        "narration": "The Roman Republic Scipio saved collapsed beneath the weight of civil wars sparked by its own paranoia and ingratitude. Rome forged a global empire, yet it never possessed the bones of the man who preserved it.",
+        "search": "ancient roman forum ruins oil painting",
+        "caption": "Rome conquered the Mediterranean, but never recovered Scipio's remains."
+      },
+      {
+        "narration": "Why did Rome’s greatest savior die cursing his own country?",
+        "search": "Scipio Africanus bust statue face close up",
+        "caption": "Why did Rome's greatest savior curse his own country?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "6yqIHU8goZM",
+    "youtube_url": "https://www.youtube.com/watch?v=6yqIHU8goZM",
+    "created_at": "2026-10-04T22:36:40.648754+00:00",
+    "updated_at": "2026-10-04T22:40:41.024868+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-04T22:37:39.873948+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 242 de vua 55s)",
+        "at": "2026-10-04T22:38:31.684970+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-04T22:38:33.697947+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T22:38:34.835183+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-04T22:39:53.251796+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T22:39:53.281286+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.5s 7500654 bytes",
+        "at": "2026-10-04T22:40:35.746292+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=6yqIHU8goZM",
+        "at": "2026-10-04T22:40:37.413910+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab3XobELMA2vCRajTWvRKMOsuhVlvS7_v2OE5dWsn3CRgeNXH5_",
+        "at": "2026-10-04T22:40:38.432694+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T22:40:39.787724+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T22:40:40.061991+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"6yqIHU8goZM\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T22:40:40.905988+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T22:40:40.936077+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T22:40:41.024858+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38350638/pexels-photo-38350638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14988911/pexels-photo-14988911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33008934/pexels-photo-33008934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23510532/pexels-photo-23510532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20231908/pexels-photo-20231908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15895421/pexels-photo-15895421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38287167/pexels-photo-38287167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31980411/pexels-photo-31980411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20345335/pexels-photo-20345335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237017/pexels-photo-38237017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38468080/pexels-photo-38468080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12204941/pexels-photo-12204941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ac9837805e",
     "kind": "short",
     "channel": "Channel2",
