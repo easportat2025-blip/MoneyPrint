@@ -1,5 +1,628 @@
 [
   {
+    "id": "f18d534085",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Day an Army Destroyed Itself: The Madness at Karánsebes 1788",
+    "idea": {
+      "title": "The Day an Army Destroyed Itself: The Madness at Karánsebes 1788",
+      "hook": "In the dead of night in 1788, Holy Roman Emperor Joseph II watched in horror as his 100,000-strong imperial army slaughtered up to 10,000 of its own men—without a single enemy soldier firing a shot.",
+      "beats": [
+        "Context: In late 1788, Emperor Joseph II marches a massive Habsburg imperial host into the Balkans to contest the Ottoman Empire, already crippled by dysentery, exhaustion, and logistical collapse.",
+        "The Babel army: The Habsburg forces are a fractured tapestry of Germans, Hungarians, Romanians, Serbs, Croats, and Italians, with few common languages and minimal mutual trust among rank-and-file troops.",
+        "Scouts at the river: The vanguard Hussar cavalry crosses the Timiș River outside Karánsebes to locate the Ottoman vanguard, but instead encounters Romanians selling barrels of schnapps.",
+        "The alcohol dispute: Exhausted infantrymen cross the river and demand their share of the liquor; when the Hussars fortify the barrels behind makeshift barricades, a vicious fistfight turns lethal.",
+        "The fatal shot: In the pitch-black struggle, a musket discharges accidentally, and a panicked soldier screams into the night that the Turks have ambushed them.",
+        "The stampede: The cavalrymen flee toward their own lines, galloping blindly through the darkness and hurtling headlong into the sleeping infantry encampment across the river.",
+        "The linguistic disaster: German-speaking officers desperately scream 'Halt! Halt!' to restore command, but Slavic and Romanian troops mishear the cries as 'Allah! Allah!' in the darkness.",
+        "Artillery turns inward: Believing the camp perimeter has fallen to Ottoman Janissaries, panicking imperial artillerists point their heavy guns into friendly lines and unleash sweeping canister shot.",
+        "The Emperor falls: Absolute pandemonium engulfs the headquarters; Emperor Joseph II is thrown into a stream and separated from his retinue while thousands fire blindly into friendly tents.",
+        "Dawn of horrors: Sunrise illuminates a catastrophic landscape littered with thousands of dead and wounded Habsburg soldiers, butchered horses, and destroyed supply wagons.",
+        "The easiest conquest: Two days later, Ottoman Grand Vizier Koca Yusuf Pasha reaches Karánsebes prepared for a titanic siege, only to capture the blood-soaked field and the city without resistance."
+      ],
+      "keywords": [
+        "Battle of Karansebes",
+        "Austro Turkish War",
+        "Emperor Joseph II",
+        "military blunders",
+        "Habsburg Empire",
+        "Ottoman Empire history",
+        "friendly fire disasters",
+        "weird history",
+        "human history documentary",
+        "famous military mistakes"
+      ],
+      "tags": [
+        "#Karansebes",
+        "#MilitaryHistory",
+        "#HistoricalBlunders",
+        "#OttomanEmpire",
+        "#HabsburgMonarchy",
+        "#HistoryDocumentary",
+        "#JosephII",
+        "#WarHistory",
+        "#FriendlyFire",
+        "#18thCentury"
+      ],
+      "kind": "long",
+      "thumbnail_text": "10,000 CASUALTIES. NO ENEMY."
+    },
+    "scenes": [
+      {
+        "narration": "In September 1788, a massive imperial army destroyed itself in a single night of self-inflicted slaughter without a single enemy soldier present. This catastrophic failure at Karánsebes remains the most bizarre self-inflicted defeat in military history.",
+        "search": "battle of karansebes 1788 historic engraving",
+        "caption": "An empire slaughtered 10,000 of its own men."
+      },
+      {
+        "narration": "During the Austro-Turkish War of 1788, Holy Roman Emperor Joseph II marched a massive force of one hundred thousand soldiers into the Balkans to seize territory from the Ottoman Empire. However, the multi-ethnic Habsburg coalition was already severely weakened by disease, exhaustion, and logistical collapse.",
+        "search": "Emperor Joseph II of Austria portrait painting",
+        "caption": "Emperor Joseph II led 100,000 troops into the Balkans in 1788."
+      },
+      {
+        "narration": "This imperial host was a fractured tapestry of Germans, Hungarians, Romanians, Serbs, Croats, and Italians who shared no common language and harbored deep mutual distrust. As night fell near the Timiș River, the vanguard Hussar cavalry crossed to scout for Ottoman forces but found local merchants selling schnapps instead.",
+        "search": "18th century hussar cavalry oil painting",
+        "caption": "A fractured imperial army struggled with language barriers and exhaustion."
+      },
+      {
+        "narration": "When exhausted infantrymen crossed the river and demanded a share of the alcohol, the cavalrymen quickly barricaded the barrels, sparking a violent fistfight. In the pitch-black chaos, a single musket discharged, causing a panicked soldier to scream that the Turks had launched a surprise ambush.",
+        "search": "18th century military camp night skirmish oil painting",
+        "caption": "A drunken dispute over alcohol triggered a sudden, panicked gunshot."
+      },
+      {
+        "narration": "Terrified cavalrymen retreated blindly across the river, stampeding directly into their own sleeping infantry encampment in the dark. Believing they were under attack, the sleeping soldiers woke in terror and began firing wildly into the oncoming shadows of their own comrades.",
+        "search": "cavalry stampede night battle 18th century engraving",
+        "caption": "Panicked cavalrymen stampeded directly into their own sleeping infantry."
+      },
+      {
+        "narration": "As German-speaking officers desperately screamed \"Halt! Halt!\" to restore order, the non-German troops misheard the cries as the Islamic battle cry \"Allah! Allah!\" in the darkness. This linguistic confusion convinced the entire camp that Ottoman Janissaries had breached their perimeter.",
+        "search": "18th century military officers shouting historical engraving",
+        "caption": "Language barriers turned desperate commands into cries of enemy invasion."
+      },
+      {
+        "narration": "Panicked Habsburg artillerists turned their heavy cannons inward, unleashing devastating canister shot directly into their own crowded tents. Even Emperor Joseph II was swept up in the madness, thrown from his horse into a stream as his own army tore itself apart.",
+        "search": "18th century artillery firing night oil painting",
+        "caption": "Imperial artillery fired directly into friendly lines during the chaos."
+      },
+      {
+        "narration": "When the sun rose over Karánsebes, it revealed thousands of dead and wounded Austrian soldiers slaughtered by friendly fire, allowing Ottoman Grand Vizier Koca Yusuf Pasha to capture the city two days later without firing a single shot. This tragic event remains a stark warning of how panic and poor communication can destroy the mightiest empires.",
+        "search": "Karansebes old map 18th century engraving",
+        "caption": "The Ottomans captured the blood-soaked field without firing a shot."
+      },
+      {
+        "narration": "In October 1788, reports of the disaster reached the Hofkriegsrat in Vienna, prompting imperial censors to suppress casualty numbers to prevent panic. Official court bulletins falsely blamed aggressive Turkish skirmishers rather than self-inflicted slaughter.",
+        "search": "Hofburg Palace Vienna 18th century engraving",
+        "caption": "Vienna suppresses official reports of the Karánsebes friendly fire disaster."
+      },
+      {
+        "narration": "Grand Vizier Koca Yusuf Pasha secured over five hundred supply wagons and dozens of intact brass cannons abandoned along the riverbanks. Ottoman military scribes recorded the baffling scene of thousands of Habsburg dead with no Ottoman casualties among them.",
+        "search": "Koca Yusuf Pasha Ottoman portrait painting",
+        "caption": "Ottoman forces capture hundreds of abandoned Austrian supply wagons intact."
+      },
+      {
+        "narration": "Beyond friendly fire, dysentery and malaria devastated the retreating imperial host as autumn rains flooded the Balkan lowlands. Overcrowded field hospitals in Lugoj and Temesvár quickly collapsed under the weight of thousands of sick soldiers.",
+        "search": "18th century military field hospital engraving",
+        "caption": "Epidemics overwhelm imperial military hospitals following the chaotic Balkan retreat."
+      },
+      {
+        "narration": "Emperor Joseph II returned to Vienna in November 1788 suffering from severe respiratory illness contracted during the damp Balkan campaign. His military prestige was shattered, leaving imperial ministers to openly question his direct battlefield leadership.",
+        "search": "Holy Roman Emperor Joseph II portrait painting",
+        "caption": "Joseph II returns to Vienna in broken health and diminished authority."
+      },
+      {
+        "narration": "In Saint Petersburg, Empress Catherine II received news of the Austrian collapse with alarm, fearing her southern armies would face the full brunt of Ottoman counteroffensives alone. Russian diplomats demanded immediate Habsburg mobilization along the Danube to pin down Ottoman reserves.",
+        "search": "Empress Catherine the Great portrait painting",
+        "caption": "Catherine II demands urgent Habsburg action to prevent an Ottoman resurgence."
+      },
+      {
+        "narration": "Desperate to restore discipline, the Austrian high command recalled seventy-two-year-old Field Marshal Ernst Gideon von Laudon to assume supreme control of the Balkan army. Laudon immediately purged incompetent junior officers and overhauled frontline communication protocols across multi-ethnic regiments.",
+        "search": "Field Marshal Ernst Gideon von Laudon portrait painting",
+        "caption": "Field Marshal Laudon takes command to reform the fractured imperial army."
+      },
+      {
+        "narration": "Emboldened by the Habsburg withdrawal, Ottoman light cavalry raiders swept through the Banat frontier, raiding fortified outposts and driving thousands of refugees north. Austrian border militias could only watch from behind fortress walls as the countryside burned.",
+        "search": "Ottoman spahi cavalry 18th century engraving",
+        "caption": "Ottoman raiding forces sweep across the defenseless Banat borderlands."
+      },
+      {
+        "narration": "As winter froze operations in late 1788, both imperial courts poured reinforcements toward the fortress city of Belgrade for an impending spring collision. Habsburg generals knew that another misstep would risk the total collapse of their southern frontier.",
+        "search": "Siege of Belgrade 18th century map engraving",
+        "caption": "Both empires assemble massive armies around Belgrade for the 1789 campaign."
+      },
+      {
+        "narration": "An empire destroyed its own army without enemies present. In September 1788, this catastrophic self-inflicted slaughter crippled the Habsburg military campaign in the Balkans.",
+        "search": "18th century military battle retreat oil painting",
+        "caption": "A self-inflicted military disaster devastated the Habsburg army."
+      },
+      {
+        "narration": "Emperor Joseph II had marched a massive force of one hundred thousand men to Karánsebes, but this host was a fractured mix of Germans, Hungarians, Serbs, and Romanians who shared no common language.",
+        "search": "Emperor Joseph II portrait painting",
+        "caption": "Emperor Joseph II led a deeply divided, multilingual imperial force."
+      },
+      {
+        "narration": "On the night of September 17, 1788, Austrian Hussar cavalry scouts crossed the Timiș River to locate the Ottomans, but instead purchased barrels of schnapps from local traders.",
+        "search": "18th century hussar cavalry soldiers engraving",
+        "caption": "Hussar scouts crossed the river and acquired alcohol."
+      },
+      {
+        "narration": "When exhausted infantrymen crossed the river and demanded a share of the liquor, the Hussars built defensive barricades, sparking a violent brawl that ended with a sudden, accidental musket shot.",
+        "search": "18th century military camp brawl engraving",
+        "caption": "A dispute over alcohol escalated into armed conflict."
+      },
+      {
+        "narration": "Panicked soldiers screamed that the Turks had arrived, sending the cavalry fleeing back into the sleeping main camp while officers shouting \"Halt!\" were misheard by non-German troops as yelling \"Allah!\".",
+        "search": "18th century military night panic chaos oil painting",
+        "caption": "Language barriers transformed desperate commands into cries of panic."
+      },
+      {
+        "narration": "Believing their perimeter had been breached by Ottoman forces, Austrian artillerists fired heavy canister shot directly into their own packed infantry lines.",
+        "search": "18th century artillery firing night engraving",
+        "caption": "Imperial cannons fired directly into friendly infantry lines."
+      },
+      {
+        "narration": "Emperor Joseph II was thrown from his horse into a stream as his army collapsed into total self-destruction, leaving thousands of dead and wounded scattered across the camp by sunrise.",
+        "search": "18th century military camp after battle oil painting",
+        "caption": "Sunrise revealed a devastating scene of self-inflicted carnage."
+      },
+      {
+        "narration": "Two days later, Ottoman Grand Vizier Koca Yusuf Pasha arrived with his army, easily capturing the blood-soaked field and the town of Karánsebes without firing a single shot.",
+        "search": "Ottoman Grand Vizier 18th century portrait painting",
+        "caption": "The Ottoman army captured Karánsebes without fighting."
+      },
+      {
+        "narration": "Did ten thousand soldiers die over schnapps?",
+        "search": "18th century military camp oil painting",
+        "caption": "Did ten thousand soldiers die over schnapps?"
+      },
+      {
+        "narration": "The Karánsebes disaster shattered the reputation of the Habsburg military machine and left Emperor Joseph II physically broken.",
+        "search": "Emperor Joseph II portrait painting physically",
+        "caption": "Emperor Joseph II was physically broken by the campaign."
+      },
+      {
+        "narration": "Having contracted a terminal illness during the damp, disease-ridden Balkan campaign, the Emperor returned to Vienna a dying man.",
+        "search": "Vienna Hofburg palace 18th century engraving",
+        "caption": "The Emperor returned to Vienna with a terminal illness."
+      },
+      {
+        "narration": "This self-inflicted catastrophe forced the Austrian Empire to seek a humiliating peace treaty, halting their expansion into Ottoman territories.",
+        "search": "Treaty of Sistova 1791 historical document engraving",
+        "caption": "Austria was forced to negotiate a humiliating peace."
+      },
+      {
+        "narration": "Because official Austrian records of the night were suppressed for decades, some historians later questioned if the scale of the madness was exaggerated.",
+        "search": "18th century imperial archive library engraving",
+        "caption": "Official records of the disaster were suppressed for decades."
+      },
+      {
+        "narration": "Yet, contemporary letters and German newspaper reports from late 1788 confirm a chaotic retreat that cost the empire thousands of lives.",
+        "search": "18th century German newspaper print engraving",
+        "caption": "Contemporary newspapers confirmed the chaotic imperial retreat."
+      },
+      {
+        "narration": "The tragedy exposed the fatal flaw of a multi-ethnic empire forcing conscripts of different languages to fight under a unified command they could not understand.",
+        "search": "Habsburg soldiers different uniforms 18th century illustration",
+        "caption": "Language barriers proved fatal for the multi-ethnic army."
+      },
+      {
+        "narration": "Ultimately, the madness at Karánsebes remains history's ultimate warning of how panic and miscommunication can destroy an empire from within.",
+        "search": "battle of karansebes 1788 historical illustration",
+        "caption": "Karánsebes remains history's ultimate warning of self-destruction."
+      },
+      {
+        "narration": "In September 1788, a massive imperial army of one hundred thousand men destroyed itself in a single night of absolute panic.",
+        "search": "18th century battle chaos oil painting",
+        "caption": "A massive imperial army destroyed itself in a single night."
+      },
+      {
+        "narration": "Emperor Joseph II of the Habsburg Empire marched his forces to Karánsebes to fight the Ottomans, leading a fractured coalition of soldiers who spoke no common language.",
+        "search": "Emperor Joseph II portrait painting wide shot",
+        "caption": "Emperor Joseph II led a deeply divided multi-ethnic army."
+      },
+      {
+        "narration": "On September 17, 1788, vanguard hussars crossed the Timiș River, purchased barrels of schnapps from locals, and fiercely refused to share with arriving infantrymen.",
+        "search": "18th century hussars cavalry engraving",
+        "caption": "A dispute over alcohol began near the Timis River."
+      },
+      {
+        "narration": "During the drunken brawl, an accidental musket shot rang out, causing a terrified soldier to scream that the Ottoman army had launched a surprise attack.",
+        "search": "18th century military camp night skirmish engraving",
+        "caption": "A single accidental shot triggered widespread panic."
+      },
+      {
+        "narration": "As cavalrymen fled back across the river, German officers shouting \"Halt! Halt!\" were fatally misunderstood by Slavic and Romanian troops as shouting \"Allah! Allah!\".",
+        "search": "18th century soldiers retreating in panic oil painting",
+        "caption": "Language barriers transformed orders into cries of enemy attack."
+      },
+      {
+        "narration": "Believing they were breached, Habsburg artillerymen fired canister shot directly into their own ranks, while Emperor Joseph II was thrown from his horse into a stream.",
+        "search": "18th century artillery cannon firing engraving",
+        "caption": "Imperial artillery turned inward on friendly troops."
+      },
+      {
+        "narration": "Sunrise over Karánsebes revealed a catastrophic scene of thousands of dead and wounded Austrian soldiers, all killed by friendly fire.",
+        "search": "aftermath of 18th century battle field oil painting",
+        "caption": "Dawn revealed thousands of casualties from friendly fire."
+      },
+      {
+        "narration": "Two days later, Grand Vizier Koca Yusuf Pasha and the Ottoman vanguard arrived to easily capture the city without firing a single shot.",
+        "search": "Grand Vizier Koca Yusuf Pasha portrait painting",
+        "caption": "The Ottomans captured Karánsebes without fighting a battle."
+      },
+      {
+        "narration": "Dispatches detailing the Karánsebes disaster reached Vienna in October 1788, sparking widespread fury and public humiliation. Emperor Joseph II returned from the front severely ill with malaria, his military prestige shattered.",
+        "search": "Emperor Joseph II Holy Roman Emperor portrait painting 18th century",
+        "caption": "News of the Karánsebes disaster triggered outrage across Vienna in October 1788."
+      },
+      {
+        "narration": "Grand Vizier Koca Yusuf Pasha exploited the imperial collapse, driving Ottoman forces deep into the Habsburg Banat. Over thirty thousand civilians fled westward as Ottoman raiders laid waste to frontier settlements.",
+        "search": "Grand Vizier Koca Yusuf Pasha Ottoman Empire portrait painting",
+        "caption": "Ottoman forces seized control of the Banat, ravaging undefended frontier settlements."
+      },
+      {
+        "narration": "With Habsburg authority disintegrating along the frontier, Joseph II relinquished operational command of the army in late 1788. Supreme authority was transferred to seventy-two-year-old Field Marshal Ernst Gideon von Laudon.",
+        "search": "Field Marshal Ernst Gideon von Laudon portrait painting yielded",
+        "caption": "Joseph II yielded supreme military command to veteran Field Marshal von Laudon."
+      },
+      {
+        "narration": "In Saint Petersburg, Empress Catherine the Great watched the Austrian collapse with alarm, fearing the total failure of their anti-Ottoman alliance. Russian forces accelerated their offensive toward the fortress of Ochakov to compensate for Vienna's defeat.",
+        "search": "Catherine the Great Empress of Russia oil painting portrait",
+        "caption": "Catherine the Great pressured Vienna to stabilize its fractured imperial forces."
+      },
+      {
+        "narration": "Throughout the winter of 1788, Habsburg staff officers drafted new multilingual regulations to prevent another catastrophic communication breakdown. Commanders prohibited nighttime troop movements and standardized field signals across all non-German regiments.",
+        "search": "18th century Austrian military drill regulations manuscript engraving",
+        "caption": "Habsburg commanders standardized signaling protocols to prevent another fatal communication breakdown."
+      },
+      {
+        "narration": "By May 1789, Field Marshal Laudon reorganized over one hundred thousand soldiers along the Danube for a massive counteroffensive. The entire imperial host marched south toward Belgrade, determined to eradicate the memory of Karánsebes.",
+        "search": "Austrian army Danube crossing 1789 historical engraving",
+        "caption": "In spring 1789, Laudon advanced one hundred thousand troops toward Belgrade."
+      },
+      {
+        "narration": "In September 1789, imperial heavy batteries completely encircled Belgrade and unleashed thousands of incendiary shells against the Ottoman garrison. The relentless bombardment battered the city's outer fortifications into rubble.",
+        "search": "Siege of Belgrade 1789 artillery bombardment oil painting",
+        "caption": "Imperial artillery laid siege to the Ottoman fortress at Belgrade in 1789."
+      },
+      {
+        "narration": "Belgrade capitulated to Laudon in October 1789, yet the victory could not halt the monarchy's internal unraveling. Outraged by war taxes and conscription, armed rebellions erupted across the Austrian Netherlands and Hungary.",
+        "search": "Brabant Revolution Brussels 1789 historical oil painting",
+        "caption": "The capture of Belgrade could not prevent rebellions erupting across the empire."
+      },
+      {
+        "narration": "In December 1789, insurgent militias routed Habsburg garrisons during the Brabant Revolution, declaring an independent United States of Belgium. Habsburg authority collapsed across Western Europe while the bulk of the imperial army remained pinned along the Danube.",
+        "search": "brabant revolution 1789 battle oil painting",
+        "caption": "The Brabant Revolution expels Habsburg garrisons from Brussels in December 1789."
+      },
+      {
+        "narration": "Emperor Joseph II returned to the Hofburg Palace in Vienna physically broken by tuberculosis contracted in the Balkan marshes. Weakened and facing imperial disintegration, the sovereign could no longer command his armies in the field.",
+        "search": "holy roman emperor joseph ii sickbed portrait painting",
+        "caption": "Emperor Joseph II returns to Vienna mortally sick from marsh fever."
+      },
+      {
+        "narration": "Under threat of armed rebellion from Hungarian nobles, the dying emperor issued a revocation decree on January 28, 1790, dismantling nearly all his administrative reforms. Only his edict abolishing serfdom remained intact as his centralized system dissolved.",
+        "search": "habsburg imperial decree parchment 1790 manuscript",
+        "caption": "Joseph II revokes his administrative reforms on January 28, 1790."
+      },
+      {
+        "narration": "Joseph II died on February 20, 1790, at age forty-eight, widely considered a casualty of his ill-fated Ottoman campaign. He dictated his own epitaph, describing himself as a sovereign who failed in every endeavor.",
+        "search": "holy roman emperor joseph ii death tomb vienna engraving",
+        "caption": "Joseph II dies on February 20, 1790, broken by the war."
+      },
+      {
+        "narration": "His brother, Leopold II, assumed the imperial throne amidst an imminent threat of war with Prussia, which had massed troops along the Silesian border. To avert a two-front disaster, the new emperor sought an immediate diplomatic exit from the Ottoman conflict.",
+        "search": "holy roman emperor leopold ii portrait painting",
+        "caption": "Leopold II inherits an empire on the brink of Prussian invasion."
+      },
+      {
+        "narration": "On August 4, 1791, the Habsburgs and Ottomans signed the Treaty of Sistova, formally terminating imperial participation in the war. Despite sacrificing tens of thousands of lives to take Belgrade, Vienna surrendered the fortress back to the Sultan for a minor border adjustment.",
+        "search": "treaty of sistova 1791 document engraving",
+        "caption": "The Treaty of Sistova returns Belgrade to the Ottoman Empire in 1791."
+      },
+      {
+        "narration": "While imperial censors suppressed details of the 1788 retreat from official gazettes, foreign diplomatic dispatches spread rumors of a self-inflicted slaughter at Karánsebes. European courts debated how an entire imperial host had dissolved into panic without encountering the enemy.",
+        "search": "vienna hofburg state chancellery 18th century engraving",
+        "caption": "Imperial censors suppress reports of the panic at Karánsebes across Europe."
+      },
+      {
+        "narration": "The first comprehensive public documentation appeared in the Austrian Military Magazine of 1831, four decades after the catastrophe. This delayed official admission ignited intense disputes among nineteenth-century historians over the true scale of the friendly-fire casualties.",
+        "search": "oesterreichische militaerische zeitschrift 1831 printed journal page",
+        "caption": "An 1831 Austrian military journal officially reveals the Karánsebes friendly-fire disaster."
+      },
+      {
+        "narration": "Austrian imperial muster rolls analyzed in the nineteenth century recorded roughly 1,200 missing or dead, directly contradicting contemporary British and French press reports alleging 10,000 casualties.",
+        "search": "18th century military muster roll document manuscript",
+        "caption": "Official muster rolls contradict foreign reports of ten thousand dead"
+      },
+      {
+        "narration": "Beyond the disputed human toll, Habsburg rear units abandoned three artillery batteries, dozens of ammunition caissons, and imperial payroll wagons containing over 100,000 florins.",
+        "search": "18th century abandoned military baggage train engraving",
+        "caption": "Imperial payroll wagons and artillery abandoned in the retreat"
+      },
+      {
+        "narration": "On September 23, 1788, Ottoman Grand Vizier Koca Yusuf Pasha reached Karánsebes and found the camp approaches littered with imperial weapons and mutilated supply horses.",
+        "search": "Koca Yusuf Pasha ottoman grand vizier portrait painting",
+        "caption": "Grand Vizier Koca Yusuf Pasha reaches the abandoned Karánsebes positions"
+      },
+      {
+        "narration": "Ottoman dispatches delivered to Sultan Abdul Hamid I in Istanbul proclaimed an overwhelming triumph, presenting captured Austrian brass cannons as proof of imperial conquest.",
+        "search": "Sultan Abdul Hamid I ottoman portrait painting",
+        "caption": "Ottoman court reports celebrate an advance without fighting an army"
+      },
+      {
+        "narration": "The Habsburg withdrawal behind Lugoj completely unhinged the southern frontier, leaving Banat villages and supply depots unprotected against Ottoman cavalry raids throughout the autumn.",
+        "search": "1788 Banat region military map engraving",
+        "caption": "Habsburg withdrawal leaves the Banat frontier defenseless against raids"
+      },
+      {
+        "narration": "The exposure and humiliation sustained during the retreat critically aggravated Emperor Joseph II's health, accelerating the pulmonary illness that incapacitated his command.",
+        "search": "Holy Roman Emperor Joseph II sickly portrait painting",
+        "caption": "Emperor Joseph II suffers failing health following the chaotic retreat"
+      },
+      {
+        "narration": "Confronted with complete tactical disarray in the Balkans, the imperial war council recalled aging veteran Field Marshal Ernst Gideon von Laudon to restore order.",
+        "search": "Field Marshal Ernst Gideon von Laudon portrait painting recalled",
+        "caption": "Field Marshal Laudon recalled to command the demoralized imperial force"
+      },
+      {
+        "narration": "Military analysts across Europe began debating whether the midnight catastrophe was an isolated panic or undeniable proof of the empire's failing polyglot army.",
+        "search": "Habsburg multiethnic soldiers uniform 18th century engraving",
+        "caption": "European tacticians question the viability of multiethnic imperial armies"
+      },
+      {
+        "narration": "To prevent a total collapse of the southern frontier in late 1788, Field Marshal Laudon hastily reorganized the shattered remnants of the main army into defensive cordons.",
+        "search": "Ernst Gideon von Laudon oil painting portrait",
+        "caption": "Field Marshal Laudon reorganized the defensive lines in late 1788."
+      },
+      {
+        "narration": "Meanwhile, Grand Vizier Koca Yusuf Pasha capitalized on the imperial retreat, launching localized counter-offensives across the Danube throughout the winter of 1788.",
+        "search": "Koca Yusuf Pasha Ottoman engraving portrait",
+        "caption": "Ottoman forces capitalized on the retreat with winter offensives."
+      },
+      {
+        "narration": "Broken in health by the damp Balkan climate and the stress of the Karánsebes disaster, Emperor Joseph II officially relinquished active field command in early 1789.",
+        "search": "Emperor Joseph II of Austria oil painting portrait",
+        "caption": "Ill health forced Joseph II to relinquish command in 1789."
+      },
+      {
+        "narration": "Under Laudon's sole direction, the restructured imperial forces finally captured the key fortress of Belgrade in October 1789, partially restoring Habsburg military prestige.",
+        "search": "Siege of Belgrade 1789 oil painting battle",
+        "caption": "The capture of Belgrade in 1789 restored some imperial prestige."
+      },
+      {
+        "narration": "Despite this victory, the massive financial strain of maintaining over three hundred thousand mobilized troops pushed the Austrian state treasury to the brink of bankruptcy.",
+        "search": "18th century Austrian treasury manuscript ledger",
+        "caption": "The prolonged mobilization pushed the imperial treasury to bankruptcy."
+      },
+      {
+        "narration": "On February 20, 1790, Emperor Joseph II died in Vienna, leaving his successor, Leopold II, to inherit a deeply divided empire and an unsustainable war.",
+        "search": "Leopold II Holy Roman Emperor oil painting portrait",
+        "caption": "Leopold II inherited a fractured empire in February 1790."
+      },
+      {
+        "narration": "The war officially concluded with the Treaty of Sistova in August 1791, returning virtually all conquered territories to the Ottomans in exchange for minor border adjustments.",
+        "search": "Treaty of Sistova 1791 historical document manuscript",
+        "caption": "The 1791 Treaty of Sistova yielded almost no territorial gains."
+      },
+      {
+        "narration": "Decades later, military journals published in 1831 began systematically analyzing the official court archives to determine how linguistic confusion could dismantle an entire imperial host.",
+        "search": "19th century Austrian military journal print",
+        "caption": "Historians later analyzed the linguistic failures of the polyglot army."
+      },
+      {
+        "narration": "Some modern historians debate the exact casualty figures, suggesting the loss of ten thousand men was exaggerated by later Prussian commentators to embarrass the Austrian crown.",
+        "search": "18th century military map of transylvania engraving",
+        "caption": "Historians debate the true scale of the casualties."
+      },
+      {
+        "narration": "Yet, Austrian military records from late 1788 confirm that Emperor Joseph II's forces suffered massive, unexplained desertions and organizational chaos immediately following the Karánsebes retreat.",
+        "search": "Emperor Joseph II portrait painting close up",
+        "caption": "Official records confirm massive organizational chaos in late 1788."
+      },
+      {
+        "narration": "The disaster exposed the fundamental weakness of the multi-ethnic Habsburg military system, which relied on conscripting diverse populations without establishing a unified command language.",
+        "search": "18th century Austrian infantry soldiers oil painting",
+        "caption": "The multi-ethnic army lacked a unified command language."
+      },
+      {
+        "narration": "Emperor Joseph II returned to Vienna physically broken by the campaign, contracting an illness in the marshy Danube borderlands that would lead to his death in February 1790.",
+        "search": "Emperor Joseph II on his deathbed engraving",
+        "caption": "Joseph II died in 1790 after the failed campaign."
+      },
+      {
+        "narration": "The Austro-Turkish War of 1787 to 1791 drained the imperial treasury, leaving the Habsburg state highly vulnerable to the looming threat of the French Revolutionary Wars.",
+        "search": "18th century Vienna imperial palace oil painting",
+        "caption": "The costly war drained the Habsburg imperial treasury."
+      },
+      {
+        "narration": "Ultimately, the self-inflicted slaughter at Karánsebes remains history's most extreme example of how panic, language barriers, and alcohol can destroy an empire's finest forces.",
+        "search": "18th century cavalry retreat night battle oil painting",
+        "caption": "Karánsebes remains history's most extreme friendly fire disaster."
+      },
+      {
+        "narration": "Two days after the self-inflicted massacre, Ottoman Grand Vizier Koca Yusuf Pasha entered Karánsebes, finding only dead soldiers and abandoned artillery, securing an effortless victory.",
+        "search": "Ottoman Grand Vizier Koca Yusuf Pasha portrait painting",
+        "caption": "The Ottoman army captured the city without firing a shot."
+      },
+      {
+        "narration": "The tragic night of September 17, 1788, proved that the greatest threat to a massive imperial army is not always the enemy, but its own internal chaos.",
+        "search": "18th century military camp at night engraving",
+        "caption": "The ultimate enemy was the army's own internal chaos."
+      },
+      {
+        "narration": "How did a hundred-thousand-man army destroy itself?",
+        "search": "18th century battle chaos engraving",
+        "caption": "How did a 100,000-man army destroy itself?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "a1v3ky8jT-M",
+    "youtube_url": "https://www.youtube.com/watch?v=a1v3ky8jT-M",
+    "created_at": "2026-10-04T10:08:29.184752+00:00",
+    "updated_at": "2026-10-04T10:27:57.823958+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-04T10:14:35.804661+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4444 chars",
+        "at": "2026-10-04T10:14:49.075769+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "269.2s en-US-GuyNeural 44 cau",
+        "at": "2026-10-04T10:15:00.534512+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-04T10:15:10.382999+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-04T10:22:31.134786+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-04T10:22:31.162872+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 269.2s 92653302 bytes",
+        "at": "2026-10-04T10:27:46.427755+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "7 chapters",
+        "at": "2026-10-04T10:27:46.484293+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=a1v3ky8jT-M",
+        "at": "2026-10-04T10:27:54.528167+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZQ884jbzd7DAUBDzKFkyX7Nnw-EdYtQ-_xH5WXjEFJCwDUSCHV",
+        "at": "2026-10-04T10:27:55.537392+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-04T10:27:56.729236+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-04T10:27:56.929111+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"a1v3ky8jT-M\\\"\",\n    \"errors\"",
+        "at": "2026-10-04T10:27:57.686731+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-04T10:27:57.716693+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-04T10:27:57.823942+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5858019/pexels-photo-5858019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38253120/pexels-photo-38253120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268881/pexels-photo-9268881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267821/pexels-photo-9267821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736362/pexels-photo-30736362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267429/pexels-photo-9267429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14173501/pexels-photo-14173501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494936/pexels-photo-9494936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34141715/pexels-photo-34141715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37189194/pexels-photo-37189194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268731/pexels-photo-9268731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709055/pexels-photo-35709055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9258489/pexels-photo-9258489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20432560/pexels-photo-20432560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269137/pexels-photo-9269137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2355408/pexels-photo-2355408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3720778/pexels-photo-3720778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269149/pexels-photo-9269149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563544/pexels-photo-16563544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1023974/pexels-photo-1023974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18339301/pexels-photo-18339301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326497/pexels-photo-18326497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36735106/pexels-photo-36735106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267805/pexels-photo-9267805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37021912/pexels-photo-37021912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29689530/pexels-photo-29689530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6769739/pexels-photo-6769739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8872414/pexels-photo-8872414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5010877/pexels-photo-5010877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268724/pexels-photo-9268724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563533/pexels-photo-16563533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397772/pexels-photo-16397772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16828886/pexels-photo-16828886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269150/pexels-photo-9269150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29111932/pexels-photo-29111932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267453/pexels-photo-9267453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39775587/pexels-photo-39775587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15595132/pexels-photo-15595132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39517735/pexels-photo-39517735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24836793/pexels-photo-24836793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19245495/pexels-photo-19245495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588841/pexels-photo-4588841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35925647/pexels-photo-35925647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563569/pexels-photo-16563569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37110106/pexels-photo-37110106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718454/pexels-photo-7718454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588831/pexels-photo-4588831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14638946/pexels-photo-14638946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709022/pexels-photo-35709022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342499/pexels-photo-29342499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17559670/pexels-photo-17559670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709025/pexels-photo-35709025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38478677/pexels-photo-38478677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/672820/pexels-photo-672820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20330441/pexels-photo-20330441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/235976/pexels-photo-235976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4162860/pexels-photo-4162860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38773291/pexels-photo-38773291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37828247/pexels-photo-37828247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19453553/pexels-photo-19453553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6275453/pexels-photo-6275453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/221446/pexels-photo-221446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268681/pexels-photo-9268681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205367/pexels-photo-39205367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27628061/pexels-photo-27628061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14638945/pexels-photo-14638945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4624252/pexels-photo-4624252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6801145/pexels-photo-6801145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35624273/pexels-photo-35624273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9775984/pexels-photo-9775984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267467/pexels-photo-9267467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38543436/pexels-photo-38543436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33647355/pexels-photo-33647355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268721/pexels-photo-9268721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37306512/pexels-photo-37306512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10621012/pexels-photo-10621012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268911/pexels-photo-9268911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39188431/pexels-photo-39188431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563722/pexels-photo-16563722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5e02439188",
     "kind": "short",
     "channel": "Channel2",
