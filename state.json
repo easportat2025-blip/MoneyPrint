@@ -1,5 +1,197 @@
 [
   {
+    "id": "31d0edfd97",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật về cơn buồn ngủ dữ dội mỗi khi trời mưa",
+    "idea": {
+      "title": "Sự thật về cơn buồn ngủ dữ dội mỗi khi trời mưa",
+      "hook": "Bạn có biết những ngày mưa âm u đang bí mật \"rút bớt\" oxy trong não bạn?",
+      "beats": [
+        "Áp suất khí quyển giảm trước khi mưa làm giảm nhẹ lượng oxy trong không khí.",
+        "Não bộ nhạy cảm nhận diện sự sụt giảm này và tự động chuyển sang chế độ tiết kiệm năng lượng.",
+        "Đồng thời, ánh sáng âm u kích thích cơ thể giải phóng melatonin - hormone gây ngủ.",
+        "Tiếng mưa rơi đều đều đóng vai trò như một tiếng ồn hồng (pink noise) giúp ru ngủ vỏ não."
+      ],
+      "keywords": [
+        "rainy window",
+        "atmospheric pressure",
+        "brain sleeping",
+        "dark clouds",
+        "melatonin hormone"
+      ],
+      "tags": [
+        "khoahoc",
+        "giacngu",
+        "thoitiet",
+        "channel3",
+        "suckhoe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Trời mưa đang bí mật rút bớt oxy não bạn.",
+        "search": "hoat hinh 3d nguoi ngu guc ban lam viec troi mua",
+        "caption": "Trời mưa đang bí mật rút bớt oxy não bạn"
+      },
+      {
+        "narration": "Cứ hễ ngoài trời kéo mây đen, mí mắt bạn lập tức sụp xuống dù vừa nạp cà phê.",
+        "search": "3d render ly ca phe va dong ho bao thuc",
+        "caption": "Cơn buồn ngủ ập đến bất chấp cà phê"
+      },
+      {
+        "narration": "Thủ phạm đầu tiên giấu mặt trong sự tụt dốc của áp suất khí quyển.",
+        "search": "motion graphics dong ho do ap suat giam dot ngot",
+        "caption": "Áp suất khí quyển tụt dốc trước cơn mưa"
+      },
+      {
+        "narration": "Không khí loãng hơn khiến lượng phân tử oxy nạp vào phổi trong mỗi nhịp thở giảm nhẹ.",
+        "search": "hoat hinh 3d phoi nguoi va luong phan tu oxy",
+        "caption": "Lượng oxy nạp vào cơ thể bị giảm sút"
+      },
+      {
+        "narration": "Não bộ cực kỳ nhạy cảm liền lập tức bật chế độ tiết kiệm năng lượng để tự bảo vệ.",
+        "search": "cartoony 3d bo nao bat cong tac tiet kiem pin",
+        "caption": "Não tự động bật chế độ tiết kiệm pin"
+      },
+      {
+        "narration": "Cùng lúc đó, bầu trời xám xịt cắt đứt nguồn ánh sáng mặt trời vốn giúp mắt tỉnh táo.",
+        "search": "3d animation cua so phong troi mua am u xam xit",
+        "caption": "Ánh sáng tự nhiên bị mây mù dập tắt"
+      },
+      {
+        "narration": "Tuyến tùng bị đánh lừa là đêm đã đến, lập tức xả ồ ạt hormone buồn ngủ melatonin vào máu.",
+        "search": "motion graphics tuyen tung tiet hormone vao mach mau",
+        "caption": "Tuyến tùng lầm tưởng trời tối và tiết melatonin"
+      },
+      {
+        "narration": "Thế nhưng, tại sao dù bạn bật sáng hết đèn trong nhà, cơn rũ rượi này vẫn không tha?",
+        "search": "hoat hinh 3d bat bong den sang nhung van ngap ngu",
+        "caption": "Bật đèn sáng rực sao vẫn không hết buồn ngủ?"
+      },
+      {
+        "narration": "Đó là vì âm thanh. Tiếng mưa rơi đều đều thực chất là một dạng \"tiếng ồn hồng\" có tần số cực kỳ đặc biệt.",
+        "search": "hoat hinh 3d song am thanh pink noise ru ngu",
+        "caption": "Tiếng mưa rơi thực chất là \"tiếng ồn hồng\" đặc biệt."
+      },
+      {
+        "narration": "Tần số này nhanh chóng đồng bộ hóa với sóng não alpha, đưa hệ thần kinh vào trạng thái thư giãn sâu.",
+        "search": "hoat hinh 3d bo nao phat sang song alpha",
+        "caption": "Âm thanh đồng bộ sóng não đưa bạn vào thư giãn."
+      },
+      {
+        "narration": "Chưa kể, thói quen đóng kín cửa khi trời mưa vô tình làm giảm lượng oxy lưu thông trong phòng ngủ của bạn.",
+        "search": "hoat hinh 3d cua so phong ngu dong kin",
+        "caption": "Đóng kín cửa khi mưa làm giảm mạnh oxy trong phòng."
+      },
+      {
+        "narration": "Sự kết hợp giữa áp suất thấp, melatonin tăng vọt và thiếu oxy tạo ra một combo ép não bộ phải \"sập nguồn\".",
+        "search": "hoat hinh 3d nguoi ngu guc dien thoai het pin",
+        "caption": "Combo hoàn hảo ép toàn bộ cơ thể phải \"sập nguồn\"."
+      },
+      {
+        "narration": "Để tỉnh táo, hãy uống một cốc nước ấm để bù oxy, hoặc đơn giản là cho phép mình chợp mắt đúng mười lăm phút.",
+        "search": "hoat hinh 3d uong ly nuoc am tinh tao",
+        "caption": "Uống nước ấm hoặc chợp mắt 15 phút để hồi pin."
+      }
+    ],
+    "error": "",
+    "youtube_id": "xUEc09Sr2JE",
+    "youtube_url": "https://www.youtube.com/watch?v=xUEc09Sr2JE",
+    "created_at": "2026-10-05T11:56:13.933946+00:00",
+    "updated_at": "2026-10-05T11:59:15.565224+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-05T11:57:36.476610+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "493 chars (cat 109 de vua 55s)",
+        "at": "2026-10-05T11:57:54.232845+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.0s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-05T11:58:04.796612+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T11:58:06.188978+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-05T11:58:21.771283+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-05T11:58:21.802201+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.0s 8647358 bytes",
+        "at": "2026-10-05T11:59:07.702762+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=xUEc09Sr2JE",
+        "at": "2026-10-05T11:59:10.499259+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZSkwXYxuHNpyQmrHKUAcvZVdK-d-LgVKRM6i8IC2j4schSjEXH",
+        "at": "2026-10-05T11:59:11.646134+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T11:59:13.086280+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T11:59:13.463107+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"xUEc09Sr2JE\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T11:59:15.420245+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T11:59:15.452181+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T11:59:15.565204+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/16883067/16883067-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/33838546/14360566_720_1280_26fps.mp4",
+      "https://videos.pexels.com/video-files/38810381/16496335_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/6615066/6615066-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/35295313/14954417_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/11487519/11487519-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39425812/16788555_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15362339/15362339-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39459371/16806700_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8856740/8856740-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7277916/7277916-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7986737/7986737-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/15283236/15283236-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "e0b17d9f3c",
     "kind": "short",
     "channel": "Channel2",
