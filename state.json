@@ -1,5 +1,190 @@
 [
   {
+    "id": "e0b17d9f3c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Spartan King Who Sold His Own Crown for Bread",
+    "idea": {
+      "title": "The Spartan King Who Sold His Own Crown for Bread",
+      "hook": "Khi vua xứ Sparta đói khát đến mức phải bán cả vương miện lấy một ổ bánh mì, không ai ngờ đó là cái giá của một lời thề ngốc nghếch.",
+      "beats": [
+        "Cleomenes III bị đuổi khỏi ngai vàng và phải lưu vong sang Ai Cập với tay trắng.",
+        "Vì lòng tự trọng sai lầm, ông từ chối xin ăn và giữ khư khư chiếc vương miện vàng nạm ngọc cuối cùng.",
+        "Cơn đói cào xé buộc vị vua uy quyền một thời phải đổi thứ quý giá nhất đời mình lấy vài mẩu bánh mì khô cứng cho qua ngày."
+      ],
+      "keywords": [
+        "spartan king portrait",
+        "ancient greek coin",
+        "ancient pharaoh art",
+        "egyptian desert painting",
+        "hungry ancient beggar"
+      ],
+      "tags": [
+        "history",
+        "sparta",
+        "ancientgreece",
+        "shorts",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Spartan king once traded his crown for bread.",
+        "search": "spartan king bust statue ancient greece",
+        "caption": "A fallen Spartan king traded his crown for bread."
+      },
+      {
+        "narration": "In 222 BC, King Cleomenes the Third commanded Sparta's military, yet died completely penniless.",
+        "search": "battle of sellasia ancient greek warfare engraving",
+        "caption": "Cleomenes III ruled Sparta before losing everything in 222 BC."
+      },
+      {
+        "narration": "After Macedonian forces shattered his army at Sellasia, Cleomenes fled to Egypt aboard an unarmed merchant vessel.",
+        "search": "ancient trireme galley mediterranean sea painting",
+        "caption": "Crushing defeat forced the monarch to flee across the Mediterranean."
+      },
+      {
+        "narration": "In Alexandria, Pharaoh Ptolemy the Third granted the exiled king sanctuary and promised soldiers to reclaim his throne.",
+        "search": "ptolemy iii euergetes coin portrait engraving",
+        "caption": "Ptolemy III offered sanctuary and promised military aid to Sparta."
+      },
+      {
+        "narration": "Before Cleomenes could launch his campaign, Ptolemy the Third died, leaving the throne to his decadent heir, Ptolemy the Fourth.",
+        "search": "ptolemy iv philopator bust ancient sculpture",
+        "caption": "The sudden death of the pharaoh destroyed Cleomenes's royal alliance."
+      },
+      {
+        "narration": "Viewing the exiled Spartan warrior as a dangerous rival, the new Egyptian court placed Cleomenes under armed house arrest.",
+        "search": "ancient alexandria palace guarded entrance illustration",
+        "caption": "Egypt's new ruler locked the Spartan king inside palace confines."
+      },
+      {
+        "narration": "Cut off from royal stipends, Cleomenes refused to beg common citizens for food while famine gripped his retinue.",
+        "search": "ancient egyptian street market oil painting",
+        "caption": "Cut off from royal funds, the king faced creeping starvation."
+      },
+      {
+        "narration": "Clutching his final possession from Sparta, a jeweled gold diadem, the starving king approached a marketplace baker.",
+        "search": "ancient greek gold diadem artifact museum close up",
+        "caption": "With only his golden diadem left, Cleomenes approached the bakers."
+      },
+      {
+        "narration": "In 219 BC Alexandria, King Cleomenes III surrendered his sacred Spartan diadem to a local baker for a single loaf of barley bread.",
+        "search": "ancient alexandria marketplace oil painting",
+        "caption": "In 219 BC, Cleomenes traded his crown for bread."
+      },
+      {
+        "narration": "This ultimate humiliation fueled a desperate, failed rebellion, ending in the suicide of the last truly powerful Spartan king.",
+        "search": "death of cleomenes iii oil painting",
+        "caption": "The humiliation sparked a failed revolt and his death."
+      },
+      {
+        "narration": "The crown of Sparta was lost forever, leaving a stark historical warning about the fragile nature of absolute power.",
+        "search": "spartan king bust engraving",
+        "caption": "A lasting warning on the fragility of absolute power."
+      },
+      {
+        "narration": "A Spartan king once traded his golden crown for bread.",
+        "search": "Cleomenes III Sparta ancient Greek coin engraving",
+        "caption": "A king traded his crown for bread."
+      }
+    ],
+    "error": "",
+    "youtube_id": "ICw4RaqUu4w",
+    "youtube_url": "https://www.youtube.com/watch?v=ICw4RaqUu4w",
+    "created_at": "2026-10-05T10:45:04.109095+00:00",
+    "updated_at": "2026-10-05T10:48:32.886536+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-05T10:46:23.806167+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "415 chars (cat 199 de vua 55s)",
+        "at": "2026-10-05T10:46:30.238823+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-05T10:46:32.427676+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T10:46:33.598502+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-05T10:47:44.041857+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-05T10:47:44.071706+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 9131318 bytes",
+        "at": "2026-10-05T10:48:27.043421+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ICw4RaqUu4w",
+        "at": "2026-10-05T10:48:29.461536+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabFcodtNoVWKqpTzR3Hh6PHAVuvm-WKma7qxOioklFqk1A3EOGR",
+        "at": "2026-10-05T10:48:30.312963+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T10:48:31.658987+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T10:48:31.923808+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"ICw4RaqUu4w\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T10:48:32.753360+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T10:48:32.784484+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T10:48:32.886527+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38389568/pexels-photo-38389568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20524078/pexels-photo-20524078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34761548/pexels-photo-34761548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31483210/pexels-photo-31483210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36000490/pexels-photo-36000490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9824457/pexels-photo-9824457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20682501/pexels-photo-20682501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15074425/pexels-photo-15074425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11330394/pexels-photo-11330394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1589279/pexels-photo-1589279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22303976/pexels-photo-22303976.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18372218/pexels-photo-18372218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5c4f4321bd",
     "kind": "short",
     "channel": "Channel2",
