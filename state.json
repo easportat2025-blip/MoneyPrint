@@ -1,5 +1,192 @@
 [
   {
+    "id": "df1a54a154",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Horrific Mistake at William the Conqueror's Funeral",
+    "idea": {
+      "title": "The Horrific Mistake at William the Conqueror's Funeral",
+      "hook": "In 1087, King William the Conqueror suffered a fatal injury, but his loyal subjects made a disastrous mistake at his funeral that left the entire church in absolute horror.",
+      "beats": [
+        "During a brutal battle, William's horse stumbled, slamming the king's heavy saddle pommel deep into his abdomen and rupturing his intestines.",
+        "He died weeks later, but during the warm summer heat, his corpse bloated rapidly due to bacteria build-up.",
+        "At the funeral, the stone sarcophagus was carved too small for his swollen, massive body.",
+        "As undertakers tried to force the corpse into the tight tomb, the pressure caused his abdomen to burst open.",
+        "The chapel was instantly filled with an unbearable stench, sending the horrified mourners screaming and running for the exits."
+      ],
+      "keywords": [
+        "william the conqueror",
+        "medieval funeral",
+        "king of england",
+        "middle ages painting",
+        "knight armor"
+      ],
+      "tags": [
+        "#history",
+        "#williamtheconqueror",
+        "#medievalhistory",
+        "#weirdhistory",
+        "#historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A king's bloated corpse exploded inside a medieval cathedral.",
+        "search": "william the conqueror medieval manuscript illumination",
+        "caption": "A king's corpse exploded inside a medieval cathedral."
+      },
+      {
+        "narration": "In September 1087, King William the First of England fell fatally ill after a brutal siege in Mantes, France.",
+        "search": "medieval battle mantes 1087 tapestry engraving",
+        "caption": "King William fell fatally ill in September 1087."
+      },
+      {
+        "narration": "During the conflict, his horse stumbled, violently slamming the heavy saddle pommel into the king's abdomen.",
+        "search": "medieval knight falling from horse manuscript drawing",
+        "caption": "A brutal saddle injury ruptured his internal organs."
+      },
+      {
+        "narration": "After weeks of agony, the king died, but the intense summer heat rapidly bloated his unattended corpse.",
+        "search": "medieval king on deathbed oil painting",
+        "caption": "The summer heat bloated the king's lifeless body."
+      },
+      {
+        "narration": "When his body arrived at the Abbaye-aux-Hommes in Caen, undertakers realized the stone sarcophagus was carved too small.",
+        "search": "abbaye aux hommes caen interior engraving",
+        "caption": "The stone sarcophagus was carved far too small."
+      },
+      {
+        "narration": "Desperate to proceed, the undertakers attempted to forcefully squeeze the swollen monarch into the tight tomb.",
+        "search": "medieval monks burying a body manuscript painting",
+        "caption": "Undertakers tried to force the body inside."
+      },
+      {
+        "narration": "Under the immense pressure, the king's decayed abdomen suddenly burst, releasing a wave of putrid fluids.",
+        "search": "medieval cathedral tomb stone sarcophagus engraving",
+        "caption": "The bloated abdomen burst open under pressure."
+      },
+      {
+        "narration": "An unbearable stench instantly filled the chapel, sending terrified mourners screaming into the streets of Caen.",
+        "search": "medieval people panicking fleeing oil painting",
+        "caption": "Mourners fled the church in absolute horror."
+      },
+      {
+        "narration": "Monks abandoned the ceremony in absolute panic, leaving the once-feared King of England alone in the desecrated church.",
+        "search": "william the conqueror tomb medieval manuscript illustration",
+        "caption": "Mourners flee the desecrated funeral"
+      },
+      {
+        "narration": "This grotesque catastrophe in 1087 permanently stained the legacy of Europe's most ruthless conqueror.",
+        "search": "medieval funeral procession oil painting history",
+        "caption": "The grotesque catastrophe of 1087"
+      },
+      {
+        "narration": "Even in death, William's monstrous expansion of power could not escape the ultimate decay of flesh.",
+        "search": "medieval king armor effigy stone carving",
+        "caption": "Even a conqueror couldn't escape decay"
+      },
+      {
+        "narration": "In 1087, King William the Conqueror's funeral ended in absolute horror.",
+        "search": "william the conqueror portrait painting",
+        "caption": "A royal funeral turned into a horrifying disaster."
+      }
+    ],
+    "error": "",
+    "youtube_id": "7KZ5hZ5_ML0",
+    "youtube_url": "https://www.youtube.com/watch?v=7KZ5hZ5_ML0",
+    "created_at": "2026-10-05T23:18:27.220762+00:00",
+    "updated_at": "2026-10-05T23:24:38.962329+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-05T23:20:23.875500+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "369 chars (cat 480 de vua 55s)",
+        "at": "2026-10-05T23:21:27.661474+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-05T23:21:31.343804+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T23:21:32.450833+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-05T23:23:54.169561+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-05T23:23:54.201073+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 8231111 bytes",
+        "at": "2026-10-05T23:24:33.486994+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=7KZ5hZ5_ML0",
+        "at": "2026-10-05T23:24:35.418082+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYOELsWxjQ37Ewpl3xqKYovBo8NNtR_0ya3O20ALe7Rg7okHvsC",
+        "at": "2026-10-05T23:24:36.166782+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T23:24:37.756033+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T23:24:38.027671+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"7KZ5hZ5_ML0\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T23:24:38.832350+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T23:24:38.864937+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T23:24:38.962320+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30560588/pexels-photo-30560588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34429687/pexels-photo-34429687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34098937/pexels-photo-34098937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17747090/pexels-photo-17747090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38149906/pexels-photo-38149906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38134293/pexels-photo-38134293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38150413/pexels-photo-38150413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34697934/pexels-photo-34697934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36438569/pexels-photo-36438569.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13834912/pexels-photo-13834912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10023890/pexels-photo-10023890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36007914/pexels-photo-36007914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0917f887f3",
     "kind": "short",
     "channel": "Channel3",
