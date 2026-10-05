@@ -1,5 +1,192 @@
 [
   {
+    "id": "5c4f4321bd",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Tragic Mistake That Drove a King Mad",
+    "idea": {
+      "title": "The Tragic Mistake That Drove a King Mad",
+      "hook": "King Charles VI made a fatal mistake at a royal ball, causing his closest friends to burn alive and triggering his own permanent madness.",
+      "beats": [
+        "In 1393, the French King dressed as a 'wild man' in a highly flammable suit of pitch and flax for a palace masquerade.",
+        "To protect the dancers, all torches were strictly banned from entering the ballroom.",
+        "The King's drunk brother arrived late and carelessly brought a torch too close to inspect the costumes.",
+        "A stray spark ignited the dancers, burning four nobles to death while the King barely survived hidden under a duchess's heavy skirt.",
+        "The absolute horror of the event permanently shattered the King's mind, leaving him believing he was made of fragile glass."
+      ],
+      "keywords": [
+        "Charles VI of France",
+        "Bal des Ardents",
+        "medieval masquerade",
+        "torch fire",
+        "mad king painting"
+      ],
+      "tags": [
+        "#history",
+        "#medievalhistory",
+        "#crazyhistory",
+        "#weirdhistory",
+        "#royalfamily"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did a single party trick destroy a king's mind?",
+        "search": "Charles VI of France portrait painting",
+        "caption": "The party that broke a king's mind."
+      },
+      {
+        "narration": "In January 1393, King Charles VI of France hosted a grand masquerade at the Hôtel Saint-Pol in Paris.",
+        "search": "medieval Paris palace illustration manuscript",
+        "caption": "Paris, January 1393."
+      },
+      {
+        "narration": "The King and five of his closest nobles decided to dress as 'wild men' in highly flammable suits of pitch and flax.",
+        "search": "Bal des Ardents medieval illumination manuscript",
+        "caption": "Highly flammable costumes of pitch and flax."
+      },
+      {
+        "narration": "Knowing the extreme danger, the King strictly banned all torches from entering the ballroom.",
+        "search": "medieval ballroom torch fire engraving",
+        "caption": "All torches were strictly banned."
+      },
+      {
+        "narration": "But late in the night, the King's intoxicated brother, Louis of Orléans, stumbled in carrying a burning torch.",
+        "search": "Louis I Duke of Orleans portrait painting",
+        "caption": "An intoxicated brother arrived with fire."
+      },
+      {
+        "narration": "As Louis held the flame close to inspect the dancers, a stray spark ignited the highly combustible costumes.",
+        "search": "Bal des Ardents fire disaster oil painting",
+        "caption": "A single spark ignited the dancers."
+      },
+      {
+        "narration": "Four nobles burned to death, while Charles VI barely survived by hiding beneath the heavy skirts of the Duchess of Berry.",
+        "search": "Joan of Berry duchess medieval portrait engraving",
+        "caption": "Four nobles burned alive."
+      },
+      {
+        "narration": "The trauma of the 'Bal des Ardents' permanently shattered his mind, leaving Charles VI to believe he was made of fragile glass.",
+        "search": "Charles VI of France mad king oil painting",
+        "caption": "He believed his body was made of glass."
+      },
+      {
+        "narration": "Terrified of shattering, King Charles the Sixth wore reinforced iron ribs sewn into his clothing to protect his fragile body.",
+        "search": "King Charles VI of France portrait oil painting",
+        "caption": "He wore iron ribs to prevent his body from shattering."
+      },
+      {
+        "narration": "With the king incapacitated by madness, rival French noble factions launched a brutal civil war for control of the crown.",
+        "search": "Armagnac Burgundian Civil War medieval manuscript illumination",
+        "caption": "His madness plunged France into a devastating civil war."
+      },
+      {
+        "narration": "The tragic fire of thirteen ninety-three ultimately broke a king and crippled a nation, proving a single spark could shatter an empire.",
+        "search": "Bal des Ardents 1393 medieval chronicle painting",
+        "caption": "A single spark shattered a king and crippled an empire."
+      },
+      {
+        "narration": "One royal party drove France's king permanently insane.",
+        "search": "Charles VI of France portrait painting",
+        "caption": "A royal party drove the King permanently insane."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Mcs0xboIrqE",
+    "youtube_url": "https://www.youtube.com/watch?v=Mcs0xboIrqE",
+    "created_at": "2026-10-05T06:46:52.456155+00:00",
+    "updated_at": "2026-10-05T06:51:55.325188+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-05T06:48:42.833748+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "374 chars (cat 308 de vua 55s)",
+        "at": "2026-10-05T06:49:45.479808+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.3s en-US-GuyNeural 6 cau",
+        "at": "2026-10-05T06:49:47.254543+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T06:49:48.408430+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-05T06:51:08.478995+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-05T06:51:08.510301+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.3s 10026976 bytes",
+        "at": "2026-10-05T06:51:49.941005+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Mcs0xboIrqE",
+        "at": "2026-10-05T06:51:52.029654+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabo2jCBNfbyCDz7j9Lx5HonflZCsQgsZ6awIttp46Sas8vp5VpG",
+        "at": "2026-10-05T06:51:52.848207+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T06:51:54.207310+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T06:51:54.435972+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Mcs0xboIrqE\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T06:51:55.196276+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T06:51:55.229111+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T06:51:55.325173+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32591578/pexels-photo-32591578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37054514/pexels-photo-37054514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076981/pexels-photo-16076981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10448321/pexels-photo-10448321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31025659/pexels-photo-31025659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645919/pexels-photo-28645919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7774340/pexels-photo-7774340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29331301/pexels-photo-29331301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13215915/pexels-photo-13215915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076979/pexels-photo-16076979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30415057/pexels-photo-30415057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37054512/pexels-photo-37054512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3dda258183",
     "kind": "short",
     "channel": "Channel3",
