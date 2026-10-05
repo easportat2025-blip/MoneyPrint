@@ -1,5 +1,200 @@
 [
   {
+    "id": "37db163a28",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật kỳ lạ: Tầng 2 đang khiến bạn già nhanh hơn tầng trệt?",
+    "idea": {
+      "title": "Sự thật kỳ lạ: Tầng 2 đang khiến bạn già nhanh hơn tầng trệt?",
+      "hook": "Bạn có biết mình đang già đi nhanh hơn chỉ vì sống ở tầng cao? Đây không phải chuyện tâm linh, mà là vật lý vũ trụ đang tác động lên bạn mỗi giây.",
+      "beats": [
+        "Thuyết tương đối của Einstein chỉ ra: Trọng lực càng mạnh, thời gian trôi càng chậm.",
+        "Mặt đất gần tâm Trái Đất hơn, nên lực hấp dẫn ở tầng trệt mạnh hơn tầng 2 một chút rất nhỏ.",
+        "Kết quả là đồng hồ sinh học và các tế bào ở tầng trên sẽ hoạt động và già đi nhanh hơn tầng dưới vài nano giây.",
+        "Dù mắt thường không thể nhận ra, nhưng cơ thể bạn thực sự đang 'du hành thời gian' lệch nhau mỗi ngày."
+      ],
+      "keywords": [
+        "gravity clock",
+        "einstein relativity",
+        "earth core",
+        "ticking clock",
+        "time lapse space"
+      ],
+      "tags": [
+        "khoahoc",
+        "vutru",
+        "vatly",
+        "einstein",
+        "thuyettuongdoi",
+        "channel3",
+        "khampha",
+        "biandongtay"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ ở tầng hai khiến bạn già nhanh hơn tầng trệt.",
+        "search": "3d hoat hinh ngoi nha cat doi hai tang",
+        "caption": "Ở tầng hai bạn già nhanh hơn tầng trệt"
+      },
+      {
+        "narration": "Nghe như chuyện đùa, nhưng chiếc đồng hồ sinh học của bạn đang thực sự chạy nhanh hơn.",
+        "search": "cartoony 3d dong ho bao thuc chay tren ban ngu",
+        "caption": "Đồng hồ sinh học đang chạy nhanh hơn"
+      },
+      {
+        "narration": "Thủ phạm nằm ở chính khoảng cách giữa chiếc giường ngủ và mặt đất dưới sàn nhà.",
+        "search": "3d animation nguoi nam ngu tren giuong phong ngu",
+        "caption": "Vị trí giường ngủ quyết định tốc độ lão hóa"
+      },
+      {
+        "narration": "Theo thuyết tương đối, trọng lực càng mạnh thì thời gian trôi qua càng chậm lại.",
+        "search": "motion graphics luc hut tac dong vao ban chan tren san",
+        "caption": "Trọng lực càng mạnh thời gian càng chậm"
+      },
+      {
+        "narration": "Tầng trệt ở gần tâm Trái Đất hơn vài mét, nên chịu lực hấp dẫn lớn hơn tầng trên.",
+        "search": "isometric render cau thang trong nha noi tang mot va tang hai",
+        "caption": "Tầng trệt gần tâm Trái Đất hơn vài mét"
+      },
+      {
+        "narration": "Lực hút yếu hơn ở tầng hai khiến từng tế bào trên cơ thể bạn lão hóa nhanh hơn.",
+        "search": "cartoony 3d khuon mat soi guong buoi sang",
+        "caption": "Tế bào tầng trên lão hóa nhanh hơn từng giây"
+      },
+      {
+        "narration": "Khoảng chênh lệch chỉ tính bằng vài phần tỷ giây, nhưng diễn ra liên tục suốt đời bạn.",
+        "search": "3d animation dong ho so dien tu dem thoi gian",
+        "caption": "Chênh lệch vài nano giây mỗi ngày"
+      },
+      {
+        "narration": "Nếu sống trọn 10 năm ở tầng cao, cơ thể bạn sẽ già hơn người tầng trệt bao lâu?",
+        "search": "3d render hai nguoi dung song song o hai tang nha",
+        "caption": "Cơ thể lệch nhau bao nhiêu sau 10 năm?"
+      },
+      {
+        "narration": "Con số chính xác là khoảng 90 phần tỷ giây sau 79 năm bạn sống ở tầng cao.",
+        "search": "3d animation dong ho bao thuc dem so nhanh digital clock isometric render",
+        "caption": "Chênh lệch đúng 90 nano giây sau một đời người"
+      },
+      {
+        "narration": "Kỳ lạ hơn, ngay trên cùng một cơ thể, phần đầu luôn già nhanh hơn bàn chân mỗi khi bạn đứng thẳng.",
+        "search": "cartoony 3d animation nguoi dung do chieu cao thuoc day scanner",
+        "caption": "Đầu của bạn già nhanh hơn bàn chân"
+      },
+      {
+        "narration": "Đặt đệm ngủ bệt dưới sàn giúp tế bào chịu lực hấp dẫn lớn hơn một chút so với nằm giường tầng.",
+        "search": "motion graphics giuong tang phong ngu nem trai san explainer animation",
+        "caption": "Nằm sát sàn nhà chịu lực hút mạnh hơn"
+      },
+      {
+        "narration": "Dù các nhà khoa học đã đo được điều này, vài nano giây không đủ để tạo ra thêm một nếp nhăn.",
+        "search": "3d animation guong soi soi guong mat nguoi soi nep nhan phong to",
+        "caption": "Nano giây không đủ để sinh ra nếp nhăn"
+      },
+      {
+        "narration": "Thay vì lo chuyển xuống tầng trệt, ngủ đủ 8 tiếng mỗi đêm mới thực sự giữ bạn trẻ lâu.",
+        "search": "loop animation nguoi ngu tren giuong dong ho quay cham isometric render",
+        "caption": "Ngủ đủ giấc mới là cách trẻ lâu thực sự"
+      }
+    ],
+    "error": "",
+    "youtube_id": "Z5KRcHK1hA4",
+    "youtube_url": "https://www.youtube.com/watch?v=Z5KRcHK1hA4",
+    "created_at": "2026-10-05T16:42:45.395937+00:00",
+    "updated_at": "2026-10-05T16:46:55.758957+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-05T16:43:14.416405+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "496 chars (cat 433 de vua 55s)",
+        "at": "2026-10-05T16:45:33.912974+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.0s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-05T16:45:40.652481+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T16:45:41.975867+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-05T16:45:58.417512+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-05T16:45:58.454645+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.0s 11141759 bytes",
+        "at": "2026-10-05T16:46:46.524510+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Z5KRcHK1hA4",
+        "at": "2026-10-05T16:46:49.416836+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZ6j9Bn4BnSzMhVsI1o-Ta49yFps92V-WgqNO6kU4AHtKqFCHmD",
+        "at": "2026-10-05T16:46:52.048793+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T16:46:53.448596+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T16:46:53.857714+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Z5KRcHK1hA4\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T16:46:55.625319+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T16:46:55.657653+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T16:46:55.758943+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/36287799/15387069_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39156178/16662436_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9615483/9615483-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/36956163/15656781_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9155190/9155190-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/5871549/5871549-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/15439746/15439746-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6898142/6898142-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667669/9667669-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818603/8818603-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8128725/8128725-hd_720_834_60fps.mp4",
+      "https://videos.pexels.com/video-files/8472596/8472596-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/15440319/15440319-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "31d0edfd97",
     "kind": "short",
     "channel": "Channel3",
