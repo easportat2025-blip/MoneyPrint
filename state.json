@@ -1,5 +1,628 @@
 [
   {
+    "id": "6494d83f8f",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Insatiable Soldier: Tarrare’s Horrific Medical Mystery",
+    "idea": {
+      "title": "The Insatiable Soldier: Tarrare’s Horrific Medical Mystery",
+      "hook": "When Tarrare, a French soldier with an insatiable appetite, was suspected of swallowing a living toddler, it triggered a horrific mystery that doctors deeply regretted they could not solve.",
+      "beats": [
+        "Introduce Tarrare's bizarre youth in rural France, where his abnormal appetite forced his impoverished parents to abandon him to the streets.",
+        "Detail his life as a traveling street performer in Paris, shocking crowds by swallowing corks, stones, and live animals whole.",
+        "Explore his enlistment in the French Revolutionary Army, where standard military rations failed to sustain him, leading to his severe physical collapse.",
+        "Introduce military doctors Baron Percy and Dr. Courville, who began studying Tarrare's terrifying ability to eat a meal meant for fifteen men in one sitting.",
+        "Describe the bizarre military espionage plot where General Beauharnais tested Tarrare by having him swallow a wooden box containing a secret document.",
+        "Recount his failed mission behind Prussian lines, his capture, subsequent torture, and a mock execution that left him deeply traumatized.",
+        "Detail the desperate medical experiments to cure his hunger using opium, tobacco, and wine, all of which failed to suppress his appetite.",
+        "Describe Tarrare's descent into depravity, scavenging in gutters, fighting wild dogs for trash, and drinking human blood from hospital patients.",
+        "Examine the horrific rumors of Tarrare sneaking into the hospital morgue to feed on deceased patients during the dead of night.",
+        "Recount the chilling night a 14-month-old infant vanished from a hospital ward, leading to Tarrare being chased out by a furious, horrified staff.",
+        "Detail his tragic end years later in Versailles, dying of tuberculosis, and the gruesome autopsy that revealed a mutated, fluid-filled digestive system."
+      ],
+      "keywords": [
+        "Tarrare",
+        "medical mysteries",
+        "French Revolution",
+        "insatiable appetite",
+        "weird history",
+        "historical oddities",
+        "military espionage",
+        "strange medical cases",
+        "polyphagia",
+        "18th century France"
+      ],
+      "tags": [
+        "history",
+        "documentary",
+        "tarrare",
+        "medical history",
+        "bizarre history",
+        "true story",
+        "unexplained mysteries",
+        "french army",
+        "weird science",
+        "dark history"
+      ],
+      "kind": "long",
+      "thumbnail_text": "The Man Who Ate A Toddler"
+    },
+    "scenes": [
+      {
+        "narration": "Did a French soldier consume a living toddler? In 1790s France, a military hospital faced a medical mystery that horrified the nation's top doctors.",
+        "search": "18th century French hospital ward engraving",
+        "caption": "Did a French soldier consume a living toddler?"
+      },
+      {
+        "narration": "Born near Lyon around 1772, the young Tarrare suffered from a constant, insatiable hunger that forced his impoverished parents to abandon him to the streets.",
+        "search": "18th century Paris street scene oil painting",
+        "caption": "Abandoned to the streets of Paris due to extreme hunger"
+      },
+      {
+        "narration": "By 1792, Tarrare joined the French Revolutionary Army, but standard military rations could not sustain him, leading to his severe physical collapse.",
+        "search": "French Revolutionary Army soldiers 1792 engraving",
+        "caption": "Standard military rations failed to sustain Tarrare's appetite"
+      },
+      {
+        "narration": "At the military hospital in Soultz, chief surgeon Baron Pierre-Francois Percy began documenting Tarrare's ability to eat meals meant for fifteen men.",
+        "search": "Baron Pierre-Francois Percy portrait painting",
+        "caption": "Baron Percy documented Tarrare's ability to eat for fifteen men"
+      },
+      {
+        "narration": "In 1793, General Alexandre de Beauharnais tested Tarrare's potential for espionage by forcing him to swallow a wooden box containing a secret document.",
+        "search": "Alexandre de Beauharnais portrait painting",
+        "caption": "General Beauharnais tested Tarrare for military espionage"
+      },
+      {
+        "narration": "Captured by Prussian forces outside Landau, Tarrare was tortured and subjected to a mock execution before being returned to the French lines.",
+        "search": "18th century Prussian military interrogation engraving",
+        "caption": "Captured and tortured by Prussian forces behind enemy lines"
+      },
+      {
+        "narration": "Back in the hospital, Tarrare's hunger drove him to drink blood from patients undergoing bloodletting and scavenge for waste in the gutters.",
+        "search": "18th century bloodletting medical procedure engraving",
+        "caption": "Tarrare drank human blood to satisfy his hunger"
+      },
+      {
+        "narration": "Following the disappearance of a 14-month-old infant in 1794, Tarrare was banished, eventually dying of tuberculosis in Versailles in 1798 where an autopsy revealed a massively dilated stomach.",
+        "search": "18th century anatomy theater dissection engraving",
+        "caption": "Tarrare's 1798 autopsy revealed a mutated digestive system"
+      },
+      {
+        "narration": "Beyond scavenging for waste, hospital staff suspected Tarrare of sneaking into the morgue to feed on the bodies of the recently deceased.",
+        "search": "18th century hospital morgue engraving",
+        "caption": "Rumors spread of Tarrare desecrating the hospital morgue."
+      },
+      {
+        "narration": "The horror peaked in 1794 when a fourteen-month-old infant vanished from a ward, and suspicion immediately fell upon the insatiable soldier.",
+        "search": "French revolution era hospital ward sketch",
+        "caption": "A 14-month-old child vanished from the hospital in 1794."
+      },
+      {
+        "narration": "Confronted by a furious and terrified hospital staff, Tarrare was chased from the facility and fled into the streets of Paris.",
+        "search": "Paris street scene 18th century oil painting",
+        "caption": "Tarrare was driven out by horrified hospital staff."
+      },
+      {
+        "narration": "Four years later, in 1798, a severely weakened Tarrare admitted himself to a hospital in Versailles, suffering from advanced tuberculosis.",
+        "search": "Palace of Versailles 18th century engraving",
+        "caption": "Tarrare resurfaced in Versailles in 1798, terminally ill."
+      },
+      {
+        "narration": "Tarrare died shortly after his arrival, his body rapidly decomposing and emitting a stench so foul that doctors struggled to remain in the room.",
+        "search": "18th century physician at deathbed oil painting",
+        "caption": "Tarrare died of tuberculosis in 1798."
+      },
+      {
+        "narration": "Dr. Tessier performed a rushed autopsy, discovering a mutated stomach that filled nearly his entire abdominal cavity and was covered in ulcers.",
+        "search": "18th century medical dissection engraving",
+        "caption": "The autopsy revealed an enormous, mutated stomach."
+      },
+      {
+        "narration": "Baron Percy, who had documented Tarrare's military exploits, published the extraordinary medical findings, cementing the case in medical history.",
+        "search": "Baron Pierre-Francois Percy portrait painting terrifying",
+        "caption": "Baron Percy documented Tarrare's terrifying medical anomaly."
+      },
+      {
+        "narration": "Today, Tarrare remains one of history's most extreme cases of polyphagia, leaving behind a chilling mystery that 18th-century medicine could never fully explain.",
+        "search": "French medical treatise manuscript page 18th century",
+        "caption": "Tarrare's case remains a bizarre 18th-century medical mystery."
+      },
+      {
+        "narration": "Did a soldier swallow a living toddler? In 1794, a French military hospital faced this terrifying question regarding a patient named Tarrare, triggering a horrific mystery that doctors deeply regretted they could never solve.",
+        "search": "18th century French hospital ward engraving where",
+        "caption": "A 1794 French hospital ward where a horrific mystery unfolded."
+      },
+      {
+        "narration": "Born near Lyon around 1772, Tarrare possessed an insatiable appetite from childhood, forcing his impoverished parents to abandon him to the streets of France where he survived as a traveling performer swallowing corks and live animals.",
+        "search": "18th century Paris street performers engraving",
+        "caption": "Tarrare began his bizarre career as a Parisian street performer."
+      },
+      {
+        "narration": "Upon enlisting in the French Revolutionary Army in 1792, standard military rations failed to sustain his massive hunger, causing a physical collapse that brought him under the study of Dr. Courville and Baron Pierre-François Percy.",
+        "search": "French Revolutionary Army soldiers 1792 oil painting",
+        "caption": "Tarrare joined the French Revolutionary Army in 1792."
+      },
+      {
+        "narration": "Seeking to utilize his condition, General Alexandre de Beauharnais forced Tarrare to swallow a wooden box containing a secret document to smuggle past enemy lines in 1793, a mission that ended in Prussian capture and torture.",
+        "search": "General Alexandre de Beauharnais portrait painting",
+        "caption": "General Beauharnais designed a bizarre espionage mission for Tarrare."
+      },
+      {
+        "narration": "Traumatized by his captivity, Tarrare returned to the hospital where Baron Percy attempted to cure his hunger using large doses of opium, tobacco, and wine, but every medical intervention failed.",
+        "search": "18th century medical apothecary jars oil painting",
+        "caption": "Doctors tried opium and tobacco to cure Tarrare's hunger."
+      },
+      {
+        "narration": "Driven mad by hunger, Tarrare began scavenging in gutters, fighting wild dogs for waste, and was caught drinking blood from patients and sneaking into the hospital morgue.",
+        "search": "18th century hospital morgue engraving resorted",
+        "caption": "Tarrare resorted to horrific acts inside the hospital walls."
+      },
+      {
+        "narration": "The horror culminated when a fourteen-month-old infant vanished from a hospital ward, leading the furious staff to immediately suspect Tarrare and chase him from the facility.",
+        "search": "18th century French nursery engraving",
+        "caption": "The disappearance of an infant led to Tarrare's banishment."
+      },
+      {
+        "narration": "Four years later in 1798, Tarrare died of tuberculosis in Versailles, where an autopsy revealed a mutated, fluid-filled stomach, confirming a physical deformity that 18th-century medicine could never cure.",
+        "search": "Versailles palace 18th century oil painting",
+        "caption": "Tarrare's life ended in Versailles in 1798, leaving a medical mystery."
+      },
+      {
+        "narration": "What did French surgeons find inside Tarrare's body that made them immediately halt his autopsy in sheer disgust?",
+        "search": "18th century medical dissection engraving gruesome",
+        "caption": "The gruesome post-mortem examination of Tarrare."
+      },
+      {
+        "narration": "In 1805, military surgeon Baron Pierre-François Percy published his extensive observations, detailing a stomach that occupied nearly the entire abdominal cavity.",
+        "search": "Pierre-Francois Percy portrait painting",
+        "caption": "Baron Pierre-François Percy documented the bizarre case."
+      },
+      {
+        "narration": "During the French Revolutionary Wars, medical understanding of metabolic disorders like polyphagia was virtually non-existent, leaving doctors to rely on crude purgatives.",
+        "search": "french revolutionary war hospital engraving",
+        "caption": "Eighteenth-century military hospitals lacked modern metabolic science."
+      },
+      {
+        "narration": "General Alexandre de Beauharnais made the fateful decision to use Tarrare's condition for espionage, risking a soldier's life for a wooden cylinder.",
+        "search": "Alexandre de Beauharnais portrait painting attempted",
+        "caption": "General Beauharnais attempted to use Tarrare as a spy."
+      },
+      {
+        "narration": "Captured by Prussian forces outside Landau, Tarrare was subjected to a brutal mock execution that shattered his remaining mental stability.",
+        "search": "prussian soldiers 18th century engraving",
+        "caption": "Tarrare suffered severe trauma during Prussian captivity."
+      },
+      {
+        "narration": "Returned to the hospital in Paris, the desperate soldier began consuming waste, blood, and eventually faced accusations of the ultimate taboo.",
+        "search": "18th century paris hospital interior engraving",
+        "caption": "Tarrare's behavior grew increasingly desperate and horrific."
+      },
+      {
+        "narration": "Modern endocrinologists suggest Tarrare may have suffered from an extreme case of hyperthyroidism combined with a damaged amygdala.",
+        "search": "18th century anatomical drawing of human brain engraving",
+        "caption": "Modern science attempts to explain Tarrare's condition."
+      },
+      {
+        "narration": "Ultimately, Tarrare remains history's most extreme medical anomaly, a man consumed entirely by a physical hunger that science could neither explain nor cure.",
+        "search": "18th century french street scene oil painting",
+        "caption": "Tarrare's tragic legacy endures in medical history."
+      },
+      {
+        "narration": "In 1792, as the War of the First Coalition erupted, Tarrare enlisted in the French Revolutionary Army to secure access to military rations.",
+        "search": "french revolutionary army 1792 soldiers oil painting",
+        "caption": "Tarrare enlisted in the French Revolutionary Army in 1792."
+      },
+      {
+        "narration": "Even quadruple rations failed to satisfy his hunger, causing him to suffer from extreme exhaustion and collapse on the battlefield.",
+        "search": "18th century military hospital ward engraving",
+        "caption": "Standard military rations failed to sustain his extreme appetite."
+      },
+      {
+        "narration": "Admitted to the military hospital in Soultz, he came under the observation of chief surgeon Baron Pierre-François Percy and Dr. Courville.",
+        "search": "baron pierre francois percy portrait painting",
+        "caption": "Chief surgeon Baron Percy began investigating Tarrare's condition."
+      },
+      {
+        "narration": "To measure his capacity, the doctors presented him with a meal prepared for fifteen German laborers, which he devoured entirely without hesitation.",
+        "search": "18th century banquet table feast oil painting",
+        "caption": "Tarrare devoured a meal meant for fifteen men in one sitting."
+      },
+      {
+        "narration": "During these feeding sessions, his skin would stretch excessively, and a hot, foul-smelling vapor rose visibly from his body.",
+        "search": "18th century medical caricature engraving of gluttony",
+        "caption": "His body underwent extreme physical transformations while eating."
+      },
+      {
+        "narration": "General Alexandre de Beauharnais decided to exploit this anomaly, proposing to use Tarrare as a courier for covert military intelligence.",
+        "search": "alexandre de beauharnais portrait painting sought",
+        "caption": "General Beauharnais sought to weaponize Tarrare's condition."
+      },
+      {
+        "narration": "To test his reliability, the general forced Tarrare to swallow a small wooden box containing a mock secret document.",
+        "search": "18th century wooden document box engraving",
+        "caption": "Tarrare swallowed a wooden box containing a secret message."
+      },
+      {
+        "narration": "After passing the box successfully through his digestive tract, Tarrare was officially approved for a dangerous espionage mission behind enemy lines.",
+        "search": "18th century military camp map engraving",
+        "caption": "The successful retrieval launched Tarrare's career as a military spy."
+      },
+      {
+        "narration": "In 1793, Tarrare crossed into Prussian-controlled territory disguised as a German peasant, but his complete inability to speak the language immediately raised alarms.",
+        "search": "18th century prussian border outpost engraving",
+        "caption": "Tarrare crossed into enemy territory disguised as a peasant."
+      },
+      {
+        "narration": "Prussian military patrols near Landau quickly detained the suspicious traveler, subjecting him to a rigorous physical search that yielded no hidden documents.",
+        "search": "18th century prussian soldiers arresting peasant sketch",
+        "caption": "Prussian patrols detained Tarrare near Landau in 1793."
+      },
+      {
+        "narration": "After hours of brutal interrogation and physical torture, Tarrare's psychological defenses collapsed, and he admitted to swallowing a secret military message.",
+        "search": "18th century military interrogation dungeon engraving",
+        "caption": "Tarrare confessed to swallowing a secret military message."
+      },
+      {
+        "narration": "Prussian General Zoegli ordered the prisoner chained to a latrine under constant guard until his digestive tract yielded the swallowed wooden container.",
+        "search": "18th century military prison cell chains sketch",
+        "caption": "General Zoegli kept Tarrare under strict guard."
+      },
+      {
+        "narration": "When the wooden box finally emerged, the Prussian officers opened it only to find the mock message, which infuriated the commander.",
+        "search": "18th century military officers examining document oil painting",
+        "caption": "The Prussians found only a worthless mock message."
+      },
+      {
+        "narration": "Believing he had been mocked, General Zoegli ordered a mock execution, placing a noose around Tarrare's neck before granting a last-minute reprieve.",
+        "search": "18th century gallows execution crowd engraving",
+        "caption": "Tarrare faced a terrifying mock execution on the gallows."
+      },
+      {
+        "narration": "The traumatized soldier was severely beaten and dumped near French lines, where he immediately returned to the military hospital in Strasbourg.",
+        "search": "18th century military hospital exterior sketch",
+        "caption": "Tarrare returned to Strasbourg deeply traumatized by his ordeal."
+      },
+      {
+        "narration": "Desperate to be cured of his agonizing condition, Tarrare pleaded with Baron Percy, who began administering experimental doses of wine vinegar and tobacco.",
+        "search": "18th century physician administering medicine to patient oil painting",
+        "caption": "Baron Percy attempted to cure Tarrare using experimental treatments."
+      },
+      {
+        "narration": "Baron Percy next administered heavy doses of opium, laudanum, and wine vinegar to suppress Tarrare's appetite, but these substances had no effect on his digestive drive.",
+        "search": "18th century medical apothecary bottles engraving",
+        "caption": "Experimental treatments with opium and acids failed to cure Tarrare."
+      },
+      {
+        "narration": "Driven mad by constant hunger, Tarrare began slipping out of his hospital room at night to search the surrounding streets of Strasbourg for food.",
+        "search": "18th century Strasbourg street night engraving",
+        "caption": "Tarrare escaped his hospital ward to scavenge the dark streets."
+      },
+      {
+        "narration": "He was observed fighting stray dogs and alley cats in the gutters, desperately snatching up discarded offal and rotting animal carcasses.",
+        "search": "stray dogs fighting in alley 18th century sketch",
+        "caption": "He fought wild animals for scraps in the city gutters."
+      },
+      {
+        "narration": "Inside the Strasbourg hospital, staff caught Tarrare drinking blood that had been drained from other patients during bloodletting procedures.",
+        "search": "18th century bloodletting medical illustration",
+        "caption": "Tarrare was caught drinking blood drained from hospital patients."
+      },
+      {
+        "narration": "Horrified rumors spread among the orderlies that Tarrare was sneaking into the hospital morgue to feed on the bodies of the recently deceased.",
+        "search": "18th century hospital morgue dead bodies engraving",
+        "caption": "Rumors spread that Tarrare fed on bodies in the morgue."
+      },
+      {
+        "narration": "Despite the growing terror of the hospital staff, Baron Percy kept Tarrare under his care to continue documenting this unprecedented medical anomaly.",
+        "search": "Baron Pierre-Francois Percy portrait painting refused",
+        "caption": "Baron Percy refused to expel Tarrare despite the staff's terror."
+      },
+      {
+        "narration": "The situation reached a breaking point in 1793 when a fourteen-month-old infant mysteriously vanished from one of the hospital wards.",
+        "search": "empty wooden cradle 18th century painting",
+        "caption": "A fourteen-month-old infant vanished from a hospital ward."
+      },
+      {
+        "narration": "Suspicion immediately fell upon Tarrare, prompting a furious search by the hospital staff who feared the absolute worst.",
+        "search": "angry mob 18th century french engraving",
+        "caption": "Furious hospital staff immediately suspected Tarrare of the crime."
+      },
+      {
+        "narration": "In 1793, following the sudden disappearance of the fourteen-month-old child, Baron Percy and the hospital staff confronted Tarrare under heavy suspicion of cannibalism.",
+        "search": "18th century French hospital ward engraving confronted",
+        "caption": "Hospital staff confronted Tarrare following the infant's disappearance."
+      },
+      {
+        "narration": "Terrified of the gathering mob and the physical consequences of his suspected crime, Tarrare fled the hospital and vanished into the streets of Paris.",
+        "search": "18th century Paris street night oil painting",
+        "caption": "Tarrare fled into the Paris streets to escape the furious staff."
+      },
+      {
+        "narration": "For four years, the disgraced soldier lived in complete obscurity, evading authorities while his health deteriorated rapidly without medical supervision.",
+        "search": "18th century French peasant slums engraving",
+        "caption": "Tarrare spent four years hiding in absolute poverty and obscurity."
+      },
+      {
+        "narration": "In 1798, a severely weakened Tarrare admitted himself to the hospice in Versailles, where Dr. Tessier recognized the famous patient.",
+        "search": "Versailles hospital building 18th century engraving",
+        "caption": "In 1798, Tarrare reemerged at a hospice in Versailles."
+      },
+      {
+        "narration": "Tarrare claimed his condition was caused by a golden fork he had swallowed years prior, but doctors diagnosed him with advanced tuberculosis.",
+        "search": "18th century medical doctor examining patient oil painting",
+        "caption": "Doctors diagnosed the bedridden Tarrare with terminal tuberculosis."
+      },
+      {
+        "narration": "Within a month, Tarrare suffered from continuous, foul-smelling diarrhea and died at the age of twenty-six in Versailles.",
+        "search": "18th century deathbed scene oil painting",
+        "caption": "Tarrare died in Versailles in 1798 at age twenty-six."
+      },
+      {
+        "narration": "During the autopsy, reluctant physicians discovered an enormous, pus-filled stomach that filled almost his entire abdominal cavity, alongside an oversized liver.",
+        "search": "18th century anatomical drawing of human stomach manuscript",
+        "caption": "The autopsy revealed a mutated, fluid-filled digestive tract."
+      },
+      {
+        "narration": "Today, medical historians analyze Tarrare's extreme case as a severe combination of polyphagia and damaged brain receptors, leaving an unresolved mystery of human biology.",
+        "search": "18th century medical treatise book page engraving",
+        "caption": "Tarrare's case remains one of history's most extreme medical mysteries."
+      },
+      {
+        "narration": "In 1792, during the War of the First Coalition, Tarrare enlisted in the French Revolutionary Army, but standard military rations failed to sustain his abnormal metabolism.",
+        "search": "french revolutionary army 1792 soldiers oil painting close up",
+        "caption": "Tarrare enlisted in the French Revolutionary Army in 1792."
+      },
+      {
+        "narration": "Suffering from extreme exhaustion, he was admitted to the military hospital at Soultz, where chief surgeon Baron Pierre-François Percy began observing his insatiable appetite.",
+        "search": "baron pierre francois percy portrait painting observed",
+        "caption": "Chief surgeon Baron Percy observed Tarrare's extreme condition."
+      },
+      {
+        "narration": "To test his capacity, doctors presented Tarrare with a meal prepared for fifteen German laborers, which he devoured entirely alongside live cats and snakes.",
+        "search": "18th century military hospital ward engraving massive",
+        "caption": "Tarrare devoured massive meals and live animals under medical observation."
+      },
+      {
+        "narration": "General Alexandre de Beauharnais decided to exploit this condition for espionage, planning to use Tarrare as a courier to smuggle secret documents through enemy lines.",
+        "search": "alexandre de beauharnais portrait painting handheld",
+        "caption": "General Beauharnais designed a bizarre military espionage plot."
+      },
+      {
+        "narration": "Tarrare successfully swallowed a small wooden box containing a mock letter to a French colonel imprisoned by Prussian forces.",
+        "search": "18th century wooden document box engraving low angle",
+        "caption": "Tarrare swallowed a wooden box containing a test message."
+      },
+      {
+        "narration": "Disguised as a peasant, Tarrare crossed into Prussian territory near Landau in 1793, but his inability to speak German and strange behavior immediately aroused suspicion.",
+        "search": "prussian soldiers 18th century oil painting",
+        "caption": "Tarrare was quickly captured by Prussian forces in 1793."
+      },
+      {
+        "narration": "After recovering the wooden box from his bowel movements, the Prussian commander General Zoegli ordered a mock execution, leaving Tarrare severely traumatized before releasing him.",
+        "search": "18th century military prison dungeon engraving",
+        "caption": "A mock execution left Tarrare deeply traumatized."
+      },
+      {
+        "narration": "Returning to Baron Percy's care, a desperate Tarrare agreed to undergo experimental treatments, including heavy doses of opium, wine vinegar, and tobacco pills, to suppress his agonizing hunger.",
+        "search": "18th century apothecary bottles and medical tools engraving",
+        "caption": "Doctors tried opium and tobacco to cure his insatiable appetite."
+      },
+      {
+        "narration": "As the experimental treatments failed, Tarrare resorted to scavenging the gutters for offal and secretly drinking blood from patients undergoing bloodletting.",
+        "search": "18th century French hospital bloodletting engraving",
+        "caption": "Tarrare scavenged for waste and drank blood from hospital patients."
+      },
+      {
+        "narration": "Suspicion turned to horror when hospital staff accused Tarrare of sneaking into the morgue to feed on the bodies of the deceased.",
+        "search": "18th century medical morgue engraving",
+        "caption": "Rumors spread that Tarrare fed on bodies in the morgue."
+      },
+      {
+        "narration": "The crisis peaked in 1794 when a fourteen-month-old infant vanished from a hospital ward, with Tarrare immediately suspected of the crime.",
+        "search": "18th century hospital ward interior oil painting",
+        "caption": "A fourteen-month-old infant vanished from the hospital ward in 1794."
+      },
+      {
+        "narration": "Facing the fury of the hospital staff, Baron Pierre-Francois Percy expelled Tarrare from the institution, leaving him to wander the streets once more.",
+        "search": "Baron Pierre-Francois Percy portrait painting expelled",
+        "caption": "Baron Percy expelled Tarrare from the hospital under heavy suspicion."
+      },
+      {
+        "narration": "In 1798, a severely weakened Tarrare emerged at a hospital in Versailles, bedridden with advanced tuberculosis and constant diarrhea.",
+        "search": "18th century Versailles palace and town engraving",
+        "caption": "Tarrare resurfaced in Versailles in 1798 suffering from tuberculosis."
+      },
+      {
+        "narration": "Tarrare died in 1798, and his body decomposed so rapidly that doctors had to overcome a suffocating stench to perform an immediate autopsy.",
+        "search": "18th century medical autopsy engraving",
+        "caption": "Tarrare died in 1798, triggering an immediate, foul-smelling autopsy."
+      },
+      {
+        "narration": "The dissection revealed a mutated digestive tract, featuring an enormous, ulcer-covered stomach that filled nearly his entire abdominal cavity.",
+        "search": "18th century anatomical drawing of human stomach digestive system",
+        "caption": "Autopsy revealed a massive, mutated stomach and widened esophagus."
+      },
+      {
+        "narration": "Tarrare's extreme case of polyphagia remains one of the most terrifying, unsolved anomalies in the annals of modern medical history.",
+        "search": "18th century medical book open on table oil painting",
+        "caption": "Tarrare remains an unsolved medical mystery of the 18th century."
+      },
+      {
+        "narration": "Did a French soldier actually devour a living toddler?",
+        "search": "18th century French hospital ward engraving",
+        "caption": "Did a French soldier actually devour a living toddler?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "BvMqJY6PQ0E",
+    "youtube_url": "https://www.youtube.com/watch?v=BvMqJY6PQ0E",
+    "created_at": "2026-10-05T21:21:17.953105+00:00",
+    "updated_at": "2026-10-05T21:44:26.229682+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-05T21:34:20.523708+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2143 chars",
+        "at": "2026-10-05T21:35:36.295741+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "130.2s en-US-GuyNeural 16 cau",
+        "at": "2026-10-05T21:35:46.710277+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T21:35:51.441167+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-05T21:41:12.738047+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-05T21:41:12.770302+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 130.2s 45548189 bytes",
+        "at": "2026-10-05T21:44:14.887368+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-10-05T21:44:14.953513+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=BvMqJY6PQ0E",
+        "at": "2026-10-05T21:44:20.706352+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZMLmO1R7vyjsvsTod52y96pr_iT8Wivw6RbSLUaE9ITmukPnWx",
+        "at": "2026-10-05T21:44:22.551792+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T21:44:24.055396+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T21:44:24.420455+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"BvMqJY6PQ0E\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T21:44:26.085862+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T21:44:26.119123+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T21:44:26.229669+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30823616/pexels-photo-30823616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17394906/pexels-photo-17394906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268695/pexels-photo-9268695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14558310/pexels-photo-14558310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2362469/pexels-photo-2362469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386752/pexels-photo-35386752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6629375/pexels-photo-6629375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37188996/pexels-photo-37188996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36167630/pexels-photo-36167630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30823617/pexels-photo-30823617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39890872/pexels-photo-39890872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17283209/pexels-photo-17283209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6715285/pexels-photo-6715285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38967279/pexels-photo-38967279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39899224/pexels-photo-39899224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/716663/pexels-photo-716663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33916267/pexels-photo-33916267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33647364/pexels-photo-33647364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268683/pexels-photo-9268683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33627512/pexels-photo-33627512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18624316/pexels-photo-18624316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37493695/pexels-photo-37493695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17032851/pexels-photo-17032851.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5577767/pexels-photo-5577767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37599391/pexels-photo-37599391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11770961/pexels-photo-11770961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34075494/pexels-photo-34075494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2883057/pexels-photo-2883057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267826/pexels-photo-9267826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15344167/pexels-photo-15344167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7257236/pexels-photo-7257236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39221677/pexels-photo-39221677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268696/pexels-photo-9268696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8410647/pexels-photo-8410647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36697969/pexels-photo-36697969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27389956/pexels-photo-27389956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16330505/pexels-photo-16330505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28941769/pexels-photo-28941769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27635485/pexels-photo-27635485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33436725/pexels-photo-33436725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269084/pexels-photo-9269084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326485/pexels-photo-18326485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9483181/pexels-photo-9483181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6069250/pexels-photo-6069250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3795023/pexels-photo-3795023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563571/pexels-photo-16563571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31192299/pexels-photo-31192299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8376155/pexels-photo-8376155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8666424/pexels-photo-8666424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32116748/pexels-photo-32116748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24205950/pexels-photo-24205950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6715286/pexels-photo-6715286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30509000/pexels-photo-30509000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20697388/pexels-photo-20697388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38741047/pexels-photo-38741047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29308022/pexels-photo-29308022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11782003/pexels-photo-11782003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31435707/pexels-photo-31435707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6467353/pexels-photo-6467353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12430408/pexels-photo-12430408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7579824/pexels-photo-7579824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18155102/pexels-photo-18155102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7333602/pexels-photo-7333602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38374178/pexels-photo-38374178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397722/pexels-photo-16397722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37573755/pexels-photo-37573755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29138608/pexels-photo-29138608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33920083/pexels-photo-33920083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4140916/pexels-photo-4140916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268587/pexels-photo-9268587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/191109/pexels-photo-191109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31851609/pexels-photo-31851609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38167769/pexels-photo-38167769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8667950/pexels-photo-8667950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3769151/pexels-photo-3769151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18453509/pexels-photo-18453509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31596014/pexels-photo-31596014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8666446/pexels-photo-8666446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8471867/pexels-photo-8471867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7301922/pexels-photo-7301922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36894790/pexels-photo-36894790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "06329d5946",
     "kind": "short",
     "channel": "Channel3",
