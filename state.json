@@ -1,5 +1,197 @@
 [
   {
+    "id": "0917f887f3",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "tại sao bước qua cửa lại khiến bạn quên mất mình định làm gì?",
+    "idea": {
+      "title": "tại sao bước qua cửa lại khiến bạn quên mất mình định làm gì?",
+      "hook": "Bạn vừa đứng dậy lấy thứ gì đó, nhưng vừa bước qua khung cửa sổ hay cửa phòng là quên sạch. Không phải do trí nhớ kém, mà là do chính không gian đang đánh lừa não bộ bạn.",
+      "beats": [
+        "Hiện tượng tâm lý 'hiệu ứng ranh giới cửa' (Doorway Effect) khiến não lập tức xóa bớt bộ nhớ ngắn hạn để dọn chỗ cho không gian mới.",
+        "Đối với não bộ, mỗi khung cửa là một vạch đích khép lại một nhiệm vụ và mở ra một bối cảnh hoàn toàn mới.",
+        "Minh họa bằng đồ họa không gian vũ trụ: Các chiều không gian và khoảng cách giả lập tương tự cách não phân chia ranh giới.",
+        "Cách khắc phục đơn giản: Tưởng tượng lại mục đích ban đầu ngay trước khi bước qua khung cửa."
+      ],
+      "keywords": [
+        "space portal animation",
+        "glowing cosmic door",
+        "galaxy abstract motion",
+        "sci fi corridor background",
+        "universe time space warp"
+      ],
+      "tags": [
+        "channel3",
+        "tamlyhoc",
+        "naobo",
+        "khohoc",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bước qua cửa, sao bạn quên ngay việc định làm?",
+        "search": "3d hoat hoa nguoi di qua cua phong isometric",
+        "caption": "Bước qua cửa, sao bạn quên ngay việc định làm?"
+      },
+      {
+        "narration": "Hiện tượng này xảy ra với mọi bộ não khỏe mạnh, không phải do bạn bị trí nhớ kém.",
+        "search": "3d hoat hoa bo nao quet anh sang scan",
+        "caption": "Không phải do bạn có trí nhớ kém"
+      },
+      {
+        "narration": "Khoa học gọi đây là Hiệu ứng ranh giới cửa, một cơ chế tự động dọn dẹp dữ liệu của não bộ.",
+        "search": "3d hoat hoa thung rac xoa file may tinh",
+        "caption": "Hiệu ứng ranh giới cửa xóa dữ liệu"
+      },
+      {
+        "narration": "Khi bạn di chuyển sang phòng khác, não bộ coi cánh cửa là một vạch đích kết thúc nhiệm vụ cũ.",
+        "search": "3d hoat hoa cua mo ra phong khac nhau",
+        "caption": "Cánh cửa là vạch đích kết thúc nhiệm vụ"
+      },
+      {
+        "narration": "Để chuẩn bị cho bối cảnh mới, bộ nhớ ngắn hạn lập tức bị xóa sạch để dọn chỗ trống.",
+        "search": "do hoa chuyen dong xoa bang ghi nho",
+        "caption": "Bộ nhớ ngắn hạn lập tức bị xóa sạch"
+      },
+      {
+        "narration": "Giống như việc bạn tắt một tab trình duyệt cũ để mở một tab hoàn toàn mới trên máy tính.",
+        "search": "3d hoat hoa dong tab trinh duyet may tinh",
+        "caption": "Như việc đóng tab cũ mở tab mới"
+      },
+      {
+        "narration": "Để khắc phục, hãy nhẩm lại mục tiêu trong đầu ngay trước khi bạn đặt chân qua khung cửa.",
+        "search": "3d hoat hoa bong den sang len tren dau",
+        "caption": "Nhẩm lại mục tiêu trước khi bước qua"
+      },
+      {
+        "narration": "Hoặc đơn giản là cầm sẵn vật liên quan trên tay để nhắc nhở não bộ không được quên.",
+        "search": "3d hoat hoa ban tay cam chiec chia khoa",
+        "caption": "Cầm sẵn đồ vật liên quan trên tay"
+      },
+      {
+        "narration": "Nhiều người nghĩ đây là dấu hiệu của việc não bộ đang lão hóa sớm hoặc suy giảm trí nhớ nghiêm trọng.",
+        "search": "nguoi tre om dau mat mo ho vi quen viec",
+        "caption": "Nhiều người lo lắng đây là dấu hiệu suy giảm trí nhớ"
+      },
+      {
+        "narration": "Thực tế, các nhà khoa học chứng minh hiện tượng này xảy ra với cả những người có bộ nhớ cực kỳ sắc bén.",
+        "search": "bo nao hoat dong tap trung suy nghi 3d animation",
+        "caption": "Khoa học chứng minh hiện tượng này xảy ra với tất cả mọi người"
+      },
+      {
+        "narration": "Nguyên nhân là vì não phải xử lý quá nhiều thông tin mới được nạp vào cùng một thời điểm khi đổi phòng.",
+        "search": "thong tin du lieu chay qua man hinh mo phong 3d",
+        "caption": "Não phải xử lý quá nhiều thông tin mới cùng lúc"
+      },
+      {
+        "narration": "Việc dọn dẹp bộ nhớ ngắn hạn này thực chất là cơ chế sinh tồn giúp não tránh bị quá tải thông tin.",
+        "search": "mo phong te bao nao ket noi dien 3d motion",
+        "caption": "Đây thực chất là cơ chế sinh tồn giúp não không bị quá tải"
+      },
+      {
+        "narration": "Mẹo nhỏ là hãy chạm tay vào khung cửa hoặc tự nhẩm lại mục tiêu để giữ nguyên mạch suy nghĩ.",
+        "search": "nguoi cham tay vao khung cua phong hoat hinh",
+        "caption": "Mẹo đơn giản giúp bạn không bao giờ quên khi bước qua cửa"
+      }
+    ],
+    "error": "",
+    "youtube_id": "X2eW9YJkRtc",
+    "youtube_url": "https://www.youtube.com/watch?v=X2eW9YJkRtc",
+    "created_at": "2026-10-05T22:08:04.698998+00:00",
+    "updated_at": "2026-10-05T22:12:33.891416+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-05T22:10:16.675255+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "474 chars (cat 341 de vua 55s)",
+        "at": "2026-10-05T22:11:19.655847+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.1s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-05T22:11:26.916231+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T22:11:28.193255+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-05T22:11:40.163450+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-05T22:11:40.195570+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.2s 10766153 bytes",
+        "at": "2026-10-05T22:12:28.354903+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=X2eW9YJkRtc",
+        "at": "2026-10-05T22:12:30.601447+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaa65_UN-lsJZC8RC1QzPmQDDEBNd5NpwamK8991bDAaqWOBK43H",
+        "at": "2026-10-05T22:12:31.413352+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T22:12:32.737506+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T22:12:33.022082+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"X2eW9YJkRtc\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T22:12:33.748732+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T22:12:33.782834+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T22:12:33.891401+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35965997/15248183_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/5700082/5700082-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655794/16655794-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7117559/7117559-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/37211136/15763774_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7600542/7600542-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31069867/13277767_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8816953/8816953-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6801390/6801390-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/29083313/12568191_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263444/8263444-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7984185/7984185-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8939359/8939359-hd_720_1280_50fps.mp4"
+    ]
+  },
+  {
     "id": "6494d83f8f",
     "kind": "long",
     "channel": "seigh",
