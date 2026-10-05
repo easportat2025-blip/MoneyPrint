@@ -1,5 +1,191 @@
 [
   {
+    "id": "ba754b0b37",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Man Who Bought Rome at an Auction",
+    "idea": {
+      "title": "The Man Who Bought Rome at an Auction",
+      "hook": "In 193 AD, a wealthy senator bought the entire Roman Empire at an auction, only to realize he had purchased his own death sentence.",
+      "beats": [
+        "The Praetorian Guard assassinated Emperor Pertinax and shamelessly announced the throne would go to the highest bidder.",
+        "Senator Didius Julianus rushed to the military camp and won the bidding war by offering 25,000 sesterces per soldier.",
+        "The Roman populace was outraged, pelting him with stones and refusing to acknowledge a ruler who bought his crown.",
+        "Just 66 days later, rival legions marched on Rome, and the panicked guards abandoned Julianus to be executed in a deserted palace bathroom."
+      ],
+      "keywords": [
+        "Didius Julianus Roman Emperor bust",
+        "Praetorian Guard ancient Rome engraving",
+        "Roman Forum ancient oil painting",
+        "Roman coin sestertius antique macro",
+        "Septimius Severus portrait painting"
+      ],
+      "tags": [
+        "romanempire",
+        "historyfacts",
+        "ancientrome",
+        "didiusjulianus",
+        "historicalirony"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 193 AD, one man bought the Roman Empire.",
+        "search": "Didius Julianus Roman Emperor bust",
+        "caption": "He bought the Roman Empire at an auction."
+      },
+      {
+        "narration": "In March 193 AD, the Praetorian Guard assassinated Emperor Pertinax in Rome, leaving the throne vacant.",
+        "search": "Praetorian Guard ancient Rome engraving",
+        "caption": "Emperor Pertinax was assassinated in March 193 AD."
+      },
+      {
+        "narration": "Instead of appointing a successor, the guards shamelessly announced that the Roman Empire would go to the highest bidder.",
+        "search": "Roman Forum ancient oil painting",
+        "caption": "The Praetorian Guard auctioned the imperial throne."
+      },
+      {
+        "narration": "Senator Didius Julianus rushed to the military camp to secure his bid against a rival politician.",
+        "search": "Roman Senate oil painting",
+        "caption": "Senator Didius Julianus entered the bidding war."
+      },
+      {
+        "narration": "Julianus won the empire by offering a massive 25,000 sesterces to every single soldier in the guard.",
+        "search": "Roman coin sestertius antique macro",
+        "caption": "He promised 25,000 sesterces to every soldier."
+      },
+      {
+        "narration": "The outraged Roman populace immediately rejected him, pelting the new emperor with stones in the streets.",
+        "search": "ancient Rome street riot engraving",
+        "caption": "Angry citizens refused to acknowledge the new ruler."
+      },
+      {
+        "narration": "Sensing weakness, General Septimius Severus mobilized his Danube legions and marched directly toward Rome.",
+        "search": "Septimius Severus portrait painting",
+        "caption": "General Septimius Severus marched his legions to Rome."
+      },
+      {
+        "narration": "Just sixty-six days after buying his crown, Julianus was abandoned by his guards and executed in a deserted palace bathroom.",
+        "search": "Palatine Hill ruins old engraving",
+        "caption": "Didius Julianus was executed after just sixty-six days."
+      },
+      {
+        "narration": "Entering Rome in June 193 AD, Septimius Severus summoned the Praetorian Guard without weapons, stripped them of their insignia, and banished them from the capital.",
+        "search": "Septimius Severus marble bust statue",
+        "caption": "Severus stripped and banished the guards who auctioned the throne."
+      },
+      {
+        "narration": "The Senate ordered damnatio memoriae against Didius Julianus, chiseling his name off public monuments and melting down coins stamped with his likeness.",
+        "search": "damnatio memoriae Roman stone inscription artifact",
+        "caption": "Rome erased Julianus from history, melting down his imperial coins."
+      },
+      {
+        "narration": "Julianus's disastrous sixty-six-day purchase permanently shattered imperial legitimacy, proving the Roman crown belonged not to the highest bidder, but to the sword.",
+        "search": "Roman Forum ruins sunset oil painting",
+        "caption": "The imperial auction proved Rome belonged entirely to military force."
+      },
+      {
+        "narration": "In 193 AD, a wealthy senator bought the entire Roman Empire at an auction.",
+        "search": "Didius Julianus Roman Emperor bust",
+        "caption": "Buying the Roman Empire at auction"
+      }
+    ],
+    "error": "",
+    "youtube_id": "UJ0MPr57Moc",
+    "youtube_url": "https://www.youtube.com/watch?v=UJ0MPr57Moc",
+    "created_at": "2026-10-05T01:05:58.960817+00:00",
+    "updated_at": "2026-10-05T01:09:51.852887+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-05T01:07:02.127523+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "429 chars (cat 140 de vua 55s)",
+        "at": "2026-10-05T01:07:13.754583+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-05T01:07:16.435064+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T01:07:17.587013+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-05T01:09:01.096922+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-05T01:09:01.130627+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 10272119 bytes",
+        "at": "2026-10-05T01:09:45.389257+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=UJ0MPr57Moc",
+        "at": "2026-10-05T01:09:47.741080+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYvYZr55uwgl1ULndIzBsLysf9L26W1on8EAzW2F0OqdcamKO7o",
+        "at": "2026-10-05T01:09:48.969246+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T01:09:50.588309+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T01:09:50.849050+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"UJ0MPr57Moc\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T01:09:51.722211+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T01:09:51.754902+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T01:09:51.852868+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34500138/pexels-photo-34500138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34636635/pexels-photo-34636635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709023/pexels-photo-35709023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16701714/pexels-photo-16701714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32509857/pexels-photo-32509857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581671/pexels-photo-35581671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839677/pexels-photo-35839677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14996241/pexels-photo-14996241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39544426/pexels-photo-39544426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35662178/pexels-photo-35662178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11641541/pexels-photo-11641541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b7e876f9a9",
     "kind": "short",
     "channel": "Channel2",
