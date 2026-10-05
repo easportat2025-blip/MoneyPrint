@@ -1,5 +1,197 @@
 [
   {
+    "id": "06329d5946",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao vũ trụ chứa hàng tỷ ngôi sao nhưng bầu trời lại tối đen?",
+    "idea": {
+      "title": "Tại sao vũ trụ chứa hàng tỷ ngôi sao nhưng bầu trời lại tối đen?",
+      "hook": "Bạn có bao giờ thắc mắc: Nếu vũ trụ có hàng tỷ tỷ ngôi sao phát sáng, tại sao bầu trời đêm không sáng rực như ban ngày mà lại tối đen như mực?",
+      "beats": [
+        "Đây được gọi là Nghịch lý Olbers, một câu hỏi từng làm đau đầu các nhà khoa học suốt nhiều thế kỷ.",
+        "Lý do đầu tiên: Vũ trụ đang không ngừng giãn nở, khiến ánh sáng từ các ngôi sao xa xôi bị kéo giãn ra thành sóng hồng ngoại mà mắt người không thể thấy.",
+        "Lý do thứ hai: Tốc độ ánh sáng là hữu hạn, và vũ trụ mới chỉ 13,8 tỷ năm tuổi, nghĩa là ánh sáng từ nhiều ngôi sao xa xôi vẫn chưa kịp truyền tới Trái Đất.",
+        "Bóng tối của ban đêm thực chất là bằng chứng vĩ đại cho thấy vũ trụ của chúng ta có một điểm bắt đầu và đang liên tục giãn nở."
+      ],
+      "keywords": [
+        "deep space stars",
+        "expanding universe",
+        "night sky cosmic",
+        "speed of light animation",
+        "galaxy background"
+      ],
+      "tags": [
+        "vũ trụ",
+        "khoa học",
+        "bí ẩn vũ trụ",
+        "nghịch lý olbers",
+        "thiên văn"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nhắm mắt trong bóng tối tuyệt đối, tại sao bạn vẫn nhìn thấy những đốm sáng lấp lánh?",
+        "search": "3d animation close eyes sleeping dark room",
+        "caption": "Nhắm mắt trong bóng tối vẫn thấy đốm sáng?"
+      },
+      {
+        "narration": "Hiện tượng kỳ lạ này không phải do ảo giác, mà là một cơ chế sinh học thực sự của cơ thể.",
+        "search": "3d animation human brain glowing neurons active",
+        "caption": "Đây không phải là ảo giác thông thường"
+      },
+      {
+        "narration": "Khoa học gọi đây là hiện tượng Phosphene - những ánh sáng tự phát ra từ chính bên trong mắt bạn.",
+        "search": "motion graphics human eye anatomy retina glowing",
+        "caption": "Hiện tượng này được gọi là Phosphene"
+      },
+      {
+        "narration": "Ngay cả khi không có ánh sáng bên ngoài, các tế bào võng mạc vẫn liên tục hoạt động và tự tạo ra các tín hiệu điện yếu.",
+        "search": "3d render electric signals moving in optic nerve",
+        "caption": "Võng mạc tự tạo ra tín hiệu điện"
+      },
+      {
+        "narration": "Bộ não của bạn nhận được các tín hiệu này và dịch chúng thành những mảng màu sắc hoặc đốm sáng chuyển động.",
+        "search": "cartoony 3d brain processing colorful light data",
+        "caption": "Não dịch tín hiệu thành đốm sáng"
+      },
+      {
+        "narration": "Khi bạn lấy tay dụi mắt, áp lực vật lý sẽ kích thích các tế bào này mạnh hơn, khiến chúng rực rỡ hơn nữa.",
+        "search": "3d animation hand rubbing eye close up",
+        "caption": "Dụi mắt làm tăng áp lực vật lý"
+      },
+      {
+        "narration": "Thậm chí, lượng oxy và năng lượng tiêu thụ của tế bào mắt vào ban đêm cũng đủ để kích hoạt các phản ứng hóa học phát quang siêu nhỏ.",
+        "search": "isometric render cells consuming energy glowing particles",
+        "caption": "Năng lượng tế bào kích hoạt phát quang"
+      },
+      {
+        "narration": "Vì vậy, bóng tối khi bạn đi ngủ thực chất không hề trống rỗng, mà là một màn trình diễn ánh sáng sinh học của cơ thể.",
+        "search": "3d animation person sleeping in bed peaceful colorful dreams",
+        "caption": "Bóng tối khi ngủ không hề trống rỗng"
+      },
+      {
+        "narration": "Khi bạn nhắm mắt, não lập tức tăng điện áp tín hiệu nội bộ để bù đắp việc mất đi nguồn sáng bên ngoài. Nó liên tục gửi xung điện đến võng mạc để kiểm tra xem hệ thống thị giác còn hoạt động hay không.",
+        "search": "mo phong nao bo 3d animation xung dien than kinh",
+        "caption": "Não tự kích điện khi thiếu ánh sáng"
+      },
+      {
+        "narration": "Nếu bạn nằm trong bóng tối hoàn toàn hơn mười phút, vỏ não thị giác sẽ bắt đầu ghép các xung điện ngẫu nhiên thành hình khối. Đây là lý do bạn thường nhìn thấy các vệt sáng hoặc ảo ảnh chuyển động quanh phòng ngủ.",
+        "search": "phong ngu toi den ao giac bong nguoi 3d animation",
+        "caption": "Não biến xung điện thành ảo giác phòng ngủ"
+      },
+      {
+        "narration": "Thói quen lướt điện thoại ngay trước khi ngủ làm tình trạng này dữ dội hơn, do ánh sáng xanh làm cạn kiệt tế bào cảm quang. Khi bạn vừa tắt máy, mắt bị sốc và phóng thích ồ ạt hàng loạt xung điện giả lập.",
+        "search": "nguoi luot man hinh dien thoai phong toi 3d render",
+        "caption": "Màn hình điện thoại làm mắt phóng tín hiệu giả"
+      },
+      {
+        "narration": "Để mắt thực sự nghỉ ngơi, cơ thể cần ít nhất hai mươi phút bóng tối liên tục nhằm tái tạo phân tử sắc tố rhodopsin. Chỉ khi phân tử này phục hồi, các đốm sáng mới biến mất hoàn toàn.",
+        "search": "te bao vong mac phuc hoi 3d explainer animation",
+        "caption": "Mắt mất 20 phút bóng tối để nạp lại"
+      },
+      {
+        "narration": "Vì vậy, những đốm sáng lấp lánh khi nhắm mắt không phải bệnh lý, mà là tín hiệu cơ thể đang bắt đầu quy trình dọn dẹp thị giác hàng đêm.",
+        "search": "nguoi ngu say tren giuong phong ngu isometric 3d animation",
+        "caption": "Đốm sáng là dấu hiệu mắt đang tự sửa chữa"
+      }
+    ],
+    "error": "",
+    "youtube_id": "ufZ-ouYFZas",
+    "youtube_url": "https://www.youtube.com/watch?v=ufZ-ouYFZas",
+    "created_at": "2026-10-05T20:59:46.704457+00:00",
+    "updated_at": "2026-10-05T21:05:32.502216+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-05T21:02:50.253623+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "485 chars",
+        "at": "2026-10-05T21:04:06.740796+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-05T21:04:14.964389+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T21:04:16.302815+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-05T21:04:27.188061+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-05T21:04:27.219480+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.9s 25750332 bytes",
+        "at": "2026-10-05T21:05:25.468936+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ufZ-ouYFZas",
+        "at": "2026-10-05T21:05:28.720046+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaa29iMeko3qvrDxxh0BzQinIs0YIESGeQ6GFqybgNgHOH4fdT34",
+        "at": "2026-10-05T21:05:30.192846+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T21:05:31.410179+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T21:05:31.598003+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"ufZ-ouYFZas\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T21:05:32.374825+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T21:05:32.404564+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T21:05:32.502208+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7986749/7986749-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/28494561/12398945_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39242897/16699422_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39466768/16810556_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34336609/14545989_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5871730/5871730-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/35062665/14852597_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7592098/7592098-hd_720_1248_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283171/15283171-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39299211/16722240_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39257667/16703051_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7697796/7697796-hd_720_1366_24fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "37db163a28",
     "kind": "short",
     "channel": "Channel3",
