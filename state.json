@@ -1,5 +1,196 @@
 [
   {
+    "id": "3dda258183",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Cái giá âm thầm khi bạn đặt laptop lên đùi làm việc",
+    "idea": {
+      "title": "Cái giá âm thầm khi bạn đặt laptop lên đùi làm việc",
+      "hook": "Bạn có thói quen đặt laptop lên đùi để làm việc cho tiện? Thói quen vô hại này thực chất đang âm thầm tàn phá cơ thể bạn theo cách không ngờ tới.",
+      "beats": [
+        "Laptop khi hoạt động tỏa ra lượng nhiệt rất cao, tiếp xúc trực tiếp với đùi trong thời gian dài sẽ gây ra hội chứng 'da nướng' (Toasted Skin Syndrome).",
+        "Nhiệt độ này có thể làm thay đổi cấu trúc tế bào da vĩnh viễn, để lại các vết thâm loang lổ cực kỳ khó chữa trị.",
+        "Nghiêm trọng hơn đối với nam giới, nhiệt độ từ laptop áp sát cơ thể có thể làm tăng nhiệt độ vùng nhạy cảm lên tới 2.5 độ C, làm suy giảm nghiêm trọng khả năng sinh sản."
+      ],
+      "keywords": [
+        "laptop on lap",
+        "toasted skin syndrome",
+        "thermal radiation skin",
+        "man working on laptop couch",
+        "heat damage skin"
+      ],
+      "tags": [
+        "thói quen xấu",
+        "sức khỏe",
+        "mẹo dùng máy tính",
+        "sự thật thú vị",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đặt laptop lên đùi đang âm thầm hủy hoại bạn.",
+        "search": "3d animation man working on laptop on couch",
+        "caption": "Đặt laptop lên đùi đang hủy hoại bạn"
+      },
+      {
+        "narration": "Thói quen tiện lợi này tỏa ra lượng nhiệt cực cao trực tiếp vào da.",
+        "search": "3d render laptop heating up thermal red glow",
+        "caption": "Lượng nhiệt cực cao tỏa thẳng vào da"
+      },
+      {
+        "narration": "Tiếp xúc lâu ngày sẽ kích hoạt hội chứng \"da nướng\" đáng sợ.",
+        "search": "motion graphics skin cells damaged by heat",
+        "caption": "Kích hoạt hội chứng \"da nướng\" nguy hiểm"
+      },
+      {
+        "narration": "Nhiệt độ cao làm thay đổi vĩnh viễn cấu trúc tế bào biểu bì.",
+        "search": "3d animation microscopic skin layers changing color",
+        "caption": "Thay đổi vĩnh viễn cấu trúc tế bào da"
+      },
+      {
+        "narration": "Đùi bạn sẽ xuất hiện những vết thâm loang lổ rất khó chữa.",
+        "search": "isometric render leg with dark spots discoloration",
+        "caption": "Xuất hiện các vết thâm loang lổ khó chữa"
+      },
+      {
+        "narration": "Nhưng đó chưa phải là tác hại nguy hiểm nhất đối với nam giới.",
+        "search": "3d character man looking worried at laptop screen",
+        "caption": "Hiểm họa tồi tệ nhất dành cho nam giới"
+      },
+      {
+        "narration": "Vùng nhạy cảm bị áp sát nguồn nhiệt sẽ tăng thêm tới 2.5 độ C.",
+        "search": "motion graphics thermometer rising temperature hot zone",
+        "caption": "Nhiệt độ vùng nhạy cảm tăng thêm 2.5 độ C"
+      },
+      {
+        "narration": "Sự gia tăng nhiệt độ âm thầm này trực tiếp tiêu diệt binh tinh của bạn.",
+        "search": "3d animation microscopic cells swimming slowing down",
+        "caption": "Tiêu diệt và làm suy giảm binh tinh"
+      },
+      {
+        "narration": "Chưa dừng lại ở đó, da đùi bạn cũng đang hứng chịu tổn thương nặng nề.",
+        "search": "3d animation laptop heat radiation on legs",
+        "caption": "Tổn thương da đùi nghiêm trọng"
+      },
+      {
+        "narration": "Nhiệt lượng liên tục từ máy tính gây ra hội chứng da nướng cực kỳ đáng sợ.",
+        "search": "motion graphics toasted skin syndrome legs pattern",
+        "caption": "Hội chứng da nướng đáng sợ"
+      },
+      {
+        "narration": "Cấu trúc tế bào da bị nhiệt độ cao phá hủy vĩnh viễn và đổi màu.",
+        "search": "explainer animation skin cell heat damage",
+        "caption": "Tế bào da bị hủy hoại vĩnh viễn"
+      },
+      {
+        "narration": "Vết thâm loang lổ xuất hiện trên da và không thể chữa khỏi.",
+        "search": "isometric render mottled skin discoloration legs",
+        "caption": "Vết thâm loang lổ không thể chữa"
+      },
+      {
+        "narration": "Hãy dùng chiếc bàn kê chuyên dụng để bảo vệ cơ thể ngay hôm nay.",
+        "search": "cartoony 3d person using laptop stand on desk",
+        "caption": "Dùng bàn kê để bảo vệ cơ thể"
+      }
+    ],
+    "error": "",
+    "youtube_id": "jOpIKHpqp8w",
+    "youtube_url": "https://www.youtube.com/watch?v=jOpIKHpqp8w",
+    "created_at": "2026-10-05T06:01:37.028795+00:00",
+    "updated_at": "2026-10-05T06:06:48.674849+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-05T06:04:26.078089+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "504 chars (cat 178 de vua 55s)",
+        "at": "2026-10-05T06:05:35.008496+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.3s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-05T06:05:42.073230+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-05T06:05:43.268096+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-05T06:05:57.808915+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-05T06:05:57.837779+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.3s 11892218 bytes",
+        "at": "2026-10-05T06:06:42.890315+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=jOpIKHpqp8w",
+        "at": "2026-10-05T06:06:45.093828+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaYQBjCP0W5J4WVvABgLM_qMBxhDjyThcdSbFDHE3xvQ9RlG-w4",
+        "at": "2026-10-05T06:06:46.144920+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-05T06:06:47.573068+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-05T06:06:47.782662+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"jOpIKHpqp8w\\\"\",\n    \"errors\"",
+        "at": "2026-10-05T06:06:48.554718+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-05T06:06:48.582726+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-05T06:06:48.674829+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6322165/6322165-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34969813/14813403_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7299470/7299470-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39686771/16921624_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36119246/15317795_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/9831122/9831122-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/9666938/9666938-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6176561/6176561-hd_720_1366_24fps.mp4",
+      "https://videos.pexels.com/video-files/7316358/7316358-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/9465533/9465533-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/5839080/5839080-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/9465546/9465546-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/39425816/16788566_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "ba754b0b37",
     "kind": "short",
     "channel": "Channel2",
