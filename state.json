@@ -1,5 +1,191 @@
 [
   {
+    "id": "5350e1cf99",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Fiercest Emperor Blinded 15,000 Men",
+    "idea": {
+      "title": "Why Rome's Fiercest Emperor Blinded 15,000 Men",
+      "hook": "Emperor Basil II crushed an entire Bulgarian army, but instead of executing his 15,000 prisoners, he blinded ninety-nine out of every hundred and sent them home to destroy their king.",
+      "beats": [
+        "In 1014, Byzantine Emperor Basil II ambushed and trapped the main Bulgarian host at the Battle of Kleidion.",
+        "Rather than slaughtering the prisoners, he divided the 15,000 captives into groups of one hundred.",
+        "His soldiers gouged out both eyes of ninety-nine men, leaving the hundredth man with a single eye to guide the rest.",
+        "When Bulgarian Tsar Samuil witnessed the horrifying procession of 15,000 blinded soldiers stumbling home, the shock triggered a fatal heart attack two days later."
+      ],
+      "keywords": [
+        "Emperor Basil II bust",
+        "Battle of Kleidion painting",
+        "Byzantine empire soldiers engraving",
+        "Tsar Samuil portrait",
+        "medieval Byzantine army map"
+      ],
+      "tags": [
+        "#history",
+        "#byzantine",
+        "#ancienthistory",
+        "#darkhistory",
+        "#historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did one emperor blind fifteen thousand captured soldiers?",
+        "search": "Byzantine emperor Basil II bust statue",
+        "caption": "Why did one emperor blind 15,000 captured soldiers?"
+      },
+      {
+        "narration": "This single act of psychological warfare broke an empire without fighting another major battle.",
+        "search": "medieval Byzantine empire map engraving",
+        "caption": "One act of terror broke an entire empire."
+      },
+      {
+        "narration": "In July 1014, the Byzantine Empire faced its greatest rival, the Bulgarians, at the mountain pass of Kleidion.",
+        "search": "Battle of Kleidion medieval manuscript illumination",
+        "caption": "July 1014: The Battle of Kleidion."
+      },
+      {
+        "narration": "Emperor Basil the Second outmaneuvered the Bulgarian forces, trapping fifteen thousand soldiers in a narrow valley.",
+        "search": "medieval Byzantine army soldiers engraving",
+        "caption": "Basil II trapped 15,000 Bulgarian soldiers."
+      },
+      {
+        "narration": "Instead of executing the prisoners of war, Basil decided on a far more sadistic punishment.",
+        "search": "Byzantine soldiers armor oil painting",
+        "caption": "Instead of execution, Basil chose a darker path."
+      },
+      {
+        "narration": "He ordered his men to gouge out both eyes of ninety-nine out of every hundred captives.",
+        "search": "medieval executioner torture engraving illustration",
+        "caption": "99 out of every 100 men were blinded."
+      },
+      {
+        "narration": "The hundredth man was left with a single eye to guide his ninety-nine blind comrades back home.",
+        "search": "blind men walking medieval painting",
+        "caption": "One-eyed guides led the blinded soldiers home."
+      },
+      {
+        "narration": "When Bulgarian Tsar Samuil saw his ruined army stumbling back, the sheer shock triggered a fatal heart attack.",
+        "search": "Tsar Samuil of Bulgaria portrait painting",
+        "caption": "Tsar Samuil died of shock seeing his ruined army."
+      },
+      {
+        "narration": "With Tsar Samuil dead in October 1014, the leaderless Bulgarian resistance crumbled over the next four years.",
+        "search": "Byzantine soldiers medieval manuscript illumination",
+        "caption": "Bulgaria crumbled after Samuil's death in 1014."
+      },
+      {
+        "narration": "By 1018, Emperor Basil II fully subjugated the region, earning the terrifying historical moniker \"the Bulgar-Slayer.\"",
+        "search": "Emperor Basil II mosaic portrait",
+        "caption": "Basil II earned the title \"Bulgar-Slayer.\""
+      },
+      {
+        "narration": "This brutal act of psychological warfare secured the Byzantine frontier for over a century, cementing Basil II as Rome's most ruthless medieval emperor.",
+        "search": "Battle of Kleidion painting",
+        "caption": "The ultimate psychological victory in medieval history."
+      },
+      {
+        "narration": "This single act of psychological warfare earned Byzantine Emperor Basil II the terrifying title of the Bulgar-Slayer.",
+        "search": "Emperor Basil II manuscript illustration portrait",
+        "caption": "Basil II earned the terrifying title of Bulgar-Slayer."
+      }
+    ],
+    "error": "",
+    "youtube_id": "GaHVXOn0kJ4",
+    "youtube_url": "https://www.youtube.com/watch?v=GaHVXOn0kJ4",
+    "created_at": "2026-10-06T02:23:39.578255+00:00",
+    "updated_at": "2026-10-06T02:30:15.465633+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-06T02:25:03.121451+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "432 chars (cat 202 de vua 55s)",
+        "at": "2026-10-06T02:25:45.334877+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.8s en-US-GuyNeural 6 cau",
+        "at": "2026-10-06T02:25:48.080247+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T02:25:49.307877+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-06T02:29:23.553694+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-06T02:29:23.588117+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.8s 10224963 bytes",
+        "at": "2026-10-06T02:30:09.139018+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=GaHVXOn0kJ4",
+        "at": "2026-10-06T02:30:11.236910+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYmiSmJw5LbYSf7lyMvXIlYhI12Q3knmtNJI1BF05OXi1L9XIiP",
+        "at": "2026-10-06T02:30:12.521692+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T02:30:14.070512+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T02:30:14.399465+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"GaHVXOn0kJ4\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T02:30:15.331811+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T02:30:15.365850+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T02:30:15.465622+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39083194/pexels-photo-39083194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27968053/pexels-photo-27968053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732727/pexels-photo-34732727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563575/pexels-photo-16563575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37147512/pexels-photo-37147512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37306555/pexels-photo-37306555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348228/pexels-photo-8348228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37397317/pexels-photo-37397317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29099465/pexels-photo-29099465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35347636/pexels-photo-35347636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35503968/pexels-photo-35503968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33449143/pexels-photo-33449143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a4b14d133f",
     "kind": "short",
     "channel": "Channel2",
