@@ -1,5 +1,197 @@
 [
   {
+    "id": "1a892d5502",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật về khoảng trống trong không gian ai cũng nhầm",
+    "idea": {
+      "title": "Sự thật về khoảng trống trong không gian ai cũng nhầm",
+      "hook": "Bạn nghĩ khoảng không giữa các vì sao là trống rỗng hoàn toàn? Sự thật bên trong nó đáng sợ hơn bạn tưởng.",
+      "beats": [
+        "Giải thích không gian sâu không hề trống rỗng mà chứa đầy các hạt năng lượng tối và bức xạ.",
+        "Mô tả cách các nhà khoa học phát hiện ra những vùng không gian hoàn toàn không có ánh sáng và vật chất.",
+        "Tiết lộ áp lực vô hình từ những khoảng trống này đang tác động lên dải Ngân Hà như thế nào.",
+        "Kết luận về cách vũ trụ đang dần xé toạc mọi thứ từ những khoảng trống tưởng như vô hại đó."
+      ],
+      "keywords": [
+        "deep space background",
+        "cosmic void",
+        "dark matter animation",
+        "galaxy rotation space",
+        "universe expansion motion"
+      ],
+      "tags": [
+        "channel3",
+        "khoahoc",
+        "vutru",
+        "khampha",
+        "suthat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ không gian giữa các vì sao trống rỗng hoàn toàn? Sự thật bên trong nó đáng sợ hơn bạn tưởng.",
+        "search": "3d animation man staring at night sky screen",
+        "caption": "Không gian thực sự trống rỗng?"
+      },
+      {
+        "narration": "Giải thích không gian sâu không hề trống rỗng mà chứa đầy các hạt năng lượng tối và bức xạ.",
+        "search": "motion graphics glowing microscopic particles floating",
+        "caption": "Chứa đầy hạt năng lượng tối"
+      },
+      {
+        "narration": "Mô tả cách các nhà khoa học phát hiện ra những vùng không gian hoàn toàn không có ánh sáng và vật chất.",
+        "search": "isometric render dark room with empty glowing void",
+        "caption": "Vùng không gian không có ánh sáng"
+      },
+      {
+        "narration": "Tiết lộ áp lực vô hình từ những khoảng trống này đang tác động lên dải Ngân Hà như thế nào.",
+        "search": "explainer animation galaxy spinning under pressure",
+        "caption": "Áp lực vô hình lên ngân hà"
+      },
+      {
+        "narration": "Kết luận về cách vũ trụ đang dần xé toạc mọi thứ từ những khoảng trống tưởng như vô hại đó.",
+        "search": "loop animation universe expanding tearing apart",
+        "caption": "Vũ trụ đang bị xé toạc"
+      },
+      {
+        "narration": "Bên dưới lớp vỏ Trái Đất, những khoảng trống vi mô trong vật chất cũng ẩn chứa lực tương tự.",
+        "search": "cartoony 3d microscopic atoms vibrating tightly",
+        "caption": "Khoảng trống vi mô trong vật chất"
+      },
+      {
+        "narration": "Cơ thể con người cũng chứa 99 phần trăm không gian trống rỗng giữa các nguyên tử.",
+        "search": "3d animation human body transparent skeleton glowing",
+        "caption": "99 phần trăm cơ thể là trống rỗng"
+      },
+      {
+        "narration": "Nếu loại bỏ toàn bộ khoảng trống đó, toàn bộ nhân loại chỉ nhỏ bằng một viên đường.",
+        "search": "isometric render single sugar cube on dark table",
+        "caption": "Toàn bộ nhân loại nhỏ bằng viên đường"
+      },
+      {
+        "narration": "Khoảng trống vô hình này tạo ra áp lực đè nặng lên mọi tế bào trên cơ thể bạn mỗi giây.",
+        "search": "3d animation human body cells pressure motion graphics",
+        "caption": "Ap luc vo hinh tren co the"
+      },
+      {
+        "narration": "Cơ thể chúng ta phải liên tục chống lại áp lực đó để giữ cấu trúc không bị sụp đổ.",
+        "search": "isometric render skeleton bones standing up loop animation",
+        "caption": "Co the lien tuc chong lai ap luc"
+      },
+      {
+        "narration": "Khi bạn nằm ngủ, các khoảng trống vi mô trong mô cơ bắt đầu giãn nở và phục hồi năng lượng.",
+        "search": "cartoony 3d person sleeping in bed relaxing motion",
+        "caption": "Mo co gian no khi ngu"
+      },
+      {
+        "narration": "Nhưng chính sự giãn nở không ngừng này lại khiến các tế bào lão hóa nhanh hơn theo thời gian.",
+        "search": "explainer animation aging human skin cells macro close up",
+        "caption": "Te bao lao hoa theo thoi gian"
+      },
+      {
+        "narration": "Đó là lý do cơ thể tự động thu nhỏ lại vài milimet mỗi đêm khi bạn chìm vào giấc ngủ.",
+        "search": "3d animation person height shrinking in bed morning",
+        "caption": "Co the tu dong thu nho khi ngu"
+      }
+    ],
+    "error": "",
+    "youtube_id": "OGxKF3z1rX8",
+    "youtube_url": "https://www.youtube.com/watch?v=OGxKF3z1rX8",
+    "created_at": "2026-10-06T20:36:44.613874+00:00",
+    "updated_at": "2026-10-06T20:41:35.945422+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-06T20:38:53.126222+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "471 chars (cat 577 de vua 55s)",
+        "at": "2026-10-06T20:40:20.942625+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-06T20:40:27.675949+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T20:40:28.700343+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-06T20:40:45.530124+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-06T20:40:45.557280+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.6s 19532548 bytes",
+        "at": "2026-10-06T20:41:27.784422+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=OGxKF3z1rX8",
+        "at": "2026-10-06T20:41:31.339055+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYt36Jositxd8yYZ-VAwajyHcoGFoug_JMjUQKOTNm5t2xqyl1r",
+        "at": "2026-10-06T20:41:32.975374+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T20:41:34.215689+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T20:41:34.644271+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"OGxKF3z1rX8\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T20:41:35.830033+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T20:41:35.857503+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T20:41:35.945412+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/26953415/12035607_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35460209/15023409_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8086290/8086290-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/34582174/14653930_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39104067/16637583_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39692419/16923702_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35062463/14852571_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8676906/8676906-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39253607/16701194_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667860/9667860-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7131629/7131629-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/7663678/7663678-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7505752/7505752-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "329b0cb3ca",
     "kind": "short",
     "channel": "Channel3",
