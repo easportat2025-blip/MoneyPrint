@@ -1,5 +1,192 @@
 [
   {
+    "id": "a4b14d133f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The 70-Foot Fall That Sparked a 30-Year War",
+    "idea": {
+      "title": "The 70-Foot Fall That Sparked a 30-Year War",
+      "hook": "When three Catholic officials were thrown out of a 70-foot castle window, a bizarre pile of manure saved their lives—and sparked a 30-year war.",
+      "beats": [
+        "In 1618, angry Protestant nobles stormed Prague Castle to confront Catholic representatives.",
+        "Tempers flared, and the Protestant mob threw three Catholic officials out of a third-story window.",
+        "Instead of plunging to their deaths, they survived the 70-foot drop with minor injuries.",
+        "Catholics claimed angels caught them, while Protestants claimed they landed in a giant pile of horse manure.",
+        "This single, humiliating incident directly triggered the devastating Thirty Years' War across Europe."
+      ],
+      "keywords": [
+        "Prague Castle engraving",
+        "Thirty Years War battle",
+        "medieval window painting",
+        "manure pile sketch",
+        "17th century Europe map"
+      ],
+      "tags": [
+        "history",
+        "war",
+        "europe",
+        "bizarre",
+        "accident"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A seventy-foot fall into manure ignited a continental war.",
+        "search": "defenestration of prague 1618 oil painting",
+        "caption": "A 70-foot drop started a 30-year war."
+      },
+      {
+        "narration": "Between 1618 and 1648, the Thirty Years' War devastated Central Europe, claiming an estimated eight million lives.",
+        "search": "thirty years war battle oil painting",
+        "caption": "Eight million died in the Thirty Years' War."
+      },
+      {
+        "narration": "The crisis centered on the Kingdom of Bohemia, where fragile peace treaties between Protestants and Catholics collapsed in early 1618.",
+        "search": "kingdom of bohemia 17th century map engraving",
+        "caption": "Religious tensions fractured Bohemia in May 1618."
+      },
+      {
+        "narration": "Ferdinand of Styria, the devout Catholic King of Bohemia, aggressively shuttered Protestant chapels and restricted their worship.",
+        "search": "emperor ferdinand ii portrait oil painting",
+        "caption": "Ferdinand II revoked key Protestant protections."
+      },
+      {
+        "narration": "On May 23, 1618, Protestant nobleman Count Jindřich Matyáš Thurn led an armed assembly straight into Prague Castle.",
+        "search": "prague castle hradcany 17th century engraving",
+        "caption": "Armed Protestant nobles marched into Prague Castle."
+      },
+      {
+        "narration": "The mob cornered imperial regents Jaroslav Bořita of Martinice and Vilém Slavata in the royal council room, accusing them of subverting imperial law.",
+        "search": "defenestration of prague council room engraving",
+        "caption": "Imperial regents faced accusations of treason."
+      },
+      {
+        "narration": "After a mock trial, the crowd seized Martinice, Slavata, and their secretary Philip Fabricius, dragging them toward the window.",
+        "search": "defenestration prague castle window historic engraving",
+        "caption": "The regents were pushed toward the open window."
+      },
+      {
+        "narration": "All three men were shoved over the sill, hurtling seventy feet downward toward the castle moat.",
+        "search": "prague castle exterior wall vintage engraving",
+        "caption": "Three men plummeted seventy feet downward."
+      },
+      {
+        "narration": "Remarkably, all three men survived the seventy-foot plunge with minor injuries. Catholic accounts credited the Virgin Mary with catching them mid-air, while Protestant witnesses claimed they landed in an immense heap of dung.",
+        "search": "defenestration of prague 1618 engraving",
+        "caption": "All three survived the seventy-foot fall into the castle moat."
+      },
+      {
+        "narration": "Philip Fabricius escaped to Vienna, warning future Holy Roman Emperor Ferdinand II of open rebellion in Bohemia. The local uprising instantly shattered imperial peace, mobilizing armies across the German states.",
+        "search": "emperor ferdinand ii portrait oil painting surviving",
+        "caption": "The surviving secretary alerted Vienna, triggering widespread religious warfare across Europe."
+      },
+      {
+        "narration": "That castle window tumble triggered the Thirty Years' War, leaving eight million soldiers and civilians dead. An act of political insult in 1618 ultimately reshaped European borders and imperial power forever.",
+        "search": "battle of the thirty years war oil painting",
+        "caption": "The 1618 Prague defenestration sparked a war claiming eight million lives."
+      },
+      {
+        "narration": "A seventy-foot fall sparked Europe's deadliest religious war.",
+        "search": "Defenestration of Prague 1618 historical engraving",
+        "caption": "A 70-foot fall triggered Europe's bloodiest war."
+      }
+    ],
+    "error": "",
+    "youtube_id": "-tg_yQnnzIU",
+    "youtube_url": "https://www.youtube.com/watch?v=-tg_yQnnzIU",
+    "created_at": "2026-10-06T01:02:57.087201+00:00",
+    "updated_at": "2026-10-06T01:05:30.183047+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-06T01:03:20.374798+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "398 chars (cat 168 de vua 55s)",
+        "at": "2026-10-06T01:04:00.014097+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.2s en-US-GuyNeural 5 cau",
+        "at": "2026-10-06T01:04:02.002359+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T01:04:02.609907+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-06T01:05:00.025351+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-06T01:05:00.047128+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.2s 9974454 bytes",
+        "at": "2026-10-06T01:05:24.044027+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=-tg_yQnnzIU",
+        "at": "2026-10-06T01:05:26.301216+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZXPXKN8m9Yoa3e-zlLfr0cHmidz50eMxRhr0CKtg1v7_E1LVOd",
+        "at": "2026-10-06T01:05:27.496943+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T01:05:29.005792+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T01:05:29.254622+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"-tg_yQnnzIU\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T01:05:30.111523+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T01:05:30.129350+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T01:05:30.183042+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17571197/pexels-photo-17571197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902531/pexels-photo-34902531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14160144/pexels-photo-14160144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7359296/pexels-photo-7359296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34978325/pexels-photo-34978325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37649040/pexels-photo-37649040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35427021/pexels-photo-35427021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39264732/pexels-photo-39264732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35044581/pexels-photo-35044581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070656/pexels-photo-15070656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397736/pexels-photo-16397736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12562586/pexels-photo-12562586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "df1a54a154",
     "kind": "short",
     "channel": "Channel2",
