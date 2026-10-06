@@ -1,5 +1,191 @@
 [
   {
+    "id": "24d0a796ab",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Angry King Whose Words Murdered His Best Friend",
+    "idea": {
+      "title": "The Angry King Whose Words Murdered His Best Friend",
+      "hook": "In 1170, King Henry II uttered four angry words that caused his knights to murder his best friend, sparking a lifetime of bitter regret.",
+      "beats": [
+        "King Henry II got into a bitter dispute with his Archbishop and close friend, Thomas Becket.",
+        "In a fit of rage, Henry screamed, 'Will no one rid me of this turbulent priest?' to his court.",
+        "Four knights took the outburst literally, rode to Canterbury Cathedral, and brutally executed Becket at the altar.",
+        "Horrified by the unintended murder, Henry spent the rest of his life in deep regret, even letting monks whip him as penance."
+      ],
+      "keywords": [
+        "King Henry II portrait",
+        "Thomas Becket Canterbury",
+        "medieval knights engraving",
+        "Canterbury Cathedral old map",
+        "medieval king painting"
+      ],
+      "tags": [
+        "history",
+        "medieval",
+        "betrayal",
+        "england",
+        "monarchs"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can four angry words murder your best friend?",
+        "search": "medieval king painting crown scepter oil painting",
+        "caption": "Can four angry words murder your best friend?"
+      },
+      {
+        "narration": "In 1170, King Henry II of England ruled a vast empire, but his greatest challenge came from his closest ally.",
+        "search": "King Henry II portrait painting medieval",
+        "caption": "In 1170, King Henry II faced his greatest rival."
+      },
+      {
+        "narration": "That rival was Thomas Becket, the Archbishop of Canterbury, who fiercely defended the Church against royal control.",
+        "search": "Thomas Becket Canterbury archbishop medieval manuscript illumination",
+        "caption": "Archbishop Thomas Becket opposed the king's absolute power."
+      },
+      {
+        "narration": "Consumed by rage during a court meeting, Henry screamed words that history would never forget.",
+        "search": "medieval king angry court advisors oil painting",
+        "caption": "Henry's furious outburst sealed his friend's fate."
+      },
+      {
+        "narration": "Four of the king's knights took his angry complaint as a literal royal command to assassinate the archbishop.",
+        "search": "medieval knights engraving armor weapons",
+        "caption": "Four knights rode to Canterbury to execute the order."
+      },
+      {
+        "narration": "On December 29, 1170, they brutally executed Becket right at the altar of Canterbury Cathedral.",
+        "search": "Canterbury Cathedral old map engraving medieval",
+        "caption": "Becket was assassinated inside Canterbury Cathedral."
+      },
+      {
+        "narration": "Horrified by the unintended assassination, a devastated Henry II publicly begged for forgiveness.",
+        "search": "King Henry II penance whipped by monks engraving",
+        "caption": "Henry submitted to being whipped by monks as penance."
+      },
+      {
+        "narration": "The tragedy turned Becket into a martyr, leaving Henry to rule with a lifetime of bitter regret.",
+        "search": "Thomas Becket shrine Canterbury Cathedral painting",
+        "caption": "A king's angry words created a permanent legacy of regret."
+      },
+      {
+        "narration": "In July 1174, a desperate King Henry II walked barefoot through Canterbury to Becket’s tomb, submitting himself to be whipped by eighty monks.",
+        "search": "king henry ii penance at canterbury tomb medieval engraving",
+        "caption": "Henry II submitted to public whipping by eighty monks."
+      },
+      {
+        "narration": "Pope Alexander III canonized Becket just three years after his death, turning Canterbury Cathedral into one of Europe's wealthiest pilgrimage sites.",
+        "search": "canterbury cathedral medieval manuscript illustration",
+        "caption": "Canterbury became a massive pilgrimage site after Becket's canonization."
+      },
+      {
+        "narration": "Henry’s empire eventually crumbled, but his four angry words survived as history's most devastating lesson on the cost of uncontrolled rage.",
+        "search": "king henry ii medieval manuscript illumination portrait",
+        "caption": "Four angry words defined King Henry II's legacy forever."
+      },
+      {
+        "narration": "Four spoken words caused the murder of a king's best friend in 1170.",
+        "search": "King Henry II oil painting",
+        "caption": "Four words that triggered a royal murder."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Tz9TmqLpMV4",
+    "youtube_url": "https://www.youtube.com/watch?v=Tz9TmqLpMV4",
+    "created_at": "2026-10-06T21:49:44.331306+00:00",
+    "updated_at": "2026-10-06T21:56:18.287249+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-06T21:52:41.810560+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "418 chars (cat 51 de vua 55s)",
+        "at": "2026-10-06T21:53:32.455159+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-06T21:53:34.247617+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T21:53:35.114596+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-06T21:55:38.027892+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-06T21:55:38.056901+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.1s 9195831 bytes",
+        "at": "2026-10-06T21:56:12.820008+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Tz9TmqLpMV4",
+        "at": "2026-10-06T21:56:15.059112+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZ_pwfkIPQhmOEu6aM12520FZM_8JhfQ6uWLCiWOYEVWqQJVPCa",
+        "at": "2026-10-06T21:56:16.011249+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T21:56:17.154834+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T21:56:17.394626+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Tz9TmqLpMV4\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T21:56:18.170287+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T21:56:18.199659+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T21:56:18.287234+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7933984/pexels-photo-7933984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16342031/pexels-photo-16342031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30717719/pexels-photo-30717719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31419312/pexels-photo-31419312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27163511/pexels-photo-27163511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38426997/pexels-photo-38426997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40007197/pexels-photo-40007197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38689437/pexels-photo-38689437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348142/pexels-photo-8348142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38427015/pexels-photo-38427015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17345426/pexels-photo-17345426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397833/pexels-photo-16397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1a892d5502",
     "kind": "short",
     "channel": "Channel3",
