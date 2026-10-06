@@ -1,5 +1,50 @@
 [
   {
+    "id": "9fa77bd4ad",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về trọng lực trái đất đang kéo chân bạn mỗi ngày",
+    "idea": {
+      "title": "Sự thật về trọng lực trái đất đang kéo chân bạn mỗi ngày",
+      "hook": "Bạn nghĩ mình đứng vững trên mặt đất, nhưng thực tế hành tinh này đang liên tục 'bóp méo' cơ thể bạn theo cách không ai ngờ tới.",
+      "beats": [
+        "Khám phá cách lực hấp dẫn và khoảng cách không gian thay đổi nhỏ từng giây đối với con người.",
+        "Lý do cột sống của bạn bị nén lại vào ban ngày và lý do bạn cao hơn vào buổi sáng.",
+        "Cách không gian vũ trụ và trọng lực phối hợp tạo ra những thay đổi thể chất âm thầm mà mắt thường không thấy."
+      ],
+      "keywords": [
+        "gravity pull earth space",
+        "human spine shrinking space",
+        "earth physics animation stock",
+        "astronaut body changes orbit",
+        "cosmic forces earth background"
+      ],
+      "tags": [
+        "#channel3",
+        "#khoahoc",
+        "#vutru",
+        "#suthat",
+        "#khampha"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "invalid json: {\n  \"scenes\": [\n    {\n      \"narration\": \"Chính vì sự thay đổi liên tục này, chiếc quần jean yêu quý của bạn dường như chật hơn vào mỗi buổi tối.\",\n      \"search\": \"3d animation human leg standing tight jeans\",\n      caption: \"Chật hơn mỗi tối\"\n    },\n    {\n      \"narration\": \"Không chỉ chiều cao, l",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-06T14:39:39.344673+00:00",
+    "updated_at": "2026-10-06T14:42:15.913420+00:00",
+    "stages": {
+      "error": {
+        "ok": false,
+        "detail": "invalid json: {\n  \"scenes\": [\n    {\n      \"narration\": \"Chính vì sự thay đổi liên tục này, chiếc quần jean yêu quý của bạn dường như chật hơn vào mỗi buổi tối.\",\n      \"search\": \"3d animation human leg standing tight jeans\",\n      caption: \"Chật hơn mỗi tối\"\n    },\n    {\n      \"narration\": \"Không chỉ chiều cao, l",
+        "at": "2026-10-06T14:42:15.913410+00:00"
+      }
+    }
+  },
+  {
     "id": "fb97d6ab07",
     "kind": "short",
     "channel": "Channel3",
