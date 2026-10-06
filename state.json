@@ -1,5 +1,191 @@
 [
   {
+    "id": "d0a37eba04",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman emperor who built his own executioner",
+    "idea": {
+      "title": "The Roman emperor who built his own executioner",
+      "hook": "Hoàng tử La Mã Elagabalus đã trao cho kẻ thù thứ vũ khí độc nhất vô nhị để rồi chính tay hạ sát ngài.",
+      "beats": [
+        "Elagabalus thiết kế những sợi dây lụa vàng tết chặt để làm công cụ ban ơn hoặc kết liễu các cận thần",
+        "Sự ngạo mạn của nhà vua đạt đỉnh điểm khi ông thách thức cả lực lượng Cận vệ Praetorian",
+        "Vào một buổi sáng định mệnh, chính những sợi dây tơ lụa đó đã được quàng vào cổ ông trong nhà vệ sinh cung điện",
+        "Thi thể nhà vua bị ném xuống cống Rome, khép lại 4 năm trị vì đầy tai tiếng"
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient rome painting",
+        "elagabalus portrait",
+        "praetorian guard engraving",
+        "roman coin profile"
+      ],
+      "tags": [
+        "History",
+        "RomanEmpire",
+        "Documentary",
+        "Shorts",
+        "HistoryFacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman emperor forged his own assassin's golden weapon.",
+        "search": "elagabalus marble bust statue roman emperor",
+        "caption": "Emperor Elagabalus engineered his own fatal demise."
+      },
+      {
+        "narration": "In 218 AD, fourteen-year-old Varius Avitus Bassianus ascended Rome's throne as Elagabalus.",
+        "search": "roman emperor elagabalus coin profile engraving",
+        "caption": "Fourteen-year-old Elagabalus took power in 218 AD."
+      },
+      {
+        "narration": "Obsessed with dramatic spectacle, the teenage ruler treated mortality like imperial theatre.",
+        "search": "ancient roman imperial palace ruins illustration",
+        "caption": "He obsessed over staging a spectacularly lavish death."
+      },
+      {
+        "narration": "He commissioned cords braided from purple silk and gold thread, designed specifically for exquisite strangulation.",
+        "search": "ancient roman golden silk fabric artifact museum",
+        "caption": "Golden silk cords were crafted for imperial deaths."
+      },
+      {
+        "narration": "Elagabalus displayed these gilded ligatures publicly, daring fate while shocking the Roman Senate.",
+        "search": "the roses of heliogabalus oil painting alma tadema",
+        "caption": "His bizarre spectacles enraged Rome's ruling elite."
+      },
+      {
+        "narration": "The imperial Praetorian Guard grew hostile, shifting their allegiance to his cousin, Severus Alexander.",
+        "search": "praetorian guard ancient roman stone relief carving",
+        "caption": "The Praetorian Guard favored his cousin Severus Alexander."
+      },
+      {
+        "narration": "In March 222 AD, Elagabalus ordered his cousin's execution, triggering an armed mutiny in Rome.",
+        "search": "castra praetoria ancient roman barracks engraving",
+        "caption": "March 222 AD: Praetorian guards staged an open revolt."
+      },
+      {
+        "narration": "Cornered inside the imperial latrines, Elagabalus watched soldiers pull out his own woven golden cords.",
+        "search": "ancient roman imperial bath latrine ruins photograph",
+        "caption": "Assassins cornered Elagabalus using his own weapon."
+      },
+      {
+        "narration": "On March 11, 222 AD, the Praetorian Guard strangled the eighteen-year-old emperor using the very silk cords he had crafted for his court.",
+        "search": "death of elagabalus oil painting",
+        "caption": "Praetorian guards strangled Elagabalus using his own silk cords in 222 AD."
+      },
+      {
+        "narration": "Soldiers dragged his corpse through the streets of Rome before dumping the mutilated body into the Cloaca Maxima sewer and the Tiber River.",
+        "search": "ancient rome cloaca maxima sewer engraving",
+        "caption": "His mutilated body was dumped into Rome's central sewer system."
+      },
+      {
+        "narration": "The Senate decreed damnatio memoriae to strike Elagabalus from public records, sealing the legacy of a ruler undone by his own golden weapon.",
+        "search": "emperor elagabalus marble bust statue",
+        "caption": "Rome erased his name, leaving only the irony of his demise."
+      },
+      {
+        "narration": "Roman Emperor Elagabalus engineered his own execution weapon in 222 AD.",
+        "search": "elagabalus portrait oil painting",
+        "caption": "The emperor who designed his own death."
+      }
+    ],
+    "error": "",
+    "youtube_id": "WnFjB8dKMeg",
+    "youtube_url": "https://www.youtube.com/watch?v=WnFjB8dKMeg",
+    "created_at": "2026-10-06T23:27:30.756222+00:00",
+    "updated_at": "2026-10-06T23:32:58.603455+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-06T23:28:17.630123+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "392 chars (cat 285 de vua 55s)",
+        "at": "2026-10-06T23:29:20.975443+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 4 cau",
+        "at": "2026-10-06T23:29:23.522810+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T23:29:24.526403+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-06T23:32:14.973070+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-06T23:32:15.009226+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.2s 7517318 bytes",
+        "at": "2026-10-06T23:32:53.860827+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=WnFjB8dKMeg",
+        "at": "2026-10-06T23:32:55.285743+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab-hVvoQsAcP_tGNz8TO12gVCt63cHIV7xAUztBTXsWTDhEaXte",
+        "at": "2026-10-06T23:32:56.133317+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T23:32:57.597571+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T23:32:57.794355+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"WnFjB8dKMeg\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T23:32:58.448827+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T23:32:58.487971+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T23:32:58.603437+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39083194/pexels-photo-39083194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12667361/pexels-photo-12667361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14042265/pexels-photo-14042265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708831/pexels-photo-35708831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8864139/pexels-photo-8864139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057026/pexels-photo-29057026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31814617/pexels-photo-31814617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31598223/pexels-photo-31598223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30682160/pexels-photo-30682160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20051131/pexels-photo-20051131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130611/pexels-photo-11130611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25551884/pexels-photo-25551884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "24d0a796ab",
     "kind": "short",
     "channel": "Channel2",
