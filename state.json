@@ -1,5 +1,197 @@
 [
   {
+    "id": "3704c0961b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật kỳ lạ về mùi hương sau mưa ai cũng thích",
+    "idea": {
+      "title": "Sự thật kỳ lạ về mùi hương sau mưa ai cũng thích",
+      "hook": "Tại sao mùi đất sau mưa lại có một siêu năng lực kỳ lạ, khiến tổ tiên chúng ta lập tức cảm thấy an toàn?",
+      "beats": [
+        "Mùi đất sau mưa (petrichor) thực chất là do vi khuẩn Actinomycetes tiết ra một hợp chất hóa học tên là Geosmin khi gặp nước.",
+        "Mũi con người nhạy cảm với Geosmin đến mức cực đoan: chúng ta có thể phát hiện ra nó ở nồng độ chỉ 5 phần nghìn tỷ, nhạy hơn cả cá mập ngửi mùi máu.",
+        "Sự nhạy cảm này không phải ngẫu nhiên; tổ tiên chúng ta hàng triệu năm trước đã dùng mùi này để định vị nguồn nước và sự sống trong tự nhiên.",
+        "Vì vậy, khi ngửi thấy mùi hương này, não bạn tự động giải phóng hormone thư giãn vì nó báo hiệu một vùng đất trù phú."
+      ],
+      "keywords": [
+        "rain falling on soil",
+        "forest after rain",
+        "human nose smelling",
+        "macro water droplets",
+        "ancient nature tracking"
+      ],
+      "tags": [
+        "khoahoc",
+        "suthatthuvi",
+        "thiennhien",
+        "channel3",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn có biết mũi người nhạy cảm với mùi sau mưa hơn cả cá mập ngửi mùi máu?",
+        "search": "3d animation human nose smelling close up motion graphics",
+        "caption": "Mũi người nhạy hơn cá mập ngửi máu?"
+      },
+      {
+        "narration": "Mỗi khi trời mưa, một mùi hương dễ chịu tỏa ra khiến ai cũng muốn hít hà.",
+        "search": "3d animation rain falling on window glass cozy room loop",
+        "caption": "Mùi hương sau mưa cực kỳ gây nghiện"
+      },
+      {
+        "narration": "Mùi hương này tên là Petrichor, tạo ra bởi một hợp chất siêu nhỏ gọi là Geosmin.",
+        "search": "3d animation rotating chemical molecule structure glowing",
+        "caption": "Bí mật nằm ở hợp chất Geosmin"
+      },
+      {
+        "narration": "Hợp chất này do các vi khuẩn trong đất giải phóng ra ngay khi giọt nước mưa chạm đất.",
+        "search": "3d animation water droplet hitting soil macro slow motion",
+        "caption": "Vi khuẩn giải phóng Geosmin khi gặp nước"
+      },
+      {
+        "narration": "Mũi chúng ta có thể phát hiện ra Geosmin ở nồng độ cực nhỏ: chỉ 5 phần nghìn tỷ.",
+        "search": "isometric render laboratory microscope analyzing water droplet",
+        "caption": "Phát hiện ở nồng độ 5 phần nghìn tỷ"
+      },
+      {
+        "narration": "Sự nhạy cảm cực đoan này không phải ngẫu nhiên mà là một cơ chế sinh tồn.",
+        "search": "3d animation stylized character walking in forest tracking water",
+        "caption": "Đây là cơ chế sinh tồn từ tổ tiên"
+      },
+      {
+        "narration": "Hàng triệu năm trước, ngửi thấy mùi này giúp tổ tiên định vị chính xác nguồn nước và sự sống.",
+        "search": "3d animation clean water flowing in green nature loop",
+        "caption": "Giúp định vị nguồn nước sạch từ xa"
+      },
+      {
+        "narration": "Vì thế, khi ngửi thấy mùi mưa, não bạn lập tức giải phóng hormone thư giãn vì biết mình đã an toàn.",
+        "search": "3d animation human brain glowing with relaxation hormones cartoon style",
+        "caption": "Não giải phóng hormone thư giãn an toàn"
+      },
+      {
+        "narration": "Dù ngày nay chúng ta sống trong những căn hộ bê tông và dán mắt vào màn hình điện thoại, bản năng này vẫn không hề biến mất.",
+        "search": "3d animation nguoi nam bam dien thoai trong phong toi",
+        "caption": "Bản năng này vẫn tồn tại dù bạn đang ở trong nhà."
+      },
+      {
+        "narration": "Chỉ cần một luồng gió mang mùi đất ẩm tràn vào phòng, nhịp tim của bạn sẽ tự động giảm xuống và cơ bắp bắt đầu thả lỏng.",
+        "search": "3d animation nhip tim dap cham rai tren man hinh y te",
+        "caption": "Mùi mưa giúp giảm nhịp tim và thả lỏng cơ bắp."
+      },
+      {
+        "narration": "Đó là lý do tại sao âm thanh và mùi hương của những cơn mưa luôn là liều thuốc ngủ tự nhiên hiệu quả nhất cho bộ não đang căng thẳng.",
+        "search": "3d animation nguoi ngu ngon tren giuong am ap",
+        "caption": "Liều thuốc ngủ tự nhiên tốt nhất cho bộ não căng thẳng."
+      },
+      {
+        "narration": "Các nhà khoa học thậm chí đã chiết xuất Geosmin để tạo ra những lọ nước hoa và nến thơm đắt đỏ nhằm đánh lừa bộ não của bạn.",
+        "search": "3d animation lo nuoc hoa va nen thom toa huong",
+        "caption": "Công nghệ tái tạo mùi hương để đánh lừa bộ não."
+      },
+      {
+        "narration": "Vì vậy, lần tới khi trời mưa, hãy mở cửa sổ ra và hít một hơi thật sâu—bạn đang kích hoạt siêu năng lực triệu năm của chính mình đấy.",
+        "search": "3d animation nguoi mo cua so phong ngu hit tho",
+        "caption": "Mở cửa sổ và kích hoạt siêu năng lực của bạn ngay!"
+      }
+    ],
+    "error": "",
+    "youtube_id": "LQ--YMvVhls",
+    "youtube_url": "https://www.youtube.com/watch?v=LQ--YMvVhls",
+    "created_at": "2026-10-06T06:47:39.376546+00:00",
+    "updated_at": "2026-10-06T06:52:26.349979+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-06T06:49:48.474937+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "533 chars",
+        "at": "2026-10-06T06:50:51.526599+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.4s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-06T06:51:00.144216+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-06T06:51:01.766092+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-06T06:51:16.411377+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-06T06:51:16.448978+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.4s 21938338 bytes",
+        "at": "2026-10-06T06:52:18.707554+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=LQ--YMvVhls",
+        "at": "2026-10-06T06:52:21.531027+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZQRzECtXnobEVlYSGShw-7-GRBjtSQFNkyy_xeaMxubxMa_FpT",
+        "at": "2026-10-06T06:52:22.957694+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-06T06:52:24.369988+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-06T06:52:24.622636+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"LQ--YMvVhls\\\"\",\n    \"errors\"",
+        "at": "2026-10-06T06:52:26.190494+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-06T06:52:26.227256+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-06T06:52:26.349961+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/15283234/15283234-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8549517/8549517-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34997352/14826702_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16097031/16097031-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/5752044/5752044-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39507218/16830987_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39525710/16840040_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34638535/14681117_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39466585/16810512_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28913626/12514540_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6114429/6114429-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439741/15439741-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818510/8818510-hd_720_1280_25fps.mp4"
+    ]
+  },
+  {
     "id": "5350e1cf99",
     "kind": "short",
     "channel": "Channel2",
