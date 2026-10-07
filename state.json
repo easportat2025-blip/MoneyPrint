@@ -1,5 +1,192 @@
 [
   {
+    "id": "352bfeeb70",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Terrifying Secret of Genghis Khan’s Tomb",
+    "idea": {
+      "title": "The Terrifying Secret of Genghis Khan’s Tomb",
+      "hook": "How 800 soldiers brutally slaughtered 2,000 innocent people to hide one conqueror's grave forever.",
+      "beats": [
+        "In 1227, the legendary conqueror Genghis Khan died, but he demanded his final resting place remain an absolute secret.",
+        "To fulfill his last wish, his loyal funeral escort executed every single person they encountered on their long journey.",
+        "After burying him, 800 soldiers repeatedly rode thousands of horses over the grave to erase all traces of fresh dirt.",
+        "To ensure total secrecy, those 800 soldiers were then systematically slaughtered by a second group of warriors.",
+        "Finally, that second group was also executed, leaving the world's most guarded tomb lost to history forever."
+      ],
+      "keywords": [
+        "Genghis Khan portrait",
+        "Mongol empire map",
+        "ancient warrior sword",
+        "burial ground painting",
+        "steppe archaeological dig"
+      ],
+      "tags": [
+        "history",
+        "ancientmysteries",
+        "genghiskhan",
+        "documentary",
+        "warriors"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How 800 soldiers brutally slaughtered 2,000 innocent people to hide one conqueror's grave forever.",
+        "search": "Genghis Khan portrait ink painting",
+        "caption": "800 soldiers slaughtered 2,000 to hide a grave"
+      },
+      {
+        "narration": "In August 1227, the legendary Mongol Empire founder Genghis Khan died, demanding his final resting place remain an absolute secret.",
+        "search": "Mongol empire medieval manuscript map",
+        "caption": "Genghis Khan died in August 1227"
+      },
+      {
+        "narration": "To fulfill his strict last wish, his loyal funeral escort executed every single person they encountered on their long journey.",
+        "search": "ancient warrior sword medieval illustration",
+        "caption": "Escorts executed everyone they encountered"
+      },
+      {
+        "narration": "After burying him in an undisclosed location, 800 soldiers repeatedly rode thousands of horses over the site.",
+        "search": "steppe archaeological dig landscape painting",
+        "caption": "Horses erased all traces of fresh dirt"
+      },
+      {
+        "narration": "This extreme trampling was done precisely to erase all visual traces of fresh dirt and human disturbance.",
+        "search": "Mongolian steppe horse riders oil painting",
+        "caption": "Erasing all traces of the burial site"
+      },
+      {
+        "narration": "To ensure total secrecy, those 800 loyal soldiers were then systematically slaughtered by a second group of warriors.",
+        "search": "medieval battlefield massacre oil painting",
+        "caption": "The 800 soldiers were systematically slaughtered"
+      },
+      {
+        "narration": "Finally, that second group of executioners was also put to death upon their return to the capital.",
+        "search": "ancient Karakorum city ruins engraving",
+        "caption": "The second group was also executed"
+      },
+      {
+        "narration": "This brutal cascade of bloodshed left the world's most heavily guarded tomb entirely lost to history.",
+        "search": "burial ground painting ancient artifacts",
+        "caption": "The world's most guarded tomb lost forever"
+      },
+      {
+        "narration": "In August 1227, the Mongol ruler Genghis Khan died during his final military campaign against the Western Xia dynasty.",
+        "search": "Genghis Khan portrait manuscript illustration",
+        "caption": "Genghis Khan's death in 1227 sparked a brutal cover-up."
+      },
+      {
+        "narration": "His loyal funeral escort massacred over two thousand civilians along the return route to prevent anyone from tracking the burial party.",
+        "search": "ancient warrior sword battle oil painting",
+        "caption": "The funeral party slaughtered every witness in their path."
+      },
+      {
+        "narration": "Eighty elite soldiers trampled the gravesite with thousands of horses before being executed themselves, leaving the tomb permanently lost.",
+        "search": "Mongol empire map historical manuscript",
+        "caption": "Generations of killers were silenced to protect the secret forever."
+      },
+      {
+        "narration": "800 soldiers murdered 2,000 innocents to hide one grave.",
+        "search": "Genghis Khan portrait painting on silk manuscript",
+        "caption": "800 soldiers killed 2,000 to hide a grave."
+      }
+    ],
+    "error": "",
+    "youtube_id": "lqXlJo1JuA8",
+    "youtube_url": "https://www.youtube.com/watch?v=lqXlJo1JuA8",
+    "created_at": "2026-10-07T22:12:49.928957+00:00",
+    "updated_at": "2026-10-07T22:19:05.420697+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-07T22:14:58.381097+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "376 chars (cat 279 de vua 55s)",
+        "at": "2026-10-07T22:16:03.880650+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.9s en-US-GuyNeural 4 cau",
+        "at": "2026-10-07T22:16:06.704481+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-07T22:16:07.727788+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-07T22:18:20.852928+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-10-07T22:18:20.890775+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.9s 7976691 bytes",
+        "at": "2026-10-07T22:18:59.079105+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=lqXlJo1JuA8",
+        "at": "2026-10-07T22:19:01.344013+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYMxulsPBg9L16ox42LcW8i4QCpYdhf1r2rIzpDPOJLkscwSTbb",
+        "at": "2026-10-07T22:19:02.479212+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-07T22:19:04.123571+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-07T22:19:04.379792+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"lqXlJo1JuA8\\\"\",\n    \"errors\"",
+        "at": "2026-10-07T22:19:05.273993+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-07T22:19:05.310609+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-07T22:19:05.420684+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39406501/pexels-photo-39406501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29300336/pexels-photo-29300336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38914902/pexels-photo-38914902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11816781/pexels-photo-11816781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6408364/pexels-photo-6408364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28901496/pexels-photo-28901496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13296995/pexels-photo-13296995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32874272/pexels-photo-32874272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11455009/pexels-photo-11455009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30812870/pexels-photo-30812870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25955419/pexels-photo-25955419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35075043/pexels-photo-35075043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "da36fd4766",
     "kind": "short",
     "channel": "Channel3",
