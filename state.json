@@ -1,5 +1,110 @@
 [
   {
+    "id": "7326e621e0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "scripting",
+    "title": "The Empress Who Murdered Her Baby for the Throne",
+    "idea": {
+      "title": "The Empress Who Murdered Her Baby for the Throne",
+      "hook": "Empress Wu Zetian strangled her own newborn baby to frame her rival, starting a dark chain of betrayal to seize total power.",
+      "beats": [
+        "Wu Zetian was a low-ranking concubine in Tang Dynasty China, desperate to rise in the imperial court.",
+        "In 654 AD, she gave birth to a daughter, but when the reigning Empress Wang visited the nursery, Wu saw a sinister opportunity.",
+        "Moments after the Empress left, Wu ruthlessly strangled her own infant daughter, then cried out in fake grief.",
+        "The grieving Emperor believed the lie, immediately exiled Empress Wang, and eventually made Wu China’s only female ruler."
+      ],
+      "keywords": [
+        "empress wu zetian",
+        "tang dynasty china",
+        "ancient chinese palace",
+        "royal betrayal",
+        "emperor crown"
+      ],
+      "tags": [
+        "history",
+        "ancientchina",
+        "wuzetian",
+        "empress",
+        "betrayal",
+        "documentary",
+        "shorts",
+        "historymysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did China's only female emperor murder her baby?",
+        "search": "empress wu zetian portrait ink painting",
+        "caption": "Did China's only female emperor murder her baby?"
+      },
+      {
+        "narration": "This single accusation in 654 AD reshaped the entire Tang Dynasty, launching a ruthless path to absolute power.",
+        "search": "tang dynasty palace court silk painting",
+        "caption": "A dark accusation reshaped Chinese history."
+      },
+      {
+        "narration": "In the imperial court of Chang'an, Wu Zetian began as a low-ranking concubine desperate to survive the deadly palace politics.",
+        "search": "ancient chang'an city map engraving",
+        "caption": "Wu Zetian started as a low-ranking concubine."
+      },
+      {
+        "narration": "Her main obstacle was Empress Wang, the influential consort who held the emperor's favor and the highest rank.",
+        "search": "empress wang tang dynasty silk painting illustration",
+        "caption": "Empress Wang stood in her way."
+      },
+      {
+        "narration": "After giving birth to a daughter in 654 AD, Wu Zetian allegedly saw a horrific opportunity to destroy her rival.",
+        "search": "tang dynasty imperial nursery stone relief",
+        "caption": "A newborn daughter became a political pawn."
+      },
+      {
+        "narration": "Historical texts claim Wu strangled her own infant moments after Empress Wang left the nursery.",
+        "search": "ancient chinese manuscript page ink on paper",
+        "caption": "Wu allegedly strangled her own newborn child."
+      },
+      {
+        "narration": "When Emperor Gaozong discovered the lifeless child, Wu immediately accused Empress Wang of using witchcraft and murder.",
+        "search": "emperor gaozong tang dynasty portrait painting",
+        "caption": "Wu framed her rival for the murder."
+      },
+      {
+        "narration": "The devastated Emperor believed the lie, stripping Empress Wang of her titles and clearing Wu's path to the throne.",
+        "search": "tang dynasty imperial crown gold sculpture",
+        "caption": "The framed Empress was stripped of power."
+      },
+      {
+        "narration": "In 690 AD, Wu Zetian officially seized the throne, declaring herself the first and only female Emperor in Chinese history.",
+        "search": "Wu Zetian portrait ink painting Tang dynasty",
+        "caption": "In 690 AD, Wu declared herself China's only female Emperor."
+      },
+      {
+        "narration": "To secure her unprecedented reign, she established a ruthless secret police network to eliminate any remaining rivals.",
+        "search": "ancient Chinese palace guards ink painting Tang dynasty",
+        "caption": "She ruthlessly eliminated anyone who questioned her legitimacy."
+      },
+      {
+        "narration": "Wu Zetian ruled for fifteen prosperous years, proving that the ultimate price for the imperial crown was her own daughter's life.",
+        "search": "Tang dynasty imperial crown gold artifact",
+        "caption": "The ultimate price for China's throne was her daughter's life."
+      }
+    ],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-07T10:42:28.729601+00:00",
+    "updated_at": "2026-10-07T11:09:47.930057+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-07T11:09:47.882856+00:00"
+      }
+    }
+  },
+  {
     "id": "d4e2202d0e",
     "kind": "short",
     "channel": "Channel2",
