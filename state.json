@@ -1,5 +1,606 @@
 [
   {
+    "id": "e622162c07",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The King Who Forced His Own Men to Commit Suicide to Win",
+    "idea": {
+      "title": "The King Who Forced His Own Men to Commit Suicide to Win",
+      "hook": "King Goujian of Yue shocked his rivals by forcing his own frontline soldiers to slit their own throats, securing a terrifying victory.",
+      "beats": [
+        "Introduce the chaotic Spring and Autumn period of ancient China, an era defined by brutal warfare, shifting alliances, and ruthless rulers.",
+        "Focus on the bitter, existential rivalry between the neighboring southern states of Wu and Yue, setting the stage for the clash of 496 BC.",
+        "King Helü of Wu launches a massive, seemingly unstoppable invasion of Yue, leaving the newly crowned King Goujian heavily outnumbered and facing ruin.",
+        "The two armies face off at the Battle of Zuili, where Goujian realizes a conventional head-on clash will result in his absolute defeat.",
+        "Desperate for an advantage, Goujian devises a psychological warfare tactic so dark and unprecedented it would echo through history.",
+        "He recruits condemned criminals, offering them a grim bargain: execute yourselves on the battlefield to save your families from ruin, or face a slow, painful execution.",
+        "As the battle begins, three ranks of Yue soldiers march to the front, but instead of charging, they halt and place swords to their own throats.",
+        "To the absolute horror of the Wu army, these men shout a final declaration of loyalty and slice their own throats in perfect unison.",
+        "The Wu soldiers are frozen in shock, paralyzed by the horrific spectacle and superstitious dread of what they have just witnessed.",
+        "Seizing the moment of total confusion, Goujian launches a devastating, pre-planned flank attack on the distracted Wu army.",
+        "The Wu forces are utterly routed, King Helü is mortally wounded in the chaos, and Yue secures an unbelievable, terrifying victory.",
+        "Explore the grim aftermath: how this psychological victory sparked a multi-decade saga of revenge, culminating in Goujian becoming the ultimate hegemon of China."
+      ],
+      "keywords": [
+        "King Goujian",
+        "State of Yue",
+        "State of Wu",
+        "Battle of Zuili",
+        "ancient China",
+        "Spring and Autumn period",
+        "psychological warfare",
+        "bizarre military tactics",
+        "ancient history documentary",
+        "military history"
+      ],
+      "tags": [
+        "history",
+        "ancient china",
+        "King Goujian",
+        "weird history",
+        "military tactics",
+        "battle of zuili",
+        "war history",
+        "historical documentaries",
+        "crazy history facts",
+        "ancient warfare"
+      ],
+      "kind": "long",
+      "thumbnail_text": "SUICIDE AS A WEAPON"
+    },
+    "scenes": [
+      {
+        "narration": "In 496 BC, King Goujian ordered his own soldiers to commit mass suicide.",
+        "search": "ancient Chinese bronze sword artifact museum macro photography",
+        "caption": "Did a king force his own men to commit suicide?"
+      },
+      {
+        "narration": "The chaotic Spring and Autumn period of ancient China was defined by brutal warfare and shifting alliances.",
+        "search": "ancient Chinese battlefield warfare scroll painting detail",
+        "caption": "The brutal warfare of the Spring and Autumn period"
+      },
+      {
+        "narration": "Two neighboring southern states, Wu and Yue, engaged in a bitter, existential rivalry.",
+        "search": "ancient Chinese terracotta map geography scroll manuscript",
+        "caption": "The bitter rivalry between the states of Wu and Yue"
+      },
+      {
+        "narration": "In 496 BC, King Helü of Wu launched a massive invasion, leaving King Goujian heavily outnumbered.",
+        "search": "ancient Chinese imperial army marching engraving art",
+        "caption": "King Helü launches a massive invasion of Yue"
+      },
+      {
+        "narration": "The armies faced off at the Battle of Zuili, where Goujian knew a conventional clash meant certain ruin.",
+        "search": "ancient Chinese mountain valley battlefield landscape ink painting",
+        "caption": "Facing certain defeat at the Battle of Zuili"
+      },
+      {
+        "narration": "Desperate for an edge, Goujian devised a psychological warfare tactic so dark it shocked history.",
+        "search": "ancient Chinese military strategist commander scroll painting",
+        "caption": "Goujian devises a terrifying psychological warfare tactic"
+      },
+      {
+        "narration": "Why did a king force his own soldiers to commit suicide?",
+        "search": "ancient Chinese battlefield bronze weapons engraving illustration",
+        "caption": "A king forced his own men to commit suicide to win."
+      },
+      {
+        "narration": "During the Spring and Autumn period of ancient China, violent warfare reshaped civilization.",
+        "search": "ancient Chinese imperial court ink wash painting",
+        "caption": "The brutal Spring and Autumn period of ancient China."
+      },
+      {
+        "narration": "The southern states of Wu and Yue fought an existential, bitter rivalry.",
+        "search": "ancient Chinese river valley landscape silk scroll painting",
+        "caption": "The bitter rivalry between Wu and Yue."
+      },
+      {
+        "narration": "In 496 BC, King Helü of Wu invaded Yue with a massive army.",
+        "search": "ancient Chinese military commander bronze helmet artifact",
+        "caption": "King Helü of Wu launched a massive invasion."
+      },
+      {
+        "narration": "Outnumbered King Goujian faced total annihilation at the Battle of Zuili.",
+        "search": "ancient Chinese armies clashing swords historical illustration",
+        "caption": "King Goujian faced total ruin at Zuili."
+      },
+      {
+        "narration": "Goujian devised a psychological warfare tactic unlike anything in military history.",
+        "search": "ancient Chinese criminal prisoner wooden stocks manuscript",
+        "caption": "Goujian devised a terrifying psychological warfare tactic."
+      },
+      {
+        "narration": "Condemned criminals were given a grim ultimatum to save their families.",
+        "search": "ancient Chinese executioner broadsword blade close up",
+        "caption": "Condemned criminals offered a grim ultimatum."
+      },
+      {
+        "narration": "Three ranks of Yue soldiers marched forward and placed swords to their throats.",
+        "search": "ancient Chinese soldiers holding bronze swords dramatic lighting",
+        "caption": "Soldiers marched to the front with drawn swords."
+      },
+      {
+        "narration": "In 496 BC at the Battle of Zuili, three rows of Yue soldiers lifted their blades in unison.",
+        "search": "ancient Chinese soldiers holding bronze swords dramatic ink wash",
+        "caption": "Three rows of Yue soldiers lifted their blades."
+      },
+      {
+        "narration": "To the profound shock of the invading Wu army, the condemned men shouted declarations of loyalty and slit their own throats.",
+        "search": "ancient Chinese battlefield carnage digital oil painting",
+        "caption": "The condemned men slit their own throats."
+      },
+      {
+        "narration": "The horrific, synchronized suicide plunged the opposing Wu ranks into sheer superstitious terror and paralysis.",
+        "search": "terrified ancient soldiers watching in horror dark historical art",
+        "caption": "Wu ranks paralyzed by superstitious terror."
+      },
+      {
+        "narration": "Seizing this exact moment of psychological shock, King Goujian unleashed his main forces from the flank.",
+        "search": "ancient Chinese army ambush battle woodcut engraving",
+        "caption": "Goujian unleashed his main forces."
+      },
+      {
+        "narration": "The bewildered Wu army broke formation and fled, while their king, Helü, suffered a mortal wound in the chaos.",
+        "search": "wounded ancient king retreat battlefield historical illustration",
+        "caption": "King Helü suffered a mortal wound."
+      },
+      {
+        "narration": "This unprecedented deployment of psychological terror handed the outnumbered State of Yue an astonishing victory.",
+        "search": "victorious ancient Chinese army ancient scroll painting",
+        "caption": "The State of Yue secured an astonishing victory."
+      },
+      {
+        "narration": "Yet this brutal tactical gamble ignited a decades-long vendetta between Wu and Yue in the Spring and Autumn period.",
+        "search": "ancient Chinese royal court intrigue ink painting",
+        "caption": "A decades-long vendetta ignited between Wu and Yue."
+      },
+      {
+        "narration": "King Goujian would ultimately transform this single battlefield shock into total hegemony over ancient China.",
+        "search": "King Goujian ancient Chinese monarch bronze statue photo",
+        "caption": "Goujian achieved total hegemony over ancient China."
+      },
+      {
+        "narration": "In the chaotic Spring and Autumn period of ancient China, the neighboring southern states of Wu and Yue locked into a bitter, existential rivalry.",
+        "search": "ancient Chinese bronze sword spring and autumn period museum artifact photo",
+        "caption": "The bitter rivalry between Wu and Yue"
+      },
+      {
+        "narration": "By 496 BC, King Helü of Wu launched a massive invasion, leaving the newly crowned King Goujian of Yue heavily outnumbered and facing ruin.",
+        "search": "ancient Chinese military commander oil painting historical illustration",
+        "caption": "King Helü invades Yue in 496 BC"
+      },
+      {
+        "narration": "The two armies faced off at the Battle of Zuili, where Goujian realized a conventional head-on clash would result in absolute defeat.",
+        "search": "ancient Chinese battlefield engraving tactical map illustration",
+        "caption": "The fateful clash at the Battle of Zuili"
+      },
+      {
+        "narration": "Desperate for an advantage, Goujian devised a psychological warfare tactic so dark and unprecedented it would echo through centuries of military history.",
+        "search": "ancient Chinese scroll painting dark dramatic shadows fine art",
+        "caption": "A desperate tactical gamble"
+      },
+      {
+        "narration": "He recruited condemned criminals, offering them a grim bargain: execute yourselves on the battlefield to save your families, or face public execution.",
+        "search": "ancient Chinese prisoners court illustration historical manuscript",
+        "caption": "A grim bargain for condemned criminals"
+      },
+      {
+        "narration": "As the battle began in 496 BC, three ranks of Yue soldiers marched to the front, but instead of charging, they placed swords to their own throats.",
+        "search": "ancient Chinese soldiers holding swords dramatic painting art",
+        "caption": "Soldiers march to the frontline"
+      },
+      {
+        "narration": "To the absolute horror of the Wu army, these men shouted a final declaration of loyalty and sliced their own throats in perfect unison.",
+        "search": "ancient battlefield dramatic historical oil painting carnage",
+        "caption": "Mass self-execution stuns the enemy"
+      },
+      {
+        "narration": "The Wu soldiers froze in shock, paralyzed by the horrific spectacle and superstitious dread of what they had just witnessed on the field.",
+        "search": "shocked ancient soldiers painting historical art",
+        "caption": "Paralyzed by supernatural terror"
+      },
+      {
+        "narration": "Seizing the moment of total confusion, King Goujian launched a devastating flank attack on the distracted Wu army.",
+        "search": "ancient Chinese cavalry charge battle ink wash painting",
+        "caption": "Goujian launches his coordinated flanking maneuver."
+      },
+      {
+        "narration": "The Wu forces were utterly routed during the chaos of the unexpected assault, leading to heavy casualties.",
+        "search": "ancient Chinese soldiers retreating in defeat watercolor art",
+        "caption": "The Wu frontline shatters under sudden pressure."
+      },
+      {
+        "narration": "During the chaotic retreat, King Helü of Wu suffered a mortal wound that would alter the war entirely.",
+        "search": "wounded ancient warlord being carried from battlefield illustration",
+        "caption": "King Helü is mortally wounded in the fray."
+      },
+      {
+        "narration": "This unprecedented victory at Zuili in 496 BC secured an unbelievable triumph for the beleaguered state of Yue.",
+        "search": "ancient Chinese sword bronze artifact museum display lighting",
+        "caption": "Yue secures an unbelievable tactical triumph."
+      },
+      {
+        "narration": "Yet this brutal psychological warfare sparked a multi-decade saga of relentless revenge between the rival states.",
+        "search": "ancient Chinese imperial court intrigue scroll painting detail",
+        "caption": "A multi-decade saga of vengeance begins."
+      },
+      {
+        "narration": "King Goujian famously subjected himself to extreme hardships for years to ensure his ultimate revenge against Wu.",
+        "search": "ancient Chinese king sleeping on brushwood historical illustration",
+        "caption": "Goujian endures extreme hardship to plot revenge."
+      },
+      {
+        "narration": "Decades later, Goujian turned the tables completely, utterly destroying the State of Wu and annexing its territories.",
+        "search": "ancient Chinese walled city siege victory manuscript painting",
+        "caption": "Goujian ultimately destroys the rival State of Wu."
+      },
+      {
+        "narration": "Through sheer ruthlessness and psychological terror, Goujian rose to become the ultimate hegemon of China.",
+        "search": "ancient Chinese emperor jade crown portrait painting",
+        "caption": "Goujian claims the title of ultimate hegemon."
+      },
+      {
+        "narration": "In 473 BC, the protracted vengeance of Goujian finally reached its brutal conclusion when the capital of Wu fell.",
+        "search": "ancient Chinese bronze sword artifact museum display",
+        "caption": "The final conquest of the State of Wu."
+      },
+      {
+        "narration": "King Fuchai of Wu was driven to suicide, mirroring the fate his own father Helü had narrowly escaped decades prior. vanquished",
+        "search": "ancient Chinese Zhou dynasty imperial throne wood carving",
+        "caption": "The tragic end of King Fuchai."
+      },
+      {
+        "narration": "With Wu erased from the map, Goujian was formally recognized as a Hegemon by the Zhou royal court.",
+        "search": "ancient Chinese Zhou dynasty ceremonial jade bi disc artifact",
+        "caption": "Goujian recognized as Hegemon of China."
+      },
+      {
+        "narration": "Yet this ultimate dominance rested entirely upon the foundation of absolute terror established at the Battle of Zuili.",
+        "search": "ancient Chinese battlefield weapons bronze dagger axe engraving",
+        "caption": "Built on a foundation of absolute terror."
+      },
+      {
+        "narration": "The psychological tactic of mass self-execution demonstrated a chilling disregard for human life in pursuit of state survival.",
+        "search": "ancient Chinese soldier terracotta warrior close up face",
+        "caption": "A chilling disregard for human life."
+      },
+      {
+        "narration": "Historians of the Han dynasty later recorded these grim events in texts like the Shiji, preserving the dark legacy of Yue.",
+        "search": "ancient Chinese bamboo slip manuscript scroll calligraphy ink",
+        "caption": "Recorded by historians in ancient texts."
+      },
+      {
+        "narration": "The rivalry between Wu and Yue remains one of the most savage conflicts of the Spring and Autumn period.",
+        "search": "ancient Chinese river landscape ink wash painting scroll",
+        "caption": "One of history's most savage rivalries."
+      },
+      {
+        "narration": "Through extreme psychological warfare, King Goujian reshaped the balance of power in ancient China forever.",
+        "search": "ancient Chinese emperor portrait silk painting hanging scroll",
+        "caption": "Reshaping the balance of power in China."
+      },
+      {
+        "narration": "In 496 BC, the brutal Spring and Autumn period of ancient China witnessed a clash of unprecedented terror at the Battle of Zuili.",
+        "search": "ancient chinese battle scene ink wash painting",
+        "caption": "The brutal Spring and Autumn period erupted in 496 BC."
+      },
+      {
+        "narration": "King Helü of Wu launched a massive invasion against the southern state of Yue, leaving the newly crowned King Goujian heavily outnumbered.",
+        "search": "ancient chinese emperor portrait traditional painting",
+        "caption": "King Helü invaded Yue with an unstoppable army."
+      },
+      {
+        "narration": "Facing absolute ruin, Goujian realized a conventional head-on confrontation would spell total destruction for his forces.",
+        "search": "ancient chinese strategist military map scroll",
+        "caption": "Goujian faced absolute ruin at the Battle of Zuili."
+      },
+      {
+        "narration": "Desperate for an advantage, the Yue monarch devised a psychological warfare tactic so dark it would echo through history.",
+        "search": "ancient chinese dagger bronze weapon artifact photo",
+        "caption": "A dark psychological warfare tactic was devised."
+      },
+      {
+        "narration": "Goujian recruited condemned criminals, offering a grim bargain to execute themselves on the battlefield to save their families.",
+        "search": "ancient chinese prisoners bound scroll illustration",
+        "caption": "Condemned criminals were offered a grim bargain."
+      },
+      {
+        "narration": "As the two armies faced off, three ranks of Yue soldiers marched forward, placed swords to their own throats, and shouted declarations of loyalty.",
+        "search": "ancient chinese soldiers holding swords engraving",
+        "caption": "Yue soldiers marched to the front lines."
+      },
+      {
+        "narration": "To the absolute horror of the Wu army, these men sliced their own throats in unison, freezing the enemy in superstitious dread.",
+        "search": "shocked ancient soldiers painting illustration",
+        "caption": "Men sliced their own throats in unison."
+      },
+      {
+        "narration": "Seizing the moment of total confusion, Goujian launched a devastating flank attack, securing a terrifying victory that changed ancient China.",
+        "search": "ancient chinese battle victory woodblock print",
+        "caption": "A devastating flank attack secured the victory."
+      },
+      {
+        "narration": "In the brutal aftermath of the Battle of Zuili in 496 BC, King Helü of Wu died from his infected wounds, swearing an oath of vengeance.",
+        "search": "ancient Chinese warlord mourning oil painting",
+        "caption": "King Helü dies from wounds, swearing vengeance."
+      },
+      {
+        "narration": "For a decade, King Goujian of Yue was forced to humiliate himself, even tasting the poisoned stool of his captor to survive.",
+        "search": "humiliated prisoner ancient China ink wash painting",
+        "caption": "Goujian endures extreme humiliation to plot revenge."
+      },
+      {
+        "narration": "By 473 BC, after years of covert buildup, Goujian launched a massive counter-invasion against the complacent State of Wu.",
+        "search": "ancient Chinese army marching through mist scroll art",
+        "caption": "Goujian launches a massive counter-invasion against Wu."
+      },
+      {
+        "narration": "The Wu capital of Suzhou was completely encircled, cutting off all escape routes and trapping King Fuchai inside the citadel.",
+        "search": "ancient walled city under siege woodblock print",
+        "caption": "The Wu capital is encircled and trapped."
+      },
+      {
+        "narration": "Refusing to surrender, King Fuchai of Wu ultimately took his own life, bringing a definitive end to the once-mighty state.",
+        "search": "defeated ancient Chinese king suicide historical illustration",
+        "caption": "King Fuchai takes his own life in defeat."
+      },
+      {
+        "narration": "With Wu annexed, King Goujian achieved absolute hegemony, recognized as the supreme overlord by the Zhou royal court.",
+        "search": "ancient Chinese imperial court throne painting",
+        "caption": "Goujian becomes the supreme overlord of China."
+      },
+      {
+        "narration": "The grim sacrifice at Zuili cemented Goujian's legacy as one of the most ruthless and calculating strategists of the Spring and Autumn period.",
+        "search": "ancient Chinese bronze sword artifact museum display goujians",
+        "caption": "Goujian's legacy secured through ruthless strategy."
+      },
+      {
+        "narration": "This dark chapter of ancient warfare proved that psychological terror could shatter an army long before steel ever clashed.",
+        "search": "ancient battlefield weapons bronze spear heads archaeological find",
+        "caption": "Psychological terror shatters armies before steel clashes."
+      },
+      {
+        "narration": "Beyond the shock of Zuili, Goujian faced a treacherous geopolitical landscape in 5th century BC China.",
+        "search": "ancient Chinese bronze sword artifact museum display lethal",
+        "caption": "Goujian's lethal bronze weapons forged for war"
+      },
+      {
+        "narration": "The surviving armies of Wu regrouped under new leadership, swearing absolute vengeance against the kingdom of Yue.",
+        "search": "ancient Chinese military general statue stone carving",
+        "caption": "Wu commanders plot their bloody revenge"
+      },
+      {
+        "narration": "For years, Goujian endured legendary humiliation, famously tasting gall daily to harden his resolve for the coming war.",
+        "search": "ancient Chinese manuscript painting of a king suffering",
+        "caption": "The bitter taste of ultimate ambition"
+      },
+      {
+        "narration": "He secretly rebuilt his forces, transforming Yue into a ruthless, militarized state primed for total annihilation.",
+        "search": "ancient Chinese city wall fortification painting",
+        "caption": "Yue transforms into a military fortress"
+      },
+      {
+        "narration": "In 473 BC, decades after the psychological horror of Zuili, Goujian launched his final, crushing invasion of Wu.",
+        "search": "ancient Chinese battle formation woodblock print illustration",
+        "caption": "The final invasion of Wu in 473 BC"
+      },
+      {
+        "narration": "King Fuchai of Wu found his defenses completely shattered by Goujian's relentless, vengeful strategy.",
+        "search": "ancient Chinese royal palace ruins oil painting",
+        "caption": "The collapse of the Wu dynasty"
+      },
+      {
+        "narration": "Cornered and disgraced, Fuchai ultimately chose suicide, mirroring the grim fate Goujian inflicted on his own men years prior.",
+        "search": "ancient Chinese emperor mourning ink wash painting",
+        "caption": "The tragic downfall of King Fuchai"
+      },
+      {
+        "narration": "Through unmatched cruelty and tactical genius, Goujian transformed Yue into an undisputed hegemon of the ancient world.",
+        "search": "ancient Chinese imperial crown artifact museum display",
+        "caption": "King Goujian rises as the ultimate hegemon"
+      },
+      {
+        "narration": "In the fifth century BCE, the Spring and Autumn period of ancient China plunged rival feudal states into relentless warfare.",
+        "search": "ancient China bronze dagger axe weapon artifact museum display",
+        "caption": "The brutal warfare of the Spring and Autumn period."
+      },
+      {
+        "narration": "The southern rivals of Wu and Yue fought an existential struggle for dominance across river valleys and marshlands.",
+        "search": "ancient Chinese landscape ink wash painting mountains and rivers",
+        "caption": "The bitter rivalry between the states of Wu and Yue."
+      },
+      {
+        "narration": "In 496 BCE, King Helü of Wu led a massive invasion force directly into Yue territory, outnumbering the defenders.",
+        "search": "ancient Chinese army marching infantry bronze armor illustration",
+        "caption": "King Helü of Wu launches a massive invasion in 496 BCE."
+      },
+      {
+        "narration": "Outmatched at the Battle of Zuili, the newly crowned King Goujian faced certain defeat in a conventional clash.",
+        "search": "ancient Chinese soldiers holding shields battle formation painting",
+        "caption": "King Goujian faces certain defeat at the Battle of Zuili."
+      },
+      {
+        "narration": "Desperate for an edge, Goujian deployed a psychological warfare tactic so unprecedented it paralyzed his enemies.",
+        "search": "ancient Chinese strategist scroll painting portrait",
+        "caption": "Goujian devises an unprecedented psychological warfare tactic."
+      },
+      {
+        "narration": "Frontline ranks of condemned criminals were ordered to march forward, stop, and place swords directly against their own throats.",
+        "search": "ancient Chinese executioner sword bronze blade dark lighting",
+        "caption": "Condemned men are marched to the front lines."
+      },
+      {
+        "narration": "To the horror of the opposing Wu army, these men shouted declarations of loyalty and slit their own throats in unison.",
+        "search": "ancient Chinese warrior suicide dramatic historical illustration",
+        "caption": "Soldiers slice their own throats in terrifying unison."
+      },
+      {
+        "narration": "Paralyzed by superstitious dread and total confusion, the Wu forces hesitated, allowing Goujian to launch a devastating flank attack.",
+        "search": "ancient Chinese battle chaos cavalry infantry engraving",
+        "caption": "The shocked Wu army is routed in total confusion."
+      }
+    ],
+    "error": "",
+    "youtube_id": "PIhQIrpsBYc",
+    "youtube_url": "https://www.youtube.com/watch?v=PIhQIrpsBYc",
+    "created_at": "2026-10-07T19:46:24.342129+00:00",
+    "updated_at": "2026-10-07T20:02:52.866365+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "6 scenes",
+        "at": "2026-10-07T19:47:27.360717+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "1033 chars",
+        "at": "2026-10-07T19:49:09.879406+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "64.1s en-US-GuyNeural 11 cau",
+        "at": "2026-10-07T19:49:16.697067+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-07T19:49:18.547432+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 78 images",
+        "at": "2026-10-07T20:01:01.790767+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-10-07T20:01:01.861473+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 64.1s 35712443 bytes",
+        "at": "2026-10-07T20:02:38.526119+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=PIhQIrpsBYc",
+        "at": "2026-10-07T20:02:47.826662+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZjBVvq3m9c5AqQbB_TCkYZQpTECTdPITd5URduiky8prnuN3eU",
+        "at": "2026-10-07T20:02:49.152784+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-07T20:02:50.975707+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-07T20:02:51.214384+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"PIhQIrpsBYc\\\"\",\n    \"errors\"",
+        "at": "2026-10-07T20:02:52.671915+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-07T20:02:52.703450+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-07T20:02:52.866347+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16153606/pexels-photo-16153606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35030732/pexels-photo-35030732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14436278/pexels-photo-14436278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28844766/pexels-photo-28844766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17943583/pexels-photo-17943583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6724115/pexels-photo-6724115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37656872/pexels-photo-37656872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35812308/pexels-photo-35812308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34935135/pexels-photo-34935135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37245404/pexels-photo-37245404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11105685/pexels-photo-11105685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28987502/pexels-photo-28987502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6414383/pexels-photo-6414383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9421034/pexels-photo-9421034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5971338/pexels-photo-5971338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7321295/pexels-photo-7321295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34004795/pexels-photo-34004795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28844763/pexels-photo-28844763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2753662/pexels-photo-2753662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16472055/pexels-photo-16472055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5992912/pexels-photo-5992912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33019225/pexels-photo-33019225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32750980/pexels-photo-32750980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32985186/pexels-photo-32985186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34945071/pexels-photo-34945071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30150834/pexels-photo-30150834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9373300/pexels-photo-9373300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5868027/pexels-photo-5868027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35471717/pexels-photo-35471717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12082787/pexels-photo-12082787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736361/pexels-photo-30736361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37731869/pexels-photo-37731869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37731862/pexels-photo-37731862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29047510/pexels-photo-29047510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36163412/pexels-photo-36163412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2147872/pexels-photo-2147872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37613559/pexels-photo-37613559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30311891/pexels-photo-30311891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33550311/pexels-photo-33550311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38115190/pexels-photo-38115190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36766417/pexels-photo-36766417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30584842/pexels-photo-30584842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6156193/pexels-photo-6156193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7261261/pexels-photo-7261261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36679417/pexels-photo-36679417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5907795/pexels-photo-5907795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34619007/pexels-photo-34619007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5302807/pexels-photo-5302807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7961881/pexels-photo-7961881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7785046/pexels-photo-7785046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7540069/pexels-photo-7540069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5491888/pexels-photo-5491888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11882130/pexels-photo-11882130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36163423/pexels-photo-36163423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30519926/pexels-photo-30519926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26741550/pexels-photo-26741550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7648835/pexels-photo-7648835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29767797/pexels-photo-29767797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6560967/pexels-photo-6560967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12321159/pexels-photo-12321159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17977130/pexels-photo-17977130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32976996/pexels-photo-32976996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34509120/pexels-photo-34509120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35159018/pexels-photo-35159018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31849561/pexels-photo-31849561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30319812/pexels-photo-30319812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10578447/pexels-photo-10578447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30899526/pexels-photo-30899526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39892813/pexels-photo-39892813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37731861/pexels-photo-37731861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38848193/pexels-photo-38848193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18338672/pexels-photo-18338672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31276089/pexels-photo-31276089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6061756/pexels-photo-6061756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31971487/pexels-photo-31971487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31467010/pexels-photo-31467010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269153/pexels-photo-9269153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b7c72109e5",
     "kind": "short",
     "channel": "Channel3",
