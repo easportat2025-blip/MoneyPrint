@@ -1,5 +1,197 @@
 [
   {
+    "id": "b7c72109e5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ về chai nước để quên trong ô tô ngày nắng",
+    "idea": {
+      "title": "Sự thật đáng sợ về chai nước để quên trong ô tô ngày nắng",
+      "hook": "Bạn nghĩ một ngụm nước ấm trong chai nhựa để quên trên xe chỉ hơi khó uống? Thực chất, bạn đang nuốt hàng tỷ hạt nhựa siêu vi và hóa chất độc hại vào người.",
+      "beats": [
+        "Khi nhiệt độ trong xe tăng lên tới 60 độ C dưới trời nắng, liên kết hóa học của chai nhựa PET bắt đầu bị bẻ gãy.",
+        "Chất Antimon và BPA (những chất gây rối loạn nội tiết) âm thầm giải phóng và hòa tan trực tiếp vào nước.",
+        "Nghiên cứu cho thấy nhiệt độ cao làm tăng tốc độ thôi nhiễm hóa chất này lên gấp 4 lần so với bình thường.",
+        "Chỉ một ngụm nhỏ cũng khiến hệ tiêu hóa và gan của bạn phải hoạt động hết công suất để lọc bỏ độc tố cực kỳ khó phân hủy này."
+      ],
+      "keywords": [
+        "hot car interior",
+        "plastic water bottle",
+        "sun rays window",
+        "chemical molecules",
+        "drinking water glass"
+      ],
+      "tags": [
+        "suckhoe",
+        "oto",
+        "meovat",
+        "doisong",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ nước ấm để quên trong xe chỉ khó uống?",
+        "search": "cartoony 3d plastic water bottle hot car interior",
+        "caption": "Nước ấm trong ô tô chỉ khó uống?"
+      },
+      {
+        "narration": "Thực chất bạn đang nuốt hàng tỷ hạt nhựa siêu vi độc hại.",
+        "search": "explainer animation drinking water glass microplastics",
+        "caption": "Đang nuốt hàng tỷ hạt nhựa siêu vi!"
+      },
+      {
+        "narration": "Khi nhiệt độ ô tô chạm sáu mươi độ C dưới trời nắng...",
+        "search": "isometric render car interior sun rays window dashboard",
+        "caption": "Nhiệt độ ô tô chạm 60 độ C"
+      },
+      {
+        "narration": "Liên kết hóa học của chai nhựa PET bắt đầu bị bẻ gãy.",
+        "search": "motion graphics chemical molecules breaking apart plastic",
+        "caption": "Liên kết hóa học nhựa bị bẻ gãy"
+      },
+      {
+        "narration": "Chất Antimon và BPA âm thầm giải phóng vào nước.",
+        "search": "3d animation toxic chemical molecules dissolving in water",
+        "caption": "Chất độc BPA hòa tan vào nước"
+      },
+      {
+        "narration": "Nhiệt độ cao làm tăng tốc độ thôi nhiễm hóa chất lên gấp bốn lần.",
+        "search": "loop animation thermometer rising fast in hot car",
+        "caption": "Tốc độ thôi nhiễm hóa chất tăng gấp 4"
+      },
+      {
+        "narration": "Chỉ một ngụm nhỏ khiến gan phải làm việc quá tải.",
+        "search": "explainer animation human liver filtering toxins overtime",
+        "caption": "Gan phải làm việc quá tải để lọc độc"
+      },
+      {
+        "narration": "Độc tố cực kỳ khó phân hủy này sẽ tích tụ dần trong cơ thể.",
+        "search": "cartoony 3d toxic microparticles accumulating in body",
+        "caption": "Độc tố tích tụ dần trong cơ thể"
+      },
+      {
+        "narration": "Chỉ một ngụm nhỏ khiến gan phải làm việc quá tải để lọc bỏ độc tố.",
+        "search": "3d animation human liver filtering toxic particles motion graphics",
+        "caption": "Gan phải gồng mình lọc độc tố từ nhựa"
+      },
+      {
+        "narration": "Độc tố cực kỳ khó phân hủy này sẽ tích tụ dần trong cơ thể bạn theo thời gian.",
+        "search": "cartoony 3d chemical buildup in human body loop animation",
+        "caption": "Hóa chất tích tụ dần trong cơ thể"
+      },
+      {
+        "narration": "Nhiệt độ nắng nóng trong xe biến chai nước thành nguồn phát tán độc tố liên tục.",
+        "search": "hot car interior plastic water bottle close up 3d render",
+        "caption": "Nắng nóng biến chai nước thành ổ độc tố"
+      },
+      {
+        "narration": "Thói quen uống nước quên trong xe có thể âm thầm hủy hoại sức khỏe mỗi ngày.",
+        "search": "isometric render person drinking contaminated water from plastic bottle",
+        "caption": "Thói quen tưởng vô hại hóa ra cực độc"
+      },
+      {
+        "narration": "Hãy luôn mang chai nước theo người và tuyệt đối tránh uống nước để quên trong xe nắng.",
+        "search": "explainer animation fresh clean water glass safe daily habit",
+        "caption": "Hãy nhớ luôn mang theo chai nước của bạn"
+      }
+    ],
+    "error": "",
+    "youtube_id": "0fLmvCi34QI",
+    "youtube_url": "https://www.youtube.com/watch?v=0fLmvCi34QI",
+    "created_at": "2026-10-07T19:13:24.997096+00:00",
+    "updated_at": "2026-10-07T19:20:16.268774+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-07T19:17:45.353275+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "500 chars (cat 54 de vua 55s)",
+        "at": "2026-10-07T19:19:00.047489+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-07T19:19:10.858139+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-07T19:19:12.034496+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-07T19:19:27.484705+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-07T19:19:27.513082+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.2s 13725066 bytes",
+        "at": "2026-10-07T19:20:09.749553+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=0fLmvCi34QI",
+        "at": "2026-10-07T19:20:12.217164+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZDjpxptazbDq6VT2sWmQUNWZH3NvdGdkoObJGCz3CUjapg-eyo",
+        "at": "2026-10-07T19:20:13.786409+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-07T19:20:14.904299+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-07T19:20:15.181147+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"0fLmvCi34QI\\\"\",\n    \"errors\"",
+        "at": "2026-10-07T19:20:16.144310+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-07T19:20:16.177192+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-07T19:20:16.268761+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/4612662/4612662-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/36044314/15285706_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/13675326/13675326-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/8325962/8325962-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35157119/14893511_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/17243521/17243521-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/36968919/15661911_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6506744/6506744-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/37342578/15816579_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/5809647/5809647-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/25935025/11922032_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6326784/6326784-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8145846/8145846-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "7326e621e0",
     "kind": "short",
     "channel": "Channel2",
