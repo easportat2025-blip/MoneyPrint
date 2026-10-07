@@ -1,5 +1,191 @@
 [
   {
+    "id": "d4e2202d0e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Roman emperor who executed his own shadow",
+    "idea": {
+      "title": "The Roman emperor who executed his own shadow",
+      "hook": "When Roman Emperor Honorius learned his favorite city had 'perished,' he panicked—only to discover it was just his pet chicken named Roma.",
+      "beats": [
+        "Introduce Emperor Honorius sitting safely in Ravenna while the Western Roman Empire collapsed around him.",
+        "Describe his deep obsession with raising poultry rather than governing his crumbling territories.",
+        "Reveal the dramatic moment a messenger rushed in with news of Rome's fall, triggering Honorius's misplaced grief for his bird.",
+        "Conclude with the bitter irony of a ruler completely detached from reality while history dissolved."
+      ],
+      "keywords": [
+        "roman bust",
+        "ancient engraving",
+        "historical portrait",
+        "old manuscript",
+        "roman coin"
+      ],
+      "tags": [
+        "history",
+        "romanempire",
+        "historyshorts",
+        "historical",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman emperor once mourned a chicken over Rome.",
+        "search": "emperor honorius roman coin",
+        "caption": "A Roman emperor valued a chicken more than Rome."
+      },
+      {
+        "narration": "In August 410 AD, the Western Roman Empire suffered its first catastrophic sack in eight hundred years.",
+        "search": "sack of rome 410 engraving",
+        "caption": "In 410 AD, Rome fell to Visigoth invaders."
+      },
+      {
+        "narration": "Emperor Flavius Honorius had fled to the fortified marshes of Ravenna, completely abandoning his imperial capital to Visigoth king Alaric.",
+        "search": "emperor honorius marble bust",
+        "caption": "Emperor Honorius hid behind the walls of Ravenna."
+      },
+      {
+        "narration": "According to sixth-century Byzantine historian Procopius, Honorius spent his reign obsessively breeding poultry instead of defending his borders.",
+        "search": "byzantine manuscript text parchment",
+        "caption": "Historian Procopius documented the emperor's poultry obsession."
+      },
+      {
+        "narration": "While invaders breached the Salarian Gate, an imperial messenger rushed into the palace at Ravenna with urgent news.",
+        "search": "porta salaria ancient roman engraving",
+        "caption": "A royal courier brought frantic news to Ravenna."
+      },
+      {
+        "narration": "The eunuch keeper of the imperial birds reported directly that Roma had just perished.",
+        "search": "ancient roman rooster mosaic",
+        "caption": "The servant reported that Roma had just died."
+      },
+      {
+        "narration": "Honorius cried out in horror, lamenting that he had just fed the bird grain from his own hands moments earlier.",
+        "search": "palace of ravenna historical engraving",
+        "caption": "Honorius panicked, claiming he had just fed the creature."
+      },
+      {
+        "narration": "When the messenger clarified that Rome the imperial city had fallen, not his prize fowl, Honorius breathed an audible sigh of relief.",
+        "search": "alaric sack of rome oil painting",
+        "caption": "Honorius sighed with relief when Rome, not the bird, fell."
+      },
+      {
+        "narration": "In 410 AD, Emperor Honorius sat safely behind the impenetrable marshes of Ravenna while Alaric's Visigoths sacked the ancient capital of Rome.",
+        "search": "roman bust marble sculpture museum lighting",
+        "caption": "Ravenna sanctuary versus the fallen imperial capital"
+      },
+      {
+        "narration": "As the Western Roman Empire dissolved into chaos, the emperor remained entirely absorbed in the daily management of his vast poultry coops.",
+        "search": "ancient engraving of roman emperor in palace",
+        "caption": "Governance abandoned for the care of prized fowl"
+      },
+      {
+        "narration": "History remembers Honorius as a ruler so detached from reality that he mourned a chicken while an empire burned.",
+        "search": "old manuscript illumination of medieval monarch",
+        "caption": "The bitter irony of a poultry-obsessed emperor"
+      },
+      {
+        "narration": "When Rome fell, Emperor Honorius panicked over a chicken.",
+        "search": "roman bust sculpture museum light",
+        "caption": "Did an emperor mourn a bird as Rome fell?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "XLPbcj3u6G0",
+    "youtube_url": "https://www.youtube.com/watch?v=XLPbcj3u6G0",
+    "created_at": "2026-10-07T07:08:13.478025+00:00",
+    "updated_at": "2026-10-07T07:20:09.314060+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-07T07:12:20.587604+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "383 chars (cat 98 de vua 55s)",
+        "at": "2026-10-07T07:16:35.844728+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 6 cau",
+        "at": "2026-10-07T07:16:38.325260+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-07T07:16:39.465166+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-07T07:19:23.489347+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-07T07:19:23.524983+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 8700901 bytes",
+        "at": "2026-10-07T07:20:04.033243+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=XLPbcj3u6G0",
+        "at": "2026-10-07T07:20:05.840616+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYr9a2abtVFw9nJbaSfpK5_mLYBon2fBWzCiZFS91K5d6Q-modF",
+        "at": "2026-10-07T07:20:06.661751+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-07T07:20:08.143497+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-07T07:20:08.364029+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"XLPbcj3u6G0\\\"\",\n    \"errors\"",
+        "at": "2026-10-07T07:20:09.167225+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-07T07:20:09.204818+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-07T07:20:09.314046+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36396961/pexels-photo-36396961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26651061/pexels-photo-26651061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29948228/pexels-photo-29948228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12494796/pexels-photo-12494796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7947144/pexels-photo-7947144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966900/pexels-photo-37966900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37914640/pexels-photo-37914640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14737411/pexels-photo-14737411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3767669/pexels-photo-3767669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37058995/pexels-photo-37058995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076982/pexels-photo-16076982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13097962/pexels-photo-13097962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "600a78be8d",
     "kind": "short",
     "channel": "Channel3",
