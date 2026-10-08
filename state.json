@@ -1,5 +1,191 @@
 [
   {
+    "id": "26dd6d03e1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Deadliest Dictator Forgave a Teenage Boy",
+    "idea": {
+      "title": "Why Rome's Deadliest Dictator Forgave a Teenage Boy",
+      "hook": "In 82 BC, the bloodthirsty dictator Sulla executed thousands, but he spared one defiant teenager—and instantly lived to regret it.",
+      "beats": [
+        "Lucius Cornelius Sulla ordered young Julius Caesar to divorce his wife, but the 18-year-old boldly refused to obey the supreme tyrant.",
+        "Friends begged Sulla for mercy, arguing the boy was harmless and politically irrelevant.",
+        "Sulla finally relented, but issued a chilling prophecy: 'In this boy there are many Mariuses—he will one day destroy our aristocracy.'",
+        "Decades later, that forgiven youth crossed the Rubicon, dismantled the Roman Republic, and became supreme master of Rome."
+      ],
+      "keywords": [
+        "Lucius Cornelius Sulla bust",
+        "Julius Caesar young portrait",
+        "ancient Roman senate painting",
+        "Roman legion march engraving",
+        "classical Rome forum ruins map"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#juliuscaesar",
+        "#romanrepublic",
+        "#historyuncovered",
+        "#historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's deadliest dictator spared one teen—and doomed the Republic.",
+        "search": "Lucius Cornelius Sulla marble bust statue close up",
+        "caption": "Rome's deadliest dictator spared one defiant teenager in 82 BC."
+      },
+      {
+        "narration": "In 82 BC, Lucius Cornelius Sulla seized absolute power in Rome, executing thousands through public proscription lists.",
+        "search": "Roman proscriptions Sulla reign of terror historical oil painting",
+        "caption": "In 82 BC, Sulla executed thousands of Roman citizens without trial."
+      },
+      {
+        "narration": "To consolidate total control, Sulla forced Roman aristocrats to sever ties with his dead rival, Gaius Marius.",
+        "search": "Gaius Marius Roman general marble bust statue portrait",
+        "caption": "Sulla purged all political allies connected to his former rival."
+      },
+      {
+        "narration": "Eighteen-year-old Gaius Julius Caesar flatly refused the dictator's direct order to divorce his wife, Cornelia.",
+        "search": "young Julius Caesar marble bust statue close up portrait",
+        "caption": "Eighteen-year-old Julius Caesar refused Sulla's direct order to divorce."
+      },
+      {
+        "narration": "Stripped of his inheritance, the young aristocrat fled Rome while Sulla's bounty hunters combed Italy for him.",
+        "search": "ancient Roman soldiers searching countryside night engraving",
+        "caption": "Caesar fled Rome as Sulla's agents hunted him down."
+      },
+      {
+        "narration": "Influential patrician kin and the sacred Vestal Virgins directly intervened, begging the dictator to grant the boy mercy.",
+        "search": "Vestal Virgins Roman temple historical oil painting",
+        "caption": "Vestal Virgins and noble relatives begged Sulla for Caesar's life."
+      },
+      {
+        "narration": "Sulla initially resisted, bewildered that anyone cared about the fate of an impoverished, politically powerless youth.",
+        "search": "ancient Roman dictator tribunal court classical oil painting",
+        "caption": "Sulla refused, baffled by pleas for an irrelevant youth."
+      },
+      {
+        "narration": "Worn down by their relentless pleading, Sulla finally relented, but issued an ominous prophecy to his inner circle.",
+        "search": "Roman Senate assembly debate classical engraving",
+        "caption": "Sulla relented, issuing a chilling prophecy about the teenager."
+      },
+      {
+        "narration": "Sulla famously warned his allies: 'Take him then, but know that in this boy are many Mariuses, and he will destroy our aristocracy.'",
+        "search": "Lucius Cornelius Sulla marble bust statue close-up",
+        "caption": "Sulla warned the spared boy would destroy Rome's aristocracy."
+      },
+      {
+        "narration": "Decades later, in 49 BC, that pardoned youth defied the Senate and marched his veteran legions across the Rubicon river.",
+        "search": "Julius Caesar crossing the Rubicon 19th century oil painting",
+        "caption": "In 49 BC, Julius Caesar marched his legions on Rome."
+      },
+      {
+        "narration": "Julius Caesar dismantled the Roman Republic and seized supreme command, proving Sulla's rarest act of mercy was the Senate's most fatal mistake.",
+        "search": "Julius Caesar dictator perpetuo ancient Roman silver denarius coin",
+        "caption": "Sulla's single act of mercy sealed the Republic's doom."
+      },
+      {
+        "narration": "One spared teenager destroyed the entire Roman Republic.",
+        "search": "ancient Roman senate oil painting",
+        "caption": "One spared teenager destroyed the Roman Republic."
+      }
+    ],
+    "error": "",
+    "youtube_id": "XI3Qf7HoYdg",
+    "youtube_url": "https://www.youtube.com/watch?v=XI3Qf7HoYdg",
+    "created_at": "2026-10-08T02:11:59.372016+00:00",
+    "updated_at": "2026-10-08T02:16:12.768901+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-08T02:13:14.863924+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "314 chars (cat 242 de vua 55s)",
+        "at": "2026-10-08T02:13:53.858755+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-08T02:13:57.234925+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-08T02:13:58.232981+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-08T02:15:30.048285+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-08T02:15:30.091527+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.7s 6806777 bytes",
+        "at": "2026-10-08T02:16:06.005429+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=XI3Qf7HoYdg",
+        "at": "2026-10-08T02:16:08.118525+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabGY77OHhSkZXbAvdN0UzupMbF8IMDygllskOhLiIvVVpdZNzRe",
+        "at": "2026-10-08T02:16:09.429918+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T02:16:11.051112+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T02:16:11.431515+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"XI3Qf7HoYdg\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T02:16:12.620787+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T02:16:12.658638+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T02:16:12.768890+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6714856/pexels-photo-6714856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9319224/pexels-photo-9319224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25388614/pexels-photo-25388614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18088652/pexels-photo-18088652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27684144/pexels-photo-27684144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39428067/pexels-photo-39428067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32549844/pexels-photo-32549844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11618467/pexels-photo-11618467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16272963/pexels-photo-16272963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38002559/pexels-photo-38002559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32211633/pexels-photo-32211633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38317492/pexels-photo-38317492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1c2fa422a4",
     "kind": "short",
     "channel": "Channel2",
