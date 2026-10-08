@@ -1,5 +1,191 @@
 [
   {
+    "id": "61ae696bdc",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Sultan Who Strangled 19 Brothers in One Night",
+    "idea": {
+      "title": "The Sultan Who Strangled 19 Brothers in One Night",
+      "hook": "In 1595, Sultan Mehmed III secured his Ottoman crown with an act of sheer terror: executing nineteen of his own brothers in a single night.",
+      "beats": [
+        "To prevent civil war under the brutal Ottoman Law of Fratricide, newly crowned Mehmed III ordered the immediate elimination of all royal rivals.",
+        "Mute executioners moved room to room through Topkapi Palace, strangling nineteen innocent princes—many still infants in cradles.",
+        "The next morning, Istanbul awoke to a horrifying procession of nineteen miniature coffins leaving the imperial gates.",
+        "The outrage was so profound that it permanently broke the tradition, forcing future sultans to lock heirs in palace cages instead."
+      ],
+      "keywords": [
+        "Ottoman Empire painting",
+        "Sultan Mehmed III portrait",
+        "Topkapi Palace engraving",
+        "Constantinople historical map",
+        "Ottoman miniature art"
+      ],
+      "tags": [
+        "#history",
+        "#ottomanempire",
+        "#darkhistory",
+        "#ancienthistory",
+        "#historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Which royal crown demanded nineteen coffins in a single night?",
+        "search": "Sultan Mehmed III portrait painting",
+        "caption": "Nineteen royal coffins for one crown."
+      },
+      {
+        "narration": "In January 1595, Constantinople's Topkapi Palace became the stage for the Ottoman Empire's most ruthless succession ritual.",
+        "search": "Constantinople 16th century map engraving",
+        "caption": "Constantinople, January 1595."
+      },
+      {
+        "narration": "Under the imperial Law of Fratricide, a newly crowned sultan was legally permitted to execute his brothers to prevent civil war.",
+        "search": "Ottoman manuscript miniature sultan court",
+        "caption": "The brutal Law of Fratricide."
+      },
+      {
+        "narration": "Upon ascending the throne, Sultan Mehmed III immediately ordered the elimination of every single male rival in his family.",
+        "search": "Sultan Mehmed III enthronement Ottoman painting",
+        "caption": "Mehmed III orders his brothers' execution."
+      },
+      {
+        "narration": "Imperial deaf-mute executioners moved silently through the palace harem, carrying silk bowstrings to carry out the sentence.",
+        "search": "Topkapi Palace courtyard historic engraving",
+        "caption": "Silent executioners inside the palace."
+      },
+      {
+        "narration": "Nineteen princes, including infants still in their cradles, were systematically strangled to death in the dark.",
+        "search": "Ottoman Empire palace interior painting",
+        "caption": "Nineteen princes strangled in one night."
+      },
+      {
+        "narration": "The next morning, horrified citizens watched nineteen small coffins carried out of the imperial gates for public burial.",
+        "search": "Ottoman funeral procession historical illustration",
+        "caption": "A procession of nineteen miniature coffins."
+      },
+      {
+        "narration": "This mass execution caused such immense public outrage that it permanently ended fratricide, forcing future sultans to lock heirs in palace cages instead.",
+        "search": "Topkapi Palace Kafes cage window engraving",
+        "caption": "Outrage ended the law of fratricide forever."
+      },
+      {
+        "narration": "This new system, known as the Kafes, confined royal princes to isolated palace rooms for decades, stripped of contact with the outside world.",
+        "search": "Topkapi Palace harem apartments engraving",
+        "caption": "Princes were locked in palace cages for decades."
+      },
+      {
+        "narration": "When these psychologically broken heirs finally inherited the throne, their severe instability rapidly accelerated the decline of the Ottoman state.",
+        "search": "Sultan Ibrahim I portrait painting",
+        "caption": "Unstable rulers accelerated the empire's decline."
+      },
+      {
+        "narration": "Sultan Mehmed III’s bloodstained ascension in 1595 secured his immediate power, but permanently cursed his dynasty to a legacy of gilded madness.",
+        "search": "Sultan Mehmed III portrait painting terror",
+        "caption": "One night of terror cursed an entire dynasty."
+      },
+      {
+        "narration": "Can one night of royal murder end a civil war?",
+        "search": "Sultan Mehmed III portrait painting",
+        "caption": "One night of royal murder."
+      }
+    ],
+    "error": "",
+    "youtube_id": "vF35N2VA7Ss",
+    "youtube_url": "https://www.youtube.com/watch?v=vF35N2VA7Ss",
+    "created_at": "2026-10-08T22:19:27.993904+00:00",
+    "updated_at": "2026-10-08T22:24:58.935507+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-08T22:20:45.945925+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "421 chars (cat 167 de vua 55s)",
+        "at": "2026-10-08T22:22:27.870543+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-08T22:22:29.730031+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-08T22:22:30.420547+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-08T22:24:26.098779+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-08T22:24:26.121868+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 9852077 bytes",
+        "at": "2026-10-08T22:24:52.878984+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=vF35N2VA7Ss",
+        "at": "2026-10-08T22:24:55.444881+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaHxlHaRVb0osTDlU0th8P-RK0AwmOEW-PufE7Y4Geerp59BuJw",
+        "at": "2026-10-08T22:24:56.289990+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T22:24:57.730487+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T22:24:57.986567+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"vF35N2VA7Ss\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T22:24:58.839288+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T22:24:58.863177+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T22:24:58.935500+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39835358/pexels-photo-39835358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39482464/pexels-photo-39482464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11797484/pexels-photo-11797484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21896869/pexels-photo-21896869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20646140/pexels-photo-20646140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39385369/pexels-photo-39385369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37237693/pexels-photo-37237693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16311886/pexels-photo-16311886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35298379/pexels-photo-35298379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24516369/pexels-photo-24516369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39054815/pexels-photo-39054815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13909196/pexels-photo-13909196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a5c7345e78",
     "kind": "short",
     "channel": "Channel3",
