@@ -1,5 +1,191 @@
 [
   {
+    "id": "5db07e54f7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Richest Enemy Died Swallowing Gold",
+    "idea": {
+      "title": "Why Rome's Richest Enemy Died Swallowing Gold",
+      "hook": "In 53 BC, Marcus Licinius Crassus thought he was buying ultimate glory, but his endless greed ended with molten gold poured down his throat.",
+      "beats": [
+        "Crassus was the wealthiest oligarch in Rome, yet he desperately craved military prestige like Julius Caesar.",
+        "Ignoring warnings, he led 40,000 legionaries into the scorching deserts of Parthia at the disastrous Battle of Carrhae.",
+        "Surrounded and slaughtered by mounted horse archers, Crassus surrendered under a false promise of parley.",
+        "To mock his legendary avarice, the Parthian general poured molten gold into his severed mouth as a brutal final punishment."
+      ],
+      "keywords": [
+        "Battle of Carrhae painting",
+        "Marcus Licinius Crassus bust",
+        "Parthian horse archer engraving",
+        "Ancient Roman legion vintage map",
+        "Molten gold ancient execution illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historicalfacts",
+        "#ancienthistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's richest man died drinking pure molten gold.",
+        "search": "Marcus Licinius Crassus marble bust statue",
+        "caption": "Rome's richest oligarch suffered an unthinkable fate."
+      },
+      {
+        "narration": "In the late Roman Republic, Marcus Licinius Crassus amassed a fortune exceeding two hundred million sesterces.",
+        "search": "ancient Roman gold coins denarius hoard museum artifact",
+        "caption": "Crassus controlled vast real estate and silver across Rome."
+      },
+      {
+        "narration": "Despite bankrolling the First Triumvirate, Crassus lacked the legendary battlefield prestige won by Julius Caesar and Pompey.",
+        "search": "Julius Caesar Roman marble bust antique engraving",
+        "caption": "Military glory was the only status wealth could not buy."
+      },
+      {
+        "narration": "In 53 BC, determined to conquer the East, Crassus marched seven Roman legions across the Euphrates toward Parthia.",
+        "search": "ancient Roman legion marching antique illustration engraving",
+        "caption": "Over forty thousand Roman legionaries crossed into Parthia in 53 BC."
+      },
+      {
+        "narration": "Local desert scouts hired by Crassus were secretly double agents loyal to the Parthian commander Surena.",
+        "search": "Parthia ancient empire map historical engraving",
+        "caption": "Crassus ignored veteran advisors and marched into open desert."
+      },
+      {
+        "narration": "Near the town of Carrhae, thousands of armored cataphracts and mounted archers suddenly surrounded the legions.",
+        "search": "Parthian horse archer antique drawing engraving",
+        "caption": "Parthian horse archers enveloped the dense Roman formations."
+      },
+      {
+        "narration": "Camel caravans carrying endless replacement arrows allowed Parthian archers to fire continuously into the locked Roman shields.",
+        "search": "Battle of Carrhae ancient warfare oil painting",
+        "caption": "Relentless arrow volleys pinned the Roman infantry in the heat."
+      },
+      {
+        "narration": "When Parthian riders paraded the severed head of Crassus's son before the ranks, Roman resistance completely broke.",
+        "search": "ancient Roman battlefield defeat dramatic oil painting",
+        "caption": "The shattered legions collapsed into panic as Crassus faced disaster."
+      },
+      {
+        "narration": "Defeated at Carrhae in 53 BC, Marcus Licinius Crassus was captured during a chaotic, failed peace negotiation with the Parthian commanders.",
+        "search": "Battle of Carrhae Roman defeat oil painting",
+        "caption": "Crassus was captured during failed peace talks in 53 BC."
+      },
+      {
+        "narration": "To mock his legendary avarice, the Parthian general Surena ordered molten gold poured down the severed throat of the Roman oligarch.",
+        "search": "execution of Crassus molten gold engraving",
+        "caption": "Molten gold was poured down his throat to mock his greed."
+      },
+      {
+        "narration": "This catastrophic loss of seven legions and Rome's wealthiest man shattered the Republic's invincibility, proving that ultimate greed leads to ultimate ruin.",
+        "search": "Marcus Licinius Crassus marble bust statue close up",
+        "caption": "This catastrophic defeat shattered Rome's illusion of absolute invincibility."
+      },
+      {
+        "narration": "Rome’s richest man died by swallowing molten gold.",
+        "search": "marcus licinius crassus marble bust statue",
+        "caption": "Rome's wealthiest oligarch died drinking liquid gold."
+      }
+    ],
+    "error": "",
+    "youtube_id": "CJQZD5DqP-Y",
+    "youtube_url": "https://www.youtube.com/watch?v=CJQZD5DqP-Y",
+    "created_at": "2026-10-08T10:49:13.917869+00:00",
+    "updated_at": "2026-10-08T10:54:12.092530+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-08T10:51:29.659015+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "418 chars (cat 132 de vua 55s)",
+        "at": "2026-10-08T10:52:24.733138+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.5s en-US-GuyNeural 6 cau",
+        "at": "2026-10-08T10:52:27.265501+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-08T10:52:28.436281+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-08T10:53:22.613884+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-08T10:53:22.652995+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 8790243 bytes",
+        "at": "2026-10-08T10:54:05.899018+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=CJQZD5DqP-Y",
+        "at": "2026-10-08T10:54:08.251130+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaac8q9PisZGdKzK9BxRjZESKb_8J94nuH0aD8At-OU6K4_3ENXk",
+        "at": "2026-10-08T10:54:09.322663+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T10:54:10.907819+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T10:54:11.170394+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"CJQZD5DqP-Y\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T10:54:11.934279+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T10:54:11.974386+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T10:54:12.092514+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29754964/pexels-photo-29754964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37213587/pexels-photo-37213587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11096657/pexels-photo-11096657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30564504/pexels-photo-30564504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31483210/pexels-photo-31483210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6735959/pexels-photo-6735959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31487200/pexels-photo-31487200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8943321/pexels-photo-8943321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16375114/pexels-photo-16375114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23511051/pexels-photo-23511051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6711454/pexels-photo-6711454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15253823/pexels-photo-15253823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3e35afad21",
     "kind": "short",
     "channel": "Channel2",
