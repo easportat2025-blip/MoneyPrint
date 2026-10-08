@@ -1,5 +1,630 @@
 [
   {
+    "id": "561ee66677",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Inventor Who Built His Own Execution Chamber",
+    "idea": {
+      "title": "The Inventor Who Built His Own Execution Chamber",
+      "hook": "In ancient Greece, an inventor named Perilaus designed a terrifying bronze bull to torture victims, expecting a massive reward—but his creation became his own agonizing tomb.",
+      "beats": [
+        "Introduce Akragas, Sicily, in the 6th century BC, ruled by the notoriously cruel and sadistic tyrant Phalaris.",
+        "Perilaus, a skilled Athenian bronze caster, seeks to gain favor and a massive reward from the tyrant by designing the ultimate execution device.",
+        "Perilaus presents his masterpiece: a hollow, life-sized brass bull with a hatch on its back, designed to roast victims alive.",
+        "Detail the complex acoustic engineering of the bull, featuring a system of internal pipes and stops designed to convert agonizing human screams into the realistic bellowing of a bull.",
+        "Explain the sensory theater of the device: the nostrils of the bull were engineered to emit sweet-smelling incense to mask the odor of burning flesh.",
+        "Phalaris, though a tyrant, is secretly repulsed by Perilaus's cold-blooded creativity and decides to punish the inventor's sycophancy.",
+        "Phalaris tricks Perilaus, ordering him to crawl inside the belly of the bull to demonstrate exactly how the acoustic pipes would sound.",
+        "As soon as Perilaus is inside, Phalaris locks the hatch and commands his guards to light a massive fire directly beneath the bronze belly.",
+        "Perilaus screams in agony as the metal heats up, and the court listens in horror as his cries are successfully converted into melodic, bovine roars.",
+        "Just before Perilaus dies, Phalaris has him pulled out of the hot brass to keep the artwork 'unpolluted' by death, only to immediately throw him off a steep cliff.",
+        "Reveal the ultimate twist of poetic justice: years later, when Phalaris is overthrown, the citizens of Akragas execute the tyrant inside the very same bronze bull."
+      ],
+      "keywords": [
+        "Brazen Bull",
+        "Perilaus",
+        "Phalaris",
+        "Ancient Greece",
+        "Sicily",
+        "Akragas",
+        "History Documentary",
+        "Ancient Torture",
+        "Poetic Justice",
+        "Weird History",
+        "Ancient Inventors",
+        "Dark History"
+      ],
+      "tags": [
+        "ancientgreece",
+        "historydocumentary",
+        "brazenbull",
+        "perilaus",
+        "phalaris",
+        "weirdhistory",
+        "ancienttorture",
+        "poeticjustice",
+        "darkhistory",
+        "greekhistory"
+      ],
+      "kind": "long",
+      "thumbnail_text": "Trapped In His Own Invention"
+    },
+    "scenes": [
+      {
+        "narration": "Did an inventor build his own agonizing execution chamber?",
+        "search": "brazen bull execution historical engraving",
+        "caption": "The ultimate trap designed by its own creator."
+      },
+      {
+        "narration": "In 560 BC, the city of Akragas in Sicily fell under the rule of Phalaris, a tyrant notorious for his extreme cruelty.",
+        "search": "phalaris tyrant of acragas ancient greek coin",
+        "caption": "Tyrant Phalaris ruled Akragas with absolute cruelty."
+      },
+      {
+        "narration": "Seeking to gain the tyrant's favor and a lavish reward, an Athenian bronze caster named Perilaus designed a devastating new instrument of torture.",
+        "search": "ancient greek bronze caster workshop illustration",
+        "caption": "Perilaus sought royal favor through dark innovation."
+      },
+      {
+        "narration": "He presented a hollow, life-sized brass bull, engineered to roast condemned prisoners alive over an open fire.",
+        "search": "brazen bull of phalaris historical engraving",
+        "caption": "A hollow brass beast designed for agonizing execution."
+      },
+      {
+        "narration": "The interior featured a complex system of acoustic pipes designed to convert human screams into the realistic bellowing of an angry bull.",
+        "search": "ancient greek brass pipes mechanism drawing",
+        "caption": "Internal pipes converted screams into bovine roars."
+      },
+      {
+        "narration": "To complete the spectacle, the bull's nostrils were designed to emit sweet-smelling incense, masking the scent of burning flesh.",
+        "search": "ancient greek bronze incense burner artifact",
+        "caption": "Perfumed smoke masked the scent of death."
+      },
+      {
+        "narration": "Repulsed by the inventor's cold-blooded creativity, Phalaris ordered Perilaus to climb inside to demonstrate how the acoustic pipes functioned.",
+        "search": "phalaris and perilaus bronze bull classical painting",
+        "caption": "Phalaris ordered the inventor inside his own creation."
+      },
+      {
+        "narration": "After locking Perilaus inside and heating the brass, Phalaris freed him just before death, only to throw him off a cliff—yet years later, Phalaris himself was executed inside the same bull.",
+        "search": "death of phalaris bronze bull historical engraving",
+        "caption": "Poetic justice claimed both the inventor and the tyrant."
+      },
+      {
+        "narration": "No instrument of execution in the ancient world combined artistic beauty with such absolute, cold-blooded sadism.",
+        "search": "ancient greek bronze bull sculpture engraving",
+        "caption": "The ancient world's most sadistic execution device."
+      },
+      {
+        "narration": "Around 560 BC, the Sicilian city of Akragas fell under the control of Phalaris, a ruler notorious for his extreme cruelty.",
+        "search": "ancient greek ruins of Agrigento Sicily oil painting",
+        "caption": "Akragas was ruled by the ruthless tyrant Phalaris."
+      },
+      {
+        "narration": "Seeking to win the tyrant's favor, an Athenian bronze caster named Perilaus arrived with a unique and horrific gift.",
+        "search": "Phalaris tyrant of Akragas ancient greek coin",
+        "caption": "Perilaus sought favor from the tyrant."
+      },
+      {
+        "narration": "He presented a hollow, life-sized brass bull, designed to contain a condemned prisoner while a fire burned directly underneath.",
+        "search": "brazen bull torture device historical engraving",
+        "caption": "A hollow brass bull designed to roast victims alive."
+      },
+      {
+        "narration": "Inside, a system of winding acoustic pipes was engineered to transform the victim's agonizing screams into the realistic bellowing of a beast.",
+        "search": "ancient greek bronze casting workshop manuscript illustration",
+        "caption": "Acoustic pipes converted screams into melodic bellows."
+      },
+      {
+        "narration": "Appalled by the inventor's cold-blooded creativity, Phalaris ordered Perilaus to crawl inside to demonstrate the acoustic system.",
+        "search": "perilaus inside the brazen bull historical painting",
+        "caption": "Phalaris ordered the inventor inside his own creation."
+      },
+      {
+        "narration": "The hatch was locked and a fire lit, turning Perilaus into the first person to experience the agonizing heat of his own invention.",
+        "search": "ruins of steep cliff in agrigento sicily oil painting",
+        "caption": "Perilaus was burned, then thrown from a cliff."
+      },
+      {
+        "narration": "In 554 BC, when the citizens of Akragas finally revolted, they executed Phalaris inside the very same bronze bull.",
+        "search": "death of phalaris in the brazen bull engraving",
+        "caption": "Phalaris met his end inside the bronze bull."
+      },
+      {
+        "narration": "A single bronze statue caused the fall of two ancient empires.",
+        "search": "ancient carthage ruins engraving",
+        "caption": "One bronze statue sealed the fate of two empires."
+      },
+      {
+        "narration": "In 406 BC, nearly a century and a half after the death of Phalaris, the wealthy Sicilian city of Akragas faced a brutal siege by the Carthaginians.",
+        "search": "carthaginian soldiers attacking ancient greek city oil painting",
+        "caption": "In 406 BC, Carthage besieged the wealthy city of Akragas."
+      },
+      {
+        "narration": "Upon capturing the city, the Carthaginian forces searched the ruins to locate and seize the infamous Brazen Bull.",
+        "search": "carthaginian general bust statue",
+        "caption": "Carthaginian forces searched the ruined city for the legendary bull."
+      },
+      {
+        "narration": "Taken as a supreme trophy of war, the instrument of torture was shipped across the Mediterranean to Carthage, where it remained for over two centuries.",
+        "search": "ancient cargo ship mediterranean sea oil painting",
+        "caption": "The bronze bull was shipped to Carthage as war booty."
+      },
+      {
+        "narration": "In 146 BC, Roman general Scipio Aemilianus conquered Carthage and discovered the bull hidden within the city's ruins.",
+        "search": "scipio aemilianus bust statue",
+        "caption": "Roman general Scipio Aemilianus discovered the bull in 146 BC."
+      },
+      {
+        "narration": "Recognizing its dark history, Scipio ordered the bull to be returned to the citizens of Agrigento as a symbol of Roman justice.",
+        "search": "roman soldiers transporting bronze statue engraving",
+        "caption": "Rome returned the infamous torture device to Sicily."
+      },
+      {
+        "narration": "While some modern scholars doubted the bull's existence, the ancient poet Pindar confirmed its reality in 470 BC, writing of the cruel Phalaris and his burning bull.",
+        "search": "ancient greek poet pindar bust statue",
+        "caption": "Poet Pindar confirmed the bull's existence in 470 BC."
+      },
+      {
+        "narration": "Ultimately, the Brazen Bull became history's most enduring warning that those who craft instruments of cruelty are destined to be consumed by them.",
+        "search": "brazen bull execution chamber engraving",
+        "caption": "The creator and the tyrant both perished inside their own creation."
+      },
+      {
+        "narration": "An inventor was roasted inside his own masterpiece.",
+        "search": "ancient greek bronze bull engraving",
+        "caption": "A deadly invention turned against its creator."
+      },
+      {
+        "narration": "In 570 BC, the wealthy city of Akragas in Sicily fell under the control of Phalaris, a tyrant notorious for extreme cruelty.",
+        "search": "ancient greek ruins of akragas sicily engraving",
+        "caption": "Akragas, Sicily, 570 BC."
+      },
+      {
+        "narration": "Seeking the tyrant's favor, an Athenian artisan named Perilaus designed a hollow, life-sized brass bull for executing criminals.",
+        "search": "ancient greek bronze caster workshop engraving",
+        "caption": "Perilaus designs a horrific execution device."
+      },
+      {
+        "narration": "The device featured internal pipes that converted human screams into bovine roars, while incense drifted from its nostrils to mask burning flesh.",
+        "search": "brazen bull torture device 18th century engraving",
+        "caption": "Acoustic pipes transformed screams into bovine bellows."
+      },
+      {
+        "narration": "Repulsed by the cruelty, Phalaris ordered Perilaus to climb inside the chamber to demonstrate how the acoustic pipes functioned.",
+        "search": "phalaris tyrant of akragas classical bust statue",
+        "caption": "Phalaris demands a demonstration of the acoustics."
+      },
+      {
+        "narration": "Once Perilaus was secured inside, the tyrant's guards locked the hatch and lit a massive fire beneath the bronze belly.",
+        "search": "brazen bull burning victim historical illustration",
+        "caption": "The creator is locked inside his own device."
+      },
+      {
+        "narration": "Before Perilaus could die inside, Phalaris had him dragged out to keep the brass unpolluted, only to cast him off a steep cliff.",
+        "search": "ancient greek cliff overlooking sea oil painting",
+        "caption": "Perilaus is cast from the cliffs of Akragas."
+      },
+      {
+        "narration": "Poetic justice was realized in 554 BC when Phalaris was overthrown, and the citizens executed the tyrant inside the very same brass bull.",
+        "search": "overthrow of tyrant phalaris ancient history engraving",
+        "caption": "Phalaris meets his end in the Brazen Bull."
+      },
+      {
+        "narration": "A hollow bronze statue became antiquity's most infamous instrument of death.",
+        "search": "brazen bull ancient engraving",
+        "caption": "The ultimate instrument of ancient terror."
+      },
+      {
+        "narration": "In 570 BC, the Sicilian city of Akragas fell under the control of the ruthless tyrant Phalaris.",
+        "search": "ancient akragas sicily ruins engraving",
+        "caption": "Akragas was ruled by the tyrant Phalaris in 570 BC."
+      },
+      {
+        "narration": "Seeking royal favor, an Athenian metalworker named Perilaus designed a hollow brass bull to roast condemned prisoners alive.",
+        "search": "ancient greek bronze sculptor oil painting",
+        "caption": "Perilaus designed a hollow brass bull for executions."
+      },
+      {
+        "narration": "The interior featured complex acoustic pipes designed to convert human screams into the realistic bellowing of an angry beast.",
+        "search": "brazen bull interior diagram historical manuscript",
+        "caption": "Internal pipes converted screams into bovine roars."
+      },
+      {
+        "narration": "Disgusted by the inventor's cruelty, Phalaris ordered Perilaus to climb inside to test the sound system himself.",
+        "search": "phalaris tyrant of akragas ancient coin",
+        "caption": "Phalaris ordered the inventor inside his own creation."
+      },
+      {
+        "narration": "The tyrant sealed the hatch and lit a fire beneath, forcing Perilaus to experience the agonizing heat of his own invention.",
+        "search": "execution of perilaus brazen bull oil painting",
+        "caption": "Perilaus was burned inside his own invention."
+      },
+      {
+        "narration": "In 554 BC, a popular uprising overthrew Phalaris, and the citizens executed the tyrant inside the very same bronze bull.",
+        "search": "death of phalaris brazen bull historical engraving",
+        "caption": "Phalaris was executed inside the bull in 554 BC."
+      },
+      {
+        "narration": "The story of the Brazen Bull survived through ancient historians as a timeless warning against the cruelty of absolute power.",
+        "search": "ancient greek manuscript text close up",
+        "caption": "A lasting historical warning against absolute tyranny."
+      },
+      {
+        "narration": "Can an artisan's ultimate masterpiece become his own tomb?",
+        "search": "ancient greek bronze bull statue engraving",
+        "caption": "His masterpiece became his grave."
+      },
+      {
+        "narration": "In the sixth century BC, the Sicilian city of Akragas fell under the control of Phalaris, a ruler notorious for his extreme sadism.",
+        "search": "ancient sicily map engraving",
+        "caption": "Akragas, Sicily, 6th Century BC."
+      },
+      {
+        "narration": "Seeking to gain the tyrant's favor and a lavish reward, an Athenian bronze caster named Perilaus designed a novel execution instrument.",
+        "search": "ancient greek bronze caster workshop oil painting",
+        "caption": "Perilaus sought the tyrant's favor."
+      },
+      {
+        "narration": "He presented a hollow bronze bull containing a complex system of internal pipes designed to convert human screams into melodic bovine roars.",
+        "search": "brazen bull torture device historical engraving handheld",
+        "caption": "Screams converted into bovine roars."
+      },
+      {
+        "narration": "Disgusted by the inventor's cold-blooded creativity, Phalaris ordered Perilaus to climb inside the belly to demonstrate the acoustic pipes.",
+        "search": "phalaris tyrant of akragas bust statue",
+        "caption": "Phalaris demanded a demonstration."
+      },
+      {
+        "narration": "Once Perilaus was inside, the hatch was locked, and a massive fire was lit beneath the bronze stomach.",
+        "search": "burning of the brazen bull historical illustration",
+        "caption": "The fire was lit beneath."
+      },
+      {
+        "narration": "Before Perilaus could perish inside, Phalaris had him extracted to keep the bronze untarnished, only to cast him off a steep cliff.",
+        "search": "ancient greek cliff overlooking the sea oil painting",
+        "caption": "Thrown from the cliffs."
+      },
+      {
+        "narration": "Poetic justice was finalized in 554 BC when a popular uprising overthrew Phalaris, and the citizens executed the tyrant inside his own prized bull.",
+        "search": "overthrow of tyrant phalaris historical engraving",
+        "caption": "Phalaris met the same fate."
+      },
+      {
+        "narration": "The fall of Phalaris in 554 BC did not erase the memory of his cruelty, as the brazen bull became a lasting symbol of tyranny throughout the ancient Greek world.",
+        "search": "ancient greek ruins of agrigento Sicily photograph",
+        "caption": "The ruins of Akragas, Sicily."
+      },
+      {
+        "narration": "In 406 BC, the Carthaginian army under Hannibal Mago besieged and sacked Akragas, discovering the infamous bronze device among the city's treasures.",
+        "search": "carthaginian soldiers siege of city ancient engraving",
+        "caption": "Carthage besieges Akragas in 406 BC (Illustration)."
+      },
+      {
+        "narration": "The Carthaginians decided to transport the heavy bronze bull across the Mediterranean to their capital city of Carthage as a trophy of their conquest.",
+        "search": "ancient Phoenician galley warship oil painting",
+        "caption": "Carthaginian ships transporting war loot (Illustration)."
+      },
+      {
+        "narration": "For over two hundred years, the bull remained in Carthage, serving as a dark monument of Sicilian defeat while Rome rose to challenge Carthaginian dominance.",
+        "search": "ancient carthage harbor ruins photograph",
+        "caption": "The ancient city of Carthage."
+      },
+      {
+        "narration": "During the Third Punic War in 146 BC, Roman forces led by Scipio Aemilianus breached the defenses of Carthage, systematically looting the city.",
+        "search": "scipio aemilianus marble bust statue",
+        "caption": "Roman general Scipio Aemilianus."
+      },
+      {
+        "narration": "Amidst the burning ruins of Carthage, Roman soldiers recovered the intact bronze bull, recognizing it from the historical accounts of Greek writers.",
+        "search": "roman soldiers looting ancient city oil painting",
+        "caption": "Romans plundering Carthage in 146 BC (Illustration)."
+      },
+      {
+        "narration": "Rather than destroying the relic, Scipio Aemilianus returned the brazen bull to the citizens of Agrigentum, restoring the artifact to its original home.",
+        "search": "ancient roman coin showing scipio",
+        "caption": "Roman coin depicting Scipio."
+      },
+      {
+        "narration": "Modern historians, referencing the accounts of Diodorus Siculus, continue to debate whether the bull was a real instrument of execution or a political myth.",
+        "search": "diodorus siculus ancient manuscript engraving",
+        "caption": "Writings of historian Diodorus Siculus."
+      },
+      {
+        "narration": "A torture device became its creator's final tomb.",
+        "search": "ancient greek bronze bull sculpture engraving trapped",
+        "caption": "A creator trapped in his own invention."
+      },
+      {
+        "narration": "In the sixth century BC, the Sicilian city of Akragas fell under the control of Phalaris, a ruler notorious for his extreme sadism.",
+        "search": "ancient greek city of akragas sicily old map engraving",
+        "caption": "The brutal reign of Phalaris in Akragas."
+      },
+      {
+        "narration": "Seeking to gain immense wealth and favor, an Athenian bronze caster named Perilaus presented the tyrant with a terrifying new execution device.",
+        "search": "perilaus presenting bronze bull to phalaris oil painting",
+        "caption": "Perilaus offers his deadly masterpiece."
+      },
+      {
+        "narration": "The hollow brass statue contained a sophisticated network of internal pipes designed to transform agonizing human screams into melodic bovine roars.",
+        "search": "interior diagram of the brazen bull historical engraving",
+        "caption": "Acoustic pipes designed to mimic a roaring bull."
+      },
+      {
+        "narration": "To complete the sensory spectacle, the nostrils of the bull were engineered to release sweet-smelling incense, masking the odor of burning flesh.",
+        "search": "incense burner ancient greek bronze artifact photo",
+        "caption": "Incense designed to conceal the smell of death."
+      },
+      {
+        "narration": "Disgusted by the inventor's cold-blooded creativity, Phalaris ordered Perilaus to crawl inside the belly to demonstrate how the acoustics worked.",
+        "search": "phalaris ordering perilaus into the brazen bull engraving",
+        "caption": "The inventor trapped inside his own creation."
+      },
+      {
+        "narration": "After heating the metal to hear the screams, Phalaris freed Perilaus to keep the brass unpolluted by death, only to immediately throw him off a cliff.",
+        "search": "ancient greek cliff overlooking the sea oil painting survives",
+        "caption": "Perilaus survives the bull only to face execution."
+      },
+      {
+        "narration": "Poetic justice was finalized years later when the citizens of Akragas revolted, executing Phalaris inside the very same bronze bull.",
+        "search": "phalaris inside the brazen bull historical oil painting",
+        "caption": "The tyrant's ultimate demise in the brazen bull."
+      },
+      {
+        "narration": "The terrifying legacy of the Brazen Bull did not perish with Phalaris, surviving for centuries as antiquity's ultimate symbol of absolute power corrupted by cruelty.",
+        "search": "ancient greek ruins of akragas sicily engraving stand",
+        "caption": "The ruins of Akragas stand as a testament to ancient tyranny."
+      },
+      {
+        "narration": "In 406 BC, the Carthaginian army sacked the wealthy city of Akragas, discovering the infamous bronze bull and shipping it across the Mediterranean as a trophy.",
+        "search": "carthaginian soldiers sacking ancient city oil painting",
+        "caption": "Carthage seized the infamous bronze bull during the sack of Akragas."
+      },
+      {
+        "narration": "Nearly three centuries later, Roman general Scipio Aemilianus conquered Carthage in 146 BC and discovered the legendary torture device hidden within the city's ruins.",
+        "search": "scipio aemilianus roman general bust statue",
+        "caption": "Roman general Scipio Aemilianus discovered the bull in defeated Carthage."
+      },
+      {
+        "narration": "Rather than destroying the artifact, Scipio returned the bull to the people of Sicily, declaring it a physical warning of the dangers of tyranny.",
+        "search": "ancient roman map of sicily engraving",
+        "caption": "Scipio returned the bronze bull to its original home in Sicily."
+      },
+      {
+        "narration": "During the Roman Empire, the device was reportedly revived to execute Christian martyrs, including Saint Eustace, who was roasted alive inside a brass beast.",
+        "search": "saint eustace martyr oil painting",
+        "caption": "Roman authorities used similar bronze devices to execute early Christian martyrs."
+      },
+      {
+        "narration": "Classical historians like Diodorus Siculus meticulously documented these accounts, defending the physical existence of the bull against contemporary skeptics.",
+        "search": "diodorus siculus ancient historian engraving",
+        "caption": "Historian Diodorus Siculus documented the reality of the Brazen Bull."
+      },
+      {
+        "narration": "The second-century satirist Lucian of Samosata even composed a mock defense of Phalaris, shifting the moral guilt entirely onto the inventor Perilaus.",
+        "search": "lucian of samosata classical bust statue",
+        "caption": "Lucian debated the moral guilt of the tyrant versus the inventor."
+      },
+      {
+        "narration": "Today, the story of Perilaus and his bronze creation remains a chilling historical lesson on how the tools of oppression inevitably consume their creators.",
+        "search": "brazen bull torture device historical engraving remains",
+        "caption": "The Brazen Bull remains history's warning against the tools of tyranny."
+      },
+      {
+        "narration": "Can a creator survive his own ultimate torture device?",
+        "search": "brazen bull torture device engraving",
+        "caption": "The ultimate trap of self-destruction."
+      },
+      {
+        "narration": "In 560 BC, the city of Akragas in Sicily was ruled by the notoriously cruel tyrant Phalaris.",
+        "search": "ancient greek ruins of akragas sicily photograph",
+        "caption": "Akragas, Sicily, 560 BC."
+      },
+      {
+        "narration": "Seeking royal favor, an Athenian bronze caster named Perilaus designed a terrifying hollow brass bull to roast victims alive.",
+        "search": "ancient greek bronze caster workshop engraving designing",
+        "caption": "Illustration of Perilaus designing the bronze bull."
+      },
+      {
+        "narration": "Inside, a complex system of acoustic pipes converted the screams of the dying into the realistic bellowing of a beast.",
+        "search": "brazen bull internal pipes acoustic diagram engraving",
+        "caption": "Screams transformed into musical roars."
+      },
+      {
+        "narration": "Repulsed by this cruelty, Phalaris ordered Perilaus to climb inside the bull to demonstrate how the pipes worked.",
+        "search": "phalaris tyrant of acragas bust statue",
+        "caption": "Tyrant Phalaris orders a live demonstration."
+      },
+      {
+        "narration": "As soon as Perilaus entered, Phalaris locked the hatch and ordered a massive fire lit beneath the bronze belly.",
+        "search": "brazen bull execution of perilaus oil painting",
+        "caption": "Illustration of the first test of the Brazen Bull."
+      },
+      {
+        "narration": "Before he died, Perilaus was pulled out to keep the brass clean, only to be thrown off a steep cliff.",
+        "search": "steep cliffs of agrigento sicily photograph",
+        "caption": "Perilaus met his end on the rocks below."
+      },
+      {
+        "narration": "In 554 BC, when Phalaris was finally overthrown, the citizens of Akragas executed the tyrant inside the very same bronze bull.",
+        "search": "overthrow of tyrant phalaris historical engraving claims",
+        "caption": "Poetic justice claims its final victim."
+      },
+      {
+        "narration": "This ancient inventor was roasted inside his own creation.",
+        "search": "brazen bull execution ancient engraving",
+        "caption": "A lethal invention turned against its creator."
+      }
+    ],
+    "error": "",
+    "youtube_id": "RKbAKBWWAPo",
+    "youtube_url": "https://www.youtube.com/watch?v=RKbAKBWWAPo",
+    "created_at": "2026-10-08T19:37:19.887875+00:00",
+    "updated_at": "2026-10-08T19:59:34.144256+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-08T19:45:33.385492+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2237 chars",
+        "at": "2026-10-08T19:46:18.406735+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "141.2s en-US-GuyNeural 25 cau",
+        "at": "2026-10-08T19:46:26.078189+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-08T19:46:30.071689+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-08T19:56:40.580863+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-08T19:56:40.634709+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 141.2s 57281467 bytes",
+        "at": "2026-10-08T19:59:19.857940+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-10-08T19:59:19.922661+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=RKbAKBWWAPo",
+        "at": "2026-10-08T19:59:29.374816+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYANBr1WfHMA0HEcdghIy1tVi9tu6OEMLg3vMrm2QC1yzQslFSm",
+        "at": "2026-10-08T19:59:30.899381+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T19:59:32.171497+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T19:59:32.399243+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"RKbAKBWWAPo\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T19:59:33.976456+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T19:59:34.009331+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T19:59:34.144244+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7760107/pexels-photo-7760107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27631751/pexels-photo-27631751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39034596/pexels-photo-39034596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19153766/pexels-photo-19153766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19730402/pexels-photo-19730402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17203903/pexels-photo-17203903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19583423/pexels-photo-19583423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11976663/pexels-photo-11976663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6422078/pexels-photo-6422078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34779410/pexels-photo-34779410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1235972/pexels-photo-1235972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11578397/pexels-photo-11578397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35689882/pexels-photo-35689882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5624526/pexels-photo-5624526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39256950/pexels-photo-39256950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1213045/pexels-photo-1213045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6460995/pexels-photo-6460995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143361/pexels-photo-38143361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6332069/pexels-photo-6332069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39885136/pexels-photo-39885136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37549046/pexels-photo-37549046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8491005/pexels-photo-8491005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5572583/pexels-photo-5572583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34789942/pexels-photo-34789942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16899819/pexels-photo-16899819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32492883/pexels-photo-32492883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37275414/pexels-photo-37275414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37379300/pexels-photo-37379300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38526664/pexels-photo-38526664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13639731/pexels-photo-13639731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844142/pexels-photo-37844142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123621/pexels-photo-30123621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7973838/pexels-photo-7973838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6422197/pexels-photo-6422197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6643748/pexels-photo-6643748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32929159/pexels-photo-32929159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096150/pexels-photo-37096150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6625606/pexels-photo-6625606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35562600/pexels-photo-35562600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28493106/pexels-photo-28493106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31654949/pexels-photo-31654949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36730474/pexels-photo-36730474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36288607/pexels-photo-36288607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10864684/pexels-photo-10864684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9666908/pexels-photo-9666908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35532099/pexels-photo-35532099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32986510/pexels-photo-32986510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17056526/pexels-photo-17056526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6175101/pexels-photo-6175101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484092/pexels-photo-16484092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6460892/pexels-photo-6460892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162186/pexels-photo-6162186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709064/pexels-photo-35709064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123614/pexels-photo-30123614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14448006/pexels-photo-14448006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35985874/pexels-photo-35985874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397758/pexels-photo-16397758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35333301/pexels-photo-35333301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39692091/pexels-photo-39692091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34279258/pexels-photo-34279258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11095233/pexels-photo-11095233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32017876/pexels-photo-32017876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17056552/pexels-photo-17056552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4823073/pexels-photo-4823073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7227365/pexels-photo-7227365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30442348/pexels-photo-30442348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5725985/pexels-photo-5725985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29121512/pexels-photo-29121512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162205/pexels-photo-6162205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416979/pexels-photo-18416979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36634052/pexels-photo-36634052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31451590/pexels-photo-31451590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9361473/pexels-photo-9361473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15246012/pexels-photo-15246012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8458787/pexels-photo-8458787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1400193/pexels-photo-1400193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38906922/pexels-photo-38906922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20449512/pexels-photo-20449512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39742405/pexels-photo-39742405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5d2fe94037",
     "kind": "short",
     "channel": "Channel3",
