@@ -1,5 +1,191 @@
 [
   {
+    "id": "1c2fa422a4",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "How a 16-Year-Old Leper King Crushed Saladin",
+    "idea": {
+      "title": "How a 16-Year-Old Leper King Crushed Saladin",
+      "hook": "In 1177, a teenage king dying of leprosy rode out with only 500 knights—and shattered an invincible sultan's army of 26,000.",
+      "beats": [
+        "Baldwin IV had lost all sensation in his arms and could barely hold his horse's reins, yet refused to hide behind Jerusalem's walls.",
+        "Sultan Saladin marched through the desert with 26,000 soldiers, convinced the crippled teenage king posed zero military threat.",
+        "Baldwin ambushed Saladin's overconfident, strung-out army at Montgisard, dropping to his knees before the True Cross before leading the charge.",
+        "Saladin's legendary bodyguard was wiped out, and the sultan barely escaped capture by fleeing through the desert on a racing camel."
+      ],
+      "keywords": [
+        "King Baldwin IV portrait",
+        "Battle of Montgisard painting",
+        "Saladin medieval engraving",
+        "Crusader knights charging painting",
+        "medieval Jerusalem antique map"
+      ],
+      "tags": [
+        "history",
+        "crusades",
+        "baldwiniv",
+        "saladin",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can a dying sixteen-year-old king defeat an empire's greatest conqueror?",
+        "search": "King Baldwin IV portrait oil painting",
+        "caption": "Can a dying teenager defeat history's greatest conqueror?"
+      },
+      {
+        "narration": "In November 1177, King Baldwin the Fourth of Jerusalem was ravaged by leprosy, losing all sensation in his right arm.",
+        "search": "medieval Jerusalem antique map engraving",
+        "caption": "In 1177, Jerusalem's teenage king was dying of leprosy."
+      },
+      {
+        "narration": "Sensing weakness, Sultan Saladin marched from Egypt with twenty-six thousand soldiers to crush the Kingdom of Jerusalem.",
+        "search": "Saladin medieval engraving portrait",
+        "caption": "Sultan Saladin marched north with 26,000 elite warriors."
+      },
+      {
+        "narration": "Refusing to hide behind Jerusalem's walls, Baldwin assembled a desperate force of just five hundred knights.",
+        "search": "medieval crusader knights armor manuscript illustration",
+        "caption": "Baldwin refused to hide, gathering only 500 knights."
+      },
+      {
+        "narration": "The young king intercepted the overconfident, dispersed Muslim army near Ramla, prostrating himself before the True Cross.",
+        "search": "True Cross medieval painting relic",
+        "caption": "Baldwin prayed before the True Cross before the assault."
+      },
+      {
+        "narration": "At the Battle of Montgisard, the heavily outnumbered Crusaders launched a shocking, desperate cavalry charge.",
+        "search": "Crusader knights charging painting",
+        "caption": "The outnumbered Crusaders launched a devastating surprise charge."
+      },
+      {
+        "narration": "Baldwin's knights completely shattered Saladin's lines, wiping out the Sultan's legendary Mamluk bodyguard.",
+        "search": "Battle of Montgisard painting oil",
+        "caption": "Saladin's legendary elite bodyguard was entirely wiped out."
+      },
+      {
+        "narration": "Saladin barely escaped capture, fleeing into the desert on a racing camel, while Baldwin secured Jerusalem for another decade.",
+        "search": "medieval camel riders desert manuscript drawing",
+        "caption": "Saladin fled on a camel, saving his life."
+      },
+      {
+        "narration": "Saladin retreated to Egypt with barely a tenth of his forces, forced to negotiate a truce while the young king lived.",
+        "search": "Sultan Saladin portrait medieval manuscript illumination",
+        "caption": "Saladin lost ninety percent of his invasion army at Montgisard."
+      },
+      {
+        "narration": "Though leprosy eventually blinded Baldwin and destroyed his limbs, he continued directing campaigns from a horse-drawn litter until his death at age twenty-four in 1185.",
+        "search": "King Baldwin IV of Jerusalem medieval miniature painting",
+        "caption": "Paralyzed and blind, Baldwin commanded his knights from a litter."
+      },
+      {
+        "narration": "Saladin only recaptured Jerusalem in 1187—two years after the teenage leper king who had humiliated him was safely in his grave.",
+        "search": "Capture of Jerusalem 1187 Saladin medieval oil painting",
+        "caption": "Saladin only took Jerusalem after the undefeated leper king died."
+      },
+      {
+        "narration": "A dying sixteen-year-old king shattered an invincible army.",
+        "search": "King Baldwin IV of Jerusalem medieval portrait painting",
+        "caption": "A dying teenager shattered an invincible empire."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Ac__BmnLyGc",
+    "youtube_url": "https://www.youtube.com/watch?v=Ac__BmnLyGc",
+    "created_at": "2026-10-07T23:57:28.846423+00:00",
+    "updated_at": "2026-10-08T00:03:05.121116+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-07T23:58:46.089885+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 178 de vua 55s)",
+        "at": "2026-10-07T23:58:59.993330+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-07T23:59:02.961591+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-07T23:59:03.853009+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-08T00:02:20.572824+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-08T00:02:20.602396+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 10500531 bytes",
+        "at": "2026-10-08T00:02:56.432756+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Ac__BmnLyGc",
+        "at": "2026-10-08T00:02:59.753974+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaagUQGQ6iN3HhqRU8AGQjVk8dHCxEuYXglAMy-r0md2nUh_wp66",
+        "at": "2026-10-08T00:03:01.216960+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T00:03:03.224296+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T00:03:03.466763+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Ac__BmnLyGc\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T00:03:04.990435+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T00:03:05.021796+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T00:03:05.121100+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14449294/pexels-photo-14449294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36262329/pexels-photo-36262329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32098454/pexels-photo-32098454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18787622/pexels-photo-18787622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32546285/pexels-photo-32546285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38709230/pexels-photo-38709230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35552016/pexels-photo-35552016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39877631/pexels-photo-39877631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27571168/pexels-photo-27571168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35489077/pexels-photo-35489077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20303149/pexels-photo-20303149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39639516/pexels-photo-39639516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "352bfeeb70",
     "kind": "short",
     "channel": "Channel2",
