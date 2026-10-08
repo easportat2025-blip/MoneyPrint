@@ -1,5 +1,197 @@
 [
   {
+    "id": "681295b358",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn luôn mất ngủ trong đêm đầu tiên ở chỗ lạ?",
+    "idea": {
+      "title": "Tại sao bạn luôn mất ngủ trong đêm đầu tiên ở chỗ lạ?",
+      "hook": "Bạn có biết khi ngủ ở một nơi xa lạ, một nửa bộ não của bạn thực chất vẫn đang thức để canh gác?",
+      "beats": [
+        "Đây gọi là Hiệu ứng đêm đầu tiên (First Night Effect), một cơ chế sinh tồn từ thời tiền sử của loài người.",
+        "Nghiên cứu cho thấy bán cầu não trái của bạn sẽ hoạt động nhạy bén hơn hẳn để phát hiện các tiếng động lạ xung quanh.",
+        "Cơ chế này hoạt động giống hệt cách loài cá heo ngủ: một nửa não thức để cảnh giác kẻ săn mồi.",
+        "Đó là lý do bạn thức giấc mệt mỏi dù giường khách sạn có êm ái và sang trọng đến thế nào."
+      ],
+      "keywords": [
+        "sleeping person",
+        "brain glow animation",
+        "dolphin swimming",
+        "hotel bed cozy",
+        "prehistoric cave human"
+      ],
+      "tags": [
+        "giấc ngủ",
+        "sức khỏe",
+        "bí ẩn cơ thể",
+        "khoa học đời sống",
+        "mất ngủ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ chỗ lạ, nửa bộ não của bạn không hề ngủ.",
+        "search": "hoat hinh 3d nguoi ngu tren giuong nua bo nao phat sang",
+        "caption": "Ngủ chỗ lạ, nửa bộ não vẫn thức canh gác"
+      },
+      {
+        "narration": "Dù nệm khách sạn êm ái gấp bội, bạn vẫn trằn trọc và giật mình từng đợt.",
+        "search": "hoat hinh 3d nguoi nam tran troc tren giuong khach san",
+        "caption": "Nệm êm đến mấy bạn vẫn liên tục trằn trọc"
+      },
+      {
+        "narration": "Các máy đo điện não đồ ghi nhận sự bất đối xứng kỳ lạ giữa hai bán cầu não.",
+        "search": "hoat hinh 3d may do dien nao do song nao nhap nho",
+        "caption": "Máy đo điện não ghi nhận tín hiệu bất thường"
+      },
+      {
+        "narration": "Khoa học gọi đây là Hiệu ứng đêm đầu tiên, kích hoạt trạng thái sinh tồn đặc biệt.",
+        "search": "3d animation bo nao ban cau trai ruc sang bao dong",
+        "caption": "Hiệu ứng đêm đầu tiên: Não bộ bật chế độ cảnh giác"
+      },
+      {
+        "narration": "Bán cầu não trái giữ nguyên độ nhạy, sẵn sàng phân tích từng tiếng cọt kẹt nhỏ nhất.",
+        "search": "hoat hinh 3d song am tieng dong truyen vao tai nguoi",
+        "caption": "Não trái phản ứng dữ dội với mọi âm thanh lạ"
+      },
+      {
+        "narration": "Điều này y hệt cách cá heo ngủ: một bên não luôn thức để canh chừng nguy hiểm.",
+        "search": "3d animation ca heo boi nua nao sang giua bien",
+        "caption": "Giống cá heo: giữ một nửa não thức để sinh tồn"
+      },
+      {
+        "narration": "Mỗi khi môi trường đổi khác, cơ thể tự động coi căn phòng là vùng đất nguy hiểm.",
+        "search": "hoat hinh 3d can phong khach san toi mat quet radar",
+        "caption": "Cơ thể mặc định phòng lạ là nơi nguy hiểm"
+      },
+      {
+        "narration": "Nhưng tại sao lại luôn là não trái thức trực chiến mà không phải não phải?",
+        "search": "motion graphics hai nua ban cau nao xoay tach doi",
+        "caption": "Tại sao luôn là não trái chịu trách nhiệm trực chiến?"
+      },
+      {
+        "narration": "Bán cầu não trái chịu trách nhiệm phản xạ nhanh, giúp bạn lập tức tỉnh giấc khi phát hiện tiếng động lạ xung quanh.",
+        "search": "mo hinh nao trai toa sang hoat hoa 3d",
+        "caption": "Não trái phản xạ cực nhanh với tiếng động"
+      },
+      {
+        "narration": "Cơ chế này giống hệt cách cá heo ngủ, một nửa não luôn thức để canh chừng kẻ săn mồi.",
+        "search": "ca heo boi duoi bien hoat hoa 3d",
+        "caption": "Cơ chế sinh tồn giống hệt loài cá heo"
+      },
+      {
+        "narration": "Đây là di sản từ tổ tiên tiền sử, giúp họ sống sót khi phải ngủ ở những hang động xa lạ.",
+        "search": "nguoi tien su trong hang da hoat hoa 3d",
+        "caption": "Giúp tổ tiên sống sót nơi hoang dã"
+      },
+      {
+        "narration": "Đó là lý do bạn luôn thức giấc mệt mỏi dù chiếc giường khách sạn có êm ái và sang trọng thế nào.",
+        "search": "nguoi ngu tren giuong khach san hoat hoa 3d",
+        "caption": "Giường êm đến mấy não vẫn cảnh giác"
+      },
+      {
+        "narration": "Để khắc phục, hãy mang theo chiếc gối quen thuộc từ nhà để đánh lừa bộ não rằng bạn đang ở nơi an toàn.",
+        "search": "om chiec goi quen thuoc ngu ngon hoat hoa 3d",
+        "caption": "Mang theo gối quen thuộc để ngủ ngon hơn"
+      }
+    ],
+    "error": "",
+    "youtube_id": "fL2ivxDV_WU",
+    "youtube_url": "https://www.youtube.com/watch?v=fL2ivxDV_WU",
+    "created_at": "2026-10-08T06:27:29.357395+00:00",
+    "updated_at": "2026-10-08T06:31:46.915196+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-08T06:28:39.805283+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "438 chars",
+        "at": "2026-10-08T06:30:26.565534+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-08T06:30:35.362940+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-08T06:30:36.794973+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-08T06:30:51.310281+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-08T06:30:51.347149+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.6s 10778214 bytes",
+        "at": "2026-10-08T06:31:40.573085+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=fL2ivxDV_WU",
+        "at": "2026-10-08T06:31:43.201810+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZ1Iytmqimp9xZSqqORajWaDnIt0_ox-QyVA_XUbqRQ8_Rm46mX",
+        "at": "2026-10-08T06:31:44.197728+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-08T06:31:45.628590+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-08T06:31:45.827076+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"fL2ivxDV_WU\\\"\",\n    \"errors\"",
+        "at": "2026-10-08T06:31:46.754316+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-08T06:31:46.794460+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-08T06:31:46.915176+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35753917/15157069_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6010964/6010964-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/26621092/11976786_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818313/8818313-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/31464970/13417787_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/20699003/20699003-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/28846361/12493706_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39473719/16813354_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/18068805/18068805-hd_720_1278_24fps.mp4",
+      "https://videos.pexels.com/video-files/20699001/20699001-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38794013/16486647_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7815130/7815130-hd_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7699613/7699613-hd_720_1280_25fps.mp4"
+    ]
+  },
+  {
     "id": "26dd6d03e1",
     "kind": "short",
     "channel": "Channel2",
