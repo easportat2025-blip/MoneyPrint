@@ -1,5 +1,191 @@
 [
   {
+    "id": "f2a1db8109",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Betrayal That Crushed 3 Roman Legions",
+    "idea": {
+      "title": "The Betrayal That Crushed 3 Roman Legions",
+      "hook": "In 9 AD, Rome's decorated officer Arminius secretly betrayed his closest Roman ally, luring 20,000 soldiers into a deadly slaughter in the Teutoburg Forest.",
+      "beats": [
+        "Roman Governor Varus regarded Arminius as a loyal ally and friend, completely ignoring urgent warnings of a brewing German rebellion.",
+        "Arminius carefully steered three elite Roman legions deep into narrow, waterlogged forest trails where Roman battle formations fell apart.",
+        "Over four days of relentless guerrilla ambushes, all three legions were eradicated, driving a disgraced Varus to fall upon his own sword.",
+        "The psychological blow broke Emperor Augustus, who reportedly spent his final months banging his head against palace doors screaming for his lost legions."
+      ],
+      "keywords": [
+        "battle of teutoburg forest",
+        "arminius germanicus engraving",
+        "publius quinctilius varus bust",
+        "roman legions ambush painting",
+        "emperor augustus marble statue"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Roman Empire",
+        "Teutoburg Forest",
+        "Arminius",
+        "Military History"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One trusted officer destroyed three Roman legions in days.",
+        "search": "battle of teutoburg forest oil painting",
+        "caption": "One betrayal destroyed three Roman legions in 9 AD."
+      },
+      {
+        "narration": "In autumn of 9 AD, Roman Governor Publius Quinctilius Varus prepared to march his army across the Rhine into winter quarters.",
+        "search": "publius quinctilius varus bust statue",
+        "caption": "Governor Publius Quinctilius Varus led Rome's German frontier."
+      },
+      {
+        "narration": "Riding beside him was Arminius, a Germanic chieftain granted Roman citizenship and equestrian military rank.",
+        "search": "arminius germanicus bust statue",
+        "caption": "Arminius was granted Roman citizenship and military rank."
+      },
+      {
+        "narration": "Segestes, a rival Germanic leader, explicitly warned Varus that Arminius was plotting a revolt, but the governor dismissed the report.",
+        "search": "ancient roman scroll manuscript",
+        "caption": "Varus dismissed explicit warnings of Arminius's conspiracy."
+      },
+      {
+        "narration": "Arminius fabricated reports of an uprising, successfully diverting twenty thousand Roman soldiers off fortified military roads.",
+        "search": "germania magna historical map engraving",
+        "caption": "A fabricated uprising led twenty thousand soldiers off roads."
+      },
+      {
+        "narration": "The Seventeenth, Eighteenth, and Nineteenth legions stretched into a vulnerable column miles long inside the dense Teutoburg Forest.",
+        "search": "roman soldiers forest march engraving",
+        "caption": "Three Roman legions stretched thin through dense forest."
+      },
+      {
+        "narration": "Arminius excused himself under the pretext of gathering allied reinforcements, then unleashed thousands of united Germanic tribesmen.",
+        "search": "germanic warriors ambush roman soldiers painting",
+        "caption": "Arminius united Germanic tribes for a coordinated ambush."
+      },
+      {
+        "narration": "Trapped between impassable bogs and fortified earthworks near Kalkriese Hill, Roman standard battle formations collapsed into chaos.",
+        "search": "roman cavalry mask kalkriese bronze artifact",
+        "caption": "Trapped against bogs, Roman defensive formations collapsed."
+      },
+      {
+        "narration": "Over four brutal days of ambush, the Seventeenth, Eighteenth, and Nineteenth legions were completely eradicated, driving Governor Varus to commit suicide with his own sword.",
+        "search": "death of publius quinctilius varus oil painting",
+        "caption": "All three legions fell, driving Varus to take his own life."
+      },
+      {
+        "narration": "When news reached Rome, Emperor Augustus went into deep mourning, repeatedly striking his head against palace walls and crying out for Varus to return his lost legions.",
+        "search": "emperor augustus marble bust statue",
+        "caption": "Emperor Augustus plunged into despair over the catastrophic imperial loss."
+      },
+      {
+        "narration": "Rome permanently abandoned expansion east of the Rhine River, solidifying a northern frontier that defined the cultural borders of Europe for centuries.",
+        "search": "ancient roman empire rhine border map engraving",
+        "caption": "Rome retreated behind the Rhine, altering Europe's borders forever."
+      },
+      {
+        "narration": "How did three elite Roman legions vanish in 9 AD?",
+        "search": "battle of teutoburg forest oil painting",
+        "caption": "How did three Roman legions vanish in 9 AD?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "ob1_8aXWOog",
+    "youtube_url": "https://www.youtube.com/watch?v=ob1_8aXWOog",
+    "created_at": "2026-10-09T10:49:11.140730+00:00",
+    "updated_at": "2026-10-09T10:56:11.192449+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T10:50:13.319705+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "404 chars (cat 247 de vua 55s)",
+        "at": "2026-10-09T10:52:46.845137+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.9s en-US-GuyNeural 6 cau",
+        "at": "2026-10-09T10:52:49.085752+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T10:52:50.126446+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T10:55:26.996698+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T10:55:27.029555+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 8683456 bytes",
+        "at": "2026-10-09T10:56:04.566183+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ob1_8aXWOog",
+        "at": "2026-10-09T10:56:06.649881+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabQmUiuZ7VP1ol8sAWgM1uPTBxnkyLPk3VyBBFaHE2Ull4wRXHf",
+        "at": "2026-10-09T10:56:08.110465+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T10:56:09.330369+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T10:56:09.627703+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"ob1_8aXWOog\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T10:56:11.057363+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T10:56:11.090962+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T10:56:11.192430+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38496945/pexels-photo-38496945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10035812/pexels-photo-10035812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10207795/pexels-photo-10207795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342501/pexels-photo-29342501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29220609/pexels-photo-29220609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34563452/pexels-photo-34563452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30623744/pexels-photo-30623744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7067077/pexels-photo-7067077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19203247/pexels-photo-19203247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861817/pexels-photo-37861817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086513/pexels-photo-38086513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5214138/pexels-photo-5214138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4871dbbed3",
     "kind": "short",
     "channel": "Channel2",
