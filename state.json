@@ -1,5 +1,629 @@
 [
   {
+    "id": "1ad453a502",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Pope Who Sold the Vatican for Gold",
+    "idea": {
+      "title": "The Pope Who Sold the Vatican for Gold",
+      "hook": "In 1045, Pope Benedict IX committed the ultimate betrayal by selling his holy office to his godfather for gold, only to trigger a devastating imperial intervention he deeply regretted.",
+      "beats": [
+        "In the chaotic landscape of 11th-century Rome, powerful noble families treated the papacy not as a holy office, but as a lucrative political prize.",
+        "Benedict IX was thrust onto the papal throne at a shockingly young age by his powerful Tusculan family, completely unprepared for the spiritual duties.",
+        "He quickly gained a reputation for extreme greed, violence, and scandalous behavior, turning the Vatican into what contemporaries described as a brothel.",
+        "The citizens of Rome, pushed to their limit by his tyranny, revolted and drove Benedict out of the city, electing a rival pope, Sylvester III.",
+        "With the help of his family's private army, Benedict fought his way back into Rome and reclaimed the throne, but his grip on power remained highly unstable.",
+        "Fearing his angry subjects would eventually assassinate him, and wishing to marry his cousin, Benedict decided to cash out of the papacy entirely.",
+        "He sold the holy title to his godfather, the wealthy priest John Gratian (who became Pope Gregory VI), for a massive sum of 1,500 pounds of gold.",
+        "This unprecedented transaction backfired, resulting in absolute chaos as three different men simultaneously claimed to be the one true Pope.",
+        "Outraged by this blatant display of simony and corruption, Holy Roman Emperor Henry III mobilized a massive army and marched on Rome to restore order.",
+        "Henry III convened the historic Synod of Sutri in 1046, where he stripped all three rival popes of their claims and installed a new, reform-minded German pope.",
+        "Stricken with regret and having spent his fortune, Benedict IX attempted to seize the papacy by force one last time after the new Pope's sudden death.",
+        "Ultimately defeated, excommunicated, and disgraced, Benedict IX died in obscurity, his scandalous reign forever changing the relationship between the Church and the Empire."
+      ],
+      "keywords": [
+        "Pope Benedict IX",
+        "Vatican history",
+        "medieval scandals",
+        "Holy Roman Emperor",
+        "Synod of Sutri",
+        "corrupt popes",
+        "simony",
+        "middle ages",
+        "history documentary",
+        "dark ages history"
+      ],
+      "tags": [
+        "history",
+        "medieval",
+        "vatican",
+        "pope",
+        "scandal",
+        "documentary",
+        "dark ages",
+        "emperor",
+        "gold",
+        "corruption"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE SOLD THE PAPACY FOR GOLD"
+    },
+    "scenes": [
+      {
+        "narration": "Can a Pope sell his throne for gold?",
+        "search": "medieval manuscript illumination pope receiving gold",
+        "caption": "Can a Pope sell his throne for gold?"
+      },
+      {
+        "narration": "This unprecedented transaction in 1045 triggered an imperial invasion that forever stripped the Roman nobility of their absolute control over the Vatican.",
+        "search": "medieval Rome city map engraving",
+        "caption": "The transaction that triggered an imperial invasion"
+      },
+      {
+        "narration": "In 1032, the powerful Tusculan family forced the teenage Pope Benedict IX onto the throne, leading to years of violence and excess that outraged Rome.",
+        "search": "Pope Benedict IX portrait engraving",
+        "caption": "Pope Benedict IX portrait illustration"
+      },
+      {
+        "narration": "Driven out by a popular revolt in 1044, Benedict IX used his family's private army to fight his way back and reclaim his crown.",
+        "search": "medieval battle outside city walls oil painting",
+        "caption": "Benedict IX reclaimed Rome by force"
+      },
+      {
+        "narration": "Fearing assassination and wanting to marry, Benedict IX officially sold his sacred office to his godfather, John Gratian, for fifteen hundred pounds of gold.",
+        "search": "Pope Gregory VI portrait engraving",
+        "caption": "John Gratian purchased the papacy"
+      },
+      {
+        "narration": "This transaction backfired instantly, leaving Rome with three different men simultaneously claiming to be the rightful Pope by late 1045.",
+        "search": "medieval synod of bishops manuscript illumination",
+        "caption": "Three rival popes claimed the throne"
+      },
+      {
+        "narration": "Outraged by this chaos, Holy Roman Emperor Henry III marched his army to the Synod of Sutri in 1046 to depose all three claimants.",
+        "search": "Emperor Henry III portrait manuscript illumination",
+        "caption": "Emperor Henry III portrait illustration"
+      },
+      {
+        "narration": "Stripped of his wealth and excommunicated, Benedict IX died in obscurity, leaving the papacy permanently subordinate to imperial reform.",
+        "search": "medieval tomb of a pope stone carving",
+        "caption": "Benedict IX died in disgrace"
+      },
+      {
+        "narration": "In October 1032, Count Alberic III of Tusculum bribed the Roman electorate with immense family silver to seat his young son, Theophylactus, upon Saint Peter's throne.",
+        "search": "medieval rome city map engraving october",
+        "caption": "In October 1032, the Tusculan dynasty bought the Roman papal election outright."
+      },
+      {
+        "narration": "Contemporary chronicler Rodulfus Glaber documented that the newly crowned Benedict IX ruled not as a shepherd, but as a violent warlord who terrorized the city.",
+        "search": "rodulfus glaber illuminated manuscript folio",
+        "caption": "Chroniclers recorded that young Benedict IX terrorized 11th-century Rome with brutal violence."
+      },
+      {
+        "narration": "Abbot Desiderius of Monte Cassino later wrote that the Lateran Palace had been desecrated by countless rapes, murders, and illicit feasts during Benedict's early tenure.",
+        "search": "lateran palace rome 17th century engraving",
+        "caption": "Abbot Desiderius described the Lateran Palace descending into unprecedented bloodshed and corruption."
+      },
+      {
+        "narration": "By late 1044, Roman citizens allied with the rival Crescentii clan launched an armed rebellion, storming the Vatican gates and forcing Benedict to flee for his life.",
+        "search": "medieval soldiers attacking castle gate manuscript illumination",
+        "caption": "In late 1044, armed Roman rebels drove Benedict out of the city."
+      },
+      {
+        "narration": "In January 1045, the triumphant rebels consecrated John, Bishop of Sabina, as Pope Sylvester III, shattering Tusculan control over central Italy.",
+        "search": "bishop of sabina papal election medieval fresco",
+        "caption": "Roman factions elected Bishop John of Sabina as Pope Sylvester III in 1045."
+      },
+      {
+        "narration": "Refusing defeat, Benedict rallied his brothers and a mercenary vanguard, recapturing Rome in March 1045 and driving Sylvester III into rural exile.",
+        "search": "medieval knights cavalry charge 11th century manuscript",
+        "caption": "Benedict reclaimed Rome by force with Tusculan mercenaries in March 1045."
+      },
+      {
+        "narration": "Despite retaking the city, Benedict found the papal treasury completely empty and faced daily assassination plots while seeking permission to marry his cousin.",
+        "search": "medieval fortress castle ruins engraving",
+        "caption": "Bankrupted and facing assassination, Benedict sought a way out of the papacy."
+      },
+      {
+        "narration": "Desperate for gold and marital freedom, Benedict summoned his wealthy godfather, the archpriest John Gratian, to negotiate the sale of the Holy See.",
+        "search": "pope gregory vi john gratian portrait engraving",
+        "caption": "Benedict summoned his wealthy godfather to negotiate an unprecedented financial transaction."
+      },
+      {
+        "narration": "In May 1045, Benedict IX finalized the transaction, selling the spiritual sovereignty of the Catholic Church to John Gratian for an astronomical sum of one thousand five hundred pounds of gold.",
+        "search": "medieval gold coins heap manuscript illustration",
+        "caption": "Benedict IX sold the papacy for 1,500 pounds of gold."
+      },
+      {
+        "narration": "John Gratian assumed the papal throne as Pope Gregory VI, convinced that buying the office was the only way to rescue Rome from Benedict's ruinous behavior.",
+        "search": "Pope Gregory VI medieval portrait engraving",
+        "caption": "Gregory VI assumed the throne to save the Church."
+      },
+      {
+        "narration": "Benedict IX promptly abandoned his vows and fled Rome with his fortune, yet his plans to marry his cousin quickly dissolved into failure.",
+        "search": "medieval noble wedding rejection oil painting",
+        "caption": "Benedict's marriage plans failed shortly after his abdication."
+      },
+      {
+        "narration": "Sensing weakness in the new administration, the previously deposed Pope Sylvester III emerged from hiding to reassert his own claim to the Holy See.",
+        "search": "Pope Sylvester III medieval fresco painting",
+        "caption": "Sylvester III reasserted his claim to the papacy."
+      },
+      {
+        "narration": "Regretting his abdication and having squandered much of his gold, Benedict IX returned to Rome with his family's mercenaries to reclaim the throne he had just sold.",
+        "search": "medieval knights charging rome engraving",
+        "caption": "Benedict returned with mercenaries to reclaim his title."
+      },
+      {
+        "narration": "By the end of 1045, Rome was paralyzed by an unprecedented crisis, with three different men simultaneously claiming to be the one true Pope.",
+        "search": "three popes dispute medieval manuscript illumination",
+        "caption": "Three rival popes simultaneously claimed the Vatican throne."
+      },
+      {
+        "narration": "News of this absolute spiritual anarchy crossed the Alps, deeply offending the devout Holy Roman Emperor Henry III.",
+        "search": "Emperor Henry III portrait medieval manuscript",
+        "caption": "Emperor Henry III was outraged by the Roman crisis."
+      },
+      {
+        "narration": "In September 1046, Emperor Henry III gathered his imperial army and began a massive military march toward Rome to forcibly resolve the papal dispute.",
+        "search": "holy roman empire army marching medieval engraving",
+        "caption": "Henry III marched his army to restore order."
+      },
+      {
+        "narration": "In December 1046, Emperor Henry III halted his imperial army at Sutri, a strategic stronghold north of Rome, and summoned the rival popes to face judgment.",
+        "search": "synod of sutri medieval manuscript illumination",
+        "caption": "Henry III summoned the rival popes to Sutri in 1046."
+      },
+      {
+        "narration": "The Synod of Sutri quickly declared Sylvester III an impostor and forced Gregory VI to abdicate, after he confessed to purchasing the papacy with gold.",
+        "search": "medieval pope trial heresy manuscript drawing",
+        "caption": "Gregory VI confessed to buying the papal throne with gold."
+      },
+      {
+        "narration": "Benedict IX refused to attend the council, prompting the angry assembly of bishops to formally strip him of all his papal claims in absentia.",
+        "search": "medieval bishop council excommunication oil painting",
+        "caption": "Benedict IX was stripped of his title in absentia."
+      },
+      {
+        "narration": "To cleanse the holy office, Henry III installed the reform-minded German bishop Suidger as Pope Clement II, who immediately crowned Henry as Holy Roman Emperor.",
+        "search": "coronation of holy roman emperor henry iii engraving",
+        "caption": "Pope Clement II crowned Henry III Holy Roman Emperor."
+      },
+      {
+        "narration": "But the peace was short-lived; when Pope Clement II died suddenly in October 1047, a broke and desperate Benedict IX seized the opportunity to reclaim Rome.",
+        "search": "medieval pope tomb deathbed engraving",
+        "caption": "The sudden death of Clement II reopened the papal vacuum."
+      },
+      {
+        "narration": "Benedict successfully occupied the Lateran Palace for eight months, but imperial forces marched south again, forcing him into permanent exile in July 1048.",
+        "search": "medieval knights attacking castle gate oil painting",
+        "caption": "Imperial troops forced Benedict IX out of Rome forever."
+      },
+      {
+        "narration": "Disgraced, excommunicated, and stripped of his vast wealth, the man who sold the papacy spent his final years in the quiet monastery of Grottaferrata.",
+        "search": "medieval monastery ruins italy watercolor painting",
+        "caption": "Benedict spent his final years in a quiet monastery."
+      },
+      {
+        "narration": "Benedict IX’s unprecedented sale of the papacy permanently shattered the Church's independence, triggering centuries of violent power struggles between popes and emperors.",
+        "search": "medieval crown and papal tiara engraving",
+        "caption": "The scandal forever chained the papacy to imperial control."
+      },
+      {
+        "narration": "In 1045, a pope sold his throne for gold. Pope Benedict IX committed the ultimate betrayal by selling his holy office to his godfather.",
+        "search": "pope benedict ix medieval manuscript illumination",
+        "caption": "In 1045, Pope Benedict IX sold his holy office for gold."
+      },
+      {
+        "narration": "During the eleventh century, powerful Roman noble families like the Tusculans treated the papacy not as a holy office, but as a political prize.",
+        "search": "medieval rome city map engraving eleventhcentury",
+        "caption": "Eleventh-century Roman noble families controlled the papacy through wealth and force."
+      },
+      {
+        "narration": "Thrust onto the throne as a teenager, Benedict IX quickly gained a reputation for extreme violence and vice, shocking the citizens of Rome.",
+        "search": "medieval church interior painting",
+        "caption": "The young pope's scandalous behavior outraged the citizens of Rome."
+      },
+      {
+        "narration": "After angry citizens revolted and elected Sylvester III, Benedict used his family’s private army to fight his way back onto the throne.",
+        "search": "medieval battle outside city walls engraving",
+        "caption": "Benedict reclaimed his throne using a brutal private mercenary army."
+      },
+      {
+        "narration": "Fearing assassination and desperate to marry his cousin, Benedict decided to cash out by selling the papacy to his godfather, John Gratian.",
+        "search": "pope gregory vi john gratian portrait painting",
+        "caption": "Benedict sold the papacy to John Gratian for gold."
+      },
+      {
+        "narration": "This unprecedented transaction backfired immediately, leaving three different men simultaneously claiming to be the one true Pope.",
+        "search": "three popes medieval manuscript drawing",
+        "caption": "Three rival popes simultaneously claimed absolute authority over the Church."
+      },
+      {
+        "narration": "Outraged by this blatant simony, Holy Roman Emperor Henry III marched his imperial army into Italy to restore order in 1046.",
+        "search": "emperor henry iii portrait painting",
+        "caption": "Holy Roman Emperor Henry III intervened to end the papal crisis."
+      },
+      {
+        "narration": "At the Synod of Sutri, Henry stripped all three rivals of their power, forcing Benedict IX into permanent, disgraced exile.",
+        "search": "synod of sutri 1046 engraving",
+        "caption": "The Synod of Sutri stripped Benedict IX of his power forever."
+      },
+      {
+        "narration": "A sudden death reopened Rome's bloodiest throne war.",
+        "search": "pope clement ii tomb marble sculpture close up",
+        "caption": "A mysterious death reopened the war for the Vatican."
+      },
+      {
+        "narration": "In October 1047, Pope Clement II died suddenly, sparking rumors that the exiled Benedict IX had poisoned his successor.",
+        "search": "pope clement ii medieval portrait painting",
+        "caption": "Pope Clement II died mysteriously in October 1047."
+      },
+      {
+        "narration": "Seizing the power vacuum, Benedict IX marched back into Rome with Tusculan mercenaries in November 1047 to seize the throne.",
+        "search": "medieval knights marching with spears engraving",
+        "caption": "Benedict IX seized the Vatican for a third time."
+      },
+      {
+        "narration": "For eight months, Benedict ruled Rome by force, but Holy Roman Emperor Henry III refused to tolerate the usurper's return.",
+        "search": "emperor henry iii holy roman empire oil painting",
+        "caption": "Emperor Henry III refused to tolerate the usurper."
+      },
+      {
+        "narration": "In July 1048, imperial troops expelled Benedict from Rome, installing Pope Damasus II to secure the empire's grip on the church.",
+        "search": "pope damasus ii medieval portrait engraving",
+        "caption": "Imperial troops expelled Benedict from Rome in July 1048."
+      },
+      {
+        "narration": "Stripped of his wealth and excommunicated by the new Pope, Benedict retreated to the Abbey of Grottaferrata as a broken man.",
+        "search": "abbey of grottaferrata italy old engraving",
+        "caption": "Benedict retreated to the Abbey of Grottaferrata."
+      },
+      {
+        "narration": "Benedict IX died in obscurity around 1056, buried not as a sovereign pontiff, but as a repentant monk.",
+        "search": "medieval monk praying in monastery oil painting",
+        "caption": "Benedict IX died in obscurity around 1056."
+      },
+      {
+        "narration": "His scandalous sales of the papacy forced the Church to create the College of Cardinals, forever stopping nobles from buying the throne.",
+        "search": "college of cardinals medieval council manuscript illumination",
+        "caption": "His corruption forced the creation of the College of Cardinals."
+      },
+      {
+        "narration": "The humiliation of Pope Gregory VI at the Synod of Sutri in 1046 deeply impacted his loyal young chaplain, a monk named Hildebrand.",
+        "search": "Pope Gregory VI medieval manuscript illumination",
+        "caption": "Chaplain Hildebrand witnessed the deposition of Gregory VI in 1046."
+      },
+      {
+        "narration": "Hildebrand accompanied his exiled master to Germany, where he observed how the Holy Roman Emperor exercised absolute control over ecclesiastical appointments.",
+        "search": "Holy Roman Emperor Henry III medieval manuscript engraving",
+        "caption": "Emperor Henry III maintained absolute control over the medieval Church."
+      },
+      {
+        "narration": "Following the death of Gregory VI in 1048, Hildebrand returned to Rome with a singular, revolutionary mission: to liberate the papacy from secular rulers.",
+        "search": "medieval Rome city map 11th century engraving",
+        "caption": "Hildebrand returned to Rome determined to reform the papacy."
+      },
+      {
+        "narration": "Under Pope Nicholas II in 1059, Hildebrand helped draft the decree establishing the College of Cardinals as the sole electors of the pope, bypassing both emperors and Roman nobles.",
+        "search": "Pope Nicholas II medieval fresco painting",
+        "caption": "The 1059 decree stripped secular rulers of papal election rights."
+      },
+      {
+        "narration": "Elected as Pope Gregory VII in 1073, the reform-minded monk immediately banned lay investiture, forbidding kings from appointing bishops.",
+        "search": "Pope Gregory VII portrait painting",
+        "caption": "Pope Gregory VII banned the royal appointment of church officials."
+      },
+      {
+        "narration": "This decree directly threatened the authority of Emperor Henry IV, who relied on appointing loyal bishops to maintain control over his fractured German territories.",
+        "search": "Emperor Henry IV medieval manuscript illumination",
+        "caption": "Emperor Henry IV rejected the Pope's authority over bishops."
+      },
+      {
+        "narration": "In 1076, Henry IV gathered his bishops and declared Gregory VII deposed, sparking a political crisis that threatened to plunge Europe into civil war.",
+        "search": "medieval synod bishops king engraving",
+        "caption": "Henry IV declared Pope Gregory VII deposed in 1076."
+      },
+      {
+        "narration": "Gregory VII responded with an unprecedented decree, excommunicating Henry IV and absolving all imperial subjects from their oaths of loyalty.",
+        "search": "Pope excommunicating king medieval manuscript painting",
+        "caption": "Gregory VII excommunicated the Emperor, triggering a massive rebellion."
+      },
+      {
+        "narration": "By late 1076, the German nobility threatened to permanently depose Henry IV unless his papal excommunication was lifted, forcing the desperate emperor to cross the frozen Alps.",
+        "search": "emperor henry iv crossing the alps medieval manuscript",
+        "caption": "Henry IV crosses the Alps in winter to save his crown."
+      },
+      {
+        "narration": "In January 1077, Henry IV stood barefoot in the snow for three consecutive days outside the gates of Canossa Castle, begging Pope Gregory VII for absolution.",
+        "search": "henry iv at canossa castle painting",
+        "caption": "The Emperor begs for forgiveness in the freezing snow."
+      },
+      {
+        "narration": "Gregory VII relented and lifted the ban, but the German princes had already elected a rival king, plunging the empire into a brutal civil war.",
+        "search": "medieval battle knights engraving",
+        "caption": "Civil war erupts across the Holy Roman Empire."
+      },
+      {
+        "narration": "Having crushed his domestic rivals by 1080, a vengeful Henry IV marched south with an imperial army to besiege Rome and depose the defiant Pope.",
+        "search": "siege of rome medieval manuscript illumination",
+        "caption": "Henry IV marches on Rome to depose the Pope."
+      },
+      {
+        "narration": "In 1084, Henry IV successfully captured Rome, installed Guibert of Ravenna as Antipope Clement III, and was crowned Holy Roman Emperor inside St. Peter's Basilica.",
+        "search": "antipope clement iii coronation engraving",
+        "caption": "Henry IV installs a rival pope and claims the crown."
+      },
+      {
+        "narration": "Trapped in the Castel Sant'Angelo, Gregory VII summoned his Norman allies under Robert Guiscard, who rescued the Pope but brutally sacked the city of Rome.",
+        "search": "robert guiscard normans sack of rome painting",
+        "caption": "Norman allies rescue the Pope but devastate Rome."
+      },
+      {
+        "narration": "Hated by the traumatized Roman citizens for unleashing the Normans, Gregory VII fled the ruined city and died in exile in Salerno in May 1085.",
+        "search": "pope gregory vii tomb salerno cathedral photo",
+        "caption": "Gregory VII dies in exile, defeated but unyielding."
+      },
+      {
+        "narration": "The devastating struggle between Church and State, sparked decades earlier by Benedict IX’s corrupt sale of the papacy, permanently shattered the medieval alliance between emperors and popes.",
+        "search": "concordat of worms 1122 treaty manuscript",
+        "caption": "The decades of conflict permanently redefine European power."
+      },
+      {
+        "narration": "In 1085, Holy Roman Emperor Henry IV maintained his puppet antipope, Clement III, on the throne of St. Peter while Gregory VII died in exile.",
+        "search": "Henry IV Holy Roman Emperor manuscript illumination",
+        "caption": "Emperor Henry IV occupied Rome with Antipope Clement III in 1085."
+      },
+      {
+        "narration": "In March 1088, reformist cardinals elected Pope Urban II in Terracina, forced to govern outside Rome while imperial troops held the Lateran.",
+        "search": "Pope Urban II medieval fresco portrait",
+        "caption": "Pope Urban II was elected in exile in March 1088."
+      },
+      {
+        "narration": "Urban II secured southern Norman gold and Italian noble alliances, slowly buying back fortified Roman basilicas street by street from imperial garrisons.",
+        "search": "medieval siege warfare Rome miniature manuscript",
+        "caption": "Urban II waged an urban campaign to reclaim Rome's fortified quarters."
+      },
+      {
+        "narration": "In November 1095, Urban II bypassed imperial authority entirely at the Council of Clermont, summoning European nobility to launch the First Crusade.",
+        "search": "Council of Clermont Pope Urban II 1095 medieval manuscript illumination",
+        "caption": "Urban II launched the First Crusade at Clermont in November 1095."
+      },
+      {
+        "narration": "By directing hundreds of thousands of knights under the papal banner, the papacy seized military leadership of Western Europe from the Holy Roman Emperor.",
+        "search": "First Crusade knights departing medieval manuscript painting",
+        "caption": "The crusade elevated papal authority far above imperial secular power."
+      },
+      {
+        "narration": "Isolated in Germany, Emperor Henry IV faced a devastating revolt in 1104 when his own son, Henry V, turned against him with church backing.",
+        "search": "Henry V Holy Roman Emperor manuscript miniature",
+        "caption": "Prince Henry V rebelled against his father with church support."
+      },
+      {
+        "narration": "Henry IV died broken in Liege in August 1106, his excommunicated corpse denied sacred burial in Speyer Cathedral for five years.",
+        "search": "Speyer Cathedral imperial crypt 19th century engraving",
+        "caption": "Henry IV died excommunicated in 1106, denied Christian burial for years."
+      },
+      {
+        "narration": "Yet in February 1111, the new emperor Henry V marched on Rome and took Pope Paschal II prisoner inside St. Peter's Basilica.",
+        "search": "Pope Paschal II historical engraving portrait",
+        "caption": "Emperor Henry V seized Pope Paschal II by force in 1111."
+      },
+      {
+        "narration": "Can a Pope sell his holy throne for gold? This shocking transaction in 1045 forever shattered the absolute authority of the medieval Catholic Church.",
+        "search": "medieval manuscript illumination simony pope selling crown",
+        "caption": "Can a Pope sell his holy throne for gold?"
+      },
+      {
+        "narration": "In 1032, the powerful Tusculan family forced their young relative, Benedict IX, onto the papal throne to secure political dominance over Rome.",
+        "search": "Pope Benedict IX medieval portrait engraving",
+        "caption": "Benedict IX became Pope in 1032 through family influence."
+      },
+      {
+        "narration": "Benedict's violent and scandalous behavior soon provoked a violent Roman rebellion in January 1045, briefly replacing him with Sylvester III.",
+        "search": "medieval Rome city walls old map engraving",
+        "caption": "Roman citizens revolted against Benedict's tyranny in 1045."
+      },
+      {
+        "narration": "Desperate to marry his cousin and fearing assassination, Benedict IX officially sold the papacy to his godfather, John Gratian, for fifteen hundred pounds of gold in May 1045.",
+        "search": "medieval gold coins treasure chest oil painting",
+        "caption": "Benedict sold the papacy for 1,500 pounds of gold."
+      },
+      {
+        "narration": "This unprecedented transaction backfired immediately, leaving Benedict, Sylvester III, and the newly named Gregory VI all claiming the papal throne simultaneously.",
+        "search": "three popes medieval manuscript illustration",
+        "caption": "Three rival popes simultaneously claimed the throne."
+      },
+      {
+        "narration": "Outraged by this blatant corruption, Holy Roman Emperor Henry III mobilized a massive imperial army and marched directly to Rome in late 1046.",
+        "search": "Emperor Henry III medieval manuscript illumination",
+        "caption": "Emperor Henry III marched on Rome to restore order."
+      },
+      {
+        "narration": "At the Synod of Sutri in December 1046, Henry III stripped all three claimants of their titles and installed a new, reform-minded German pope.",
+        "search": "Synod of Sutri 1046 medieval engraving",
+        "caption": "The Synod of Sutri deposed all three rival popes."
+      },
+      {
+        "narration": "Benedict IX died in obscurity around 1056, leaving a disgraced legacy that permanently subjected the papacy to imperial control and sparked the great reform movement.",
+        "search": "medieval tomb of pope stone sculpture",
+        "caption": "Benedict IX died in disgrace, changing church history forever."
+      },
+      {
+        "narration": "Can a Pope legally sell his throne for gold?",
+        "search": "pope benedict ix medieval manuscript illumination portrait",
+        "caption": "Can a Pope legally sell his throne for gold?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "ZtTfzdyAPR4",
+    "youtube_url": "https://www.youtube.com/watch?v=ZtTfzdyAPR4",
+    "created_at": "2026-10-09T19:12:54.996906+00:00",
+    "updated_at": "2026-10-09T19:52:07.616134+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-09T19:32:28.740321+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4326 chars",
+        "at": "2026-10-09T19:33:41.487246+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "291.0s en-US-GuyNeural 57 cau",
+        "at": "2026-10-09T19:33:55.559664+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T19:34:06.497478+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-09T19:46:12.326709+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T19:46:12.369998+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 291.0s 101328054 bytes",
+        "at": "2026-10-09T19:51:52.018368+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "9 chapters",
+        "at": "2026-10-09T19:51:52.105738+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ZtTfzdyAPR4",
+        "at": "2026-10-09T19:52:03.121846+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaakIyZ4mrfsJjO6Lc6IRwKt36pSKoPUG2pKe_vWuSOvPKtRjJnn",
+        "at": "2026-10-09T19:52:04.171713+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T19:52:05.275186+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T19:52:05.635436+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"ZtTfzdyAPR4\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T19:52:07.419289+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T19:52:07.463810+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T19:52:07.616118+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8659937/pexels-photo-8659937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32639816/pexels-photo-32639816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38098774/pexels-photo-38098774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29189097/pexels-photo-29189097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33640940/pexels-photo-33640940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39547645/pexels-photo-39547645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/207681/pexels-photo-207681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32063062/pexels-photo-32063062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38098777/pexels-photo-38098777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1172018/pexels-photo-1172018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19448192/pexels-photo-19448192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39925506/pexels-photo-39925506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319291/pexels-photo-29319291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327477/pexels-photo-35327477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9551082/pexels-photo-9551082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10970258/pexels-photo-10970258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12198524/pexels-photo-12198524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35624257/pexels-photo-35624257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13518824/pexels-photo-13518824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15130335/pexels-photo-15130335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33176050/pexels-photo-33176050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35031603/pexels-photo-35031603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34343011/pexels-photo-34343011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35698038/pexels-photo-35698038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39321045/pexels-photo-39321045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30434322/pexels-photo-30434322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38371547/pexels-photo-38371547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9930707/pexels-photo-9930707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14336001/pexels-photo-14336001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14296568/pexels-photo-14296568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1780633/pexels-photo-1780633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18517619/pexels-photo-18517619.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37662863/pexels-photo-37662863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4402272/pexels-photo-4402272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38109652/pexels-photo-38109652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125780/pexels-photo-38125780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37879148/pexels-photo-37879148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18491910/pexels-photo-18491910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37409847/pexels-photo-37409847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36737024/pexels-photo-36737024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4170174/pexels-photo-4170174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32490178/pexels-photo-32490178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29536400/pexels-photo-29536400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3684345/pexels-photo-3684345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10619915/pexels-photo-10619915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26834250/pexels-photo-26834250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10626972/pexels-photo-10626972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11835487/pexels-photo-11835487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32559955/pexels-photo-32559955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35624259/pexels-photo-35624259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20615703/pexels-photo-20615703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27134187/pexels-photo-27134187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934444/pexels-photo-38934444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32636718/pexels-photo-32636718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6695382/pexels-photo-6695382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31588862/pexels-photo-31588862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17717414/pexels-photo-17717414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17238998/pexels-photo-17238998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7695127/pexels-photo-7695127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876915/pexels-photo-35876915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3794712/pexels-photo-3794712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319290/pexels-photo-29319290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14237558/pexels-photo-14237558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5149241/pexels-photo-5149241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37284120/pexels-photo-37284120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37110274/pexels-photo-37110274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141661/pexels-photo-38141661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7224522/pexels-photo-7224522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32079904/pexels-photo-32079904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861815/pexels-photo-37861815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20508355/pexels-photo-20508355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17404465/pexels-photo-17404465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38050541/pexels-photo-38050541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350042/pexels-photo-31350042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26975939/pexels-photo-26975939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20843727/pexels-photo-20843727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31959121/pexels-photo-31959121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080671/pexels-photo-7080671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27638139/pexels-photo-27638139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19824522/pexels-photo-19824522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12013443/pexels-photo-12013443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e16b462f03",
     "kind": "short",
     "channel": "Channel3",
