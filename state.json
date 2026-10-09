@@ -1,5 +1,191 @@
 [
   {
+    "id": "437afced49",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "When a Cavalry Charge Captured a War Fleet",
+    "idea": {
+      "title": "When a Cavalry Charge Captured a War Fleet",
+      "hook": "In 1795, a French cavalry officer spotted an entire Dutch battle fleet frozen in ice—and pulled off the most impossible naval capture in history.",
+      "beats": [
+        "A freak winter freeze trapped 14 Dutch warships and 850 heavy cannons in the shallow waters of the Zuiderzee.",
+        "French Hussar commander Louis Joseph Lahure ordered his horsemen to wrap thick rags around their mounts' hooves to silence their approach across the ice.",
+        "Under cover of midnight, cavalrymen galloped silently across the frozen sea, surrounding the motionless wooden dreadnoughts.",
+        "Unable to tilt their massive artillery down to target riders on the ice, the stunned Dutch admirals surrendered without firing a single cannon."
+      ],
+      "keywords": [
+        "cavalry charge ice",
+        "battle of texel painting",
+        "hussars winter engraving",
+        "dutch fleet warships",
+        "french revolutionary wars"
+      ],
+      "tags": [
+        "#HistoryShorts",
+        "#MilitaryHistory",
+        "#WeirdHistory",
+        "#FrenchRevolution",
+        "#BattleOfTexel"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can cavalry defeat an armored warship fleet on water?",
+        "search": "battle of texel 1795 oil painting",
+        "caption": "Can cavalry defeat a warship fleet?"
+      },
+      {
+        "narration": "In January 1795, this impossible scenario became a reality during the French Revolutionary Wars.",
+        "search": "french revolutionary wars battle engraving",
+        "caption": "January 1795: An impossible battle."
+      },
+      {
+        "narration": "A brutal winter froze the Zuiderzee, trapping fourteen Dutch warships and eighty-five hundred heavy cannons in solid ice.",
+        "search": "dutch warships frozen in ice 18th century engraving",
+        "caption": "Fourteen warships trapped in solid ice."
+      },
+      {
+        "narration": "French Hussar commander Louis Joseph Lahure saw an unprecedented opportunity to strike.",
+        "search": "louis joseph lahure portrait painting",
+        "caption": "Commander Louis Joseph Lahure's plan."
+      },
+      {
+        "narration": "Lahure ordered his horsemen to wrap thick rags around their mounts' hooves to muffle their approach.",
+        "search": "18th century french hussars on horses engraving",
+        "caption": "Muffling the horses' hooves with rags."
+      },
+      {
+        "narration": "Under the cover of midnight, the cavalry galloped silently across the frozen sea toward the massive wooden dreadnoughts.",
+        "search": "cavalry charging across ice oil painting",
+        "caption": "Charging silently across the frozen sea."
+      },
+      {
+        "narration": "The Dutch sailors awoke to find their ships completely surrounded by mounted soldiers.",
+        "search": "hussars surrounding frozen ships oil painting",
+        "caption": "Ships surrounded by mounted soldiers."
+      },
+      {
+        "narration": "Unable to tilt their massive artillery downward to target the riders, the stunned Dutch fleet surrendered without a single casualty.",
+        "search": "surrender of the dutch fleet 1795 painting",
+        "caption": "Stunned Dutch fleet surrenders without casualties."
+      },
+      {
+        "narration": "On January 23, 1795, French Commander Louis Joseph Lahure officially secured the surrender of fourteen Dutch warships and 850 cannons without shedding a single drop of blood.",
+        "search": "louis joseph lahure portrait painting lahure",
+        "caption": "Commander Lahure captured 14 warships without firing a shot."
+      },
+      {
+        "narration": "This bizarre triumph remains the only documented event in global military history where a cavalry charge successfully captured an entire naval fleet.",
+        "search": "battle of texel 1795 engraving",
+        "caption": "The only cavalry capture of a fleet in history."
+      },
+      {
+        "narration": "The frozen Zuiderzee became the stage for an impossible victory, proving that even a mighty fleet is powerless when the sea itself turns to stone.",
+        "search": "zuiderzee netherlands old map engraving",
+        "caption": "A frozen sea turned warships into helpless targets."
+      },
+      {
+        "narration": "Can cavalry defeat an entire fleet of warships?",
+        "search": "battle of texel 1795 oil painting",
+        "caption": "Cavalry vs Warships"
+      }
+    ],
+    "error": "",
+    "youtube_id": "0QWlBxDQejI",
+    "youtube_url": "https://www.youtube.com/watch?v=0QWlBxDQejI",
+    "created_at": "2026-10-09T00:05:20.809889+00:00",
+    "updated_at": "2026-10-09T00:15:06.600038+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T00:08:40.576258+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "426 chars (cat 204 de vua 55s)",
+        "at": "2026-10-09T00:09:27.549175+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.4s en-US-GuyNeural 8 cau",
+        "at": "2026-10-09T00:09:30.540789+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T00:09:31.780279+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T00:14:13.691259+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T00:14:13.733333+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.4s 10179544 bytes",
+        "at": "2026-10-09T00:15:00.622598+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=0QWlBxDQejI",
+        "at": "2026-10-09T00:15:02.779971+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaazNo1urzRbcm8Rt7paGMEAydkH10fAJuXxviN7unROZYPq5KJ-",
+        "at": "2026-10-09T00:15:03.913838+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T00:15:05.115586+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T00:15:05.436124+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"0QWlBxDQejI\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T00:15:06.437242+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T00:15:06.478070+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T00:15:06.600018+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28645913/pexels-photo-28645913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18339294/pexels-photo-18339294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10808813/pexels-photo-10808813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31596672/pexels-photo-31596672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721709/pexels-photo-18721709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33013288/pexels-photo-33013288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397771/pexels-photo-16397771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34415961/pexels-photo-34415961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3290400/pexels-photo-3290400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563543/pexels-photo-16563543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5040995/pexels-photo-5040995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16762334/pexels-photo-16762334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "61ae696bdc",
     "kind": "short",
     "channel": "Channel2",
