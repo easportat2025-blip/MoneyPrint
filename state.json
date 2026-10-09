@@ -1,5 +1,192 @@
 [
   {
+    "id": "c11ef8c62a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Blind 90-Year-Old Who Destroyed an Empire",
+    "idea": {
+      "title": "The Blind 90-Year-Old Who Destroyed an Empire",
+      "hook": "In 1204, a blind 97-year-old Venetian Doge named Enrico Dandolo destroyed the greatest Christian city on Earth out of pure personal spite.",
+      "beats": [
+        "Decades earlier, the Byzantine Empire allegedly blinded Dandolo during a diplomatic crisis, leaving him with a bitter, lifelong grudge.",
+        "When European crusaders couldn't pay Venice for passage to Egypt, the elderly blind Doge seized total financial control of their massive holy army.",
+        "Instead of sailing toward Jerusalem, Dandolo diverted the crusaders directly to the gates of Constantinople.",
+        "Standing blind at the bow of his war galley, Dandolo spurred his men forward until the thousand-year-old Byzantine capital fell and burned."
+      ],
+      "keywords": [
+        "Enrico Dandolo portrait",
+        "Fourth Crusade 1204 painting",
+        "Sack of Constantinople engraving",
+        "Venetian galley antique woodcut",
+        "Byzantine empire vintage map"
+      ],
+      "tags": [
+        "history",
+        "byzantine",
+        "crusades",
+        "venice",
+        "ancienthistory",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A blind ninety-year-old destroyed the world's greatest empire.",
+        "search": "Enrico Dandolo doge of Venice portrait painting",
+        "caption": "A blind ninety-year-old destroyed an empire."
+      },
+      {
+        "narration": "In 1204, the Byzantine Empire ruled the eastern Mediterranean from the massive, walled city of Constantinople.",
+        "search": "Byzantine empire Constantinople vintage map engraving",
+        "caption": "Constantinople was the ultimate medieval superpower."
+      },
+      {
+        "narration": "Decades earlier, during a diplomatic mission in 1171, the Byzantines allegedly blinded the Venetian envoy Enrico Dandolo.",
+        "search": "medieval manuscript illumination blinding of prisoner",
+        "caption": "Enrico Dandolo was blinded in Constantinople."
+      },
+      {
+        "narration": "By 1202, Dandolo was the Doge of Venice when debt-ridden European Crusaders arrived needing ships to reach Egypt.",
+        "search": "Fourth Crusade crusaders in Venice oil painting",
+        "caption": "Crusaders ran out of money in Venice."
+      },
+      {
+        "narration": "Dandolo offered to waive their massive debt if the holy army agreed to attack Venice's Christian rivals first.",
+        "search": "Doge Enrico Dandolo preaching the crusade painting",
+        "caption": "Dandolo seized control of the crusade."
+      },
+      {
+        "narration": "Instead of sailing to Jerusalem, Dandolo diverted the entire crusader fleet directly to the gates of Constantinople.",
+        "search": "Venetian galley fleet medieval woodcut",
+        "caption": "The fleet sailed to Constantinople instead."
+      },
+      {
+        "narration": "Standing blind at the bow of his war galley, the ninety-seven-year-old Doge ordered his men to charge the city walls.",
+        "search": "Sack of Constantinople 1204 historical painting",
+        "caption": "The blind Doge led the assault."
+      },
+      {
+        "narration": "The resulting sack of 1204 permanently shattered Byzantine power, leaving Dandolo buried inside the very cathedral he helped desecrate.",
+        "search": "tomb of Enrico Dandolo Hagia Sophia engraving",
+        "caption": "His tomb remains inside the conquered city."
+      },
+      {
+        "narration": "In April 1204, Dandolo's crusaders stripped Constantinople of its rarest treasures, shipping centuries of Roman bronze monuments and gold back to Venice.",
+        "search": "sack of constantinople 1204 crusaders oil painting",
+        "caption": "In April 1204, Crusaders systematically looted the thousand-year-old Byzantine capital."
+      },
+      {
+        "narration": "The Byzantine Empire fractured into feudal fragments, granting Venice undisputed trade dominance and territorial control over three-eighths of the former realm.",
+        "search": "byzantine empire partition 1204 vintage map engraving",
+        "caption": "Venice seized three-eighths of Byzantine territory, securing total Mediterranean dominance."
+      },
+      {
+        "narration": "Dandolo never returned to Venice, dying in 1205 to be entombed inside Hagia Sophia itself, permanently cementing the blind Doge's ultimate revenge.",
+        "search": "enrico dandolo tombstone hagia sophia marble engraving",
+        "caption": "Enrico Dandolo was entombed inside Hagia Sophia, immortalizing his conquest."
+      },
+      {
+        "narration": "In 1204, Constantinople stood as the wealthy, heavily fortified capital of the Byzantine Empire.",
+        "search": "Byzantine Constantinople medieval manuscript illumination map",
+        "caption": "Constantinople was the medieval world's capital."
+      }
+    ],
+    "error": "",
+    "youtube_id": "cpv32FseTCA",
+    "youtube_url": "https://www.youtube.com/watch?v=cpv32FseTCA",
+    "created_at": "2026-10-09T02:26:10.598159+00:00",
+    "updated_at": "2026-10-09T02:36:08.157613+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T02:32:45.525522+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "426 chars (cat 125 de vua 55s)",
+        "at": "2026-10-09T02:33:27.622899+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-09T02:33:30.902732+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T02:33:32.084050+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T02:35:04.970124+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T02:35:05.010078+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.4s 8845992 bytes",
+        "at": "2026-10-09T02:35:59.668861+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=cpv32FseTCA",
+        "at": "2026-10-09T02:36:02.825433+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYnl9iS7e-GJPl0waVM15wmuNZegyxtDrolVR9RSx6VNgnBwyRN",
+        "at": "2026-10-09T02:36:04.222179+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T02:36:06.215257+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T02:36:06.500923+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"cpv32FseTCA\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T02:36:08.002706+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T02:36:08.041571+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T02:36:08.157595+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33572788/pexels-photo-33572788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6435603/pexels-photo-6435603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34699503/pexels-photo-34699503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17886407/pexels-photo-17886407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33526409/pexels-photo-33526409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39774509/pexels-photo-39774509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38754465/pexels-photo-38754465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19247667/pexels-photo-19247667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5418339/pexels-photo-5418339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35198433/pexels-photo-35198433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9391393/pexels-photo-9391393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543468/pexels-photo-17543468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "437afced49",
     "kind": "short",
     "channel": "Channel2",
