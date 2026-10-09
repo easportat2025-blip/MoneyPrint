@@ -1,5 +1,196 @@
 [
   {
+    "id": "e16b462f03",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao say xe thực chất là não nghĩ bạn bị đầu độc?",
+    "idea": {
+      "title": "Tại sao say xe thực chất là não nghĩ bạn bị đầu độc?",
+      "hook": "Cảm giác nôn nao khi say xe không phải vì dạ dày bạn yếu, mà do bộ não đang hoảng loạn tưởng bạn vừa ăn phải thuốc độc.",
+      "beats": [
+        "Mắt nhìn thấy không gian bên trong xe đứng yên, nhưng tai trong lại cảm nhận cơ thể đang lao đi với tốc độ cao.",
+        "Sự xung đột tín hiệu này trong tự nhiên chỉ xuất hiện khi hệ thần kinh trung ương bị tê liệt bởi độc tố sinh học.",
+        "Não bộ lập tức kích hoạt phản xạ sinh tồn tối thượng: ép dạ dày co bóp nôn sạch mọi thứ ra ngoài để tự cứu sống bạn."
+      ],
+      "keywords": [
+        "motion sickness car nausea",
+        "inner ear vestibular system",
+        "brain neural signals firing",
+        "person feeling dizzy car",
+        "highway speed blur road"
+      ],
+      "tags": [
+        "#khoahocmoingay",
+        "#kienthuc",
+        "#sayxe",
+        "#giaimatcotron",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Say xe thực chất là não tưởng bạn trúng độc.",
+        "search": "hoat hinh 3d nguoi ngoi trong xe oto chong mat buon non",
+        "caption": "Say xe là do não tưởng trúng độc"
+      },
+      {
+        "narration": "Khi bạn ngồi trong ô tô, mắt nhìn nội thất xe và báo về rằng cơ thể đang đứng yên.",
+        "search": "hoat hinh 3d nguoi cam dien thoai ngoi tren ghe oto",
+        "caption": "Mắt báo cơ thể đang đứng yên"
+      },
+      {
+        "narration": "Nhưng sâu trong tai trong, chất dịch tiền đình lại liên tục chao đảo theo từng khúc cua.",
+        "search": "3d mo phong cau truc tai trong he tien dinh chat long chuyen dong",
+        "caption": "Tai trong cảm nhận cơ thể đang di chuyển"
+      },
+      {
+        "narration": "Mắt thấy bất động, nhưng tai lại hét lên rằng cơ thể đang lao đi với tốc độ cao.",
+        "search": "motion graphics hai luong tin hieu doi lap ban vao bo nao",
+        "caption": "Mắt và tai gửi tín hiệu đối lập"
+      },
+      {
+        "narration": "Sự xung đột dữ liệu này tạo ra một lỗi xử lý khẩn cấp bên trong vỏ não.",
+        "search": "hoat hinh 3d bo nao nhap nhay den do canh bao su co",
+        "caption": "Lỗi xử lý dữ liệu nghiêm trọng ở não"
+      },
+      {
+        "narration": "Suốt hàng triệu năm tiến hóa, loài người chưa từng có trải nghiệm ngồi im mà vẫn lao đi vun vút.",
+        "search": "hoat hinh 3d nguoi nguyen thuy di bo giua rung cay",
+        "caption": "Tiến hóa chưa thích nghi với xe cộ"
+      },
+      {
+        "narration": "Trong tự nhiên, hiện tượng mắt và tai lệch pha chỉ xảy ra khi thần kinh bị chất độc tấn công.",
+        "search": "3d render phan tu doc to mau tim xam nhap te bao than kinh",
+        "caption": "Chỉ có độc tố mới gây rối loạn giác quan"
+      },
+      {
+        "narration": "Bộ não lập tức bật còi báo động: cơ thể vừa nuốt phải một loại độc dược chết người.",
+        "search": "hoat hinh 3d trung tam chi huy bo nao bat coi bao dong do",
+        "caption": "Não phát còi báo động trúng độc"
+      },
+      {
+        "narration": "Vùng cảm ứng hóa học ở thân não nhận tín hiệu báo động và lập tức coi đây là ca ngộ độc cấp tính.",
+        "search": "hoat hinh 3d nao bo phat sang tin hieu than kinh do",
+        "caption": "Thân não kích hoạt quy trình chống ngộ độc khẩn cấp"
+      },
+      {
+        "narration": "Nó ép toàn bộ cơ trơn dạ dày co thắt dữ dội để tống sạch thứ tưởng là độc dược ra ngoài.",
+        "search": "hoat hinh 3d mo phong da day co bop manh",
+        "caption": "Dạ dày bị ép nôn sạch mọi thứ ra ngoài"
+      },
+      {
+        "narration": "Nếu bạn cúi đầu lướt điện thoại, mắt thấy màn hình đứng yên, xung đột tín hiệu tăng vọt khiến cơn buồn nôn bùng nổ dữ dội hơn.",
+        "search": "hoat hinh 3d nguoi cam dien thoai tren xe o to rung lac",
+        "caption": "Cúi nhìn điện thoại khiến xung đột thần kinh tăng vọt"
+      },
+      {
+        "narration": "Chỉ khi bạn nhìn thẳng ra kính trước, mắt mới thấy chuyển động, đồng bộ lại với tai trong và còi báo động ngưng kêu.",
+        "search": "hoat hinh 3d goc nhin qua kinh chan gio xe oto chay",
+        "caption": "Nhìn xa qua kính trước giúp não bộ đồng bộ lại"
+      },
+      {
+        "narration": "Bạn không hề yếu ớt, say xe thực chất là cái giá phải trả khi bộ não cố cứu sống bạn khỏi một bữa ăn nhiễm độc không hề tồn tại.",
+        "search": "hoat hinh 3d bo nao cam khien bao ve co the nguoi",
+        "caption": "Say xe là nỗ lực tự vệ trước độc tố tưởng tượng"
+      }
+    ],
+    "error": "",
+    "youtube_id": "YvakZ21dtB4",
+    "youtube_url": "https://www.youtube.com/watch?v=YvakZ21dtB4",
+    "created_at": "2026-10-09T18:35:59.032878+00:00",
+    "updated_at": "2026-10-09T18:40:01.571821+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-09T18:37:54.534587+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "512 chars (cat 100 de vua 55s)",
+        "at": "2026-10-09T18:38:48.076966+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.1s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-09T18:39:03.762501+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T18:39:04.706513+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-09T18:39:19.878471+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-09T18:39:19.903880+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.2s 16264328 bytes",
+        "at": "2026-10-09T18:39:54.917328+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=YvakZ21dtB4",
+        "at": "2026-10-09T18:39:57.559958+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaawq7tnKsrhhWm4oKQdr8w1fHx2YF0mG4aXJYOuwZraJzW4yEVo",
+        "at": "2026-10-09T18:39:58.804577+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T18:40:00.217206+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T18:40:00.550149+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"YvakZ21dtB4\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T18:40:01.453277+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T18:40:01.481393+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T18:40:01.571803+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8263456/8263456-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8388358/8388358-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/37718567/15997244_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34056868/14443954_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/32324651/13788029_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/30824412/13182931_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283174/15283174-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39703730/16926926_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/4686270/4686270-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/36107614/15312979_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/35585194/15079135_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/4788007/4788007-hd_720_1366_25fps.mp4"
+    ]
+  },
+  {
     "id": "2832e05d3e",
     "kind": "short",
     "channel": "Channel3",
