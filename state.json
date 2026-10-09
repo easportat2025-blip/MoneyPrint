@@ -1,5 +1,191 @@
 [
   {
+    "id": "a1efb43dd0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Mad Emperor Who Bit His Own Guards",
+    "idea": {
+      "title": "The Mad Emperor Who Bit His Own Guards",
+      "hook": "When Byzantine Emperor Justin II began losing his mind, his terrifying madness forced his servants to build a moving throne just to keep him from biting them to pieces.",
+      "beats": [
+        "In the 6th century, Emperor Justin II of Constantinople suffered from sudden, violent hallucinations.",
+        "During his fits, he would wildly attack anyone nearby, reportedly trying to bite the heads of his own palace guards.",
+        "To distract him, servants placed him on a custom-wheeled throne, pushing him frantically through the marble halls all day.",
+        "The court discovered only one thing could calm his rage: organ music played at maximum volume day and night.",
+        "This shocking royal madness was kept a strict state secret to prevent the total collapse of the empire."
+      ],
+      "keywords": [
+        "Byzantine Emperor",
+        "Justin II",
+        "ancient throne room",
+        "medieval madness",
+        "Constantinople painting"
+      ],
+      "tags": [
+        "history mysteries",
+        "byzantine empire",
+        "mad kings",
+        "weird history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a 6th-century emperor bite his own guards?",
+        "search": "Byzantine Emperor Justin II gold coin close up",
+        "caption": "Why did a 6th-century emperor bite his own guards?"
+      },
+      {
+        "narration": "In 574 AD, Byzantine Emperor Justin II suffered a sudden, violent mental collapse in Constantinople.",
+        "search": "Constantinople medieval map engraving",
+        "caption": "Emperor Justin II lost his mind in 574 AD."
+      },
+      {
+        "narration": "The ruler of the eastern Roman world began hearing voices and experiencing terrifying hallucinations.",
+        "search": "medieval manuscript illustration of a mad king hallucinating",
+        "caption": "Terrifying hallucinations gripped the ruler of Constantinople."
+      },
+      {
+        "narration": "During these fits, Justin II would wildly attack his staff, reportedly attempting to bite off the heads of his palace guards.",
+        "search": "Byzantine soldiers mosaic detail",
+        "caption": "The emperor tried to bite his own guards."
+      },
+      {
+        "narration": "To protect themselves, desperate servants built a custom, wheeled throne to wheel him frantically through the marble halls.",
+        "search": "ancient throne room oil painting",
+        "caption": "Servants built a wheeled throne to escape his teeth."
+      },
+      {
+        "narration": "The court also discovered that only organ music, played at maximum volume day and night, could soothe his rage.",
+        "search": "medieval organ instrument engraving",
+        "caption": "Loud organ music was played day and night."
+      },
+      {
+        "narration": "To prevent a total collapse of the empire, this shocking royal madness was kept a strict state secret.",
+        "search": "byzantine imperial court painting",
+        "caption": "The emperor's madness was kept a state secret."
+      },
+      {
+        "narration": "Ultimately, his wife Sophia ruled as regent, proving how a hidden madness reshaped the destiny of the Byzantine throne.",
+        "search": "Empress Sophia Byzantine coin portrait",
+        "caption": "Empress Sophia ruled in secret to save the empire."
+      },
+      {
+        "narration": "In December 574, during a rare moment of clarity, Sophia persuaded the unstable Justin II to officially appoint General Tiberius as his co-ruler.",
+        "search": "Byzantine coin of Tiberius II close up",
+        "caption": "General Tiberius is appointed co-ruler in 574 AD"
+      },
+      {
+        "narration": "While Tiberius managed the empire's borders, the mad emperor remained confined to the Great Palace of Constantinople, pacified by organ music until his death in 578.",
+        "search": "Byzantine palace interior illustration",
+        "caption": "Justin II remained confined until his death in 578"
+      },
+      {
+        "narration": "This bizarre, desperate containment of the biting emperor successfully hid his mental collapse, preserving the fragile succession of the Byzantine throne.",
+        "search": "Emperor Justin II mosaic portrait",
+        "caption": "A hidden madness that preserved the Byzantine throne"
+      },
+      {
+        "narration": "Why did an emperor need a rolling throne just to survive?",
+        "search": "Byzantine Emperor Justin II mosaic portrait illustration",
+        "caption": "An emperor trapped by his own mind."
+      }
+    ],
+    "error": "",
+    "youtube_id": "-P-7fAVNKdc",
+    "youtube_url": "https://www.youtube.com/watch?v=-P-7fAVNKdc",
+    "created_at": "2026-10-09T21:51:39.319637+00:00",
+    "updated_at": "2026-10-09T21:57:25.541341+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T21:53:10.606428+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "425 chars (cat 215 de vua 55s)",
+        "at": "2026-10-09T21:54:13.390450+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-09T21:54:18.145416+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T21:54:19.360912+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T21:56:35.131494+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T21:56:35.173280+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 12918599 bytes",
+        "at": "2026-10-09T21:57:19.297891+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=-P-7fAVNKdc",
+        "at": "2026-10-09T21:57:21.292516+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaar9A4CsVh8Yku4UM2j7gQzuPUZSwyw9SgpTO2hxORaoPq0vt2K",
+        "at": "2026-10-09T21:57:22.670932+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T21:57:24.200234+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T21:57:24.489944+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"-P-7fAVNKdc\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T21:57:25.373017+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T21:57:25.415573+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T21:57:25.541332+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7723675/pexels-photo-7723675.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40006753/pexels-photo-40006753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8391512/pexels-photo-8391512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8224782/pexels-photo-8224782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30536928/pexels-photo-30536928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38221068/pexels-photo-38221068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13320326/pexels-photo-13320326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27916251/pexels-photo-27916251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26939042/pexels-photo-26939042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28353518/pexels-photo-28353518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32079910/pexels-photo-32079910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24498598/pexels-photo-24498598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e0876eec0e",
     "kind": "short",
     "channel": "Channel3",
