@@ -1,5 +1,161 @@
 [
   {
+    "id": "ef02236e6d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Dissolved Her Rivals in Wine",
+    "idea": {
+      "title": "The Empress Who Dissolved Her Rivals in Wine",
+      "hook": "When Empress Wu Zetian wanted to eliminate her rivals, she didn't just execute them—she drowned them in wine to watch them dissolve in agony, a decision that would haunt her final days.",
+      "beats": [
+        "Empress Wu Zetian of China faced fierce rivalry from the former Empress Wang and Consort Xiao.",
+        "After seizing total power, she ordered their hands and feet severed to prevent any escape.",
+        "She then had their bodies thrown into massive vats of brewing wine, cruelly declaring she would make them 'drunk to the bones.'",
+        "Wu Zetian was tormented by visions of their vengeful ghosts for the rest of her life, eventually forcing her to abandon her own palace."
+      ],
+      "keywords": [
+        "Wu Zetian",
+        "Empress Wang",
+        "Chinese palace painting",
+        "ancient Chinese court",
+        "dynasty sculpture"
+      ],
+      "tags": [
+        "history",
+        "ancientchina",
+        "wuzetian",
+        "empress",
+        "historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did China's female emperor dissolve her rivals in wine?",
+        "search": "Empress Wu Zetian Tang dynasty stone sculpture close up",
+        "caption": "Did China's female emperor dissolve her rivals in wine?"
+      },
+      {
+        "narration": "In 690 AD, Wu Zetian seized the dragon throne, but her path to power was stained by a brutal execution that haunted her until death.",
+        "search": "ancient Chinese palace painting Tang dynasty court",
+        "caption": "Wu Zetian's rise to power left a dark, haunted legacy."
+      },
+      {
+        "narration": "Decades earlier, in 655 AD, the Tang Dynasty court in Chang'an was divided by a vicious struggle between Wu Zetian, Empress Wang, and Consort Xiao.",
+        "search": "Empress Wang Tang dynasty Chinese silk painting portrait",
+        "caption": "In 655 AD, a deadly court rivalry began in Chang'an."
+      },
+      {
+        "narration": "Having successfully deposed her rivals, Wu Zetian imprisoned them in a locked, windowless room with only a small hole for food.",
+        "search": "ancient Chinese prison cell engraving illustration",
+        "caption": "The deposed rivals were locked in a dark, sealed chamber."
+      },
+      {
+        "narration": "When the Emperor showed mercy to the prisoners, Wu Zetian ordered their hands and feet severed to prevent any chance of escape.",
+        "search": "ancient Chinese dynasty bronze execution axe artifact",
+        "caption": "Wu Zetian ordered her rivals' limbs to be severed."
+      },
+      {
+        "narration": "She then commanded that their mutilated bodies be thrown into massive vats of brewing wine to slowly dissolve.",
+        "search": "ancient Chinese ceramic wine vats painting illustration",
+        "caption": "The victims were thrown into massive vats of wine."
+      },
+      {
+        "narration": "Consort Xiao cursed Wu Zetian with her final breaths, promising to return as a cat to strangle her.",
+        "search": "Tang dynasty Chinese ink painting angry cat illustration",
+        "caption": "Consort Xiao cursed the future Empress with her dying breath."
+      },
+      {
+        "narration": "Tormented by terrifying visions of their vengeful ghosts, Wu Zetian eventually abandoned her imperial palace in Chang'an forever.",
+        "search": "abandoned ancient Chinese palace ruins painting",
+        "caption": "Haunted by ghosts, Wu Zetian abandoned her imperial palace."
+      },
+      {
+        "narration": "Terrified of Consort Xiao's dying curse, Empress Wu Zetian banned all cats from the imperial palace, yet she remained tormented by phantom cries.",
+        "search": "Tang dynasty ink wash painting of imperial palace garden",
+        "caption": "Wu banned all cats from the palace to escape the curse."
+      },
+      {
+        "narration": "In 705 AD, aged and isolated by her paranoia, the female emperor was forced to abdicate, dying months later stripped of her absolute power.",
+        "search": "Empress Wu Zetian stone sculpture Tang dynasty",
+        "caption": "In 705 AD, the aging Empress was forced to abdicate."
+      },
+      {
+        "narration": "Today, her massive tombstone at the Qianling Mausoleum remains completely blank, leaving history to judge the ruler who dissolved her rivals in wine.",
+        "search": "Qianling Mausoleum blank stone stele monument photograph",
+        "caption": "Her massive tombstone remains blank, leaving history to judge her."
+      },
+      {
+        "narration": "Which Chinese empress dissolved her rivals in wine?",
+        "search": "Empress Wu Zetian Tang dynasty painting portrait",
+        "caption": "Which Chinese empress dissolved her rivals in wine?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-09T23:46:16.901855+00:00",
+    "updated_at": "2026-10-09T23:54:53.440504+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T23:50:50.284271+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "333 chars (cat 227 de vua 55s)",
+        "at": "2026-10-09T23:51:32.221862+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "20.5s en-US-GuyNeural 4 cau",
+        "at": "2026-10-09T23:51:34.680664+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T23:51:35.589525+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T23:54:18.817708+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T23:54:18.859806+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 20.5s 7736912 bytes",
+        "at": "2026-10-09T23:54:53.158322+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-09T23:54:53.440490+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39458145/pexels-photo-39458145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30723732/pexels-photo-30723732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33186703/pexels-photo-33186703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10473520/pexels-photo-10473520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33890166/pexels-photo-33890166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27824604/pexels-photo-27824604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6593478/pexels-photo-6593478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8260962/pexels-photo-8260962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458133/pexels-photo-39458133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38450606/pexels-photo-38450606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40131219/pexels-photo-40131219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34510685/pexels-photo-34510685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a1efb43dd0",
     "kind": "short",
     "channel": "Channel2",
