@@ -1,5 +1,197 @@
 [
   {
+    "id": "0876c757ee",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Cắm sạc vào máy trước hay ổ điện trước mới đúng?",
+    "idea": {
+      "title": "Cắm sạc vào máy trước hay ổ điện trước mới đúng?",
+      "hook": "Hầu hết chúng ta đều cắm bừa, nhưng thứ tự này đang âm thầm làm giảm tuổi thọ chiếc điện thoại đắt tiền của bạn.",
+      "beats": [
+        "Khi cắm củ sạc vào ổ điện, một xung điện áp tức thời cực lớn có thể xuất hiện trong tích tắc.",
+        "Nếu điện thoại đã kết nối sẵn, cú sốc điện này truyền thẳng vào cổng sạc và bo mạch chủ, âm thầm làm chai pin và hư hại vi mạch.",
+        "Thứ tự đúng mà nhà sản xuất luôn khuyến cáo: cắm củ sạc vào ổ điện trước để dòng điện ổn định, sau đó mới cắm cáp vào điện thoại.",
+        "Khi sạc đầy và muốn rút ra, hãy làm ngược lại: rút điện thoại ra trước, rồi mới rút củ sạc khỏi ổ điện."
+      ],
+      "keywords": [
+        "smartphone charging cable",
+        "plugging charger into wall socket",
+        "electrical surge spark close up",
+        "phone motherboard technology",
+        "hands unplugging phone"
+      ],
+      "tags": [
+        "mẹo công nghệ",
+        "sạc điện thoại đúng cách",
+        "thói quen hàng ngày",
+        "bảo vệ pin",
+        "kiến thức đời sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cắm sạc điện thoại sai thứ tự sẽ tàn phá pin thế nào?",
+        "search": "3d animation phone battery draining fast cartoon",
+        "caption": "Cắm sạc sai thứ tự hại pin thế nào?"
+      },
+      {
+        "narration": "Hầu hết chúng ta đều cắm bừa, tiện tay bên nào thì cắm bên đó trước.",
+        "search": "3d animation hands plugging charger into smartphone",
+        "caption": "Thói quen cắm sạc tùy tiện mỗi ngày"
+      },
+      {
+        "narration": "Nhưng khi bạn cắm củ sạc vào ổ điện, một xung điện áp cực lớn sẽ xuất hiện trong tích tắc.",
+        "search": "3d render electrical spark wall outlet close up",
+        "caption": "Tia lửa điện xuất hiện trong tích tắc"
+      },
+      {
+        "narration": "Nếu điện thoại đã nối sẵn với cáp, cú sốc điện này sẽ truyền thẳng vào bo mạch chủ.",
+        "search": "3d animation phone motherboard circuit glowing red damage",
+        "caption": "Cú sốc điện đi thẳng vào bo mạch"
+      },
+      {
+        "narration": "Nó âm thầm làm chai pin, lão hóa vi mạch và giảm tuổi thọ máy cực nhanh.",
+        "search": "isometric animation smartphone battery health dropping percentage",
+        "caption": "Pin bị chai và vi mạch tổn hại"
+      },
+      {
+        "narration": "Để bảo vệ máy, nhà sản xuất khuyên hãy cắm củ sạc vào ổ điện trước để dòng điện ổn định.",
+        "search": "3d animation plug adapter into wall socket first",
+        "caption": "Bước 1: Cắm củ sạc vào ổ điện trước"
+      },
+      {
+        "narration": "Sau đó mới cắm đầu cáp còn lại vào điện thoại của bạn.",
+        "search": "3d animation connecting usb cable to smartphone port",
+        "caption": "Bước 2: Cắm cáp vào điện thoại sau"
+      },
+      {
+        "narration": "Khi sạc đầy, hãy làm ngược lại: rút điện thoại ra trước, rồi mới rút củ sạc khỏi ổ điện.",
+        "search": "3d animation unplugging smartphone cable close up",
+        "caption": "Khi đầy: rút điện thoại trước, củ sạc sau"
+      },
+      {
+        "narration": "Hiện tượng này gọi là hồ quang điện, xảy ra trong tích tắc khi phích cắm vừa chạm vào lá đồng của ổ điện.",
+        "search": "3d animation electrical spark wall outlet plug close up",
+        "caption": "Hiện tượng hồ quang điện cực nhỏ"
+      },
+      {
+        "narration": "Những tia lửa vô hình này sẽ mài mòn lớp mạ vàng của chân tiếp xúc, làm giảm khả năng truyền điện.",
+        "search": "3d animation phone charging port inside copper pins",
+        "caption": "Chân tiếp xúc bị mài mòn"
+      },
+      {
+        "narration": "Hậu quả là điện thoại của bạn sẽ sạc chậm hơn, nhanh nóng máy và pin bị chai đi nhanh chóng.",
+        "search": "3d animation smartphone overheating battery glowing red",
+        "caption": "Điện thoại nóng lên và chai pin"
+      },
+      {
+        "narration": "Hãy nhớ quy tắc vàng để bảo vệ máy: Khi cắm thì nguồn trước máy sau, khi rút thì máy trước nguồn sau.",
+        "search": "3d animation hands plugging charger into wall socket",
+        "caption": "Cắm nguồn trước, rút máy trước"
+      },
+      {
+        "narration": "Chỉ một thay đổi nhỏ này sẽ giúp kéo dài tuổi thọ viên pin điện thoại của bạn thêm nhiều năm.",
+        "search": "3d animation phone battery icon charging to 100 percent green",
+        "caption": "Kéo dài tuổi thọ pin hiệu quả"
+      }
+    ],
+    "error": "",
+    "youtube_id": "2ejyyif5D4A",
+    "youtube_url": "https://www.youtube.com/watch?v=2ejyyif5D4A",
+    "created_at": "2026-10-09T11:36:47.665250+00:00",
+    "updated_at": "2026-10-09T11:40:06.859685+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-09T11:38:14.225251+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "453 chars",
+        "at": "2026-10-09T11:38:53.266696+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-09T11:38:58.871777+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T11:39:00.240850+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-09T11:39:12.013410+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-09T11:39:12.056577+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.2s 13501619 bytes",
+        "at": "2026-10-09T11:40:00.854919+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=2ejyyif5D4A",
+        "at": "2026-10-09T11:40:02.866889+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaUPFXRTLuK9lWKTVfON7n6Osvv99iFq9gSPqKT5afk2CR8Pg4N",
+        "at": "2026-10-09T11:40:03.905912+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T11:40:05.563551+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T11:40:05.853757+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"2ejyyif5D4A\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T11:40:06.690813+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T11:40:06.732658+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T11:40:06.859669+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819490/8819490-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816951/8816951-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34908543/14788218_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6754823/6754823-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/5981932/5981932-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/16655802/16655802-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561462/16561462-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561460/16561460-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34326290/14542310_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7832341/7832341-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34745269/14729594_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818611/8818611-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/5849606/5849606-hd_720_1280_60fps.mp4"
+    ]
+  },
+  {
     "id": "f2a1db8109",
     "kind": "short",
     "channel": "Channel2",
