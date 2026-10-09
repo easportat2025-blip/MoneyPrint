@@ -1,5 +1,192 @@
 [
   {
+    "id": "4871dbbed3",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The 81-Year-Old Who Defied the Salem Witch Trials",
+    "idea": {
+      "title": "The 81-Year-Old Who Defied the Salem Witch Trials",
+      "hook": "Giles Corey, an 81-year-old farmer, chose to be slowly crushed to death by heavy stones rather than speak a single word, leaving his accusers completely powerless to steal his family's land.",
+      "beats": [
+        "In 1692, Giles Corey was accused of witchcraft during the height of the Salem witch trials hysteria.",
+        "Under colonial law, if he stood trial and was convicted, the government would confiscate his entire estate, leaving his family broke.",
+        "Knowing this, Corey refused to enter a plea of guilty or innocent, remaining completely silent to exploit a legal loophole.",
+        "To force a confession, judges sentenced him to be pressed under massive stone weights for three agonizing days.",
+        "Instead of begging for mercy, his final words to his executioners were simply 'More weight,' dying a horrific death but successfully saving his family’s inheritance."
+      ],
+      "keywords": [
+        "Salem witch trials",
+        "Giles Corey",
+        "heavy stones punishment",
+        "colonial Massachusetts",
+        "17th century court"
+      ],
+      "tags": [
+        "#history",
+        "#salemwitchtrials",
+        "#mysterioushistory",
+        "#truecrime",
+        "#urbanlegends"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can silence protect your fortune from government seizure?",
+        "search": "17th century court trial engraving",
+        "caption": "Can silence protect your fortune from seizure?"
+      },
+      {
+        "narration": "In September 1692, colonial Massachusetts prosecutors targeted eighty-one-year-old farmer Giles Corey during the Salem witch trials.",
+        "search": "salem witch trials court oil painting",
+        "caption": "September 1692, Salem witch trials target Giles Corey."
+      },
+      {
+        "narration": "Under English common law of the period, a convicted felon's property was immediately confiscated by the Crown, leaving heirs completely destitute.",
+        "search": "17th century colonial house woodcut engraving",
+        "caption": "Conviction meant total loss of family land."
+      },
+      {
+        "narration": "Corey realized that the court could not try or convict him if he refused to enter any plea of guilty or innocent.",
+        "search": "giles corey portrait engraving illustration",
+        "caption": "No plea meant no trial could proceed. (illustration)"
+      },
+      {
+        "narration": "To force a plea, Sheriff George Corwin subjected Corey to the brutal legal torture known as peine forte et dure.",
+        "search": "sheriff george corwin 17th century portrait painting",
+        "caption": "Sheriff Corwin ordered the torture of Giles Corey."
+      },
+      {
+        "narration": "For three agonizing days in a Salem field, executioners piled massive stone weights directly onto Corey’s chest.",
+        "search": "giles corey pressing heavy stones engraving illustration",
+        "caption": "Massive stones piled onto his chest. (illustration)"
+      },
+      {
+        "narration": "Rather than yield, Corey famously demanded \"more weight\" before dying of suffocation on September 19, 1692.",
+        "search": "salem massachusetts 17th century map engraving",
+        "caption": "He demanded more weight before dying."
+      },
+      {
+        "narration": "By dying unconvicted, Corey successfully bypassed the law, preserving his estate and securing his family's inheritance forever.",
+        "search": "colonial massachusetts farm oil painting",
+        "caption": "Corey saved his family's inheritance."
+      },
+      {
+        "narration": "The sheer brutality of Corey's execution on September 19, 1692, horrified the local community and shattered public support for the trials.",
+        "search": "17th century engraving of a crowd in colonial Massachusetts looking shocked",
+        "caption": "Corey's brutal execution horrified the local community."
+      },
+      {
+        "narration": "Driven by growing outrage, Governor William Phips dissolved the Court of Oyer and Terminer in October 1692, halting all further executions.",
+        "search": "Governor William Phips portrait oil painting",
+        "caption": "In October 1692, the Salem witch trials were halted forever."
+      },
+      {
+        "narration": "Today, Giles Corey's final silent protest stands as a historic monument to resistance, showing how one man's resolve defeated a corrupt legal system.",
+        "search": "Salem witch trials memorial stone engraving Giles Corey",
+        "caption": "One man's silent defiance defeated a corrupt legal system."
+      },
+      {
+        "narration": "An eighty-year-old farmer defeated Salem's witch trials through silence.",
+        "search": "giles corey pressing engraving salem witch trials",
+        "caption": "An 81-year-old farmer defied the Salem witch trials."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Vo8dZWpge4w",
+    "youtube_url": "https://www.youtube.com/watch?v=Vo8dZWpge4w",
+    "created_at": "2026-10-09T07:19:15.895975+00:00",
+    "updated_at": "2026-10-09T07:27:49.941014+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-09T07:23:48.289061+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "425 chars (cat 120 de vua 55s)",
+        "at": "2026-10-09T07:25:35.447832+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.7s en-US-GuyNeural 7 cau",
+        "at": "2026-10-09T07:25:37.933376+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-09T07:25:38.973849+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-09T07:27:04.595538+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-09T07:27:04.627890+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.7s 9696369 bytes",
+        "at": "2026-10-09T07:27:40.473109+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Vo8dZWpge4w",
+        "at": "2026-10-09T07:27:45.400296+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYZ4oXpa1zRQtM_9Ofypq0c-cz9XLOUy7XH_jNZ_0qrPsC79qc6",
+        "at": "2026-10-09T07:27:46.449433+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-09T07:27:48.102191+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-09T07:27:48.351903+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Vo8dZWpge4w\\\"\",\n    \"errors\"",
+        "at": "2026-10-09T07:27:49.809048+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-09T07:27:49.842292+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-09T07:27:49.941004+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8968526/pexels-photo-8968526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38514077/pexels-photo-38514077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12764119/pexels-photo-12764119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7714681/pexels-photo-7714681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39559878/pexels-photo-39559878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39967957/pexels-photo-39967957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38379532/pexels-photo-38379532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326133/pexels-photo-18326133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39625422/pexels-photo-39625422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17325574/pexels-photo-17325574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10974989/pexels-photo-10974989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b3830af8b0",
     "kind": "short",
     "channel": "Channel3",
