@@ -1,5 +1,161 @@
 [
   {
+    "id": "0261c9e2b6",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Viking Leader Who Invaded a Fortress in a Coffin",
+    "idea": {
+      "title": "The Viking Leader Who Invaded a Fortress in a Coffin",
+      "hook": "When Viking chieftain Haestein feigned death to enter a walled city, priests opened the gates for his funeral—only for Haestein to jump out of his coffin alive.",
+      "beats": [
+        "Haestein targeted the impenetrable city of Luna, wrongly believing it was Rome.",
+        "He sent messengers claiming he was dying and wished for a Christian burial inside the cathedral.",
+        "During the funeral service, Haestein leapt out of his casket and drew his sword.",
+        "His hidden warriors rushed through the open gates and sacked the city before realizing their geographic mistake."
+      ],
+      "keywords": [
+        "viking chieftain public domain portrait",
+        "medieval fortress engraving",
+        "dark age oil painting combat",
+        "middle ages bishop portrait",
+        "ancient italian city map"
+      ],
+      "tags": [
+        "#history",
+        "#vikings",
+        "#medievalhistory",
+        "#warhistory",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "This Viking faked his own death to conquer an empire.",
+        "search": "viking chieftain public domain portrait",
+        "caption": "A Viking leader used deception to conquer."
+      },
+      {
+        "narration": "In 859 AD, the fierce Norse chieftain Haestein set his sights on the legendary wealth of Rome.",
+        "search": "ancient italian city map",
+        "caption": "Targeting the riches of Rome in 859 AD."
+      },
+      {
+        "narration": "Haestein and his raiders sailed to the Mediterranean, mistaking the coastal Italian city of Luna for Rome itself.",
+        "search": "medieval fortress engraving",
+        "caption": "Mistaking the fortress of Luna for Rome."
+      },
+      {
+        "narration": "Finding the city's stone walls impenetrable, Haestein devised a cunning psychological ploy.",
+        "search": "dark age oil painting combat",
+        "caption": "The stone walls of Luna proved impenetrable."
+      },
+      {
+        "narration": "His messengers approached the gates, claiming their dying leader had converted to Christianity.",
+        "search": "middle ages bishop portrait",
+        "caption": "Messengers claimed their leader was dying."
+      },
+      {
+        "narration": "They begged the local bishop to grant Haestein a Christian burial inside the cathedral.",
+        "search": "medieval cathedral interior oil painting",
+        "caption": "Requesting a sacred burial inside the cathedral."
+      },
+      {
+        "narration": "Priests opened the heavy wooden gates, unaware they were welcoming armed enemies.",
+        "search": "medieval city gates engraving",
+        "caption": "Priests opened the heavy gates for the funeral."
+      },
+      {
+        "narration": "During the solemn service, the supposedly dead chieftain suddenly sprang to his feet.",
+        "search": "viking warrior oil painting battle",
+        "caption": "The dead chieftain suddenly sprang to life."
+      },
+      {
+        "narration": "Drawing his concealed weapon, Haestein struck down the officiating bishop, signaling his hidden warriors to throw open the cathedral doors.",
+        "search": "viking combat cathedral dark age oil painting",
+        "caption": "Haestein struck down the bishop and signaled his waiting warriors."
+      },
+      {
+        "narration": "The Norsemen ruthlessly sacked the fortress, but as the smoke cleared in 860 AD, Haestein discovered he had conquered the town of Luna rather than Rome.",
+        "search": "medieval fortress burning engraving",
+        "caption": "The Vikings conquered the fortress, unaware it was actually Luna."
+      },
+      {
+        "narration": "Though embarrassed by his geographic error, Haestein's coffin trick survived as one of history's most audacious tactical deceptions.",
+        "search": "viking chieftain portrait oil painting",
+        "caption": "History's most audacious coffin trick cemented Haestein's legendary legacy."
+      },
+      {
+        "narration": "How did a dead Viking conquer an impenetrable city?",
+        "search": "viking chieftain public domain portrait",
+        "caption": "How a dead Viking conquered a fortress."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T06:54:46.764816+00:00",
+    "updated_at": "2026-10-10T07:01:05.167996+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-10T06:57:38.858057+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "355 chars (cat 233 de vua 55s)",
+        "at": "2026-10-10T06:58:25.535380+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.5s en-US-GuyNeural 6 cau",
+        "at": "2026-10-10T06:58:27.417023+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T06:58:28.276159+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-10T07:00:32.286960+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T07:00:32.320901+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.6s 8319493 bytes",
+        "at": "2026-10-10T07:01:04.950990+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T07:01:05.167986+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35248220/pexels-photo-35248220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37895918/pexels-photo-37895918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30003231/pexels-photo-30003231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20521985/pexels-photo-20521985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10628603/pexels-photo-10628603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33619173/pexels-photo-33619173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20728380/pexels-photo-20728380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386149/pexels-photo-38386149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6175649/pexels-photo-6175649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38694675/pexels-photo-38694675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6452710/pexels-photo-6452710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15397028/pexels-photo-15397028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3e14e458e9",
     "kind": "short",
     "channel": "Channel3",
