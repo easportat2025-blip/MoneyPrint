@@ -1,5 +1,161 @@
 [
   {
+    "id": "4b511657f2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Ate Human Waste for Revenge",
+    "idea": {
+      "title": "The King Who Ate Human Waste for Revenge",
+      "hook": "To prove he was completely broken, King Goujian ate his conqueror's feces—and then spent 20 years plotting the ultimate revenge.",
+      "beats": [
+        "In 494 BC, King Goujian of Yue was captured and forced into humiliating slavery by King Fuchai of Wu.",
+        "When Fuchai fell sick, Goujian tasted his master's stool to diagnose him, convincing Fuchai of his complete submission.",
+        "Pardoned and sent home, Goujian slept on thorny brushwood and tasted animal bile every day to preserve his burning rage.",
+        "Twenty years later, Goujian struck back with an elite force, annihilating the Kingdom of Wu and driving Fuchai to suicide."
+      ],
+      "keywords": [
+        "King Goujian ancient China",
+        "Wu Yue war ancient engraving",
+        "Spring and Autumn period warrior",
+        "ancient Chinese king portrait",
+        "ancient battle painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#revenge",
+        "#militaryhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He ate human waste to execute history's cruelest revenge.",
+        "search": "ancient Chinese king portrait oil painting",
+        "caption": "History's most extreme revenge plot."
+      },
+      {
+        "narration": "In 494 BC, King Goujian of Yue was crushed in battle by King Fuchai of Wu.",
+        "search": "Spring and Autumn period warrior battle ancient painting",
+        "caption": "494 BC: Yue falls to King Fuchai."
+      },
+      {
+        "narration": "Stripped of his crown, Goujian was forced into humiliation as a royal stable slave.",
+        "search": "ancient China royal palace servant engraving",
+        "caption": "A fallen king reduced to royal servitude."
+      },
+      {
+        "narration": "When King Fuchai fell ill, Goujian devised an unthinkable plot to prove submission.",
+        "search": "ancient Chinese doctor medicine manuscript illustration",
+        "caption": "An unthinkable act of fake loyalty."
+      },
+      {
+        "narration": "He tasted Fuchai's stool to diagnose his illness, convincing Wu's ruler he was broken.",
+        "search": "ancient Chinese emperor throne room painting",
+        "caption": "Tasting waste to convince the conqueror."
+      },
+      {
+        "narration": "Duped by the extreme act, Fuchai pardoned Goujian and freed him in 490 BC.",
+        "search": "ancient Chinese kingdom map engraving",
+        "caption": "490 BC: Released back to his homeland."
+      },
+      {
+        "narration": "Back home, Goujian slept on thorny brushwood and licked bitter animal bile daily.",
+        "search": "King Goujian tasting bile illustration",
+        "caption": "Sleeping on thorns and tasting bitter bile."
+      },
+      {
+        "narration": "For twenty years, he feigned docility while secretly forging elite bronze weaponry.",
+        "search": "ancient Chinese bronze sword Yue artifact",
+        "caption": "Two decades of secret military preparation."
+      },
+      {
+        "narration": "In 473 BC, while King Fuchai campaigned in the north, Goujian launched a surprise invasion into Wu's undefended capital with fifty thousand trained troops.",
+        "search": "ancient chinese battle wall painting",
+        "caption": "In 473 BC, Goujian launched a surprise invasion into Wu."
+      },
+      {
+        "narration": "Wu forces were crushed, trapping King Fuchai, who pleaded for the very same enslavement deal he had granted Goujian two decades prior.",
+        "search": "king fuchai ancient chinese painting portrait",
+        "caption": "King Fuchai was trapped and begged for identical mercy."
+      },
+      {
+        "narration": "Goujian refused, driving Fuchai to suicide, and Goujian's razor-sharp bronze sword survives intact today as proof of antiquity's most patient revenge.",
+        "search": "sword of goujian bronze artifact museum photo",
+        "caption": "Goujian's pristine bronze sword stands as testament to his calculated vengeance."
+      },
+      {
+        "narration": "This king ate his conqueror's waste for ultimate revenge.",
+        "search": "King Goujian of Yue portrait painting",
+        "caption": "A king ate human feces to take ultimate revenge."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T01:51:57.716589+00:00",
+    "updated_at": "2026-10-10T01:59:42.280366+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-10T01:57:20.217315+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "421 chars (cat 141 de vua 55s)",
+        "at": "2026-10-10T01:57:50.996259+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-10T01:57:52.715915+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T01:57:53.617682+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-10T01:59:06.760248+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T01:59:06.796991+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.7s 9092298 bytes",
+        "at": "2026-10-10T01:59:41.879735+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T01:59:42.280347+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32792875/pexels-photo-32792875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386061/pexels-photo-38386061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31032329/pexels-photo-31032329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5844847/pexels-photo-5844847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19493544/pexels-photo-19493544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5907875/pexels-photo-5907875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36978405/pexels-photo-36978405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35210857/pexels-photo-35210857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12349694/pexels-photo-12349694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27390160/pexels-photo-27390160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39778102/pexels-photo-39778102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30026899/pexels-photo-30026899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ef02236e6d",
     "kind": "short",
     "channel": "Channel2",
