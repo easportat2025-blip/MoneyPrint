@@ -1,5 +1,162 @@
 [
   {
+    "id": "6d66b83cbd",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "King Clovis’s Brutal Revenge Over a Broken Vase",
+    "idea": {
+      "title": "King Clovis’s Brutal Revenge Over a Broken Vase",
+      "hook": "In 486 AD, an arrogant warrior deliberately shattered King Clovis's prized sacred vase—and exactly one year later, the king extracted the most terrifying lesson in military discipline.",
+      "beats": [
+        "After plundering Soissons, young King Clovis begged his soldiers to let him keep a single sacred vase outside the standard division of war loot.",
+        "A defiant warrior stepped forward, shattered the vase with his battleaxe, and loudly declared the king would receive only his legal share.",
+        "Clovis swallowed the humiliating insult in total silence, hiding his fury for an entire year until the kingdom's annual weapon inspection.",
+        "While inspecting the rebel's gear, Clovis threw the man's axe into the mud, claiming his weapons were filthy and unfit for royal service.",
+        "As the soldier bent over to retrieve his axe, Clovis cleaved his skull in two, whispering: 'Thus you did to the vase at Soissons.'"
+      ],
+      "keywords": [
+        "King Clovis painting",
+        "Frankish warriors battleaxe",
+        "dark ages military muster",
+        "medieval battle engraving",
+        "early french monarchy portrait"
+      ],
+      "tags": [
+        "KingClovis",
+        "DarkAges",
+        "MedievalHistory",
+        "MilitaryHistory",
+        "HistoryShorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A broken vase nearly shattered King Clovis's throne.",
+        "search": "king clovis i portrait oil painting",
+        "caption": "A broken vase tested royal authority."
+      },
+      {
+        "narration": "In 486 AD, twenty-year-old King Clovis defeated Roman remnants at the Battle of Soissons.",
+        "search": "battle of soissons medieval illuminated manuscript",
+        "caption": "Battle of Soissons, 486 AD"
+      },
+      {
+        "narration": "Among the spoils seized from plundered Christian basilicas was a magnificent, irreplaceable sacred vase.",
+        "search": "medieval sacred church chalice engraving",
+        "caption": "Plundered sacred church treasures"
+      },
+      {
+        "narration": "Under ancient Frankish custom, all captured war loot had to be divided strictly by lot.",
+        "search": "frankish warriors dark ages engraving",
+        "caption": "Customary division of war plunder"
+      },
+      {
+        "narration": "At the military assembly, Clovis asked his troops to grant him the vessel beyond his rightful share.",
+        "search": "king clovis addressing soldiers painting",
+        "caption": "Clovis requests the sacred vessel"
+      },
+      {
+        "narration": "Most men consented, but an insolent warrior stepped forward and raised his heavy battleaxe.",
+        "search": "vase of soissons frankish soldier axe painting",
+        "caption": "A warrior challenges the king"
+      },
+      {
+        "narration": "He shattered the precious vessel, declaring Clovis would receive nothing beyond his lawful share.",
+        "search": "merovingian soldiers historical illustration",
+        "caption": "Public humiliation of the young monarch"
+      },
+      {
+        "narration": "Instead of executing the mutineer immediately, Clovis collected the broken fragments and said nothing for twelve months.",
+        "search": "king clovis first council historical engraving",
+        "caption": "Clovis conceals his deadly retribution"
+      },
+      {
+        "narration": "In March 487 AD, Clovis assembled his entire army on the Champ de Mars for the annual inspection of arms. Walking the ranks, the king stopped directly before the soldier who had destroyed the vase.",
+        "search": "King Clovis reviewing Frankish warriors medieval manuscript illumination",
+        "caption": "In March 487 AD, Clovis gathered his army for inspection."
+      },
+      {
+        "narration": "Clovis snatched the warrior's battleaxe, declared it poorly maintained, and threw it down into the dirt. The soldier instantly leaned forward to recover his fallen weapon.",
+        "search": "medieval Frankish battleaxe dropped on ground historic engraving",
+        "caption": "Clovis threw the soldier's battleaxe into the dirt."
+      },
+      {
+        "narration": "As the man bent over, Clovis raised his own axe and split the soldier's skull in two. Gregory of Tours recorded Clovis's final words: 'Thus did you to the vase at Soissons.'",
+        "search": "vase of Soissons Clovis execution oil painting",
+        "caption": "Clovis executed the rebel, securing absolute royal Merovingian authority."
+      },
+      {
+        "narration": "A broken vase created France's most ruthless medieval monarchy.",
+        "search": "king clovis i portrait oil painting",
+        "caption": "A broken vase reshaped the first Frankish kingdom."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T10:03:07.673994+00:00",
+    "updated_at": "2026-10-10T10:06:24.249277+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-10T10:04:19.547632+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "347 chars (cat 237 de vua 55s)",
+        "at": "2026-10-10T10:04:42.200974+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-10T10:04:43.926679+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T10:04:44.711330+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-10T10:05:53.156651+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T10:05:53.194648+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 6800623 bytes",
+        "at": "2026-10-10T10:06:23.997278+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T10:06:24.249256+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14748221/pexels-photo-14748221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33582265/pexels-photo-33582265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8815253/pexels-photo-8815253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5574073/pexels-photo-5574073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13708470/pexels-photo-13708470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30698564/pexels-photo-30698564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563554/pexels-photo-16563554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36665296/pexels-photo-36665296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16342064/pexels-photo-16342064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20101689/pexels-photo-20101689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12179690/pexels-photo-12179690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13027896/pexels-photo-13027896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0261c9e2b6",
     "kind": "short",
     "channel": "Channel2",
