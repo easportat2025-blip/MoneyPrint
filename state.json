@@ -1,5 +1,163 @@
 [
   {
+    "id": "96555225bc",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Wooden Splinter Ended the King of France",
+    "idea": {
+      "title": "How a Wooden Splinter Ended the King of France",
+      "hook": "In 1559, King Henry II ignored terrifying omens to enter a friendly joust, only for a shattered wooden splinter to puncture his brain and plunge France into decades of civil war.",
+      "beats": [
+        "To celebrate a major peace treaty, King Henry II organized an extravagant three-day jousting tournament in Paris.",
+        "Challenging the young captain of his Scottish Guard, Gabriel de Montgomery, both horses charged at full gallop until their lances collided violently.",
+        "A jagged six-inch splinter from Montgomery's broken lance shot straight through the King's visor slit, penetrating deep into his right eye and skull.",
+        "Royal surgeons desperately practiced trepanning on the severed heads of executed prisoners to save him, but the King died in agony eleven days later."
+      ],
+      "keywords": [
+        "King Henry II jousting fatal injury",
+        "Gabriel de Montgomery joust painting",
+        "Catherine de Medici portrait engraving",
+        "Chateau de Tournelles tournament vintage illustration",
+        "16th century royal armor visor"
+      ],
+      "tags": [
+        "history",
+        "frenchhistory",
+        "henryii",
+        "medievaljousting",
+        "catherinedemedici",
+        "bizarrefacts",
+        "royalty"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A wooden splinter killed France's most powerful king.",
+        "search": "King Henry II of France portrait oil painting",
+        "caption": "A wooden splinter destroyed the French monarchy"
+      },
+      {
+        "narration": "In June 1559, King Henry II signed the Peace of Cateau-Cambresis, ending decades of war against the Habsburgs.",
+        "search": "Peace of Cateau-Cambresis treaty document vintage engraving",
+        "caption": "June 1559: Peace of Cateau-Cambrésis signed in Paris"
+      },
+      {
+        "narration": "To celebrate the historic peace, Henry organized an extravagant three-day royal tournament along Rue Saint-Antoine in Paris.",
+        "search": "Chateau des Tournelles Paris 16th century tournament engraving",
+        "caption": "An extravagant royal tournament on Rue Saint-Antoine"
+      },
+      {
+        "narration": "Despite warnings from astrologers and pleas from Queen Catherine de' Medici, forty-year-old Henry insisted on entering the lists himself.",
+        "search": "Catherine de Medici portrait painting close up",
+        "caption": "Queen Catherine pleaded with Henry to stop jousting"
+      },
+      {
+        "narration": "The King summoned Gabriel de Montgomery, the young captain of his elite Scottish Guard, to face him in a final pass.",
+        "search": "Gabriel de Montgomery captain Scottish guard portrait engraving",
+        "caption": "Gabriel de Montgomery commanded to face the King"
+      },
+      {
+        "narration": "Both riders charged at full gallop until Montgomery's heavy lance struck Henry's breastplate and shattered violently.",
+        "search": "16th century knight jousting collision woodcut illustration",
+        "caption": "Montgomery's heavy wooden lance shattered on impact"
+      },
+      {
+        "narration": "Instead of discarding the broken shaft, Montgomery failed to drop it, sending a jagged splinter toward the King's face.",
+        "search": "16th century royal jousting helmet visor close up",
+        "caption": "A six-inch splinter pierced straight through Henry's visor"
+      },
+      {
+        "narration": "The splinter drove through the helmet's visor slit, penetrating Henry's right eye and lodging deep within his skull.",
+        "search": "King Henry II jousting accident 1559 historic engraving",
+        "caption": "The splinter penetrated directly into the King's brain"
+      },
+      {
+        "narration": "Royal surgeons frantically trepanned the severed heads of executed prisoners to simulate the brain injury and find a cure.",
+        "search": "16th century medical surgery engraving",
+        "caption": "Surgeons experimented on severed heads to save the king"
+      },
+      {
+        "narration": "Infection rapidly overwhelmed his body, and King Henry II died in excruciating agony on July 10, 1559.",
+        "search": "death of King Henry II France oil painting",
+        "caption": "King Henry II died after eleven excruciating days"
+      },
+      {
+        "narration": "His sudden death shattered the monarchy, plunging France into four decades of devastating religious civil war.",
+        "search": "French wars of religion 16th century oil painting",
+        "caption": "One wooden splinter plunged France into forty years of war"
+      },
+      {
+        "narration": "A single wooden splinter destroyed sixteenth-century France.",
+        "search": "16th century royal armor visor oil painting",
+        "caption": "A single wooden splinter destroyed France"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T20:39:57.985244+00:00",
+    "updated_at": "2026-10-10T20:43:55.588591+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-10T20:40:50.732927+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 230 de vua 55s)",
+        "at": "2026-10-10T20:41:35.632516+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.0s en-US-GuyNeural 7 cau",
+        "at": "2026-10-10T20:41:38.542397+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T20:41:39.642592+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-10T20:43:18.315830+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T20:43:18.354276+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.0s 8554467 bytes",
+        "at": "2026-10-10T20:43:55.360357+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T20:43:55.588573+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7719091/pexels-photo-7719091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37947882/pexels-photo-37947882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35604738/pexels-photo-35604738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35135456/pexels-photo-35135456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7849597/pexels-photo-7849597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32269269/pexels-photo-32269269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29155432/pexels-photo-29155432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39376355/pexels-photo-39376355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7108119/pexels-photo-7108119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16960922/pexels-photo-16960922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34261957/pexels-photo-34261957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28536852/pexels-photo-28536852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3cf6b1b810",
     "kind": "short",
     "channel": "Channel3",
