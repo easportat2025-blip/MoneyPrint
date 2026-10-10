@@ -1,5 +1,167 @@
 [
   {
+    "id": "52b8c30fc9",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao sạc pin qua đêm không làm nổ máy như bạn nghĩ?",
+    "idea": {
+      "title": "Tại sao sạc pin qua đêm không làm nổ máy như bạn nghĩ?",
+      "hook": "Bạn có đang vừa cắm sạc điện thoại vừa run sợ vì nghĩ rằng pin sẽ nổ tung vào lúc nửa đêm?",
+      "beats": [
+        "Smartphone hiện đại có chip quản lý nguồn thông minh tự ngắt dòng điện khi pin chạm mốc 100%.",
+        "Kẻ thù thực sự phá hủy pin không phải là sạc quá đầy, mà là lượng nhiệt tích tụ dưới gối hoặc ốp lưng dày.",
+        "Pin lithium-ion bị lão hóa nhanh nhất khi bị giữ ở điện áp cao kết hợp với nhiệt độ trên 35 độ C trong thời gian dài.",
+        "Mẹo đơn giản: tháo ốp lưng và bật tính năng giới hạn sạc 80% nếu bạn có thói quen cắm sạc cả đêm."
+      ],
+      "keywords": [
+        "smartphone charging night",
+        "lithium battery close up",
+        "phone overheating thermal",
+        "circuit board electricity",
+        "sleeping holding phone"
+      ],
+      "tags": [
+        "mẹo công nghệ",
+        "pin điện thoại",
+        "khoa học đời sống",
+        "thói quen hàng ngày",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Sạc qua đêm không hề làm nổ điện thoại bạn.",
+        "search": "hoat hinh 3d dien thoai cam sac dau giuong phat sang",
+        "caption": "Sạc qua đêm không làm nổ điện thoại như bạn tưởng."
+      },
+      {
+        "narration": "Rất nhiều người vẫn hoảng sợ rút sạc vì nghĩ pin sẽ phồng to và phát nổ khi ngủ say.",
+        "search": "hoat hinh 3d nguoi ngu giat minh nhin dien thoai boc khoi",
+        "caption": "Nỗi sợ pin phồng nổ lúc nửa đêm có thật không?"
+      },
+      {
+        "narration": "Nhưng các kỹ sư đã tích hợp sẵn một chip quản lý nguồn thông minh, tự động ngắt dòng khi pin đạt 100%.",
+        "search": "do hoa 3d chip dien tu vi mach dien thoai ngat dong dien",
+        "caption": "Chip thông minh tự ngắt điện ngay khi pin chạm 100%."
+      },
+      {
+        "narration": "Nếu điện đã tự ngắt, tại sao pin của bạn vẫn bị chai và tụt nhanh chỉ sau một năm?",
+        "search": "hoat hinh 3d bieu tuong pin dien thoai tut dung luong mau do",
+        "caption": "Vậy điều gì thực sự làm chai pin nhanh đến thế?"
+      },
+      {
+        "narration": "Kẻ thù thực sự không phải là việc nạp quá đầy điện, mà chính là lượng nhiệt tích tụ âm thầm.",
+        "search": "mo phong 3d nhiet do nhiet ke ben canh dien thoai nong len",
+        "caption": "Nhiệt độ tích tụ mới là thủ phạm âm thầm phá hủy pin."
+      },
+      {
+        "narration": "Thói quen cắm sạc rồi nhét máy dưới gối hoặc dùng ốp lưng quá dày biến điện thoại thành một chiếc lò nhiệt.",
+        "search": "hoat hinh 3d dien thoai bi kep duoi goi phong ngu boc hoi nong",
+        "caption": "Nhét máy dưới gối và ốp dày khiến nhiệt không thể thoát."
+      },
+      {
+        "narration": "Khi pin lithium-ion bị giam ở điện thế cao kèm nhiệt độ trên 35 độ C, tốc độ lão hóa tăng vọt không kiểm soát.",
+        "search": "do hoa 3d cau truc phan tu pin lithium bi phan huy nong chay",
+        "caption": "Nhiệt độ trên 35 độ C đẩy nhanh tốc độ lão hóa pin."
+      },
+      {
+        "narration": "Điều kỳ lạ là chính những phản ứng hóa học này đang bí mật rút ngắn tuổi thọ máy mà mắt thường không thấy được.",
+        "search": "hoat hinh 3d kinh lup soi vao ben trong vien pin dien thoai",
+        "caption": "Phản ứng hóa học âm thầm ăn mòn viên pin từng đêm."
+      },
+      {
+        "narration": "Các hạt ion lithium bị giữ chặt vĩnh viễn ở hai cực, làm dung lượng thực tế tụt dốc sau mỗi đêm bị om nhiệt.",
+        "search": "hoat hinh 3d pin lithium ion ben trong phan ung hoa hoc",
+        "caption": "Dung lượng pin tụt dốc vì ion bị giam cầm"
+      },
+      {
+        "narration": "Chiếc ốp lưng dày và bề mặt chăn gối vô tình biến thành lò ủ nhiệt, giữ chân toàn bộ hơi nóng độc hại suốt 8 tiếng.",
+        "search": "3d animation dien thoai sac tren nem goi toa nhiet do",
+        "caption": "Ốp lưng và nệm biến điện thoại thành lò ủ nhiệt"
+      },
+      {
+        "narration": "Dù vậy, máy sẽ không bao giờ phát nổ nhờ chip BMS thông minh tự ngắt nguồn sạc ngay khi chạm mốc 100%.",
+        "search": "motion graphics chip bms tren bo mach dien thoai ngat dien",
+        "caption": "Chip thông minh tự ngắt sạc khi chạm mốc 100%"
+      },
+      {
+        "narration": "Khi đã đầy, máy chuyển sang dùng điện trực tiếp từ củ sạc để nuôi hệ thống thay vì tiếp tục ép nạp vào pin.",
+        "search": "isometric render nguon dien chay thang vao man hinh bo qua pin",
+        "caption": "Điện thoại dùng nguồn trực tiếp, không nhồi thêm vào pin"
+      },
+      {
+        "narration": "Chỉ cần tháo ốp lưng và bật giới hạn sạc 80%, bạn có thể thoải mái cắm sạc qua đêm mà pin vẫn bền bỉ.",
+        "search": "cartoony 3d tay go op lung dien thoai bat che do sac 80",
+        "caption": "Tháo ốp lưng và bật giới hạn 80% để pin bền lâu"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T14:12:18.132974+00:00",
+    "updated_at": "2026-10-10T14:24:31.930685+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-10T14:20:46.548557+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "519 chars (cat 49 de vua 55s)",
+        "at": "2026-10-10T14:23:30.421406+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.7s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-10T14:23:43.320330+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T14:23:44.244061+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-10T14:23:58.900121+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-10T14:23:58.925699+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.7s 12357148 bytes",
+        "at": "2026-10-10T14:24:31.750921+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T14:24:31.930673+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35288161/14949995_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/29235950/12616820_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6754831/6754831-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703851/15987372_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/10273915/10273915-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7985885/7985885-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7601829/7601829-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34744516/14729276_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8817003/8817003-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/4708340/4708340-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/18069164/18069164-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/6931573/6931573-hd_720_1280_50fps.mp4"
+    ]
+  },
+  {
     "id": "9b68be2d4c",
     "kind": "short",
     "channel": "Channel3",
