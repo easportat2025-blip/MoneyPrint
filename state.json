@@ -1,5 +1,161 @@
 [
   {
+    "id": "9b3dffebf3",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Killed by a Doorframe on His Way to Tennis",
+    "idea": {
+      "title": "The King Killed by a Doorframe on His Way to Tennis",
+      "hook": "In 1498, King Charles VIII of France was ready to conquer Europe, until a single low doorway triggered a humiliating fatal mistake.",
+      "beats": [
+        "Charles VIII ruled France and commanded the most feared army in Europe, preparing a massive campaign to take Naples.",
+        "On April 7, 1498, while rushing to watch a game of tennis with the queen, he struck his forehead hard against a stone lintel.",
+        "He brushed off the painful impact, watched the match, but suddenly collapsed into an unresponsive coma hours later.",
+        "He died that very night at age 27, abruptly ending the direct Valois line because of a doorframe he walked under every day."
+      ],
+      "keywords": [
+        "King Charles VIII",
+        "Chateau d Amboise",
+        "medieval French painting",
+        "Valois royal portrait",
+        "renaissance engraving"
+      ],
+      "tags": [
+        "humanhistory",
+        "charlesviii",
+        "frenchroyalty",
+        "weirdhistory",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A doorframe ended France's most powerful royal dynasty.",
+        "search": "Charles VIII of France portrait painting",
+        "caption": "A low doorframe destroyed France's ruling dynasty."
+      },
+      {
+        "narration": "In 1498, King Charles VIII possessed Europe's most feared army and aimed to seize southern Italy.",
+        "search": "French army Italian wars 15th century engraving",
+        "caption": "Charles VIII commanded the most lethal army in Renaissance Europe."
+      },
+      {
+        "narration": "At just twenty-seven, the young monarch had already conquered Naples once and poured France's treasury into his next invasion.",
+        "search": "Siege of Naples 1495 woodcut engraving",
+        "caption": "He drained France's treasury preparing a massive reconquest of Naples."
+      },
+      {
+        "narration": "On April 7, 1498, Charles was residing at the Château d'Amboise, preparing to watch a royal match of tennis.",
+        "search": "Chateau d Amboise France historic medieval illustration",
+        "caption": "On April 7, 1498, the court gathered at Château d'Amboise."
+      },
+      {
+        "narration": "Escorting Queen Anne of Brittany through a dark gallery, the king hurried through a low stone entrance called the Huerne gate.",
+        "search": "Anne of Brittany Queen of France manuscript miniature painting",
+        "caption": "Charles rushed through a low stone corridor beside Queen Anne."
+      },
+      {
+        "narration": "Despite his short stature, Charles misjudged the clearance and slammed his forehead violently against the stone lintel.",
+        "search": "Medieval castle stone doorway lintel historic engraving",
+        "caption": "His head struck the heavy stone lintel at full speed."
+      },
+      {
+        "narration": "Shrugging off the brutal impact, the king sat down beside his courtiers and watched the match unfold for hours.",
+        "search": "Jeu de paume medieval tennis match renaissance woodcut",
+        "caption": "Charles brushed off the impact and watched tennis for hours."
+      },
+      {
+        "narration": "Suddenly, at two in the afternoon, Charles collapsed backwards onto a mattress, unable to speak or move his limbs.",
+        "search": "Medieval king dying in bed illuminated manuscript",
+        "caption": "At two in the afternoon, the king suddenly collapsed speechless."
+      },
+      {
+        "narration": "Royal physicians bled him three times, but the twenty-seven-year-old monarch slipped deeper into an irreversible coma on the cold castle floor.",
+        "search": "medieval doctor bloodletting illustration manuscript",
+        "caption": "Doctors bled Charles three times as his condition rapidly deteriorated."
+      },
+      {
+        "narration": "At eleven that night, on April 7, 1498, King Charles the Eighth died inside the damp passageway at the Château d'Amboise.",
+        "search": "King Charles VIII of France deathbed historical engraving",
+        "caption": "Charles VIII died that night at age 27 inside the corridor."
+      },
+      {
+        "narration": "With no surviving children, the direct Valois dynasty instantly vanished, handing the French crown to his cousin Louis the Twelfth because of an ordinary doorframe.",
+        "search": "King Louis XII of France portrait oil painting",
+        "caption": "The direct Valois dynasty ended because of a single low doorway."
+      },
+      {
+        "narration": "A low doorframe ended Europe's most dangerous royal dynasty.",
+        "search": "king charles viii of france valois royal portrait painting",
+        "caption": "A low doorway destroyed a powerful royal dynasty."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T23:03:30.079229+00:00",
+    "updated_at": "2026-10-10T23:07:02.390228+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-10T23:03:57.939410+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "394 chars (cat 238 de vua 55s)",
+        "at": "2026-10-10T23:04:54.358952+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-10T23:04:56.031411+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T23:04:56.657222+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-10T23:06:37.841506+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T23:06:37.868799+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 8147834 bytes",
+        "at": "2026-10-10T23:07:02.170362+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T23:07:02.390219+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32381462/pexels-photo-32381462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267434/pexels-photo-9267434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36389261/pexels-photo-36389261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14975234/pexels-photo-14975234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38803881/pexels-photo-38803881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237513/pexels-photo-38237513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38761789/pexels-photo-38761789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35176141/pexels-photo-35176141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29866913/pexels-photo-29866913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31561949/pexels-photo-31561949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13692241/pexels-photo-13692241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39483197/pexels-photo-39483197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "96555225bc",
     "kind": "short",
     "channel": "Channel2",
