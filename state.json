@@ -1,5 +1,598 @@
 [
   {
+    "id": "84a25a4eee",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Pet Monkey That Killed 250,000 Soldiers",
+    "idea": {
+      "title": "The Pet Monkey That Killed 250,000 Soldiers",
+      "hook": "In October 1920, a young king stepped into a garden fight to save his dog from a pet monkey. Three weeks later, he was dead—triggering a catastrophic chain reaction that doomed an empire and cost a quarter of a million lives.",
+      "beats": [
+        "1920: Greece stands on the cusp of realizing the centuries-old 'Megali Idea', expanding its borders across the Aegean into Anatolia with full British backing.",
+        "Twenty-seven-year-old King Alexander rules in Athens, installed as a puppet monarch after the Allies exiled his pro-German father, King Constantine I.",
+        "On October 2, 1920, Alexander walks his German Shepherd through the royal vineyards at Tatoi Palace when a pet Barbary macaque attacks the dog.",
+        "Intervening to separate the animals, Alexander is ambushed by a second, larger male macaque that inflicts deep lacerations across his legs and stomach.",
+        "Royal physicians wash the wounds with iodine but refuse to perform a timely amputation, terrified of permanently mutilating the young king's body.",
+        "Sepsis rapidly invades Alexander's bloodstream; after three weeks of excruciating fever and delirium, the monarch dies on October 25.",
+        "Alexander's sudden demise creates an immediate constitutional vacuum, toppling the visionary pro-Allied Prime Minister Eleftherios Venizelos in the next election.",
+        "A controversial plebiscite recalls the exiled King Constantine I to the Greek throne, horrifying the Allied powers of Britain, France, and Italy.",
+        "Furious over Constantine's return, the Allies terminate diplomatic backing, financial credits, and military shipments to the Greek army in Asia Minor.",
+        "Constantine purges seasoned, Allied-trained officers from the frontline, replacing them with royalist loyalists, and launches an ill-fated offensive toward Ankara.",
+        "Mustafa Kemal's forces crush the overextended Greek army at the Battle of the Sakarya, leading to the Great Fire of Smyrna and the deaths of over 250,000 soldiers and civilians.",
+        "Winston Churchill later memorializes the freak disaster with bitter irony: 'It is perhaps no exaggeration to remark that a quarter of a million persons died of this monkey's bite.'"
+      ],
+      "keywords": [
+        "King Alexander of Greece",
+        "Greco-Turkish War",
+        "Mustafa Kemal Atatürk",
+        "Butterfly Effect history",
+        "Winston Churchill quote",
+        "Tatoi Palace",
+        "Eleftherios Venizelos",
+        "Battle of Sakarya",
+        "History documentary",
+        "Megali Idea"
+      ],
+      "tags": [
+        "#HistoryDocumentary",
+        "#GrecoTurkishWar",
+        "#KingAlexander",
+        "#ButterflyEffect",
+        "#HistoricalOddities",
+        "#MilitaryHistory",
+        "#EuropeanHistory",
+        "#Ataturk",
+        "#GreekHistory"
+      ],
+      "kind": "long",
+      "thumbnail_text": "ONE BITE KILLED 250,000"
+    },
+    "scenes": [
+      {
+        "narration": "A pet monkey's bite killed a quarter million soldiers.",
+        "search": "Barbary macaque archival photograph 1920",
+        "caption": "One animal bite caused a catastrophic imperial collapse."
+      },
+      {
+        "narration": "In early 1920, Greek forces advanced into Anatolia with British support, seeking to revive Byzantine borders under the Megali Idea.",
+        "search": "Greek soldiers Asia Minor campaign 1920 archival photograph",
+        "caption": "Greece advanced into Anatolia in 1920 under Allied backing."
+      },
+      {
+        "narration": "At the center of the campaign stood twenty-seven-year-old King Alexander, placed on the Greek throne after the Allies exiled his father.",
+        "search": "King Alexander of Greece archival photo portrait",
+        "caption": "King Alexander ruled Greece as a young Allied ally."
+      },
+      {
+        "narration": "On October 2, 1920, Alexander walked his dog through the royal vineyards at Tatoi Palace when a pet macaque lunged at the hound.",
+        "search": "Tatoi Palace Athens Greece vintage archival photograph",
+        "caption": "A domestic animal scuffle erupted at Tatoi Palace."
+      },
+      {
+        "narration": "When Alexander stepped in to break up the fight, a second male macaque ambushed him, tearing deep lacerations into his leg and abdomen.",
+        "search": "Barbary macaque vintage historical photograph",
+        "caption": "A second monkey inflicted severe lacerations on the monarch."
+      },
+      {
+        "narration": "Royal physicians cleansed the wounds with iodine but refused to amputate, terrified of public backlash for maiming the young king.",
+        "search": "1920 medical equipment hospital room archival photograph",
+        "caption": "Physicians hesitated to amputate Alexander's infected limb."
+      },
+      {
+        "narration": "Severe sepsis invaded his bloodstream, and after three weeks of excruciating fever, King Alexander died on October 25, 1920.",
+        "search": "King Alexander of Greece funeral 1920 archival photograph",
+        "caption": "King Alexander succumbed to sepsis on October 25, 1920."
+      },
+      {
+        "narration": "The monarch's sudden death triggered an immediate political vacuum, leading voters to recall his exiled, pro-German father King Constantine I to power.",
+        "search": "King Constantine I of Greece archival photo portrait",
+        "caption": "Allied powers abandoned Greece following Constantine's return."
+      },
+      {
+        "narration": "In December 1920, King Constantine I returned to Athens following a disputed plebiscite, immediately alienating Greece's wartime allies. Britain, France, and Italy warned that reinstating the pro-German monarch would shatter their diplomatic cooperation.",
+        "search": "King Constantine I of Greece portrait photograph 1920",
+        "caption": "King Constantine I returns to Athens, provoking immediate Allied diplomatic backlash."
+      },
+      {
+        "narration": "By early 1921, the Allied Supreme Council halted all financial credits and blocked arms shipments to Greece. The Greek army was left diplomatically isolated while occupying hostile territory deep within Asia Minor.",
+        "search": "Greco-Turkish War Greek infantry Anatolia 1921 archival photograph",
+        "caption": "Allied powers withdraw military aid and financial loans to Greece in 1921."
+      },
+      {
+        "narration": "To secure his throne, Constantine purged hundreds of experienced, Allied-trained officers who supported the former prime minister, Eleftherios Venizelos. Inexperienced royalist loyalists were installed across frontline commands, crippling army coordination.",
+        "search": "Greek army royalist officers Greco-Turkish War 1921 archival photograph",
+        "caption": "Constantine purges veteran officers, placing royalist loyalists in command of the frontline."
+      },
+      {
+        "narration": "In Ankara, Turkish nationalist leader Mustafa Kemal seized upon Allied division, securing crucial weapons and formal neutrality treaties from Bolshevik Russia and France. The Turkish Grand National Assembly rapidly rebuilt regular army divisions to confront the occupation.",
+        "search": "Mustafa Kemal Ataturk portrait photograph military uniform 1921",
+        "caption": "Mustafa Kemal secures foreign supplies to fortify Turkish nationalist defenses."
+      },
+      {
+        "narration": "In July 1921, Constantine personally traveled to Smyrna to endorse an aggressive military gamble: a direct strike against Ankara. Greek high command prepared to march over one hundred thousand soldiers into the dry interior of Anatolia.",
+        "search": "King Constantine I inspecting Greek troops in Smyrna 1921 archival photograph",
+        "caption": "Constantine arrives in Asia Minor to launch a major offensive toward Ankara."
+      },
+      {
+        "narration": "As Greek divisions advanced, their supply lines stretched over two hundred miles across roadless terrain and the scorching Salt Desert. Trucks broke down in the dust, leaving frontline units severely depleted of food, medical supplies, and ammunition.",
+        "search": "Greek military supply wagon train Anatolia 1921 archival photograph",
+        "caption": "Greek logistics collapse across hundreds of miles of arid Anatolian desert."
+      },
+      {
+        "narration": "On August 23, 1921, the advancing Greek forces struck heavily fortified Turkish defense lines along the Sakarya River, just fifty miles from Ankara. Mustafa Kemal issued strict orders to defend every inch of ground, turning the river line into a fortress.",
+        "search": "Battle of Sakarya Turkish defensive trenches 1921 archival photograph",
+        "caption": "Greek forces engage Turkish defensive fortifications along the Sakarya River."
+      },
+      {
+        "narration": "For twenty-one consecutive days, Greek and Turkish forces engaged in relentless, close-quarters combat across a sixty-mile front. When Greek ammunition reserves finally collapsed in early September, the stalled royalist army faced an catastrophic crisis deep in enemy territory.",
+        "search": "Battle of Sakarya artillery smoke frontline 1921 archival photograph",
+        "caption": "After three weeks of intense combat, the exhausted Greek offensive stalls."
+      },
+      {
+        "narration": "On September 13, 1921, Greek commanders ordered a full retreat across the Sakarya River, falling back two hundred miles to defensive rail lines. The strategic gamble to seize Ankara had failed, leaving the royalist army stranded in barren Anatolian terrain.",
+        "search": "battle of sakarya greek retreat archival photograph 1921",
+        "caption": "September 1921: Greek army retreats 200 miles after Sakarya offensive fails."
+      },
+      {
+        "narration": "Throughout the winter of 1921, Allied financial sanctions left Greek soldiers in Anatolia without winter coats, replacement boots, or fresh ammunition. Letters from the front lines described widespread typhus outbreaks and desertion among royalist conscripts.",
+        "search": "greek soldiers winter anatolia trench archival photograph 1921",
+        "caption": "Deprived of Allied supplies, Greek soldiers suffer disease and mass desertion."
+      },
+      {
+        "narration": "Sensing the shift in momentum, France and Italy broke Allied ranks to sign separate agreements with Mustafa Kemal in late 1921. French arsenals secretly supplied Kemal's nationalist army with heavy artillery and biplanes while Athens pleaded for help.",
+        "search": "treaty of ankara franklin bouillon kemal archival photograph 1921",
+        "caption": "October 1921: France breaks Allied solidarity to supply Turkish nationalist forces."
+      },
+      {
+        "narration": "In May 1922, King Constantine appointed General Georgios Hatzianestis to lead the Asia Minor command despite severe mental instability. Hatzianestis directed front-line operations from a luxury yacht anchored in Smyrna harbor, ninety miles from his men.",
+        "search": "general georgios hatzianestis portrait photograph 1922",
+        "caption": "General Georgios Hatzianestis commands frontline Greek troops from a distant yacht."
+      },
+      {
+        "narration": "By August 1922, Mustafa Kemal assembled over one hundred thousand soldiers and heavy artillery batteries outside the Greek stronghold of Afyonkarahisar. The Turkish high command kept the strike date secret even from their own cabinet ministers to ensure total surprise.",
+        "search": "mustafa kemal ataturk commanders headquarters archival photograph 1922",
+        "caption": "August 1922: Mustafa Kemal secretly concentrates strike forces near Afyonkarahisar."
+      },
+      {
+        "narration": "At dawn on August 26, 1922, Turkish artillery unleashed a devastating barrage that obliterated Greek forward wire defenses within hours. Turkish cavalry divisions poured through the gaps, cutting Greek telegraph cables and severing contact between field divisions.",
+        "search": "turkish artillery firing great offensive archival photograph 1922",
+        "caption": "August 26, 1922: Turkish artillery shatters Greek forward fortifications at Dumlupınar."
+      },
+      {
+        "narration": "On August 30, 1922, Turkish forces surrounded and destroyed half of the entire Greek expeditionary force at the Battle of Dumlupınar. General Nikolaos Trikoupis and his staff were captured, leaving tens of thousands of disorganized soldiers to flee westward in chaos.",
+        "search": "battle of dumlupinar surrendered greek soldiers archival photograph 1922",
+        "caption": "August 30, 1922: Half the Greek expeditionary force is captured at Dumlupınar."
+      },
+      {
+        "narration": "Over two hundred thousand retreating Greek soldiers and Christian refugees flooded the roads toward the Aegean port of Smyrna. With Turkish cavalry pursuing only miles behind, the catastrophic collapse set the stage for one of history's deadliest urban disasters.",
+        "search": "greek refugees retreat to aegean coast archival photograph 1922",
+        "caption": "Thousands of fleeing troops and refugees stream toward the port of Smyrna."
+      },
+      {
+        "narration": "On September 9, 1922, Turkish cavalry units commanded by Mustafa Kemal entered Smyrna, just hours after the last Greek administrative officials evacuated by sea. Over three hundred thousand Christian refugees remained trapped along the waterfront with nowhere left to flee.",
+        "search": "turkish cavalry entering smyrna 1922 archival photograph",
+        "caption": "Turkish cavalry enters Smyrna on September 9, 1922 as officials flee."
+      },
+      {
+        "narration": "Four days later, on September 13, a blaze erupted in the city's Armenian quarter and rapidly merged into a colossal firestorm pushed westward by strong sea winds. Intense heat forced hundreds of thousands of panic-stricken civilians onto the narrow harbor promenade.",
+        "search": "great fire of smyrna waterfront burning 1922 archival photograph",
+        "caption": "A catastrophic firestorm sweeps through Smyrna, trapping civilians along the seawall."
+      },
+      {
+        "narration": "Allied warships from Britain, France, Italy, and the United States sat anchored merely hundreds of yards offshore under strict diplomatic orders of neutrality. Ship commanders illuminated the burning shoreline with searchlights while sailors watched thousands drown in desperation.",
+        "search": "allied warships in smyrna harbor 1922 archival photograph",
+        "caption": "Allied warships maintain strict neutrality while thousands drown in Smyrna harbor."
+      },
+      {
+        "narration": "By late September, between 10,000 and 100,000 Greek and Armenian civilians had died from fire, drowning, and summary executions along the smoldering quay. The three-millennia-old Hellenic presence in Asia Minor had been completely eradicated in a matter of weeks.",
+        "search": "smyrna refugees crowded on docks 1922 archival photograph",
+        "caption": "Up to 100,000 perish before merchant vessels evacuate surviving refugees."
+      },
+      {
+        "narration": "Back in Athens, furious frontline officers led by Colonel Nikolaos Plastiras launched a military coup on September 27, 1922, blaming the royalist government for the national disaster. Plastiras demanded the immediate abdication of King Constantine I and the arrest of his cabinet ministers.",
+        "search": "colonel nikolaos plastiras portrait 1922 archival photograph",
+        "caption": "Colonel Nikolaos Plastiras launches a coup in Athens demanding royal abdication."
+      },
+      {
+        "narration": "Humiliated and isolated, King Constantine I abdicated the Greek crown on September 27, 1922, and boarded a merchant steamer bound for exile in Sicily. He died of heart failure in a Palermo hotel just four months later.",
+        "search": "king constantine i greece departure exile 1922 archival photograph",
+        "caption": "King Constantine I abdicates and departs into permanent exile in Sicily."
+      },
+      {
+        "narration": "In November 1922, the revolutionary junta launched the infamous 'Trial of the Six,' charging former prime minister Petros Protopapadakis and ousted commander Georgios Hatzianestis with high treason. The tribunal sought scapegoats for the catastrophic military decisions that doomed the Anatolian expedition.",
+        "search": "trial of the six courtroom athens 1922 archival photograph",
+        "caption": "Revolutionary tribunal prosecutes top royalist commanders and ministers for treason."
+      },
+      {
+        "narration": "On November 28, 1922, all six condemned leaders were executed by firing squad at Goudi outside Athens. Yet the bloody executions did nothing to halt the sweeping geopolitical reckoning that was about to permanently redraw the borders of the Mediterranean.",
+        "search": "goudi military execution ground athens 1922 archival photograph",
+        "caption": "Six condemned leaders face execution at Goudi as political unrest escalates."
+      },
+      {
+        "narration": "Disgraced and stripped of authority, King Constantine the First fled Greece once more, dying in exile in Palermo on January 11, 1923. His final months were spent witnessing the complete dismantling of the royal realm his family had governed.",
+        "search": "king constantine i of greece 1922 archival photograph",
+        "caption": "Constantine I died in exile in Palermo in January 1923."
+      },
+      {
+        "narration": "Over one point two million Ottoman Christians flooded across the Aegean into mainland Greece, crammed into battered cargo ships with few belongings. The sudden influx increased Greece's domestic population by more than twenty percent almost overnight.",
+        "search": "greek refugees boat crowded harbor 1922 archival photograph",
+        "caption": "Over 1.2 million refugees fled Anatolia aboard crowded ships."
+      },
+      {
+        "narration": "Makeshift refugee encampments rapidly swallowed Athens and Piraeus, with displaced families sheltering in municipal theaters, train platforms, and canvas tents. Municipal infrastructure buckled as typhus and malnutrition spread through the crowded encampments.",
+        "search": "athens refugee camp tents 1923 archival photo",
+        "caption": "Makeshift tent cities overwhelmed Athens and Piraeus during winter 1922."
+      },
+      {
+        "narration": "In November 1922, diplomats convened at the Swiss resort of Lausanne to officially renegotiate the defunct Treaty of Sèvres. Desperate for diplomatic rescue, the Greek government recalled Eleftherios Venizelos from exile to lead its delegation.",
+        "search": "lausanne conference 1922 delegates table archival photograph",
+        "caption": "The Lausanne Conference opened in November 1922 to rewrite borders."
+      },
+      {
+        "narration": "Across the table sat Turkish general İsmet İnönü, backed by Mustafa Kemal's complete military victory across Anatolia. İnönü repeatedly leveraged his army's territorial triumph to resist demands from British Foreign Secretary Lord Curzon.",
+        "search": "ismet inonu lausanne conference 1923 archival photo",
+        "caption": "İsmet İnönü aggressively contested Allied terms at Lausanne."
+      },
+      {
+        "narration": "On January 30, 1923, Greece and Turkey signed a landmark convention mandating the first compulsory population exchange in modern history. Citizenship and legal residency were severed purely on religious classifications.",
+        "search": "convention concerning exchange of greek and turkish populations 1923 treaty document",
+        "caption": "The mandatory population exchange treaty was signed in January 1923."
+      },
+      {
+        "narration": "Nearly four hundred thousand Muslims were expelled from Greek Macedonia and Crete, while over one million Orthodox Christians were permanently barred from Asia Minor. Three millennia of continuous Greek cultural presence in Anatolia were erased by treaty.",
+        "search": "muslim refugees leaving greece train 1923 archival photo",
+        "caption": "Three millennia of Greek presence in Asia Minor abruptly ended."
+      },
+      {
+        "narration": "Back in Athens, an impoverished treasury and violent factional infighting threatened to spark another civil conflict. The kingdom remained locked in turmoil, reeling from how rapidly its grand imperial ambitions had crumbled.",
+        "search": "athens greek soldiers patrol street 1923 archival photograph",
+        "caption": "Political turmoil and economic ruin gripped Athens in 1923."
+      },
+      {
+        "narration": "In November 1922, an extraordinary Greek military tribunal condemned six former ministers and generals to death by firing squad for high treason. The revolutionary committee blamed royalist incompetence and the disastrous Asia Minor campaign for the state's military annihilation.",
+        "search": "Trial of the Six 1922 archival photograph",
+        "caption": "Greek military tribunal executes six royalist leaders for high treason, 1922."
+      },
+      {
+        "narration": "Forced into abdication for the second time, Constantine I died in exile at Palermo in January 1923 at age fifty-four. The embattled monarchy he sought to restore remained deeply fractured, plagued by recurring political purges and public hostility.",
+        "search": "King Constantine I of Greece portrait photograph",
+        "caption": "Constantine I dies in Italian exile four months after his second abdication."
+      },
+      {
+        "narration": "Former Prime Minister Eleftherios Venizelos had to represent a defeated Greece at the 1923 Lausanne peace conference to salvage whatever national borders remained. The architect of the Megali Idea watched his life's territorial vision collapse into the grim logistics of mass evacuation.",
+        "search": "Eleftherios Venizelos 1923 Lausanne conference archival photo",
+        "caption": "Venizelos negotiates at Lausanne following the total collapse of Greek claims."
+      },
+      {
+        "narration": "Over one million destitute refugees flooded into mainland Greece, setting up squalid shantytowns across Athens and Piraeus. Epidemics of typhus and severe shortages strained the bankrupt state, permanently transforming the demographic makeup of Greek cities.",
+        "search": "Greek refugees Athens 1923 archival photograph",
+        "caption": "Over one million refugees crowd into makeshift settlements across Athens, 1923."
+      },
+      {
+        "narration": "Across the Aegean, Mustafa Kemal capitalized on the Greek rout to abolish the six-century-old Ottoman Sultanate. In October 1923, he proclaimed the modern Republic of Turkey, establishing a secular nation-state from the remnants of imperial Anatolia.",
+        "search": "Mustafa Kemal Ataturk 1923 portrait archival photo",
+        "caption": "Mustafa Kemal proclaims the modern Republic of Turkey in October 1923."
+      },
+      {
+        "narration": "The Asia Minor disaster precipitated a British political crisis in late 1922 known as the Chanak Crisis. Prime Minister David Lloyd George, whose government had fervently backed Greek expansionism against Kemal, was forced to resign as his coalition imploded.",
+        "search": "David Lloyd George 1922 archival photograph",
+        "caption": "Prime Minister David Lloyd George resigns following the 1922 Chanak Crisis."
+      },
+      {
+        "narration": "Winston Churchill later analyzed the catastrophic chain of events in his multi-volume history of the era, *The Aftermath*. He observed with bitter irony that it was no exaggeration to state that a quarter of a million people died from that single monkey bite.",
+        "search": "Winston Churchill 1920s archival photo",
+        "caption": "Churchill records that a quarter of a million died from the bite."
+      },
+      {
+        "narration": "Historians continue to examine the morning encounter at Tatoi Palace as one of the twentieth century's starkest examples of the butterfly effect. Had King Alexander pulled his dog back seconds earlier on October 2, 1920, the entire political landscape of the eastern Mediterranean might have taken a radically different course.",
+        "search": "Tatoi Palace gardens archival photograph",
+        "caption": "An isolated morning incident at Tatoi Palace reshaped twentieth-century Mediterranean borders."
+      },
+      {
+        "narration": "Following Alexander's death and Constantine's restoration, France and Italy signed separate pacts with Mustafa Kemal's Grand National Assembly in 1921. Britain maintained lukewarm rhetorical support for Athens but abruptly terminated direct financial credits and military shipments.",
+        "search": "Franklin-Bouillon Treaty signing Ankara 1921 archival photograph",
+        "caption": "Allies severed Greek credit and signed separate accords with Turkish nationalists."
+      },
+      {
+        "narration": "A single monkey bite destroyed an entire empire.",
+        "search": "King Alexander of Greece 1920 archival portrait photograph",
+        "caption": "A single animal bite altered twentieth-century European history."
+      },
+      {
+        "narration": "In October 1920, Greece stood on the verge of realizing the Megali Idea, securing Anatolian lands with British backing. King Alexander governed in Athens, securing Allied military trust.",
+        "search": "Megali Idea 1920 historical border map archival engraving",
+        "caption": "In 1920, Greece stood poised to expand across the Aegean."
+      },
+      {
+        "narration": "On October 2, 1920, twenty-seven-year-old King Alexander walked his dog through the royal grounds at Tatoi Palace. When an estate keeper's Barbary macaque attacked his German Shepherd, Alexander stepped in to separate them.",
+        "search": "Tatoi Palace royal estate 1920 archival photograph",
+        "caption": "King Alexander intervened in an animal fight at Tatoi Palace."
+      },
+      {
+        "narration": "A second macaque ambushed the king, sinking deep fangs into his legs and torso. Royal doctors applied iodine but refused to perform an amputation, terrified of disfiguring the sovereign.",
+        "search": "Barbary macaque historical zoological engraving",
+        "caption": "Deep bite wounds went unamputated to preserve the king's appearance."
+      },
+      {
+        "narration": "Deadly bacteria flooded Alexander's bloodstream, producing intractable sepsis and severe fever. After three weeks of agony, the king died on October 25, 1920, creating a sudden succession crisis.",
+        "search": "King Alexander of Greece funeral procession 1920 archival photograph",
+        "caption": "King Alexander died of severe sepsis on October 25, 1920."
+      },
+      {
+        "narration": "Alexander's sudden demise sparked immediate political chaos, toppling the pro-Allied Prime Minister Eleftherios Venizelos in the November elections. Royalists seized power and organized a vote to recall the exiled former monarch.",
+        "search": "Eleftherios Venizelos 1920 archival portrait photograph",
+        "caption": "Prime Minister Venizelos was defeated in snap elections weeks later."
+      },
+      {
+        "narration": "King Constantine the First returned to Athens, outraging Britain, France, and Italy due to his previous pro-German loyalties. In response, the Allies cut off all financial credits and military munitions to Greek forces fighting in Anatolia.",
+        "search": "King Constantine I of Greece archival uniform portrait photograph",
+        "caption": "The return of King Constantine I alienated vital Allied military backers."
+      },
+      {
+        "narration": "Defying warnings, Constantine purged Allied-trained generals from the front and launched an isolated advance deep toward Ankara. Hundreds of thousands of soldiers were marching straight into an unfolding military catastrophe.",
+        "search": "Greco-Turkish War Greek infantry frontline 1921 archival photograph",
+        "caption": "Purged Greek forces advanced isolated into the Anatolian interior."
+      },
+      {
+        "narration": "In July 1921, the Greek army pressed east across the scorching Anatolian plateau, stretching supply lines over three hundred miles from coastal ports. With supply wagons failing in the dust, soldiers ran dangerously low on water, ammunition, and rations.",
+        "search": "greco turkish war 1921 greek soldiers marching archival photo",
+        "caption": "Greek forces advanced 300 miles into Anatolia, outrunning their vital supply lines."
+      },
+      {
+        "narration": "Waiting behind the Sakarya River was Mustafa Kemal, who fortified defensive ridges and concentrated Turkish nationalist forces for an existential stand. Kemal ordered his troops to hold every inch of ground until the enemy's offensive momentum broke.",
+        "search": "mustafa kemal ataturk 1921 battle sakarya archival photo",
+        "caption": "Mustafa Kemal mobilized nationalist forces behind the natural barrier of Sakarya River."
+      },
+      {
+        "narration": "On August 23, 1921, the Battle of the Sakarya commenced, devolving into twenty-one days of ferocious trench warfare and artillery duels. Greek assaults repeatedly shattered against dug-in Turkish positions, bleeding frontline regiments dry.",
+        "search": "battle of sakarya 1921 artillery trench archival photo",
+        "caption": "The Battle of the Sakarya raged for 21 days in brutal trenches."
+      },
+      {
+        "narration": "Exhausting their artillery shells and medical supplies, the Greek high command ordered an emergency retreat westward on September 13. What began as an orderly withdrawal quickly degraded into a grueling, demoralized march across scorched terrain.",
+        "search": "greek army retreat asia minor 1921 archival photo",
+        "caption": "Out of ammunition and medical supplies, Greek forces began a grueling retreat."
+      },
+      {
+        "narration": "Over the winter of 1921, the Greek expeditionary force froze in static defensive lines while political gridlock paralyzed the cabinet in Athens. Denied Allied loans and military credit, Greece faced sovereign bankruptcy and surging desertion rates.",
+        "search": "athens greece 1922 political unrest crowd archival photo",
+        "caption": "Bankruptcy and political chaos paralyzed Athens as frontline morale collapsed completely."
+      },
+      {
+        "narration": "By late August 1922, Mustafa Kemal had secretly amassed massed artillery and cavalry divisions along the vulnerable Afyon sector. On August 26, the Turkish army launched the Great Offensive, piercing Greek defensive lines within hours.",
+        "search": "turkish army cavalry great offensive 1922 archival photo",
+        "caption": "On August 26, 1922, Turkish forces launched the crushing Great Offensive."
+      },
+      {
+        "narration": "At the Battle of Dumlupınar, Turkish columns encircled half of the Greek forces, capturing newly appointed Commander-in-Chief Nikolaos Trikoupis. The remaining Greek units collapsed into an undisciplined rout, fleeing headlong toward the Aegean Sea.",
+        "search": "general nikolaos trikoupis prisoner of war 1922 archival photo",
+        "caption": "Greek commanders were captured as frontline divisions disintegrated into total panic."
+      },
+      {
+        "narration": "By early September 1922, tens of thousands of retreating soldiers and terrified Christian refugees converged on the port city of Smyrna. With Turkish cavalry closing in behind them, desperate crowds packed the waterfront awaiting evacuation ships that had yet to arrive.",
+        "search": "smyrna harbor refugees crowded quayside 1922 archival photo",
+        "caption": "Trapped refugees and retreating soldiers flooded the Smyrna waterfront as cavalry approached."
+      },
+      {
+        "narration": "On September 9, 1922, Turkish cavalry entered Smyrna, cementing Mustafa Kemal's control over mainland Anatolia. As Greek military units evacuated by sea, tens of thousands of Armenian and Greek civilians remained trapped on the docks.",
+        "search": "turkish cavalry entering smyrna september 1922 archival photograph",
+        "caption": "Turkish cavalry enters Smyrna on September 9, 1922."
+      },
+      {
+        "narration": "Twenty-one Allied warships anchored in Smyrna's harbor maintained strict neutrality, watching the shoreline without intervening. Foreign commanders held orders to safeguard only their own nationals while thousands pleaded for rescue from the quayside.",
+        "search": "allied battleships moored in smyrna harbor 1922 archival photograph",
+        "caption": "Allied warships maintain strict neutrality in Smyrna harbor, September 1922."
+      },
+      {
+        "narration": "On September 13, 1922, fires erupted across Smyrna's Armenian quarter and rapidly merged into a single catastrophic conflagration. Propelled by southern winds, the blaze consumed Christian neighborhoods while driving panic-stricken survivors toward the sea.",
+        "search": "great fire of smyrna burning buildings 1922 archival photograph",
+        "caption": "The Great Fire of Smyrna breaks out on September 13, 1922."
+      },
+      {
+        "narration": "The inferno transformed the two-mile waterfront into an inescapable furnace, trapping over two hundred thousand refugees along the sea wall. Intense heat scorched crowds pressed against the water's edge, suffocating hundreds before rescue operations could be mounted.",
+        "search": "refugees crowd smyrna waterfront quay fire 1922 archival photograph",
+        "caption": "Over 200,000 refugees trapped on the burning Smyrna waterfront."
+      },
+      {
+        "narration": "Desperate families leaped into the sea as smoldering debris collapsed overhead, clinging to makeshift rafts and capsized dinghies. Cries echoed across the harbor throughout the night, audible aboard neutral foreign warships anchored mere hundreds of yards offshore.",
+        "search": "smyrna harbor refugees in water small boats 1922 archival photograph",
+        "caption": "Refugees leap into the harbor waters to escape advancing flames."
+      },
+      {
+        "narration": "An American YMCA worker named Asa Jennings secured merchant ships to begin an emergency sea rescue of trapped civilians. Between September 24 and October 1, this improvised flotilla evacuated over two hundred and fifty thousand refugees across the Aegean Sea to Greece.",
+        "search": "asa jennings portrait photograph 1920s",
+        "caption": "Asa Jennings organizes emergency evacuation ships for stranded refugees."
+      },
+      {
+        "narration": "In Athens, enraged military officers led by Colonel Nikolaos Plastiras launched an armed coup on September 26, 1922, blaming the monarchy for the catastrophe. Royalist leaders were arrested as revolutionary troops marched on the capital demanding King Constantine's permanent removal.",
+        "search": "colonel nikolaos plastiras greek military uniform 1922 archival photograph",
+        "caption": "Greek officers launch a military coup following the Asia Minor disaster."
+      },
+      {
+        "narration": "On September 27, 1922, King Constantine I abdicated for the second time and fled into exile aboard a merchant vessel. Behind him, the collapse triggered by a garden animal bite now left Greece stripped of its territory and teetering on political collapse.",
+        "search": "king constantine i of greece boarding ship exile 1922 archival photograph",
+        "caption": "King Constantine I abdicates and departs Greece into exile."
+      },
+      {
+        "narration": "With King Constantine banished, Colonel Nikolaos Plastiras established a military dictatorship in Athens to purge royalist influence. The revolutionary committee arrested eight senior cabinet members and army chiefs, holding them responsible for the disaster in Anatolia.",
+        "search": "Nikolaos Plastiras archival photograph 1922",
+        "caption": "Colonel Nikolaos Plastiras takes military control of Athens in late 1922."
+      },
+      {
+        "narration": "On October 31, 1922, the revolutionary tribunal initiated the Trial of the Six inside the Greek Parliament. Former prime minister Dimitrios Gounaris and top commander Georgios Hatzianestis were charged with high treason for sacrificing the army.",
+        "search": "Dimitrios Gounaris trial archival photograph 1922",
+        "caption": "Former prime minister Dimitrios Gounaris stands trial for treason in Athens."
+      },
+      {
+        "narration": "On November 28, 1922, the military tribunal delivered its verdict of death, leading six convicted officials to the Goudi barracks. Within hours, a firing squad executed Gounaris, four fellow ministers, and General Hatzianestis in the morning cold.",
+        "search": "Goudi execution site archival photograph 1922",
+        "caption": "Six condemned royalist leaders are executed by firing squad at Goudi."
+      },
+      {
+        "narration": "The hasty executions provoked international outrage, prompting the British government to immediately sever diplomatic relations with Athens. Greece found itself completely isolated on the world stage, with no foreign power willing to defend its territorial claims.",
+        "search": "British legation Athens archival photograph 1922",
+        "caption": "Britain cuts diplomatic ties with Greece following the controversial executions."
+      },
+      {
+        "narration": "At Mudanya on October 11, 1922, Allied representatives had already signed an armistice directly with Turkish nationalist commanders. Greek representatives were excluded from drafting the terms, which ordered Greece to surrender Eastern Thrace entirely.",
+        "search": "Armistice of Mudanya archival photograph 1922",
+        "caption": "The Mudanya Armistice forces Greece to abandon Eastern Thrace in 1922."
+      },
+      {
+        "narration": "Throughout October and November 1922, over 250,000 ethnic Greeks evacuated Eastern Thrace in endless convoys of wooden ox carts. Entire communities abandoned ancestral farmlands, fleeing west across the Maritsa River before Turkish gendarmes arrived.",
+        "search": "Greek refugees Eastern Thrace ox carts archival photograph 1922",
+        "caption": "A quarter-million Greek civilians evacuate Eastern Thrace under Allied supervision."
+      },
+      {
+        "narration": "Desperate for diplomatic rescue, the revolutionary government summoned former prime minister Eleftherios Venizelos out of exile to lead Greek negotiations in Switzerland. On November 20, 1922, the Lausanne Conference officially opened to draft a replacement for the shattered Treaty of Sevres.",
+        "search": "Eleftherios Venizelos Lausanne Conference archival photograph 1922",
+        "caption": "Venizelos represents defeated Greece at the Lausanne Conference in Switzerland."
+      },
+      {
+        "narration": "Across the negotiating table stood Turkish general Ismet Inonu, fortified by Mustafa Kemal's complete military victory in the field. Inonu rejected every Allied concession, demanding absolute Turkish sovereignty and massive monetary reparations that Greece could not pay.",
+        "search": "Ismet Inonu Lausanne Conference archival photograph 1922",
+        "caption": "Ismet Inonu demands full Turkish sovereignty and war indemnities at Lausanne."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-10T18:09:10.707133+00:00",
+    "updated_at": "2026-10-10T18:20:34.854807+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "49 scenes",
+        "at": "2026-10-10T18:11:36.629967+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4821 chars",
+        "at": "2026-10-10T18:11:50.039137+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "296.2s en-US-GuyNeural 49 cau",
+        "at": "2026-10-10T18:12:06.478085+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-10T18:12:12.562914+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-10T18:16:58.135448+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-10T18:16:58.161888+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 296.2s 84950596 bytes",
+        "at": "2026-10-10T18:20:34.608835+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "8 chapters",
+        "at": "2026-10-10T18:20:34.665671+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-10T18:20:34.854794+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/11684635/pexels-photo-11684635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32946339/pexels-photo-32946339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16828885/pexels-photo-16828885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35465140/pexels-photo-35465140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/132447/pexels-photo-132447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11722768/pexels-photo-11722768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8664951/pexels-photo-8664951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2147081/pexels-photo-2147081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9084385/pexels-photo-9084385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39273617/pexels-photo-39273617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12034217/pexels-photo-12034217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35998223/pexels-photo-35998223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10092613/pexels-photo-10092613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17994237/pexels-photo-17994237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12112422/pexels-photo-12112422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29356726/pexels-photo-29356726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31415466/pexels-photo-31415466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6376180/pexels-photo-6376180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34393130/pexels-photo-34393130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6003823/pexels-photo-6003823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16707872/pexels-photo-16707872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10338221/pexels-photo-10338221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32564789/pexels-photo-32564789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39047634/pexels-photo-39047634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9547376/pexels-photo-9547376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8611540/pexels-photo-8611540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1915941/pexels-photo-1915941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9107395/pexels-photo-9107395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4819698/pexels-photo-4819698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37732188/pexels-photo-37732188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28716972/pexels-photo-28716972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37157328/pexels-photo-37157328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/803946/pexels-photo-803946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7342756/pexels-photo-7342756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19976723/pexels-photo-19976723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34024848/pexels-photo-34024848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2305765/pexels-photo-2305765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35966590/pexels-photo-35966590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14371229/pexels-photo-14371229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1999352/pexels-photo-1999352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29440293/pexels-photo-29440293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1989747/pexels-photo-1989747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13748598/pexels-photo-13748598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33490120/pexels-photo-33490120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28776214/pexels-photo-28776214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8696373/pexels-photo-8696373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1596882/pexels-photo-1596882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6274899/pexels-photo-6274899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17323743/pexels-photo-17323743.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2678374/pexels-photo-2678374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30390051/pexels-photo-30390051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35525037/pexels-photo-35525037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10484347/pexels-photo-10484347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4352454/pexels-photo-4352454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28807915/pexels-photo-28807915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29431016/pexels-photo-29431016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32054769/pexels-photo-32054769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33490121/pexels-photo-33490121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31329630/pexels-photo-31329630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7183525/pexels-photo-7183525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268898/pexels-photo-9268898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4451522/pexels-photo-4451522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37165218/pexels-photo-37165218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35696730/pexels-photo-35696730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27299346/pexels-photo-27299346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32652775/pexels-photo-32652775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11490330/pexels-photo-11490330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36341641/pexels-photo-36341641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30045714/pexels-photo-30045714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19653357/pexels-photo-19653357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8648413/pexels-photo-8648413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5842/people-vintage-photo-memories.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11866393/pexels-photo-11866393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15265515/pexels-photo-15265515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9015673/pexels-photo-9015673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14501617/pexels-photo-14501617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13833052/pexels-photo-13833052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18317486/pexels-photo-18317486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3200145/pexels-photo-3200145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0886901bf1",
     "kind": "short",
     "channel": "Channel3",
