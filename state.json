@@ -1,5 +1,161 @@
 [
   {
+    "id": "d9ab370fb5",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Executed Her Own Royal Guard",
+    "idea": {
+      "title": "The Queen Who Executed Her Own Royal Guard",
+      "hook": "When Queen Hatshepsut discovered her closest general was plotting behind her back, she didn't banish him—she invited him to a grand banquet and served a terrifying surprise.",
+      "beats": [
+        "Introduction of Queen Hatshepsut's rise to absolute power in ancient Egypt.",
+        "The discovery of the royal guard's secret treason and betrayal.",
+        "The fatal banquet where the trap was silently sprung.",
+        "The chilling aftermath that secured her throne for decades."
+      ],
+      "keywords": [
+        "ancient egypt painting",
+        "egyptian queen portrait",
+        "royal court engraving",
+        "ancient throne bust",
+        "historical palace interior"
+      ],
+      "tags": [
+        "history",
+        "ancientegypt",
+        "shorts",
+        "documentary",
+        "queens"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Egypt's greatest female pharaoh execute her bodyguard?",
+        "search": "hatshepsut portrait statue bust",
+        "caption": "Why Egypt's Pharaoh Executed Her Guard"
+      },
+      {
+        "narration": "In 1479 BC, Queen Hatshepsut seized power in Egypt, establishing a prosperous golden age.",
+        "search": "ancient egypt temple relief carving",
+        "caption": "1479 BC: Hatshepsut Seizes Control"
+      },
+      {
+        "narration": "To safeguard her divine authority, she relied on elite commanders stationed in Thebes.",
+        "search": "ancient egyptian warrior relief carving",
+        "caption": "Elite Guards Protect The Throne"
+      },
+      {
+        "narration": "By 1470 BC, royal informants uncovered a high-level conspiracy led by her chief guard.",
+        "search": "ancient royal court engraving",
+        "caption": "1470 BC: Plot Discovered"
+      },
+      {
+        "narration": "A sudden coup threatened to plunge the entire empire into a brutal civil war.",
+        "search": "egyptian battle wall painting",
+        "caption": "Threat Of Civil War"
+      },
+      {
+        "narration": "Instead of arresting the traitor, Hatshepsut summoned him to a private royal banquet.",
+        "search": "historical palace interior painting",
+        "caption": "A Royal Banquet Invitation"
+      },
+      {
+        "narration": "During the feast, servants produced a sealed chest containing direct evidence of his treason.",
+        "search": "ancient egypt banquet fresco painting",
+        "caption": "Evidence Of Treason Exposed"
+      },
+      {
+        "narration": "Before the general could respond, armed loyalists surrounded him in the shadows.",
+        "search": "egyptian queen portrait painting",
+        "caption": "Guards Seize The General"
+      },
+      {
+        "narration": "Without hesitating, Queen Hatshepsut ordered the immediate execution of her chief general right inside the banquet hall.",
+        "search": "royal court engraving ancient egypt",
+        "caption": "Queen Hatshepsut ordered his immediate execution before the royal court."
+      },
+      {
+        "narration": "By eliminating her top military commander in full view of the nobility, she crushed the conspiracy before a civil war could ignite.",
+        "search": "historical palace interior painting egypt",
+        "caption": "The swift purge crushed the rebellion before a single battle began."
+      },
+      {
+        "narration": "Queen Hatshepsut secured her throne uncontested until her death in 1458 BC, proving her absolute power was absolute.",
+        "search": "egyptian queen portrait painting ruled",
+        "caption": "Hatshepsut ruled uncontested until 1458 BC through calculated, lethal precision."
+      },
+      {
+        "narration": "Did Egypt’s female pharaoh poison her top general at dinner?",
+        "search": "Hatshepsut statue bust close up ancient egypt",
+        "caption": "Did Hatshepsut poison her own general?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T21:03:55.771127+00:00",
+    "updated_at": "2026-10-11T21:08:45.518829+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-11T21:05:19.501320+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "388 chars (cat 296 de vua 55s)",
+        "at": "2026-10-11T21:06:24.151425+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-11T21:06:27.441011+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T21:06:28.704635+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-11T21:08:02.223252+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T21:08:02.271091+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 9722486 bytes",
+        "at": "2026-10-11T21:08:45.277007+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T21:08:45.518798+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3214970/pexels-photo-3214970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991563/pexels-photo-18991563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991553/pexels-photo-18991553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17778651/pexels-photo-17778651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33460770/pexels-photo-33460770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36979090/pexels-photo-36979090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726185/pexels-photo-23726185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30583893/pexels-photo-30583893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24596032/pexels-photo-24596032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36035554/pexels-photo-36035554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15537291/pexels-photo-15537291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15537290/pexels-photo-15537290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6e5d83d537",
     "kind": "short",
     "channel": "Channel3",
