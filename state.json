@@ -1,5 +1,167 @@
 [
   {
+    "id": "df82170674",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm xả bồn cầu mở nắp đang âm thầm rải vi khuẩn",
+    "idea": {
+      "title": "Sai lầm xả bồn cầu mở nắp đang âm thầm rải vi khuẩn",
+      "hook": "Mỗi lần giật nước bồn cầu mà quên đậy nắp, bạn thực chất đang kích hoạt một vụ phun trào khí dung vô hình phủ kín cả nhà tắm.",
+      "beats": [
+        "Áp lực xả nước cực mạnh tạo ra hàng triệu hạt khí dung li ti mang vi khuẩn E. coli bắn cao tới gần 2 mét trong không khí.",
+        "Những hạt bụi nước mang mầm bệnh này có thể lơ lửng suốt nhiều giờ trước khi rơi xuống bề mặt đồ vật xung quanh.",
+        "Vị trí tiếp đất ưa thích nhất của chúng chính là khăn mặt và chiếc bàn chải đánh răng ẩm ướt bạn dùng mỗi sáng.",
+        "Chỉ một thói quen nhỏ: gập nắp bồn cầu xuống trước khi nhấn xả sẽ chặn đứng hơn 90% lượng vi khuẩn phát tán."
+      ],
+      "keywords": [
+        "toilet flushing slow motion",
+        "bacteria aerosol spray",
+        "bathroom hygiene clean",
+        "toothbrush close up wet",
+        "microscopic bacteria 3d animation"
+      ],
+      "tags": [
+        "#kienthucdoisong",
+        "#suckhoe",
+        "#meovatgiadinh",
+        "#thoi quen",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Xả bồn cầu mở nắp phát tán hàng triệu vi khuẩn.",
+        "search": "hoat hinh 3d xa nuoc bon cau tia nuoc ban",
+        "caption": "Xả bồn cầu mở nắp cực kỳ bẩn"
+      },
+      {
+        "narration": "Lực xoáy cực mạnh biến nước thải thành luồng bụi khí dung vô hình phụt thẳng lên trần nhà.",
+        "search": "mo phong 3d luong khi dung bay len tu bon cau",
+        "caption": "Lực xoáy tạo ra luồng bụi khí dung"
+      },
+      {
+        "narration": "Những cột bụi nước mang vi khuẩn này có thể bắn vọt cao tới gần 2 mét với vận tốc 2 mét mỗi giây.",
+        "search": "3d animation thuoc do do cao cot nuoc phong len",
+        "caption": "Hạt nước bắn cao tới 2 mét"
+      },
+      {
+        "narration": "Ẩn bên trong mỗi hạt bụi li ti là hàng ngàn vi khuẩn E. coli và mầm bệnh đường ruột.",
+        "search": "hoat hinh 3d vi khuan e coli phong to chuyen dong",
+        "caption": "Mang theo vi khuẩn E coli gây bệnh"
+      },
+      {
+        "narration": "Do kích thước siêu nhỏ, đám mây vi khuẩn này không rơi ngay mà trôi nổi lơ lửng trong không khí suốt nhiều giờ.",
+        "search": "mo phong hat bui vi khuan bay lo lung trong phong",
+        "caption": "Lơ lửng trong phòng tắm suốt nhiều giờ"
+      },
+      {
+        "narration": "Điểm tiếp đất yêu thích nhất của chúng lại chính là bề mặt ẩm ướt của chiếc bàn chải đánh răng bạn dùng mỗi ngày.",
+        "search": "can canh 3d ban chai danh rang bi vi khuan bam vao",
+        "caption": "Bàn chải đánh răng là nơi tiếp đất"
+      },
+      {
+        "narration": "Cả chiếc khăn mặt treo cạnh đó cũng hứng trọn lớp bụi bẩn mà mắt thường hoàn toàn không thể nhìn thấy.",
+        "search": "hoat hinh khan mat treo tren gia co vi khuan bam",
+        "caption": "Khăn mặt cũng bị phủ kín vi khuẩn"
+      },
+      {
+        "narration": "Vậy điều gì sẽ xảy ra với cơ thể khi bạn đưa chiếc bàn chải nhiễm khuẩn đó vào miệng mỗi sáng?",
+        "search": "hoat hinh 3d nguoi cam ban chai danh rang lo lang",
+        "caption": "Nguy cơ nào đang chờ bạn mỗi sáng"
+      },
+      {
+        "narration": "Vi khuẩn E. coli và tụ cầu khuẩn từ bàn chải xâm nhập thẳng vào niêm mạc miệng, dễ gây viêm nướu và rối loạn tiêu hóa.",
+        "search": "hoat hinh 3d vi khuan tan cong khoang mieng rang",
+        "caption": "Vi khuẩn bồn cầu xâm nhập trực tiếp khoang miệng"
+      },
+      {
+        "narration": "Đáng sợ hơn, môi trường ẩm ướt trong phòng tắm giúp những mầm bệnh này sống sót và nhân đôi liên tục suốt 48 giờ.",
+        "search": "do hoa chuyen dong vi khuan sinh soi tren be mat am uot",
+        "caption": "Môi trường ẩm ướt nuôi vi khuẩn tới 48 giờ"
+      },
+      {
+        "narration": "Nếu bạn đặt bàn chải cách bồn cầu dưới 1 mét rưỡi, lượng vi khuẩn bám vào sợi lông bàn chải sẽ tăng vọt gấp 4 lần.",
+        "search": "hoat hinh 3d ban chai danh rang canh bon cau nha ve sinh",
+        "caption": "Để gần bồn cầu khiến vi khuẩn bám gấp 4 lần"
+      },
+      {
+        "narration": "Tuy nhiên, bạn hoàn toàn không cần tốn tiền mua máy khử trùng đắt đỏ để loại bỏ mối nguy này.",
+        "search": "hoat hinh 3d tay nguoi dong nap bon cau",
+        "caption": "Giải pháp ngăn chặn vi khuẩn hoàn toàn miễn phí"
+      },
+      {
+        "narration": "Chỉ cần gập nắp bồn cầu trước mỗi lần nhấn xả, bạn đã chặn đứng hơn 90% lượng vi khuẩn phát tán ra không khí.",
+        "search": "hoat hinh 3d tia nuoc bi chan boi nap bon cau sach se",
+        "caption": "Đậy nắp trước khi xả chặn 90% vi khuẩn phát tán"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T11:07:08.781191+00:00",
+    "updated_at": "2026-10-11T11:09:39.082543+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-11T11:07:37.200417+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "499 chars",
+        "at": "2026-10-11T11:08:43.332957+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.5s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-11T11:08:49.540814+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T11:08:50.623092+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-11T11:09:00.187522+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-11T11:09:00.229413+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.5s 10174077 bytes",
+        "at": "2026-10-11T11:09:38.894042+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T11:09:39.082531+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/14113561/14113561-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7988633/7988633-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/7230866/7230866-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283132/15283132-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36403963/15437314_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/32383407/13812535_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6841974/6841974-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283131/15283131-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/6528846/6528846-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/38522688/16360560_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/10574089/10574089-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819485/8819485-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6622806/6622806-hd_720_1280_24fps.mp4"
+    ]
+  },
+  {
     "id": "1a2cda5e4b",
     "kind": "short",
     "channel": "Channel2",
