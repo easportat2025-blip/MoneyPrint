@@ -1,5 +1,162 @@
 [
   {
+    "id": "7a460385ea",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Persian King Who Cloned His Enemy's City",
+    "idea": {
+      "title": "The Persian King Who Cloned His Enemy's City",
+      "hook": "In 540 AD, Persian King Khosrow sacked the Roman city of Antioch, but instead of butchering the survivors, he unleashed history's pettiest psychological revenge.",
+      "beats": [
+        "After storming the Roman Empire's crown jewel, Khosrow ordered royal architects to sketch every single street, bathhouse, and garden.",
+        "He marched thousands of captive Roman citizens deep into Persian territory near modern-day Baghdad.",
+        "There, he unveiled a brand-new city constructed as an exact, brick-by-brick replica of Antioch, down to the original street layout.",
+        "He named it 'Weh-Antiok-Khosrow'—literally 'Khosrow's Better Antioch'—and let residents walk right into duplicate versions of their old homes."
+      ],
+      "keywords": [
+        "Khosrow I Sasanian King portrait",
+        "Sack of Antioch Byzantine engraving",
+        "Taq Kasra Ctesiphon ruins antique",
+        "Byzantine Roman Empire map 540 AD",
+        "Persian cavalry relief sculpture"
+      ],
+      "tags": [
+        "history",
+        "ancienthistory",
+        "persianempire",
+        "romanempire",
+        "byzantine",
+        "weirdhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Persian king once cloned an entire enemy city.",
+        "search": "Khosrow I Sasanian silver coin portrait antique",
+        "caption": "A Persian king cloned an entire Roman city."
+      },
+      {
+        "narration": "In 540 AD, Sasanian Emperor Khosrow the First breached Antioch, the jewel of the Byzantine Empire.",
+        "search": "Byzantine Antioch city walls antique engraving",
+        "caption": "In 540 AD, Persian forces breached Roman Antioch."
+      },
+      {
+        "narration": "Rather than merely looting the metropolis, Khosrow ordered royal surveyors to measure every street, bathhouse, and villa.",
+        "search": "ancient surveyor architectural tools manuscript illustration",
+        "caption": "Persian architects recorded every street and bathhouse layout."
+      },
+      {
+        "narration": "Tens of thousands of Roman citizens were marched in chains over five hundred miles across the Syrian desert.",
+        "search": "ancient prisoners of war Persian relief sculpture",
+        "caption": "Thousands of Roman citizens were marched into Persian territory."
+      },
+      {
+        "narration": "Byzantine Emperor Justinian presumed his subjects were condemned to imperial salt mines or lifelong slavery.",
+        "search": "Justinian I Byzantine mosaic Ravenna portrait",
+        "caption": "Emperor Justinian expected his subjects would face enslavement."
+      },
+      {
+        "narration": "Instead, the captives arrived beside the Tigris River, right outside the Persian capital of Ctesiphon.",
+        "search": "Taq Kasra arch Ctesiphon ruins antique 19th century photo",
+        "caption": "The captives arrived outside the Persian capital of Ctesiphon."
+      },
+      {
+        "narration": "Rising before them was a newly built city that looked disturbingly familiar down to the exact paved avenues.",
+        "search": "ancient Roman style colonnaded street archaeological site",
+        "caption": "A brand-new city mirrored Antioch down to the stones."
+      },
+      {
+        "narration": "Khosrow had recreated their conquered homes brick by brick, but his royal decree held a psychological twist.",
+        "search": "Khosrow I enthroned Sasanian rock relief Naqsh-e Rostam",
+        "caption": "Khosrow cloned their homes, preparing a psychological twist."
+      },
+      {
+        "narration": "Khosrow directed each captive family into a home mirroring their exact Antioch floor plan, complete with functioning Roman baths and chariot teams.",
+        "search": "ancient Roman Antioch mosaic floor excavation",
+        "caption": "Captive citizens were assigned exact replicas of their seized Roman homes."
+      },
+      {
+        "narration": "He christened the city Weh-Antiok-Khosrow, meaning 'Khosrow’s Better Antioch', legally making the Romans free citizens under Persian protection.",
+        "search": "Taq Kasra arch Ctesiphon antique engraving 1800s",
+        "caption": "Khosrow named the duplicate city 'Better Antioch,' humiliating the Byzantine emperor."
+      },
+      {
+        "narration": "By reconstructing their metropolis beside his own capital, Khosrow delivered history's ultimate insult: proving he could govern Rome better than Rome could.",
+        "search": "Khosrow I Sasanian king silver drachm coin macro",
+        "caption": "Khosrow proved he could govern Rome better than the Caesars themselves."
+      },
+      {
+        "narration": "In 540 AD, a Persian king cloned his enemy's capital.",
+        "search": "Khosrow I Sasanian King bust statue",
+        "caption": "In 540 AD, a king cloned his rival's city"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T01:07:02.743539+00:00",
+    "updated_at": "2026-10-11T01:09:40.252149+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-11T01:07:25.995114+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "362 chars (cat 217 de vua 55s)",
+        "at": "2026-10-11T01:07:40.809587+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.9s en-US-GuyNeural 5 cau",
+        "at": "2026-10-11T01:07:42.626846+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T01:07:43.304021+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-11T01:09:13.772780+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T01:09:13.806704+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.9s 10972270 bytes",
+        "at": "2026-10-11T01:09:40.061246+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T01:09:40.252131+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3222684/pexels-photo-3222684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39488054/pexels-photo-39488054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15850550/pexels-photo-15850550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37895010/pexels-photo-37895010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36963694/pexels-photo-36963694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31598241/pexels-photo-31598241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18717613/pexels-photo-18717613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34227860/pexels-photo-34227860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29821316/pexels-photo-29821316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40038264/pexels-photo-40038264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38598954/pexels-photo-38598954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8052045/pexels-photo-8052045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9b3dffebf3",
     "kind": "short",
     "channel": "Channel2",
