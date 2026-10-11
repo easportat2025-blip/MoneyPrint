@@ -1,5 +1,599 @@
 [
   {
+    "id": "766bd2f0fd",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Ball of the Burning Men: France's Deadliest Royal Masquerade",
+    "idea": {
+      "title": "The Ball of the Burning Men: France's Deadliest Royal Masquerade",
+      "hook": "In January 1393, King Charles VI of France watched four of his closest companions burn alive inside a crowded palace hall—all because of a drunken prince and a single misplaced torch.",
+      "beats": [
+        "In early 1393, the French court gathered at the Hôtel Saint-Pol in Paris to celebrate the remarriage of a royal lady-in-waiting, seeking to lift the spirits of the mentally unstable King Charles VI.",
+        "Courtier Huguet de Guisay proposed a scandalous charivari performance where the King and five high-ranking nobles would disguise themselves as mythical forest wild men.",
+        "The six performers were sewn directly into tight-fitting linen suits coated in pine resin, pitch, and shaggy combed flax, creating an unrecognizable but lethally flammable second skin.",
+        "Recognizing the extreme fire hazard of the pitch-covered costumes, palace guards were ordered to bar all torches and open flames from the banquet hall prior to the dance.",
+        "The disguised dancers burst into the grand hall linked together with iron chains, chanting wildly and leaping through the audience while guests tried to guess their identities.",
+        "The King broke away from the chain to playfully taunt his 14-year-old aunt, the Duchess of Berry, leaving the remaining five dancers huddled together in the center of the room.",
+        "The King's arrogant and heavily intoxicated brother, Louis, Duke of Orléans, arrived late with his entourage carrying burning torches in direct defiance of the royal safety decree.",
+        "Intrigued and desperate to unmask the performers, the Duke held a blazing torch inches from a dancer's face, accidentally letting a stray ember fall onto the flax bodysuit.",
+        "Within seconds, pitch and resin transformed the five chained nobles into a towering inferno of screaming human torches, the melting resin fusing directly to their flesh.",
+        "The Duchess of Berry acted instantly, throwing her voluminous velvet train over King Charles VI to smother incoming sparks, shielding the French monarch from the blaze.",
+        "One dancer broke his chains and leapt into an enormous tub of dishwater and wine dregs, surviving with severe burns, while the remaining four burned to death on the ballroom floor.",
+        "The disaster, remembered as the Bal des Ardents (Ball of the Burning Men), triggered violent Parisian riots and shattered Charles VI's fragile sanity forever, pushing France deeper into the Hundred Years' War."
+      ],
+      "keywords": [
+        "Bal des Ardents",
+        "Charles VI of France",
+        "medieval history",
+        "Duke of Orleans",
+        "Hôtel Saint-Pol",
+        "medieval disaster",
+        "French monarchy",
+        "Hundred Years War",
+        "House of Valois",
+        "dark history documentary"
+      ],
+      "tags": [
+        "Bal des Ardents",
+        "Charles VI",
+        "Medieval History",
+        "Dark History",
+        "French Monarchy",
+        "History Documentary",
+        "Middle Ages",
+        "Royal Scandals",
+        "Medieval Tragedy",
+        "European History"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE ROYAL INFERNO: 1393"
+    },
+    "scenes": [
+      {
+        "narration": "A single torch shattered France's royal court in 1393.",
+        "search": "bal des ardents illuminated manuscript miniature 14th century",
+        "caption": "In 1393, a royal masquerade ended in catastrophic fire."
+      },
+      {
+        "narration": "On January 28, 1393, the French court assembled at the Hôtel Saint-Pol in Paris to distract King Charles VI from his recurring psychosis.",
+        "search": "charles vi of france portrait oil painting",
+        "caption": "King Charles VI suffered severe mental instability by 1393."
+      },
+      {
+        "narration": "Courtier Huguet de Guisay organized an elaborate masquerade where the King and five high-ranking lords would disguise themselves as mythical forest wild men.",
+        "search": "medieval wild man woodcut engraving 15th century",
+        "caption": "Courtiers devised a wild-man charivari performance for the celebration."
+      },
+      {
+        "narration": "Tailors stitched the six performers directly into form-fitting linen suits heavily soaked with combustible pine resin, pitch, and dry flax.",
+        "search": "medieval pitch and tar barrel woodcut engraving",
+        "caption": "Performers were sewn into suits coated with flammable pitch."
+      },
+      {
+        "narration": "Recognizing the extreme hazard of the pitch-covered suits, palace guards were commanded to bar all torches and open flames from the hall.",
+        "search": "hotel saint-pol paris medieval castle illuminated manuscript",
+        "caption": "Guards ordered all open flames barred from the palace."
+      },
+      {
+        "narration": "Bound together by iron chains, the disguised dancers burst into the grand hall, howling wildly while onlookers attempted to unmask them.",
+        "search": "medieval banquet hall illuminated manuscript miniature",
+        "caption": "The masked dancers entered linked together by iron chains."
+      },
+      {
+        "narration": "King Charles VI slipped away from the chain to jest with his fourteen-year-old aunt, the Duchess of Berry, leaving five performers huddled in the center.",
+        "search": "duchess of berry medieval manuscript portrait",
+        "caption": "Charles VI broke from the group to greet royal guests."
+      },
+      {
+        "narration": "Moments later, the King's intoxicated brother, Louis, Duke of Orléans, entered the darkened chamber carrying blazing torches in direct defiance of the ban.",
+        "search": "louis i duke of orleans portrait painting",
+        "caption": "The intoxicated Duke of Orléans arrived carrying blazing torches."
+      },
+      {
+        "narration": "Intrigued by the bizarre costumes, Duke Louis of Orléans brought his blazing torch within inches of a performer's mask, accidentally dropping an ember onto the flax fibers.",
+        "search": "bal des ardents illumination froissart chronicles manuscript",
+        "caption": "A stray ember from Duke Louis's torch ignited the combed flax."
+      },
+      {
+        "narration": "Within seconds, the pitch and pine resin detonated into an inescapable wall of flame, engulfing the five chained noblemen in an unbroken circle of fire.",
+        "search": "medieval manuscript miniature dancers fire bal des ardents 14th century",
+        "caption": "Pitch and resin turned five chained noblemen into a human inferno."
+      },
+      {
+        "narration": "Hearing the screams, the fourteen-year-old Duchess of Berry recognized King Charles VI and threw her thick velvet train over him to smother approaching sparks.",
+        "search": "duchess of berry medieval lady manuscript portrait miniature",
+        "caption": "The Duchess of Berry smothered sparks with her heavy velvet gown."
+      },
+      {
+        "narration": "Sire Jean de Nantouillet violently snapped his iron link and threw his burning body into a scullery vat filled with dishwater and wine dregs.",
+        "search": "medieval banquet kitchen vat copper basin manuscript miniature",
+        "caption": "Nantouillet saved his life by diving into a vat of liquid."
+      },
+      {
+        "narration": "The remaining four dancers could not break free from their chains, screaming as the boiling pitch melted directly through skin to bone across the ballroom floor.",
+        "search": "medieval martyrdom fire torment woodcut engraving historical",
+        "caption": "Boiling pitch fused directly to the flesh of the trapped nobles."
+      },
+      {
+        "narration": "Yvain de Foix and Aimery Poitiers died in agony on the banquet stones, while the event's architect, Huguet de Guisay, lingered in excruciating pain for three days.",
+        "search": "medieval deathbed noble 14th century illuminated manuscript painting",
+        "caption": "Four prominent French nobles died of catastrophic burns."
+      },
+      {
+        "narration": "News of the disaster reached Paris by dawn on January 29, 1393, prompting an outraged populace to surround the palace in near-open rebellion.",
+        "search": "medieval paris city gates mob woodcut engraving 14th century",
+        "caption": "Outraged Parisians nearly revolted against the court's deadly negligence."
+      },
+      {
+        "narration": "Though Duke Louis and the royal council mounted a public penance at Notre-Dame, the sheer terror of the inferno permanently destroyed Charles VI's fragile sanity.",
+        "search": "king charles vi of france oil portrait painting valois",
+        "caption": "The inferno permanently destroyed the fragile sanity of King Charles VI."
+      },
+      {
+        "narration": "Could one single misplaced flame cause the downfall of an entire medieval kingdom? Following the disaster at the Hôtel Saint-Pol, King Charles VI suffered severe relapses that left France without competent leadership.",
+        "search": "Charles VI of France portrait painting medieval illumination",
+        "caption": "Did a single fire collapse medieval France?"
+      },
+      {
+        "narration": "By the summer of 1393, Charles VI believed he was made of fragile glass and refused to let courtiers touch him. He inserted iron rods into his clothes to prevent his body from shattering into pieces.",
+        "search": "Hotel Saint-Pol Paris medieval engraving plan",
+        "caption": "Charles VI believed his body was made of glass"
+      },
+      {
+        "narration": "With the monarch mentally incapacitated, royal authority shattered into a violent factional conflict between the King's brother, Louis of Orléans, and his cousin, John the Fearless of Burgundy.",
+        "search": "John the Fearless Duke of Burgundy portrait painting",
+        "caption": "Power struggle erupted between Orléans and Burgundy"
+      },
+      {
+        "narration": "Tensions escalated until November 23, 1407, when Burgundian assassins ambushed and killed Louis, Duke of Orléans, on the streets of Paris.",
+        "search": "Assassination of Louis Duke of Orleans 1407 manuscript illumination",
+        "caption": "Louis of Orléans was assassinated in 1407"
+      },
+      {
+        "narration": "This political murder ignited the bloody Armagnac–Burgundian Civil War, dividing the nobility and paralyzing the French government.",
+        "search": "Armagnac Burgundian civil war 15th century battle manuscript",
+        "caption": "Civil war tore France apart from within"
+      },
+      {
+        "narration": "Exploiting the French internal chaos, King Henry V of England invaded in 1415, inflicting a catastrophic defeat on French forces at the Battle of Agincourt.",
+        "search": "Battle of Agincourt 1415 medieval manuscript miniature",
+        "caption": "Henry V invaded a deeply divided France"
+      },
+      {
+        "narration": "In May 1420, the incapacitated Charles VI signed the Treaty of Troyes, disinheriting his own son and naming Henry V heir to the French throne.",
+        "search": "Treaty of Troyes 1420 historical document manuscript",
+        "caption": "Charles VI surrendered the French succession in 1420"
+      },
+      {
+        "narration": "The horrific fire on January 28, 1393, transformed a royal wedding dance into the catalyst that brought the House of Valois to the brink of extinction.",
+        "search": "Bal des Ardents Froissart Chronicles manuscript illumination",
+        "caption": "A single spark reshaped the history of Europe"
+      },
+      {
+        "narration": "Four royal nobles burned alive in under ten seconds. On January 28, 1393, a misplaced spark at a palace dance imperiled the entire French monarchy.",
+        "search": "bal des ardents manuscript miniature",
+        "caption": "Four royal nobles burned alive at a Paris palace dance."
+      },
+      {
+        "narration": "Courtier Huguet de Guisay staged a charivari performance at Paris's Hôtel Saint-Pol to distract twenty-four-year-old King Charles VI from his recurring bouts of psychosis.",
+        "search": "hotel saint-pol paris medieval engraving",
+        "caption": "Courtier Huguet de Guisay organized a royal charivari in 1393."
+      },
+      {
+        "narration": "Six performers were sewn directly into tight suits coated in flammable pitch and resin, prompting guards to strictly ban torches from the hall.",
+        "search": "charivari wild men medieval manuscript illustration",
+        "caption": "Performers were sewn into lethally flammable resin and flax costumes."
+      },
+      {
+        "narration": "Chaos erupted when the King's brother, Louis, Duke of Orléans, burst into the banqueting chamber heavily intoxicated and carrying a burning torch.",
+        "search": "louis duke of orleans portrait painting",
+        "caption": "The Duke of Orléans entered the hall carrying a blazing torch."
+      },
+      {
+        "narration": "Holding the open flame inches from a dancer's face, the Duke dropped a single stray ember that instantly transformed the chained men into a roaring inferno.",
+        "search": "medieval torch fire illuminated manuscript",
+        "caption": "A stray ember instantly transformed the dancers into human torches."
+      },
+      {
+        "narration": "As melting pitch fused to human skin, fourteen-year-old Duchess of Berry smothered King Charles VI under her voluminous velvet train, sparing him from the flames.",
+        "search": "joan of valois duchess of berry portrait painting",
+        "caption": "The young Duchess of Berry saved King Charles VI from ignition."
+      },
+      {
+        "narration": "One courtier escaped by diving into a wine vat, but four died, sparking furious public riots across Paris against the royal council.",
+        "search": "medieval street riot paris engraving",
+        "caption": "Violent public riots erupted across Paris following the royal deaths."
+      },
+      {
+        "narration": "The disaster, remembered as the Bal des Ardents, destroyed Charles VI's sanity permanently and plunged the House of Valois deeper into the Hundred Years' War.",
+        "search": "king charles vi of france portrait painting",
+        "caption": "The Bal des Ardents permanently shattered Charles VI's royal reign."
+      },
+      {
+        "narration": "In the days following the inferno, armed Parisian mobs surrounded the Hôtel Saint-Pol, threatening insurrection over what they deemed demonic negligence by the Crown.",
+        "search": "medieval Paris citizens riot illuminated manuscript",
+        "caption": "Angry Parisian crowds threatened rebellion following the ballroom tragedy."
+      },
+      {
+        "narration": "Terrified by the brewing uprising, Louis of Orléans hurried to Notre-Dame Cathedral to perform public penance and financed a chapel to appease the outraged citizenry.",
+        "search": "Louis Duke of Orleans manuscript miniature portrait",
+        "caption": "Louis of Orléans made public penance to quell citizen fury."
+      },
+      {
+        "narration": "By mid-1393, King Charles VI suffered an acute relapse into severe madness, forgetting his own identity and violently rejecting Queen Isabeau of Bavaria.",
+        "search": "King Charles VI of France medieval manuscript portrait",
+        "caption": "Charles VI relapsed into severe psychosis months after the fire."
+      },
+      {
+        "narration": "The monarch soon developed the glass delusion, ordering iron ribs sewn into his doublets to prevent his fragile body from shattering upon physical contact.",
+        "search": "Charles VI of France glass delusion medieval engraving",
+        "caption": "The King believed his body was made of brittle glass."
+      },
+      {
+        "narration": "The King's permanent incapacitation sparked a brutal power struggle between his brother, Louis of Orléans, and his uncle, Philip the Bold of Burgundy.",
+        "search": "Philip the Bold Duke of Burgundy portrait oil painting",
+        "caption": "Philip the Bold exploited the tragedy to seize crown authority."
+      },
+      {
+        "narration": "Philip leveraged the memory of the burned courtiers to paint Louis as an irresponsible heretic, stripping him of influence over the royal treasury.",
+        "search": "medieval French royal council illuminated manuscript",
+        "caption": "The Burgundian faction weaponized the fire against Prince Louis."
+      },
+      {
+        "narration": "The bitter feud divided the French nobility into two warring factions, the Armagnacs and the Burgundians, pushing the kingdom toward internal collapse.",
+        "search": "Armagnac and Burgundian civil war manuscript illumination",
+        "caption": "France fractured into hostile civil factions over royal regency."
+      },
+      {
+        "narration": "Watching from London, the English crown prepared to exploit France's escalating internal chaos, laying the groundwork for a catastrophic resumption of the Hundred Years' War.",
+        "search": "King Henry V of England portrait oil painting",
+        "caption": "English forces prepared to exploit the deepening French political rift."
+      },
+      {
+        "narration": "By the late 1390s, King Charles VI suffered severe relapses of madness, famously refusing to bathe and believing his body was made entirely of fragile glass.",
+        "search": "Charles VI of France medieval manuscript illumination",
+        "caption": "Charles VI believed his body was made of fragile glass."
+      },
+      {
+        "narration": "Queen Isabeau of Bavaria stepped into the political void, forming an alliance with the King's brother, Louis of Orléans, to control royal finances.",
+        "search": "Isabeau of Bavaria portrait painting",
+        "caption": "Queen Isabeau and Louis of Orléans seized royal authority."
+      },
+      {
+        "narration": "The accession of John the Fearless as Duke of Burgundy in 1404 escalated the bitter rivalry against Orléans for dominance over the French regency council.",
+        "search": "John the Fearless Duke of Burgundy portrait painting fearless",
+        "caption": "John the Fearless challenged the House of Orléans for supremacy."
+      },
+      {
+        "narration": "On November 23, 1407, armed assassins hired by John the Fearless ambushed and murdered Louis of Orléans on a darkened Paris street.",
+        "search": "Assassination of Louis Duke of Orleans 1407 manuscript illumination murdered",
+        "caption": "Louis of Orléans was murdered on the streets of Paris."
+      },
+      {
+        "narration": "The assassination plunged France into the brutal Armagnac-Burgundian Civil War, dividing nobility, towns, and clergy into warring camps.",
+        "search": "Armagnac Burgundian civil war battle medieval manuscript illumination",
+        "caption": "The Armagnac-Burgundian Civil War fractured the French realm."
+      },
+      {
+        "narration": "In early 1413, the Cabochien revolt erupted in Paris, filling the capital with armed mobs who seized royal officials inside the Bastille.",
+        "search": "Cabochien revolt Paris 1413 medieval engraving",
+        "caption": "The 1413 Cabochien uprising unleashed chaos across Paris."
+      },
+      {
+        "narration": "In London, the newly crowned King Henry V recognized France's total fragmentation and prepared to enforce England's claim to the French throne.",
+        "search": "King Henry V of England portrait painting",
+        "caption": "Henry V prepared to exploit France's catastrophic internal divisions."
+      },
+      {
+        "narration": "In August 1415, an English fleet carrying over ten thousand troops landed at Harfleur, beginning the invasion that would bring France to its knees.",
+        "search": "Siege of Harfleur 1415 medieval manuscript miniature",
+        "caption": "English forces landed in Normandy in August 1415."
+      },
+      {
+        "narration": "Deeply divided by the political factions that formed after Charles VI's breakdown in 1393, the French high nobility failed to organize an effective defense when Harfleur fell in September 1415.",
+        "search": "siege of harfleur 1415 manuscript illumination",
+        "caption": "French political factionalism paralyzed royal military resistance in 1415."
+      },
+      {
+        "narration": "On October 25, 1415, an army of French knights confronted Henry V's exhausted English forces near the northern village of Agincourt.",
+        "search": "battle of agincourt 1415 oil painting",
+        "caption": "The French army faced Henry V at Agincourt in October 1415."
+      },
+      {
+        "narration": "Heavy autumnal rain transformed the narrow battlefield into thick mud, trapping the heavily armored French cavalry under storms of English longbow arrows.",
+        "search": "medieval knights muddy battlefield battle illuminated manuscript",
+        "caption": "Thick mud and narrow terrain trapped the heavily armored French forces."
+      },
+      {
+        "narration": "The catastrophic defeat cost the lives of over five thousand Frenchmen, wiping out an entire generation of commanders tied to the Valois court.",
+        "search": "battle of agincourt dead knights oil painting",
+        "caption": "Thousands of French nobles perished during the catastrophic defeat at Agincourt."
+      },
+      {
+        "narration": "Under the 1420 Treaty of Troyes, the incapacitated Charles VI was coerced into disinheriting his own son and naming King Henry V as heir to France.",
+        "search": "treaty of troyes 1420 document engraving",
+        "caption": "The 1420 Treaty of Troyes transferred French royal succession to England."
+      },
+      {
+        "narration": "When Charles VI finally died in October 1422, he left his kingdom fractured, occupied, and plunged into decades of devastating warfare.",
+        "search": "king charles vi of france funeral manuscript illumination",
+        "caption": "King Charles VI died in October 1422, leaving France shattered."
+      },
+      {
+        "narration": "Modern historical consensus links this ultimate downfall of Valois authority directly to the traumatic fire at the Hôtel Saint-Pol nearly thirty years prior.",
+        "search": "hotel saint-pol paris medieval map engraving",
+        "caption": "Historical analysis connects Valois decline directly to the 1393 tragedy."
+      },
+      {
+        "narration": "The tragic legacy of the Bal des Ardents remains preserved in medieval manuscripts as a haunting warning of political recklessness and royal vulnerability.",
+        "search": "bal des ardents froissart chronicles manuscript illumination illuminated",
+        "caption": "Illuminated manuscripts preserve the enduring tragedy of the Bal des Ardents."
+      },
+      {
+        "narration": "In January 1393, the French court gathered at the Hôtel Saint-Pol in Paris to celebrate a royal wedding and lift the spirits of King Charles VI.",
+        "search": "medieval Paris city manuscript illustration",
+        "caption": "Hôtel Saint-Pol hosted the fatal 1393 royal celebration."
+      },
+      {
+        "narration": "Courtier Huguet de Guisay proposed a scandalous performance where the King and five nobles dressed as wild men.",
+        "search": "medieval court jester illumination painting",
+        "caption": "Courtiers devised a dangerous wild man masquerade dance."
+      },
+      {
+        "narration": "The performers were sewn into tight linen suits coated in flammable pine resin, pitch, and combed flax.",
+        "search": "medieval tailor sewing linen manuscript art",
+        "caption": "Dancers were sewn into resin-soaked flammable suits."
+      },
+      {
+        "narration": "Palace guards barred all open flames from the hall, recognizing the extreme fire hazard of the pitch costumes.",
+        "search": "medieval castle guards with pikes manuscript",
+        "caption": "Guards banned torches to prevent a disastrous fire."
+      },
+      {
+        "narration": "The disguised dancers burst into the grand hall linked by iron chains, leaping wildly while guests guessed identities.",
+        "search": "medieval banquet dance manuscript illumination",
+        "caption": "Chained wild men dancers burst into the hall."
+      },
+      {
+        "narration": "King Charles VI broke away to taunt his young aunt, leaving the remaining five dancers huddled together.",
+        "search": "Charles VI of France portrait painting",
+        "caption": "King Charles VI separated from the chained dancers."
+      },
+      {
+        "narration": "Louis, Duke of Orléans, arrived late with torches, directly defying the royal safety decree.",
+        "search": "Louis Duke of Orleans medieval portrait painting",
+        "caption": "The Duke of Orléans arrived late with torches."
+      },
+      {
+        "narration": "The Duke held a blazing torch too close, letting a stray ember ignite the flax bodysuit.",
+        "search": "medieval torch fire manuscript illumination",
+        "caption": "A stray torch ember ignited the flammable costume."
+      },
+      {
+        "narration": "Within seconds of the spark, the highly flammable pine resin transformed the chained dancers into a towering inferno of screaming human torches.",
+        "search": "medieval manuscript illumination of people on fire in a castle hall",
+        "caption": "Pitch and resin turned the costumes into a towering inferno."
+      },
+      {
+        "narration": "The melting pitch fused directly to the flesh of the trapped noblemen, who remained chained together in the center of the hall.",
+        "search": "medieval torture iron chain oil painting museum piece",
+        "caption": "Molten pitch fused directly to the flesh of the trapped nobles."
+      },
+      {
+        "narration": "The young Duchess of Berry acted instantly to protect her monarch, throwing her voluminous velvet dress train entirely over King Charles VI.",
+        "search": "medieval noblewoman velvet dress portrait painting 14th century",
+        "caption": "The Duchess of Berry smothered sparks to shield the King."
+      },
+      {
+        "narration": "One desperate dancer managed to break his iron chains and leap into a large vat of dishwater, miraculously surviving the initial flash fire.",
+        "search": "medieval wooden wash tub and kitchen interior oil painting",
+        "caption": "One dancer escaped into a vat of water."
+      },
+      {
+        "narration": "Despite frantic rescue efforts by terrified guests, four of the King's closest companions burned to death on the ballroom floor.",
+        "search": "medieval funeral procession oil painting dark mood",
+        "caption": "Four noblemen burned to death on the ballroom floor."
+      },
+      {
+        "narration": "The horrific disaster, forever remembered as the Bal des Ardents, immediately triggered violent riots throughout the streets of Paris.",
+        "search": "medieval riot in Paris street old engraving",
+        "caption": "The disaster triggered violent riots across Paris."
+      },
+      {
+        "narration": "The tragic spectacle shattered the fragile and unstable sanity of King Charles VI forever, plunging the House of Valois deeper into instability.",
+        "search": "King Charles VI of France portrait painting 14th century",
+        "caption": "The trauma shattered Charles VI's fragile sanity forever."
+      },
+      {
+        "narration": "This catastrophic royal masquerade of January 1393 remains one of the darkest and most bizarre turning points in the Hundred Years' War.",
+        "search": "medieval French castle interior candle lighting oil painting",
+        "caption": "A bizarre royal tragedy that shaped the Hundred Years War."
+      },
+      {
+        "narration": "In January 1393, a royal masquerade ended in horror when four French nobles burned alive inside a Paris palace.",
+        "search": "medieval royal palace feast illuminated manuscript",
+        "caption": "January 1393: A royal masquerade turns into a catastrophe."
+      },
+      {
+        "narration": "The court gathered at the Hôtel Saint-Pol to celebrate a wedding and distract the fragile King Charles VI from his worsening mental illness.",
+        "search": "Hotel Saint-Pol medieval Paris engraving",
+        "caption": "Gathering at Hôtel Saint-Pol to entertain King Charles VI."
+      },
+      {
+        "narration": "Courtiers wore wild men disguises, sewn directly into linen suits coated with pitch, pine resin, and shaggy flax.",
+        "search": "Bal des Ardents wild men illuminated manuscript",
+        "caption": "Dancers sewn into suits of resin, pitch, and flax."
+      },
+      {
+        "narration": "Despite strict orders banning open flames, the drunk Louis, Duke of Orléans, arrived holding a glowing torch.",
+        "search": "Louis I Duke of Orleans portrait painting brings",
+        "caption": "The Duke of Orléans brings forbidden fire into the hall."
+      },
+      {
+        "narration": "When Louis held his torch near a dancer's face, a single falling ember transformed the chained performers into a screaming inferno.",
+        "search": "Bal des Ardents medieval painting fire",
+        "caption": "A stray ember ignites the chained dancers into an inferno."
+      },
+      {
+        "narration": "The Duchess of Berry smothered sparks on King Charles VI with her thick gown, but four companions suffered horrific, fatal burns.",
+        "search": "Duchess of Berry protecting Charles VI oil painting",
+        "caption": "The Duchess saves the King, but four nobles burn to death."
+      },
+      {
+        "narration": "Known as the Bal des Ardents, the calamity sparked anger among Parisians and shattered the King's fragile mind beyond repair.",
+        "search": "King Charles VI of France portrait painting shatters",
+        "caption": "The Bal des Ardents shatters Charles VI's sanity forever."
+      },
+      {
+        "narration": "This royal disaster plunged the House of Valois into chaos, destabilizing France and reshaping the course of the Hundred Years' War.",
+        "search": "Hundred Years War medieval manuscript battle",
+        "caption": "A single spark destabilized France and shifted European history."
+      },
+      {
+        "narration": "A 1393 royal dance turned six French nobles into human torches. In January 1393, a celebration at Paris's Hôtel Saint-Pol devolved into pure horror.",
+        "search": "bal des ardents medieval manuscript illuminated",
+        "caption": "The Deadliest Royal Masquerade in History"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T18:35:30.765853+00:00",
+    "updated_at": "2026-10-11T19:02:51.716525+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-11T18:53:33.427616+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3370 chars",
+        "at": "2026-10-11T18:54:25.242826+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "204.1s en-US-GuyNeural 30 cau",
+        "at": "2026-10-11T18:54:34.115868+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T18:54:41.643721+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-11T18:58:39.340803+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T18:58:39.390332+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 204.1s 69472231 bytes",
+        "at": "2026-10-11T19:02:51.256659+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-10-11T19:02:51.409069+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T19:02:51.716504+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29342503/pexels-photo-29342503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37662178/pexels-photo-37662178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32880100/pexels-photo-32880100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34823892/pexels-photo-34823892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36295469/pexels-photo-36295469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14646749/pexels-photo-14646749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7448046/pexels-photo-7448046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32744124/pexels-photo-32744124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34436215/pexels-photo-34436215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33937261/pexels-photo-33937261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7814003/pexels-photo-7814003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39521/cheese-noodles-court-eat-delicious-39521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35976200/pexels-photo-35976200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342496/pexels-photo-29342496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38920143/pexels-photo-38920143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40072436/pexels-photo-40072436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31725671/pexels-photo-31725671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34330822/pexels-photo-34330822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6432802/pexels-photo-6432802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11577245/pexels-photo-11577245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/208674/pexels-photo-208674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/334201/pexels-photo-334201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8017968/pexels-photo-8017968.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11882036/pexels-photo-11882036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15961007/pexels-photo-15961007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40035039/pexels-photo-40035039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6715298/pexels-photo-6715298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32744126/pexels-photo-32744126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9323602/pexels-photo-9323602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6920187/pexels-photo-6920187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4646818/pexels-photo-4646818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27356648/pexels-photo-27356648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4646782/pexels-photo-4646782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37947889/pexels-photo-37947889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10513243/pexels-photo-10513243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32591352/pexels-photo-32591352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412595/pexels-photo-29412595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20704672/pexels-photo-20704672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16514852/pexels-photo-16514852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30489691/pexels-photo-30489691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19136603/pexels-photo-19136603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4860079/pexels-photo-4860079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5999517/pexels-photo-5999517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12085516/pexels-photo-12085516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11046287/pexels-photo-11046287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5668222/pexels-photo-5668222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6398418/pexels-photo-6398418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2978800/pexels-photo-2978800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10241240/pexels-photo-10241240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2219040/pexels-photo-2219040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327478/pexels-photo-35327478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25755/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29485310/pexels-photo-29485310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10033363/pexels-photo-10033363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8243131/pexels-photo-8243131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27980497/pexels-photo-27980497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32568365/pexels-photo-32568365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15587691/pexels-photo-15587691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31338834/pexels-photo-31338834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29690226/pexels-photo-29690226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35432532/pexels-photo-35432532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7266553/pexels-photo-7266553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11555841/pexels-photo-11555841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6790370/pexels-photo-6790370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32435962/pexels-photo-32435962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8177697/pexels-photo-8177697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4389908/pexels-photo-4389908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35521682/pexels-photo-35521682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2348808/pexels-photo-2348808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12787477/pexels-photo-12787477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8720855/pexels-photo-8720855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25338473/pexels-photo-25338473.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23348516/pexels-photo-23348516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37919478/pexels-photo-37919478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10595356/pexels-photo-10595356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6503995/pexels-photo-6503995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251946/pexels-photo-31251946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32134612/pexels-photo-32134612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563542/pexels-photo-16563542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525643/pexels-photo-30525643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2f27d36d62",
     "kind": "short",
     "channel": "Channel3",
