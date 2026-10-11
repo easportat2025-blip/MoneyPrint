@@ -1,5 +1,161 @@
 [
   {
+    "id": "be06910b25",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman Emperor Invited Senators to a Midnight Funeral",
+    "idea": {
+      "title": "Why a Roman Emperor Invited Senators to a Midnight Funeral",
+      "hook": "In 89 AD, Roman Emperor Domitian summoned his harshest critics to a midnight feast, only for them to find tombstones carved with their own names.",
+      "beats": [
+        "Senators arrived at the palace in absolute terror, led into a dining hall painted pitch black like a crypt.",
+        "Each senator was forced to sit in front of a personalized tombstone while food traditionally served to the dead was placed before them by servants disguised as demons.",
+        "Expecting executioners to emerge at any second, the terrified nobles spent hours trapped in dead silence.",
+        "Instead of killing them, Domitian dismissed them at dawn and gifted each man expensive silver, deliberately breaking their will without spilling a single drop of blood."
+      ],
+      "keywords": [
+        "Emperor Domitian bust",
+        "Roman banquet painting",
+        "Ancient Rome senators engraving",
+        "Roman palace engraving",
+        "Dark classical hall painting"
+      ],
+      "tags": [
+        "romanempire",
+        "historyshorts",
+        "ancientrome",
+        "emperor",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman emperor host a midnight funeral banquet?",
+        "search": "emperor domitian marble bust statue close up",
+        "caption": "A midnight funeral banquet hosted by Rome's emperor."
+      },
+      {
+        "narration": "In 89 AD, Emperor Domitian suspected the Roman Senate of plotting his assassination.",
+        "search": "ancient rome senate engraving historical illustration",
+        "caption": "In 89 AD, Emperor Domitian suspected treason in the Senate."
+      },
+      {
+        "narration": "Instead of public arrests, imperial messengers summoned his fiercest political critics to the palace at midnight.",
+        "search": "imperial roman palace at night classical painting",
+        "caption": "Guards summoned outspoken senators to the palace at midnight."
+      },
+      {
+        "narration": "The senators were escorted into a massive dining hall painted pitch black, illuminated only by funeral torches.",
+        "search": "dark classical hall torches oil painting",
+        "caption": "The banquet hall was painted completely black like a tomb."
+      },
+      {
+        "narration": "Behind each dining couch stood a marble headstone inscribed with that specific senator's own name.",
+        "search": "ancient roman tombstone inscription marble artifact",
+        "caption": "Slabs bore each senator's name, marking their own graves."
+      },
+      {
+        "narration": "Servants dressed as phantoms placed funerary meats before them, dishes traditionally offered only to the dead.",
+        "search": "roman banquet feast oil painting historical",
+        "caption": "Servants served funeral dishes traditionally offered to the dead."
+      },
+      {
+        "narration": "Domitian casually spoke about slaughter and execution while imperial guards stood watching behind locked iron doors.",
+        "search": "roman praetorian guard engraving antique illustration",
+        "caption": "Domitian spoke only of death while guards blocked the exits."
+      },
+      {
+        "narration": "Convinced executioners were waiting in the shadows, the terrified nobles sat paralyzed, anticipating immediate death.",
+        "search": "terrified roman nobles classical history painting",
+        "caption": "The senators awaited execution in total psychological terror."
+      },
+      {
+        "narration": "For hours, the senators endured the agonizing silence in the dark crypt, certain that dawn would bring their executions.",
+        "search": "ancient roman senators classical oil painting",
+        "caption": "Trapped for hours, the senators awaited their imminent executions."
+      },
+      {
+        "narration": "Just before daybreak, Domitian abruptly dismissed his trembling critics, sending imperial couriers immediately behind them to their estates.",
+        "search": "roman courier messenger antique engraving",
+        "caption": "At dawn, Domitian dismissed them and dispatched couriers to their villas."
+      },
+      {
+        "narration": "Instead of death warrants, each senator received expensive silver gifts alongside their custom tombstones, permanently breaking their defiance without shedding a drop of blood.",
+        "search": "emperor domitian marble bust sculpture",
+        "caption": "Domitian broke senatorial defiance without spilling a single drop of blood."
+      },
+      {
+        "narration": "A Roman emperor once served senators their own funeral.",
+        "search": "emperor domitian marble bust statue close up",
+        "caption": "Domitian's psychological terror campaign in 89 AD."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T06:59:19.393455+00:00",
+    "updated_at": "2026-10-11T07:08:12.038454+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-11T07:01:46.369916+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 252 de vua 55s)",
+        "at": "2026-10-11T07:04:05.567705+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.9s en-US-GuyNeural 5 cau",
+        "at": "2026-10-11T07:04:08.291506+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T07:04:09.166738+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-11T07:07:39.187993+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T07:07:39.224105+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.9s 6116039 bytes",
+        "at": "2026-10-11T07:08:11.765330+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T07:08:12.038440+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38495338/pexels-photo-38495338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39835204/pexels-photo-39835204.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31691765/pexels-photo-31691765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38142772/pexels-photo-38142772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1123248/pexels-photo-1123248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36439664/pexels-photo-36439664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35719467/pexels-photo-35719467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057045/pexels-photo-29057045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6994113/pexels-photo-6994113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20014919/pexels-photo-20014919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38117168/pexels-photo-38117168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7a460385ea",
     "kind": "short",
     "channel": "Channel2",
