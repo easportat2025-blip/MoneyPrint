@@ -1,5 +1,162 @@
 [
   {
+    "id": "8a843e74d6",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Inca Emperor Filled a Golden Room to His Doom",
+    "idea": {
+      "title": "Why an Inca Emperor Filled a Golden Room to His Doom",
+      "hook": "In 1532, Emperor Atahualpa offered a room filled with pure gold for his freedom, not knowing he had signed his own death warrant.",
+      "beats": [
+        "Ambushed and captured by Pizarro's small conquistador force at Cajamarca, Inca ruler Atahualpa made an unimaginable ransom offer.",
+        "He promised to fill a 22-foot room once with gold and twice with silver up to the reach of his hand within two months.",
+        "Temples across the Andes were stripped bare, delivering over 13,000 pounds of melted gold and 26,000 pounds of silver to the Spaniards.",
+        "The stunning display of endless wealth terrified the conquistadors, convincing them the emperor was too dangerous and powerful to ever release alive.",
+        "Once the ransom was fully melted into bars, Pizarro broke his oath and executed Atahualpa by strangulation anyway."
+      ],
+      "keywords": [
+        "conquistador pizarro painting",
+        "atahualpa inca capture",
+        "cajamarca battle engraving",
+        "ancient inca gold artifact",
+        "16th century spanish map"
+      ],
+      "tags": [
+        "#incanempire",
+        "#ancienthistory",
+        "#spanishconquest",
+        "#historicalbetrayal",
+        "#historyshorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An Inca emperor paid history's greatest ransom—to his doom.",
+        "search": "emperor atahualpa inca portrait painting",
+        "caption": "The largest ransom in human history sealed his fate."
+      },
+      {
+        "narration": "In November 1532, Spanish conquistador Francisco Pizarro ambushed Emperor Atahualpa in the Andean highlands of Cajamarca.",
+        "search": "battle of cajamarca 1532 engraving",
+        "caption": "November 1532: Pizarro ambushes Atahualpa in Cajamarca."
+      },
+      {
+        "narration": "Pizarro's force of just one hundred and sixty-eight men slaughtered thousands of imperial attendants and seized the god-king alive.",
+        "search": "francisco pizarro conquistador oil painting portrait",
+        "caption": "A tiny Spanish force captured the sovereign ruler."
+      },
+      {
+        "narration": "Desperate to regain command of his empire, Atahualpa noticed the Spaniards' obsession with precious metals and proposed an unthinkable exchange.",
+        "search": "ancient inca gold sun mask artifact museum",
+        "caption": "Atahualpa noticed the Spaniards' relentless lust for metal."
+      },
+      {
+        "narration": "He pledged to fill a twenty-two-foot stone chamber once with solid gold and twice over with silver, reaching as high as his raised hand.",
+        "search": "cajamarca ransom room historical engraving",
+        "caption": "A 22-foot room filled with gold and silver."
+      },
+      {
+        "narration": "Royal couriers sprinted along the imperial highway network, ordering temples across thousands of miles stripped bare of their sacred relics.",
+        "search": "16th century spanish map south america manuscript",
+        "caption": "Orders went out to strip Andean temples bare."
+      },
+      {
+        "narration": "Porters hauled over thirteen thousand pounds of gold plates, chalices, and golden statues directly into Spanish custody.",
+        "search": "pre columbian inca gold llama figurine artifact",
+        "caption": "Over 13,000 pounds of gold poured into Cajamarca."
+      },
+      {
+        "narration": "Yet witnessing this effortless, staggering display of absolute imperial authority sparked deep panic among the outnumbered conquistadors.",
+        "search": "spanish conquistadors melting inca gold engraving",
+        "caption": "The boundless wealth terrified the heavily outnumbered Spaniards."
+      },
+      {
+        "narration": "Over eight months, indigenous goldsmiths were forced to smelt irreplaceable sacred masterworks into eleven tons of pure gold bullion. The display convinced Pizarro that a ruler capable of summoning such vast wealth could just as easily summon an annihilating army.",
+        "search": "melting gold ingots furnace historical engraving",
+        "caption": "Indigenous smiths melted irreplaceable treasures into eleven tons of bullion."
+      },
+      {
+        "narration": "On July 26, 1533, Pizarro broke his solemn oath and sentenced the captive emperor to death on fabricated charges of rebellion. After submitting to baptism to prevent his body from being burned, Atahualpa was executed by garrote in the Cajamarca plaza.",
+        "search": "death of atahualpa inca garrote oil painting",
+        "caption": "On July 26, 1533, Pizarro executed Emperor Atahualpa by garrote."
+      },
+      {
+        "narration": "The melted ransom financed Spain's rapid conquest of Cusco, dismantling the largest empire in pre-Columbian America within a single year. Atahualpa's golden room did not buy his release—it proved he was far too powerful to be left alive.",
+        "search": "francisco pizarro conquering cusco oil painting",
+        "caption": "The ransom proved Atahualpa was far too powerful to survive."
+      },
+      {
+        "narration": "A room of gold bought an emperor his execution.",
+        "search": "atahualpa inca emperor portrait painting",
+        "caption": "A room filled with gold sealed his execution."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T23:18:01.421166+00:00",
+    "updated_at": "2026-10-11T23:20:49.728529+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-11T23:19:03.447601+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "419 chars (cat 207 de vua 55s)",
+        "at": "2026-10-11T23:19:18.742953+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-11T23:19:21.761499+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T23:19:22.948897+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-11T23:20:04.605454+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T23:20:04.655248+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.0s 8238740 bytes",
+        "at": "2026-10-11T23:20:49.417549+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T23:20:49.728504+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/26665938/pexels-photo-26665938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3156779/pexels-photo-3156779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27853834/pexels-photo-27853834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610620/pexels-photo-20610620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36797962/pexels-photo-36797962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37288584/pexels-photo-37288584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31572809/pexels-photo-31572809.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38598952/pexels-photo-38598952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6344837/pexels-photo-6344837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13146513/pexels-photo-13146513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16415229/pexels-photo-16415229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33699895/pexels-photo-33699895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d9ab370fb5",
     "kind": "short",
     "channel": "Channel2",
