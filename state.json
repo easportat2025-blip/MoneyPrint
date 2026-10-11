@@ -1,5 +1,161 @@
 [
   {
+    "id": "1a2cda5e4b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Emperor Murdered His Savior",
+    "idea": {
+      "title": "Why Rome's Emperor Murdered His Savior",
+      "hook": "In 454 AD, Emperor Valentinian III drew his sword and personally butchered Flavius Aetius—the brilliant general who saved Rome from Attila the Hun—unwittingly signing the Western Empire's death warrant.",
+      "beats": [
+        "Flavius Aetius was hailed as the 'Last of the Romans' after stopping the terrifying scourge of Attila at the Catalaunian Plains.",
+        "Consumed by paranoid jealousy, the weak and petulant Emperor Valentinian III ambushed his loyal general during a financial council, stabbing him to death.",
+        "A horrified courtier immediately delivered the ultimate verdict: 'You have just cut off your right hand with your left.'",
+        "Six months later, Aetius's loyal bodyguards assassinated the emperor in broad daylight, leaving Rome completely undefended against the barbarian sack that destroyed it."
+      ],
+      "keywords": [
+        "Roman emperor portrait engraving",
+        "Flavius Aetius bust Roman general",
+        "Ancient Rome senate betrayal painting",
+        "Attila the Hun battle archival",
+        "Sack of Rome historic painting"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#romanempire",
+        "#historyfacts",
+        "#betrayal",
+        "#militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's emperor personally butchered the general who saved his empire.",
+        "search": "Flavius Aetius bust Roman general statue",
+        "caption": "Rome murdered the general who saved it from total destruction."
+      },
+      {
+        "narration": "In 451 AD, Flavius Aetius halted Attila the Hun at the Catalaunian Plains, earning the title Last of the Romans.",
+        "search": "Battle of the Catalaunian Plains oil painting",
+        "caption": "In 451 AD, Flavius Aetius defeated Attila the Hun."
+      },
+      {
+        "narration": "Inside the imperial palace at Ravenna, Emperor Valentinian the Third viewed his commander's immense glory as an existential threat.",
+        "search": "Emperor Valentinian III coin portrait profile",
+        "caption": "Emperor Valentinian III grew terrified of Aetius's surging popularity."
+      },
+      {
+        "narration": "Court rivals exploited the ruler's insecurity, fabricating claims that Aetius was organizing an immediate military coup.",
+        "search": "Petronius Maximus Roman senator engraving",
+        "caption": "Court schemers convinced the emperor that his savior was plotting treason."
+      },
+      {
+        "narration": "On September twenty-first, 454 AD, Aetius walked unarmed into the palace council to submit official financial reports.",
+        "search": "Late Roman imperial palace Ravenna mosaic architecture",
+        "caption": "On September 21, 454 AD, Aetius entered the palace unarmed."
+      },
+      {
+        "narration": "Valentinian suddenly leapt from his throne, unsheathed his blade, and struck his greatest defender through the skull.",
+        "search": "Ancient Rome assassination imperial betrayal oil painting",
+        "caption": "Valentinian drew his sword and personally butchered his top general."
+      },
+      {
+        "narration": "When the emperor boasted of the deed, a horrified courtier warned: You have cut off your right hand with your left.",
+        "search": "Roman Senate hall antique engraving",
+        "caption": "You have just cut off your right hand with your left."
+      },
+      {
+        "narration": "With Aetius dead, the imperial legions fractured, leaving Valentinian exposed to the sworn vengeance of Aetius's personal guard.",
+        "search": "Late Roman soldier armor helmet antique illustration",
+        "caption": "Aetius's elite guards waited in the shadows for their revenge."
+      },
+      {
+        "narration": "In March 455 AD, two of Aetius's loyal barbarian retainers struck Valentinian III down in broad daylight on the Campus Martius, and nobody moved to save him.",
+        "search": "death of Emperor Valentinian III historic engraving",
+        "caption": "In March 455 AD, Aetius's loyal guards assassinated Emperor Valentinian."
+      },
+      {
+        "narration": "Just eleven weeks later, King Genseric's Vandal fleet sailed unopposed up the Tiber River, finding the capital completely stripped of military leadership.",
+        "search": "Sack of Rome 455 Vandals oil painting",
+        "caption": "Eleven weeks later, the Vandals invaded a defenseless capital."
+      },
+      {
+        "narration": "The Vandals plundered Rome for fourteen days, sealing the Western Empire's collapse because an insecure ruler murdered the only general capable of defending it.",
+        "search": "Flavius Aetius Roman general marble bust statue",
+        "caption": "Murdering Aetius signed the Western Roman Empire's death warrant."
+      },
+      {
+        "narration": "Rome's emperor executed the only general who saved it.",
+        "search": "emperor valentinian iii coin engraving",
+        "caption": "In 454 AD, Rome murdered its greatest protector."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-11T10:17:42.808943+00:00",
+    "updated_at": "2026-10-11T10:19:32.014664+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-11T10:18:00.682921+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "411 chars (cat 183 de vua 55s)",
+        "at": "2026-10-11T10:18:13.518324+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-11T10:18:15.574287+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-11T10:18:16.419675+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-11T10:19:00.850576+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-11T10:19:00.881802+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 9344909 bytes",
+        "at": "2026-10-11T10:19:31.822642+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-11T10:19:32.014653+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38530081/pexels-photo-38530081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902532/pexels-photo-34902532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32348564/pexels-photo-32348564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17097987/pexels-photo-17097987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38620818/pexels-photo-38620818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36845879/pexels-photo-36845879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12634881/pexels-photo-12634881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32981273/pexels-photo-32981273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422845/pexels-photo-20422845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12476915/pexels-photo-12476915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070713/pexels-photo-15070713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40132858/pexels-photo-40132858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "be06910b25",
     "kind": "short",
     "channel": "Channel2",
