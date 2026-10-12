@@ -1,5 +1,132 @@
 [
   {
+    "id": "71501a9332",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đi siêu thị đói bụng lại khiến ví bạn rỗng túi?",
+    "idea": {
+      "title": "Tại sao đi siêu thị đói bụng lại khiến ví bạn rỗng túi?",
+      "hook": "Bạn nghĩ mình vào siêu thị chỉ để mua sữa, nhưng thực chất cơn đói đang âm thầm cướp sạch ví tiền của bạn.",
+      "beats": [
+        "Khi dạ dày rỗng, não bộ tiết ra hormone ghrelin thúc đẩy phản xạ tìm kiếm phần thưởng.",
+        "Hiện tượng tâm lý 'lan tỏa ham muốn' khiến ghrelin không chỉ làm bạn thèm ăn mà còn thèm sở hữu mọi đồ vật xung quanh.",
+        "Các nghiên cứu chứng minh người đói bụng tiêu nhiều hơn tới 64% tiền vào cả những món phi thực phẩm như quần áo hay đồ điện tử.",
+        "Chiếc xe đẩy đầy ắp thực ra là cái bẫy sinh học mà não tự giăng ra cho chính bạn."
+      ],
+      "keywords": [
+        "grocery shopping cart",
+        "hungry shopper supermarket",
+        "brain impulse buying",
+        "credit card payment",
+        "empty stomach food aisle"
+      ],
+      "tags": [
+        "#channel3",
+        "#meotieudung",
+        "#tamlyhoc",
+        "#khoahocthuvi",
+        "#kienthucdoisong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đi siêu thị lúc đói cướp sạch ví bạn.",
+        "search": "hoat hinh 3d xe duy sieu thi vi tien trong rong",
+        "caption": "Đi siêu thị lúc đói cướp sạch ví bạn"
+      },
+      {
+        "narration": "Bạn nghĩ mình chỉ vào mua một hộp sữa tươi đơn giản.",
+        "search": "hoat hinh 3d tay cam hop sua tuoi sieu thi",
+        "caption": "Chỉ định mua một hộp sữa đơn giản"
+      },
+      {
+        "narration": "Nhưng vừa bước vào, chiếc bụng rỗng bắt đầu phát tín hiệu.",
+        "search": "3d motion graphics hinh anh da day doi phat sang",
+        "caption": "Chiếc bụng rỗng phát tín hiệu cảnh báo"
+      },
+      {
+        "narration": "Dạ dày trống lập tức bơm hormone ghrelin thẳng lên não bộ.",
+        "search": "3d animation hormone ghrelin di chuyen len nao",
+        "caption": "Dạ dày bơm hormone ghrelin lên brain"
+      },
+      {
+        "narration": "Hormone này vốn chỉ có nhiệm vụ thôi thúc bạn tìm thức ăn.",
+        "search": "hoat hinh 3d dia thuc an thom ngon phat sang",
+        "caption": "Ghrelin kích hoạt phản xạ tìm phần thưởng"
+      },
+      {
+        "narration": "Nhưng khi ghrelin tăng cao, một sự cố tâm lý xuất hiện.",
+        "search": "isometric render nhan vat ngo ngac trong sieu thi",
+        "caption": "Sự cố tâm lý bất ngờ xuất hiện"
+      },
+      {
+        "narration": "Não bộ rơi vào hiệu ứng lan tỏa ham muốn cực kỳ nguy hiểm.",
+        "search": "3d motion graphics luong song nao lan toan do vat",
+        "caption": "Hiệu ứng lan tỏa ham muốn nguy hiểm"
+      },
+      {
+        "narration": "Cơn thèm ăn biến thành thèm sở hữu mọi thứ bạn nhìn thấy.",
+        "search": "hoat hinh 3d tay voi va nhat do tren ke sieu thi",
+        "caption": "Cơn thèm ăn biến thành thèm sở hữu"
+      },
+      {
+        "narration": "Nghiên cứu chứng minh người đói bụng tiêu nhiều hơn tới 64% tiền, kể cả vào quần áo hay đồ điện tử.",
+        "search": "3d animation shopping cart electronic appliances store receipt",
+        "caption": "Đói bụng làm tăng 64% chi tiêu ngoài kế hoạch"
+      },
+      {
+        "narration": "Hormone ghrelin khiến vỏ não coi mọi đồ vật xung quanh như tài nguyên sinh tồn cần gom về ngay lập tức.",
+        "search": "motion graphics human brain ghrelin hormone signal glowing impulse",
+        "caption": "Ghrelin coi đồ vật là tài nguyên sinh tồn"
+      },
+      {
+        "narration": "Chiếc xe đẩy chất đống thực chất là cái bẫy sinh học do chính bộ não tự giăng ra cho bạn.",
+        "search": "isometric render overfilled supermarket shopping cart food items",
+        "caption": "Xe đẩy đầy là cái bẫy sinh học của não"
+      },
+      {
+        "narration": "Đến khi quẹt thẻ thanh toán, bạn mới bàng hoàng nhận ra chiếc ví của mình đã hoàn toàn rỗng túi.",
+        "search": "3d animation credit card payment terminal empty wallet money",
+        "caption": "Ví rỗng túi ngay lúc chạm thẻ thanh toán"
+      },
+      {
+        "narration": "Bí quyết duy nhất: hãy ăn nhẹ hoặc chuẩn bị danh sách mua sắm trước khi bước qua cửa siêu thị.",
+        "search": "explainer animation hand holding grocery list paper healthy meal",
+        "caption": "Ăn no hoặc viết danh sách để bảo vệ ví"
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T06:15:46.733056+00:00",
+    "updated_at": "2026-10-12T06:19:32.141350+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-12T06:17:39.118212+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "542 chars",
+        "at": "2026-10-12T06:17:57.518203+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T06:18:30.581885+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T06:19:32.141340+00:00"
+      }
+    }
+  },
+  {
     "id": "0ab108cc94",
     "kind": "short",
     "channel": "Channel2",
