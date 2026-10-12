@@ -1,5 +1,162 @@
 [
   {
+    "id": "0ab108cc94",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Arab King Whipped the Euphrates River",
+    "idea": {
+      "title": "Why an Arab King Whipped the Euphrates River",
+      "hook": "In 539 BC, King Cyrus the Great paused his invasion of Babylon to wage war on a river—because it drowned his sacred white horse.",
+      "beats": [
+        "Persian ruler Cyrus the Great marched his elite imperial army toward Babylon alongside a team of revered sacred white horses.",
+        "While attempting to cross the violent Gyndes river, one prized stallion panicked and was swept away to its death.",
+        "Blinded by rage and grief, Cyrus halted the entire military campaign and ordered his men to dig 360 separate drainage canals.",
+        "The massive army spent an entire summer digging trenches just to split and weaken the river so even a woman could cross it without wetting her knees.",
+        "The bizarre, petulant act ironically trained his troops in hydraulic diversion—which he later used to divert the Euphrates and conquer Babylon itself."
+      ],
+      "keywords": [
+        "Cyrus the Great",
+        "ancient Persia painting",
+        "Babylon siege engraving",
+        "Euphrates river antique map",
+        "ancient Persian cavalry"
+      ],
+      "tags": [
+        "ancienthistory",
+        "cyrusthegreat",
+        "persianempire",
+        "historyfacts",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 539 BC, a Persian emperor declared war on a river.",
+        "search": "Cyrus the Great portrait painting ancient Persia",
+        "caption": "In 539 BC, a king declared war on a river."
+      },
+      {
+        "narration": "King Cyrus the Great was marching his imperial army toward Babylon, accompanied by sacred white stallions.",
+        "search": "ancient Persian cavalry oil painting",
+        "caption": "Cyrus marched toward Babylon with sacred horses."
+      },
+      {
+        "narration": "While crossing the treacherous Gyndes River, a sudden current swept away one of his revered royal steeds.",
+        "search": "Euphrates river antique map engraving",
+        "caption": "A violent river drowned his sacred stallion."
+      },
+      {
+        "narration": "Enraged by the loss, Cyrus immediately halted his massive military campaign against Babylon to punish the water itself.",
+        "search": "Cyrus the Great ancient Persian king relief sculpture",
+        "caption": "Cyrus halted his campaign to punish the river."
+      },
+      {
+        "narration": "He forced thousands of elite soldiers to spend the entire summer digging 360 separate drainage channels.",
+        "search": "ancient army digging trenches historical engraving",
+        "caption": "Thousands of soldiers dug 360 drainage canals."
+      },
+      {
+        "narration": "The massive engineering effort split the river into tiny streams, shallow enough for a woman to cross dry-shod.",
+        "search": "ancient river canal irrigation engraving",
+        "caption": "The water was split into shallow streams."
+      },
+      {
+        "narration": "What seemed like a petulant act of rage actually served as vital practice for his empire's grandest tactical masterstroke.",
+        "search": "Babylon siege engraving ancient city walls",
+        "caption": "The bizarre act became a strategic masterstroke."
+      },
+      {
+        "narration": "Months later, Cyrus applied these exact hydraulic diversion skills to drain the Euphrates and conquer invincible Babylon.",
+        "search": "fall of babylon oil painting cyrus",
+        "caption": "Diverting the Euphrates conquered Babylon in 539 BC."
+      },
+      {
+        "narration": "In 539 BC, the Persian imperial army reached the massive outer walls of Babylon, an ancient fortress city deemed completely unconquerable.",
+        "search": "Babylon siege engraving",
+        "caption": "Cyrus the Great marches on invincible Babylon in 539 BC"
+      },
+      {
+        "narration": "Instead of a costly frontal assault, Cyrus ordered his engineers to construct a vast network of feeder canals upstream from the capital.",
+        "search": "Euphrates river antique map",
+        "caption": "Engineers divert the mighty river away from the city walls"
+      },
+      {
+        "narration": "By redirecting the river's flow into dry basins, the water level dropped low enough for Persian soldiers to march straight into Babylon under the city gates.",
+        "search": "ancient Persian cavalry",
+        "caption": "The canal-digging punishment becomes the ultimate weapon for conquest"
+      },
+      {
+        "narration": "In 539 BC, an invincible king declared war on a river.",
+        "search": "Cyrus the Great oil painting",
+        "caption": "Why did a king declare war on a river?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T01:29:36.073624+00:00",
+    "updated_at": "2026-10-12T01:35:44.112456+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-12T01:31:27.035211+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "404 chars (cat 216 de vua 55s)",
+        "at": "2026-10-12T01:32:40.619865+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 6 cau",
+        "at": "2026-10-12T01:32:45.036803+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-12T01:32:46.254877+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-12T01:35:01.303122+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-12T01:35:01.351255+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 9768836 bytes",
+        "at": "2026-10-12T01:35:43.878538+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-12T01:35:44.112444+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28354530/pexels-photo-28354530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16135118/pexels-photo-16135118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12442589/pexels-photo-12442589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37895010/pexels-photo-37895010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31028116/pexels-photo-31028116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34224216/pexels-photo-34224216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12050746/pexels-photo-12050746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33351717/pexels-photo-33351717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35462167/pexels-photo-35462167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29621445/pexels-photo-29621445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27567849/pexels-photo-27567849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4406715/pexels-photo-4406715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8a843e74d6",
     "kind": "short",
     "channel": "Channel2",
