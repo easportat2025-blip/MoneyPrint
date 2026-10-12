@@ -1,5 +1,124 @@
 [
   {
+    "id": "9ada02557d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome’s Deadliest Empress Fed Her Husband Poison",
+    "idea": {
+      "title": "Why Rome’s Deadliest Empress Fed Her Husband Poison",
+      "hook": "Empress Agrippina fed Emperor Claudius a poisoned mushroom to make her teenage son ruler of Rome—only for that same son to butcher her five years later.",
+      "beats": [
+        "In 54 AD, Empress Agrippina feared her husband Emperor Claudius would choose his biological son Britannicus as heir over her son Nero.",
+        "She enlisted an infamous poisoner named Locusta and laced Claudius's favorite dish of wild mushrooms with a fatal toxin.",
+        "Claudius collapsed in agonizing convulsions, clearing the path for 16-year-old Nero to claim total dominion over the Roman Empire.",
+        "Her triumph quickly curdled into horror when Nero, paranoid and craving unchecked power, sent imperial assassins to brutally execute his own mother."
+      ],
+      "keywords": [
+        "Empress Agrippina portrait bust",
+        "Emperor Claudius ancient painting",
+        "Death of Claudius Roman engraving",
+        "Nero Roman emperor statue",
+        "Ancient Rome imperial palace illustration"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Roman Empire",
+        "Emperor Nero",
+        "Agrippina",
+        "History Documentaries",
+        "Historical Betrayals",
+        "Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome’s deadliest empress poisoned her husband to crown her son.",
+        "search": "empress agrippina marble bust statue",
+        "caption": "She poisoned an emperor to crown her teenage son."
+      },
+      {
+        "narration": "Yet five years after seizing the throne, that same son ordered her execution.",
+        "search": "nero roman emperor marble bust close up",
+        "caption": "Her chosen heir ordered her brutal execution five years later."
+      },
+      {
+        "narration": "In October of 54 AD, Empress Agrippina faced a lethal political dilemma in Rome's imperial palace.",
+        "search": "ancient rome palatine hill palace ruins engraving",
+        "caption": "October 54 AD: The imperial succession crisis begins in Rome."
+      },
+      {
+        "narration": "Her husband, Emperor Claudius, was preparing to name his biological son Britannicus as sole successor.",
+        "search": "emperor claudius marble statue portrait",
+        "caption": "Emperor Claudius planned to bypass Agrippina's teenage son Nero."
+      },
+      {
+        "narration": "To secure power for her teenage son Nero, Agrippina recruited the notorious imperial poisoner Locusta.",
+        "search": "locusta poisonous mushrooms ancient rome oil painting",
+        "caption": "Agrippina recruited imperial poisoner Locusta to prepare a lethal toxin."
+      },
+      {
+        "narration": "During an imperial banquet on October 12, a dish of laced wild mushrooms was served to Claudius.",
+        "search": "roman banquet feast oil painting 19th century",
+        "caption": "A lethal dish of wild mushrooms was served to the emperor."
+      },
+      {
+        "narration": "Claudius died hours later, clearing the Praetorian Guard to acclaim sixteen-year-old Nero as ruler.",
+        "search": "death of emperor claudius engraving vintage",
+        "caption": "Claudius perished, leaving sixteen-year-old Nero as sole emperor."
+      },
+      {
+        "narration": "With Nero installed on the throne, Agrippina assumed she would secretly govern the Roman world.",
+        "search": "nero and agrippina roman aureus gold coin",
+        "caption": "Agrippina claimed supreme control, but Nero resisted her rule."
+      },
+      {
+        "narration": "Within months, Nero resisted his mother's suffocating control, stripping away her Praetorian bodyguard and expelling her from the imperial palace.",
+        "search": "Nero Roman emperor marble bust statue",
+        "caption": "Nero stripped Agrippina of power and banished her from the palace."
+      },
+      {
+        "narration": "In March 59 AD, after a plot to drown her in a collapsing pleasure boat failed, Nero dispatched armed soldiers directly to her villa at Baiae.",
+        "search": "Death of Agrippina historical oil painting",
+        "caption": "After a staged shipwreck failed, Nero ordered soldiers to execute her."
+      },
+      {
+        "narration": "Cornered by assassins, Agrippina ordered them to strike the womb that bore Nero, dying by the brutal ambition she forged to seize the throne.",
+        "search": "Empress Agrippina the Younger marble portrait bust",
+        "caption": "Agrippina was murdered by the son she poisoned Claudius to crown."
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T11:14:33.654692+00:00",
+    "updated_at": "2026-10-12T11:19:28.454591+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-12T11:17:09.535133+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "375 chars (cat 125 de vua 55s)",
+        "at": "2026-10-12T11:17:53.873227+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T11:18:26.932874+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T11:19:28.454542+00:00"
+      }
+    }
+  },
+  {
     "id": "153858aaae",
     "kind": "short",
     "channel": "Channel2",
