@@ -1,5 +1,123 @@
 [
   {
+    "id": "153858aaae",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Truest Ally Regretted Winning a Battle",
+    "idea": {
+      "title": "Why Rome's Truest Ally Regretted Winning a Battle",
+      "hook": "In 168 BC, King Eumenes won a total victory for Rome, only to realize his triumph signed his own kingdom's death warrant.",
+      "beats": [
+        "King Eumenes II of Pergamon spent decades faithfully fighting as Rome's strongest ally against rival empires.",
+        "At the Battle of Pydna, he helped Rome crush the Macedonian army once and for all.",
+        "Instead of celebrating, Rome realized Pergamon was now the only remaining power in the East—and turned suspicious overnight.",
+        "The Roman Senate secretly financed his jealous brother to overthrow him and barred Eumenes from entering Rome.",
+        "His desperate loyalty only proved the brutal rule: once Rome had no enemies left, it turned on its friends."
+      ],
+      "keywords": [
+        "king eumenes pergamon ancient rome",
+        "battle of pydna engraving",
+        "roman senate marble bust",
+        "ancient greek kingdom map",
+        "hellenistic painting ancient history"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#history",
+        "#pergamon",
+        "#romanempire",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Winning Rome's war destroyed his kingdom.",
+        "search": "king eumenes ii pergamon marble bust statue",
+        "caption": "Winning Rome's war destroyed King Eumenes' kingdom."
+      },
+      {
+        "narration": "In the second century BC, King Eumenes II of Pergamon was the Roman Republic's most reliable eastern ally.",
+        "search": "ancient pergamon kingdom map engraving",
+        "caption": "Pergamon spent decades backing the Roman Republic."
+      },
+      {
+        "narration": "When Rome invaded northern Greece to crush King Perseus of Macedon, Eumenes committed Pergamon's fleet and treasury.",
+        "search": "perseus of macedon ancient coin portrait",
+        "caption": "Eumenes committed his entire military to Rome's cause."
+      },
+      {
+        "narration": "At the Battle of Pydna in 168 BC, allied forces crushed the Macedonian phalanx in under an hour.",
+        "search": "battle of pydna ancient warfare engraving",
+        "caption": "In 168 BC, Roman and allied forces crushed Macedon."
+      },
+      {
+        "narration": "The victory was absolute, but it instantly erased the geopolitical buffer that made Pergamon valuable.",
+        "search": "roman legion eagle standard relief carving",
+        "caption": "Total victory eliminated the strategic balance of power."
+      },
+      {
+        "narration": "With no major enemies left in the east, the Roman Senate turned suspicious of its last surviving partner.",
+        "search": "roman senate curia marble relief sculpture",
+        "caption": "Rome instantly grew suspicious of its surviving ally."
+      },
+      {
+        "narration": "Senators circulated unproven rumors that Eumenes had plotted secret truces with Macedon before the battle.",
+        "search": "hellenistic king council fresco painting",
+        "caption": "Unproven rumors accused Eumenes of secret treason."
+      },
+      {
+        "narration": "When King Eumenes traveled to Italy to defend his honor, Roman magistrates barred him at the port.",
+        "search": "ancient roman harbor ostia engraving",
+        "caption": "Rome barred its truest ally from entering the capital."
+      },
+      {
+        "narration": "In 167 BC, the Roman Senate courted Eumenes's younger brother Attalus, offering military backing if he seized Pergamon's throne.",
+        "search": "attalus ii ancient greek coin macro",
+        "caption": "Rome offered to back Eumenes's brother in a coup."
+      },
+      {
+        "narration": "Though Attalus refused to betray him, the Senate retaliated by stripping Eumenes of key territories and backing Galatian border raids against his cities.",
+        "search": "galatian warrior ancient marble relief",
+        "caption": "The Senate retaliated by empowering hostile Galatian tribes."
+      },
+      {
+        "narration": "By crushing Rome's final rival at Pydna, Eumenes destroyed his own strategic value, leaving Pergamon isolated until Rome annexed the entire kingdom in 133 BC.",
+        "search": "pergamon acropolis ruins ancient engraving",
+        "caption": "Eliminating Rome's enemies guaranteed Pergamon's total annexation."
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T07:11:21.822097+00:00",
+    "updated_at": "2026-10-12T07:13:45.109492+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-12T07:11:58.337324+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "407 chars (cat 172 de vua 55s)",
+        "at": "2026-10-12T07:12:10.246201+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T07:12:43.571884+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T07:13:45.109477+00:00"
+      }
+    }
+  },
+  {
     "id": "71501a9332",
     "kind": "short",
     "channel": "Channel3",
