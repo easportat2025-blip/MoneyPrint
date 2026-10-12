@@ -1,5 +1,132 @@
 [
   {
+    "id": "04c702a5dc",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bạn luôn tỉnh táo lạ thường vào lúc nửa đêm",
+    "idea": {
+      "title": "Lý do bạn luôn tỉnh táo lạ thường vào lúc nửa đêm",
+      "hook": "Tại sao ban ngày bạn ngáp ngắn ngáp dài, nhưng đúng 11 giờ đêm não lại bừng tỉnh như vừa nạp pin?",
+      "beats": [
+        "Hiện tượng này gọi là 'second wind' sinh học, xảy ra khi nhịp sinh học và áp lực buồn ngủ giao thoa.",
+        "Khoảng 9 đến 10 giờ tối, não tiết ra hormone cortisol lần cuối để hoàn tất chu trình trao đổi chất trong ngày.",
+        "Nếu bạn cố tình bỏ qua cơn buồn ngủ đầu tiên lúc 10 giờ, cơ thể sẽ hiểu nhầm bạn đang gặp nguy hiểm và bơm adrenaline để giữ bạn thức.",
+        "Hậu quả là bạn mất ngủ giả tạo, khiến chất lượng giấc ngủ sâu giảm tới 40% vào sáng hôm sau."
+      ],
+      "keywords": [
+        "tired person night clock",
+        "glowing phone in dark",
+        "biological clock brain",
+        "adrenaline heart rate monitor",
+        "exhausted morning alarm"
+      ],
+      "tags": [
+        "channel3",
+        "giacngu",
+        "meosuckhoe",
+        "khoahocthuvi",
+        "doisong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ban ngày ngáp dài, 11 giờ đêm lại bừng tỉnh?",
+        "search": "3d animation nguoi nam tren giuong mo to mat nhin dong ho 11h dem",
+        "caption": "Ban ngày uể oải, đêm muộn bỗng tỉnh như sáo?"
+      },
+      {
+        "narration": "Hai giờ chiều uống cà phê vẫn rũ rượi, nhưng vừa trèo lên giường thì não lại bật công tắc như nạp pin.",
+        "search": "motion graphics ly ca phe roi xuong va mat nguoi ngap met moi",
+        "caption": "Cà phê ban ngày không át được cơn buồn ngủ."
+      },
+      {
+        "narration": "Khoa học gọi đây là hiện tượng cơn gió thứ hai, bắt nguồn từ cuộc va chạm giữa hai cơ chế sinh học.",
+        "search": "isometric render dong ho sinh hoc ben trong co the nguoi",
+        "caption": "Hiện tượng second wind của đồng hồ sinh học."
+      },
+      {
+        "narration": "Một bên là áp lực buồn ngủ tích tụ suốt cả ngày, bên kia là nhịp sinh học đang cố giữ nhiệt độ cơ thể.",
+        "search": "explainer animation hai thanh do ap luc sinh hoc va nang luong",
+        "caption": "Áp lực ngủ và nhịp thức va chạm nhau."
+      },
+      {
+        "narration": "Đặc biệt từ 9 đến 10 giờ tối, não tiết đợt cortisol cuối cùng để hoàn tất chu trình trao đổi chất trong ngày.",
+        "search": "cartoony 3d tuyen thuong than tiet hormone cortisol vao mach mau",
+        "caption": "Não tiết đợt cortisol cuối lúc 10 giờ tối."
+      },
+      {
+        "narration": "Đây chính là lúc bạn thấy mí mắt trĩu nặng nhất, nhưng ngón tay vẫn cố lướt nốt vài video trên điện thoại.",
+        "search": "3d animation ban tay luot dien thoai phat sang trong phong toi",
+        "caption": "Bỏ qua cơn buồn ngủ tự nhiên để lướt màn hình."
+      },
+      {
+        "narration": "Nếu bạn cố tình phớt lờ cơn buồn ngủ này, não bộ sẽ lập tức kích hoạt phản xạ sinh tồn thời tiền sử.",
+        "search": "motion graphics bo nao phat chuong bao dong do khancap",
+        "caption": "Não hiểu lầm cơ thể đang gặp nguy hiểm."
+      },
+      {
+        "narration": "Nó tưởng bạn đang chạy trốn kẻ săn mồi, nên lệnh cho tuyến thượng thận bơm gấp adrenaline vào máu.",
+        "search": "isometric render tim dap nhanh va dong do nhip tim tang vot",
+        "caption": "Tuyến thượng thận bơm adrenaline kích thích tim đập mạnh."
+      },
+      {
+        "narration": "Cú hích adrenaline này khiến nhịp tim tăng vọt, đẩy não vào trạng thái tỉnh táo giả tạo suốt hai tiếng tiếp theo.",
+        "search": "3d animation tim dap nhanh dong ho dem dien thoai",
+        "caption": "Adrenaline tạo ra cơn tỉnh táo giả tạo kéo dài hai tiếng"
+      },
+      {
+        "narration": "Ánh sáng xanh từ màn hình điện thoại lúc này bồi thêm đòn chí mạng, chặn đứng hoàn toàn hormone melatonin gây buồn ngủ.",
+        "search": "motion graphics anh sang xanh man hinh dien thoai chieu vao mat",
+        "caption": "Ánh sáng màn hình triệt tiêu hoàn toàn hormone gây buồn ngủ"
+      },
+      {
+        "narration": "Hậu quả là khi bạn kiệt sức thiếp đi lúc 2 giờ sáng, thời lượng giấc ngủ sâu đã bị bốc hơi mất 40%.",
+        "search": "3d isometric render nguoi ngu say giac mo song nao suy giam",
+        "caption": "Thời lượng giấc ngủ sâu phục hồi não bị giảm 40%"
+      },
+      {
+        "narration": "Đó là lý do sáng hôm sau bạn thức dậy với cơ thể rã rời, đầu óc u mê dù nằm trên giường đủ bảy tiếng.",
+        "search": "3d cartoony nguoi met moi tat chuong bao thuc buoi sang",
+        "caption": "Thức dậy kiệt sức dù nằm trên giường đủ bảy tiếng"
+      },
+      {
+        "narration": "Để cắt đứt vòng lặp, hãy tắt màn hình và leo lên giường ngay trong cửa sổ 20 phút của cơn ngáp đầu tiên.",
+        "search": "loop animation nguoi nam ngu ngon dong ho 10 gio tat den",
+        "caption": "Nhắm mắt ngay trong 20 phút của cơn ngáp đầu tiên"
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T12:34:16.482996+00:00",
+    "updated_at": "2026-10-12T12:36:46.554940+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-12T12:34:53.391419+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "529 chars",
+        "at": "2026-10-12T12:35:13.431826+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T12:35:45.558905+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T12:36:46.554924+00:00"
+      }
+    }
+  },
+  {
     "id": "9ada02557d",
     "kind": "short",
     "channel": "Channel2",
