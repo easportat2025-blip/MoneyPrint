@@ -1,5 +1,122 @@
 [
   {
+    "id": "ad95ade9dc",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman Emperor Executed the Inventor of Unbreakable Glass",
+    "idea": {
+      "title": "Why a Roman Emperor Executed the Inventor of Unbreakable Glass",
+      "hook": "In 37 AD, a craftsman presented Roman Emperor Tiberius with a glass cup that couldn't break—and Tiberius immediately had him beheaded.",
+      "beats": [
+        "The artisan dropped a glass vase on marble; it bent instead of shattering, then he hammered it back into shape.",
+        "Expecting a massive royal reward, the inventor swore under oath that he was the only living person who knew the secret.",
+        "Tiberius realized this cheap, indestructible material would cause Rome's vast gold and silver stockpiles to lose all value.",
+        "To protect the empire's economy, Tiberius ordered the inventor's instant execution, taking the secret to the grave."
+      ],
+      "keywords": [
+        "Tiberius bust",
+        "ancient Roman glass art",
+        "Roman Emperor painting",
+        "Roman coin treasury",
+        "ancient Rome engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#romanempire",
+        "#tiberius",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An ancient Roman invented unbreakable glass—and was immediately executed.",
+        "search": "Emperor Tiberius marble bust statue close up",
+        "caption": "The Roman inventor executed for making unbreakable glass"
+      },
+      {
+        "narration": "According to Roman historians Pliny the Elder and Cassius Dio, an artisan secured an audience with Emperor Tiberius around 37 AD.",
+        "search": "ancient Rome imperial palace ruins engraving",
+        "caption": "37 AD: An artisan visits Emperor Tiberius"
+      },
+      {
+        "narration": "The craftsman presented a transparent glass vessel and hurled it violently onto the imperial marble floor.",
+        "search": "ancient Roman blown glass vessel museum artifact",
+        "caption": "The glass vessel was thrown onto solid marble"
+      },
+      {
+        "narration": "Instead of shattering into lethal shards, the miraculous vessel merely dented like beaten bronze.",
+        "search": "ancient Roman glass cup artifact close up",
+        "caption": "The glass dented instead of shattering"
+      },
+      {
+        "narration": "Pulling a mallet from his tunic, the craftsman hammered the dented glass back to perfection.",
+        "search": "Roman metalworking blacksmith tools engraving",
+        "caption": "The artisan hammered the dent out of the glass"
+      },
+      {
+        "narration": "Anticipating an enormous imperial reward, the inventor swore that only he possessed the chemical formula.",
+        "search": "ancient Roman Senate gathering oil painting",
+        "caption": "He swore under oath that only he held the secret"
+      },
+      {
+        "narration": "Tiberius realized this indestructible, abundant material would instantly devalue Rome's immense gold and silver reserves.",
+        "search": "ancient Roman gold aureus coins hoard",
+        "caption": "Unbreakable glass threatened to devalue gold and silver"
+      },
+      {
+        "narration": "If glass displaced precious metals in daily commerce, the Roman treasury faced imminent economic collapse.",
+        "search": "ancient Roman coin mint treasury engraving",
+        "caption": "The breakthrough threatened Rome's monetary system"
+      },
+      {
+        "narration": "Ancient accounts record that Tiberius asked if anyone else knew the formula, and the craftsman swore he was the sole inventor.",
+        "search": "emperor tiberius marble bust statue museum",
+        "caption": "The artisan swore under oath that only he held the secret."
+      },
+      {
+        "narration": "To permanently eliminate the threat to Rome's currency, Tiberius immediately ordered the craftsman beheaded.",
+        "search": "ancient roman execution vintage historical engraving",
+        "caption": "Tiberius ordered his instant execution to protect the imperial treasury."
+      },
+      {
+        "narration": "The formula for flexible glass died with its maker, preserving Rome's gold standard and leaving an ancient technological marvel lost forever.",
+        "search": "ancient roman blown glass cup artifact museum",
+        "caption": "The secret died with him, leaving flexible glass lost to history."
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T23:45:06.239168+00:00",
+    "updated_at": "2026-10-12T23:48:36.430472+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-12T23:46:12.604830+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "422 chars (cat 234 de vua 55s)",
+        "at": "2026-10-12T23:47:01.915887+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T23:47:34.915847+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T23:48:36.430464+00:00"
+      }
+    }
+  },
+  {
     "id": "7f52ac24be",
     "kind": "short",
     "channel": "Channel3",
