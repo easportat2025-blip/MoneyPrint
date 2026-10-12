@@ -1,5 +1,132 @@
 [
   {
+    "id": "7f52ac24be",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do menu nhà hàng không bao giờ ghi chữ 'đ'",
+    "idea": {
+      "title": "Bí mật lý do menu nhà hàng không bao giờ ghi chữ 'đ'",
+      "hook": "Bạn có để ý các nhà hàng sang trọng gần như không bao giờ ghi ký hiệu tiền tệ hay chữ 'đ' trên thực đơn?",
+      "beats": [
+        "Nghiên cứu của Đại học Cornell phát hiện thực khách chi nhiều tiền hơn hẳn khi giá món ăn chỉ là một con số trần trụi mà không có ký hiệu tiền tệ.",
+        "Ký hiệu tiền tệ đóng vai trò như một lời nhắc nhở tiềm thức về nỗi đau mất mát tài chính (pain of paying).",
+        "Khi xóa bỏ ký hiệu này, não bạn vô thức xem mức giá chỉ là một con số trừu tượng và ít phòng thủ hơn khi gọi món.",
+        "Một mẹo tâm lý tinh vi biến bữa ăn của bạn đắt đỏ hơn mà bạn không hề hay biết."
+      ],
+      "keywords": [
+        "restaurant menu close up",
+        "luxury dining table",
+        "paying bill credit card",
+        "psychology thinking brain",
+        "waiter taking order"
+      ],
+      "tags": [
+        "tamlyhoc",
+        "meotieuphi",
+        "suthatthuvi",
+        "kienthucdoisong",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vì sao menu nhà hàng luôn giấu ký hiệu tiền?",
+        "search": "3d animation restaurant menu close up numbers",
+        "caption": "Vì sao menu nhà hàng luôn giấu ký hiệu tiền?"
+      },
+      {
+        "narration": "Đại học Cornell đã phát hiện một sự thật kỳ lạ khi phân tích hành vi gọi món.",
+        "search": "3d animation university research clipboard scientist",
+        "caption": "Nghiên cứu từ Đại học Cornell hé lộ sự thật bất ngờ"
+      },
+      {
+        "narration": "Khi giá ăn chỉ ghi số 200 thay vì 200đ, thực khách lại chi nhiều tiền hơn hẳn.",
+        "search": "3d animation food menu price digits",
+        "caption": "Chỉ ghi số thuần túy khiến bạn tự giác chi nhiều hơn"
+      },
+      {
+        "narration": "Các nhà tâm lý học gọi đây là phản ứng trước nỗi đau mất mát tài chính.",
+        "search": "3d animation human brain glowing red pain",
+        "caption": "Phản ứng tâm lý trước nỗi đau mất mát tài chính"
+      },
+      {
+        "narration": "Ký hiệu tiền tệ như chữ đ đóng vai trò kích hoạt cảm giác tiếc tiền trong não.",
+        "search": "3d animation wallet cash money flying",
+        "caption": "Ký hiệu tiền kích hoạt tâm lý đề phòng bị mất tiền"
+      },
+      {
+        "narration": "Khi xóa bỏ ký hiệu này, não bộ vô thức xem mức giá chỉ là một con số trừu tượng.",
+        "search": "3d animation human head thinking abstract numbers",
+        "caption": "Bộ não bị đánh lừa, xem mức giá chỉ là con số vô hại"
+      },
+      {
+        "narration": "Hàng rào phòng thủ hạ xuống khiến bạn dễ dàng gọi thêm nhiều món đắt đỏ.",
+        "search": "3d animation waiter serving luxury food table",
+        "caption": "Bạn thoải mái gọi thêm món đắt tiền mà không hay"
+      },
+      {
+        "narration": "Một mẹo thiết kế menu tinh vi đã âm thầm móc túi bạn trước khi thanh toán.",
+        "search": "3d animation credit card paying bill receipt",
+        "caption": "Mẹo thiết kế menu âm thầm làm vơi ví của bạn"
+      },
+      {
+        "narration": "Không dừng lại ở việc xóa chữ 'đ', việc bỏ bớt các số 0 như viết 150 thay vì 150.000 càng làm não bộ lười tính toán.",
+        "search": "3d animation menu nha hang khong ghi gia",
+        "caption": "Rút ngắn con số làm brain lười tính toán"
+      },
+      {
+        "narration": "Nghiên cứu thần kinh chỉ ra rằng ký hiệu tiền tệ kích hoạt đúng vùng não chịu trách nhiệm xử lý nỗi đau thể xác.",
+        "search": "motion graphics nao bo phan ung voi tien",
+        "caption": "Nhìn ký hiệu tiền kích hoạt vùng não báo đau"
+      },
+      {
+        "narration": "Khi nỗi đau mất tiền bị làm mờ, thực khách dễ dàng gọi thêm món và chi nhiều hơn trung bình 12%.",
+        "search": "3d animation hoa don thanh toan tien mat",
+        "caption": "Thực khách vô thức chi thêm 12% chi phí"
+      },
+      {
+        "narration": "Để không bị dắt mũi, giải pháp đơn giản là hãy tự nhẩm thêm chữ 'đồng' vào sau mỗi con số khi xem thực đơn.",
+        "search": "3d animation nguoi tinh tien tren ban an",
+        "caption": "Tự nhẩm chữ đồng để khôi phục cảnh giác"
+      },
+      {
+        "narration": "Thao tác nhỏ này trả lại đúng ý nghĩa giá trị tiền tệ, ngay lập tức bật lại hàng rào bảo vệ ví tiền của bạn.",
+        "search": "3d animation vi tien la chan bao ve loop",
+        "caption": "Kích hoạt lại phản xạ bảo vệ ví tiền"
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-12T22:34:51.937196+00:00",
+    "updated_at": "2026-10-12T22:40:25.283895+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-12T22:37:52.037944+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "515 chars (cat 50 de vua 55s)",
+        "at": "2026-10-12T22:38:42.011574+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-12T22:39:17.681189+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-12T22:40:25.283879+00:00"
+      }
+    }
+  },
+  {
     "id": "8346c85b98",
     "kind": "long",
     "channel": "seigh",
