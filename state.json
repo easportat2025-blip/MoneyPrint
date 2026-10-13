@@ -1,5 +1,161 @@
 [
   {
+    "id": "4e8ab58857",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Alexander the Great was accidentally buried alive",
+    "idea": {
+      "title": "Why Alexander the Great was accidentally buried alive",
+      "hook": "When Alexander the Great died in 323 BC, his body showed no signs of decay for six days—because modern science proves he was actually still alive.",
+      "beats": [
+        "Historians recorded that Alexander's body remained completely fresh and lifelike days after his death, baffling ancient doctors and priests.",
+        "Modern neurologists believe he suffered from a rare neurological disorder called Guillain-Barré syndrome, which paralyzes the body while keeping the mind fully awake.",
+        "Ancient Macedonians worshipped him as a god, completely unaware that their legendary conqueror was trapped in his own paralyzed body.",
+        "He was inadvertently embalmed and buried alive, making his final agonizing days the most terrifying conquest of his life."
+      ],
+      "keywords": [
+        "alexander the great portrait",
+        "ancient macedonian king",
+        "classical oil painting",
+        "historical death bed",
+        "archival museum bust"
+      ],
+      "tags": [
+        "history",
+        "alexanderthegreat",
+        "mystery",
+        "ancientgreece",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "When Alexander the Great died in 323 BC, his body showed no signs of decay for six days.",
+        "search": "alexander the great portrait oil painting",
+        "caption": "Was Alexander the Great buried alive in 323 BC?"
+      },
+      {
+        "narration": "Ancient historians recorded that his corpse remained completely fresh and lifelike, baffling doctors.",
+        "search": "classical oil painting death bed historical scene",
+        "caption": "A miraculous preservation baffled ancient Babylon."
+      },
+      {
+        "narration": "Modern neurologists suggest he suffered from Guillain-Barré syndrome, a rare paralyzing disorder.",
+        "search": "archival museum bust ancient macedonian king",
+        "caption": "Paralyzed while fully conscious."
+      },
+      {
+        "narration": "This condition locks the body in total paralysis while keeping the mind completely awake.",
+        "search": "ancient greek medical manuscript illustration",
+        "caption": "Trapped inside his own unresponsive body."
+      },
+      {
+        "narration": "Ancient Macedonians worshipped him as a god, missing the signs of life entirely.",
+        "search": "ancient macedonian golden crown artifact museum",
+        "caption": "Worshipped as a god while still alive."
+      },
+      {
+        "narration": "Priests prepared his body for the afterlife without realizing he could still feel.",
+        "search": "ancient egyptian embalming ritual painting illustration",
+        "caption": "Prepared for the afterlife too soon."
+      },
+      {
+        "narration": "He was inadvertently entombed while his mind remained trapped in darkness.",
+        "search": "ancient stone sarcophagus tomb interior engraving",
+        "caption": "Inadvertently sealed inside a stone tomb."
+      },
+      {
+        "narration": "This tragic fate made his final days his most terrifying battle.",
+        "search": "alexander the great marble statue face close up",
+        "caption": "The conqueror's final, silent struggle."
+      },
+      {
+        "narration": "In 323 BC Babylon, ancient doctors and priests were baffled when his body showed no decay for six full days.",
+        "search": "classical oil painting death bed of alexander the great",
+        "caption": "Body remained fresh for six days"
+      },
+      {
+        "narration": "Modern neurologists diagnose this eerie preservation as Guillain-Barré syndrome, a rare paralysis that leaves the mind fully awake.",
+        "search": "ancient macedonian king archaelogical museum bust sculpture",
+        "caption": "Trapped by Guillain-Barré syndrome"
+      },
+      {
+        "narration": "Macedonians worshipped a living god, entirely unaware he was inadvertently embalmed and buried alive in his prime.",
+        "search": "alexander the great portrait mosaic detail close up",
+        "caption": "Buried alive while fully conscious"
+      },
+      {
+        "narration": "Historians recorded that his corpse remained completely fresh and lifelike, baffling ancient doctors and priests.",
+        "search": "historical death bed classical oil painting",
+        "caption": "His body refused to decay for six days."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T23:30:34.990314+00:00",
+    "updated_at": "2026-10-13T23:36:42.828298+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-13T23:32:45.901283+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "379 chars (cat 250 de vua 55s)",
+        "at": "2026-10-13T23:33:48.623167+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 3 cau",
+        "at": "2026-10-13T23:33:50.530302+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-13T23:33:51.535669+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-13T23:36:04.899437+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-13T23:36:04.954939+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.1s 6633990 bytes",
+        "at": "2026-10-13T23:36:42.583716+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-13T23:36:42.828282+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32820469/pexels-photo-32820469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15172339/pexels-photo-15172339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844006/pexels-photo-37844006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29182968/pexels-photo-29182968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610669/pexels-photo-20610669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726170/pexels-photo-23726170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9297680/pexels-photo-9297680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13572811/pexels-photo-13572811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39504012/pexels-photo-39504012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35348996/pexels-photo-35348996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31731298/pexels-photo-31731298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14187686/pexels-photo-14187686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bc2e7fea40",
     "kind": "short",
     "channel": "Channel2",
