@@ -1,4 +1,4 @@
-# Daily ping 12/10/2026
+# Daily ping 13/10/2026
 
 Total views (all tracked): **0** (+0 vs snapshot truoc)
 
@@ -10,11 +10,9 @@ Total views (all tracked): **0** (+0 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (2)
-- Tại sao đi siêu thị đói bụng lại khiến ví bạn rỗng túi? :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
-- Why an Arab King Whipped the Euphrates River :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
-}
+## Fail (3)
+- Sai lầm khi vừa đi bộ vừa cắm mặt vào điện thoại :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
+- Why a Roman emperor executed the man who invented unbre :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
+- The Drunken Mistake That Shattered England :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
 
 ## Top tang truong
