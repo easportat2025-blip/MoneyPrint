@@ -1,5 +1,167 @@
 [
   {
+    "id": "62982eae3f",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bàn tay bạn vô tình xuyên qua mọi thứ?",
+    "idea": {
+      "title": "Tại sao bàn tay bạn vô tình xuyên qua mọi thứ?",
+      "hook": "Bạn nghĩ mình đang chạm vào chiếc điện thoại, nhưng sự thật khoa học là bạn chưa bao giờ thực sự chạm vào bất cứ thứ gì trong đời.",
+      "beats": [
+        "Các nguyên tử cấu tạo nên ngón tay bạn và màn hình điện thoại có một khoảng trống khổng lồ ở giữa.",
+        "Lực đẩy từ điện từ của các electron ngăn cản hai bề mặt chạm hẳn vào nhau ở cấp độ hạ nguyên tử.",
+        "Cảm giác 'chạm' thực chất chỉ là não bộ dịch chuyển lực đẩy đó thành xúc giác để bạn sinh tồn.",
+        "Điều này có nghĩa là bạn đang lơ lửng trên thế giới này, cách mọi vật một khoảng cách vô hình."
+      ],
+      "keywords": [
+        "quantum space",
+        "atomic structure animation",
+        "glowing particles void",
+        "microscopic physics",
+        "dark universe background"
+      ],
+      "tags": [
+        "khoahoc",
+        "suthat",
+        "channel3",
+        "vutru",
+        "vatly"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn chưa từng chạm vào chiếc điện thoại này bao giờ.",
+        "search": "hoat hinh 3d ngon tay bam man hinh dien thoai cam ung",
+        "caption": "Bạn chưa từng thực sự chạm vào chiếc điện thoại"
+      },
+      {
+        "narration": "Dù ngón tay bạn đang lướt rất rõ ràng, thực tế hai bề mặt không hề dính vào nhau.",
+        "search": "motion graphics phong to be mat man hinh dien thoai 3d",
+        "caption": "Hai bề mặt hoàn toàn không tiếp xúc vật lý"
+      },
+      {
+        "narration": "Cơ thể bạn và chiếc màn hình đều được cấu tạo từ các nguyên tử siêu nhỏ.",
+        "search": "explainer animation cau truc nguyen tu hat nhan electron 3d",
+        "caption": "Vạn vật được tạo nên từ vô số nguyên tử"
+      },
+      {
+        "narration": "Thế nhưng, hơn chín mươi chín phần trăm không gian của mỗi nguyên tử là hoàn toàn rỗng.",
+        "search": "3d render mo phong khoang trong ben trong nguyen tu",
+        "caption": "99 phần trăm nguyên tử là khoảng trống rỗng"
+      },
+      {
+        "narration": "Khi ngón tay bạn hạ xuống, các hạt electron ở da và mặt kính bắt đầu tiếp cận.",
+        "search": "3d animation hai lop hat electron phat sang day nhau",
+        "caption": "Các hạt electron chuẩn bị chạm trán nhau"
+      },
+      {
+        "narration": "Vì cùng mang điện tích âm, chúng sinh ra một lực đẩy điện từ cực kỳ mạnh.",
+        "search": "motion graphics hieu ung tu truong luc day vo hinh",
+        "caption": "Lực đẩy điện từ ngăn cản sự va chạm"
+      },
+      {
+        "narration": "Lực đẩy này giữ bàn tay bạn lơ lửng ở khoảng cách một phần tỷ mét.",
+        "search": "3d render ngon tay cach mat ban mot khe ho sieu nho",
+        "caption": "Khoảng cách vô hình chỉ một phần tỷ mét"
+      },
+      {
+        "narration": "Vậy cảm giác cứng cáp và trơn láng ngón tay bạn thấy cả ngày là gì?",
+        "search": "3d animation tin hieu than kinh tu da truyen len nao bo",
+        "caption": "Cảm giác sờ chạm thật sự đến từ đâu"
+      },
+      {
+        "narration": "Cảm giác chạm thực chất chỉ là não bộ dịch chuyển lực đẩy đó thành xúc giác để bạn sinh tồn.",
+        "search": "3d animation human finger touching smartphone screen closeup",
+        "caption": "Não bộ giả lập cảm giác chạm"
+      },
+      {
+        "narration": "Điều này có nghĩa là bạn đang lơ lửng trên thế giới này, cách mọi vật một khoảng cách vô hình.",
+        "search": "isometric render hands holding coffee cup floating particles",
+        "caption": "Bạn chưa từng thực sự chạm vào bất cứ thứ gì"
+      },
+      {
+        "narration": "Khoảng trống lượng tử giữa các nguyên tử lớn đến mức nếu nén hết lại, nhân loại chỉ nhỏ bằng một viên đường.",
+        "search": "explainer animation quantum space atomic structure void",
+        "caption": "Khoảng trống khổng lồ trong vật chất"
+      },
+      {
+        "narration": "Đó là lý do bàn tay bạn vô tình xuyên qua mọi thứ ở cấp độ hạ nguyên tử, dù bề ngoài có vẻ chắc chắn.",
+        "search": "loop animation glowing particles microscopic physics structure",
+        "caption": "Sự thật về khoảng cách hạ nguyên tử"
+      },
+      {
+        "narration": "Hóa ra, cảm giác thân thuộc hằng ngày chỉ là một ảo giác tuyệt đẹp mà vũ trụ tạo ra cho bạn.",
+        "search": "motion graphics dark universe background everyday objects floating",
+        "caption": "Cuộc sống chỉ là một ảo giác vật lý"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T19:41:22.187225+00:00",
+    "updated_at": "2026-10-13T19:52:58.226596+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-13T19:43:23.507265+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "493 chars (cat 129 de vua 55s)",
+        "at": "2026-10-13T19:51:51.081386+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.8s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-13T19:51:57.470891+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-13T19:51:58.547596+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-13T19:52:12.621884+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-13T19:52:12.667950+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.9s 15032327 bytes",
+        "at": "2026-10-13T19:52:57.978687+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-13T19:52:58.226575+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818574/8818574-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655804/16655804-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39889268/17012192_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39890257/17014829_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/39897023/17019169_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8820501/8820501-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7299474/7299474-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819483/8819483-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/25935013/11922026_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/34543219/14636572_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34856243/14772250_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35151200/14891291_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "c7876de67a",
     "kind": "short",
     "channel": "Channel3",
