@@ -1,5 +1,122 @@
 [
   {
+    "id": "727e8d5795",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Emperor Blayed a Corrupt Judge into a Chair",
+    "idea": {
+      "title": "Why an Emperor Blayed a Corrupt Judge into a Chair",
+      "hook": "In 525 BC, King Cambyses II discovered his highest judge took a bribe, so he turned the man's own skin into a courtroom seat.",
+      "beats": [
+        "Persian judge Sisamnes accepted gold to deliver a fraudulent verdict, thinking his elite status protected him.",
+        "King Cambyses uncovered the treason, ordered Sisamnes arrested, and had him executed and completely flayed.",
+        "The king commanded the judge's skin strips be upholstered onto the judicial bench where verdicts were made.",
+        "He then appointed Sisamnes' own son as the replacement judge, forcing him to dispense justice sitting directly on his father's hide."
+      ],
+      "keywords": [
+        "Cambyses flaying Sisamnes painting",
+        "judgment of cambyses gerard david",
+        "ancient persian court engraving",
+        "persian king portrait bust",
+        "ancient judicial hall drawing"
+      ],
+      "tags": [
+        "#ancienthistory",
+        "#persianempire",
+        "#darkhistory",
+        "#historyuncovered",
+        "#historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Persian king turned a corrupt judge into courtroom furniture.",
+        "search": "judgment of cambyses gerard david oil painting",
+        "caption": "A Persian king made courtroom furniture from a corrupt judge."
+      },
+      {
+        "narration": "In 525 BC, King Cambyses II ruled the vast Achaemenid Empire with absolute authority.",
+        "search": "king cambyses ii persia relief engraving",
+        "caption": "In 525 BC, King Cambyses II ruled the Persian Empire."
+      },
+      {
+        "narration": "His supreme judge, Sisamnes, held the power of life and death over imperial subjects.",
+        "search": "ancient persian court judge relief sculpture",
+        "caption": "Royal judge Sisamnes held supreme power over imperial law."
+      },
+      {
+        "narration": "Believing his elite status made him untouchable, Sisamnes accepted a heavy bribe to deliver a false ruling.",
+        "search": "ancient persian gold daric coin artifact",
+        "caption": "Sisamnes accepted gold to deliver a fraudulent imperial verdict."
+      },
+      {
+        "narration": "Word of the corrupted verdict reached the royal palace, infuriating the young monarch.",
+        "search": "persepolis throne hall ancient persia engraving",
+        "caption": "King Cambyses discovered the fraudulent verdict inside his royal court."
+      },
+      {
+        "narration": "Cambyses viewed judicial corruption as high treason, ordering Sisamnes immediately seized by the royal guard.",
+        "search": "persian immortals guard bas relief persepolis",
+        "caption": "Cambyses ordered Sisamnes arrested for high treason against Persia."
+      },
+      {
+        "narration": "Instead of a simple beheading, the emperor sentenced the corrupt magistrate to be executed and completely flayed.",
+        "search": "flaying of sisamnes gerard david painting detail",
+        "caption": "Cambyses sentenced the corrupt judge to be completely flayed."
+      },
+      {
+        "narration": "Royal tanners were then commanded to cure the judge's skin strips for a secretive imperial installation.",
+        "search": "ancient persian judicial hall drawing engraving",
+        "caption": "The judge's skin was sent to royal craftsmen under royal orders."
+      },
+      {
+        "narration": "In 525 BC, King Cambyses had the tanned strips of Sisamnes' skin stretched and fastened directly onto the official courtroom bench.",
+        "search": "judgment of cambyses gerard david oil painting chair detail",
+        "caption": "The judge’s cured skin was upholstered across the imperial bench."
+      },
+      {
+        "narration": "Cambyses then appointed Sisamnes' son, Otanes, to assume the vacant post of royal magistrate.",
+        "search": "ancient persian king cambyses royal court engraving",
+        "caption": "Cambyses appointed Sisamnes' own son to replace the executed magistrate."
+      },
+      {
+        "narration": "Otanes delivered every subsequent verdict sitting directly on his father's flesh, a permanent warning that sealed Persian judicial integrity.",
+        "search": "ancient persian judge bas relief stone carving",
+        "caption": "Every verdict was delivered seated atop his father’s flayed hide."
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T07:34:52.182347+00:00",
+    "updated_at": "2026-10-13T07:37:14.795814+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-13T07:35:22.753744+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "374 chars (cat 172 de vua 55s)",
+        "at": "2026-10-13T07:35:39.496238+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-13T07:36:13.013064+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-13T07:37:14.795793+00:00"
+      }
+    }
+  },
+  {
     "id": "98e4d63387",
     "kind": "short",
     "channel": "Channel3",
