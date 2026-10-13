@@ -1,5 +1,122 @@
 [
   {
+    "id": "985d4ef202",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Drunken Mistake That Shattered England",
+    "idea": {
+      "title": "The Drunken Mistake That Shattered England",
+      "hook": "In 1120, a single cask of celebratory wine handed to a ship's crew wiped out England's entire royal dynasty in under twenty minutes.",
+      "beats": [
+        "Prince William Adelin, the sole legitimate heir to King Henry I, boarded the state-of-the-art White Ship alongside 300 young Anglo-Norman nobles.",
+        "The reckless prince ordered barrels of wine distributed to the crew, leading to a drunken race across the English Channel in total darkness.",
+        "The ship slammed into a submerged granite rock off Barfleur at full speed, fracturing the hull and sinking within minutes.",
+        "Prince William reached a lifeboat but rowed back into the freezing water to save his screaming half-sister, capsizing his boat and plunging England into twenty years of civil war."
+      ],
+      "keywords": [
+        "White Ship disaster engraving",
+        "King Henry I portrait",
+        "medieval shipwreck painting",
+        "Prince William Adelin",
+        "Norman conquest old map"
+      ],
+      "tags": [
+        "medievalhistory",
+        "royalhistory",
+        "historymysteries",
+        "darkhistory",
+        "britishroyals"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One cask of wine destroyed England's entire royal dynasty.",
+        "search": "medieval shipwreck engraving",
+        "caption": "One drink ended an English royal dynasty."
+      },
+      {
+        "narration": "On November 25, 1120, King Henry the First prepared to cross the English Channel from Normandy.",
+        "search": "King Henry I portrait oil painting",
+        "caption": "King Henry I prepares to cross the English Channel, 1120."
+      },
+      {
+        "narration": "His seventeen-year-old heir, Prince William Adelin, boarded the White Ship alongside three hundred young nobles.",
+        "search": "Prince William Adelin medieval manuscript illumination",
+        "caption": "Prince William Adelin boards the White Ship."
+      },
+      {
+        "narration": "Before departing, the prince distributed three casks of wine to the crew, triggering hours of drunken revelry.",
+        "search": "medieval banquet feast manuscript illumination",
+        "caption": "Barrels of wine distributed to the entire crew."
+      },
+      {
+        "narration": "Long after midnight, the heavily intoxicated oarsmen launched into pitch darkness, racing to overtake the king's fleet.",
+        "search": "medieval sailing ship stormy sea oil painting",
+        "caption": "A drunken race into total darkness across the Channel."
+      },
+      {
+        "narration": "Less than a mile offshore, the speeding vessel struck the submerged granite ridge of Quillebeuf Rock.",
+        "search": "ship hitting coastal rocks oil painting",
+        "caption": "The White Ship strikes Quillebeuf rock at full speed."
+      },
+      {
+        "narration": "Prince William was hurried into the sole lifeboat, but commanded the crew to row toward his screaming half-sister.",
+        "search": "White Ship disaster engraving",
+        "caption": "Prince William turns back to rescue his sister."
+      },
+      {
+        "narration": "Dozens of drowning nobles swarmed the small skiff, dragging the only heir beneath the freezing Channel waters.",
+        "search": "men drowning medieval painting",
+        "caption": "The lifeboat capsizes, pulling the prince under."
+      },
+      {
+        "narration": "In 1120, King Henry the First lost his only legitimate son, plunging the realm into an unmitigated succession crisis.",
+        "search": "King Henry I portrait oil painting without",
+        "caption": "King Henry I left without an heir"
+      },
+      {
+        "narration": "The catastrophic loss of the White Ship triggered twenty years of brutal civil war known as the Anarchy.",
+        "search": "medieval shipwreck painting art",
+        "caption": "The disaster sparked twenty years of civil war"
+      },
+      {
+        "narration": "A single night of drunken recklessness permanently fractured the medieval English monarchy.",
+        "search": "Norman conquest old map manuscript",
+        "caption": "A single drunken night broke England's dynasty"
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T01:43:19.714441+00:00",
+    "updated_at": "2026-10-13T01:47:57.402226+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-13T01:45:32.448806+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "432 chars (cat 159 de vua 55s)",
+        "at": "2026-10-13T01:46:20.003918+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-13T01:46:54.946676+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-13T01:47:57.402213+00:00"
+      }
+    }
+  },
+  {
     "id": "ad95ade9dc",
     "kind": "short",
     "channel": "Channel2",
