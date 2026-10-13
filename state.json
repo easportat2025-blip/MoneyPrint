@@ -1,5 +1,161 @@
 [
   {
+    "id": "bc2e7fea40",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman emperor executed his favorite general",
+    "idea": {
+      "title": "Why a Roman emperor executed his favorite general",
+      "hook": "Belisarius saved the Roman Empire from total collapse, but Justinian rewarded him with absolute ruin.",
+      "beats": [
+        "Belisarius reconquered lost western provinces and crushed massive internal revolts for Emperor Justinian.",
+        "Paranoid court advisors whispered that the brilliant general was growing too popular and eyed the throne.",
+        "Justinian stripped his greatest commander of all wealth, titles, and left him isolated in disgrace.",
+        "History records the tragic irony of a sovereign destroying the only shield protecting his crown."
+      ],
+      "keywords": [
+        "roman general portrait",
+        "emperor justinian bust",
+        "ancient rome painting",
+        "byzantine history art",
+        "historic general engraving"
+      ],
+      "tags": [
+        "ancient rome",
+        "roman history",
+        "byzantine empire",
+        "historical figures",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Belisarius saved the Roman Empire, but Justinian ruined him.",
+        "search": "roman general portrait mosaic",
+        "caption": "The general who saved Rome"
+      },
+      {
+        "narration": "In 533 AD, Emperor Justinian faced near total collapse of his realm.",
+        "search": "emperor justinian bust sculpture",
+        "caption": "Emperor Justinian's fragile empire"
+      },
+      {
+        "narration": "General Belisarius reconquered lost western provinces through brilliant military campaigns.",
+        "search": "ancient rome painting battle scene",
+        "caption": "Reconquering the Western provinces"
+      },
+      {
+        "narration": "In 532 AD, Belisarius crushed massive internal revolts during the Nika riots in Constantinople.",
+        "search": "byzantine history art riot",
+        "caption": "Crushing the Nika riots"
+      },
+      {
+        "narration": "Paranoid court advisors whispered that the general eyed the imperial throne.",
+        "search": "historic general engraving in council",
+        "caption": "Whispers of treason in court"
+      },
+      {
+        "narration": "Fearing a coup, Justinian stripped his greatest commander of all wealth and titles.",
+        "search": "medieval manuscript illumination trial",
+        "caption": "Stripped of wealth and title"
+      },
+      {
+        "narration": "The victorious commander was left isolated and disgraced in the streets of Constantinople.",
+        "search": "byzantine ruin oil painting",
+        "caption": "Isolated in absolute disgrace"
+      },
+      {
+        "narration": "History records the tragic irony of a sovereign destroying his own shield.",
+        "search": "roman coin profile antiquity",
+        "caption": "Destroying the crown's only shield"
+      },
+      {
+        "narration": "In 562 AD, Emperor Justinian finally restored Belisarius to a modest retirement in Constantinople.",
+        "search": "emperor justinian bust close up stone sculpture",
+        "caption": "Justinian restores the broken commander in 562 AD."
+      },
+      {
+        "narration": "Yet the profound damage to the Byzantine state was irreversible, leaving the weakened empire vulnerable to collapse.",
+        "search": "byzantine history art medieval manuscript illumination",
+        "caption": "The empire remains fractured and deeply vulnerable."
+      },
+      {
+        "narration": "Justinian's paranoia ultimately destroyed his greatest shield, proving that absolute rulers fear brilliance more than defeat.",
+        "search": "historic general engraving 6th century warrior",
+        "caption": "Tyranny destroys the very shield protecting the crown."
+      },
+      {
+        "narration": "Why did a Roman emperor ruin his greatest general?",
+        "search": "roman general portrait",
+        "caption": "Why did Emperor Justinian destroy his greatest general?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T21:58:50.193763+00:00",
+    "updated_at": "2026-10-13T22:05:01.848324+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-13T22:01:00.614037+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "363 chars (cat 245 de vua 55s)",
+        "at": "2026-10-13T22:02:01.709904+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-13T22:02:04.351530+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-13T22:02:05.394078+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-13T22:04:24.196505+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-13T22:04:24.248733+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 8543030 bytes",
+        "at": "2026-10-13T22:05:01.586817+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-13T22:05:01.848307+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38736473/pexels-photo-38736473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731099/pexels-photo-11731099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422683/pexels-photo-20422683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32459754/pexels-photo-32459754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34427767/pexels-photo-34427767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076980/pexels-photo-16076980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33802420/pexels-photo-33802420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057028/pexels-photo-29057028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37082420/pexels-photo-37082420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30910765/pexels-photo-30910765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267445/pexels-photo-9267445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19323133/pexels-photo-19323133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6dd139f49d",
     "kind": "short",
     "channel": "Channel3",
