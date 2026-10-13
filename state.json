@@ -1,5 +1,131 @@
 [
   {
+    "id": "c7876de67a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đeo tai nghe quá lâu làm tai bạn bốc mùi hôi?",
+    "idea": {
+      "title": "Tại sao đeo tai nghe quá lâu làm tai bạn bốc mùi hôi?",
+      "hook": "Thói quen đeo tai nghe liên tục không chỉ hại thính giác, mà thực ra đang biến tai bạn thành một cái lồng ấp vi khuẩn.",
+      "beats": [
+        "Chỉ sau 60 phút bị bịt kín bởi mút tai nghe, luồng không khí tự nhiên bị chặn hoàn toàn khiến độ ẩm trong tai tăng vọt.",
+        "Môi trường ấm và tối này khiến số lượng vi khuẩn phát triển gấp 700 lần bình thường.",
+        "Vi khuẩn kết hợp với ráy tai bị ứ đọng tạo ra mùi hôi khó chịu và tăng nguy cơ viêm ống tai ngoài."
+      ],
+      "keywords": [
+        "person wearing headphones closeup",
+        "ear canal medical animation",
+        "bacteria multiplying microscopic",
+        "sweating ear closeup",
+        "cleaning wireless earbuds"
+      ],
+      "tags": [
+        "meovat",
+        "suckhoe",
+        "tainghe",
+        "khoahocdoisong",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Thói quen đeo tai nghe đang biến tai bạn thành lò ấp vi khuẩn.",
+        "search": "3d animation person wearing headphones closeup",
+        "caption": "Tai nghe đang biến tai bạn thành lò ấp vi khuẩn?"
+      },
+      {
+        "narration": "Chỉ sau sáu mươi phút bị bịt kín bởi mút tai nghe, luồng không khí tự nhiên bị chặn hoàn toàn.",
+        "search": "motion graphics wireless earbuds inside ear canal",
+        "caption": "Bịt kín 60 phút, không khí bị chặn hoàn toàn"
+      },
+      {
+        "narration": "Việc này khiến độ ẩm bên trong tai tăng vọt tạo ra môi trường vô cùng ẩm ướt.",
+        "search": "explainer animation sweating ear closeup",
+        "caption": "Độ ẩm trong tai tăng vọt"
+      },
+      {
+        "narration": "Môi trường ấm và tối này kích thích vi khuẩn sinh sôi với tốc độ chóng mặt.",
+        "search": "bacteria multiplying microscopic 3d render",
+        "caption": "Môi trường ấm tối kích thích vi khuẩn"
+      },
+      {
+        "narration": "Số lượng vi khuẩn có thể phát triển gấp bảy trăm lần bình thường chỉ trong thời gian ngắn.",
+        "search": "loop animation fast growing bacteria cells",
+        "caption": "Vi khuẩn tăng gấp 700 lần bình thường"
+      },
+      {
+        "narration": "Chúng liên tục kết hợp với lượng ráy tai bị ứ đọng sâu bên trong ống tai.",
+        "search": "ear canal medical animation wax buildup",
+        "caption": "Kết hợp với ráy tai ứ đọng"
+      },
+      {
+        "narration": "Quá trình này tạo ra mùi hôi khó chịu mà chính bạn đôi khi cũng không để ý.",
+        "search": "cartoony 3d person smelling bad odor near ear",
+        "caption": "Tạo ra mùi hôi khó chịu"
+      },
+      {
+        "narration": "Đồng thời, nó làm tăng vọt nguy cơ mắc các bệnh viêm nhiễm ống tai ngoài nguy hiểm.",
+        "search": "isometric render medical ear infection warning",
+        "caption": "Tăng nguy cơ viêm ống tai ngoài"
+      },
+      {
+        "narration": "Chỉ cần lau sạch tai nghe mỗi tuần bằng cồn, bạn đã giảm được đáng kể lượng vi khuẩn tích tụ.",
+        "search": "3d animation cleaning wireless earbuds alcohol pad",
+        "caption": "Vệ sinh tai nghe định kỳ loại bỏ vi khuẩn"
+      },
+      {
+        "narration": "Hãy cho tai được thở sau mỗi 60 phút sử dụng để cân bằng lại độ ẩm tự nhiên.",
+        "search": "explainer animation person taking off headphones resting",
+        "caption": "Cho tai nghỉ ngơi sau mỗi 60 phút"
+      },
+      {
+        "narration": "Hạn chế dùng tai nghe khi đang ngủ hoặc khi tai còn ẩm ướt sau khi tắm.",
+        "search": "isometric render person sleeping without headphones bedside",
+        "caption": "Tránh đeo tai nghe khi ngủ hoặc tai ẩm"
+      },
+      {
+        "narration": "Việc tháo tai nghe ra đúng lúc không chỉ bảo vệ thính giác mà còn giữ cho đôi tai luôn thơm tho.nes",
+        "search": "motion graphics healthy ear canal medical clean animation",
+        "caption": "Bảo vệ thính giác và giữ tai sạch sẽ"
+      },
+      {
+        "narration": "Từ nay hãy nhớ: tai cần được thông thoáng hệt như cách bạn để làn da được thở.",
+        "search": "cartoony 3d animation happy clean ear concept",
+        "caption": "Để đôi tai được thông thoáng mỗi ngày"
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T15:30:02.615601+00:00",
+    "updated_at": "2026-10-13T15:44:20.800993+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-13T15:39:34.303295+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "477 chars",
+        "at": "2026-10-13T15:42:43.736716+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-13T15:43:18.257061+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-13T15:44:20.800972+00:00"
+      }
+    }
+  },
+  {
     "id": "c204f611d6",
     "kind": "short",
     "channel": "Channel3",
