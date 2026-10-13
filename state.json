@@ -1,5 +1,122 @@
 [
   {
+    "id": "e96e9cd1b4",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Arab King Whipped and Chained the Sea",
+    "idea": {
+      "title": "Why an Arab King Whipped and Chained the Sea",
+      "hook": "In 480 BC, Persian King Xerxes was so enraged by a storm that he sentenced the sea itself to 300 lashes.",
+      "beats": [
+        "Xerxes built a massive pontoon bridge across the Hellespont to invade Greece, but a violent storm smashed it to pieces.",
+        "Blaming the water for treason, he ordered soldiers to whip the waves 300 times while shouting insults at the sea god.",
+        "He even threw iron fetters into the depths to symbolically enslave the strait before beheading the bridge's chief engineers.",
+        "The bizarre ritual terrified his own army, proving absolute royal madness when nature refused to obey an emperor."
+      ],
+      "keywords": [
+        "Xerxes Persian king engraving",
+        "Hellespont ancient battle map",
+        "Persian soldiers antique painting",
+        "ancient Greece invasion drawing",
+        "Xerxes pontoon bridge illustration"
+      ],
+      "tags": [
+        "ancienthistory",
+        "persianempire",
+        "xerxes",
+        "historyshorts",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 480 BC, Persian King Xerxes sentenced the sea itself to public execution.",
+        "search": "Xerxes king Persian empire engraving",
+        "caption": "Can an emperor execute the ocean?"
+      },
+      {
+        "narration": "This spectacle remains one of the most famous displays of imperial hubris in human history.",
+        "search": "Hellespont ancient battle map engraving",
+        "caption": "The most hubristic act in ancient history"
+      },
+      {
+        "narration": "To invade Greece in 480 BC, Xerxes required his army to cross the dangerous Hellespont strait.",
+        "search": "Xerxes pontoon bridge classical illustration",
+        "caption": "480 BC: Invading Greece across the Hellespont"
+      },
+      {
+        "narration": "Engineers linked hundreds of war galleys together, creating a massive floating mile-long bridge.",
+        "search": "Persian soldiers Achaemenid antique painting",
+        "caption": "A floating bridge built from hundreds of warships"
+      },
+      {
+        "narration": "Just as the army prepared to cross, a sudden severe storm shattered the entire structure.",
+        "search": "violent sea storm classical ship oil painting",
+        "caption": "A sudden storm destroyed the bridge completely"
+      },
+      {
+        "narration": "Furious at the delay, Xerxes immediately ordered the chief engineers to be beheaded.",
+        "search": "ancient Greek historian relief carving illustration",
+        "caption": "Xerxes executed his chief engineers on the spot"
+      },
+      {
+        "narration": "He then sent executioners to the beach to inflict three hundred lashes upon the waves.",
+        "search": "Xerxes whipping the sea Hellespont engraving",
+        "caption": "Soldiers delivered 300 lashes to the water"
+      },
+      {
+        "narration": "To ensure total submission, heavy iron fetters were cast into the water to enslave the strait.",
+        "search": "ancient bronze fetters iron chains artifact photo",
+        "caption": "Iron fetters thrown in to enslave the ocean"
+      },
+      {
+        "narration": "Beyond punishing the water, Xerxes ordered the immediate decapitation of the chief Phoenician and Egyptian engineers who built the shattered crossing.",
+        "search": "ancient persian execution engraving",
+        "caption": "Xerxes ordered the chief bridge engineers immediately beheaded."
+      },
+      {
+        "narration": "A new team bound nearly seven hundred warships together with massive flax cables, successfully engineering two parallel floating roadways across the Hellespont.",
+        "search": "xerxes pontoon bridge hellespont antique illustration",
+        "caption": "Seven hundred ships were lashed together to complete the crossing."
+      },
+      {
+        "narration": "Over two hundred thousand Persian soldiers marched directly into Greece, cementing the ritual as history's ultimate display of an emperor commanding nature to obey.",
+        "search": "xerxes persian army invading greece oil painting",
+        "caption": "The conquered strait allowed an empire to march into Greece."
+      }
+    ],
+    "error": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T10:52:36.600071+00:00",
+    "updated_at": "2026-10-13T10:57:25.822031+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-13T10:54:34.045408+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 201 de vua 55s)",
+        "at": "2026-10-13T10:55:49.094985+00:00"
+      },
+      "tts": {
+        "ok": false,
+        "detail": "thu 2 loi: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo - doi 60s",
+        "at": "2026-10-13T10:56:23.570351+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readalo",
+        "at": "2026-10-13T10:57:25.822020+00:00"
+      }
+    }
+  },
+  {
     "id": "727e8d5795",
     "kind": "short",
     "channel": "Channel2",
