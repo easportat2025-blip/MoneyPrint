@@ -1,5 +1,355 @@
 [
   {
+    "id": "e7da5e94cb",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Hero Executed By His Own Father: The Tragic Fall of Spurius Cassius",
+    "idea": {
+      "title": "The Roman Hero Executed By His Own Father: The Tragic Fall of Spurius Cassius",
+      "hook": "Spurius Cassius spent his life expanding Rome's empire—until his own father dragged him to the town square for execution.",
+      "beats": [
+        "Introduction to the early Roman Republic, a turbulent era of constant warfare and bitter class struggle between the wealthy patricians and the struggling plebeians.",
+        "Spurius Cassius emerges as a legendary war hero and brilliant general, securing vast territories and immense wealth for Rome through brilliant military campaigns.",
+        "Cassius achieves the ultimate political prestige by being elected consul not once, but three times, placing him at the absolute pinnacle of Roman power.",
+        "Witnessing the devastating poverty of plebeian soldiers returning from war to find their lands seized, Cassius undergoes a radical ideological shift.",
+        "Cassius proposes the Lex Agraria, a groundbreaking land-reform law designed to distribute newly conquered public territory equally among poor citizens and Latin allies.",
+        "The ruling patrician elite instantly panic, viewing the agrarian law as an existential threat to their generational wealth, monopoly on land, and political dominance.",
+        "To destroy his reputation, the patricians launch a vicious propaganda campaign, spreading malicious rumors that Cassius is secretly plotting to crown himself king of Rome.",
+        "Cassius attempts to defend his honor by offering his property to the public treasury, but the senate remains completely unforgiving and thirsty for blood.",
+        "In a chilling display of ancient Roman patria potestas—the absolute power of a father over his household—his own father, Cassius Vecellinus, turns against him.",
+        "Weighing his familial duty against the fabricated charges of treason against the state, the father condemns his son in a private tribunal.",
+        "The elderly father drags his legendary general son to the public town square, personally overseeing the harrowing execution to prove his loyalty to the Republic.",
+        "Following his death, Cassius's home is demolished, his property confiscated to build a temple, and his name is damned to eternal infamy.",
+        "Historical analysis of whether Spurius Cassius was a genuine champion of the oppressed masses or a dangerous demagogue seeking tyranny.",
+        "Conclusion on how the tragic fate of Spurius Cassius foreshadowed the bloody civil wars and populist struggles that would eventually tear the Roman Republic apart."
+      ],
+      "keywords": [
+        "ancient Rome",
+        "Roman Republic",
+        "Spurius Cassius",
+        "patricians and plebeians",
+        "Roman history",
+        "ancient history documentary",
+        "Roman generals",
+        "land reform in Rome",
+        "patria potestas",
+        "lost historical mysteries"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Roman Republic",
+        "Roman History",
+        "History Documentary",
+        "Spurius Cassius",
+        "Ancient Empires",
+        "Historical Figures",
+        "Roman Wars",
+        "Ancient Mysteries",
+        "History"
+      ],
+      "kind": "long",
+      "thumbnail_text": "Executed By His Own Father"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman hero dragged to his death by his own father.",
+        "search": "ancient Roman senator marble bust statue close up",
+        "caption": "A legendary Roman hero executed by his own flesh and blood."
+      },
+      {
+        "narration": "In 502 BC, the early Roman Republic faced violent class struggle between wealthy patricians and struggling plebeians.",
+        "search": "ancient Roman republic battle oil painting by historic artist",
+        "caption": "Constant warfare and bitter class struggle defined the early Republic."
+      },
+      {
+        "narration": "Spurius Cassius emerged as a brilliant general, securing vast territories and wealth for Rome through military campaigns.",
+        "search": "ancient Roman general in armor oil painting dramatic lighting",
+        "caption": "Spurius Cassius expanded Rome's empire as a legendary commander."
+      },
+      {
+        "narration": "Achieving the ultimate political prestige, Cassius was elected consul three times at the pinnacle of Roman power.",
+        "search": "ancient Roman consul toga sculpture museum display",
+        "caption": "Cassius reached the absolute pinnacle of Roman political power."
+      },
+      {
+        "narration": "Witnessing returning plebeian soldiers find their lands seized, Cassius underwent a radical ideological shift.",
+        "search": "poor ancient Roman peasants starving historical illustration",
+        "caption": "Returning soldiers faced devastating poverty and land seizure."
+      },
+      {
+        "narration": "In 486 BC, Cassius proposed the Lex Agraria to distribute newly conquered public territory to the poor.",
+        "search": "ancient Roman senate debate historical oil painting",
+        "caption": "The Lex Agraria proposed radical land reform for poor citizens."
+      },
+      {
+        "narration": "The ruling patrician elite panicked, viewing the agrarian law as an existential threat to their generational wealth.",
+        "search": ". patrician senators arguing in ancient Roman forum painting",
+        "caption": "Patricians panicked over threats to their wealth and dominance."
+      },
+      {
+        "narration": "To destroy his reputation, the patricians launched a vicious propaganda campaign accusing Cassius of seeking to become king.",
+        "search": "ancient Roman political conspiracy scroll manuscript illustration",
+        "caption": "Enemies launched a vicious propaganda campaign against Cassius."
+      },
+      {
+        "narration": "Facing intense political pressure in 485 BC, Cassius offered his own private property to the public treasury to prove his loyalty.",
+        "search": "ancient Roman senate debate marble relief sculpture",
+        "caption": "Cassius offered his private property to the Roman senate."
+      },
+      {
+        "narration": "Despite his gestures of compliance, the senatorial elite remained unforgiving and thirsty for blood.",
+        "search": "angry Roman senators gesturing in forum oil painting",
+        "caption": "The senatorial elite remained unforgiving and thirsty for blood."
+      },
+      {
+        "narration": "In a chilling display of ancient Roman patria potestas, the absolute legal authority of a father over his household, his own father turned against him.",
+        "search": "ancient Roman father stern portrait marble bust",
+        "caption": "His own father turned against him under patria potestas."
+      },
+      {
+        "narration": "Weighing his familial duty against the fabricated charges of treason, Cassius Vecellinus condemned his famous son in a private tribunal.",
+        "search": "ancient Roman private tribunal judgment historical illustration",
+        "caption": "Cassius Vecellinus condemned his son in a private tribunal."
+      },
+      {
+        "narration": "The elderly father dragged his decorated general son to the public town square, personally overseeing the harrowing execution in 485 BC.",
+        "search": "ancient Roman execution public square historical painting",
+        "caption": "The father dragged his son to the public town square."
+      },
+      {
+        "narration": "Following his death, the Roman state demolished the home of Spurius Cassius and confiscated his property to build a temple to Ceres.",
+        "search": "ruins of ancient Roman temple stone foundation archaeology",
+        "caption": "His home was demolished and property confiscated."
+      },
+      {
+        "narration": "To cement his disgrace, the name of Spurius Cassius was damned to eternal infamy through a formal decree of damnatio memoriae.",
+        "search": "ancient Roman stone inscription carved letters detail",
+        "caption": "His name was damned to eternal infamy."
+      },
+      {
+        "narration": "Historians continue to debate whether Spurius Cassius was a genuine champion of the oppressed masses or a dangerous demagogue seeking tyranny.",
+        "search": "ancient Roman history book open pages engraving",
+        "caption": "Historians debate whether Cassius was a champion or demagogue."
+      },
+      {
+        "narration": "A Roman war hero dragged to his execution by his own father.",
+        "search": "ancient Roman marble bust portrait sculpture",
+        "caption": "A war hero executed by his own father."
+      },
+      {
+        "narration": "In the early Roman Republic of the fifth century BC, bitter class struggle divided patricians and plebeians.",
+        "search": "ancient Rome patricians and plebeians historical illustration",
+        "caption": "The turbulent birth of the Roman Republic."
+      },
+      {
+        "narration": "Spurius Cassius Vecellinus rose as a brilliant general, securing vast territories and wealth for Rome through military conquest.",
+        "search": "ancient Roman general leading troops oil painting",
+        "caption": "Spurius Cassius expands the empire."
+      },
+      {
+        "narration": "His success culminated in being elected consul three times, placing him at the absolute pinnacle of state power.",
+        "search": "ancient Roman consul toga statue bust",
+        "caption": "Achieving the pinnacle of Roman power."
+      },
+      {
+        "narration": "Witnessing returning plebeian soldiers find their lands seized, Cassius experienced a profound shift in political alignment.",
+        "search": "impoverished ancient Roman peasants agriculture painting",
+        "caption": "The devastation of plebeian soldiers."
+      },
+      {
+        "narration": "In 486 BC, Cassius proposed the Lex Agraria, a law to distribute newly conquered public territory equally among poor citizens.",
+        "search": "ancient Roman senate meeting debate fresco",
+        "caption": "Proposing the radical Lex Agraria."
+      },
+      {
+        "narration": "The patrician elite panicked, viewing the land-reform law as an existential threat to their generational wealth and dominance.",
+        "search": "wealthy ancient Roman senators conspiring manuscript art",
+        "caption": "Patricians panic over land reform."
+      },
+      {
+        "narration": "To destroy his reputation, his enemies launched a vicious propaganda campaign claiming Cassius was secretly plotting to seize absolute monarchy.",
+        "search": "ancient Roman political propaganda coin portrait",
+        "caption": "Fabricated rumors of royal ambition."
+      },
+      {
+        "narration": "In 485 BC, Spurius Cassius faced treason charges before a private family tribunal convened by his own father.",
+        "search": "ancient Roman senator bust sculpture museum lighting",
+        "caption": "A father sits in judgment over his own son."
+      },
+      {
+        "narration": "Armed with the absolute legal authority of patria potestas, the father condemned his war hero son to death.",
+        "search": "Roman patrician elder toga marble statue close up",
+        "caption": "Patria potestas granted a Roman father absolute legal power."
+      },
+      {
+        "narration": "The elderly father personally dragged the disgraced former consul into the public square for execution.",
+        "search": "historical oil painting Roman street execution scene",
+        "caption": "Dragged to the public square by his own father."
+      },
+      {
+        "narration": "Following his death, the Roman Senate ordered the complete destruction of his family home.",
+        "search": "ancient Roman ruins excavation site stone foundations",
+        "caption": "His home was utterly destroyed by Senate decree."
+      },
+      {
+        "narration": "A temple to Ceres was erected upon his confiscated property to cleanse the state of his alleged treason.",
+        "search": "ancient Roman temple ruins columns dramatic sky",
+        "caption": "A temple rose upon the ruins of his estate."
+      },
+      {
+        "narration": "The state erased his name from public monuments, condemning Spurius Cassius to centuries of official infamy.",
+        "search": "ancient Roman stone inscription damaged weathering close up",
+        "caption": "His name was damned to eternal infamy."
+      },
+      {
+        "narration": "Modern historians still debate whether Cassius was a genuine champion of the poor or a dangerous aspiring tyrant.",
+        "search": "ancient Roman coin denarius profile close up photography",
+        "caption": "Was he a champion of the poor or a tyrant?"
+      },
+      {
+        "narration": "This brutal patrician backlash foreshadowed the bloody populist civil wars that would ultimately destroy the Roman Republic.",
+        "search": "ancient Roman colosseum ruins dramatic atmospheric oil painting",
+        "caption": "Foreshadowing the bloody civil wars of the Republic."
+      },
+      {
+        "narration": "In 486 BC, Roman consul Spurius Cassius proposed the Lex Agraria to redistribute conquered public land to impoverished plebeian soldiers.",
+        "search": "ancient Roman land survey drawing manuscript",
+        "caption": "The radical land-reform proposal of 486 BC."
+      },
+      {
+        "narration": "This agrarian law threatened the generational wealth and political dominance of Rome's ruling patrician elite.",
+        "search": "Roman patrician senate marble bust statue",
+        "caption": "Patricians panic over their threatened wealth."
+      },
+      {
+        "narration": "To destroy his reputation, senators spread malicious rumors that Cassius was secretly plotting to crown himself king.",
+        "search": "ancient Roman political conspiracy oil painting",
+        "caption": "Senators launch a vicious propaganda campaign."
+      },
+      {
+        "narration": "Cassius offered his own property to the public treasury to prove his innocence, but the senate remained entirely unforgiving.",
+        "search": "ancient Roman treasury gold coin illustration",
+        "caption": "Cassius offers his property to the public."
+      },
+      {
+        "narration": "Exercising absolute patria potestas, his own father, Cassius Vecellinus, turned against him in a private tribunal.",
+        "search": "ancient Roman family law court relief carving",
+        "caption": "A father weighs familial duty against the state."
+      },
+      {
+        "narration": "The elderly father dragged his legendary general son to the public town square to personally oversee his execution.",
+        "search": "ancient Roman execution public square engraving",
+        "caption": "A father drags his son to the square."
+      },
+      {
+        "narration": "Following his death, Cassius's home was demolished, his property confiscated to build a temple, and his name damned.",
+        "search": "ruined ancient Roman temple stone columns",
+        "caption": "Cassius's home demolished and name damned."
+      },
+      {
+        "narration": "The brutal fate of Spurius Cassius became a dark omen for the bloody populist civil wars that later destroyed the Republic.",
+        "search": "Roman Republic battlefield civil war oil painting",
+        "caption": "A dark omen for the Roman Republic."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-13T20:05:03.986222+00:00",
+    "updated_at": "2026-10-13T20:19:13.757562+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "16 scenes",
+        "at": "2026-10-13T20:09:24.104987+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2116 chars",
+        "at": "2026-10-13T20:10:28.122788+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "131.6s en-US-GuyNeural 20 cau",
+        "at": "2026-10-13T20:10:33.522538+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-13T20:10:37.214696+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 40 images",
+        "at": "2026-10-13T20:17:03.116901+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-10-13T20:17:03.165118+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 131.6s 41388202 bytes",
+        "at": "2026-10-13T20:19:13.437803+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-10-13T20:19:13.559886+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-13T20:19:13.757546+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/11850293/pexels-photo-11850293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6483721/pexels-photo-6483721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10068866/pexels-photo-10068866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37830160/pexels-photo-37830160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806580/pexels-photo-38806580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709058/pexels-photo-35709058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16441878/pexels-photo-16441878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5986498/pexels-photo-5986498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20375800/pexels-photo-20375800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38458278/pexels-photo-38458278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15826835/pexels-photo-15826835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37583318/pexels-photo-37583318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28107530/pexels-photo-28107530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27546755/pexels-photo-27546755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39770237/pexels-photo-39770237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32462292/pexels-photo-32462292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32462645/pexels-photo-32462645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876911/pexels-photo-35876911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16336087/pexels-photo-16336087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11840357/pexels-photo-11840357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28201703/pexels-photo-28201703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063871/pexels-photo-27063871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7386039/pexels-photo-7386039.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17716954/pexels-photo-17716954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708786/pexels-photo-35708786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31052376/pexels-photo-31052376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416984/pexels-photo-18416984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38468107/pexels-photo-38468107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19260328/pexels-photo-19260328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1461993/pexels-photo-1461993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37989057/pexels-photo-37989057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39796759/pexels-photo-39796759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19455916/pexels-photo-19455916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709059/pexels-photo-35709059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7272207/pexels-photo-7272207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11106057/pexels-photo-11106057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39365589/pexels-photo-39365589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31412681/pexels-photo-31412681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37693233/pexels-photo-37693233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "62982eae3f",
     "kind": "short",
     "channel": "Channel3",
