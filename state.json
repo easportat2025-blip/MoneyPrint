@@ -1,5 +1,161 @@
 [
   {
+    "id": "0015641e3d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Pope Who Exhumed and Tested a Corpse",
+    "idea": {
+      "title": "The Pope Who Exhumed and Tested a Corpse",
+      "hook": "Nine months after Pope Formosus died, the new Pope dug up his rotting corpse and dragged it to court.",
+      "beats": [
+        "In 897, Pope Stephen VI harbored such intense political hatred for his predecessor Formosus that he had his decaying body exhumed.",
+        "The corpse was dressed in papal vestments, placed on a throne, and assigned an attorney who had to speak on behalf of the dead pope.",
+        "After being found guilty of treason, three fingers of the corpse were hacked off, and it was dragged through the streets and cast into the Tiber river."
+      ],
+      "keywords": [
+        "Cadaver Synod Pope Formosus",
+        "Pope Stephen VI painting",
+        "medieval papal court engraving",
+        "Tiber river historical painting",
+        "Vatican dark history portrait"
+      ],
+      "tags": [
+        "history",
+        "medievalhistory",
+        "papacy",
+        "vatican",
+        "darkhistory",
+        "ancientmysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A dead pope was once put on trial for treason.",
+        "search": "Cadaver Synod Jean Paul Laurens oil painting",
+        "caption": "In 897, a dead Pope stood trial for treason."
+      },
+      {
+        "narration": "In January 897, Rome was engulfed in brutal aristocratic warfare over the papal throne.",
+        "search": "medieval Rome city view engraving",
+        "caption": "Rome in 897 was torn by factional civil warfare."
+      },
+      {
+        "narration": "Pope Formosus had died nine months earlier and lay buried beneath Saint Peter's Basilica.",
+        "search": "Pope Formosus portrait engraving",
+        "caption": "Pope Formosus died and was buried nine months earlier."
+      },
+      {
+        "narration": "His successor, Pope Stephen the Sixth, was backed by a rival faction determined to destroy his legacy.",
+        "search": "Pope Stephen VI portrait painting Vatican",
+        "caption": "Pope Stephen VI sought vengeance against his rival predecessor."
+      },
+      {
+        "narration": "Stephen ordered the decaying body exhumed and transported to the Basilica of Saint John Lateran.",
+        "search": "medieval burial crypt exhumation manuscript illumination",
+        "caption": "The decaying corpse was dug up from its tomb."
+      },
+      {
+        "narration": "Workers dressed the putrefying corpse in full papal vestments and propped it upright upon a throne.",
+        "search": "Cadaver Synod courtroom historical engraving",
+        "caption": "Dressed in sacred robes, the body sat on a throne."
+      },
+      {
+        "narration": "A terrified young deacon was assigned as defense counsel to speak on behalf of the silent cadaver.",
+        "search": "medieval courtroom trial manuscript illumination",
+        "caption": "A young deacon was ordered to defend the corpse."
+      },
+      {
+        "narration": "Stephen furiously screamed accusations at the silent body, demanding it answer for alleged canonical violations.",
+        "search": "Pope Stephen VI Cadaver Synod painting detail",
+        "caption": "Stephen screamed accusations at the silent, rotting pope."
+      },
+      {
+        "narration": "Unsurprisingly declared guilty, Formosus had all his acts annulled before executioners hacked off the three blessing fingers of his right hand.",
+        "search": "cadaver synod of formosus oil painting",
+        "caption": "Formosus was convicted and his consecrating fingers were severed."
+      },
+      {
+        "narration": "Stripped of his papal vestments and dressed in common rags, the decaying corpse was dragged through the Roman streets and thrown into the Tiber River.",
+        "search": "tiber river rome antique engraving",
+        "caption": "The desecrated corpse was thrown into the Tiber River."
+      },
+      {
+        "narration": "The macabre trial sparked a Roman uprising that ended with Stephen VI strangled in prison, prompting subsequent councils to strictly ban trying corpses.",
+        "search": "pope stephen vi portrait engraving",
+        "caption": "The grotesque spectacle triggered an uprising that cost Stephen his life."
+      },
+      {
+        "narration": "A dead pope was put on trial for treason.",
+        "search": "Cadaver Synod Jean-Paul Laurens oil painting",
+        "caption": "A dead pope put on trial for treason."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T01:19:28.748602+00:00",
+    "updated_at": "2026-10-14T01:24:54.027639+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-14T01:20:43.054397+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "323 chars (cat 233 de vua 55s)",
+        "at": "2026-10-14T01:23:43.344541+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.2s en-US-GuyNeural 6 cau",
+        "at": "2026-10-14T01:23:45.224216+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T01:23:46.033602+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-14T01:24:22.265518+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-14T01:24:22.317798+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.2s 7889102 bytes",
+        "at": "2026-10-14T01:24:53.643057+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T01:24:54.027619+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32356029/pexels-photo-32356029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16907645/pexels-photo-16907645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38407780/pexels-photo-38407780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34958960/pexels-photo-34958960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30499662/pexels-photo-30499662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38315327/pexels-photo-38315327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37726695/pexels-photo-37726695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8387560/pexels-photo-8387560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17747082/pexels-photo-17747082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35511715/pexels-photo-35511715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38250740/pexels-photo-38250740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17249498/pexels-photo-17249498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4e8ab58857",
     "kind": "short",
     "channel": "Channel2",
