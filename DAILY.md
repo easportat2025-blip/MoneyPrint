@@ -1,4 +1,4 @@
-# Daily ping 13/10/2026
+# Daily ping 14/10/2026
 
 Total views (all tracked): **0** (+0 vs snapshot truoc)
 
@@ -10,9 +10,14 @@ Total views (all tracked): **0** (+0 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (3)
-- Sai lầm khi vừa đi bộ vừa cắm mặt vào điện thoại :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
-- Why a Roman emperor executed the man who invented unbre :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
-- The Drunken Mistake That Shattered England :: edge-tts failed all voices. last error: aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response
+## Fail (2)
+- Sai lầm khi nhổ lông mũi âm thầm đe dọa não bạn :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
+- The Pope Who Exhumed and Tested a Corpse :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
 
 ## Top tang truong
