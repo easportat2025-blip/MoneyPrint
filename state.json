@@ -1,5 +1,161 @@
 [
   {
+    "id": "12bb2088e9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an English King Died from a Feast of Eels",
+    "idea": {
+      "title": "Why an English King Died from a Feast of Eels",
+      "hook": "In 1135, King Henry I ignored his doctor's strict warnings for a single midnight snack, triggering a bloody civil war that tore England apart for decades.",
+      "beats": [
+        "King Henry I of England loved eating lampreys, a primitive jawless eel-like fish considered a royal luxury.",
+        "Against medical advice after a hunting trip, the 67-year-old monarch gorged himself on a massive surfeit of cold lampreys in Normandy.",
+        "A sudden severe food poisoning and fever struck him down within days, leaving him dead without a legitimate male heir.",
+        "His unexpected death plunged England into 'The Anarchy', an agonizing 19-year conflict between his daughter Matilda and nephew Stephen."
+      ],
+      "keywords": [
+        "King Henry I England portrait",
+        "medieval banquet painting engraving",
+        "Normandy medieval castle archive",
+        "The Anarchy civil war illustration",
+        "lamprey fish medieval manuscript"
+      ],
+      "tags": [
+        "KingHenryI",
+        "MedievalHistory",
+        "BritishMonarchy",
+        "TheAnarchy",
+        "HistoryMysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A midnight craving for eels destroyed medieval England.",
+        "search": "King Henry I England illuminated manuscript miniature portrait",
+        "caption": "A late-night craving destroyed medieval England."
+      },
+      {
+        "narration": "In late 1135, sixty-seven-year-old King Henry I was residing at Lyons-la-Foret in Normandy following a hunting expedition.",
+        "search": "medieval Normandy castle Lyons-la-Foret engraving",
+        "caption": "Late 1135: King Henry I rests in Normandy."
+      },
+      {
+        "narration": "Henry possessed an intense appetite for lampreys, a jawless aquatic parasite prized as an elite delicacy.",
+        "search": "lamprey fish medieval culinary manuscript illustration",
+        "caption": "Lampreys were a prized delicacy among European royalty."
+      },
+      {
+        "narration": "Royal physicians explicitly forbade him from eating them, warning that the heavy meat would provoke dangerous illness.",
+        "search": "medieval physician examining patient woodcut engraving",
+        "caption": "Royal doctors strictly warned the king against them."
+      },
+      {
+        "narration": "Ignoring all medical counsel, Henry ordered a surfeit of cold lampreys prepared and gorged himself in secret.",
+        "search": "medieval royal feast banquet illumination manuscript",
+        "caption": "Henry defied his physicians and devoured the feast."
+      },
+      {
+        "narration": "Chronicler Henry of Huntingdon documented that a sudden, violent chill struck the king immediately after eating.",
+        "search": "Historia Anglorum Henry of Huntingdon medieval Latin manuscript page",
+        "caption": "A sudden, violent chill gripped the king."
+      },
+      {
+        "narration": "The acute food poisoning rapidly escalated into a malignant fever, trapping Henry on his deathbed for six days.",
+        "search": "medieval king dying in bed illuminated manuscript",
+        "caption": "An acute fever trapped the king on his deathbed."
+      },
+      {
+        "narration": "On December 1, 1135, King Henry died, leaving the English crown without a surviving legitimate male heir.",
+        "search": "King Henry I tomb effigy Reading Abbey engraving",
+        "caption": "Henry died leaving no legitimate male heir."
+      },
+      {
+        "narration": "Henry's sudden death shattered the fragile peace, sparking a brutal nineteen-year civil war known as The Anarchy.",
+        "search": "The Anarchy civil war medieval manuscript illustration",
+        "caption": "The Anarchy civil war tore England apart."
+      },
+      {
+        "narration": "Rival factions tore the realm apart as Empress Matilda and her cousin Stephen fought bitterly for the English throne.",
+        "search": "Empress Matilda medieval banquet painting engraving",
+        "caption": "Empress Matilda and Stephen fought for power."
+      },
+      {
+        "narration": "A single midnight indulgence in forbidden lampreys ultimately cost a king his life and plunged a nation into chaos.",
+        "search": "King Henry I England portrait oil painting",
+        "caption": "One midnight eel snack collapsed a kingdom."
+      },
+      {
+        "narration": "A single midnight snack destroyed medieval England.",
+        "search": "medieval knight battle illuminated manuscript",
+        "caption": "A single meal triggered decades of civil war."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T08:55:04.317673+00:00",
+    "updated_at": "2026-10-14T08:58:55.893364+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-14T08:56:53.708050+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "333 chars (cat 190 de vua 55s)",
+        "at": "2026-10-14T08:57:28.175091+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.0s en-US-GuyNeural 4 cau",
+        "at": "2026-10-14T08:57:30.444263+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T08:57:31.422819+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-14T08:58:19.836811+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-14T08:58:19.891080+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.0s 7442255 bytes",
+        "at": "2026-10-14T08:58:55.550724+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T08:58:55.893345+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39228645/pexels-photo-39228645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32429510/pexels-photo-32429510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4202252/pexels-photo-4202252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8313188/pexels-photo-8313188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718622/pexels-photo-6718622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17323635/pexels-photo-17323635.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039705/pexels-photo-12039705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36065435/pexels-photo-36065435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267456/pexels-photo-9267456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37164273/pexels-photo-37164273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16470341/pexels-photo-16470341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30829322/pexels-photo-30829322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "74054c5239",
     "kind": "short",
     "channel": "Channel2",
