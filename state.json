@@ -1,5 +1,45 @@
 [
   {
+    "id": "fa9fe1a4a7",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "researching",
+    "title": "Tại sao không gian vũ trụ thực chất có mùi cháy khét?",
+    "idea": {
+      "title": "Tại sao không gian vũ trụ thực chất có mùi cháy khét?",
+      "hook": "Bạn nghĩ không gian vũ trụ chỉ toàn là khoảng trống vô vị? Các phi hành gia khi trở về từ trạm không gian đều ngửi thấy một mùi kỳ lạ bám trên áo - mùi kim loại cháy khét và thịt nướng. Thực sự điều gì đang tạo ra mùi hương này ngoài vũ trụ bao la?",
+      "beats": [
+        "Các phi hành gia ngửi thấy mùi đặc trưng sau mỗi chuyến đi bộ ngoài không gian.",
+        "Mùi này không đến từ không chân không, mà là phản ứng hóa học từ các ngôi sao chết và tia cực tím.",
+        "Các hợp chất hữu cơ mang tên PAH trôi nổi khắp vũ trụ khi chịu bức xạ mặt trời.",
+        "Khoảng không lạnh giá ngoài kia thực chất đang lưu giữ mùi hương của những vụ nổ chết chóc."
+      ],
+      "keywords": [
+        "space nebula",
+        "galaxy stars",
+        "cosmos background",
+        "universe animation",
+        "deep space stars"
+      ],
+      "tags": [
+        "khamphavuqu",
+        "sukytruong",
+        "khoahocvui",
+        "channel3",
+        "spacefacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T13:15:36.265027+00:00",
+    "updated_at": "2026-10-14T13:15:36.334040+00:00",
+    "stages": {}
+  },
+  {
     "id": "3fd6b9a3bf",
     "kind": "short",
     "channel": "Channel3",
