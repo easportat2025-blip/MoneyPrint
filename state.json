@@ -1,5 +1,168 @@
 [
   {
+    "id": "ff6e8cac71",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm khi nhổ lông mũi âm thầm đe dọa não bạn",
+    "idea": {
+      "title": "Sai lầm khi nhổ lông mũi âm thầm đe dọa não bạn",
+      "hook": "Thói quen tiện tay nhổ một sợi lông mũi thực ra nguy hiểm hơn bạn tưởng rất nhiều.",
+      "beats": [
+        "Khu vực từ khóe miệng kéo lên sống mũi được các bác sĩ gọi là 'tam giác chết' trên khuôn mặt.",
+        "Khi bạn nhổ lông mũi, nang lông bị rách toạc để lại vết thương hở sâu bên trong khoang mũi ẩm ướt.",
+        "Máu tĩnh mạch ở khu vực này chảy ngược thẳng về xoang hang bên trong não mà không có van ngăn cách.",
+        "Vi khuẩn từ ngón tay hoặc không khí có thể xâm nhập vết rách, dẫn đến nhiễm trùng xoang hang đe dọa tính mạng.",
+        "Cách an toàn duy nhất là dùng kéo đầu tròn tỉa bớt phần thừa thay vì dùng nhíp giật tận gốc."
+      ],
+      "keywords": [
+        "human nose close up",
+        "tweezers plucking hair",
+        "human brain anatomy",
+        "bacteria infection microscope",
+        "medical animation bloodstream"
+      ],
+      "tags": [
+        "Channel3",
+        "meo vat cuoc song",
+        "suc khoe",
+        "co the nguoi",
+        "khoa hoc thu vi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Thói quen tiện tay nhổ một sợi lông mũi thực ra nguy hiểm hơn bạn tưởng rất nhiều.",
+        "search": "3d animation human nose close up mirror",
+        "caption": "Nhổ lông mũi nguy hiểm hơn bạn tưởng"
+      },
+      {
+        "narration": "Khu vực từ khóe miệng kéo lên sống mũi được các bác sĩ gọi là tam giác chết.",
+        "search": "motion graphics face anatomy triangle diagram",
+        "caption": "Khu vực tam giác chết trên mặt"
+      },
+      {
+        "narration": "Khi bạn nhổ lông mũi, nang lông bị rách toạc tạo thành vết thương hở.",
+        "search": "explainer animation tweezers plucking hair skin",
+        "caption": "Nang lông bị rách toạc"
+      },
+      {
+        "narration": "Vết thương này nằm sâu bên trong khoang mũi ẩm ướt đầy vi khuẩn.",
+        "search": "3d animation bacteria infection microscope view",
+        "caption": "Vi khuẩn xâm nhập vết thương"
+      },
+      {
+        "narration": "Đặc biệt, máu tĩnh mạch ở khu vực này chảy ngược thẳng về phía não bộ.",
+        "search": "medical animation bloodstream brain anatomy veins",
+        "caption": "Máu chảy ngược về não"
+      },
+      {
+        "narration": "Đường đi này hoàn toàn không có van ngăn cách để bảo vệ hệ thần kinh.",
+        "search": "isometric render blood vessel circulation system",
+        "caption": "Không có van ngăn cách tĩnh mạch"
+      },
+      {
+        "narration": "Chỉ một vết rách nhỏ cũng có thể dẫn đến nhiễm trùng xoang hang nguy hiểm.",
+        "search": "3d animation dangerous infection spreading brain",
+        "caption": "Nguy cơ nhiễm trùng xoang hang"
+      },
+      {
+        "narration": "Vi khuẩn từ ngón tay có thể theo vết thương đe dọa trực tiếp tính mạng bạn.",
+        "search": "motion graphics hand touching nose bacteria risk",
+        "caption": "Đe dọa tính mạng từ thói quen nhỏ"
+      },
+      {
+        "narration": "Mối nguy lớn nhất nằm ở khu vực 'tam giác chết' kéo dài từ hai khóe miệng lên tới sống mũi.",
+        "search": "3d animation khu vuc tam giac chet tren mat",
+        "caption": "Khu vực tam giác chết nối liền trực tiếp với não"
+      },
+      {
+        "narration": "Máu tĩnh mạch ở vùng này chảy ngược thẳng vào xoang hang trong não mà không hề có van ngăn cách.",
+        "search": "medical animation mach mau chay ve nao 3d",
+        "caption": "Tĩnh mạch chảy thẳng vào não không có van ngăn"
+      },
+      {
+        "narration": "Vi khuẩn xâm nhập từ vết rách nang lông sẽ nhanh chóng kích hoạt hình thành các cục máu đông nguy hiểm.",
+        "search": "3d animation vi khuan xam nhap mach mau nao",
+        "caption": "Vi khuẩn xâm nhập gây ra cục máu đông tắc mạch"
+      },
+      {
+        "narration": "Nhiễm trùng xoang hang phát triển cực nhanh, có thể gây mù mắt, đột quỵ hoặc tử vong.",
+        "search": "3d animation nao nguoi canh bao nguy hiem",
+        "caption": "Biến chứng nặng có thể đe dọa trực tiếp tính mạng"
+      },
+      {
+        "narration": "Hãy bỏ nhíp ngay, cách an toàn duy nhất là dùng kéo đầu tròn tỉa bớt phần lông thò ra ngoài.",
+        "search": "3d animation dung keo dau tron tia long mui",
+        "caption": "Chỉ dùng kéo đầu tròn tỉa gọn phần thừa"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T05:10:06.118643+00:00",
+    "updated_at": "2026-10-14T05:15:31.770306+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-14T05:13:18.535385+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "424 chars",
+        "at": "2026-10-14T05:14:21.426699+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-10-14T05:14:28.127638+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T05:14:29.314850+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-14T05:14:43.568216+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-14T05:14:43.621866+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 16579936 bytes",
+        "at": "2026-10-14T05:15:31.467982+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T05:15:31.770289+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7299420/7299420-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8075697/8075697-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8322145/8322145-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/34914562/14789840_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34912747/14789317_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456774/16456774-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/35010179/14831283_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/9645540/9645540-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/36724996/15564639_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7089597/7089597-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/25935019/11922002_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/6491688/6491688-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "0015641e3d",
     "kind": "short",
     "channel": "Channel2",
