@@ -1,5 +1,161 @@
 [
   {
+    "id": "1124a9f47e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Greatest General Betrayed His Own City",
+    "idea": {
+      "title": "Why Rome's Greatest General Betrayed His Own City",
+      "hook": "In 491 BC, Rome's greatest hero returned to the gates of his beloved city, not to save it, but to burn it to ashes.",
+      "beats": [
+        "Gaius Marcius Coriolanus conquered the Volscian city of Corioli single-handedly, becoming Rome's supreme war hero.",
+        "When famine struck, he demanded the senate strip commoners of their political rights before handing out grain.",
+        "Outraged citizens banished him for treason, turning their greatest protector into their deadliest enemy.",
+        "He joined his former rivals, swept through Roman territory, and halted his vengeance only when his weeping mother knelt before his feet."
+      ],
+      "keywords": [
+        "coriolanus roman hero bust",
+        "ancient rome senate engraving",
+        "volscian army battle painting",
+        "coriolanus mother pleading painting",
+        "ancient rome siege map"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#romanempire",
+        "#historyshorts",
+        "#betrayal",
+        "#militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's greatest savior returned to burn it to ash.",
+        "search": "coriolanus roman general marble bust statue",
+        "caption": "Rome's greatest general nearly destroyed his own city."
+      },
+      {
+        "narration": "In 493 BC, patrician soldier Gaius Marcius breached the fortified walls of Corioli almost single-handedly.",
+        "search": "siege of corioli ancient roman battle oil painting",
+        "caption": "In 493 BC, Gaius Marcius single-handedly breached enemy walls."
+      },
+      {
+        "narration": "Awarded the honorary cognomen Coriolanus, he became the young Roman Republic's supreme military hero.",
+        "search": "roman triumphal procession antique engraving",
+        "caption": "Coriolanus became the Roman Republic's most celebrated commander."
+      },
+      {
+        "narration": "Two years later, a catastrophic famine struck Rome, leaving common citizens starving in the streets.",
+        "search": "ancient rome famine bread distribution woodcut engraving",
+        "caption": "A devastating famine struck Rome in 491 BC."
+      },
+      {
+        "narration": "When emergency grain arrived from Sicily, Coriolanus urged the senate to withhold food until commoners abolished the office of tribune.",
+        "search": "ancient roman senate debate historical oil painting",
+        "caption": "He demanded commoners surrender political rights to receive grain."
+      },
+      {
+        "narration": "The furious plebeians charged him with treason, and the popular assembly sentenced Coriolanus to permanent exile.",
+        "search": "ancient roman forum trial assembly engraving",
+        "caption": "Outraged citizens banished their greatest defender forever."
+      },
+      {
+        "narration": "Instead of fading into obscurity, Coriolanus traveled directly to Antium, home of Rome's mortal enemies, the Volscians.",
+        "search": "coriolanus and attius tullius volscian camp oil painting",
+        "caption": "Coriolanus offered his tactical genius to Rome's deadliest enemies."
+      },
+      {
+        "narration": "Given command of the Volscian legions, he systematically conquered Roman territory, marching unchallenged toward Rome's outer walls.",
+        "search": "ancient latium roman territory siege antique map engraving",
+        "caption": "Leading an invading army, Coriolanus advanced directly on Rome."
+      },
+      {
+        "narration": "In 488 BC, Roman senators sent priests and diplomats to plead for their lives, but Coriolanus rejected every delegation as his siege engines encircled Rome.",
+        "search": "ancient rome siege battle engraving",
+        "caption": "Coriolanus rejected every peace delegation sent from Rome."
+      },
+      {
+        "narration": "In a final gamble, Rome sent his mother Veturia and his wife to the enemy camp, where his mother knelt in the dirt and challenged his vengeance.",
+        "search": "coriolanus mother veturia oil painting",
+        "caption": "His mother Veturia knelt before him outside the walls."
+      },
+      {
+        "narration": "Weeping, Coriolanus ordered the Volscian army to retreat, sparing his homeland but ensuring his immediate assassination by Volscian officers for abandoning the conquest.",
+        "search": "coriolanus assassination death oil painting",
+        "caption": "Rome was spared, but Coriolanus was executed for treason."
+      },
+      {
+        "narration": "Why did Rome's greatest hero march to destroy Rome?",
+        "search": "coriolanus bust statue marble",
+        "caption": "Rome's greatest hero returned to burn his city."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T22:48:01.068425+00:00",
+    "updated_at": "2026-10-14T22:52:18.902036+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-14T22:48:45.762404+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 229 de vua 55s)",
+        "at": "2026-10-14T22:49:56.155137+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.5s en-US-GuyNeural 5 cau",
+        "at": "2026-10-14T22:49:59.244156+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T22:50:00.442754+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-14T22:51:35.167374+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-14T22:51:35.220935+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.5s 8747935 bytes",
+        "at": "2026-10-14T22:52:18.556220+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T22:52:18.902018+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405771/pexels-photo-37405771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34491539/pexels-photo-34491539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592174/pexels-photo-39592174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35644588/pexels-photo-35644588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532251/pexels-photo-36532251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412597/pexels-photo-29412597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10860536/pexels-photo-10860536.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30117469/pexels-photo-30117469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37060941/pexels-photo-37060941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739370/pexels-photo-5739370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13670353/pexels-photo-13670353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "16420b19db",
     "kind": "short",
     "channel": "Channel2",
