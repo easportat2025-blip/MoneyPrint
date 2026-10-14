@@ -1,5 +1,162 @@
 [
   {
+    "id": "16420b19db",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Inca King Murdered His Own Messengers",
+    "idea": {
+      "title": "Why an Inca King Murdered His Own Messengers",
+      "hook": "Inca Emperor Pachacuti demanded total loyalty, but bringing him bad news carried an immediate death sentence.",
+      "beats": [
+        "Inca chasqui runners sprinted hundreds of miles over mountains to deliver crucial wartime reports directly to the Emperor.",
+        "Terrified of losing face and demanding absolute victory, Pachacuti enacted a merciless decree against defeatist reports.",
+        "Any royal runner who delivered news of a military loss was thrown off a precipice or executed on the spot.",
+        "The result was catastrophic: terrified generals lied about battlefield outcomes, blinding the Inca high command to impending crises.",
+        "This fatal culture of fear left the empire fragile and fractured just decades before the Spanish conquistadors arrived."
+      ],
+      "keywords": [
+        "Inca emperor portrait painting",
+        "chasqui runner ancient engraving",
+        "Machu Picchu archival map",
+        "ancient Peru battle illustration",
+        "Inca empire historic artifact"
+      ],
+      "tags": [
+        "#incahistory",
+        "#ancientcivilizations",
+        "#historyshorts",
+        "#historyfacts",
+        "#pachacuti"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did an Inca emperor execute his fastest runners?",
+        "search": "inca emperor pachacuti portrait engraving",
+        "caption": "Why an Inca emperor executed his own messengers."
+      },
+      {
+        "narration": "In the fifteenth century, the Inca Empire relied on elite relay couriers called chasquis to carry military reports across the Andes.",
+        "search": "chasqui runner andes trail vintage illustration",
+        "caption": "Elite chasqui runners carried vital war dispatches across the Andes."
+      },
+      {
+        "narration": "Under Emperor Pachacuti, who ruled from 1438 to 1471, the realm expanded rapidly, but imperial paranoia deepened.",
+        "search": "inca emperor pachacuti crown antique painting",
+        "caption": "Emperor Pachacuti expanded the empire between 1438 and 1471."
+      },
+      {
+        "narration": "Pachacuti enacted a merciless decree: any messenger delivering reports of a military defeat was condemned to death.",
+        "search": "ancient inca warriors battle manuscript engraving",
+        "caption": "Bringing news of military defeat carried an immediate death sentence."
+      },
+      {
+        "narration": "Couriers who sprinted hundreds of mountain miles were routinely thrown from cliffs upon speaking the truth.",
+        "search": "andean mountain cliff gorge vintage engraving",
+        "caption": "Couriers were executed on the spot for reporting battlefield losses."
+      },
+      {
+        "narration": "Frontline generals quickly realized that telling the imperial throne the reality of combat was fatal.",
+        "search": "inca war council historical illustration",
+        "caption": "Inca military commanders feared the emperor more than the enemy."
+      },
+      {
+        "narration": "To survive, commanders doctored knotted quipu cords and ordered runners to invent glowing victories.",
+        "search": "inca quipu knotted cords antique artifact",
+        "caption": "Officers fabricated victories on knotted quipu strings to survive."
+      },
+      {
+        "narration": "While Cusco celebrated fabricated triumphs, massive enemy counter-offensives mobilized in total secrecy.",
+        "search": "cusco inca empire ancient map engraving",
+        "caption": "Ghost victories blinded the imperial capital to brewing catastrophe."
+      },
+      {
+        "narration": "In the 1470s, this systemic deception blinded the Inca high command to impending regional rebellions.",
+        "search": "Machu Picchu archival map parchment",
+        "caption": "Blinded High Command"
+      },
+      {
+        "narration": "Emperor Pachacuti's fatal culture of fear left the empire dangerously fractured from within.",
+        "search": "Inca empire historic artifact gold ornament",
+        "caption": "Fractured Empire"
+      },
+      {
+        "narration": "Decades later, that exact internal paralysis allowed the Spanish conquistadors to shatter the realm.",
+        "search": "ancient Peru battle illustration woodcut",
+        "caption": "Conquistador Collapse"
+      },
+      {
+        "narration": "Why did an Inca Emperor murder his own loyal messengers?",
+        "search": "Inca emperor portrait painting museum collection",
+        "caption": "Why an Inca King Murdered His Own Messengers"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T20:53:24.082599+00:00",
+    "updated_at": "2026-10-14T20:59:03.997464+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-14T20:55:05.310580+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "338 chars (cat 651 de vua 55s)",
+        "at": "2026-10-14T20:56:11.513543+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.1s en-US-GuyNeural 4 cau",
+        "at": "2026-10-14T20:56:13.070764+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T20:56:13.648731+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-14T20:58:40.828519+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-14T20:58:40.863975+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.1s 6987922 bytes",
+        "at": "2026-10-14T20:59:03.764472+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T20:59:03.997446+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17029337/pexels-photo-17029337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38120099/pexels-photo-38120099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38909471/pexels-photo-38909471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30683811/pexels-photo-30683811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4558393/pexels-photo-4558393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33789182/pexels-photo-33789182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38429574/pexels-photo-38429574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17060848/pexels-photo-17060848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17606174/pexels-photo-17606174.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610601/pexels-photo-20610601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32667687/pexels-photo-32667687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16208880/pexels-photo-16208880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4bb8609193",
     "kind": "short",
     "channel": "Channel3",
