@@ -1,5 +1,160 @@
 [
   {
+    "id": "74054c5239",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "the roman emperor who punished the sea with lashes",
+    "idea": {
+      "title": "the roman emperor who punished the sea with lashes",
+      "hook": "Khi nhà cai trị La Mã ra lệnh trừng phạt những con sóng dữ bằng roi da vì dám cản đường.",
+      "beats": [
+        "Hoàng đế Caligula dẫn quân đến bờ biển phía bắc với tham vọng chinh phục đại dương.",
+        "Thay vì giao chiến với kẻ thù con người, ông ra lệnh cho binh sĩ quất roi xuống mặt nước và ném lao vào sóng biển.",
+        "Để ăn mừng chiến thắng kỳ lạ này, ông bắt quân lính thu thập vỏ sò làm chiến lợi phẩm mang về thủ đô."
+      ],
+      "keywords": [
+        "roman emperor portrait bust",
+        "ancient rome painting",
+        "roman army engraving",
+        "historic sea painting",
+        "classical sculpture bust"
+      ],
+      "tags": [
+        "history",
+        "romanempire",
+        "historicalmysteries",
+        "documentary",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman emperor order his soldiers to whip the sea?",
+        "search": "roman emperor portrait bust",
+        "caption": "The emperor who whipped the sea"
+      },
+      {
+        "narration": "In 40 AD, Emperor Caligula marched his legions to the northern coast of Gaul with ambitions to invade Britain.",
+        "search": "ancient rome painting",
+        "caption": "Caligula marches to the northern coast"
+      },
+      {
+        "narration": "Standing before the English Channel, the unstable ruler commanded his massive army to halt at the shoreline.",
+        "search": "roman army engraving",
+        "caption": "Legions halt at the shoreline"
+      },
+      {
+        "narration": "Instead of sailing across to fight human enemies, Caligula declared war on the ocean itself.",
+        "search": "historic sea painting",
+        "caption": "Declaring war on the ocean"
+      },
+      {
+        "narration": "He commanded his bewildered soldiers to strike the violent waves with leather lashes.",
+        "search": "classical sculpture bust",
+        "caption": "Soldiers strike the violent waves"
+      },
+      {
+        "narration": "The Roman troops were then ordered to hurl their iron javelins directly into the surging surf.",
+        "search": "ancient roman weapon artifact",
+        "caption": "Javelins hurled into the surf"
+      },
+      {
+        "narration": "To cement this bizarre military campaign, Caligula claimed the ocean as his conquered prisoner of war.",
+        "search": "roman coin portrait profile",
+        "caption": "Claiming the ocean as prisoner"
+      },
+      {
+        "narration": "He commanded his men to gather seashells along the beach as literal spoils of victory.",
+        "search": "ancient roman pottery artifact",
+        "caption": "Gathering seashells as spoils of victory"
+      },
+      {
+        "narration": "In 40 AD, Emperor Caligula returned to Rome to demand a grand triumph for subduing the Mediterranean Sea.",
+        "search": "roman emperor portrait bust demands",
+        "caption": "Caligula demands a triumph for conquering the sea"
+      },
+      {
+        "narration": "The Roman Senate was forced to record this absurd maritime victory in the official imperial archives.",
+        "search": "ancient rome painting senate",
+        "caption": "The Senate records an absurd maritime victory"
+      },
+      {
+        "narration": "This bizarre event exposed the absolute unchecked tyranny of the early Roman Empire.",
+        "search": "classical sculpture bust unchecked",
+        "caption": "The unchecked tyranny of the Roman Empire"
+      },
+      {
+        "narration": "In 40 AD, Emperor Caligula marched his legions to the northern coast of Gaul.",
+        "search": "ancient rome painting",
+        "caption": "Caligula's northern campaign of 40 AD"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T06:02:05.293020+00:00",
+    "updated_at": "2026-10-14T06:08:28.607006+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-14T06:04:24.061522+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "370 chars (cat 375 de vua 55s)",
+        "at": "2026-10-14T06:05:26.591274+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 4 cau",
+        "at": "2026-10-14T06:05:28.752203+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T06:05:29.718601+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-14T06:07:54.644534+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-14T06:07:54.695214+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.1s 6424904 bytes",
+        "at": "2026-10-14T06:08:28.339236+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T06:08:28.606988+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5659375/pexels-photo-5659375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39375503/pexels-photo-39375503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33516927/pexels-photo-33516927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39386244/pexels-photo-39386244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28243408/pexels-photo-28243408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151896/pexels-photo-40151896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35382700/pexels-photo-35382700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29754964/pexels-photo-29754964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33008994/pexels-photo-33008994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828091/pexels-photo-8828091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7478550/pexels-photo-7478550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ff6e8cac71",
     "kind": "short",
     "channel": "Channel3",
