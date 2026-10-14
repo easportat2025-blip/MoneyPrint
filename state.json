@@ -1,5 +1,167 @@
 [
   {
+    "id": "4bb8609193",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật rùng mình về chiếc gương phòng tắm của bạn",
+    "idea": {
+      "title": "Sự thật rùng mình về chiếc gương phòng tắm của bạn",
+      "hook": "Bạn nghĩ mình đang nhìn vào gương, nhưng thực tế bạn đang nhìn về quá khứ - và đó chỉ là sự bắt đầu.",
+      "beats": [
+        "Ánh sáng cần thời gian để di chuyển từ mặt bạn đến gương rồi quay lại mắt bạn.",
+        "Hình ảnh bạn thấy thực ra đã xảy ra trong quá khứ, dù chỉ là một phần nhỏ của giây.",
+        "Bộ não con người liên tục 'lừa' chúng ta bằng cách xóa bỏ khoảng trễ thời gian này để duy trì thực tại.",
+        "Trong vũ trụ, hiện tượng này phóng đại lên hàng triệu lần khi ta nhìn các vì sao xa xôi."
+      ],
+      "keywords": [
+        "mirror reflection space time physics animation",
+        "cosmic speed of light animation background",
+        "abstract glowing light waves loop",
+        "deep space star field dark background",
+        "futuristic digital grid abstract motion"
+      ],
+      "tags": [
+        "khoahoc",
+        "suthat",
+        "vutru",
+        "channel3",
+        "khampha"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ mình đang nhìn vào gương, nhưng thực tế bạn đang nhìn về quá khứ - và đó chỉ là sự bắt đầu.",
+        "search": "3d animation nguoi dung soi guong phong tam",
+        "caption": "Ban dang nhin vao qua khu trong guong!"
+      },
+      {
+        "narration": "Ánh sáng cần thời gian để di chuyển từ mặt bạn đến gương rồi quay lại mắt bạn.",
+        "search": "motion graphics tia sang phan chieu qua guong",
+        "caption": "Anh sang mat thoi gian de di chuyen"
+      },
+      {
+        "narration": "Hình ảnh bạn thấy thực ra đã xảy ra trong quá khứ, dù chỉ là một phần nhỏ của giây.",
+        "search": "loop animation khuon mat trong guong cham lai",
+        "caption": "Hinh anh trong guong la qua khu"
+      },
+      {
+        "narration": "Bộ não con người liên tục lừa chúng ta bằng cách xóa bỏ khoảng trễ thời gian này để duy trì thực tại.",
+        "search": "explainer animation bo nao xu ly thong tin thi giac",
+        "caption": "Bo nao dang lua doi ban"
+      },
+      {
+        "narration": "Khoảng trễ này tuy cực kỳ nhỏ, nhưng nó chứng minh bạn chưa bao giờ thực sự thấy hiện tại.",
+        "search": "isometric render phong tam hien dai co guong tron",
+        "caption": "Ban chua bao gio thay hien tai"
+      },
+      {
+        "narration": "Thậm chí chiếc điện thoại bạn đang cầm cũng đang cho bạn xem những gì đã cũ từ vài phần nghìn giây trước.",
+        "search": "cartoony 3d nguoi cam dien thoai thong minh",
+        "caption": "Man hinh dien thoai cung vay"
+      },
+      {
+        "narration": "Mọi màn hình kỹ thuật số đều có độ trễ ánh sáng mà mắt thường không thể nhận ra.",
+        "search": "motion graphics song anh sang phan chieu tren man hinh",
+        "caption": "Do tre anh sang tren moi man hinh"
+      },
+      {
+        "narration": "Ngay cả khi bạn chớp mắt, bộ não cũng phải mất thời gian để tái tạo lại hình ảnh đó.",
+        "search": "3d animation nguoi chop mat truoc guong",
+        "caption": "Bo nao phai mat thoi gian xu ly"
+      },
+      {
+        "narration": "Bộ não con người thực ra đang nói dối bạn mỗi giây để che giấu khoảng trễ thời gian này.",
+        "search": "3d animation nao nguoi dang xu ly thong tin",
+        "caption": "Bộ não lừa bạn nhìn thấy thực tại"
+      },
+      {
+        "narration": "Nó tự động ghép nối các mảnh thời gian lại để bạn không thấy thế giới bị giật lag.",
+        "search": "motion graphics hieu ung glitch thoi gian so",
+        "caption": "Cố tình xóa bỏ khoảng trễ"
+      },
+      {
+        "narration": "Thực tế, bạn chưa bao giờ thực sự sống ở thời điểm hiện tại của vũ trụ.",
+        "search": "isometric render dong ho cat chay nguoc thoi gian",
+        "caption": "Bạn luôn sống trong quá khứ"
+      },
+      {
+        "narration": "Mỗi khoảnh khắc bạn nhìn vào gương chỉ là một đoạn phim cũ được phát lại ngay lập tức.",
+        "search": "explainer animation nguoi dung soi guong phong tam",
+        "caption": "Gương phòng tắm phát lại quá khuri"
+      },
+      {
+        "narration": "Vì vậy, hình ảnh bạn thấy không phải bây giờ, mà là một phần tỷ giây trước của chính bạn.",
+        "search": "loop animation anh sang phan chieu qua guong",
+        "caption": "Quá khứ nằm ngay trong gương của bạn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-14T19:33:55.400916+00:00",
+    "updated_at": "2026-10-14T19:38:22.659537+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-14T19:36:05.117826+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "539 chars (cat 127 de vua 55s)",
+        "at": "2026-10-14T19:37:08.232501+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-14T19:37:15.271830+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-14T19:37:16.707876+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-14T19:37:32.704197+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-14T19:37:32.767540+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.2s 10409361 bytes",
+        "at": "2026-10-14T19:38:22.334857+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-14T19:38:22.659516+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6801632/6801632-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/39322562/16732231_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7767337/7767337-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/5849463/5849463-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/7316385/7316385-hd_720_1280_50fps.mp4",
+      "https://videos.pexels.com/video-files/8819491/8819491-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6491984/6491984-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/6492694/6492694-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283221/15283221-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36487356/15471707_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7703941/7703941-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7490788/7490788-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/35304590/14957715_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "70a9ff0e29",
     "kind": "long",
     "channel": "seigh",
