@@ -1,5 +1,161 @@
 [
   {
+    "id": "7a190227cb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Peter the Great kept a severed head by his wife's bed",
+    "idea": {
+      "title": "Why Peter the Great kept a severed head by his wife's bed",
+      "hook": "Tsar Peter the Great forced his own empress to sleep inside a dark bedroom next to the preserved, severed head of his political rival.",
+      "beats": [
+        "Peter the Great suspected his wife Catherine of having a passionate affair with her close chamberlain, Willem Mons.",
+        "The Tsar had Mons executed for corruption and treason, then ordered his head preserved in a jar of pure alcohol.",
+        "In a brutal display of psychological torture and absolute control, Peter placed the jar on a bedside table in his wife's private chamber.",
+        "The terrified empress was forced to look at her former lover's face every single night for the rest of her life."
+      ],
+      "keywords": [
+        "peter the great portrait",
+        "russian tsar painting",
+        "imperial russia art",
+        "18th century royal portrait",
+        "vintage oil painting face"
+      ],
+      "tags": [
+        "history",
+        "peterthegreat",
+        "russia",
+        "darkhistory",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Tsar Peter the Great preserve a severed head?",
+        "search": "tsar peter the great oil painting portrait close up",
+        "caption": "Why did Tsar Peter preserve a severed head?"
+      },
+      {
+        "narration": "In 1724, Imperial Russia's ruler inflicted a horrific psychological punishment on his own wife, Empress Catherine.",
+        "search": "empress catherine i russia oil painting portrait",
+        "caption": "In 1724, Empress Catherine faced a nightmare"
+      },
+      {
+        "narration": "Tsar Peter suspected Catherine of maintaining a secret romance with her imperial chamberlain, Willem Mons.",
+        "search": "18th century russian court noble oil painting portrait",
+        "caption": "Peter suspected his wife of a secret affair"
+      },
+      {
+        "narration": "Instead of publicly executing the Empress, Peter arrested Mons on official charges of embezzlement and bribery.",
+        "search": "18th century trial court execution order engraving",
+        "caption": "Chamberlain Willem Mons was charged with treason"
+      },
+      {
+        "narration": "In November 1724, Mons was publicly beheaded in Saint Petersburg before an audience of court officials.",
+        "search": "18th century execution Saint Petersburg vintage engraving",
+        "caption": "Mons was executed in Saint Petersburg in 1724"
+      },
+      {
+        "narration": "Following the execution, Peter ordered the chamberlain's severed head preserved inside a glass jar filled with pure alcohol.",
+        "search": "18th century medical specimen jar glass illustration",
+        "caption": "The severed head was preserved in alcohol"
+      },
+      {
+        "narration": "The Tsar personally carried the glass vessel into Catherine's private bedroom and set it directly on her nightstand.",
+        "search": "18th century imperial royal bedroom oil painting interior",
+        "caption": "Peter placed the jar on Catherine's bedside table"
+      },
+      {
+        "narration": "Until Peter died in February 1725, Catherine was forced to sleep beside her lover's face every night.",
+        "search": "peter the great deathbed 1725 oil painting art",
+        "caption": "She slept beside her lover's head until 1725"
+      },
+      {
+        "narration": "On February 8, 1725, Tsar Peter died from bladder gangrene without naming a successor, leaving Catherine backed by the imperial guards.",
+        "search": "death of peter the great oil painting",
+        "caption": "Peter the Great died in February 1725 without naming an heir."
+      },
+      {
+        "narration": "Claiming the throne as Empress Catherine the First, she immediately ordered the removal of Willem Mons' severed head from her bedchamber.",
+        "search": "empress catherine I of russia portrait painting",
+        "caption": "Crowned empress, Catherine immediately banished the jar from her bedchamber."
+      },
+      {
+        "narration": "The jar was locked away inside the Kunstkamera museum in Saint Petersburg, where Catherine ruled the Russian Empire entirely in her own right.",
+        "search": "kunstkamera saint petersburg 18th century engraving",
+        "caption": "The severed head was hidden away while Catherine ruled the empire."
+      },
+      {
+        "narration": "Tsar Peter kept a severed head beside his wife's bed.",
+        "search": "peter the great portrait oil painting",
+        "caption": "A Tsar's horrific punishment in 1724"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T08:31:14.530049+00:00",
+    "updated_at": "2026-10-15T08:38:47.581579+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-15T08:34:42.425385+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "397 chars (cat 151 de vua 55s)",
+        "at": "2026-10-15T08:36:17.264193+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 5 cau",
+        "at": "2026-10-15T08:36:21.988430+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T08:36:23.117361+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-15T08:38:08.636058+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T08:38:08.691271+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.2s 8460427 bytes",
+        "at": "2026-10-15T08:38:47.310638+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T08:38:47.581564+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16470439/pexels-photo-16470439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20895759/pexels-photo-20895759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728577/pexels-photo-6728577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6077555/pexels-photo-6077555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21952810/pexels-photo-21952810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29946020/pexels-photo-29946020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14558307/pexels-photo-14558307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38623319/pexels-photo-38623319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30851773/pexels-photo-30851773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34936880/pexels-photo-34936880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32832223/pexels-photo-32832223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33285342/pexels-photo-33285342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8ba3e9bd63",
     "kind": "short",
     "channel": "Channel2",
