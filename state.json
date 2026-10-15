@@ -1,5 +1,161 @@
 [
   {
+    "id": "ded814f53b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Empress Boiled Her Rivals in Bathwater",
+    "idea": {
+      "title": "Why an Empress Boiled Her Rivals in Bathwater",
+      "hook": "In 655 AD, Empress Wu Zetian eliminated her two biggest rivals using a punishment so horrific, it haunted China's court for centuries.",
+      "beats": [
+        "To secure supreme power over Emperor Gaozong, Wu framed Empress Wang and Consort Xiao for witchcraft.",
+        "Once both women were stripped of royal rank, Wu ordered their limbs severed and threw their living bodies into large vats of boiling wine.",
+        "Consort Xiao cursed Wu with her dying breath, swearing she would be reincarnated as a cat to strangle Wu the rat.",
+        "Paralyzed by paranoia after their brutal deaths, Wu Zetian permanently banned all domestic cats from the imperial palace."
+      ],
+      "keywords": [
+        "Empress Wu Zetian portrait",
+        "Tang dynasty imperial court painting",
+        "ancient Chinese palace engraving",
+        "Emperor Gaozong Tang dynasty",
+        "ancient Chinese punishment historical art"
+      ],
+      "tags": [
+        "#historyshorts",
+        "#wuzetian",
+        "#ancientchina",
+        "#tangdynasty",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Chinese empress boiled her rivals alive in wine.",
+        "search": "Empress Wu Zetian portrait painting ancient Chinese",
+        "caption": "Empress Wu Zetian boiled her royal rivals alive."
+      },
+      {
+        "narration": "In 655 AD, the imperial court of the Tang dynasty witnessed a purge so horrific it reshaped Chinese succession forever.",
+        "search": "Tang dynasty imperial palace painting Chang'an",
+        "caption": "In 655 AD, Tang dynasty imperial politics turned lethal."
+      },
+      {
+        "narration": "Wu Zetian was an ambitious concubine fighting for absolute influence over the fragile Emperor Gaozong.",
+        "search": "Emperor Gaozong Tang dynasty silk painting portrait",
+        "caption": "Wu Zetian fought for influence over Emperor Gaozong."
+      },
+      {
+        "narration": "Her primary obstacles to the throne were Gaozong's official wife, Empress Wang, and his favored Consort Xiao.",
+        "search": "Tang dynasty noble women court silk painting",
+        "caption": "Empress Wang and Consort Xiao blocked Wu's ascent."
+      },
+      {
+        "narration": "To eliminate them simultaneously, Wu fabricated evidence accusing both women of practicing sorcery against the emperor.",
+        "search": "ancient Chinese sorcery talisman artifact manuscript",
+        "caption": "Wu accused her rivals of treasonous palace witchcraft."
+      },
+      {
+        "narration": "Emperor Gaozong believed the charges, stripping Wang and Xiao of their royal titles and confining them to dark dungeons.",
+        "search": "ancient Chinese prison dungeon historical engraving",
+        "caption": "The emperor stripped their titles and imprisoned them."
+      },
+      {
+        "narration": "When the emperor secretly visited the prisoners, Wu discovered his lingering pity and decided on extreme brutality.",
+        "search": "ancient Chinese imperial guards painting Tang dynasty",
+        "caption": "Fearing royal mercy, Wu ordered an unspeakable punishment."
+      },
+      {
+        "narration": "Imperial guards dragged both women forward, where Wu ordered their limbs severed before massive vats of boiling wine.",
+        "search": "ancient Chinese bronze cauldron vessel museum artifact",
+        "caption": "Their limbs were amputated before boiling wine vats."
+      },
+      {
+        "narration": "Wu had both living women submerged into enormous wine cauldrons to die over several excruciating days, a punishment chroniclers recorded as bone-brewing.",
+        "search": "ancient Chinese bronze cauldron vessel Tang dynasty engraving",
+        "caption": "Wu threw her mutilated rivals into vats of wine to die."
+      },
+      {
+        "narration": "Court annals record Consort Xiao cursed Wu with her final breath, swearing to reincarnate as a cat and tear out Wu's throat.",
+        "search": "Tang dynasty court lady silk painting ancient China",
+        "caption": "Consort Xiao vowed to reincarnate as a cat and kill Wu."
+      },
+      {
+        "narration": "Haunted by paranoia, Empress Wu permanently outlawed all domestic cats from the imperial palace and reigned unopposed for another four decades.",
+        "search": "Empress Wu Zetian imperial portrait painting ancient China",
+        "caption": "Wu banned all cats from the palace and ruled China unopposed."
+      },
+      {
+        "narration": "Why did an empress boil her rivals alive?",
+        "search": "Empress Wu Zetian portrait painting",
+        "caption": "Why an Empress boiled her rivals alive"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T22:45:26.362210+00:00",
+    "updated_at": "2026-10-15T22:50:04.395250+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-15T22:46:00.585796+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "380 chars (cat 111 de vua 55s)",
+        "at": "2026-10-15T22:46:44.096367+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-15T22:46:46.967611+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T22:46:48.062950+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-15T22:49:23.605279+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T22:49:23.666336+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.1s 7791843 bytes",
+        "at": "2026-10-15T22:50:04.042227+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T22:50:04.395224+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33971828/pexels-photo-33971828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39116628/pexels-photo-39116628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15651578/pexels-photo-15651578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35233624/pexels-photo-35233624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9879472/pexels-photo-9879472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4153003/pexels-photo-4153003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33118636/pexels-photo-33118636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34344217/pexels-photo-34344217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5512786/pexels-photo-5512786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30723737/pexels-photo-30723737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458159/pexels-photo-39458159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37613633/pexels-photo-37613633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "729ee43613",
     "kind": "short",
     "channel": "Channel2",
