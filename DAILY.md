@@ -1,4 +1,4 @@
-# Daily ping 14/10/2026
+# Daily ping 15/10/2026
 
 Total views (all tracked): **0** (+0 vs snapshot truoc)
 
@@ -11,11 +11,11 @@ Total views (all tracked): **0** (+0 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Sai lầm khi nhổ lông mũi âm thầm đe dọa não bạn :: token refresh failed: 400 {
+- Sai lầm khi vừa sạc vừa dùng điện thoại âm thầm hại pin :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
-- The Pope Who Exhumed and Tested a Corpse :: token refresh failed: 400 {
+- Why Rome's Truest Diplomat Let 3,000 Hostages Die :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
