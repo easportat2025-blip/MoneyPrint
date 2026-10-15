@@ -1,5 +1,161 @@
 [
   {
+    "id": "475a35fe02",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Truest Diplomat Let 3,000 Hostages Die",
+    "idea": {
+      "title": "Why Rome's Truest Diplomat Let 3,000 Hostages Die",
+      "hook": "In 255 BC, a captured Roman consul was freed on one condition: convince Rome to surrender, or return to Carthage to be tortured to death. What he did next shocked both empires.",
+      "beats": [
+        "Consul Marcus Atilius Regulus was captured by Carthage during the First Punic War and sent on parole to Rome to negotiate peace.",
+        "Instead of begging his countrymen to save his life, Regulus stood before the Roman Senate and urged them to reject the treaty and fight on.",
+        "Knowing his refusal meant certain execution, Regulus willingly sailed back into enemy hands to honor his sworn oath.",
+        "The Carthaginians subjected him to brutal execution, cementing Regulus forever as the ultimate symbol of Roman duty."
+      ],
+      "keywords": [
+        "marcus atilius regulus",
+        "roman consul bust",
+        "carthaginian war engraving",
+        "ancient roman senate painting",
+        "first punic war map"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#historyshorts",
+        "#romanrepublic",
+        "#warhistory",
+        "#historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman general willingly chose torture over his freedom.",
+        "search": "marcus atilius regulus bust statue",
+        "caption": "Marcus Atilius Regulus and the ultimate Roman sacrifice."
+      },
+      {
+        "narration": "In 255 BC, during the First Punic War, Consul Marcus Atilius Regulus led a Roman invasion force into North Africa.",
+        "search": "first punic war naval battle vintage engraving",
+        "caption": "255 BC: Rome launches invasion of Carthaginian territory."
+      },
+      {
+        "narration": "At the Battle of Tunis, Spartan mercenary general Xanthippus crushed the legions, taking Regulus alive alongside five hundred men.",
+        "search": "battle of bagradas tunis ancient engraving",
+        "caption": "Regulus is captured after catastrophic defeat at Tunis."
+      },
+      {
+        "narration": "After five years in captivity, Carthage suffered critical naval defeats and desperately sought an armistice and prisoner exchange.",
+        "search": "ancient carthage harbor ruins oil painting",
+        "caption": "Carthage offers an exchange after costly naval defeats."
+      },
+      {
+        "narration": "Carthaginian magistrates paroled Regulus under sacred oath: convince the Roman Senate to accept peace, or return to Carthage for execution.",
+        "search": "ancient carthaginian council vintage engraving",
+        "caption": "Regulus is paroled under oath to secure Rome's surrender."
+      },
+      {
+        "narration": "Arriving outside Rome in 250 BC, Regulus refused to enter his own home, considering himself stripped of Roman citizenship.",
+        "search": "ancient roman senate assembly oil painting",
+        "caption": "Regulus returns outside Rome as a foreign prisoner."
+      },
+      {
+        "narration": "Roman senators wept and prepared to exchange thousands of Carthaginian prisoners to preserve their former consul's life.",
+        "search": "roman senators debate vintage illustration",
+        "caption": "The Roman Senate prepares to accept Carthage's terms."
+      },
+      {
+        "narration": "Instead of accepting rescue, Regulus addressed the Senate and demanded they reject the exchange and leave him to die.",
+        "search": "regulus urging roman senate oil painting",
+        "caption": "Regulus demands Rome reject peace and abandon him."
+      },
+      {
+        "narration": "Bound by his military parole in 255 BC, Regulus refused to let Rome compromise its absolute authority.",
+        "search": "ancient roman senate painting",
+        "caption": "Regulus rejected the peace terms before the Senate."
+      },
+      {
+        "narration": "He willingly turned his back on his family and boarded a galley ship back to North Africa.",
+        "search": "carthaginian war engraving",
+        "caption": "He sailed back to enemy territory to honor his oath."
+      },
+      {
+        "narration": "Carthage executed him through severe torture, cementing Marcus Atilius Regulus as Rome's ultimate symbol of duty.",
+        "search": "marcus atilius regulus bust statue executed",
+        "caption": "Executed by Carthage, he became Rome's ultimate symbol of duty."
+      },
+      {
+        "narration": "Why did Rome's truest diplomat choose torture over 3,000 lives?",
+        "search": "marcus atilius regulus bust statue",
+        "caption": "Why Rome's greatest diplomat let hostages die"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T00:46:00.636385+00:00",
+    "updated_at": "2026-10-15T00:50:19.536000+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-15T00:47:23.419336+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "415 chars (cat 152 de vua 55s)",
+        "at": "2026-10-15T00:47:35.425205+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.5s en-US-GuyNeural 6 cau",
+        "at": "2026-10-15T00:47:38.230216+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T00:47:39.477583+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-15T00:49:34.496287+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T00:49:34.554072+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.5s 11082848 bytes",
+        "at": "2026-10-15T00:50:19.185328+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T00:50:19.535983+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/3214599/pexels-photo-3214599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5642762/pexels-photo-5642762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8719172/pexels-photo-8719172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35663127/pexels-photo-35663127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592173/pexels-photo-39592173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708933/pexels-photo-35708933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151884/pexels-photo-40151884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18250524/pexels-photo-18250524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049682/pexels-photo-19049682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14809512/pexels-photo-14809512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38360390/pexels-photo-38360390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7694028/pexels-photo-7694028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1124a9f47e",
     "kind": "short",
     "channel": "Channel2",
