@@ -1,5 +1,161 @@
 [
   {
+    "id": "8ba3e9bd63",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Greatest Enemy Died Swallowing Poison",
+    "idea": {
+      "title": "Why Rome's Greatest Enemy Died Swallowing Poison",
+      "hook": "Hannibal Barca spent his life destroying Roman legions, yet his final breath was stolen by a secret hidden in his own ring.",
+      "beats": [
+        "After crushing Rome at Cannae, Hannibal spent decades hunted across the Mediterranean as an exiled fugitive.",
+        "When Roman legions finally surrounded his villa in Bithynia, he realized his host king had secretly betrayed him.",
+        "Refusing to be dragged through Rome's streets in iron chains, he opened the hollow bezel of his finger ring.",
+        "He swallowed the deadly poison inside, uttering his final bitter mockery: 'Let us relieve the Romans of their long anxiety.'"
+      ],
+      "keywords": [
+        "hannibal barca bust",
+        "ancient roman soldiers bust",
+        "ancient carthage ruins",
+        "ancient poison ring",
+        "roman republic map"
+      ],
+      "tags": [
+        "#ancienthistory",
+        "#hannibal",
+        "#rome",
+        "#historyshorts",
+        "#ancientrome"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's deadliest conqueror died from his own finger ring.",
+        "search": "hannibal barca marble bust statue",
+        "caption": "Rome's deadliest nightmare died from his own ring."
+      },
+      {
+        "narration": "At Cannae in 216 BC, Hannibal Barca annihilated fifty thousand Roman soldiers in a single afternoon.",
+        "search": "battle of cannae oil painting",
+        "caption": "In 216 BC, Hannibal destroyed 50,000 Roman legionaries at Cannae."
+      },
+      {
+        "narration": "Yet Carthage ultimately fell, forcing Hannibal into decades of exile across the Mediterranean as a wanted fugitive.",
+        "search": "ruins of ancient carthage tunisia engraving",
+        "caption": "Defeated, Hannibal spent decades hunted across the Mediterranean as a fugitive."
+      },
+      {
+        "narration": "By 183 BC, the sixty-four-year-old general found temporary refuge in Bithynia under King Prusias the First.",
+        "search": "ancient roman republic empire map engraving",
+        "caption": "In 183 BC, Hannibal sought refuge in the kingdom of Bithynia."
+      },
+      {
+        "narration": "Rome discovered his location and dispatched Roman envoy Titus Quinctius Flamininus with an ultimatum demanding his surrender.",
+        "search": "flamininus roman coin silver denarius",
+        "caption": "Roman envoy Flamininus arrived, demanding Hannibal's immediate capture."
+      },
+      {
+        "narration": "Terrified of Roman legions, King Prusias betrayed his guest, surrounding Hannibal's fortified villa at Libyssa.",
+        "search": "ancient roman soldiers armor engraving",
+        "caption": "King Prusias betrayed Hannibal, sending guards to surround the villa."
+      },
+      {
+        "narration": "Hannibal sent a servant to check the villa's seven secret escape tunnels, only to find every passage blocked by Roman troops.",
+        "search": "ancient stone fortress corridor interior",
+        "caption": "Hannibal's scouts confirmed Roman soldiers guarded every secret exit."
+      },
+      {
+        "narration": "Knowing Rome planned to drag him through the Forum in chains, Hannibal examined the hollow bezel of his ring.",
+        "search": "ancient roman gold signet ring artifact",
+        "caption": "Refusing public humiliation in Rome, Hannibal turned to his signet ring."
+      },
+      {
+        "narration": "In 183 BC, King Prusias of Bithynia surrendered to Roman envoy Flamininus, sealing Hannibal inside his fortified villa at Libyssa.",
+        "search": "hannibal barca bust statue close up",
+        "caption": "In 183 BC, King Prusias betrayed Hannibal to Rome."
+      },
+      {
+        "narration": "Opening the hollow ring, Hannibal drank the lethal draught, declaring Rome could no longer wait for an old man to die.",
+        "search": "death of hannibal oil painting",
+        "caption": "Hannibal swallowed the ring's poison rather than march in chains."
+      },
+      {
+        "narration": "At sixty-four, Hannibal Barca died undefeated on his own terms, denying the Roman Republic the triumph it chased across four decades.",
+        "search": "ancient carthage ruins engraving",
+        "caption": "Rome's fiercest enemy died on his own terms in 183 BC."
+      },
+      {
+        "narration": "Hannibal Barca spent his life destroying Roman legions, yet his final breath was stolen by a secret hidden in his own ring.",
+        "search": "hannibal barca bust marble sculpture museum lighting",
+        "caption": "The man who terrified Rome."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T05:45:02.376519+00:00",
+    "updated_at": "2026-10-15T05:49:44.174930+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-15T05:45:35.153283+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "431 chars (cat 177 de vua 55s)",
+        "at": "2026-10-15T05:46:38.980869+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.2s en-US-GuyNeural 6 cau",
+        "at": "2026-10-15T05:46:42.908416+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T05:46:44.157518+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-15T05:48:59.236709+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T05:48:59.295743+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.2s 8924035 bytes",
+        "at": "2026-10-15T05:49:43.923093+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T05:49:44.174911+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16110953/pexels-photo-16110953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32836031/pexels-photo-32836031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17420645/pexels-photo-17420645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33278536/pexels-photo-33278536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37094863/pexels-photo-37094863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5095371/pexels-photo-5095371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17094134/pexels-photo-17094134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39538238/pexels-photo-39538238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779790/pexels-photo-13779790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1589279/pexels-photo-1589279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14809514/pexels-photo-14809514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057041/pexels-photo-29057041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "15bbea9294",
     "kind": "short",
     "channel": "Channel3",
