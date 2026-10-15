@@ -1,5 +1,166 @@
 [
   {
+    "id": "15bbea9294",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm khi vừa sạc vừa dùng điện thoại âm thầm hại pin",
+    "idea": {
+      "title": "Sai lầm khi vừa sạc vừa dùng điện thoại âm thầm hại pin",
+      "hook": "Bạn nghĩ vừa sạc vừa bấm điện thoại chỉ làm máy hơi nóng, nhưng thực chất bạn đang ép viên pin chịu cái chết kép mà không hề hay biết.",
+      "beats": [
+        "Pin lithium-ion không hề sợ việc nạp xả cùng lúc, nhưng nó cực kỳ sợ hiện tượng dòng điện xoay vòng cực nhỏ liên tục nạp rồi xả.",
+        "Khi bạn chơi game lúc cắm sạc, nguồn nhiệt từ chip xử lý cộng hưởng với nhiệt độ sạc đẩy pin vượt ngưỡng an toàn 40 độ C.",
+        "Nhiệt lượng cao kéo dài làm biến tính cấu trúc hóa học bên trong, khiến pin bị chai vĩnh viễn và phồng lên nhanh gấp ba lần bình thường."
+      ],
+      "keywords": [
+        "charging smartphone gaming",
+        "overheating battery lithium",
+        "phone screen glowing dark",
+        "hands holding mobile device",
+        "battery degradation laboratory"
+      ],
+      "tags": [
+        "channel3",
+        "congnghe",
+        "meodienthoai",
+        "sacpin",
+        "doisong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vừa sạc vừa dùng điện thoại đang ép pin chịu cái chết kép.",
+        "search": "3d animation phone charging glowing dark",
+        "caption": "Vừa sạc vừa dùng điện thoại hại pin gấp đôi?"
+      },
+      {
+        "narration": "Nhiều người nghĩ máy chỉ hơi ấm chứ không hề nguy hiểm.",
+        "search": "hands holding mobile device heat waves",
+        "caption": "Chỉ nghĩ máy hơi ấm và vô hại"
+      },
+      {
+        "narration": "Thực tế pin lithium không sợ nạp xả thông thường.",
+        "search": "charging smartphone gaming motion graphics",
+        "caption": "Pin lithium không sợ nạp xả thông thường"
+      },
+      {
+        "narration": "Nó cực kỳ sợ hiện tượng dòng điện xoay vòng liên tục.",
+        "search": "battery degradation laboratory isometric render",
+        "caption": "Sợ dòng điện xoay vòng liên tục"
+      },
+      {
+        "narration": "Khi chơi game lúc cắm sạc, chip tạo ra nguồn nhiệt cực lớn.",
+        "search": "explainer animation phone processor heating up",
+        "caption": "Chơi game khi sạc sinh nhiệt cực lớn"
+      },
+      {
+        "narration": "Nhiệt lượng này cộng hưởng đẩy pin vượt ngưỡng an toàn bốn mươi độ.",
+        "search": "3d animation thermometer rising red battery",
+        "caption": "Nhiệt độ vượt ngưỡng an toàn bốn mươi độ"
+      },
+      {
+        "narration": "Sức nóng kéo dài làm biến tính cấu trúc hóa học bên trong.",
+        "search": "motion graphics chemical structure breaking down",
+        "caption": "Biến tính cấu trúc hóa học bên trong"
+      },
+      {
+        "narration": "Hiện tượng này khiến pin bị chai và phồng nhanh gấp ba lần.",
+        "search": "isometric render swollen smartphone battery danger",
+        "caption": "Pin phồng nhanh gấp ba lần bình thường"
+      },
+      {
+        "narration": "Nhiệt độ cao kéo dài làm biến tính cấu trúc hóa học bên trong, khiến pin bị chai vĩnh viễn và phồng lên nhanh gấp ba lần bình thường.",
+        "search": "3d animation battery degradation laboratory exploding phone",
+        "caption": "Pin phồng gấp ba lần do nhiệt độ cao"
+      },
+      {
+        "narration": "Đừng chờ đến lúc màn hình bị đội lên hay máy tự sập nguồn mới hối hận vì thói quen nhỏ này.",
+        "search": "phone screen glowing dark close up worry expression",
+        "caption": "Đừng chờ máy hỏng mới sửa"
+      },
+      {
+        "narration": "Giải pháp tốt nhất là khóa màn hình khi sạc, hoặc chỉ dùng khi thực sự cần thiết.",
+        "search": "hands holding mobile device unplugging charger wire",
+        "caption": "Rút sạc khi dùng máy"
+      },
+      {
+        "narration": "Hãy để viên pin được nghỉ ngơi trọn vẹn, thiết bị của bạn sẽ bền bỉ hơn rất nhiều.",
+        "search": "charging smartphone gaming resting on wooden table",
+        "caption": "Bảo vệ tuổi thọ pin điện thoại"
+      },
+      {
+        "narration": "Từ nay hãy từ bỏ ngay thói quen vừa cắm sạc vừa cày game hay xem phim nhé.",
+        "search": "isometric render modern smartphone battery life indicator",
+        "caption": "Từ bỏ ngay thói quen hại pin"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T04:57:20.994989+00:00",
+    "updated_at": "2026-10-15T05:02:14.401675+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-15T05:00:02.681084+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "478 chars (cat 194 de vua 55s)",
+        "at": "2026-10-15T05:01:09.420619+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.3s vi-VN-NamMinhNeural 4 cau",
+        "at": "2026-10-15T05:01:17.387277+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T05:01:18.583786+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-15T05:01:32.912876+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-10-15T05:01:32.962304+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.3s 11250968 bytes",
+        "at": "2026-10-15T05:02:14.132189+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T05:02:14.401658+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34908797/14788372_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/38410502/16310029_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/38410499/16310017_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727472/16727472-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816983/8816983-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34994717/14825901_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/34329302/14543304_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283161/15283161-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/14530276/14530276-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/8165693/8165693-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/28910067/12512954_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "475a35fe02",
     "kind": "short",
     "channel": "Channel2",
