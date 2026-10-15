@@ -1,5 +1,599 @@
 [
   {
+    "id": "1abf303d36",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Austrian Duke Built His Own Death Trap",
+    "idea": {
+      "title": "Why an Austrian Duke Built His Own Death Trap",
+      "hook": "In 1386, Duke Leopold III charged into battle wearing 60 pounds of steel, only to realize his own elite armor was his executioner.",
+      "beats": [
+        "Introduction to the escalating tensions between the ambitious House of Habsburg and the fiercely independent Swiss Confederacy.",
+        "Leopold III marches a formidable force of 4,000 heavily armored knights toward the Swiss lines at Sempach.",
+        "The contrast in military doctrine: elite, wealthy nobility in full plate mail versus peasant militias armed with crude polearms.",
+        "The scorching July heat hits the battlefield, instantly turning the gleaming steel plate suits into suffocating mobile ovens.",
+        "Exhaustion sets in for the Austrian knights before a single sword is drawn, severely degrading their combat effectiveness.",
+        "Faced with rugged, sloping terrain unsuitable for a traditional cavalry charge, Leopold makes a fatal tactical blunder.",
+        "The Duke orders his elite knights to dismount entirely and cut off the curved tips of their sabatons to walk uphill.",
+        "Stripped of their mobility and crippled by the oppressive heat, the heavily weighed-down knights struggle to even stand.",
+        "The agile Swiss militia, unencumbered by heavy metal, use long halberds and poleaxes to leverage the knights' lack of balance.",
+        "Trapped inside their own impenetrable death traps, the paralyzed Austrian vanguard is systematically surrounded and overwhelmed.",
+        "Duke Leopold III, isolated and unable to defend himself under the crushing weight, is ultimately struck down by the peasant army.",
+        "The devastating aftermath of Sempach: the shattering of Habsburg invincibility and a permanent revolution in medieval warfare tactics."
+      ],
+      "keywords": [
+        "Duke Leopold III",
+        "Battle of Sempach",
+        "Swiss Confederacy",
+        "medieval armor",
+        "plate mail history",
+        "Habsburg dynasty",
+        "military history",
+        "medieval warfare",
+        "historical mysteries",
+        "lost battles"
+      ],
+      "tags": [
+        "history documentary",
+        "medieval history",
+        "battle of sempach",
+        "habsburgs",
+        "knights in armor",
+        "military tactics",
+        "historical figures",
+        "ancient wars",
+        "swiss history",
+        "historical mysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "TRAPPED IN 60LBS OF STEEL"
+    },
+    "scenes": [
+      {
+        "narration": "In 1386, Duke Leopold III charged into battle wearing 60 pounds of steel, only to realize his own elite armor was his executioner.",
+        "search": "Duke Leopold III medieval manuscript illumination",
+        "caption": "Duke Leopold III charging into battle in 1386."
+      },
+      {
+        "narration": "Tensions escalated as the ambitious House of Habsburg clashed with the fiercely independent Swiss Confederacy.",
+        "search": "Habsburg dynasty medieval castle painting",
+        "caption": "The ambitious House of Habsburg expanded its reach."
+      },
+      {
+        "narration": "On July 9, 1386, Leopold III marched 4,000 heavily armored knights toward the Swiss lines at Sempach.",
+        "search": "medieval knights marching army oil painting",
+        "caption": "Four thousand heavily armored knights marched to Sempach."
+      },
+      {
+        "narration": "The two forces represented a stark contrast: wealthy nobility in full plate mail versus peasant militias with polearms.",
+        "search": "swiss medieval pikemen battle engraving",
+        "caption": "Noble plate mail met peasant polearms."
+      },
+      {
+        "narration": "The scorching July heat hit the battlefield, instantly turning the gleaming steel plate suits into suffocating mobile ovens.",
+        "search": "medieval knight sweating in armor historical illustration",
+        "caption": "Scorching July heat turned armor into an oven."
+      },
+      {
+        "narration": "Exhaustion set in for the Austrian knights before a single sword was drawn, severely degrading their combat effectiveness.",
+        "search": "exhausted medieval soldiers resting oil painting",
+        "caption": "Exhaustion crippled the Austrian knights before combat."
+      },
+      {
+        "narration": "Faced with rugged, sloping terrain unsuitable for cavalry, Leopold made a fatal tactical blunder.",
+        "search": "rugged mountain terrain medieval landscape painting",
+        "caption": "Rugged terrain presented a fatal tactical challenge."
+      },
+      {
+        "narration": "The Duke ordered his elite knights to dismount entirely and cut off the curved tips of their sabatons to walk uphill.",
+        "search": "medieval knight cutting steel sabatons historical art",
+        "caption": "Knights dismounted and mutilated their own armor."
+      },
+      {
+        "narration": "Stripped of their mobility and crippled by oppressive July heat, the weighed-down Austrian knights struggled to even stand.",
+        "search": "medieval knight in plate armor kneeling manuscript illumination",
+        "caption": "Crushed by heat and heavy steel"
+      },
+      {
+        "narration": "The agile Swiss militia, unencumbered by heavy metal, used long halberds and poleaxes to exploit their lack of balance.",
+        "search": "Swiss halberdier fighting armored knight 14th century manuscript painting",
+        "caption": "Halberds against heavy plate armor"
+      },
+      {
+        "narration": "Trapped inside their own impenetrable death traps, the paralyzed Austrian vanguard was systematically surrounded.",
+        "search": "medieval battle chaos Sempach 14th century historical oil painting",
+        "caption": "Surrounded in a metal prison"
+      },
+      {
+        "narration": "Duke Leopold III remained isolated on the chaotic slope, unable to defend himself under the crushing weight.",
+        "search": "Duke Leopold III Habsburg portrait medieval manuscript miniature",
+        "caption": "Duke Leopold III isolated in battle"
+      },
+      {
+        "narration": "On July 9, 1386, the supreme commander of the Austrian forces was struck down by the peasant army.",
+        "search": "death of a knight in battle medieval woodcut engraving",
+        "caption": "The death of Duke Leopold III"
+      },
+      {
+        "narration": "The devastating defeat at Sempach shattered the myth of Habsburg invincibility across the Holy Roman Empire.",
+        "search": "Habsburg coat of arms medieval heraldry manuscript painting",
+        "caption": "The shattering of Habsburg invincibility"
+      },
+      {
+        "narration": "This unexpected slaughter permanently revolutionized medieval warfare tactics, proving elite cavalry was no longer supreme.",
+        "search": "medieval infantry formation battle tactical manuscript illustration",
+        "caption": "A permanent revolution in medieval warfare"
+      },
+      {
+        "narration": "The tragic hubris of Duke Leopold III at Sempach remains a stark warning of technological overreliance.",
+        "search": "Swiss battlefield memorial monument archival photograph",
+        "caption": "The fatal trap of Sempach"
+      },
+      {
+        "narration": "In 1386, Duke Leopold III charged into battle wearing sixty pounds of steel, only to realize his own elite armor was his executioner.",
+        "search": "Duke Leopold III armor manuscript illustration",
+        "caption": "A Duke's sixty-pound armor became his executioner."
+      },
+      {
+        "narration": "Tensions escalated as the ambitious House of Habsburg clashed with the fiercely independent Swiss Confederacy in July.",
+        "search": "medieval Swiss Confederacy battle manuscript miniature",
+        "caption": "Habsburg ambition collided with Swiss independence."
+      },
+      {
+        "narration": "Duke Leopold III marched a formidable force of four thousand heavily armored knights toward the Swiss lines at Sempach on July 9, 1386.",
+        "search": "medieval knights marching army oil painting slow motion",
+        "caption": "Four thousand heavily armored knights marched to Sempach."
+      },
+      {
+        "narration": "Wealthy nobility outfitted in full plate mail faced rugged peasant militias armed with crude halberds and poleaxes.",
+        "search": "medieval knight versus peasant pikeman illustration",
+        "caption": "Plate mail nobility faced crude peasant polearms."
+      },
+      {
+        "narration": "The scorching July heat hit the battlefield, instantly turning the gleaming steel plate suits into suffocating mobile ovens.",
+        "search": "medieval battlefield summer heat historical painting",
+        "caption": "Scorching heat turned steel suits into ovens."
+      },
+      {
+        "narration": "Exhaustion set in for the Austrian knights before a single sword was drawn, severely degrading their combat effectiveness.",
+        "search": "exhausted medieval knight resting oil painting",
+        "caption": "Exhaustion crippled the Austrian knights instantly."
+      },
+      {
+        "narration": "Faced with rugged, sloping terrain unsuitable for cavalry, Leopold made a fatal tactical blunder by ordering his men to dismount.",
+        "search": "medieval army mountain pass tactical map engraving",
+        "caption": "Leopold ordered his elite knights to dismount."
+      },
+      {
+        "narration": "The Duke commanded his knights to cut off the curved tips of their sabatons so they could walk uphill.",
+        "search": "medieval steel sabaton footwear museum artifact",
+        "caption": "Knights cut their sabatons to walk uphill."
+      },
+      {
+        "narration": "Stripped of their mobility and crippled by the oppressive July heat, the weighed down knights struggled to even stand.",
+        "search": "medieval knight in heavy plate armor struggling to stand illustration",
+        "caption": "Stripped of mobility in the July heat"
+      },
+      {
+        "narration": "The agile Swiss militia, unencumbered by heavy metal, used long halberds and poleaxes to exploit every gap.",
+        "search": "swiss pikeman halberdier medieval battle manuscript illumination",
+        "caption": "Agile Swiss militia deployed deadly polearms"
+      },
+      {
+        "narration": "Trapped inside their own impenetrable death traps, the paralyzed Austrian vanguard faced relentless encirclement.",
+        "search": "medieval battlefield carnage plate armor historical painting",
+        "caption": "Paralyzed inside impenetrable metal death traps"
+      },
+      {
+        "narration": "Duke Leopold the Third became utterly isolated, unable to defend himself under the crushing weight of his custom armor.",
+        "search": "Duke Leopold III Habsburg medieval portrait painting",
+        "caption": "Duke Leopold III isolated on the battlefield"
+      },
+      {
+        "narration": "The peasant army systematically struck down the trapped nobility, shattering centuries of feudal military doctrine.",
+        "search": "medieval peasants fighting armored knights artwork",
+        "caption": "Peasant army shatters feudal military doctrine"
+      },
+      {
+        "narration": "At the catastrophic Battle of Sempach in 1386, the invincible aura of the Habsburg dynasty evaporated in minutes.",
+        "search": "Battle of Sempach 1386 historical engraving",
+        "caption": "The catastrophic Battle of Sempach in 1386"
+      },
+      {
+        "narration": "This stunning defeat permanently revolutionized medieval warfare, proving that rigid plate armor could become a fatal trap.",
+        "search": "medieval plate armor museum display photograph",
+        "caption": "Plate armor proven to be a fatal trap"
+      },
+      {
+        "narration": "The tragic end of Duke Leopold the Third remains a stark warning about the deadly hubris of military technology.",
+        "search": "medieval knight helmet and sword museum exhibit",
+        "caption": "The deadly hubris of medieval military technology"
+      },
+      {
+        "narration": "In July 1386, rising tensions between the House of Habsburg and the Swiss Confederacy erupted into open conflict.",
+        "search": "medieval manuscript illumination of knights marching",
+        "caption": "Habsburg forces march toward the Swiss border."
+      },
+      {
+        "narration": "Duke Leopold the Third led four thousand heavily armored knights toward the Swiss lines at Sempach.",
+        "search": "Duke Leopold III portrait painting medieval style",
+        "caption": "Duke Leopold III commands the royal vanguard."
+      },
+      {
+        "narration": "The opposing armies represented a stark contrast in military doctrine, pitting elite nobility against agile peasant militias.",
+        "search": "medieval Swiss halberdier woodcut illustration",
+        "caption": "Elite plate mail faces crude peasant polearms."
+      },
+      {
+        "narration": "A scorching July heatwave hit the battlefield, turning the gleaming steel plate suits into suffocating mobile ovens.",
+        "search": "hot summer sun over medieval landscape oil painting",
+        "caption": "Intense summer heat bakes the battlefield."
+      },
+      {
+        "narration": "Exhaustion crippled the Austrian knights before a single sword was drawn, severely degrading their combat effectiveness.",
+        "search": "exhausted medieval knight resting in armor painting",
+        "caption": "Exhaustion cripples the Austrian vanguard."
+      },
+      {
+        "narration": "Faced with rugged, sloping terrain unsuitable for cavalry, Leopold made a fatal tactical blunder.",
+        "search": "steep alpine hill landscape historical oil painting",
+        "caption": "Unforgiving alpine terrain blocks cavalry charges."
+      },
+      {
+        "narration": "The Duke ordered his elite knights to dismount entirely and cut off the curved tips of their sabatons to walk uphill.",
+        "search": "medieval knight boots sabatons iron engraving",
+        "caption": "Knights dismount and mutilate their own footwear."
+      },
+      {
+        "narration": "Stripped of their mobility, the weighed-down noblemen struggled simply to stand under the oppressive summer sun.",
+        "search": "fallen knight in full plate armor historical painting",
+        "caption": "Trapped inside their own impenetrable death traps."
+      },
+      {
+        "narration": "Stripped of their mobility, the weighed down noblemen struggled simply to stand under the oppressive summer sun.",
+        "search": "medieval knight struggling in armor manuscript illustration",
+        "caption": "60 pounds of steel transformed into a prison"
+      },
+      {
+        "narration": "The agile Swiss militia, unencumbered by heavy metal, advanced swiftly across the rugged terrain of Sempach.",
+        "search": "swiss medieval pikemen charging historical painting",
+        "caption": "Unencumbered Swiss militia advance with lethal speed"
+      },
+      {
+        "narration": "Using long halberds and poleaxes, the infantry exploited the complete lack of balance among the Habsburg vanguard.",
+        "search": "medieval halberd weapon battle museum display",
+        "caption": "Crude polearms leverage the knights lack of balance"
+      },
+      {
+        "narration": "Trapped inside their own impenetrable plate mail, the paralyzed noblemen could neither counterattack nor retreat.",
+        "search": "gothic plate armor suit museum exhibit",
+        "caption": "Paralyzed inside impenetrable plate mail"
+      },
+      {
+        "narration": "Duke Leopold III remained isolated on the chaotic field, utterly unable to defend himself under the crushing weight.",
+        "search": "duke leopold iii coat of arms medieval heraldry",
+        "caption": "Duke Leopold III isolated on the battlefield"
+      },
+      {
+        "narration": "Struck down by the peasant army in July 1386, the sovereign paid the ultimate price for his tactical blunder.",
+        "search": "battle of sempach 1386 historical artwork",
+        "caption": "The sovereign falls to the peasant army"
+      },
+      {
+        "narration": "The devastating defeat shattered the myth of Habsburg invincibility across the Holy Roman Empire.",
+        "search": "holy roman empire medieval map cartography",
+        "caption": "The myth of Habsburg invincibility is shattered"
+      },
+      {
+        "narration": "This catastrophe permanently revolutionized medieval warfare tactics, proving that heavy armor could become a death trap.",
+        "search": "medieval battlefield armor debris oil painting",
+        "caption": "A permanent revolution in medieval warfare tactics"
+      },
+      {
+        "narration": "In July 1386, the scorching summer heat transformed the battlefield of Sempach into a suffocating furnace for the Austrian vanguard.",
+        "search": "medieval battlefield oil painting by diebold schilling",
+        "caption": "Scorching heat hits the battlefield of Sempach"
+      },
+      {
+        "narration": "Exhaustion gripped the elite knights of Duke Leopold III before a single sword could even be drawn from its scabbard.",
+        "search": "medieval knight exhausted in armor manuscript illustration",
+        "caption": "Exhaustion cripples the Austrian nobility"
+      },
+      {
+        "narration": "Faced with rugged, sloping terrain unsuitable for cavalry, the Duke ordered his mounted troops to dismount and advance on foot.",
+        "search": "medieval knights dismounting battle miniature art",
+        "caption": "A fatal tactical blunder on the slopes"
+      },
+      {
+        "narration": "To manage the steep climb, the knights severed the curved tips of their steel sabatons, compromising their structural integrity.",
+        "search": "medieval iron sabaton armor museum artifact photograph",
+        "caption": "Cutting the steel sabatons for the climb"
+      },
+      {
+        "narration": "Weighing sixty pounds in full plate mail, the trapped soldiers struggled merely to stand upright against the steep incline.",
+        "search": "14th century plate armor full suit museum display",
+        "caption": "Sixty pounds of steel paralyze the army"
+      },
+      {
+        "narration": "The agile Swiss militia, unencumbered by heavy metal, waited at the crest with long halberds and lethal poleaxes.",
+        "search": "swiss pikeman halberdier 14th century woodcut print",
+        "caption": "Swiss militia ready with deadly poleaxes"
+      },
+      {
+        "narration": "Leveraging the knights' complete lack of balance, the peasant army systematically surrounded the paralyzed vanguard.",
+        "search": "medieval battle chaos manuscript miniature illumination",
+        "caption": "Systematically surrounded by the agile militia"
+      },
+      {
+        "narration": "Duke Leopold III found himself entirely isolated, unable to defend his crown beneath the crushing weight of his own armor.",
+        "search": "duke leopold iii portrait painting 14th century style",
+        "caption": "Duke Leopold III trapped in his steel prison"
+      },
+      {
+        "narration": "In 1386, sixty pounds of steel executed Duke Leopold III.",
+        "search": "Duke Leopold III Austria manuscript miniature portrait",
+        "caption": "Steel armor became a fatal trap in 1386."
+      },
+      {
+        "narration": "Tensions between the expanding House of Habsburg and the Swiss Confederacy reached a breaking point near Sempach on July 9, 1386.",
+        "search": "Battle of Sempach 1386 old map engraving",
+        "caption": "Habsburg forces marched on Sempach in July 1386."
+      },
+      {
+        "narration": "Leopold marched four thousand elite knights in full plate mail against a militia of Swiss farmers armed with wooden polearms.",
+        "search": "Medieval knight full plate armor 14th century engraving",
+        "caption": "Elite knights faced a militia of Swiss farmers."
+      },
+      {
+        "narration": "A scorching July sun baked the steep hillside, turning gleaming steel plate suits into suffocating mobile ovens before combat began.",
+        "search": "Battle of Sempach 1386 medieval manuscript illumination",
+        "caption": "Oppressive heat exhausted the heavily armored knights."
+      },
+      {
+        "narration": "Unable to charge uphill on horseback, Leopold made a fatal tactical error, ordering his knights to dismount and hack off their sabaton shoe tips.",
+        "search": "Medieval sabatons knight armor painting",
+        "caption": "Leopold ordered his knights to dismount and cut their footwear."
+      },
+      {
+        "narration": "Exhausted and immobilized on rugged ground, the weighed-down vanguard was easily hooked and dragged down by agile Swiss halberdiers.",
+        "search": "Swiss halberd weapon medieval woodcut",
+        "caption": "Agile Swiss militia wielded deadly long halberds."
+      },
+      {
+        "narration": "Trapped beneath his own impenetrable metal shell, Duke Leopold was completely isolated and struck down by peasant infantry.",
+        "search": "Death of Duke Leopold III Sempach oil painting",
+        "caption": "Duke Leopold III fell on the Sempach battlefield."
+      },
+      {
+        "narration": "The disaster at Sempach shattered the myth of Habsburg invincibility and permanently revolutionized European infantry tactics.",
+        "search": "House of Habsburg coat of arms medieval engraving",
+        "caption": "Sempach permanently transformed medieval infantry warfare."
+      },
+      {
+        "narration": "In 1386, Duke Leopold III charged into battle wearing sixty pounds of steel, only to realize his own elite armor was his executioner.",
+        "search": "Duke Leopold III medieval manuscript illumination portrait",
+        "caption": "The Habsburg Duke who built his own metal trap"
+      },
+      {
+        "narration": "Rising tensions between the ambitious House of Habsburg and the fiercely independent Swiss Confederacy erupted into open conflict in July.",
+        "search": "Swiss Confederacy medieval battle manuscript illustration",
+        "caption": "Habsburg ambition clashed with Swiss independence"
+      },
+      {
+        "narration": "Leopold marched four thousand heavily armored knights toward the Swiss lines at Sempach on a scorching summer day.",
+        "search": "medieval knights marching army oil painting slow motion",
+        "caption": "Four thousand knights marched into the heat"
+      },
+      {
+        "narration": "The scorching July sun immediately turned the gleaming steel plate suits into suffocating mobile ovens for the nobility.",
+        "search": "medieval plate armor museum display steel reflection",
+        "caption": "Gleaming steel became a suffocating oven"
+      },
+      {
+        "narration": "Extreme exhaustion crippled the Austrian force before a single sword was drawn on the rugged, sloping terrain.",
+        "search": "medieval soldiers exhausted on hill historical painting",
+        "caption": "Exhaustion crippled the knights before combat"
+      },
+      {
+        "narration": "Faced with a landscape unsuitable for cavalry, the Duke made a fatal tactical blunder that sealed his army's doom.",
+        "search": "medieval battlefield tactical map vintage engraving",
+        "caption": "A fatal tactical blunder on the slopes"
+      },
+      {
+        "narration": "Leopold ordered his elite knights to dismount entirely and cut off the curved tips of their sabatons to walk uphill.",
+        "search": "medieval iron sabatons shoes artifact museum photo",
+        "caption": "Knights ordered to dismount and cut their shoes"
+      },
+      {
+        "narration": "Stripped of mobility and weighed down by metal, the paralyzed vanguard was systematically surrounded and overwhelmed by agile militia.",
+        "search": "Swiss halberdier medieval battle woodcut print",
+        "caption": "Agile militia surrounded the paralyzed vanguard"
+      },
+      {
+        "narration": "Under the midday sun of July 9, 1386, Swiss halberdiers hooked their curved blades into the joints of Austrian plate, prying visors open and shattering limbs.",
+        "search": "battle of sempach 1386 medieval manuscript illumination exploited",
+        "caption": "Swiss halberds exploited the rigid gaps in Habsburg armor"
+      },
+      {
+        "narration": "As front-rank knights collapsed, their sixty-pound harnesses pinned them to the trampled soil, suffocating scores of Austrian nobility beneath their own bulk.",
+        "search": "fallen medieval knights armor battle woodcut engraving",
+        "caption": "Overturned knights suffocated under the weight of sixty-pound plate"
+      },
+      {
+        "narration": "Duke Leopold watched his royal banner fall as Austrian rear squires fled with the horses, leaving their dismounted lords stranded in the valley.",
+        "search": "medieval standard bearer death battle manuscript illumination",
+        "caption": "Squires fled with the horses, leaving dismounted lords stranded"
+      },
+      {
+        "narration": "Refusing retreat, Duke Leopold III pushed into the crush to defend the fallen Austrian standard, weighed down by his ornate gilded harness.",
+        "search": "duke leopold iii of habsburg portrait oil painting",
+        "caption": "Duke Leopold III personally plunged into the melee"
+      },
+      {
+        "narration": "Exhausted and half-blinded by sweat inside his closed bascinet, the Duke was struck down by an unknown Swiss infantryman wielding a poleaxe.",
+        "search": "death of leopold iii sempach historical oil painting",
+        "caption": "An infantry poleaxe felled Duke Leopold on the field"
+      },
+      {
+        "narration": "The Austrian defeat turned into a massacre, claiming Leopold alongside more than four hundred titled Habsburg counts, barons, and knights.",
+        "search": "battle of sempach dead nobility woodcut engraving",
+        "caption": "Over four hundred Austrian nobles perished alongside their Duke"
+      },
+      {
+        "narration": "The Habsburgs signed the Peace of 1394, formally abandoning territorial claims over the cantons and cementing Swiss sovereignty.",
+        "search": "swiss confederacy 14th century map engraving",
+        "caption": "The Habsburgs surrendered their claims to the Swiss cantons"
+      },
+      {
+        "narration": "The slaughter at Sempach permanently broke the supremacy of heavy chivalry, proving crude peasant polearms could turn the era's finest plate armor into an inescapable iron tomb.",
+        "search": "medieval swiss halberd museum artifact photograph",
+        "caption": "Sempach ended the battlefield supremacy of heavy plate armor"
+      },
+      {
+        "narration": "In 1386, Duke Leopold III charged into battle wearing sixty pounds of steel, only to realize his own armor was his executioner.",
+        "search": "Duke Leopold III Habsburg medieval armor manuscript illustration",
+        "caption": "A Duke's armor became his executioner."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T18:05:08.364231+00:00",
+    "updated_at": "2026-10-15T18:35:54.196274+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-15T18:18:45.406779+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2186 chars",
+        "at": "2026-10-15T18:19:52.567720+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "127.2s en-US-GuyNeural 18 cau",
+        "at": "2026-10-15T18:20:00.348183+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T18:20:04.951345+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-15T18:32:57.806094+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T18:32:57.862084+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 127.2s 52282895 bytes",
+        "at": "2026-10-15T18:35:53.891155+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-10-15T18:35:54.003895+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T18:35:54.196261+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/207681/pexels-photo-207681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39364707/pexels-photo-39364707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386789/pexels-photo-35386789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350035/pexels-photo-31350035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/350784/pexels-photo-350784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397793/pexels-photo-16397793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39537023/pexels-photo-39537023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350031/pexels-photo-31350031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18425248/pexels-photo-18425248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13172739/pexels-photo-13172739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732757/pexels-photo-34732757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37614286/pexels-photo-37614286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29300542/pexels-photo-29300542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11835536/pexels-photo-11835536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/163518/war-desert-guns-gunshow-163518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20769502/pexels-photo-20769502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33091810/pexels-photo-33091810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732749/pexels-photo-34732749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37791099/pexels-photo-37791099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31474665/pexels-photo-31474665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268710/pexels-photo-9268710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20895287/pexels-photo-20895287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32336044/pexels-photo-32336044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5023698/pexels-photo-5023698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/349455/pexels-photo-349455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8116144/pexels-photo-8116144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1534133/pexels-photo-1534133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39769787/pexels-photo-39769787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2046779/pexels-photo-2046779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267432/pexels-photo-9267432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11952611/pexels-photo-11952611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35426864/pexels-photo-35426864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31846017/pexels-photo-31846017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18435152/pexels-photo-18435152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31804628/pexels-photo-31804628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5703778/pexels-photo-5703778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38575030/pexels-photo-38575030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4406316/pexels-photo-4406316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35082662/pexels-photo-35082662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38978202/pexels-photo-38978202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125782/pexels-photo-38125782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38549050/pexels-photo-38549050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14645000/pexels-photo-14645000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13950685/pexels-photo-13950685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40007195/pexels-photo-40007195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732747/pexels-photo-34732747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7412013/pexels-photo-7412013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16153570/pexels-photo-16153570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8974272/pexels-photo-8974272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9493319/pexels-photo-9493319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7978838/pexels-photo-7978838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15301240/pexels-photo-15301240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33889077/pexels-photo-33889077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2760677/pexels-photo-2760677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342494/pexels-photo-29342494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38579062/pexels-photo-38579062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8057110/pexels-photo-8057110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494904/pexels-photo-9494904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32677287/pexels-photo-32677287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32255854/pexels-photo-32255854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2514316/pexels-photo-2514316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19424928/pexels-photo-19424928.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38590321/pexels-photo-38590321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/303331/pexels-photo-303331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342497/pexels-photo-29342497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29189101/pexels-photo-29189101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29536403/pexels-photo-29536403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23884264/pexels-photo-23884264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4204094/pexels-photo-4204094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/592753/pexels-photo-592753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26078522/pexels-photo-26078522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732750/pexels-photo-34732750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/334068/pexels-photo-334068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/161936/knight-armor-helmet-weapons-161936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37539478/pexels-photo-37539478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588833/pexels-photo-4588833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38321467/pexels-photo-38321467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16849391/pexels-photo-16849391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36870943/pexels-photo-36870943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8289477/pexels-photo-8289477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30019470/pexels-photo-30019470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "344d582343",
     "kind": "short",
     "channel": "Channel3",
