@@ -1,5 +1,161 @@
 [
   {
+    "id": "729ee43613",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Arab General Burned His Own Fleet to Win",
+    "idea": {
+      "title": "Why an Arab General Burned His Own Fleet to Win",
+      "hook": "In 711 AD, Tariq ibn Ziyad landed in Spain with 7,000 men and ordered every single one of his ships set on fire.",
+      "beats": [
+        "Faced with an opposing Visigothic army nearly three times his size, retreat meant total annihilation.",
+        "Tariq gathered his terrified troops and pointed to the burning fleet behind them: 'The sea is behind you, and the enemy is before you.'",
+        "With zero chance of escape, his men fought with reckless desperation, crushing King Roderic at the Battle of Guadalete.",
+        "That single, ruthless gamble secured Muslim rule over the Iberian Peninsula for nearly 800 years."
+      ],
+      "keywords": [
+        "Tariq ibn Ziyad portrait",
+        "Battle of Guadalete engraving",
+        "burning wooden ships ocean",
+        "medieval Moorish soldiers painting",
+        "ancient map Moorish Spain"
+      ],
+      "tags": [
+        "#history",
+        "#militaryhistory",
+        "#ancienthistory",
+        "#documentary",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 711 AD, one general burned his own fleet.",
+        "search": "burning wooden ships ocean oil painting",
+        "caption": "Why an Arab general destroyed his own fleet in 711 AD"
+      },
+      {
+        "narration": "That extreme decision ignited an eight-hundred-year empire across the Iberian Peninsula.",
+        "search": "ancient map Moorish Spain al andalus manuscript",
+        "caption": "A gamble that transformed European history for eight centuries"
+      },
+      {
+        "narration": "Umayyad commander Tariq ibn Ziyad sailed across the Mediterranean with roughly seven thousand Berber troops.",
+        "search": "Tariq ibn Ziyad portrait painting",
+        "caption": "General Tariq ibn Ziyad landed with 7,000 soldiers"
+      },
+      {
+        "narration": "They anchored near the colossal promontory later named after him: Jabal Tariq, modern-day Gibraltar.",
+        "search": "Rock of Gibraltar 18th century landscape engraving",
+        "caption": "Landing at the fortress rock of Gibraltar in 711"
+      },
+      {
+        "narration": "Marching south to meet them was Visigothic King Roderic, leading an army estimated at over thirty thousand men.",
+        "search": "King Roderic Visigoth portrait painting",
+        "caption": "King Roderic marched forward with an overwhelming army"
+      },
+      {
+        "narration": "Outnumbered more than four to one on hostile terrain, terror spread throughout the landing force.",
+        "search": "medieval Moorish soldiers painting",
+        "caption": "Outnumbered four to one on hostile Iberian soil"
+      },
+      {
+        "narration": "Instead of preparing an emergency evacuation, Tariq commanded his captains to set every transport ship ablaze.",
+        "search": "fleet of ships burning at sea medieval woodcut",
+        "caption": "Tariq ordered every transport ship set on fire"
+      },
+      {
+        "narration": "As the charred timber sank, Tariq announced that the sea lay behind them and the enemy stood ahead.",
+        "search": "medieval soldiers army battle line engraving",
+        "caption": "Escape was impossible: victory became their only survival"
+      },
+      {
+        "narration": "In July 711 at the Battle of Guadalete, Tariq's force met King Roderic's army of roughly twenty thousand Visigoths. Denied any option of retreat, the outnumbered Umayyad soldiers drove directly into the center of the royal host.",
+        "search": "battle of guadalete 711 oil painting",
+        "caption": "Outnumbered Umayyad forces clash with King Roderic at Guadalete."
+      },
+      {
+        "narration": "Rival Visigothic factions abandoned the royal front lines, and Roderic disappeared into the rout, leaving his armored chariot broken in the mud.",
+        "search": "king roderic visigoth defeat oil painting",
+        "caption": "Visigothic lines collapse as King Roderic disappears in battle."
+      },
+      {
+        "narration": "Tariq's scorched-earth gamble shattered Visigothic Spain in a single week, establishing an Islamic presence in Al-Andalus that lasted 781 years.",
+        "search": "al andalus cordoba caliphate old map engraving",
+        "caption": "One burned fleet opened nearly eight centuries of rule in Spain."
+      },
+      {
+        "narration": "In 711, one general burned his own fleet.",
+        "search": "burning medieval wooden galleys sea oil painting",
+        "caption": "In 711 AD, a general destroyed his own fleet to conquer Spain."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-15T20:30:30.797964+00:00",
+    "updated_at": "2026-10-15T20:35:56.616113+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-15T20:32:07.857702+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "364 chars (cat 220 de vua 55s)",
+        "at": "2026-10-15T20:32:51.257710+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.9s en-US-GuyNeural 5 cau",
+        "at": "2026-10-15T20:32:54.407145+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-15T20:32:55.510450+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-15T20:35:14.828599+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-15T20:35:14.888142+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.9s 11752282 bytes",
+        "at": "2026-10-15T20:35:56.346821+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-15T20:35:56.616098+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19203246/pexels-photo-19203246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36481742/pexels-photo-36481742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35215977/pexels-photo-35215977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35525023/pexels-photo-35525023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31223473/pexels-photo-31223473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13629846/pexels-photo-13629846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38044034/pexels-photo-38044034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326501/pexels-photo-18326501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26989226/pexels-photo-26989226.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902536/pexels-photo-34902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36895223/pexels-photo-36895223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7302122/pexels-photo-7302122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "935b628f0b",
     "kind": "short",
     "channel": "Channel3",
