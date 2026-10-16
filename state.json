@@ -1,5 +1,167 @@
 [
   {
+    "id": "6f5f15dde1",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật rùng mình về chiếc áo bạn đang mặc mỗi ngày",
+    "idea": {
+      "title": "Sự thật rùng mình về chiếc áo bạn đang mặc mỗi ngày",
+      "hook": "Bạn nghĩ mình đang mặc quần áo sạch? Thực ra bạn đang khoác lên người hàng triệu mảnh nhựa tàng hình mà mắt thường không thể thấy.",
+      "beats": [
+        "Hàng triệu sợi vi nhựa siêu nhỏ bong ra từ quần áo tổng hợp mỗi khi bạn cử động.",
+        "Chúng bay lơ lửng trong không khí và vô tình đi thẳng vào phổi bạn qua từng nhịp thở.",
+        "Cơ thể con người hiện đại đang âm thầm tích tụ những hạt nhựa này trong máu mà không hề hay biết.",
+        "Giải pháp duy nhất là thay đổi thói quen giặt giũ và chọn chất liệu vải tự nhiên hơn."
+      ],
+      "keywords": [
+        "microplastics background",
+        "synthetic fibers macro",
+        "dust particles floating space",
+        "invisible particles motion",
+        "abstract science animation"
+      ],
+      "tags": [
+        "channel3",
+        "khoahoc",
+        "suthat",
+        "suckhoe",
+        "vihoa"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chiếc áo bạn mặc chứa hàng triệu mảnh nhựa.",
+        "search": "3d animation quan ao vai soi nhua",
+        "caption": "Chiếc áo bạn mặc chứa hàng triệu mảnh nhựa."
+      },
+      {
+        "narration": "Mỗi khi bạn cử động, các sợi vải tổng hợp ma sát và bị gãy vụn.",
+        "search": "motion graphics soi vai tong hop bong troc 3d",
+        "caption": "Mỗi cử động làm gãy vụn các sợi vải nhựa."
+      },
+      {
+        "narration": "Hàng ngàn hạt vi nhựa siêu nhỏ lập tức bắn ra không khí xung quanh.",
+        "search": "cartoony 3d hat bui nhua bay trong khong khi",
+        "caption": "Hạt vi nhựa văng ra lơ lửng trong không khí."
+      },
+      {
+        "narration": "Mắt thường không thấy, nên bạn vô tình hít thẳng chúng vào phổi mỗi ngày.",
+        "search": "explainer animation he ho hap hit bui 3d",
+        "caption": "Vi nhựa đi thẳng vào phổi qua nhịp thở."
+      },
+      {
+        "narration": "Đáng sợ hơn, các hạt nhựa này còn thâm nhập sâu vào tận dòng máu.",
+        "search": "3d render mach mau hat nhua di chuyen",
+        "caption": "Vi nhựa thâm nhập sâu vào trong dòng máu."
+      },
+      {
+        "narration": "Ước tính mỗi tuần cơ thể bạn tích tụ lượng nhựa bằng một chiếc thẻ ATM.",
+        "search": "isometric render the ngan hang va co the nguoi",
+        "caption": "Mỗi tuần tích tụ lượng nhựa bằng thẻ ATM."
+      },
+      {
+        "narration": "Thói quen giặt nước nóng và sấy khô càng làm nhựa phát tán mạnh hơn.",
+        "search": "3d animation may giat xoay quan ao",
+        "caption": "Giặt nước nóng làm nhựa phát tán gấp đôi."
+      },
+      {
+        "narration": "Hãy chọn vải bông tự nhiên và ưu tiên giặt quần áo bằng nước lạnh.",
+        "search": "loop animation vai cotton tu nhien xanh la",
+        "caption": "Hãy dùng vải tự nhiên và giặt nước lạnh."
+      },
+      {
+        "narration": "Nhờ kích thước siêu nhỏ, các hạt vi nhựa dễ dàng xuyên qua màng phổi để đi thẳng vào dòng máu.",
+        "search": "dong mau con nguoi hat vi nhua 3d animation",
+        "caption": "Vi nhựa xuyên qua màng phổi vào máu"
+      },
+      {
+        "narration": "Trung bình mỗi tuần, một người bình thường vô tình nạp vào cơ thể lượng nhựa tương đương một chiếc thẻ ngân hàng.",
+        "search": "the ngan hang tren dia an 3d render",
+        "caption": "Nạp lượng nhựa bằng thẻ ATM mỗi tuần"
+      },
+      {
+        "narration": "Sự tích tụ liên tục này gây ra các phản ứng viêm mãn tính và làm tổn thương tế bào từ bên trong.",
+        "search": "te bao con nguoi bi ton thuong 3d animation",
+        "caption": "Tích tụ vi nhựa gây viêm tế bào"
+      },
+      {
+        "narration": "Nguồn phát tán vi nhựa lớn nhất trong phòng ngủ không đâu khác chính là tủ quần áo sợi tổng hợp.",
+        "search": "tu quan ao phong ngu phat sang hat bui 3d graphics",
+        "caption": "Tủ quần áo là nguồn vi nhựa lớn nhất"
+      },
+      {
+        "narration": "Hãy kiểm tra nhãn áo ngay hôm nay: chuyển sang chất liệu cotton tự nhiên sẽ giảm ngay 90% vi nhựa bạn hít thở mỗi đêm.",
+        "search": "nhan ao cotton 100 phan tram hoat hinh 3d",
+        "caption": "Đổi sang vải tự nhiên giảm 90% vi nhựa"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T09:24:26.141487+00:00",
+    "updated_at": "2026-10-16T09:28:47.929252+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-16T09:26:15.902721+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "491 chars (cat 162 de vua 55s)",
+        "at": "2026-10-16T09:27:23.326752+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.8s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-16T09:27:32.468260+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T09:27:34.000914+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-16T09:27:51.566869+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-16T09:27:51.628488+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.8s 15224479 bytes",
+        "at": "2026-10-16T09:28:47.586855+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T09:28:47.929233+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35071075/14856104_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/36314514/15401093_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8516549/8516549-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818316/8818316-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/16456776/16456776-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107024/13687898_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/39905195/17025398_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8995395/8995395-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/34336322/14545804_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31442860/13410477_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/34471500/14606579_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/40187078/17167466_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7946219/7946219-hd_720_1366_30fps.mp4"
+    ]
+  },
+  {
     "id": "2c255ca84f",
     "kind": "short",
     "channel": "Channel2",
