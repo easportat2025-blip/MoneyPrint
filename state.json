@@ -1,5 +1,161 @@
 [
   {
+    "id": "8ca6134c5b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Empress Sisi Didn’t Feel a Blade in Her Heart",
+    "idea": {
+      "title": "Why Empress Sisi Didn’t Feel a Blade in Her Heart",
+      "hook": "In 1898, Empress Elisabeth of Austria was stabbed directly in the heart—and didn’t realize it until she undressed.",
+      "beats": [
+        "An Italian anarchist ambushed Empress Elisabeth on a Geneva dock, plunging an ultra-thin four-inch needle into her chest.",
+        "Thinking she had only been struck by a fist, Sisi dusted off her dress, thanked bystanders, and boarded her steamship.",
+        "Her legendary, ultra-tight corset acted as a tourniquet, compressing her pericardium and temporarily sealing the fatal puncture.",
+        "Only when she collapsed mid-voyage and attendants loosened her laces did internal bleeding rush forth, ending her life within minutes."
+      ],
+      "keywords": [
+        "Empress Elisabeth of Austria portrait",
+        "Luigi Lucheni anarchist engraving",
+        "Victorian corset historical drawing",
+        "Geneva steamship 1898 vintage photo",
+        "Habsburg royal court painting"
+      ],
+      "tags": [
+        "#history",
+        "#royalty",
+        "#habsburg",
+        "#historicalmysteries",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1898, an empress was fatally stabbed—and never noticed.",
+        "search": "Empress Elisabeth of Austria portrait",
+        "caption": "Fatally stabbed without noticing in 1898."
+      },
+      {
+        "narration": "On September 10, 1898, Empress Elisabeth of Austria walked along a Geneva dock toward a steamship.",
+        "search": "Geneva steamship 1898 vintage photo",
+        "caption": "Geneva, Switzerland, September 10, 1898."
+      },
+      {
+        "narration": "Suddenly, Italian anarchist Luigi Lucheni lunged forward, striking her hard in the chest before fleeing.",
+        "search": "Luigi Lucheni anarchist engraving",
+        "caption": "Anarchist Luigi Lucheni attacks Empress Elisabeth."
+      },
+      {
+        "narration": "Lucheni had driven a sharpened four-inch needle file straight into her chest, piercing her pericardium.",
+        "search": "19th century needle file weapon museum photograph",
+        "caption": "A sharpened four-inch file pierced her heart."
+      },
+      {
+        "narration": "Yet Empress Elisabeth felt no sharp pain, assuming the assailant had merely delivered a heavy punch.",
+        "search": "Habsburg royal court painting",
+        "caption": "Elisabeth mistook a fatal stab for a punch."
+      },
+      {
+        "narration": "Brushing off her dress, she thanked shocked bystanders and insisted she was unharmed.",
+        "search": "1890s Swiss pier archival photograph",
+        "caption": "She dusted off her dress and walked away."
+      },
+      {
+        "narration": "The empress boarded the steamship Genève under her own power, completely unaware of the lethal puncture.",
+        "search": "Steamship Geneve 1898 historical photograph",
+        "caption": "Sisi boarded the steamship completely unaware."
+      },
+      {
+        "narration": "She climbed the gangway as an invisible force temporarily kept her from bleeding to death.",
+        "search": "Victorian corset historical drawing",
+        "caption": "A hidden pressure mechanism kept her alive."
+      },
+      {
+        "narration": "Empress Elisabeth’s famous, ultra-tight corset acted as a tourniquet, compressing her chest and temporarily sealing the four-inch needle wound in her heart.",
+        "search": "Victorian corset historical drawing ultratight",
+        "caption": "Her ultra-tight corset acted as a tourniquet, sealing the fatal wound."
+      },
+      {
+        "narration": "When Sisi collapsed mid-voyage, worried attendants unlaced her bodice to help her breathe, instantly releasing the vital pressure holding back the blood.",
+        "search": "Geneva steamship 1898 vintage photo loosening",
+        "caption": "Loosening her laces released the pressure, causing fatal internal bleeding."
+      },
+      {
+        "narration": "On September 10, 1898, Austria's iconic empress bled to death within minutes, killed by the very garment that had briefly kept her alive.",
+        "search": "Empress Elisabeth of Austria portrait painting",
+        "caption": "Sisi died within minutes once the corset was unlaced."
+      },
+      {
+        "narration": "In 1898, Empress Elisabeth of Austria was stabbed directly in the heart.",
+        "search": "Empress Elisabeth of Austria portrait painting",
+        "caption": "Stabbed in the heart, she didn't even notice."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T20:04:45.669952+00:00",
+    "updated_at": "2026-10-16T20:10:46.161866+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-16T20:06:07.221386+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "413 chars (cat 271 de vua 55s)",
+        "at": "2026-10-16T20:07:28.728246+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-16T20:07:31.490802+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T20:07:32.679390+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-16T20:09:52.554707+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-16T20:09:52.610331+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 7381659 bytes",
+        "at": "2026-10-16T20:10:45.850519+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T20:10:46.161848+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14897008/pexels-photo-14897008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34057520/pexels-photo-34057520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10181121/pexels-photo-10181121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267807/pexels-photo-9267807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18385789/pexels-photo-18385789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32138891/pexels-photo-32138891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38978444/pexels-photo-38978444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9788699/pexels-photo-9788699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34477536/pexels-photo-34477536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39398593/pexels-photo-39398593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8849145/pexels-photo-8849145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8425684/pexels-photo-8425684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6515965a00",
     "kind": "short",
     "channel": "Channel3",
