@@ -1,5 +1,161 @@
 [
   {
+    "id": "c778ce7b85",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Arab Conqueror Burned His Ships to Win",
+    "idea": {
+      "title": "Why an Arab Conqueror Burned His Ships to Win",
+      "hook": "In 711 AD, Tariq ibn Ziyad ordered his soldiers to burn every single ship that brought them to Spain.",
+      "beats": [
+        "Landing at Gibraltar with 7,000 men, he faced a Visigothic army nearly four times larger.",
+        "Instead of planning a tactical retreat, Tariq torched his entire fleet, stranding his army on foreign soil.",
+        "He delivered a chilling speech: 'The sea is behind you, and the enemy is before you. You have only your courage.'",
+        "With zero chance of running away, his desperate soldiers fought with sheer fury and shattered King Roderic's army, conquering Hispania."
+      ],
+      "keywords": [
+        "tariq ibn ziyad painting",
+        "burning ships battle engraving",
+        "moorish conquest spain map",
+        "medieval battle caliphate",
+        "visigothic army illustration"
+      ],
+      "tags": [
+        "history",
+        "militaryhistory",
+        "tariqibnziyad",
+        "medievalhistory",
+        "ancientbattles"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 711, one general burned his only escape route.",
+        "search": "Tariq ibn Ziyad burning ships historical oil painting",
+        "caption": "In 711 AD, a general destroyed his own fleet."
+      },
+      {
+        "narration": "This single extreme gamble unleashed seven centuries of Islamic rule across the Iberian Peninsula.",
+        "search": "Moorish al-Andalus conquest iberian peninsula medieval map engraving",
+        "caption": "The invasion transformed European history for over 700 years."
+      },
+      {
+        "narration": "Umayyad commander Tariq ibn Ziyad crossed the strait from North Africa, landing roughly 7,000 men near Gibraltar.",
+        "search": "Rock of Gibraltar vintage antique map engraving",
+        "caption": "Tariq ibn Ziyad landed 7,000 men near Gibraltar in 711."
+      },
+      {
+        "narration": "Waiting inland was Visigothic King Roderic, marching south with an army estimated between twenty and thirty thousand warriors.",
+        "search": "King Roderic Visigoth battle vintage illustration engraving",
+        "caption": "Visigothic King Roderic mobilized an overwhelming royal army."
+      },
+      {
+        "narration": "Vastly outnumbered on foreign soil, Tariq's troops faced the looming prospect of encirclement.",
+        "search": "medieval Moorish soldiers armor weapons manuscript miniature",
+        "caption": "Outnumbered four to one, the invaders faced total annihilation."
+      },
+      {
+        "narration": "Rather than preserving the ships for a tactical retreat, Tariq ordered his fleet torched on the coastline.",
+        "search": "wooden galleys burning on shoreline oil painting",
+        "caption": "Tariq ordered every transport vessel burned to the waterline."
+      },
+      {
+        "narration": "He told his men that the sea was behind them and only the enemy lay before them.",
+        "search": "Tariq ibn Ziyad equestrian portrait historical painting",
+        "caption": "Retreat was destroyed—victory was the sole path to survival."
+      },
+      {
+        "narration": "In July 711, the desperate vanguard clashed with Roderic's massive royal host along the Guadalete River.",
+        "search": "Battle of Guadalete medieval cavalry clash oil painting",
+        "caption": "In July 711, the armies collided at the Guadalete River."
+      },
+      {
+        "narration": "King Roderic's Visigothic lines collapsed during days of brutal combat along the Guadalete River, ending in the monarch's death and the rout of his royal host.",
+        "search": "battle of guadalete roderic oil painting",
+        "caption": "King Roderic was defeated and killed at Guadalete in July 711."
+      },
+      {
+        "narration": "With no fleet to return home to, Tariq's army pressed relentlessly northward, capturing the Visigothic capital of Toledo before the year ended.",
+        "search": "tariq ibn ziyad toledo capture medieval manuscript illumination",
+        "caption": "Without ships to retreat, the vanguard swiftly seized the capital Toledo."
+      },
+      {
+        "narration": "The calculated destruction of the fleet transformed an exploratory raid into the conquest that founded nearly eight centuries of Al-Andalus.",
+        "search": "al andalus moorish spain map engraving",
+        "caption": "Burning the ships birthed nearly eight centuries of Islamic Iberia."
+      },
+      {
+        "narration": "How did one commander conquer Spain by destroying his fleet?",
+        "search": "moorish conquest spain oil painting",
+        "caption": "Destroying his own fleet conquered Spain."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T00:33:51.964403+00:00",
+    "updated_at": "2026-10-16T00:40:17.865748+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-16T00:36:17.291453+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "330 chars (cat 220 de vua 55s)",
+        "at": "2026-10-16T00:37:26.104384+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.5s en-US-GuyNeural 5 cau",
+        "at": "2026-10-16T00:37:30.251958+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T00:37:31.344572+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-16T00:39:40.691895+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-16T00:39:40.750979+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.5s 9651326 bytes",
+        "at": "2026-10-16T00:40:17.580699+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T00:40:17.865730+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16037015/pexels-photo-16037015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34229290/pexels-photo-34229290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40223460/pexels-photo-40223460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27954903/pexels-photo-27954903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35571261/pexels-photo-35571261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25260155/pexels-photo-25260155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28469948/pexels-photo-28469948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18368495/pexels-photo-18368495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17257205/pexels-photo-17257205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7847282/pexels-photo-7847282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34136123/pexels-photo-34136123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34229286/pexels-photo-34229286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ded814f53b",
     "kind": "short",
     "channel": "Channel2",
