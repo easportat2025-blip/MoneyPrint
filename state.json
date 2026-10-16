@@ -1,5 +1,167 @@
 [
   {
+    "id": "6515965a00",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm để đồ ăn nóng vào tủ lạnh ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm để đồ ăn nóng vào tủ lạnh ai cũng mắc",
+      "hook": "Bạn nghĩ cất nồi canh đang sôi vào tủ lạnh là giữ được độ tươi ngon? Thực chất bạn đang biến tủ lạnh thành lồng ấp vi khuẩn khổng lồ.",
+      "beats": [
+        "Nhiệt lượng tỏa ra từ món ăn nóng lập tức làm tăng nhiệt độ toàn bộ ngăn mát tủ lạnh vượt ngưỡng an toàn 4°C.",
+        "Hiện tượng này tạo ra môi trường nhiệt độ hoàn hảo để vi khuẩn trên các thực phẩm xung quanh sinh sôi bùng nổ.",
+        "Hơi nước ngưng tụ tạo thành giọt ẩm rơi ngược lại đồ ăn, đẩy nhanh quá trình ôi thiu mà bạn không hề hay biết.",
+        "Chỉ cần để nguội tự nhiên ngoài không khí tối đa 2 tiếng trước khi đậy kín và cất vào tủ lạnh."
+      ],
+      "keywords": [
+        "steaming hot soup pot",
+        "open refrigerator inside view",
+        "bacteria multiplying microscopic",
+        "food spoilage condensation",
+        "kitchen steam cooling food"
+      ],
+      "tags": [
+        "#channel3",
+        "#khoahocdoisong",
+        "#meovatgiadinh",
+        "#suckhoe",
+        "#thucpham"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cất đồ ăn nóng vào tủ lạnh là nuôi vi khuẩn?",
+        "search": "hoat hinh 3d mo cua tu lanh noi canh boc khoi nong",
+        "caption": "Để đồ nóng vào tủ lạnh thực chất đang nuôi vi khuẩn"
+      },
+      {
+        "narration": "Nồi canh bốc khói vừa đặt vào sẽ lập tức thổi bùng nhiệt độ toàn bộ ngăn mát.",
+        "search": "3d animation nhiet ke tang vot trong ngan mat tu lanh",
+        "caption": "Nhiệt độ ngăn mát lập tức bị đẩy lên cao"
+      },
+      {
+        "narration": "Ngưỡng an toàn bốn độ C bị phá vỡ chỉ sau vài phút ngắn ngủi.",
+        "search": "motion graphics bieu do nhiet do vuot muc 4 do c bao dong",
+        "caption": "Vượt ngưỡng an toàn 4 độ C trong tích tắc"
+      },
+      {
+        "narration": "Khoảng nhiệt từ năm đến sáu mươi độ C chính là vùng nguy hiểm nhất.",
+        "search": "3d render vung nguy hiem vi khuan phat trien mau do canh bao",
+        "caption": "Rơi thẳng vào vùng nhiệt độ nguy hiểm"
+      },
+      {
+        "narration": "Không chỉ nồi canh, đĩa thịt và hộp sữa bên cạnh cũng bị hâm nóng thụ động.",
+        "search": "hoat hinh 3d hop sua va dia thuc an bi hoi nong bao quanh",
+        "caption": "Thức ăn xung quanh bị làm nóng thụ động"
+      },
+      {
+        "narration": "Vi khuẩn trên bề mặt các món ăn lân cận nhân đôi số lượng cứ sau hai mươi phút.",
+        "search": "3d animation vi khuan phan chia lien tuc tren be mat thuc pham",
+        "caption": "Vi khuẩn nhân đôi số lượng sau mỗi 20 phút"
+      },
+      {
+        "narration": "Hơi nước nóng bốc lên trần tủ lạnh rồi ngưng tụ thành từng giọt ẩm li ti.",
+        "search": "isometric render hoi nuoc ngung tu thanh giot nuoc tren nap hop",
+        "caption": "Hơi nước ngưng tụ thành bẫy ẩm mốc"
+      },
+      {
+        "narration": "Giọt nước này nhỏ ngược lại thức ăn, kích hoạt quá trình thiu thối nhanh gấp đôi.",
+        "search": "cartoony 3d giot nuoc roi xuong dia thuc an gay oi thiu",
+        "caption": "Giọt nước ngưng tụ làm thiu thức ăn siêu tốc"
+      },
+      {
+        "narration": "Đáng sợ hơn, hơi nóng làm nhiệt độ sữa tươi và rau củ bên cạnh tăng vọt, biến chúng thành ổ vi khuẩn trước hạn sử dụng.",
+        "search": "hoat hinh 3d hop sua va rau cu trong tu lanh bi nong",
+        "caption": "Thực phẩm xung quanh cũng bị hỏng lây"
+      },
+      {
+        "narration": "Máy nén tủ lạnh phải gồng mình hoạt động hết công suất để bù nhiệt, vừa ngốn thêm ba mươi phần trăm điện năng vừa nhanh hỏng máy.",
+        "search": "3d animation block may nen tu lanh chay qua tai boc nhiet",
+        "caption": "Tủ lạnh quá tải và tốn thêm 30% điện"
+      },
+      {
+        "narration": "Nguy hiểm nhất là độc tố do vi khuẩn tiết ra trong dải nhiệt độ này không hề bị phân hủy dù bạn có đun sôi lại vào hôm sau.",
+        "search": "motion graphics vi khuan tiet doc to tren bat canh",
+        "caption": "Độc tố vi khuẩn không thể bị đun sôi triệt tiêu"
+      },
+      {
+        "narration": "Cách xử lý chuẩn là chia thức ăn nóng vào các hộp nông đáy hoặc đặt nồi vào chậu nước mát để tản nhiệt cấp tốc.",
+        "search": "3d animation chia canh nong vao cac hop thuy tinh nong",
+        "caption": "Chia nhỏ vào hộp hoặc ngâm chậu nước mát"
+      },
+      {
+        "narration": "Luôn nhớ quy tắc vàng: để nguội tự nhiên tối đa hai tiếng ngoài phòng, đậy kín nắp rồi mới yên tâm đưa vào tủ lạnh.",
+        "search": "3d isometric render day kin nap hop cat vao ngan tu lanh",
+        "caption": "Nguội tối đa 2 tiếng, đậy kín rồi mới cất"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T18:54:20.025512+00:00",
+    "updated_at": "2026-10-16T19:03:41.660011+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-16T19:01:09.474099+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "480 chars (cat 136 de vua 55s)",
+        "at": "2026-10-16T19:01:57.975960+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-16T19:02:09.629754+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T19:02:10.974987+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-16T19:02:54.553776+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-16T19:02:54.611619+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.7s 10052733 bytes",
+        "at": "2026-10-16T19:03:41.368016+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T19:03:41.659986+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/4115110/4115110-hd_720_1366_50fps.mp4",
+      "https://videos.pexels.com/video-files/10682197/10682197-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/10558005/10558005-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863502/15863502-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/31542598/13443731_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/18069095/18069095-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/9694231/9694231-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/4813389/4813389-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/5538180/5538180-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/16727460/16727460-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7296058/7296058-hd_720_1366_30fps.mp4",
+      "https://videos.pexels.com/video-files/10508557/10508557-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_720_1280_30fps.mp4"
+    ]
+  },
+  {
     "id": "c7343d3d23",
     "kind": "long",
     "channel": "seigh",
