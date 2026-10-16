@@ -1,5 +1,161 @@
 [
   {
+    "id": "2c255ca84f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman emperor ordered his own mother executed",
+    "idea": {
+      "title": "Why a Roman emperor ordered his own mother executed",
+      "hook": "In 59 AD, Roman Emperor Nero decided his mother had lived too long, but every attempt to murder her kept failing—until he engineered a sinking ship that she swam away from.",
+      "beats": [
+        "Agrippina the Younger ruled Rome from the shadows, controlling her young son Nero.",
+        "Nero built a collapsing luxury boat designed to crush her at sea, but she escaped by swimming to shore.",
+        "Panicking that his secret plot was exposed, Nero sent armed soldiers to her villa to finish the job.",
+        "As the sword drew near, Agrippina pointed to her womb and chillingly told the guards to strike the place that bore an emperor."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman portrait",
+        "classical oil painting",
+        "historical engraving",
+        "roman sculpture"
+      ],
+      "tags": [
+        "history",
+        "ancient rome",
+        "nero",
+        "documentary",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Emperor Nero try drowning his own mother?",
+        "search": "roman emperor nero marble bust statue",
+        "caption": "Why did Emperor Nero try to drown his mother?"
+      },
+      {
+        "narration": "In 54 AD, Agrippina the Younger secured Rome's imperial throne for her sixteen-year-old son, Nero.",
+        "search": "agrippina the younger roman marble bust",
+        "caption": "Agrippina made her teenage son Nero Rome's supreme ruler."
+      },
+      {
+        "narration": "She issued imperial decrees, attended Senate debates behind curtains, and openly dictated policy.",
+        "search": "ancient roman senate oil painting",
+        "caption": "Agrippina secretly dictated imperial decrees from behind curtained senate walls."
+      },
+      {
+        "narration": "As Nero aged, his mother's overbearing control threatened his absolute authority over the Roman Empire.",
+        "search": "nero emperor ancient roman coin close up",
+        "caption": "Nero resented his mother's total control over imperial rule."
+      },
+      {
+        "narration": "In 59 AD, Nero invited Agrippina to a festival at Baiae aboard a specially rigged luxury ship.",
+        "search": "ancient roman galley ship historical engraving",
+        "caption": "In 59 AD, Nero engineered a deadly luxury vessel."
+      },
+      {
+        "narration": "At sea, the lead-weighted canopy collapsed to crush her, but Agrippina survived the falling debris.",
+        "search": "ancient shipwreck classical oil painting",
+        "caption": "The ship's heavy ceiling collapsed, but Agrippina survived."
+      },
+      {
+        "narration": "While her companion was battered to death, Agrippina swam through the dark waters to the Italian shore.",
+        "search": "gulf of naples antique map engraving",
+        "caption": "Agrippina swam through the dark sea to reach safety."
+      },
+      {
+        "narration": "When Nero discovered his mother was still alive, he realized she knew who built the trap.",
+        "search": "emperor nero classical oil painting",
+        "caption": "Nero panicked upon learning his mother survived the engineered sinking."
+      },
+      {
+        "narration": "In March 59 AD, a panicked Nero framed Agrippina's messenger with a planted dagger and dispatched armed military officers to surround her villa.",
+        "search": "roman emperor nero marble bust statue march",
+        "caption": "In March 59 AD, Nero dispatched soldiers to execute his mother."
+      },
+      {
+        "narration": "When the centurion drew his sword inside her darkened bedchamber, Agrippina famously tore open her robe and commanded him to strike the womb that bore Nero.",
+        "search": "death of agrippina classical oil painting",
+        "caption": "Agrippina commanded the assassin to strike the womb that bore Nero."
+      },
+      {
+        "narration": "Nero had her body burned that night on an ordinary dining couch, but the matricide permanently shattered his legitimacy, triggering the revolts that ended his dynasty.",
+        "search": "ancient roman coin emperor nero bronze portrait",
+        "caption": "The matricide cursed Nero's rule, accelerating his own violent end."
+      },
+      {
+        "narration": "Why did Roman Emperor Nero execute his own mother?",
+        "search": "roman emperor nero marble bust statue",
+        "caption": "Why Nero murdered his own mother"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T08:23:54.452134+00:00",
+    "updated_at": "2026-10-16T08:27:54.952638+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-16T08:24:33.495261+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "357 chars (cat 275 de vua 55s)",
+        "at": "2026-10-16T08:25:38.566324+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.6s en-US-GuyNeural 4 cau",
+        "at": "2026-10-16T08:25:40.881357+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T08:25:41.950381+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-16T08:27:18.484680+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-16T08:27:18.543692+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.6s 5776176 bytes",
+        "at": "2026-10-16T08:27:54.679601+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T08:27:54.952617+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19282915/pexels-photo-19282915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057035/pexels-photo-29057035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18908118/pexels-photo-18908118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19282915/pexels-photo-19282915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5130604/pexels-photo-5130604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31994397/pexels-photo-31994397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36368543/pexels-photo-36368543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564807/pexels-photo-12564807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17279677/pexels-photo-17279677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14715767/pexels-photo-14715767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360560/pexels-photo-32360560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13127215/pexels-photo-13127215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bbe3f86c29",
     "kind": "short",
     "channel": "Channel2",
