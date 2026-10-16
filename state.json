@@ -1,5 +1,71 @@
 [
   {
+    "id": "c7343d3d23",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 16-Year-Old Leper King Who Crushed Saladin",
+    "idea": {
+      "title": "The 16-Year-Old Leper King Who Crushed Saladin",
+      "hook": "Baldwin IV was rotting alive from leprosy, yet he outsmarted Saladin at just 16 years old.",
+      "beats": [
+        "Introduction to the Kingdom of Jerusalem in the 12th century and the looming threat of Saladin's unification of Muslim forces.",
+        "The tragic childhood of Prince Baldwin IV and the horrifying discovery of his anesthesia and leprosy diagnosis.",
+        "The death of King Amalric and the sudden ascension of a teenage leper king to a fragile throne.",
+        "Saladin views the young, diseased monarch as an easy target and launches a massive invasion into Christian territory.",
+        "Despite losing his fingers, toes, and eyesight, Baldwin refuses to surrender his crown or his kingdom.",
+        "The desperate military council at Jerusalem where Baldwin overrides his cautious generals to lead a surprise counterattack.",
+        "The legendary Battle of Montgisard: Baldwin rallies his outnumbered Templars, removing his mask to show his scarred face.",
+        "The brilliant tactical trap: feigned retreat followed by a devastating cavalry charge that shatters Saladin's elite guard.",
+        "Saladin's humiliating defeat and his narrow escape back to Cairo, disguised as a humble camel driver.",
+        "The political fallout of the battle and Baldwin's heroic efforts to maintain fragile truces despite his worsening physical decay.",
+        "The final years of the Leper King: ruling from a litter, appointing regents, and watching his life's work slowly unravel.",
+        "The death of Baldwin IV at just 24 years old, leaving behind a kingdom on the brink of total collapse.",
+        "The historical legacy of a tragic sovereign who traded his body for the survival of his realm."
+      ],
+      "keywords": [
+        "Baldwin IV",
+        "Saladin",
+        "Leper King",
+        "Battle of Montgisard",
+        "Crusades",
+        "Kingdom of Jerusalem",
+        "Medieval history",
+        "History documentaries",
+        "Ancient empires",
+        "Historical figures"
+      ],
+      "tags": [
+        "Baldwin IV",
+        "Saladin",
+        "Leper King",
+        "Battle of Montgisard",
+        "Crusades",
+        "Medieval History",
+        "Kingdom of Jerusalem",
+        "History Documentary",
+        "Military History",
+        "Historical Figures"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE LEPER KING"
+    },
+    "scenes": [],
+    "error": "invalid json: {\"scenes\":[{narration:\"In 1187, Guy of Lusignan ignored Baldwin's former warnings and led the Crusader army into the arid plains of Hattin.\",search:\"battle of hattin medieval manuscript illumination\",caption:\"The fatal march into the desert\"},{narration:\"Saladin surrounded the parched Christian forc",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T17:48:23.356798+00:00",
+    "updated_at": "2026-10-16T18:00:27.304731+00:00",
+    "stages": {
+      "error": {
+        "ok": false,
+        "detail": "invalid json: {\"scenes\":[{narration:\"In 1187, Guy of Lusignan ignored Baldwin's former warnings and led the Crusader army into the arid plains of Hattin.\",search:\"battle of hattin medieval manuscript illumination\",caption:\"The fatal march into the desert\"},{narration:\"Saladin surrounded the parched Christian forc",
+        "at": "2026-10-16T18:00:27.304716+00:00"
+      }
+    }
+  },
+  {
     "id": "131cf1f741",
     "kind": "short",
     "channel": "Channel3",
