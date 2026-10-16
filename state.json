@@ -1,5 +1,161 @@
 [
   {
+    "id": "bbe3f86c29",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman emperor executed his own reflection",
+    "idea": {
+      "title": "Why a Roman emperor executed his own reflection",
+      "hook": "When Emperor Caracalla saw his own portrait on a shield, he ordered a royal guard to execute the mirror with a sword—for whispering a deadly secret.",
+      "beats": [
+        "Caracalla’s escalating paranoia after murdering his brother Geta to seize sole control of the Roman Empire.",
+        "The bizarre incident in the throne room where the emperor became convinced his polished bronze mirror was plotting treason.",
+        "The public trial and ceremonial execution of the inanimate object to satisfy the ruler's deteriorating sanity.",
+        "The inevitable assassination of Caracalla months later by his own frustrated prefect, proving the mirror wasn't the real threat."
+      ],
+      "keywords": [
+        "roman emperor portraiture",
+        "ancient rome bust sculpture",
+        "historical oil painting palace",
+        "antique bronze mirror art",
+        "roman imperial court engraving"
+      ],
+      "tags": [
+        "AncientRome",
+        "RomanEmperor",
+        "HistoryDocumentary",
+        "StrangeHistory",
+        "HistoricalMysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman emperor once executed his own reflection for treason.",
+        "search": "antique bronze mirror art ancient rome",
+        "caption": "A Roman emperor executed his own reflection for treason."
+      },
+      {
+        "narration": "In December 211 AD, twenty-three-year-old Caracalla assassinated his younger brother Geta to secure sole rule over Rome.",
+        "search": "caracalla bust statue close up",
+        "caption": "In 211 AD, Caracalla murdered his brother Geta for supreme power."
+      },
+      {
+        "narration": "Caracalla ordered an immediate damnatio memoriae, erasing his brother's face from imperial monuments, coins, and official portraits across the empire.",
+        "search": "geta damnatio memoriae stone relief carving",
+        "caption": "Rome erased Geta from statues, paintings, and coins across the empire."
+      },
+      {
+        "narration": "Haunted by severe paranoia and sleeplessness, the emperor began seeing his slain brother's likeness in every shadow of the Palatine Palace.",
+        "search": "imperial palace rome ancient ruin engraving",
+        "caption": "Paranoia consumed Caracalla inside the Palatine Palace."
+      },
+      {
+        "narration": "When Caracalla gazed into a polished bronze shield mirror, he became convinced the reflection moved independently and mocked him.",
+        "search": "roman legionary bronze shield artifact",
+        "caption": "Caracalla claimed his reflection moved independently and mocked him."
+      },
+      {
+        "narration": "Believing his reflection harbored Geta's vengeful spirit, the emperor summoned the imperial court to formally charge the object with high treason.",
+        "search": "roman imperial court engraving historical",
+        "caption": "The emperor summoned Roman senators to try the reflection for treason."
+      },
+      {
+        "narration": "Before stunned senators, Caracalla ordered Praetorian guards to strike the polished metal with swords until the surface was destroyed.",
+        "search": "praetorian guard roman soldiers oil painting",
+        "caption": "Guards battered the bronze mirror to destroy the offending image."
+      },
+      {
+        "narration": "Destroying his reflection failed to bring peace, as the emperor's erratic brutality only deepened across the Roman provinces.",
+        "search": "caracalla roman coin profile engraving",
+        "caption": "Slaying his reflection only deepened Caracalla's descent into tyranny."
+      },
+      {
+        "narration": "In April 217 AD, the paranoid ruler marched toward Carrhae during a campaign against the Parthian Empire.",
+        "search": "ancient rome bust sculpture",
+        "caption": "Paranoia followed the emperor to the eastern front."
+      },
+      {
+        "narration": "Macrinus, his own Praetorian prefect, orchestrated an assassination before the ruler could strike him down next.",
+        "search": "historical oil painting palace",
+        "caption": "The true threat came from within his inner circle."
+      },
+      {
+        "narration": "Caracalla eliminated his own brother and his reflection, yet perished by the sword just months later.",
+        "search": "roman imperial court engraving",
+        "caption": "No weapon could protect a tyrant from his own court."
+      },
+      {
+        "narration": "In 212 AD, Roman Emperor Caracalla ordered a shield to be executed.",
+        "search": "ancient rome bust sculpture",
+        "caption": "An emperor executes his own reflection."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T05:42:18.742523+00:00",
+    "updated_at": "2026-10-16T05:47:57.936203+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-16T05:43:39.518566+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "414 chars (cat 380 de vua 55s)",
+        "at": "2026-10-16T05:44:42.605440+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.5s en-US-GuyNeural 5 cau",
+        "at": "2026-10-16T05:44:44.412327+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T05:44:45.555832+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-16T05:47:16.546672+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-16T05:47:16.603344+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.5s 7788877 bytes",
+        "at": "2026-10-16T05:47:57.683537+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T05:47:57.936189+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16110954/pexels-photo-16110954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38536419/pexels-photo-38536419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40162497/pexels-photo-40162497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38688217/pexels-photo-38688217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876901/pexels-photo-35876901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19472697/pexels-photo-19472697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31432943/pexels-photo-31432943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1461996/pexels-photo-1461996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11340638/pexels-photo-11340638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8164993/pexels-photo-8164993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38369075/pexels-photo-38369075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19969259/pexels-photo-19969259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0bafe860f6",
     "kind": "short",
     "channel": "Channel3",
