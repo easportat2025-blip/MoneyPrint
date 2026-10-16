@@ -1,5 +1,161 @@
 [
   {
+    "id": "d14b10dd6a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Savior Refused the Crown and Walked Away",
+    "idea": {
+      "title": "Why Rome's Savior Refused the Crown and Walked Away",
+      "hook": "In 458 BC, Rome handed one humble farmer total autocratic power—and what he did 15 days later left the ancient world speechless.",
+      "beats": [
+        "Rome was surrounded by enemy forces, facing imminent destruction, forcing the desperate Senate to name Lucius Quinctius Cincinnatus absolute dictator.",
+        "Messengers found him plowing his modest four-acre farm, covered in mud, before draping him in the imperial purple toga.",
+        "Within days, Cincinnatus rallied the legions, trapped the hostile Aequi army, and forced them to surrender without a massacre.",
+        "Instead of keeping supreme power like every tyrant after him, he resigned his absolute dictatorship after just fifteen days and quietly returned to his plow."
+      ],
+      "keywords": [
+        "cincinnatus roman dictator",
+        "ancient rome senate painting",
+        "roman legion battle engraving",
+        "lucius quinctius cincinnatus bust",
+        "ancient roman plow farm"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#cincinnatus",
+        "#historyshorts",
+        "#romanempire",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome gave him absolute power. He walked away.",
+        "search": "lucius quinctius cincinnatus bust statue marble close up",
+        "caption": "Rome gave him absolute power—he walked away."
+      },
+      {
+        "narration": "In 458 BC, the hostile Aequi army trapped a Roman consular force in the Algidus Pass. With half the Republic's military encircled, Rome faced imminent annihilation.",
+        "search": "roman soldiers battle mount algidus engraving",
+        "caption": "458 BC: Rome faced annihilation at Mount Algidus."
+      },
+      {
+        "narration": "The Senate invoked extreme emergency powers, voting to appoint an absolute dictator with unchecked authority over every citizen, law, and legion.",
+        "search": "ancient roman senate assembly oil painting",
+        "caption": "The Senate voted to appoint an absolute dictator."
+      },
+      {
+        "narration": "Their chosen savior was Lucius Quinctius Cincinnatus, a former consul living in impoverished obscurity across the Tiber River.",
+        "search": "cincinnatus called from the plow oil painting",
+        "caption": "Their chosen savior was the impoverished Cincinnatus."
+      },
+      {
+        "narration": "Senate envoys dispatched to deliver the decree found the elderly patrician bare-chested in the mud, guiding a wooden plow across his four-acre farm.",
+        "search": "ancient roman agriculture plow oxen antique engraving",
+        "caption": "Envoys found the new dictator plowing his farm."
+      },
+      {
+        "narration": "After washing the soil from his hands, Cincinnatus donned his senatorial toga and was officially invested with supreme autocratic command of the Roman state.",
+        "search": "roman patrician toga praetexta marble relief",
+        "caption": "Invested with supreme power, Cincinnatus entered Rome."
+      },
+      {
+        "narration": "Within hours, he ordered every military-aged Roman to report with five days of food and twelve wooden rampart stakes, marching them into the night.",
+        "search": "roman legion marching with stakes antique print",
+        "caption": "A desperate night march to relieve the trapped legions."
+      },
+      {
+        "narration": "By daybreak, Cincinnatus had surrounded the besiegers in a massive palisade trap, cutting off the entire hostile army and forcing their unconditional surrender.",
+        "search": "ancient army surrendering under the yoke historical engraving",
+        "caption": "The enemy army was trapped and forced to surrender."
+      },
+      {
+        "narration": "Cincinnatus entered Rome in a triumphal procession, holding unchallenged autocratic power with over five months still legally remaining on his term. The Senate and legions stood ready to execute his absolute command without opposition.",
+        "search": "roman triumph oil painting",
+        "caption": "With months of absolute rule left, Rome was entirely in his hands."
+      },
+      {
+        "narration": "Instead of securing permanent rule like the tyrants who followed, Cincinnatus formally resigned his supreme dictatorship on his fifteenth day in office. He laid down the imperial fasces and stripped off the purple toga before the Senate.",
+        "search": "cincinnatus resigning dictatorship engraving",
+        "caption": "Just fifteen days into absolute power, he resigned his dictatorship."
+      },
+      {
+        "narration": "Crossing the Tiber back to his modest four-acre plot, he quietly resumed plowing where the messengers had interrupted him. In walking away from the crown, Cincinnatus forged an enduring standard of civic virtue that shaped modern republics.",
+        "search": "lucius quinctius cincinnatus plow statue",
+        "caption": "Rome's absolute ruler walked away and returned to his plow."
+      },
+      {
+        "narration": "Absolute power was surrendered in just fifteen days.",
+        "search": "lucius quinctius cincinnatus bust statue marble",
+        "caption": "He held total autocratic power and walked away."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-16T22:18:41.082212+00:00",
+    "updated_at": "2026-10-16T22:25:29.440487+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-16T22:20:37.978716+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "423 chars (cat 135 de vua 55s)",
+        "at": "2026-10-16T22:21:21.396563+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.5s en-US-GuyNeural 6 cau",
+        "at": "2026-10-16T22:21:24.591564+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-16T22:21:25.925675+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-16T22:24:45.172441+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-16T22:24:45.236168+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.5s 9049749 bytes",
+        "at": "2026-10-16T22:25:29.126861+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-16T22:25:29.440469+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7811428/pexels-photo-7811428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/163489/war-desert-guns-gunshow-163489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32129024/pexels-photo-32129024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10751357/pexels-photo-10751357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18401612/pexels-photo-18401612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17389788/pexels-photo-17389788.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32487296/pexels-photo-32487296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33890146/pexels-photo-33890146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28901499/pexels-photo-28901499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14664520/pexels-photo-14664520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30006290/pexels-photo-30006290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1887920/pexels-photo-1887920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8ca6134c5b",
     "kind": "short",
     "channel": "Channel2",
