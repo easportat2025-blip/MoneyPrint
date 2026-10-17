@@ -1,5 +1,191 @@
 [
   {
+    "id": "6a02f96712",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Inca Princess Was Sacrificed to a Volcano",
+    "idea": {
+      "title": "Why an Inca Princess Was Sacrificed to a Volcano",
+      "hook": "In 1995, climbers stumbled upon a teenage girl frozen at 20,000 feet, perfectly preserved after a brutal betrayal disguised as honor.",
+      "beats": [
+        "Known today as the Maiden of Ampato, this 15-year-old Inca noble was led up a frozen volcano around 1450.",
+        "Inca priests fed her potent maize beer and coca leaves until she was entirely subdued.",
+        "She was brought to the peak not to starve, but to appease angry mountain spirits after volcanic eruptions destroyed crops.",
+        "CT scans revealed her chilling secret: while completely paralyzed by cold and intoxicants, she was killed by a single blunt strike to the head."
+      ],
+      "keywords": [
+        "Inca mummy Ampato",
+        "Juanita ice maiden",
+        "Andean volcano engraving",
+        "ancient Peru artifact",
+        "pre-Columbian civilization map"
+      ],
+      "tags": [
+        "history",
+        "ancientmysteries",
+        "incanempire",
+        "archaeology",
+        "shortsvideo"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A frozen teenager was murdered to appease an erupting volcano.",
+        "search": "mount ampato peru snowy summit archival photograph",
+        "caption": "Discovered frozen at 20,000 feet in 1995."
+      },
+      {
+        "narration": "In September 1995, anthropologist Johan Reinhard climbed Peru’s Mount Ampato and spotted an intact textile bundle exposed by melting ice.",
+        "search": "johan reinhard mummy discovery 1995 archival photo",
+        "caption": "Johan Reinhard discovered the frozen bundle in 1995."
+      },
+      {
+        "narration": "Inside lay a fifteen-year-old Inca noble girl, perfectly preserved since approximately 1450.",
+        "search": "mummy juanita maiden of ampato museum artifact photo",
+        "caption": "Known as the Ice Maiden, preserved since 1450."
+      },
+      {
+        "narration": "Centuries earlier, volcanic ash from Sabancaya smothered Andean valleys, destroying crops across the Inca realm.",
+        "search": "inca empire cusco territory 16th century map engraving",
+        "caption": "Catastrophic volcanic ash threatened Inca crops and survival."
+      },
+      {
+        "narration": "Imperial priests declared that mountain spirits called Apus demanded the ultimate human offering: the Capacocha.",
+        "search": "guaman poma inca ritual sacrifice 1615 chronicle illustration",
+        "caption": "Inca priests initiated the sacred Capacocha sacrifice."
+      },
+      {
+        "narration": "Selected from elite nobility, the teenager was led up the mountain accompanied by sacred miniature figurines.",
+        "search": "pre-columbian inca gold llama miniature artifact",
+        "caption": "Accompanied by sacred ceremonial grave goods."
+      },
+      {
+        "narration": "Priests administered massive doses of maize beer and coca leaves, leaving her heavily sedated in sub-zero winds.",
+        "search": "ancient inca ceramic kero drinking vessel artifact",
+        "caption": "Fed maize beer and coca across the ascent."
+      },
+      {
+        "narration": "For decades, historians assumed she froze peacefully in her sleep, until modern hospital scanners examined her skull.",
+        "search": "mummy ct scan medical imaging forensic photograph",
+        "caption": "Forensic scans shattered the myth of peaceful death."
+      },
+      {
+        "narration": "In 1995, tomographic imaging revealed a five-centimeter fracture above her right eye, disproving the peaceful freezing theory. While heavily sedated, a priest shattered her skull with a single blow from an Inca mace.",
+        "search": "ancient inca stone mace museum artifact",
+        "caption": "Hospital CT scans revealed a fatal skull fracture from a mace."
+      },
+      {
+        "narration": "Imperial records show this Capacocha sacrifice followed catastrophic volcanic eruptions from Mount Ampato around 1450. Inca rulers offered their most flawless noble youths, believing only the blood of elite children could pacify the mountain deity.",
+        "search": "guaman poma capacocha sacrifice manuscript drawing",
+        "caption": "Inca rulers sacrificed noble children to appease erupting mountain gods."
+      },
+      {
+        "narration": "Entombed beneath glacial ice for over five hundred years, Juanita remains history's most intact witness to state-sanctioned ritual execution. Her frozen resting place permanently exposed the ruthless price of imperial devotion.",
+        "search": "maiden of ampato mummy archival photo",
+        "caption": "Preserved for 500 years, an eternal witness to imperial sacrifice."
+      },
+      {
+        "narration": "Why was a frozen teenager buried at twenty thousand feet?",
+        "search": "Mount Ampato volcano Peru snow peak aerial photograph",
+        "caption": "Frozen at 20,000 feet for five centuries."
+      }
+    ],
+    "error": "",
+    "youtube_id": "1WL-a1iqRmE",
+    "youtube_url": "https://www.youtube.com/watch?v=1WL-a1iqRmE",
+    "created_at": "2026-10-17T21:50:18.694572+00:00",
+    "updated_at": "2026-10-17T21:53:01.438799+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-17T21:50:44.696546+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "318 chars (cat 280 de vua 55s)",
+        "at": "2026-10-17T21:50:57.530382+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-17T21:50:59.478433+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T21:51:00.190415+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-17T21:52:27.324440+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-17T21:52:27.364929+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.7s 12880353 bytes",
+        "at": "2026-10-17T21:52:55.048180+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=1WL-a1iqRmE",
+        "at": "2026-10-17T21:52:57.486353+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabzgJWhDg177iVmsk6LyNtuy5R7S3y8Yznw1WIVlVVINpel1RR2",
+        "at": "2026-10-17T21:52:58.594781+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-17T21:53:00.020185+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-17T21:53:00.339053+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"1WL-a1iqRmE\\\"\",\n    \"errors\"",
+        "at": "2026-10-17T21:53:01.272996+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-17T21:53:01.312055+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-17T21:53:01.438779+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34015249/pexels-photo-34015249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10210880/pexels-photo-10210880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29417901/pexels-photo-29417901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14155758/pexels-photo-14155758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21044520/pexels-photo-21044520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34040183/pexels-photo-34040183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40194521/pexels-photo-40194521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6235051/pexels-photo-6235051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35215769/pexels-photo-35215769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25052933/pexels-photo-25052933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057027/pexels-photo-29057027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37632733/pexels-photo-37632733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "30287ce19d",
     "kind": "short",
     "channel": "Channel2",
