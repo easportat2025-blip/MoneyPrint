@@ -1,5 +1,161 @@
 [
   {
+    "id": "f713009171",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an English King Banned Beards and Taxed Men",
+    "idea": {
+      "title": "Why an English King Banned Beards and Taxed Men",
+      "hook": "In 1535, King Henry VIII grew a beard—and immediately made every other man in England pay for the right to keep his.",
+      "beats": [
+        "King Henry VIII decided a beard was a luxury symbol reserved for the elite and slapped a recurring tax on facial hair.",
+        "The tax was graded by social rank: wealthy merchants paid heavily, while ordinary citizens faced either shaving or heavy fines.",
+        "His daughter, Queen Elizabeth I, revived the law with stricter enforcement, inspecting beards over two weeks old.",
+        "The absurd tax was meant to fill empty royal coffers, yet it created an underground network of defiant, unshaven rebels."
+      ],
+      "keywords": [
+        "King Henry VIII portrait engraving",
+        "Tudor era royal court painting",
+        "vintage England town square sketch",
+        "antique coin tax collector illustration",
+        "Queen Elizabeth I portrait oil"
+      ],
+      "tags": [
+        "#history",
+        "#tudors",
+        "#henryviii",
+        "#weirdhistory",
+        "#bizarrehistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1535, England made having a beard illegal without paying.",
+        "search": "king henry viii portrait oil painting face closeup",
+        "caption": "In 1535, England taxed men for growing beards."
+      },
+      {
+        "narration": "King Henry VIII broke from Rome, draining the royal treasury with extravagant wars and lavish court expenditures.",
+        "search": "tudor palace westminster 16th century engraving",
+        "caption": "Royal debts forced Henry VIII to find bizarre revenue sources."
+      },
+      {
+        "narration": "Seeking fast revenue in 1535, Henry declared facial hair a luxury reserved strictly for men who paid a recurring license.",
+        "search": "henry viii royal court session 16th century woodcut",
+        "caption": "In 1535, facial hair became a taxable luxury status symbol."
+      },
+      {
+        "narration": "The tax operated on a sliding scale: high-ranking aristocrats paid substantial sums, while poorer laborers had to pay or shave.",
+        "search": "tudor era merchant guild members oil painting",
+        "caption": "Wealthy merchants paid heavily, while poor citizens faced forced shaving."
+      },
+      {
+        "narration": "Sheriffs patrolled public markets, demanding payment receipts or immediate coin from bearded tradesmen.",
+        "search": "16th century english market square engraving",
+        "caption": "Royal officials collected cash directly from men in market squares."
+      },
+      {
+        "narration": "The mandate lapsed following Henry's death in 1547, but the English treasury did not stay solvent for long.",
+        "search": "tudor era silver coin sixpence closeup engraving",
+        "caption": "The tax lapsed in 1547, but England's treasury soon emptied again."
+      },
+      {
+        "narration": "In 1558, Queen Elizabeth I took the throne and swiftly resurrected her father's facial hair statute.",
+        "search": "queen elizabeth i coronation portrait oil painting",
+        "caption": "Queen Elizabeth I revived the beard tax with harsher penalties."
+      },
+      {
+        "narration": "Elizabethan magistrates were ordered to measure growth, punishing any subject sporting facial hair older than a fortnight.",
+        "search": "elizabethan courtroom magistrate trial engraving",
+        "caption": "Inspectors officially measured facial hair to enforce royal fines."
+      },
+      {
+        "narration": "Rather than surrender their earnings, defiant citizens organized back-alley shaving rings and bribed inspectors to overlook illicit bristles.",
+        "search": "16th century London tavern woodcut engraving",
+        "caption": "English citizens formed illicit networks to evade intrusive beard inspectors."
+      },
+      {
+        "narration": "The scheme proved so profitable that Russian Tsar Peter the Great revived it in 1698, forcing bearded subjects to carry minted copper tokens as receipts.",
+        "search": "Russian beard tax token 1698 copper coin",
+        "caption": "Tsar Peter the Great adopted the English beard tax in 1698."
+      },
+      {
+        "narration": "English authorities quietly abandoned enforcement once Jacobean courtiers adopted clean-shaven fashions, ending a tax born strictly of Henry VIII's personal vanity.",
+        "search": "King Henry VIII portrait oil painting Hans Holbein",
+        "caption": "The tax vanished once fashion changed, outliving King Henry's royal vanity."
+      },
+      {
+        "narration": "In 1535, having a beard became an expensive crime.",
+        "search": "King Henry VIII portrait oil painting Hans Holbein",
+        "caption": "In 1535, wearing a beard became a crime."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-17T05:26:56.558481+00:00",
+    "updated_at": "2026-10-17T05:28:53.997531+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-17T05:27:24.660835+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "366 chars (cat 247 de vua 55s)",
+        "at": "2026-10-17T05:27:38.201426+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-17T05:27:41.240992+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T05:27:42.335335+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-17T05:28:14.459601+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-17T05:28:14.519657+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 7647391 bytes",
+        "at": "2026-10-17T05:28:53.694534+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-17T05:28:53.997510+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6757560/pexels-photo-6757560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15604667/pexels-photo-15604667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12787690/pexels-photo-12787690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33447749/pexels-photo-33447749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37978216/pexels-photo-37978216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34710638/pexels-photo-34710638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16287971/pexels-photo-16287971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34850164/pexels-photo-34850164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36814531/pexels-photo-36814531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8872557/pexels-photo-8872557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5076768/pexels-photo-5076768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885612/pexels-photo-7885612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e81d845c9f",
     "kind": "short",
     "channel": "Channel3",
