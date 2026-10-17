@@ -1,5 +1,167 @@
 [
   {
+    "id": "e81d845c9f",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm khi vừa sạc vừa cắm tai nghe có dây",
+    "idea": {
+      "title": "Sai lầm khi vừa sạc vừa cắm tai nghe có dây",
+      "hook": "Nhiều người nghĩ vừa cắm sạc vừa đeo tai nghe có dây chỉ hơi vướng víu, nhưng tai bạn thực chất đang đối mặt với một mối nguy ngầm.",
+      "beats": [
+        "Bộ sạc giá rẻ hoặc nguồn điện rò rỉ có thể truyền xung điện cao áp trực tiếp qua dây dẫn kim loại tới đầu củ tai nghe.",
+        "Vùng da bên trong ống tai cực kỳ nhạy cảm và ẩm ướt, làm giảm mạnh điện trở tự nhiên của cơ thể.",
+        "Khi có sự cố quá áp đột ngột, dòng điện chạy thẳng vào màng nhĩ và hệ thần kinh thính giác, gây bỏng sâu hoặc tổn thương tai vĩnh viễn.",
+        "Giải pháp an toàn nhất là ưu tiên dùng tai nghe không dây hoặc chỉ nghe nhạc khi máy hoạt động bằng nguồn pin độc lập."
+      ],
+      "keywords": [
+        "charging phone headphones",
+        "earphones electric shock",
+        "smartphone charging cable",
+        "listening music bed",
+        "electrical leakage hazard"
+      ],
+      "tags": [
+        "#meocongnghe",
+        "#doisong",
+        "#channel3",
+        "#thoisu",
+        "#suckhoe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vừa sạc vừa đeo tai nghe là chiếc bẫy điện.",
+        "search": "hoat hinh 3d dien thoai cam sac phat tia dien",
+        "caption": "Vừa sạc vừa cắm tai nghe tiềm ẩn bẫy điện nguy hiểm"
+      },
+      {
+        "narration": "Nhiều người có thói quen vừa cắm sạc pin qua đêm, vừa nằm trên giường đeo tai nghe có dây để nghe nhạc.",
+        "search": "hoat hinh 3d nguoi nam tren giuong deo tai nghe co day",
+        "caption": "Thói quen cắm sạc và đeo tai nghe trên giường ngủ"
+      },
+      {
+        "narration": "Những củ sạc giá rẻ hoặc dây sạc bị hở rất dễ gặp hiện tượng rò rỉ dòng điện xoay chiều hai trăm hai mươi vôn.",
+        "search": "mo phong 3d cu sac dien thoai kem chat luong bi chap dien",
+        "caption": "Củ sạc kém chất lượng dễ rò rỉ điện áp 220V"
+      },
+      {
+        "narration": "Thay vì bị ngắt mạch, dòng xung điện cao áp này sẽ truyền thẳng qua cổng sạc rồi đi dọc theo lõi đồng tai nghe.",
+        "search": "do hoa 3d dong dien chay doc day tai nghe",
+        "caption": "Dòng điện chạy dọc lõi đồng truyền thẳng lên củ tai"
+      },
+      {
+        "narration": "Vùng da bên trong ống tai vốn cực kỳ mỏng và ẩm ướt, khiến điện trở tự nhiên của cơ thể sụt giảm nghiêm trọng.",
+        "search": "mo phong 3d cau truc ben trong ong tai nguoi",
+        "caption": "Môi trường ẩm ướt trong tai làm giảm mạnh điện trở"
+      },
+      {
+        "narration": "Khi mạng điện nhà bạn gặp sự cố quá áp đột ngột, dòng điện lớn sẽ phóng thẳng qua củ kim loại của tai nghe.",
+        "search": "3d render tai nghe kim loai phong tia lua dien nho",
+        "caption": "Xung điện đột ngột phóng qua đầu tai nghe kim loại"
+      },
+      {
+        "narration": "Dòng điện không bị cản lại bởi da tay mà đi thẳng vào màng nhĩ và hệ thống dây thần kinh thính giác.",
+        "search": "do hoa 3d tia dien truyen vao mang nhi va he than kinh",
+        "caption": "Điện áp tấn công trực diện màng nhĩ và dây thần kinh"
+      },
+      {
+        "narration": "Chỉ trong một phần mười giây, tai bạn có thể bị bỏng sâu mô mềm và thủng màng nhĩ vĩnh viễn.",
+        "search": "hoat hinh 3d mo phong mang nhi bi ton thuong",
+        "caption": "Nguy cơ bỏng sâu và thủng màng nhĩ trong tích tắc"
+      },
+      {
+        "narration": "Xung điện cao áp thậm chí có thể lan qua xương thái dương, gây choáng váng tức thì và rối loạn nhịp tim.",
+        "search": "mo phong 3d tia dien chay vao hop so nao nguoi motion graphics",
+        "caption": "Dòng điện có thể giật thẳng vào hệ thần kinh"
+      },
+      {
+        "narration": "Nguy cơ tăng gấp hàng chục lần khi bạn dùng củ sạc rẻ tiền thiếu linh kiện chống rò hoặc nằm trên đệm tĩnh điện.",
+        "search": "3d animation cu sac dien thoai phat tia lua no tung",
+        "caption": "Củ sạc rẻ tiền không có rơ le ngắt điện"
+      },
+      {
+        "narration": "Tai nghe không dây triệt tiêu hoàn toàn hiểm họa này, vì kết nối Bluetooth không mang theo dòng điện vật lý.",
+        "search": "hoat hinh 3d song bluetooth ket noi tai nghe khong day",
+        "caption": "Tai nghe không dây loại bỏ hoàn toàn dây dẫn kim loại"
+      },
+      {
+        "narration": "Nếu bắt buộc dùng tai nghe có dây, quy tắc sống còn là luôn rút dây sạc trước khi đặt nút tai vào.",
+        "search": "3d render tay nguoi rut day sac type c khoi dien thoai",
+        "caption": "Luôn rút dây sạc trước khi đeo tai nghe"
+      },
+      {
+        "narration": "Hãy để máy sạc pin độc lập; một giờ sạc riêng biệt giúp bạn giữ trọn đôi tai nguyên vẹn suốt đời.",
+        "search": "3d animation dien thoai nam yen tren ban go pin day 100",
+        "caption": "Đừng biến đôi tai thành cầu chì của bộ sạc"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-17T04:46:02.213330+00:00",
+    "updated_at": "2026-10-17T04:47:46.181144+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-17T04:46:33.959300+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "518 chars (cat 102 de vua 55s)",
+        "at": "2026-10-17T04:46:47.121564+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.8s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-17T04:46:56.291402+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T04:46:57.100627+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-17T04:47:13.217440+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-17T04:47:13.251929+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.8s 18208588 bytes",
+        "at": "2026-10-17T04:47:45.934459+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-17T04:47:46.181130+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34909984/14788634_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/8127926/8127926-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/30156137/12931159_720_960_30fps.mp4",
+      "https://videos.pexels.com/video-files/30324220/12999099_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/40290576/17209967_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7872729/7872729-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/7984189/7984189-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8071981/8071981-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/39464782/16809697_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703803/15987318_720_1280_60fps.mp4",
+      "https://videos.pexels.com/video-files/7508458/7508458-hd_720_1366_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816908/8816908-hd_720_1280_25fps.mp4",
+      "https://videos.pexels.com/video-files/6266434/6266434-hd_720_1280_25fps.mp4"
+    ]
+  },
+  {
     "id": "385129b259",
     "kind": "short",
     "channel": "Channel2",
