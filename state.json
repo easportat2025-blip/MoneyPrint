@@ -1,5 +1,161 @@
 [
   {
+    "id": "385129b259",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Inca General Drank from His Brother's Skull",
+    "idea": {
+      "title": "Why an Inca General Drank from His Brother's Skull",
+      "hook": "In 1532, Atahualpa slaughtered his own brother, hollowed out his skull, and toasted his victory with royal corn beer.",
+      "beats": [
+        "A brutal civil war erupted between two royal brothers for the absolute throne of the Inca Empire.",
+        "Atahualpa captured his half-brother Huáscar and forced him to watch his entire family executed in front of him.",
+        "He ordered Huáscar's head severed, gold-plated, and turned into a ceremonial drinking vessel.",
+        "The bitter irony: the empire was so shattered by this civil bloodbath that just months later, 168 Spanish conquistadors easily conquered them all."
+      ],
+      "keywords": [
+        "Inca empire ancient map",
+        "Atahualpa portrait engraving",
+        "Conquistador battle painting",
+        "Pre Columbian gold artifact",
+        "Cusco ruins archival sketch"
+      ],
+      "tags": [
+        "history",
+        "incahistory",
+        "ancientempires",
+        "darkhistory",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1532, an Inca emperor drank from his brother's skull.",
+        "search": "pre columbian gold skull cup artifact engraving",
+        "caption": "A gruesome imperial ritual in 1532."
+      },
+      {
+        "narration": "The bloodshed began in 1527 when Emperor Huayna Capac died suddenly of smallpox, leaving no clear successor.",
+        "search": "inca empire map 16th century engraving",
+        "caption": "The sudden death of Emperor Huayna Capac."
+      },
+      {
+        "narration": "Two half-brothers claimed the crown: Huáscar controlled the imperial capital of Cusco, while Atahualpa commanded the battle-hardened northern armies.",
+        "search": "inca emperor huascar portrait engraving",
+        "caption": "A divided dynasty: Huáscar versus Atahualpa."
+      },
+      {
+        "narration": "Their political rivalry erupted into a five-year civil war across modern Ecuador, Peru, and Bolivia.",
+        "search": "inca civil war battle painting manuscript",
+        "caption": "Civil war tore the Inca realm apart."
+      },
+      {
+        "narration": "In April 1532, Atahualpa's seasoned generals finally routed Huáscar's forces at the Battle of Quipaipan outside Cusco.",
+        "search": "atahualpa portrait engraving close up",
+        "caption": "Atahualpa crushed Huáscar at Quipaipan."
+      },
+      {
+        "narration": "Huáscar was captured alive and forced to watch the systematic execution of his wives, children, and advisers.",
+        "search": "cusco ruins archival sketch 19th century",
+        "caption": "Huáscar watched his royal lineage executed."
+      },
+      {
+        "narration": "Atahualpa converted the severed skulls of defeated rival commanders into gold-lined ceremonial drinking vessels called aquillas.",
+        "search": "pre columbian gold beaker kero artifact museum",
+        "caption": "Enemy skulls became gold ceremonial cups."
+      },
+      {
+        "narration": "Yet this ruthless dynastic purge left the empire fractured just as Spanish conquistador Francisco Pizarro marched inland.",
+        "search": "francisco pizarro conquistador landing 16th century painting",
+        "caption": "A broken empire faced Spanish invaders."
+      },
+      {
+        "narration": "In late 1532, Atahualpa ordered Huáscar executed and had his brother's skull adorned with hammered gold to drink ceremonial chicha beer.",
+        "search": "Inca gold kero vessel museum artifact",
+        "caption": "Huáscar's skull was converted into a gold-encrusted ceremonial drinking cup."
+      },
+      {
+        "narration": "Just weeks later at Cajamarca, Francisco Pizarro ambushed Atahualpa with only 168 men, exploiting an empire fractured by brotherly slaughter.",
+        "search": "Battle of Cajamarca oil painting",
+        "caption": "In November 1532, 168 conquistadors captured Atahualpa at Cajamarca."
+      },
+      {
+        "narration": "Despite filling an entire room with gold ransom, the emperor who toasted from his brother's skull was executed by Spanish garrote in 1533.",
+        "search": "Execution of Atahualpa oil painting",
+        "caption": "In 1533, Atahualpa was executed after paying a room of gold."
+      },
+      {
+        "narration": "In 1532, an Inca ruler drank from his brother's skull.",
+        "search": "pre columbian gold cup artifact",
+        "caption": "In 1532, an Inca ruler drank from his brother's skull."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-17T00:39:51.734643+00:00",
+    "updated_at": "2026-10-17T00:43:36.611425+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-17T00:40:16.672416+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "410 chars (cat 144 de vua 55s)",
+        "at": "2026-10-17T00:40:42.247835+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-17T00:40:46.842626+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T00:40:48.105470+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-17T00:42:50.346150+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-17T00:42:50.412727+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 9010321 bytes",
+        "at": "2026-10-17T00:43:36.279846+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-17T00:43:36.611405+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20610621/pexels-photo-20610621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30739073/pexels-photo-30739073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37502291/pexels-photo-37502291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28191953/pexels-photo-28191953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17530939/pexels-photo-17530939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16924393/pexels-photo-16924393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610612/pexels-photo-20610612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30489623/pexels-photo-30489623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610672/pexels-photo-20610672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27742049/pexels-photo-27742049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16680992/pexels-photo-16680992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610592/pexels-photo-20610592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d14b10dd6a",
     "kind": "short",
     "channel": "Channel2",
