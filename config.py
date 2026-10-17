@@ -152,6 +152,23 @@ STICKMAN_FPS = int(env("STICKMAN_FPS", "30"))
 STICKMAN_SCENE_SEC = float(env("STICKMAN_SCENE_SEC", "3.0"))
 LONG_TARGET_SEC = int(env("LONG_TARGET_SEC", "420"))
 
+FONTS_DIR = ROOT / "assets" / "fonts"
+FONT_ANTON = FONTS_DIR / "Anton-Regular.ttf"
+FONT_POPPINS = FONTS_DIR / "Poppins-Bold.ttf"
+FONT_POPPINS_MED = FONTS_DIR / "Poppins-SemiBold.ttf"
+SUB_FONT_ASS = env("SUB_FONT_ASS", "Poppins")
+ACCENT = env("ACCENT_COLOR", "")
+if not ACCENT:
+    ACCENT_BY_SLOT = {"1": "0xFFC857", "2": "0xFFD700", "3": "0x00E5FF"}
+    ACCENT = ACCENT_BY_SLOT.get(CHANNEL, "0xFFD700")
+_TRANSITIONS_DEFAULT = "fade,smoothleft,circleopen,slideleft,distance,fadeblack,smoothright"
+TRANSITIONS = [
+    t.strip() for t in env("TRANSITIONS", _TRANSITIONS_DEFAULT).split(",") if t.strip()
+]
+FF_CRF = env("FF_CRF", "20")
+MEDIA_POLISH = env("MEDIA_POLISH", "1") == "1"
+ENABLE_ENDCARD = env("ENABLE_ENDCARD", "1") == "1"
+
 SHORT_FPS = 30
 SHORT_W, SHORT_H = 1080, 1920
 SHORT_SCENE_SEC = 3

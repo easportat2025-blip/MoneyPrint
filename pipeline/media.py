@@ -32,6 +32,17 @@ def _download(url: str, dest: Path) -> Path | None:
         if dest.stat().st_size < 5000:
             dest.unlink(missing_ok=True)
             return None
+        if dest.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp"):
+            try:
+                from PIL import Image
+
+                with Image.open(dest) as im:
+                    iw, ih = im.size
+            except Exception:
+                iw, ih = 9999, 9999
+            if iw < 520 or ih < 400 or iw > ih * 3.6 or ih > iw * 2.6:
+                dest.unlink(missing_ok=True)
+                return None
         return dest
     except requests.RequestException:
         return None
@@ -61,6 +72,12 @@ def from_pexels(
         photos = r.json().get("photos", [])
         cands = []
         for p in photos:
+            try:
+                pw, ph = int(p.get("width") or 0), int(p.get("height") or 0)
+            except (TypeError, ValueError):
+                pw, ph = 0, 0
+            if pw and ph and (pw < 800 or ph < 800):
+                continue
             src = p.get("src", {}).get("large2x") or p.get("src", {}).get("large")
             if src:
                 cands.append(src)
@@ -103,6 +120,12 @@ def from_pixabay(
         hits = r.json().get("hits", [])
         cands = []
         for h in hits:
+            try:
+                pw, ph = int(h.get("imageWidth") or 0), int(h.get("imageHeight") or 0)
+            except (TypeError, ValueError):
+                pw, ph = 0, 0
+            if pw and ph and (pw < 800 or ph < 800):
+                continue
             url = h.get("largeImageURL") or h.get("webformatURL")
             if url:
                 cands.append(url)
@@ -359,8 +382,9 @@ def from_pexels_video(
                     continue
                 files.append((link, w))
             if files:
-                files.sort(key=lambda x: x[1])
-                cands.append(files[0][0])
+                big = [f for f in files if f[1] >= 1280]
+                pick = min(big, key=lambda x: x[1]) if big else max(files, key=lambda x: x[1])
+                cands.append(pick[0])
         for link in cands:
             if link in skip:
                 continue

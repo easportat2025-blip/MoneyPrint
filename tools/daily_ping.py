@@ -28,12 +28,7 @@ def _load(p: Path):
     return None
 
 
-def _yt_token() -> str | None:
-    cid = os.environ.get("YOUTUBE_CLIENT_ID", "")
-    csec = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
-    rt = os.environ.get("YOUTUBE_REFRESH_TOKEN", "")
-    if not (cid and rt):
-        return None
+def _get_access(rt: str, cid: str, csec: str) -> str | None:
     try:
         t = requests.post(
             "https://oauth2.googleapis.com/token",
@@ -50,37 +45,66 @@ def _yt_token() -> str | None:
         return None
 
 
+def _yt_tokens() -> list:
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "")
+    csec = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
+    if not cid:
+        return []
+    toks = []
+    for key in (
+        "YOUTUBE_REFRESH_TOKEN",
+        "YOUTUBE_REFRESH_TOKEN_2",
+        "YOUTUBE_REFRESH_TOKEN_3",
+    ):
+        rt = os.environ.get(key, "")
+        if not rt:
+            continue
+        at = _get_access(rt, cid, csec)
+        if at:
+            toks.append(at)
+        else:
+            print(f"WARN _yt_tokens: {key} dead (slice ke tiep)", file=sys.stderr)
+    return toks
+
+
 def refresh_views(records: list) -> dict:
     vids = [r["youtube_id"] for r in records if r.get("youtube_id")]
     out: dict = {}
-    token = _yt_token()
-    if not token:
+    tokens = _yt_tokens()
+    if not tokens:
         print("WARN refresh_views: no access token", file=sys.stderr)
         return out
     if not vids:
         return out
+    work = tokens[0]
     try:
         for i in range(0, len(vids), 50):
             chunk = vids[i : i + 50]
-            r = requests.get(
-                "https://www.googleapis.com/youtube/v3/videos",
-                params={"id": ",".join(chunk), "part": "statistics,snippet"},
-                headers={"Authorization": f"Bearer {token}"},
-                timeout=30,
-            )
-            if r.status_code != 200:
+            got = False
+            for tok in [work] + [t for t in tokens if t != work]:
+                r = requests.get(
+                    "https://www.googleapis.com/youtube/v3/videos",
+                    params={"id": ",".join(chunk), "part": "statistics,snippet"},
+                    headers={"Authorization": f"Bearer {tok}"},
+                    timeout=30,
+                )
+                if r.status_code == 200:
+                    work = tok
+                    got = True
+                    for it in r.json().get("items", []):
+                        st = it.get("statistics", {})
+                        out[it["id"]] = {
+                            "views": int(st.get("viewCount", 0)),
+                            "title": it.get("snippet", {}).get("title", ""),
+                        }
+                    break
                 print(
                     f"WARN refresh_views: videos.list HTTP {r.status_code} "
                     f"chunk {i // 50 + 1}: {r.text[:150]}",
                     file=sys.stderr,
                 )
+            if not got:
                 break
-            for it in r.json().get("items", []):
-                st = it.get("statistics", {})
-                out[it["id"]] = {
-                    "views": int(st.get("viewCount", 0)),
-                    "title": it.get("snippet", {}).get("title", ""),
-                }
     except requests.RequestException:
         pass
     return out

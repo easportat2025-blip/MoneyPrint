@@ -255,6 +255,7 @@ def run_one(kind: str = "short") -> dict:
             title_text,
             workdir / "render",
             kind,
+            idea.get("beats"),
         )
         info = assemble_mod.probe(final)
         state.stage(

@@ -4,13 +4,26 @@ import config
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 
 
-GRADE = "eq=contrast=1.06:saturation=1.15,vignette=angle=PI/5,noise=alls=5:allf=t+u"
+GRADE = (
+    "eq=contrast=1.05:saturation=1.12:gamma=1.02,"
+    "unsharp=3:3:0.4,"
+    "vignette=angle=PI/5,"
+    "noise=alls=4:allf=t+u"
+)
 
 
 def variant(seed: str = "") -> str:
     rnd = random.Random(seed or "rezain")
-    if rnd.random() < 0.5:
+    if rnd.random() < 0.35:
         return "hflip"
+    return ""
+
+
+def _font_file(*names: str) -> str:
+    for n in names:
+        p = config.FONTS_DIR / n
+        if p.exists():
+            return p.as_posix()
     return ""
 
 
@@ -18,9 +31,11 @@ def watermark_vf(tag: str = "") -> str:
     safe = (tag or config.WATERMARK).replace("'", "").replace(":", "")
     if not safe:
         return "null"
+    f = _font_file("Poppins-SemiBold.ttf") or FONT
     return (
-        f"drawtext=text='{safe}':fontfile={FONT}:fontsize=44:"
-        f"fontcolor=white@0.55:x=w-text_w-44:y=64:borderw=2:bordercolor=black@0.45"
+        f"drawtext=text='{safe}':fontfile={f}:fontsize=38:"
+        "box=1:boxcolor=black@0.38:boxborderw=14:"
+        "fontcolor=white@0.88:x=w-text_w-40:y=52"
     )
 
 
@@ -29,8 +44,9 @@ def watermark_fallback(tag: str = "") -> str:
     if not safe:
         return "null"
     return (
-        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=44:"
-        f"fontcolor=white@0.55:x=w-text_w-44:y=64:borderw=2"
+        f"drawtext=text='{safe}':font='DejaVu Sans':fontsize=38:"
+        "box=1:boxcolor=black@0.38:boxborderw=14:"
+        "fontcolor=white@0.85:x=w-text_w-40:y=52"
     )
 
 
@@ -49,34 +65,38 @@ def _wrap(text: str, per_line: int = 15, max_lines: int = 3) -> list:
     return lines[:max_lines]
 
 
-def hook_vf(text: str, font: str) -> str:
+def hook_vf(text: str, font: str = "") -> str:
     """Tieu de lon 3 giay dau - giu nguoi xem khong luot.
 
-    Video nao cung bat dau bang mot cuc hinh anh trung tinh (tu marble bat
-    huu, phong trang) - khong co gi khiến người ta dừng lại.
-
     Toa do dung bieu thuc ffmpeg ((h-text_h)/2) nen chay dung o ca
-    1080x1920 va 1920x1080. enable='lt(t,3)' bat buoc - truoc day drawtext
-    khong co enable nen tieu de cu nguyen tren man hinh ca video.
+    1080x1920 va 1920x1080; enable='lt(t,3)' bat buoc.
     """
     if not text:
         return "null"
     lines = _wrap(text, 16 if text.isascii() else 13, 3)
     if not lines:
         return "null"
-    big = {1: 80, 2: 72, 3: 64}.get(len(lines), 64)
-    step = int(big * 1.25)
+    f = _font_file("Anton-Regular.ttf") or font or FONT
+    big = {1: 94, 2: 84, 3: 72}.get(len(lines), 72)
+    step = int(big * 1.2)
     total = big * len(lines) + step * (len(lines) - 1)
     top = f"(h-{total})/2"
+    accent = (config.ACCENT or "0xFFD700").replace("#", "")
     parts = [
-        "drawbox=x=0:y=0:w=iw:h=ih:color=black@0.34:t=fill:enable='lt(t\\,3.0)'"
+        "drawbox=x=0:y=0:w=iw:h=ih:color=black@0.32:t=fill:enable='lt(t\\,3.0)'",
+        (
+            f"drawbox=x='(w-w*0.16)/2':y={top}+{total}+26:w='w*0.16':h=10:"
+            f"color={accent}@0.95:enable='lt(t\\,3.0)'"
+        ),
     ]
     for i, ln in enumerate(lines):
-        safe = ln.replace("'", "").replace(":", "").replace("\\", "")[:30]
-        yy = f"({top}+{i * step})" if i else top
+        safe = ln.replace("'", "").replace(":", "").replace("\\", "")[:34]
+        yy = f"{top}+{i * step}" if i else top
         parts.append(
-            f"drawtext=text='{safe}':fontfile={font}:fontsize={big}:"
-            f"fontcolor=white:borderw=6:bordercolor=black@0.92:"
+            f"drawtext=text='{safe}':fontfile={f}:fontsize={big}:"
+            "fontcolor=white:alpha='min(1\\,t/0.4)':"
+            "borderw=7:bordercolor=black@0.92:"
+            "shadowcolor=black@0.7:shadowx=0:shadowy=7:"
             f"x=(w-text_w)/2:y={yy}:enable='lt(t\\,3.0)'"
         )
     return ",".join(parts)

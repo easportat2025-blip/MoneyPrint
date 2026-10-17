@@ -1,9 +1,49 @@
+import random
 import subprocess
 from pathlib import Path
 import config
 from pipeline import fx as fx_mod
 
 FADE = 0.4
+FADE_LONG = 0.55
+
+KB_PATTERNS = (
+    "punch", "in", "out", "pan_right", "in_right",
+    "pan_left", "in_up", "out", "pan_down", "in",
+)
+
+
+def _kb_filter(pattern: str, frames: int, w: int, h: int, fps: int) -> str:
+    p = max(frames, 2)
+    if pattern == "punch":
+        z = f"min(1.0+{(0.30 / p):.6f}*on,1.30)"
+    elif pattern == "in":
+        z = f"min(1.0+{(0.20 / p):.6f}*on,1.20)"
+    elif pattern == "out":
+        z = f"max(1.24-{(0.22 / p):.6f}*on,1.02)"
+    else:
+        z = "1.14"
+    geo = {
+        "pan_right": (f"(iw-iw/zoom)*(on/{p})", "(ih-ih/zoom)*0.5"),
+        "pan_left": (f"(iw-iw/zoom)*(1-on/{p})", "(ih-ih/zoom)*0.5"),
+        "pan_up": ("(iw-iw/zoom)*0.5", f"(ih-ih/zoom)*(1-on/{p})"),
+        "pan_down": ("(iw-iw/zoom)*0.5", f"(ih-ih/zoom)*(on/{p})"),
+        "in_right": ("(iw-iw/zoom)*0.85", "(ih-ih/zoom)*0.5"),
+        "in_left": ("(iw-iw/zoom)*0.15", "(ih-ih/zoom)*0.5"),
+        "in_up": ("(iw-iw/zoom)*0.5", "(ih-ih/zoom)*0.15"),
+        "in_down": ("(iw-iw/zoom)*0.5", "(ih-ih/zoom)*0.85"),
+    }.get(pattern, ("(iw-iw/zoom)*0.5", "(ih-ih/zoom)*0.5"))
+    return (
+        f"zoompan=z='{z}':x='{geo[0]}':y='{geo[1]}'"
+        f":d={frames}:s={w}x{h}:fps={fps}"
+    )
+
+
+def _enc() -> list:
+    return ["-c:v", "libx264", "-preset", "veryfast", "-crf", config.FF_CRF]
+
+
+FASTSTART = ["-movflags", "+faststart"]
 
 
 def _run(cmd: list[str], timeout: int = 1200) -> None:
@@ -55,23 +95,14 @@ def ken_burns(
     h: int,
     fps: int,
     extra: str = "",
-    zin: bool = True,
-    punch: bool = False,
+    pattern: str = "in",
 ) -> Path:
     frames = max(int(seconds * fps), fps)
     out.parent.mkdir(parents=True, exist_ok=True)
     tail = f",{extra}" if extra else ""
-    if punch:
-        zoom = "zoompan=z='min(1.0+0.0024*on,1.28)'"
-    elif zin:
-        zoom = "zoompan=z='min(1.0+0.0012*on,1.18)'"
-    else:
-        zoom = "zoompan=z='max(1.18-0.0012*on,1.0)'"
     vf = (
         f"scale={w * 2}:-2,"
-        f"{zoom}"
-        f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
-        f":d={frames}:s={w}x{h}:fps={fps}"
+        f"{_kb_filter(pattern, frames, w, h, fps)}"
         f"{tail},{fx_mod.GRADE},format=yuv420p"
     )
     cmd = [
@@ -85,18 +116,13 @@ def ken_burns(
         vf,
         "-t",
         f"{seconds:.3f}",
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "23",
+        *_enc(),
         "-r",
         str(fps),
         "-an",
         str(out),
     ]
-    _run(cmd, timeout=600)
+    _run(cmd, timeout=900)
     return out
 
 
@@ -123,12 +149,7 @@ def fit_clip(
         vf,
         "-t",
         f"{seconds:.3f}",
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "23",
+        *_enc(),
         "-r",
         str(fps),
         "-an",
@@ -214,26 +235,25 @@ def build_karaoke(
     sentences: list, path: Path, kind: str, cap: float | None = None
 ) -> Path:
     if kind == "short":
-        size, margin, box = 104, 430, 1
+        size, margin, res_x, res_y = 104, 430, 1080, 1920
     else:
-        size, margin, box = 76, 150, 1
+        size, margin, res_x, res_y = 78, 150, 1920, 1080
+    fname = (
+        config.SUB_FONT_ASS
+        if (config.MEDIA_POLISH and (config.FONTS_DIR / "Poppins-Bold.ttf").exists())
+        else "DejaVu Sans"
+    )
     words = _words_from_sentences(sentences, cap)
     groups = _chunk_words(words)
     path.parent.mkdir(parents=True, exist_ok=True)
-    if box:
-        style = (
-            f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
-            f"&H10000000,&H78000000,-1,0,0,0,100,100,0,0,3,10,0,2,"
-            f"70,70,{margin},1\n\n"
-        )
-    else:
-        style = (
-            f"Style: Karaoke,DejaVu Sans,{size},&H00FFFFFF,&H0000FFFF,"
-            f"&H90000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,0,2,"
-            f"40,40,{margin},1\n\n"
-        )
+    style = (
+        f"Style: Karaoke,{fname},{size},&H0000D7FF,&H00FFFFFF,"
+        f"&H00000000,&H88000000,-1,-1,0,0,100,100,0.5,0,1,5,1,2,"
+        f"40,40,{margin},1\n\n"
+    )
     header = (
-        "[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\n\n"
+        "[Script Info]\nScriptType: v4.00+\n"
+        f"PlayResX: {res_x}\nPlayResY: {res_y}\n\n"
         "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, "
         "SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, "
         "StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, "
@@ -244,13 +264,17 @@ def build_karaoke(
     )
     lines = [header]
     for chunk in groups:
+        pop = (
+            "{\\blur1.3\\fad(110,70)"
+            "\\t(0,140,\\fscx106\\fscy106)\\t(140,260,\\fscx100\\fscy100)}"
+        )
         tags = "".join(
-            "{\\k%d}%s " % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
+            "{\\kf%s}%s" % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
             for x in chunk
-        ).strip()
+        )
         lines.append(
             f"Dialogue: 0,{_ass_ts(chunk[0]['start'])},{_ass_ts(chunk[-1]['end'])},"
-            f"Karaoke,,0,0,0,,{tags}\n"
+            f"Karaoke,,0,0,0,,{pop}{tags}\n"
         )
     path.write_text("".join(lines), encoding="utf-8")
     return path
@@ -268,9 +292,94 @@ def _two_lines(chunk: list) -> str:
     return txt
 
 
-def build_burst_srt(
-    sentences: list, path: Path, cap: float | None = None
+def _ass_header(res_x: int, res_y: int, styles: str) -> str:
+    return (
+        "[Script Info]\nScriptType: v4.00+\n"
+        f"PlayResX: {res_x}\nPlayResY: {res_y}\n\n"
+        "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, "
+        "SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, "
+        "StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, "
+        "Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
+        + styles
+        + "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, "
+        "MarginV, Effect, Text\n"
+    )
+
+
+def _ass_font() -> str:
+    if config.MEDIA_POLISH and (config.FONTS_DIR / "Poppins-Bold.ttf").exists():
+        return config.SUB_FONT_ASS
+    return "DejaVu Sans"
+
+
+def build_chapter_ass(
+    scenes: list, sentences: list, beats: list, path: Path
 ) -> Path:
+    """Chapter strip nhỏ góc trái: nhảy mỗi khi sang mốc chương (video dai)."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    header = _ass_header(
+        1920,
+        1080,
+        (
+            f"Style: Chap,{_ass_font()},34,&H00FFFFFF,&H00FFFFFF,"
+            "&H00000000,&H50000000,0,0,0,0,100,100,0.2,0,4,14,0,1,48,48,52,1\n\n"
+        ),
+    )
+    names = [str(b).strip()[:44] for b in (beats or []) if str(b).strip()]
+    per = max(1, len(sentences) / max(1, len(scenes))) if sentences else 1
+    lines = [header]
+    last_t = -10.0
+    last_label = ""
+    for i, s in enumerate(scenes):
+        si = min(int(i * per), len(sentences) - 1) if sentences else 0
+        t = float(sentences[si].get("start", 0)) if sentences else i * 6.0
+        if i == 0 or t < 3.4:
+            continue
+        label = ""
+        if names:
+            label = names[min(i * len(names) // max(1, len(scenes)), len(names) - 1)]
+        if not label:
+            label = " ".join(str(s.get("caption") or "").split()[:6]) or f"Part {i + 1}"
+        label = " ".join(label.upper().split())[:44]
+        if label.lower() == last_label.lower() or t - last_t < 4.0:
+            continue
+        last_t, last_label = t, label
+        lines.append(
+            f"Dialogue: 0,{_ass_ts(t + 0.25)},{_ass_ts(t + 3.6)},Chap,,0,0,0,,"
+            f"{{\\fad(220,230)}}PART {i + 1} - {label}\n"
+        )
+    path.write_text("".join(lines), encoding="utf-8")
+    return path
+
+
+def build_end_ass(path: Path, sentences: list, channel: str) -> Path:
+    """End card cuoi video dai: 'Cam on da xem' + ten kenh, 4s cuoi."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    total_end = max(float(sentences[-1]["end"]), 5.0) if sentences else 30.0
+    st = max(total_end - 4.2, 0.0)
+    ch = " ".join(str(channel or "Channel").upper().split())[:24]
+    header = _ass_header(
+        1920,
+        1080,
+        (
+            f"Style: End,Anton,110,&H0000D7FF,&H0000D7FF,"
+            "&H00000000,&H88000000,0,0,0,0,100,100,0,0,1,7,2,5,0,0,0,1"
+        )
+        + "\n\n",
+    )
+    lines = [
+        header,
+        f"Dialogue: 0,{_ass_ts(st)},{_ass_ts(total_end + 2.0)},End,,0,0,0,,"
+        "{\\an5\\pos(960,470)\\fad(400,500)}THANKS FOR WATCHING\n",
+        f"Dialogue: 0,{_ass_ts(st)},{_ass_ts(total_end + 2.0)},End,,0,0,0,,"
+        "{\\an5\\pos(960,580)\\fad(500,500)}"
+        f"{{\\fs52}}{{\\1c&H00FFFFFF&}}MORE ON {ch}\n",
+    ]
+    path.write_text("".join(lines), encoding="utf-8")
+    return path
+
+
+def build_burst_srt(sentences: list, path: Path, cap: float | None = None) -> Path:
     def ts(sec: float) -> str:
         ms = max(int(sec * 1000), 0)
         h, ms = divmod(ms, 3600000)
@@ -346,12 +455,7 @@ def mux_ass(
         "1:a:0",
         "-vf",
         vfs[0],
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "23",
+        *_enc(),
         "-c:a",
         "aac",
         "-b:a",
@@ -359,6 +463,7 @@ def mux_ass(
         "-ar",
         "48000",
         "-shortest",
+        *FASTSTART,
     ]
     if max_sec:
         cmd += ["-t", f"{max_sec:.3f}"]
@@ -421,12 +526,7 @@ def mux_subs(
         "1:a:0",
         "-vf",
         vfs[0],
-        "-c:v",
-        "libx264",
-        "-preset",
-        "veryfast",
-        "-crf",
-        "23",
+        *_enc(),
         "-c:a",
         "aac",
         "-b:a",
@@ -434,6 +534,7 @@ def mux_subs(
         "-ar",
         "48000",
         "-shortest",
+        *FASTSTART,
     ]
     if max_sec:
         cmd += ["-t", f"{max_sec:.3f}"]
@@ -458,6 +559,7 @@ def mux_xfade(
     clip_dur: float,
     max_sec: float | None = None,
     hook_text: str = "",
+    fade: float = FADE,
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     n = len(clips)
@@ -478,9 +580,14 @@ def mux_xfade(
         parts = []
         prev = "0:v"
         for k in range(1, n):
-            off = k * clip_dur - k * FADE
+            trans = (
+                config.TRANSITIONS[(k - 1) % len(config.TRANSITIONS)]
+                if config.MEDIA_POLISH
+                else "fade"
+            )
+            off = k * clip_dur - k * fade
             parts.append(
-                f"[{prev}][{k}:v]xfade=transition=fade:duration={FADE}"
+                f"[{prev}][{k}:v]xfade=transition={trans}:duration={fade}"
                 f":offset={off:.3f}[x{k}]"
             )
             prev = f"x{k}"
@@ -488,13 +595,8 @@ def mux_xfade(
         cmd = (
             ["ffmpeg", "-y", *inputs, "-filter_complex", ";".join(parts)]
             + ["-map", "[vout]", "-map", f"{n}:a:0"]
+            + _enc()
             + [
-                "-c:v",
-                "libx264",
-                "-preset",
-                "veryfast",
-                "-crf",
-                "23",
                 "-c:a",
                 "aac",
                 "-b:a",
@@ -502,6 +604,7 @@ def mux_xfade(
                 "-ar",
                 "48000",
                 "-shortest",
+                *FASTSTART,
             ]
         )
         if max_sec:
@@ -517,16 +620,23 @@ def mux_xfade(
 
 
 def _thumb_variants(txt: Path, size: int, w: int, h: int, frac: str, border: int) -> list:
-    base_no_font = (
-        f"drawtext=textfile='{txt.as_posix()}':fontsize={size}:"
-        f"fontcolor=white:borderw={border}:bordercolor=black@0.85:"
-        f"x=(w-text_w)/2:y={frac}:line_spacing=10"
+    anton = fx_mod._font_file("Anton-Regular.ttf")
+    accent = (config.ACCENT or "0xFFD700").replace("#", "")
+    bar = (
+        f"drawbox=x='w*0.055':y={frac}:w='w*0.013':h='h*0.3':color={accent}@0.92"
     )
-    return [
-        base_no_font.replace("drawtext=", f"drawtext=fontfile={FONT}:", 1),
-        base_no_font.replace("drawtext=", "drawtext=font='DejaVu Sans':", 1),
-        None,
-    ]
+
+    def _main(farg: str) -> str:
+        return (
+            f"drawtext=textfile='{txt.as_posix()}':fontsize={size}:{farg}:"
+            f"fontcolor=white:borderw={border}:bordercolor=black@0.9:"
+            f"shadowcolor=black@0.6:shadowx=0:shadowy={max(border, 6)}:"
+            f"x=(w-text_w)/2:y={frac}:line_spacing={int(size * 0.16)}"
+        )
+
+    if anton:
+        return [",".join([bar, _main(f"fontfile={anton}")]), None]
+    return [",".join([bar, _main("font='DejaVu Sans'")]), None]
 
 
 def build_thumb(video: Path, title: str, out: Path) -> Path:
@@ -534,13 +644,14 @@ def build_thumb(video: Path, title: str, out: Path) -> Path:
     info = probe(video)
     ss = max((info["duration"] or 10) * 0.3, 1.0)
     txt = out.parent / "thumb.txt"
-    txt.write_text(wrap_title(title, width=18, lines=3), encoding="utf-8")
+    txt.write_text(wrap_title(title, width=16, lines=3), encoding="utf-8")
     pre = (
         "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,"
+        "eq=saturation=1.08,"
         "drawbox=x=0:y=ih*0.5:w=iw:h=ih*0.5:color=black@0.6:t=fill,"
     )
     errs = []
-    for i, dt in enumerate(_thumb_variants(txt, 72, 1280, 720, "h*0.58", 2)):
+    for i, dt in enumerate(_thumb_variants(txt, 92, 1280, 720, "h*0.56", 8)):
         vf = pre + dt if dt else pre.rstrip(",")
         cmd = [
             "ffmpeg",
@@ -571,10 +682,11 @@ def build_short_thumb(video: Path, title: str, out: Path) -> Path:
     txt.write_text(wrap_title(title, width=13, lines=4), encoding="utf-8")
     pre = (
         "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
+        "eq=saturation=1.08,"
         "drawbox=x=0:y=ih*0.42:w=iw:h=ih*0.42:color=black@0.55:t=fill,"
     )
     errs = []
-    for i, dt in enumerate(_thumb_variants(txt, 104, 1080, 1920, "ih*0.48", 3)):
+    for i, dt in enumerate(_thumb_variants(txt, 118, 1080, 1920, "ih*0.47", 10)):
         vf = pre + dt if dt else pre.rstrip(",")
         cmd = [
             "ffmpeg",
@@ -619,26 +731,31 @@ def assemble(
     title: str,
     workdir: Path,
     kind: str,
+    beats: list | None = None,
 ) -> tuple[Path, Path]:
     if kind == "short":
-        w, h, fps, cap = (
+        w, h, fps, cap, fade = (
             config.SHORT_W,
             config.SHORT_H,
             config.SHORT_FPS,
             float(config.SHORT_MAX_SEC),
+            FADE,
         )
     else:
-        w, h, fps, cap = (
+        w, h, fps, cap, fade = (
             config.LONG_W,
             config.LONG_H,
             config.LONG_FPS,
             None,
+            FADE_LONG,
         )
     workdir.mkdir(parents=True, exist_ok=True)
     n = len(items)
     total = min(voice_dur, cap) if cap else voice_dur
-    d = (total + (n - 1) * FADE) / n if n > 1 else total
+    d = (total + (n - 1) * fade) / n if n > 1 else total
     durs = [d] * n
+    patterns = list(KB_PATTERNS)
+    random.Random(workdir.name).shuffle(patterns)
     clips = []
     for i, (path, is_video, _url, _credit) in enumerate(items):
         if config.kill_requested():
@@ -648,15 +765,20 @@ def assemble(
         if is_video:
             fit_clip(path, clip, d, w, h, fps, extra)
         else:
-            ken_burns(
-                path, clip, d, w, h, fps, extra, zin=(i % 2 == 0), punch=(i == 0)
-            )
+            ken_burns(path, clip, d, w, h, fps, extra, pattern=patterns[i % len(patterns)])
         clips.append(clip)
     if sentences:
         subs_path = build_karaoke(sentences, workdir / "subs.ass", kind, cap)
         cc = build_burst_srt(sentences, workdir / "cc.srt", cap)
         ass_esc = str(subs_path).replace(":", "\\:").replace("'", "")
-        subfilter = f"ass='{ass_esc}'"
+        fonts_esc = config.FONTS_DIR.as_posix().replace(":", "\\:")
+        subfilter = f"ass='{ass_esc}':fontsdir='{fonts_esc}'"
+        if kind == "long" and config.MEDIA_POLISH and len(sentences) > 3:
+            chap = build_chapter_ass(scenes, sentences, beats or [], workdir / "chapters.ass")
+            chap_esc = str(chap).replace(":", "\\:").replace("'", "")
+            endp = build_end_ass(workdir / "end.ass", sentences, config.CHANNEL_NAME)
+            end_esc = str(endp).replace(":", "\\:").replace("'", "")
+            subfilter += f",ass='{chap_esc}':fontsdir='{fonts_esc}',ass='{end_esc}'"
     else:
         cc = write_srt(scenes, durs, workdir / "cc.srt")
         srt_esc = str(cc).replace(":", "\\:").replace("'", "")
@@ -674,7 +796,9 @@ def assemble(
     final = workdir / "final.mp4"
     hard_cap = (cap + 3.0) if cap else None
     if n > 1:
-        mux_xfade(clips, audio, subfilter, final, d, max_sec=hard_cap, hook_text=hook_text)
+        mux_xfade(
+            clips, audio, subfilter, final, d, max_sec=hard_cap, hook_text=hook_text, fade=fade
+        )
     else:
         mux_ass(clips[0], audio, subs_path if sentences else cc, final, max_sec=hard_cap, hook_text=hook_text)
     for c in clips:
