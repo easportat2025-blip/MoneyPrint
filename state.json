@@ -1,5 +1,486 @@
 [
   {
+    "id": "da8931b7c1",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "mixing_music",
+    "title": "The Roman General Who Chose a Horrific Death Over Dishonor",
+    "idea": {
+      "title": "The Roman General Who Chose a Horrific Death Over Dishonor",
+      "hook": "In 255 BC, a captured Roman general was sent home to negotiate peace, but what he told Rome instead stunned everyone—and signed his own death warrant.",
+      "beats": [
+        "Prologue: Rome and Carthage are locked in the brutal clash of the First Punic War, struggling for naval and territorial supremacy across the Mediterranean.",
+        "Consul Marcus Atilius Regulus leads an audacious Roman invasion into North Africa, bringing Carthage to the brink of unconditional surrender.",
+        "Blinded by early success, Regulus offers harsh and humiliating peace terms, forcing Carthage to fight back with desperate resolve.",
+        "Carthage hires Spartan mercenary strategist Xanthippus, whose tactical deployment of war elephants and cavalry annihilates the Roman legions at the Battle of the Bagradas River.",
+        "Regulus is taken alive into Carthaginian captivity, suffering five years of imprisonment while the war grinds into a bloody stalemate.",
+        "In 250 BC, Carthage sends Regulus to Rome on strict parole under a sacred oath to secure a peace treaty and prisoner exchange—or return to his cell.",
+        "Arriving in Rome, Regulus refuses to cross the sacred boundary of the city as a citizen, declaring that as a captive, he is legally dead and merely Carthaginian property.",
+        "Addressing the Roman Senate, Regulus delivers a shocking speech urging Rome to reject peace and let him die, arguing that trading vigorous Carthaginian youth for aging Roman prisoners would weaken the Republic.",
+        "Despite desperate pleas from his wife, children, and fellow senators urging him to break an oath made under duress, Regulus steadfastly refuses to compromise Roman Fides (sacred honor).",
+        "Regulus calmly walks past weeping crowds, boards the vessel back to North Africa, and surrenders himself to his astonished captors.",
+        "Furious at his ultimate betrayal of their mission, Carthaginian authorities execute Regulus through barbaric torture, famously recorded as being locked inside a spike-studded wooden barrel rolled down a rocky hillside.",
+        "Epilogue: The legacy of Marcus Atilius Regulus as Rome's quintessential martyr of unyielding duty, stoicism, and sacred honor that fueled the Roman drive to total conquest."
+      ],
+      "keywords": [
+        "First Punic War",
+        "Marcus Atilius Regulus",
+        "Ancient Rome",
+        "Carthage",
+        "Roman Senate",
+        "Battle of the Bagradas River",
+        "Ancient Roman military",
+        "Roman honor and stoicism",
+        "Xanthippus Sparta",
+        "Punic Wars documentary"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Punic Wars",
+        "Carthage",
+        "Roman History",
+        "History Documentary",
+        "Ancient Battles",
+        "Marcus Atilius Regulus",
+        "Hannibal",
+        "Ancient Empires",
+        "Military History"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE CHOSE TO DIE"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Rome's top general sentence himself to death?",
+        "search": "Marcus Atilius Regulus Roman marble bust statue",
+        "caption": "Marcus Atilius Regulus chose execution over dishonor in 250 BC."
+      },
+      {
+        "narration": "In 256 BC, Consul Marcus Atilius Regulus led a Roman invasion fleet into North Africa during the First Punic War.",
+        "search": "Battle of Ecnomus naval clash ancient Roman oil painting",
+        "caption": "Consul Regulus invaded North Africa in 256 BC during the Punic War."
+      },
+      {
+        "narration": "After crushing early resistance, Regulus demanded unconditional surrender, imposing terms so severe that Carthage chose resistance over ruin.",
+        "search": "ancient Carthage ruins historical map engraving",
+        "caption": "Harsh Roman terms forced Carthage to wage a desperate defense."
+      },
+      {
+        "narration": "Carthage hired the Spartan mercenary Xanthippus, who retrained their infantry and deployed nearly one hundred charging war elephants.",
+        "search": "ancient Spartan hoplite warrior bronze helmet artifact",
+        "caption": "Spartan mercenary Xanthippus reorganized the Carthaginian army."
+      },
+      {
+        "narration": "At the Battle of the Bagradas River in 255 BC, Carthaginian forces annihilated the Roman legions and captured Regulus alive.",
+        "search": "Battle of the Bagradas River ancient war elephants oil painting",
+        "caption": "Roman legions were crushed at Bagradas River in 255 BC."
+      },
+      {
+        "narration": "Following five years of harsh imprisonment, Carthaginian magistrates released Regulus on parole in 250 BC to broker a prisoner exchange.",
+        "search": "ancient Roman captive in chains Carthaginian prison engraving",
+        "caption": "Paroled in 250 BC, Regulus swore an oath to return."
+      },
+      {
+        "narration": "Arriving outside Rome, Regulus refused to cross the sacred boundary, declaring that captivity legally erased his status as a Roman citizen.",
+        "search": "pomerium ancient Rome city boundary wall engraving",
+        "caption": "Regulus refused citizen rights outside Rome's sacred pomerium boundary."
+      },
+      {
+        "narration": "Standing before the Roman Senate, Regulus stunned the chamber by demanding they reject peace and abandon him to torture.",
+        "search": "Regulus urging Roman Senate to reject Carthaginian peace oil painting",
+        "caption": "Regulus demanded the Senate reject the treaty and his own release."
+      },
+      {
+        "narration": "Regulus argued to the Senate that Carthage held only broken, demoralized Roman legionaries, whereas Rome held young, capable Carthaginian commanders. Exchanging them would instantly revitalize Carthage's military leadership while offering Rome no tactical advantage.",
+        "search": "Roman senate debating classical oil painting",
+        "caption": "Regulus argued against exchanging veteran captives for Carthaginian commanders."
+      },
+      {
+        "narration": "Roman senators and the Pontifex Maximus argued that an oath extracted under coercion by an enemy carried no religious obligation under Roman law. They pleaded with Regulus to remain within the safety of the Republic.",
+        "search": "Pontifex Maximus ancient Roman priest engraving",
+        "caption": "Roman priests insisted oaths sworn under duress held no legal power."
+      },
+      {
+        "narration": "Outside the Senate's meeting place, his wife Marcia and their two children wept, joining citizens who physically attempted to block his path. Fellow patricians implored him to prioritize his family over an enemy's parole.",
+        "search": "Marcia weeping Marcus Atilius Regulus family history painting",
+        "caption": "His wife Marcia and children begged him to remain in Rome."
+      },
+      {
+        "narration": "Regulus maintained that violating his word, even to a hated enemy, would destroy Fides, the sacred Roman concept of absolute fidelity and honor. To break an oath to the gods would inflict worse damage on Rome than any military defeat.",
+        "search": "Fides Roman goddess personification ancient marble statue",
+        "caption": "Regulus insisted breaking a sworn oath would permanently corrupt Roman honor."
+      },
+      {
+        "narration": "Swayed by his unyielding strategic logic, the Senate formally voted to reject Carthage's terms and maintain the war. By following their consul's advice, the senators sealed his death warrant.",
+        "search": "ancient Rome senate curia interior historic engraving",
+        "caption": "The Senate voted to reject peace, formally condemning their general."
+      },
+      {
+        "narration": "Refusing to look back at his weeping family, Regulus turned away from Rome and began the march to the port of Ostia. Eyewitness accounts recorded by Horace described him walking through the devastated crowd as calmly as a lawyer leaving court for his country estate.",
+        "search": "Regulus returning to Carthage classical oil painting",
+        "caption": "Regulus departed Rome, pushing past citizens attempting to bar his path."
+      },
+      {
+        "narration": "Surrounded by bewildered Carthaginian escorts, Regulus boarded the transport ship bound for North Africa. His return to captivity stunned his guards, who had expected him to exploit Roman protection.",
+        "search": "ancient Roman galley warship sea oil painting",
+        "caption": "He boarded the Carthaginian vessel bound for North Africa."
+      },
+      {
+        "narration": "When the ship reached North Africa, Carthaginian leaders discovered that their captive had not negotiated peace, but had instead convinced Rome to wage total war. Carthaginian outrage erupted, and the magistrates prepared a retribution designed to break his legendary stoicism.",
+        "search": "ancient Carthage harbor ruins oil painting",
+        "caption": "Carthage discovered Regulus had orchestrated the collapse of peace negotiations."
+      },
+      {
+        "narration": "In 250 BC, the Carthaginian senate convened to deliberate the fate of Marcus Atilius Regulus after his sabotage of the prisoner exchange. Furious that their captive had turned a diplomatic mission into a Roman rallying cry, the magistrates ordered an execution intended to terrorize Rome.",
+        "search": "carthaginian council senate oil painting",
+        "caption": "Carthaginian magistrates ordered an exemplary execution for Regulus in 250 BC."
+      },
+      {
+        "narration": "Regulus was initially cast into a lightless subterranean dungeon cut into the rocky foundation of Carthage. Guards systematically denied him sleep, keeping him under constant disruption to break his physical endurance.",
+        "search": "ancient subterranean stone dungeon engraving",
+        "caption": "Regulus was confined to dark subterranean cells beneath Carthage."
+      },
+      {
+        "narration": "According to accounts by Roman historians Cicero and Aulus Gellius, Carthaginian captors surgically excised Regulus's eyelids. He was then dragged from total darkness directly into the blinding glare of the North African sun.",
+        "search": "marcus atilius regulus torture 17th century oil painting",
+        "caption": "Roman chroniclers documented severe light exposure and sleep deprivation torture."
+      },
+      {
+        "narration": "Carthaginian artisans then constructed a specialized wooden chest lined internally with sharpened iron spikes. The apparatus was engineered so that any involuntary movement or lapse into sleep would drive the spikes into the victim's flesh.",
+        "search": "execution in spiked barrel historic engraving",
+        "caption": "A spike-studded wooden chamber was constructed to enforce continuous agony."
+      },
+      {
+        "narration": "Regulus was sealed upright inside the spiked contraption and subjected to perpetual rocking motions. Deprived of sleep for days while bracing against the metal points, he succumbed to exhaustion and catastrophic blood loss.",
+        "search": "death of marcus atilius regulus salvator rosa oil painting",
+        "caption": "Regulus succumbed inside the spiked enclosure around 250 BC."
+      },
+      {
+        "narration": "When reports of Regulus's gruesome demise reached Rome, the Senate delivered captured Carthaginian generals Bostar and Hamilcar to Regulus's surviving family. Roman authorities permitted the household to exact equivalent retribution under ancestral customs.",
+        "search": "roman senate debate marble relief ancient rome",
+        "caption": "Rome handed high-ranking Carthaginian prisoners over to Regulus's family."
+      },
+      {
+        "narration": "Regulus's widow, Atilia, locked the two Carthaginian commanders inside a cramped, suffocating chamber in retaliation for her husband's death. The abuse grew so extreme that Bostar perished, prompting Roman tribunes to intervene and halt further retaliation.",
+        "search": "roman matron and captives classical oil painting",
+        "caption": "Atilia inflicted retaliatory confinement upon Carthaginian captives in Rome."
+      },
+      {
+        "narration": "Marcus Atilius Regulus was transformed into Rome's defining martyr, celebrated by poets Horace and Livy as the ultimate personification of Roman Fides. His fatal commitment to honor convinced generations of legionaries that death was preferable to broken oaths.",
+        "search": "marcus atilius regulus marble bust statue roman",
+        "caption": "Regulus became the Republic's immortal symbol of duty over self-preservation."
+      },
+      {
+        "narration": "Polybius, the earliest and most authoritative Greek historian of the First Punic War, omitted the spiked-barrel torture entirely from his chronicles.",
+        "search": "polybius historian marble bust statue",
+        "caption": "Polybius omitted the famous spiked barrel story entirely."
+      },
+      {
+        "narration": "Fragmentary records from the third century BC indicate Regulus may have simply died of natural illness while in Carthaginian custody.",
+        "search": "ancient carthage ruins tunisia oil painting",
+        "caption": "Early records suggest Regulus may have died of illness."
+      },
+      {
+        "narration": "Historian Diodorus Siculus documented that Roman tribunes intervened only after Regulus's family tortured Carthaginian captive Bostar to death in Rome.",
+        "search": "diodorus siculus portrait engraving",
+        "caption": "Tribunes intervened after Carthaginian general Bostar was killed in Rome."
+      },
+      {
+        "narration": "The unlawful death of high-ranking prisoners under Roman custody sparked an intense diplomatic scandal across the Mediterranean world.",
+        "search": "roman senate curia julia oil painting",
+        "caption": "Rome faced intense diplomatic scandal over murdered Carthaginian hostages."
+      },
+      {
+        "narration": "Later Roman chroniclers amplified tales of Carthaginian cruelty to cover up Bostar's murder, transforming Regulus's death into an unprovoked atrocity.",
+        "search": "first punic war battle scene oil painting",
+        "caption": "Roman chroniclers magnified Carthaginian cruelty to justify retaliation."
+      },
+      {
+        "narration": "Whether history or fabrication, the tale of Regulus hardened Roman resolve, driving citizens to finance two hundred newly designed quinqueremes.",
+        "search": "ancient roman quinquereme galley engraving",
+        "caption": "Regulus's legend spurred Rome to build 200 new warships."
+      },
+      {
+        "narration": "In 241 BC, Roman consul Gaius Lutatius Catulus intercepted and crushed the Carthaginian relief fleet at the Battle of the Aegates Islands.",
+        "search": "battle of aegates islands naval combat oil painting",
+        "caption": "Catulus destroyed Carthage's fleet at the Aegates Islands in 241 BC."
+      },
+      {
+        "narration": "Carthage surrendered Sicily and paid 3,200 silver talents in indemnities, cementing the tale of Regulus as Rome's foundational doctrine of total war.",
+        "search": "ancient carthaginian silver shekel coin",
+        "caption": "Carthage surrendered Sicily, cementing Regulus as Rome's defining martyr."
+      },
+      {
+        "narration": "Following the peace of 241 BC, the Roman Senate formally codified Marcus Atilius Regulus as the Republic's supreme moral benchmark, establishing that capture in battle was synonymous with disgrace. Patrician families commissioned commemorative orations, embedding Regulus's refusal of ransom into Rome's unwritten military code.",
+        "search": "marcus atilius regulus engraving",
+        "caption": "Rome codified Regulus's sacrifice into an uncompromising military doctrine."
+      },
+      {
+        "narration": "Across the Mediterranean, Carthage plunged into violent turmoil in late 241 BC when twenty thousand unpaid mercenaries revolted under Spendius and Mathos. The uprising ignited the Truceless War, threatening to dismantle Carthage from within before it could rebuild its treasury.",
+        "search": "carthaginian mercenary war ancient engraving",
+        "caption": "In 241 BC, Carthage's unpaid mercenary armies erupted in violent rebellion."
+      },
+      {
+        "narration": "Carthaginian general Hamilcar Barca took supreme field command in 240 BC, trapping rebel forces in the gorge known as the Saw and crushing thousands beneath war elephants. Polybius recorded the conflict as the most brutal and devoid of clemency in ancient Mediterranean history.",
+        "search": "hamilcar barca marble bust",
+        "caption": "Hamilcar Barca crushed the mercenary uprising with systematic brutality."
+      },
+      {
+        "narration": "Exploiting Carthage's vulnerability in 238 BC, the Roman Senate opportunistically broke the peace treaty and seized the islands of Sardinia and Corsica. Rome extorted an additional twelve hundred silver talents under threat of invasion, leaving Carthaginian leaders determined to seek future retribution.",
+        "search": "sardinia corsica ancient roman map engraving",
+        "caption": "Rome annexed Sardinia in 238 BC, extracting 1,200 additional talents."
+      },
+      {
+        "narration": "To offset the loss of Mediterranean islands, Carthage authorized Hamilcar Barca in 237 BC to conquer territories in southern Hispania. Securing rich silver mines in Andalusia, the Barcid family established an autonomous military power base outside Roman diplomatic oversight.",
+        "search": "ancient carthaginian silver shekel coin conquered",
+        "caption": "Hamilcar conquered southern Hispania in 237 BC to secure silver wealth."
+      },
+      {
+        "narration": "Before departing the temple city of Gades in 237 BC, Hamilcar conducted animal sacrifices at the altar of Melqart alongside his nine-year-old son, Hannibal Barca. The historian Polybius recorded that Hannibal placed his hand upon the altar and swore never to be a friend to Rome.",
+        "search": "hannibal barca bust statue",
+        "caption": "Nine-year-old Hannibal swore an oath of eternal hostility toward Rome."
+      },
+      {
+        "narration": "In Rome, early annalists such as Quintus Fabius Pictor leveraged the memory of Regulus's torture to convince citizens that Carthaginian treaties were inherently fraudulent. The Regulus narrative shifted Roman strategic doctrine permanently from defensive diplomacy toward absolute military supremacy.",
+        "search": "roman senate oil painting",
+        "caption": "Roman historians used Regulus's fate to justify an unyielding foreign policy."
+      },
+      {
+        "narration": "In 226 BC, Roman envoys confronted Carthaginian authorities in Spain, forcing Hasdrubal the Fair to sign the Ebro River Treaty to delimit spheres of control. The artificial boundary left the allied city of Saguntum caught between rival empires, creating a volatile trigger for renewed catastrophe.",
+        "search": "ebro river valley spain landscape engraving",
+        "caption": "The 226 BC Ebro Treaty created a volatile flashpoint for war."
+      },
+      {
+        "narration": "In 219 BC, Hannibal Barca laid siege to the Roman-allied Iberian city of Saguntum, openly testing whether Rome would honor its sworn treaties. For eight months, the defenders resisted Carthaginian assaults while desperate envoys pleaded with the Roman Senate for immediate military intervention.",
+        "search": "siege of saguntum 219 bc 19th century oil painting",
+        "caption": "Hannibal besieges Saguntum in 219 BC, testing Roman treaty commitments."
+      },
+      {
+        "narration": "Recalling Regulus's absolute refusal to yield under pressure, Roman ambassador Quintus Fabius confronted the Carthaginian Senate in 218 BC with an uncompromising ultimatum. When the magistrates refused to surrender Hannibal, Fabius opened the folds of his toga, formally unleashing the Second Punic War.",
+        "search": "quintus fabius declaring war carthage senate engraving",
+        "caption": "Rome declares the Second Punic War in the Carthaginian Senate."
+      },
+      {
+        "narration": "Hannibal launched an audacious strategic counter-stroke in late 218 BC, marching nearly forty thousand troops and thirty-seven war elephants across the freezing passes of the Alps. The grueling crossing cost thousands of lives but successfully brought total warfare directly onto Italian soil.",
+        "search": "hannibal crossing the alps war elephants oil painting",
+        "caption": "Hannibal leads his army across the Alps into northern Italy."
+      },
+      {
+        "narration": "At the Trebia River in December 218 BC, Hannibal lured Roman consul Tiberius Sempronius Longus into crossing freezing waters before springing a concealed cavalry ambush. Over twenty thousand Roman legionaries were slaughtered, obliterating the Republic's defensive front in Cisalpine Gaul.",
+        "search": "battle of the trebia 218 bc antique engraving",
+        "caption": "Hannibal destroys twenty thousand Roman legionaries at the Trebia River."
+      },
+      {
+        "narration": "In June 217 BC, Hannibal ambushed the legions of Consul Gaius Flaminius along the misty shores of Lake Trasimene, trapping fifteen thousand soldiers against the water. The total destruction of Flaminius's army left central Italy exposed and threw Rome into widespread civic panic.",
+        "search": "battle of lake trasimene 217 bc historical painting",
+        "caption": "Fifteen thousand Roman soldiers perish in Hannibal's Lake Trasimene ambush."
+      },
+      {
+        "narration": "Facing potential conquest, the Roman Senate suspended ordinary magisterial elections and appointed Quintus Fabius Maximus as sole Dictator. Fabius enforced a grinding strategy of attrition, invoking the unyielding stoicism of Regulus to prevent Roman citizens from suing for peace.",
+        "search": "quintus fabius maximus cunctator ancient roman marble bust",
+        "caption": "Dictator Fabius Maximus enforces grinding attritional warfare against Hannibal."
+      },
+      {
+        "narration": "Frustrated by Fabius's refusal to fight a pitched battle, political rivals in Rome pushed to assemble the largest unified army in republican history. By early 216 BC, over eighty-six thousand legionaries were mobilized to crush Hannibal's invading forces in a single decisive clash.",
+        "search": "roman legions marching into battle 19th century oil painting",
+        "caption": "Rome mobilizes eighty-six thousand soldiers to seek a decisive battle."
+      },
+      {
+        "narration": "Consuls Lucius Aemilius Paullus and Gaius Terentius Varro marched the colossal Roman host south toward the dusty plains of Cannae. As Hannibal deployed his crescent infantry lines along the Aufidus River, Rome prepared to stake the Republic's survival on an unprecedented tactical gamble.",
+        "search": "hannibal army line of battle cannae ancient map engraving",
+        "caption": "Both empires assemble for total collision at the plains of Cannae."
+      },
+      {
+        "narration": "Why did a captured Roman general demand his own execution?",
+        "search": "Marcus Atilius Regulus oil painting",
+        "caption": "Marcus Atilius Regulus chose execution over dishonor in ancient Rome"
+      },
+      {
+        "narration": "In 256 BC, Consul Marcus Atilius Regulus led four Roman legions across the Mediterranean to invade Carthaginian North Africa. After early victories, Carthage sued for peace, but Regulus demanded harsh and humiliating terms of surrender.",
+        "search": "Marcus Atilius Regulus ancient Roman coin",
+        "caption": "Consul Marcus Atilius Regulus invaded North Africa in 256 BC"
+      },
+      {
+        "narration": "Desperate to survive, Carthage hired Spartan mercenary general Xanthippus in 255 BC to command their forces. Xanthippus deployed one hundred war elephants and cavalry at the Battle of the Bagradas River, annihilating the legions and capturing Regulus alive.",
+        "search": "Spartan general Xanthippus bronze bust statue",
+        "caption": "Spartan commander Xanthippus routed the Roman legions in 255 BC"
+      },
+      {
+        "narration": "Regulus endured five brutal years in Carthaginian imprisonment while the war remained locked in stalemate. In 250 BC, Carthage released Regulus on parole under a sworn oath to secure peace in Rome or return to North Africa for execution.",
+        "search": "Carthage harbor ancient map engraving",
+        "caption": "Carthage paroled Regulus in 250 BC under a sacred oath"
+      },
+      {
+        "narration": "Arriving outside the walls of Rome, Regulus refused to enter the city gates or embrace his family. He declared that as a foreign prisoner of war, Roman law had stripped him of citizenship and rendered him Carthaginian property.",
+        "search": "Ancient Roman city walls gate engraving",
+        "caption": "Regulus refused entry into Rome as a Carthaginian prisoner"
+      },
+      {
+        "narration": "Addressing the Roman Senate, Regulus delivered a shocking speech demanding the outright rejection of Carthage's peace proposals. He insisted that trading energetic Carthaginian officers for aging Roman captives would fatally compromise the Republic.",
+        "search": "Roman Senate curia assembly oil painting",
+        "caption": "Regulus urged the Roman Senate to reject Carthaginian terms"
+      },
+      {
+        "narration": "Roman senators and priests argued that an oath made under duress was invalid, pleading with Regulus to remain in Rome. Regulus refused every legal escape, stating that Rome's sacred honor required keeping faith even with an enemy.",
+        "search": "Pontifex Maximus ancient Roman marble statue",
+        "caption": "Regulus refused to violate his sworn oath to Carthage"
+      },
+      {
+        "narration": "In 250 BC, Regulus voluntarily returned to Carthage, where authorities tortured him to death inside a spike-lined barrel. His sacrifice transformed him into Rome's eternal martyr, forging the relentless stoic code that fueled Roman conquest.",
+        "search": "Marcus Atilius Regulus return to Carthage oil painting",
+        "caption": "Regulus embraced death in Carthage to preserve Roman honor"
+      },
+      {
+        "narration": "A general's horrific death created Rome's most terrifying weapon. News of Regulus's execution in 250 BC triggered brutal retaliation against Carthaginian captives.",
+        "search": "ancient roman senate engraving",
+        "caption": "A general's horrific death created Rome's most terrifying weapon."
+      },
+      {
+        "narration": "The Senate refused every subsequent peace offer, culminating in the 241 BC naval victory at the Aegates Islands that broke Carthage.",
+        "search": "battle of the aegates islands oil painting",
+        "caption": "Rome crushed Carthage at the Aegates Islands in 241 BC."
+      },
+      {
+        "narration": "Marcus Tullius Cicero documented Regulus's sacrifice in De Officiis as the ultimate demonstration that oaths must be kept, even to enemies.",
+        "search": "marcus tullius cicero bust statue",
+        "caption": "Cicero recorded Regulus as Rome's supreme moral benchmark."
+      },
+      {
+        "narration": "The Roman poet Horace immortalized Regulus in his Odes, depicting him calmly walking to execution as if departing for a countryside vacation.",
+        "search": "roman poet horace engraving",
+        "caption": "Horace celebrated Regulus's calm departure into enemy captivity."
+      },
+      {
+        "narration": "Greek historian Polybius omitted the spiked barrel torture, prompting modern scholars to examine whether Roman annalists embellished the tale to justify wartime atrocities.",
+        "search": "polybius bust statue",
+        "caption": "Polybius omitted the infamous spiked barrel torture account."
+      },
+      {
+        "narration": "Stoic philosopher Seneca the Younger argued that Regulus in his torture barrel was spiritually freer and nobler than the Carthaginian judges who condemned him.",
+        "search": "seneca the younger bust statue",
+        "caption": "Seneca framed Regulus as the ideal Stoic victor over agony."
+      },
+      {
+        "narration": "Following Regulus's precedent, the Roman Republic formalized a military doctrine that treated captured soldiers as legally dead men who had surrendered civic honor.",
+        "search": "ancient roman legionaries mosaic",
+        "caption": "Rome treated captured legionaries as stripped of legal citizenship."
+      },
+      {
+        "narration": "By choosing unspeakable torture over dishonor, Marcus Atilius Regulus forged the merciless stoic identity that drove Rome to conquer and obliterate Carthage.",
+        "search": "fall of carthage oil painting",
+        "caption": "Regulus's martyrdom forged Rome's drive for total conquest."
+      },
+      {
+        "narration": "Greek historian Polybius, writing his Histories in the second century BC with direct access to archival records, completely omitted any mention of Regulus's torture. Later historians debated whether the horrific execution was fabricated by Roman chroniclers to justify reciprocal brutality against Carthaginian captives.",
+        "search": "Polybius bust statue ancient roman sculpture marble",
+        "caption": "Polybius omitted Regulus's infamous execution from his detailed second-century BC histories."
+      },
+      {
+        "narration": "First-century BC historian Diodorus Siculus documented that upon hearing rumors of Regulus's death, his widow Atilia subjected Carthaginian hostages Bostar and Hamilcar to retaliatory starvation in Rome. Roman tribunes intervened to stop the abuse after Bostar died, exposing how Regulus's martyrdom justified domestic atrocities.",
+        "search": "Diodorus Siculus engraving portrait 18th century",
+        "caption": "Diodorus recorded Roman retaliation against Carthaginian prisoners inside Rome itself."
+      },
+      {
+        "narration": "In 44 BC, Roman statesman Marcus Tullius Cicero codified Regulus in De Officiis as the supreme moral exemplar of Roman honor. Cicero argued that sworn oaths remained legally binding even to an enemy, elevating Regulus's death into a mandatory civic standard.",
+        "search": "Cicero bust statue marble capitoline museum",
+        "caption": "In 44 BC, Cicero declared Regulus the supreme symbol of Roman duty."
+      },
+      {
+        "narration": "In 23 BC, the poet Horace published his Fifth Roman Ode, depicting Regulus brushing past weeping relatives with the calm composure of a magistrate departing for his country estate. Horace's verse immortalized Regulus as the ultimate cultural weapon of Augustan statecraft.",
+        "search": "Horace poet engraving profile portrait antique print",
+        "caption": "Horace's 23 BC poetry immortalized Regulus's serene departure to face execution."
+      },
+      {
+        "narration": "When Hannibal Barca destroyed the Roman legions at Cannae in 216 BC, the Roman Senate strictly applied Regulus's precedent by refusing to ransom 8,000 captured soldiers. Rome condemned its own men to Carthaginian slavery, cementing the doctrine that captured legionaries held zero value.",
+        "search": "Battle of Cannae ancient map engraving battle plan",
+        "caption": "In 216 BC, Rome refused to ransom Cannae survivors, citing Regulus's doctrine."
+      },
+      {
+        "narration": "Carthaginian general Hannibal Barca realized that the Roman Republic possessed an ideological rigidity unmatched in the Mediterranean, as Rome treated military capitulation as high treason. This refusal to negotiate terms prolonged the Second Punic War across sixteen catastrophic years.",
+        "search": "Hannibal Barca bust statue marble national museum naples",
+        "caption": "Hannibal realized Rome treated military surrender as punishable treason rather than defeat."
+      },
+      {
+        "narration": "Consul Scipio Africanus studied Regulus's flawed 256 BC campaign and adapted the North African invasion strategy in 204 BC. At the Battle of Zama in 202 BC, Scipio finally accomplished the decisive African victory that had eluded Regulus a half-century earlier.",
+        "search": "Scipio Africanus bust statue marble ancient sculpture",
+        "caption": "In 202 BC, Scipio Africanus fulfilled Regulus's original African campaign objective."
+      },
+      {
+        "narration": "The uncompromising ethos that Regulus embodied culminated in 146 BC, when Roman legions obliterated Carthage and sold fifty thousand survivors into slavery. The historical record leaves unresolved whether Regulus stood as Rome's greatest moral martyr or the ideological father of imperial annihilation.",
+        "search": "Destruction of Carthage 146 BC oil painting ruins",
+        "caption": "Regulus's uncompromising ideology culminated in Carthage's total destruction in 146 BC."
+      },
+      {
+        "narration": "In 44 BC, Cicero immortalized Regulus in De Officiis, framing his voluntary return to Carthage as the supreme triumph of civic duty over self-preservation. Horace later praised his composure, writing that Regulus departed Rome as calmly as a citizen heading to an Italian country estate.",
+        "search": "cicero marble bust sculpture musei capitolini",
+        "caption": "Cicero and Horace codified Regulus as Rome's ultimate moral exemplar."
+      },
+      {
+        "narration": "For the Roman Republic, Regulus defined fides, the sacred inviolability of an oath that bound a citizen regardless of personal torment. Generations of Roman patricians were raised on his example to view death as preferable to broken honor.",
+        "search": "roman forum curia julia senate ruins engraving 18th century",
+        "caption": "Regulus personified Roman fides, elevating sacred honor above life itself."
+      },
+      {
+        "narration": "In the fifth century AD, Saint Augustine challenged this pagan veneration in The City of God, questioning why Rome's gods allowed their most dutiful servant to perish in agonizing torture. Augustine argued that Regulus's devotion exposed the tragic limits of pagan virtue, which offered no salvation beyond the grave.",
+        "search": "saint augustine writing city of god medieval illuminated manuscript",
+        "caption": "Saint Augustine critiqued the pagan gods that abandoned Regulus to torture."
+      },
+      {
+        "narration": "During the seventeenth century, European painters revived the episode as the definitive archetype of stoic resolve against impending doom. In 1666, Italian master Salvator Rosa depicted Regulus sealed inside the spike-studded barrel, forever cementing the gruesome death in Western visual art.",
+        "search": "death of regulus salvator rosa 1666 oil painting",
+        "caption": "Salvator Rosa's 1666 canvas fixed Regulus's torture in European imagination."
+      },
+      {
+        "narration": "Modern historians note that the contemporary Greek historian Polybius never recorded the barrel torture, writing only that Regulus died in captivity. Subsequent Roman annalists likely embellished Carthaginian cruelty to justify their own brutal razing of Carthage in 146 BC.",
+        "search": "polybius historian bust ancient roman marble relief",
+        "caption": "Historian Polybius omitted the torture, suggesting later Roman wartime embellishment."
+      },
+      {
+        "narration": "Whether the spiked barrel was historical fact or wartime propaganda, Regulus's refusal to endorse a prisoner exchange remains unchallenged. By demanding that the Senate continue fighting, he deliberately sacrificed his own life to preserve Rome's military leverage.",
+        "search": "carthage byrsa hill ruins tunisia 19th century engraving",
+        "caption": "The core fact stands: Regulus sacrificed himself for Rome's military advantage."
+      },
+      {
+        "narration": "The First Punic War proved that Carthage fought for commercial preservation, while Rome fought with an ideological refusal to accept defeat. Regulus demonstrated to the ancient Mediterranean that the Republic could not be coerced, negotiated with, or broken by capture.",
+        "search": "first punic war naval battle roman quinquereme engraving",
+        "caption": "Carthage fought for commerce, but Rome fought with unyielding fanaticism."
+      },
+      {
+        "narration": "Marcus Atilius Regulus embraced a horrific execution because he understood that Rome's greatest weapon was not its legions, but an ethos that made surrender unthinkable. By choosing death over dishonor, one captive general demonstrated that Rome would destroy anyone—including itself—before admitting defeat.",
+        "search": "camuccini regulus returning to carthage neoclassical oil painting",
+        "caption": "By choosing death, Regulus proved Rome would never surrender."
+      }
+    ],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-17T16:46:14.929972+00:00",
+    "updated_at": "2026-10-17T17:04:15.899318+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-17T17:01:40.182126+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3977 chars",
+        "at": "2026-10-17T17:03:37.379026+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "240.7s en-US-GuyNeural 40 cau",
+        "at": "2026-10-17T17:04:03.754853+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T17:04:15.899301+00:00"
+      }
+    }
+  },
+  {
     "id": "8146241203",
     "kind": "short",
     "channel": "Channel3",
