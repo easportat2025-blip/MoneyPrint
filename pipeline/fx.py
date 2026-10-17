@@ -21,9 +21,8 @@ def variant(seed: str = "") -> str:
 
 def _font_file(*names: str) -> str:
     for n in names:
-        p = config.FONTS_DIR / n
-        if p.exists():
-            return p.as_posix()
+        if (config.ROOT / "assets" / "fonts" / n).exists():
+            return "assets/fonts/" + n
     return ""
 
 
@@ -85,8 +84,8 @@ def hook_vf(text: str, font: str = "") -> str:
     parts = [
         "drawbox=x=0:y=0:w=iw:h=ih:color=black@0.32:t=fill:enable='lt(t\\,3.0)'",
         (
-            f"drawbox=x='(w-w*0.16)/2':y={top}+{total}+26:w='w*0.16':h=10:"
-            f"color={accent}@0.95:enable='lt(t\\,3.0)'"
+            f"drawbox=x='(iw-iw*0.16)/2':y={top}+{total}+26:w='iw*0.16':h=10:"
+            f"color={accent}@0.95:t=fill:enable='lt(t\\,3.0)'"
         ),
     ]
     for i, ln in enumerate(lines):

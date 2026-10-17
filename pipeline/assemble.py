@@ -269,9 +269,9 @@ def build_karaoke(
             "\\t(0,140,\\fscx106\\fscy106)\\t(140,260,\\fscx100\\fscy100)}"
         )
         tags = "".join(
-            "{\\kf%s}%s" % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
+            "{\\kf%s}%s " % (max(int((x["end"] - x["start"]) * 100), 1), _clean(x["w"]))
             for x in chunk
-        )
+        ).strip()
         lines.append(
             f"Dialogue: 0,{_ass_ts(chunk[0]['start'])},{_ass_ts(chunk[-1]['end'])},"
             f"Karaoke,,0,0,0,,{pop}{tags}\n"
@@ -433,7 +433,7 @@ def mux_ass(
     hook_text: str = "",
 ) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
-    ass_esc = str(ass).replace(":", "\\:").replace("'", "")
+    ass_esc = ass.as_posix().replace(":", "\\:").replace("'", "")
     base = f"ass='{ass_esc}',format=yuv420p"
     vfs = [
         f"{fx_mod.hook_vf(hook_text, fx_mod.FONT)},{fx_mod.watermark_vf()},{base}",
@@ -501,7 +501,7 @@ def mux_subs(
         "OutlineColour=&H90000000,BorderStyle=1,Outline=4,Shadow=0,"
         "Alignment=2,MarginV={mg}".format(sz=size, mg=margin)
     )
-    srt_esc = str(srt).replace(":", "\\:").replace("'", "")
+    srt_esc = srt.as_posix().replace(":", "\\:").replace("'", "")
     base = f"subtitles='{srt_esc}':force_style='{style}',format=yuv420p"
     hook = fx_mod.hook_vf(hook_text, fx_mod.FONT)
     hook_fb = fx_mod.hook_fallback(hook_text)
@@ -622,13 +622,14 @@ def mux_xfade(
 def _thumb_variants(txt: Path, size: int, w: int, h: int, frac: str, border: int) -> list:
     anton = fx_mod._font_file("Anton-Regular.ttf")
     accent = (config.ACCENT or "0xFFD700").replace("#", "")
-    bar = (
-        f"drawbox=x='w*0.055':y={frac}:w='w*0.013':h='h*0.3':color={accent}@0.92"
-    )
+    bx, by = int(w * 0.055), int(h * 0.56)
+    bw, bh = max(int(w * 0.013), 5), int(h * 0.30)
+    bar = f"drawbox=x={bx}:y={by}:w={bw}:h={bh}:color={accent}@0.92:t=fill"
 
     def _main(farg: str) -> str:
+        tf = txt.as_posix().replace(":", "\\:")
         return (
-            f"drawtext=textfile='{txt.as_posix()}':fontsize={size}:{farg}:"
+            f"drawtext=textfile='{tf}':fontsize={size}:{farg}:"
             f"fontcolor=white:borderw={border}:bordercolor=black@0.9:"
             f"shadowcolor=black@0.6:shadowx=0:shadowy={max(border, 6)}:"
             f"x=(w-text_w)/2:y={frac}:line_spacing={int(size * 0.16)}"
@@ -644,14 +645,14 @@ def build_thumb(video: Path, title: str, out: Path) -> Path:
     info = probe(video)
     ss = max((info["duration"] or 10) * 0.3, 1.0)
     txt = out.parent / "thumb.txt"
-    txt.write_text(wrap_title(title, width=16, lines=3), encoding="utf-8")
+    txt.write_bytes(wrap_title(title, width=16, lines=3).encode("utf-8"))
     pre = (
         "scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,"
         "eq=saturation=1.08,"
         "drawbox=x=0:y=ih*0.5:w=iw:h=ih*0.5:color=black@0.6:t=fill,"
     )
     errs = []
-    for i, dt in enumerate(_thumb_variants(txt, 92, 1280, 720, "h*0.56", 8)):
+    for i, dt in enumerate(_thumb_variants(txt, 86, 1280, 720, "h*0.5", 8)):
         vf = pre + dt if dt else pre.rstrip(",")
         cmd = [
             "ffmpeg",
@@ -677,16 +678,20 @@ def build_thumb(video: Path, title: str, out: Path) -> Path:
 def build_short_thumb(video: Path, title: str, out: Path) -> Path:
     out.parent.mkdir(parents=True, exist_ok=True)
     info = probe(video)
-    ss = min(max((info["duration"] or 10) * 0.25, 0.5), 6.0)
+    dur = info["duration"] or 10
+    if dur > 4.2:
+        ss = min(max(dur * 0.3, 3.35), max(3.35, dur - 0.8))
+    else:
+        ss = min(max(dur * 0.25, 0.5), 6.0)
     txt = out.parent / "sthumb.txt"
-    txt.write_text(wrap_title(title, width=13, lines=4), encoding="utf-8")
+    txt.write_bytes(wrap_title(title, width=13, lines=4).encode("utf-8"))
     pre = (
         "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
         "eq=saturation=1.08,"
         "drawbox=x=0:y=ih*0.42:w=iw:h=ih*0.42:color=black@0.55:t=fill,"
     )
     errs = []
-    for i, dt in enumerate(_thumb_variants(txt, 118, 1080, 1920, "ih*0.47", 10)):
+    for i, dt in enumerate(_thumb_variants(txt, 118, 1080, 1920, "h*0.47", 10)):
         vf = pre + dt if dt else pre.rstrip(",")
         cmd = [
             "ffmpeg",
@@ -770,18 +775,17 @@ def assemble(
     if sentences:
         subs_path = build_karaoke(sentences, workdir / "subs.ass", kind, cap)
         cc = build_burst_srt(sentences, workdir / "cc.srt", cap)
-        ass_esc = str(subs_path).replace(":", "\\:").replace("'", "")
-        fonts_esc = config.FONTS_DIR.as_posix().replace(":", "\\:")
-        subfilter = f"ass='{ass_esc}':fontsdir='{fonts_esc}'"
+        ass_esc = subs_path.as_posix().replace(":", "\\:").replace("'", "")
+        subfilter = f"ass='{ass_esc}':fontsdir='assets/fonts'"
         if kind == "long" and config.MEDIA_POLISH and len(sentences) > 3:
             chap = build_chapter_ass(scenes, sentences, beats or [], workdir / "chapters.ass")
-            chap_esc = str(chap).replace(":", "\\:").replace("'", "")
+            chap_esc = chap.as_posix().replace(":", "\\:").replace("'", "")
             endp = build_end_ass(workdir / "end.ass", sentences, config.CHANNEL_NAME)
-            end_esc = str(endp).replace(":", "\\:").replace("'", "")
-            subfilter += f",ass='{chap_esc}':fontsdir='{fonts_esc}',ass='{end_esc}'"
+            end_esc = endp.as_posix().replace(":", "\\:").replace("'", "")
+            subfilter += f",ass='{chap_esc}':fontsdir='assets/fonts',ass='{end_esc}'"
     else:
         cc = write_srt(scenes, durs, workdir / "cc.srt")
-        srt_esc = str(cc).replace(":", "\\:").replace("'", "")
+        srt_esc = cc.as_posix().replace(":", "\\:").replace("'", "")
         if kind == "short":
             margin, size = 430, 96
         else:
