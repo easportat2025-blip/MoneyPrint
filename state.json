@@ -1,5 +1,191 @@
 [
   {
+    "id": "30287ce19d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an English King Fought a Battle Over His Beard",
+    "idea": {
+      "title": "Why an English King Fought a Battle Over His Beard",
+      "hook": "In 1105, King Henry I sat weeping in church after a bishop threatened him with eternal damnation over his long hair.",
+      "beats": [
+        "Norman courtiers adopted long flowing hair and pointed shoes, enraging conservative clergy who called it decadent.",
+        "Bishop Serlo of Séez delivered an Easter sermon warning the king that devils pulled men to hell by their long locks.",
+        "Moved by sheer terror, Henry surrendered on the spot and allowed the bishop to cut his hair inside the church.",
+        "His loyal nobles watched in shock, then queued up in tears to have their own beards and locks brutally shorn."
+      ],
+      "keywords": [
+        "King Henry I medieval painting",
+        "medieval bishop engraving",
+        "Norman knights portrait",
+        "medieval church interior",
+        "ancient royal decree manuscript"
+      ],
+      "tags": [
+        "historyshorts",
+        "medievalhistory",
+        "bizarrehistory",
+        "kinghenry",
+        "darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A king wept while churchmen publicly shaved his head.",
+        "search": "King Henry I of England illuminated manuscript portrait",
+        "caption": "Why an English king was forcibly shorn in church"
+      },
+      {
+        "narration": "In early twelfth-century England, long flowing hair had become the defining fashion of the ruling Norman aristocracy.",
+        "search": "Norman knights tapestry medieval engraving",
+        "caption": "Norman nobles adopted radical long hair fashions after 1100"
+      },
+      {
+        "narration": "Catholic clergy condemned the trend as effeminate vanity, equating long locks with moral decay and pagan vice.",
+        "search": "medieval Catholic bishop illuminated manuscript",
+        "caption": "Church leaders denounced royal vanity as sinful decadence"
+      },
+      {
+        "narration": "On Easter Sunday in 1105, King Henry the First attended mass in Carentan, Normandy, completely unprepared.",
+        "search": "medieval Norman church interior stone nave engraving",
+        "caption": "King Henry I attended Easter mass in Normandy, 1105"
+      },
+      {
+        "narration": "Bishop Serlo of Séez mounted the pulpit and delivered a blistering sermon aimed directly at the monarch.",
+        "search": "medieval priest preaching from pulpit woodcut engraving",
+        "caption": "Bishop Serlo of Séez delivered a targeted sermon"
+      },
+      {
+        "narration": "Serlo proclaimed that devils used long hair as handles to drag sinful men straight into eternal damnation.",
+        "search": "medieval demon dragging sinners hell mouth manuscript illumination",
+        "caption": "Clergy warned demons dragged long-haired men to hell"
+      },
+      {
+        "narration": "The bishop then produced a pair of iron shears from his vestments, challenging the royal court on the spot.",
+        "search": "medieval iron scissors shears artifact museum",
+        "caption": "The bishop produced shears directly before the royal court"
+      },
+      {
+        "narration": "Facing public humiliation or charges of heresy, King Henry bowed his head and made an unthinkable concession.",
+        "search": "King Henry I seal medieval wax coin",
+        "caption": "King Henry I faced an impossible religious ultimatum"
+      },
+      {
+        "narration": "Inside Carentan Church on Easter 1105, Bishop Serlo personally sheared King Henry's long hair and trimmed his beard before the congregation.",
+        "search": "medieval bishop cutting hair manuscript illumination",
+        "caption": "Bishop Serlo sheared King Henry I before the congregation in 1105."
+      },
+      {
+        "narration": "Fearing excommunication, Henry's royal courtiers immediately lined up in tears, submitting their own flowing beards and locks to the clerics' shears.",
+        "search": "Norman knights medieval manuscript illumination",
+        "caption": "Norman nobles tearfully lined up to have their beards sheared."
+      },
+      {
+        "narration": "Armed with this display of religious piety, Henry secured church funding and crushed his brother Duke Robert at Tinchebray in 1106, seizing Normandy.",
+        "search": "Battle of Tinchebray medieval miniature painting",
+        "caption": "Henry leveraged his pious submission to conquer Normandy in 1106."
+      },
+      {
+        "narration": "In 1105, an English king surrendered his beard in tears.",
+        "search": "King Henry I of England illuminated manuscript portrait",
+        "caption": "King Henry I wept before the church in 1105."
+      }
+    ],
+    "error": "",
+    "youtube_id": "QiJDBru87wA",
+    "youtube_url": "https://www.youtube.com/watch?v=QiJDBru87wA",
+    "created_at": "2026-10-17T19:40:14.233125+00:00",
+    "updated_at": "2026-10-17T19:44:24.646519+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-17T19:42:32.220795+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "389 chars (cat 151 de vua 55s)",
+        "at": "2026-10-17T19:42:43.864519+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-17T19:42:45.858937+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T19:42:47.267049+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-17T19:43:27.655053+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-17T19:43:27.714867+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.2s 12852416 bytes",
+        "at": "2026-10-17T19:44:16.651549+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=QiJDBru87wA",
+        "at": "2026-10-17T19:44:19.357889+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabWQCYl6GAWSGsDgrcdye_IGBlCGvTtb-vLpmJoOCIQhAFUhl0J",
+        "at": "2026-10-17T19:44:20.646137+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-17T19:44:22.352245+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-17T19:44:22.743117+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"QiJDBru87wA\\\"\",\n    \"errors\"",
+        "at": "2026-10-17T19:44:24.399457+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-17T19:44:24.460584+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-17T19:44:24.646507+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38162727/pexels-photo-38162727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/339805/pexels-photo-339805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33866916/pexels-photo-33866916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37662582/pexels-photo-37662582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7219514/pexels-photo-7219514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37156115/pexels-photo-37156115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29494161/pexels-photo-29494161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36824935/pexels-photo-36824935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9992816/pexels-photo-9992816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32968988/pexels-photo-32968988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9608425/pexels-photo-9608425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8468587/pexels-photo-8468587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "32afab09b5",
     "kind": "short",
     "channel": "Channel3",
