@@ -1,5 +1,162 @@
 [
   {
+    "id": "f13198e93e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Richest Senator Died Tripping on a Toga",
+    "idea": {
+      "title": "Why Rome's Richest Senator Died Tripping on a Toga",
+      "hook": "In 130 BC, the wealthiest man in Rome died not from an assassin's blade, but from tripping over his own luxury robe.",
+      "beats": [
+        "Publius Licinius Crassus Dives Mucianus led a Roman army against a pretender in Asia Minor.",
+        "Defeated and surrounded by enemy cavalry, he refused to suffer capture and public humiliation.",
+        "He intentionally used his riding whip to thrash a Thracian soldier across the face.",
+        "Enraged by the insult, the barbarian soldier ran him through with a spear, giving Crassus the quick death he wanted.",
+        "His head was delivered to the enemy king, while his wealthy empire back home fell into chaos."
+      ],
+      "keywords": [
+        "Roman consul bust",
+        "Roman cavalry battle engraving",
+        "ancient Roman gold coins",
+        "ancient Thracian soldier portrait",
+        "ancient Rome vintage map"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historyshorts",
+        "#romanrepublic",
+        "#historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's wealthiest senator died because of his own robe.",
+        "search": "ancient roman senator toga marble statue",
+        "caption": "Rome's richest senator died because of his robe."
+      },
+      {
+        "narration": "In 130 BC, Publius Licinius Crassus Dives Mucianus commanded Rome's largest private fortune.",
+        "search": "ancient Roman gold coins hoard macro",
+        "caption": "In 130 BC, Crassus commanded Rome's largest private fortune."
+      },
+      {
+        "narration": "Elected consul, Crassus secured command of legions sent to suppress a revolt in Asia Minor.",
+        "search": "ancient Asia Minor Roman vintage map engraving",
+        "caption": "Crassus took command of legions marching into Asia Minor."
+      },
+      {
+        "narration": "Near the city of Leucae, rebel cavalry overwhelmed his lines and cut off his retreat.",
+        "search": "Roman cavalry battle historical engraving",
+        "caption": "Rebel cavalry routed the Roman lines near Leucae."
+      },
+      {
+        "narration": "Trapped on foot, his heavy consular robes hindered every step as mounted pursuers closed in.",
+        "search": "Roman consul marble bust statue close up",
+        "caption": "Heavy ceremonial garments slowed the consul's retreat."
+      },
+      {
+        "narration": "Fearing public humiliation as a captive king's trophy, Crassus looked for a fatal exit.",
+        "search": "ancient captive Roman prisoners relief sculpture",
+        "caption": "Crassus refused to be paraded as a captive trophy."
+      },
+      {
+        "narration": "He raised his riding crop and slashed a Thracian soldier across the face.",
+        "search": "ancient Thracian soldier warrior fresco illustration",
+        "caption": "Crassus struck an enemy soldier to provoke lethal retaliation."
+      },
+      {
+        "narration": "Enraged by the blow, the Thracian mercenary ran his spear directly through Crassus.",
+        "search": "ancient battle spear thrust historical illustration",
+        "caption": "The enraged mercenary ran Crassus through with a spear."
+      },
+      {
+        "narration": "The Thracian severed the fallen consul's head, delivering the trophy directly to the rebel leader Aristonicus of Pergamon.",
+        "search": "ancient Thracian soldier engraving",
+        "caption": "Crassus's severed head was presented to the rebel king Aristonicus."
+      },
+      {
+        "narration": "Aristonicus buried Crassus's remains at Smyrna, but the sudden death of Rome's wealthiest magistrate triggered financial panic across the Republic.",
+        "search": "ancient Rome vintage map engraving",
+        "caption": "Rome plunged into political chaos following the consul's catastrophic defeat."
+      },
+      {
+        "narration": "By provoking his own fatal blow in 130 BC, Crassus sacrificed his life to deny his captors the ultimate trophy of Rome's richest senator.",
+        "search": "Roman consul bust statue",
+        "caption": "Rome's richest senator engineered his own execution to avoid captivity."
+      },
+      {
+        "narration": "Rome's richest senator deliberately engineered his own gruesome execution.",
+        "search": "roman consul bust statue marble",
+        "caption": "Rome's richest senator engineered his own battlefield execution."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-17T07:57:35.592174+00:00",
+    "updated_at": "2026-10-17T07:59:48.848689+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-17T07:58:00.666855+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "425 chars (cat 126 de vua 55s)",
+        "at": "2026-10-17T07:58:12.584795+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.3s en-US-GuyNeural 5 cau",
+        "at": "2026-10-17T07:58:16.412815+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T07:58:17.576475+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-17T07:59:11.013762+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-17T07:59:11.071835+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.3s 6700336 bytes",
+        "at": "2026-10-17T07:59:48.556133+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-17T07:59:48.848667+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16662868/pexels-photo-16662868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19061684/pexels-photo-19061684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38644873/pexels-photo-38644873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4261006/pexels-photo-4261006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6711451/pexels-photo-6711451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15130362/pexels-photo-15130362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844380/pexels-photo-37844380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21815184/pexels-photo-21815184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14979276/pexels-photo-14979276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3214599/pexels-photo-3214599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151888/pexels-photo-40151888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "f713009171",
     "kind": "short",
     "channel": "Channel2",
