@@ -1,5 +1,196 @@
 [
   {
+    "id": "8146241203",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn không bao giờ nên sấy khô giày bằng máy sấy tóc?",
+    "idea": {
+      "title": "Tại sao bạn không bao giờ nên sấy khô giày bằng máy sấy tóc?",
+      "hook": "Mỗi khi giày bị ướt, bạn tiện tay lấy máy sấy tóc hong khô, nhưng việc này đang bí mật phá hủy đôi giày đắt tiền nhanh hơn bạn tưởng.",
+      "beats": [
+        "Nhiệt độ tập trung từ máy sấy làm chảy lớp keo dán công nghiệp nối liền thân và đế giày.",
+        "Vải lưới và da tổng hợp bị co rút đột ngột khiến phom giày biến dạng vĩnh viễn, dễ gây chấn thương cổ chân.",
+        "Cách an toàn nhất được các chuyên gia khuyên dùng là vo tròn giấy báo hoặc gói hút ẩm nhét chặt vào trong để hút nước tự nhiên."
+      ],
+      "keywords": [
+        "wet sneakers hairdryer drying",
+        "person drying shoes",
+        "damaged running shoes sole",
+        "crumpled newspaper inside sneakers",
+        "shoe care routine"
+      ],
+      "tags": [
+        "#Channel3",
+        "#doisong",
+        "#meovat",
+        "#giaydep",
+        "#khoahocdoisong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Sấy giày bằng máy sấy phá hủy nó trong 5 phút.",
+        "search": "hoat hinh 3d may say toc thoi hoi nong vao giay the thao",
+        "caption": "Sấy giày bằng máy sấy phá hủy nó trong 5 phút"
+      },
+      {
+        "narration": "Trời mưa khiến giày ướt sũng, và phản xạ đầu tiên của bạn luôn là vặn máy sấy mức nhiệt cao nhất.",
+        "search": "3d animation doi giay uot sung nuoc mua trong nha",
+        "caption": "Phản xạ sai lầm khi giày bị ướt mưa"
+      },
+      {
+        "narration": "Luồng gió máy sấy có thể đạt tới hơn 80 độ C, vượt xa giới hạn chịu nhiệt của keo dán.",
+        "search": "motion graphics nhiet do may say toc tang cao 80 do C",
+        "caption": "Máy sấy thổi ra luồng nhiệt hơn 80 độ C"
+      },
+      {
+        "narration": "Nhiệt độ tập trung làm lớp keo nối giữa đế cao su và thân giày mềm nhũn rồi rã ra.",
+        "search": "3d animation de giay the thao bi bung keo ho mieng",
+        "caption": "Keo dán đế giày bị nhiệt làm tan chảy"
+      },
+      {
+        "narration": "Không chỉ vậy, vải lưới và da tổng hợp gặp nhiệt nóng đột ngột sẽ co rút méo mó.",
+        "search": "3d render soi vai luoi giay the thao bi co rut bien dang",
+        "caption": "Vải sợi và da nhân tạo co rút méo mó"
+      },
+      {
+        "narration": "Phom giày biến dạng làm mất khả năng nâng đỡ, tăng vọt nguy cơ trẹo cổ chân khi vận động.",
+        "search": "3d animation ban chan bi lech khi di giay bien dang",
+        "caption": "Mất phom giày dễ gây chấn thương cổ chân"
+      },
+      {
+        "narration": "Thậm chí nếu bạn ném vào máy sấy quần áo, vòng xoay đập mạnh sẽ bẻ gãy luôn khung đệm gót.",
+        "search": "cartoony 3d giay the thao bi quay tron dap manh trong may say",
+        "caption": "Lồng máy sấy bẻ gãy khung nhựa đệm gót"
+      },
+      {
+        "narration": "Vậy làm thế nào để làm khô giày cấp tốc qua đêm mà không hỏng một chi tiết nào?",
+        "search": "isometric render doi giay the thao dat canh dong giay bao cu",
+        "caption": "Cách làm khô giày an toàn qua đêm"
+      },
+      {
+        "narration": "Bước đầu tiên, hãy tháo rời ngay miếng lót và dây giày, vì hai bộ phận này giữ tới 40% lượng nước ẩm đọng lại.",
+        "search": "hoat hinh 3d thao lot giay va day sneaker tach roi",
+        "caption": "Tháo rời lót và dây giày trước tiên"
+      },
+      {
+        "narration": "Tiếp theo, vò chặt giấy báo cũ hoặc khăn giấy khô rồi nhét căng khít vào tận sâu bên trong mũi giày.",
+        "search": "hoat hinh 3d vo tron giay bao nhet vao long giay the thao",
+        "caption": "Vo chặt giấy báo nhét kín mũi giày"
+      },
+      {
+        "narration": "Hiện tượng mao dẫn từ các thớ sợi cellulose sẽ liên tục hút sạch nước từ lớp đệm mút mà không làm co rút vải.",
+        "search": "do hoa 3d mo phong nuoc ngam hut vao soi giay bao zoom can",
+        "caption": "Hiện tượng mao dẫn hút kiệt ẩm tự nhiên"
+      },
+      {
+        "narration": "Dựng nghiêng đôi giày một góc 45 độ trước quạt gió thông thường, luồng khí mát sẽ làm khô ráo hoàn toàn chỉ sau 6 đến 8 tiếng.",
+        "search": "hoat hinh 3d giay the thao dat truoc quat gio quay phong ngu",
+        "caption": "Dựng nghiêng 45 độ trước quạt gió qua đêm"
+      },
+      {
+        "narration": "Đôi giày giữ nguyên 100% phom dáng ban đầu, keo đế bền chặt mà không còn rủi ro hỏng hóc từ nhiệt máy sấy.",
+        "search": "hoat hinh 3d doi giay the thao sach dep hoan hao xoay vong",
+        "caption": "Giữ nguyên phom dáng và lớp keo nguyên bản"
+      }
+    ],
+    "error": "",
+    "youtube_id": "jF96jOZCEqw",
+    "youtube_url": "https://www.youtube.com/watch?v=jF96jOZCEqw",
+    "created_at": "2026-10-17T16:02:42.978324+00:00",
+    "updated_at": "2026-10-17T16:05:22.151598+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-17T16:03:14.948061+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "509 chars",
+        "at": "2026-10-17T16:03:31.242783+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-17T16:03:43.173388+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T16:03:45.203593+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-17T16:04:00.149240+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-17T16:04:00.210464+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.4s 21453237 bytes",
+        "at": "2026-10-17T16:05:13.152417+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=jF96jOZCEqw",
+        "at": "2026-10-17T16:05:16.828601+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYLgDjhPxkjZ-Q_k4y6Vr0ktsNFHApPs22oIVWgOeDwzdehrUw5",
+        "at": "2026-10-17T16:05:18.273010+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-17T16:05:19.849984+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-17T16:05:20.263473+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"jF96jOZCEqw\\\"\",\n    \"errors\"",
+        "at": "2026-10-17T16:05:21.889695+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-17T16:05:21.952204+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-17T16:05:22.151579+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/18069831/18069831-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6012156/6012156-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/33212388/14153622_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/10822115/10822115-hd_720_1280_30fps.mp4",
+      "https://videos.pexels.com/video-files/7984173/7984173-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/10329079/10329079-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6153456/6153456-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7295916/7295916-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/8085548/8085548-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/30234641/12962179_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655800/16655800-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "e9f3389060",
     "kind": "short",
     "channel": "Channel3",
