@@ -1,5 +1,197 @@
 [
   {
+    "id": "32afab09b5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm khi để laptop cắm sạc 24/7 ai cũng mắc phải",
+    "idea": {
+      "title": "Sai lầm khi để laptop cắm sạc 24/7 ai cũng mắc phải",
+      "hook": "Cứ nghĩ cắm sạc laptop liên tục sẽ bảo vệ pin, nhưng thực ra bạn đang âm thầm rút ngắn nửa tuổi thọ cỗ máy của mình.",
+      "beats": [
+        "Pin lithium-ion hiện đại tự ngắt khi đầy 100%, nhưng việc duy trì điện áp cao liên tục lại là thủ phạm chính gây thoái hóa hóa học bên trong.",
+        "Khi cắm sạc cả ngày kết hợp với nhiệt độ tỏa ra từ CPU, nhiệt độ tăng cao đẩy nhanh tốc độ chai pin gấp 3 lần bình thường.",
+        "Mức pin lý tưởng nhất để duy trì tuổi thọ linh kiện không phải 100%, mà nằm trong khoảng 65% đến 80%.",
+        "Kích hoạt tính năng giới hạn sạc pin có sẵn trong BIOS hoặc phần mềm quản lý máy sẽ giúp pin bền thêm nhiều năm."
+      ],
+      "keywords": [
+        "laptop battery plugged in charging",
+        "lithium ion battery degradation",
+        "overheating laptop desk",
+        "computer hardware close up",
+        "laptop charger cable plugged"
+      ],
+      "tags": [
+        "Channel3",
+        "meo dung may tinh",
+        "pin laptop",
+        "cong nghe",
+        "khoa hoc doi song"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cắm sạc laptop liên tục đang giết chết pin của bạn.",
+        "search": "hoat hinh 3d laptop cam day sac tren ban lam viec",
+        "caption": "Cắm sạc liên tục đang âm thầm phá hủy pin laptop"
+      },
+      {
+        "narration": "Nhiều người tin rằng công nghệ tự ngắt điện giúp việc cắm sạc cả ngày hoàn toàn vô hại.",
+        "search": "do hoa chuyen dong bieu tuong pin 100 phan tram phat sang",
+        "caption": "Lầm tưởng pin tự ngắt nên cắm sạc liên tục"
+      },
+      {
+        "narration": "Thực tế, giữ mức sạc tối đa liên tục tạo ra áp lực điện áp cực đại lên lõi lithium bên trong.",
+        "search": "hoat hinh 3d mo phong ben trong vien pin ion phan ung",
+        "caption": "Mức 100% duy trì áp lực điện áp cực lớn"
+      },
+      {
+        "narration": "Tình trạng căng thẳng này khiến các thành phần hóa học thoái hóa nhanh gấp nhiều lần.",
+        "search": "do hoa 3d pin laptop phan ra sinh nhiet",
+        "caption": "Hóa chất bên trong pin bị thoái hóa nhanh chóng"
+      },
+      {
+        "narration": "Đặc biệt khi máy hoạt động nặng, nhiệt lượng tỏa ra từ bo mạch tiếp tục nung nóng viên pin.",
+        "search": "hoat hinh 3d bo mach chu cpu laptop toa nhiet nong",
+        "caption": "Nhiệt lượng từ CPU kết hợp nướng chín viên pin"
+      },
+      {
+        "narration": "Nhiệt độ trên 40 độ C kết hợp đầy pin sẽ đẩy nhanh tốc độ chai gấp 3 lần bình thường.",
+        "search": "do hoa chuyen dong nhiet ke tang cao canh cuc pin",
+        "caption": "Chai pin nhanh gấp 3 lần do nhiệt độ cao"
+      },
+      {
+        "narration": "Hậu quả là chỉ sau nửa năm, dung lượng tích trữ thực tế có thể bốc hơi mất gần một phần ba.",
+        "search": "bieu do 3d thanh pin sut giam dung luong lien tuc",
+        "caption": "Dung lượng pin có thể bốc hơi 30% sau 6 tháng"
+      },
+      {
+        "narration": "Vậy con số phần trăm nào mới là vùng an toàn tuyệt đối để giữ pin bền bỉ?",
+        "search": "hoat hinh isometric laptop tren ban voi dau cham hoi xoay",
+        "caption": "Đâu mới là mức pin lý tưởng để bảo vệ máy?"
+      },
+      {
+        "narration": "Mức 100% thực chất tạo ra áp lực điện áp cao nhất, khiến cấu trúc tinh thể của pin lithium dần bị rạn nứt.",
+        "search": "hoat hinh 3d pin laptop dien ap cao qua tai",
+        "caption": "Pin 100% liên tục khiến cấu trúc nano bị rạn nứt"
+      },
+      {
+        "narration": "Dải pin vàng lý tưởng nhất để cắm máy dùng cả ngày mà không lo chai là từ 65% đến 80%.",
+        "search": "motion graphics bieu do phan tram pin 80 phan tram",
+        "caption": "Vùng an toàn nhất cho pin là 65% đến 80%"
+      },
+      {
+        "narration": "Giữ máy ở ngưỡng 80% giúp triệt tiêu hiện tượng phồng rộp, kéo dài tuổi thọ cell pin thêm gấp bốn lần.",
+        "search": "3d isometric laptop pin ben bi chong phong",
+        "caption": "Giảm tốc độ lão hóa pin tới 4 lần khi ở mức 80%"
+      },
+      {
+        "narration": "Bạn không cần canh rút sạc bằng tay, chỉ cần bật tính năng Battery Conservation có sẵn trong phần mềm hãng máy.",
+        "search": "hoat hinh 3d bat tinh nang gioi han sac tren man hinh laptop",
+        "caption": "Kích hoạt giới hạn sạc trong phần mềm quản lý laptop"
+      },
+      {
+        "narration": "Khóa sạc ở 80% sẽ biến laptop chạy thẳng nguồn ngoài, cho bạn thoải mái cắm sạc cả năm mà pin vẫn khỏe.",
+        "search": "motion animation laptop cam sac lien tuc bieu tuong pin xanh",
+        "caption": "Khóa sạc 80% giúp cắm cả ngày không lo chai pin"
+      }
+    ],
+    "error": "",
+    "youtube_id": "p62S16i-Me0",
+    "youtube_url": "https://www.youtube.com/watch?v=p62S16i-Me0",
+    "created_at": "2026-10-17T18:47:18.997964+00:00",
+    "updated_at": "2026-10-17T18:51:54.396801+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-17T18:49:47.468979+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "525 chars",
+        "at": "2026-10-17T18:50:01.124565+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-17T18:50:12.049143+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-17T18:50:14.118041+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-17T18:50:28.848599+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-17T18:50:28.912335+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.1s 31237335 bytes",
+        "at": "2026-10-17T18:51:46.008350+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=p62S16i-Me0",
+        "at": "2026-10-17T18:51:50.346357+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabTqWQkVrttFsdaoTnX-ZfVxFYYylYUYi85N2G68giFuUCk5S6z",
+        "at": "2026-10-17T18:51:51.490843+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-17T18:51:52.927433+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-17T18:51:53.226750+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"p62S16i-Me0\\\"\",\n    \"errors\"",
+        "at": "2026-10-17T18:51:54.129854+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-17T18:51:54.193852+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-17T18:51:54.396784+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/31830901/13560781_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34430594/14587295_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39893739/17017616_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18068805/18068805-uhd_1440_2558_24fps.mp4",
+      "https://videos.pexels.com/video-files/16456768/16456768-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39156177/16662422_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561462/16561462-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39600456/16880606_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35585641/15079683_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35424636/15009033_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6337294/6337294-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6342232/6342232-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/39425812/16788568_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "da8931b7c1",
     "kind": "long",
     "channel": "seigh",
