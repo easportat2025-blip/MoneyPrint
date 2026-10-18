@@ -1,5 +1,191 @@
 [
   {
+    "id": "03aebc3882",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Inca King Executed His General for Winning",
+    "idea": {
+      "title": "Why an Inca King Executed His General for Winning",
+      "hook": "In 1471, an Inca general doubled the size of the empire, only to be executed on the spot by his own brother.",
+      "beats": [
+        "General Capac Yupanqui marched beyond Emperor Pachacuti's strict territorial borders, winning massive unexpected victories.",
+        "Instead of celebrating, Emperor Pachacuti feared his brother's exploding fame would spark a rebellion.",
+        "When Capac Yupanqui returned to Cusco expecting royal praise, he was immediately beheaded for disobedience.",
+        "The conquests remained part of Tawantinsuyu, but the hero who won them was erased from royal records."
+      ],
+      "keywords": [
+        "Inca empire",
+        "Pachacuti",
+        "Cusco ancient map",
+        "Inca warriors engraving",
+        "Pre Columbian painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#inca",
+        "#militaryhistory",
+        "#ancientcivilizations"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1471, an Inca general was executed for winning.",
+        "search": "Inca warrior battle 16th century engraving",
+        "caption": "Executed for winning an empire's greatest victory"
+      },
+      {
+        "narration": "Emperor Pachacuti ruled Tawantinsuyu from Cusco, demanding absolute obedience to royal borders.",
+        "search": "Pachacuti Inca emperor portrait painting",
+        "caption": "Pachacuti ruled the Inca Empire with absolute authority"
+      },
+      {
+        "narration": "His brother, General Capac Yupanqui, was dispatched with strict orders never to cross the northern frontier.",
+        "search": "Inca general weapons codex illustration",
+        "caption": "General Capac Yupanqui was forbidden from crossing the frontier"
+      },
+      {
+        "narration": "Seeing vulnerable rival kingdoms ahead, Yupanqui defied imperial orders and launched an unauthorized invasion.",
+        "search": "Andes mountains historical map engraving",
+        "caption": "Yupanqui defied imperial orders and pushed into hostile territory"
+      },
+      {
+        "narration": "His forces crushed rival armies in weeks, effectively doubling the territorial span of the empire.",
+        "search": "Pre Columbian warriors combat ancient drawing",
+        "caption": "The campaign doubled the size of the Inca Empire"
+      },
+      {
+        "narration": "Word reached Cusco, but Pachacuti viewed his brother's soaring fame as an imminent coup.",
+        "search": "Cusco ancient inca walls engraving",
+        "caption": "Pachacuti feared his brother's popularity would trigger a coup"
+      },
+      {
+        "narration": "Capac Yupanqui marched his victorious legions back to the capital, expecting royal honors and triumph.",
+        "search": "Inca procession historical engraving",
+        "caption": "Yupanqui returned to Cusco expecting royal honors"
+      },
+      {
+        "narration": "Before the general could set foot inside the city gates, royal guards seized him under imperial arrest.",
+        "search": "Inca ceremonial bronze axe artifact",
+        "caption": "Imperial guards surrounded the victorious general at the gates"
+      },
+      {
+        "narration": "Emperor Pachacuti charged his victorious brother with high treason, interpreting unauthorized expansion not as loyalty, but as preparation for a military coup.",
+        "search": "Inca Emperor Pachacuti colonial portrait painting",
+        "caption": "Pachacuti treated unsanctioned military victories as an attempted coup."
+      },
+      {
+        "narration": "In 1471, without trial or permitted entry into Cusco, General Capac Yupanqui was summarily executed by imperial decree outside Limatambo.",
+        "search": "Inca execution colonial manuscript engraving",
+        "caption": "Capac Yupanqui was executed on the imperial road in 1471."
+      },
+      {
+        "narration": "Pachacuti incorporated the vast northern lands into Tawantinsuyu, but ordered the general's name stricken from royal quipus so no commander could rival the Sapa Inca.",
+        "search": "Tawantinsuyu Inca empire antique map engraving",
+        "caption": "The empire kept his conquered lands, but erased his name."
+      },
+      {
+        "narration": "In 1471, an Inca general won—and was instantly executed.",
+        "search": "inca emperor pachacuti portrait painting",
+        "caption": "Executed for winning an empire"
+      }
+    ],
+    "error": "",
+    "youtube_id": "N_SnqUK-bww",
+    "youtube_url": "https://www.youtube.com/watch?v=N_SnqUK-bww",
+    "created_at": "2026-10-18T22:00:44.025678+00:00",
+    "updated_at": "2026-10-18T22:02:58.969736+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-18T22:01:07.200999+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "383 chars (cat 179 de vua 55s)",
+        "at": "2026-10-18T22:01:24.209467+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-18T22:01:26.891218+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T22:01:27.757501+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-18T22:02:22.099001+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T22:02:22.136452+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 15261637 bytes",
+        "at": "2026-10-18T22:02:51.310496+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=N_SnqUK-bww",
+        "at": "2026-10-18T22:02:54.153731+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYnzdhAeDz0tV7t6QeXXgeeOlw6iG-c9iiLdOwsRHUk3-oCot_u",
+        "at": "2026-10-18T22:02:55.442555+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T22:02:56.943478+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T22:02:57.240772+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"N_SnqUK-bww\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T22:02:58.813964+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T22:02:58.854099+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T22:02:58.969723+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5030525/pexels-photo-5030525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17926519/pexels-photo-17926519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38244891/pexels-photo-38244891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20694688/pexels-photo-20694688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6069583/pexels-photo-6069583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14558772/pexels-photo-14558772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37216379/pexels-photo-37216379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610594/pexels-photo-20610594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33436290/pexels-photo-33436290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16417371/pexels-photo-16417371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792665/pexels-photo-30792665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16962700/pexels-photo-16962700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "271643712c",
     "kind": "short",
     "channel": "Channel2",
