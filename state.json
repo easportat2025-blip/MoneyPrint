@@ -1,5 +1,629 @@
 [
   {
+    "id": "29913cd920",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Darkest Trial in Vatican History: When a Dead Pope Went to Court",
+    "idea": {
+      "title": "The Darkest Trial in Vatican History: When a Dead Pope Went to Court",
+      "hook": "In 897 AD, Pope Stephen VI dragged his dead predecessor's rotting corpse into a courtroom, dressed it in papal robes, and put it on trial for treason.",
+      "beats": [
+        "Introduction to the ghastly sight in 897 AD: A rotting nine-month-old corpse sitting on a holy throne in Rome.",
+        "The bloody context of 9th-century Europe: The collapse of Charlemagne's empire and the descent of Rome into anarchy.",
+        "The bitter rivalry: Pope Formosus, the House of Spoleto, and the desperate struggle for control over the Holy See.",
+        "The desperate legal loophole: Why Stephen VI needed to put a corpse on trial to invalidate Formosus' past decrees and ordinations.",
+        "Exhuming the dead: Dragging Pope Formosus from his tomb, clothing him in sacred papal vestments, and seating him for judgment.",
+        "The absurd courtroom spectacle: A terrified young deacon assigned to act as the defense attorney for a decaying body.",
+        "The bizarre interrogation: Stephen VI screaming accusations at the silent corpse while the courtroom filled with the stench of decay.",
+        "The swift conviction: Declaring Formosus an illegal pope, stripping his body of holy garments, and severing his three blessing fingers.",
+        "Desecration and the Tiber: Dragging the mutilated remains through the streets of Rome before casting them into the river.",
+        "The supernatural turning point: Fishermen recovering the corpse and local rumors of miraculous healings fanning public fury.",
+        "The Roman uprising: Outraged citizens storming the papal palace to punish Stephen VI for his macabre sacrilege.",
+        "The fatal aftermath: Stephen VI thrown into a dungeon and strangled, plunging the Vatican into the Dark Ages of the Papacy."
+      ],
+      "keywords": [
+        "Cadaver Synod",
+        "Pope Formosus",
+        "Pope Stephen VI",
+        "Vatican Secrets",
+        "Dark Ages History",
+        "Medieval Rome",
+        "Papal Scandals",
+        "Macabre History",
+        "Catholic Church History",
+        "Bizarre Historical Events"
+      ],
+      "tags": [
+        "history documentary",
+        "dark ages",
+        "vatican history",
+        "cadaver synod",
+        "pope formosus",
+        "pope stephen vi",
+        "bizarre history",
+        "medieval history",
+        "history mysteries",
+        "papal scandals"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE DEAD POPE ON TRIAL"
+    },
+    "scenes": [
+      {
+        "narration": "In 897 AD, Rome put a rotting corpse on trial.",
+        "search": "Cadaver Synod historical painting",
+        "caption": "The Cadaver Synod of 897 AD"
+      },
+      {
+        "narration": "Following the collapse of Charlemagne’s empire, 9th-century Rome descended into bloody factional warfare for control over the Holy See.",
+        "search": "9th century Rome map engraving medieval",
+        "caption": "Rome's Descent into Anarchy"
+      },
+      {
+        "narration": "To invalidate all political decrees made by his predecessor Pope Formosus, Pope Stephen VI enacted an unheard-of legal maneuver in January 897.",
+        "search": "Pope Stephen VI manuscript illustration medieval",
+        "caption": "A Desperate Legal Strategy"
+      },
+      {
+        "narration": "Stephen VI ordered the nine-month-old corpse of Formosus exhumed from its tomb, clad in sacred papal vestments, and seated upright upon a throne.",
+        "search": "Pope Formosus exhumation medieval drawing engraving",
+        "caption": "Exhuming the Papal Corpse"
+      },
+      {
+        "narration": "A terrified young deacon was assigned to speak for the silent, decaying body while Stephen VI screamed formal charges of treason and perjury.",
+        "search": "Medieval cathedral interior manuscript artwork",
+        "caption": "A Macabre Courtroom Trial"
+      },
+      {
+        "narration": "Upon declaring the deceased pope guilty, executioners stripped the corpse, severed its three blessing fingers, and cast the remains into the Tiber River.",
+        "search": "Tiber river Rome old engraving map",
+        "caption": "Desecration in the Streets"
+      },
+      {
+        "narration": "When local fishermen retrieved the intact corpse and rumors of miraculous healings spread, public outrage erupted across the city.",
+        "search": "Medieval fishermen river manuscript illustration",
+        "caption": "Public Fury and Miraculous Rumors"
+      },
+      {
+        "narration": "An enraged Roman uprising stormed the papal palace and imprisoned Stephen VI, who was strangled in his cell in August 897.",
+        "search": "Medieval prison dungeon woodcut engraving",
+        "caption": "The Fatal Fate of Stephen VI"
+      },
+      {
+        "narration": "In December 897, Pope Theodore II officially annulled the Cadaver Synod during his brief twenty-day reign and reburied Formosus in St. Peter's Basilica.",
+        "search": "st peters basilica ancient engraving",
+        "caption": "Pope Theodore II annuls the trial and reburies Formosus in 897."
+      },
+      {
+        "narration": "The political feud erupted again in 904 AD when Pope Sergius III seized the Holy See and reversed Theodore's decree, reaffirming Formosus's conviction.",
+        "search": "pope sergius iii engraving portrait",
+        "caption": "Pope Sergius III reinstates the guilty verdict in 904 AD."
+      },
+      {
+        "narration": "Sergius III's ascension marked the beginning of the Saeculum Obscurum, a sixty-year period where Roman aristocrats reduced the papacy to a puppet office.",
+        "search": "medieval rome castle sant angelo oil painting",
+        "caption": "The Roman aristocracy seizes absolute control over the papacy."
+      },
+      {
+        "narration": "The noblewoman Marozia used the legal precedents set by the Cadaver Synod to systematically annul rival clerical appointments and install her allies.",
+        "search": "marozia tusculum illustration",
+        "caption": "Marozia uses the Synod precedents to purge rival clergy."
+      },
+      {
+        "narration": "Because Formosus's ordinations were repeatedly voided and reinstated across decades, thousands of European priests spent years uncertain if their sacraments were valid.",
+        "search": "medieval Catholic bishops manuscript illumination",
+        "caption": "Voided ordinations trigger a crisis across European clergy."
+      },
+      {
+        "narration": "Factional violence crippled Rome, resulting in nine different popes taking and losing power within a single turbulent decade following Stephen's death.",
+        "search": "medieval street battle rome manuscript illumination",
+        "caption": "Nine popes rise and fall in a single decade of chaos."
+      },
+      {
+        "narration": "In 932 AD, Marozia was overthrown by her own son, Alberic II, ending her tyrannical grip on the Holy See after decades of manipulation.",
+        "search": "alberic ii of spoleto coin",
+        "caption": "Alberic II overthrows his mother Marozia in 932 AD."
+      },
+      {
+        "narration": "The trauma of the Cadaver Synod ultimately forced canon lawyers to institute strict prohibitions against putting deceased persons on trial in Roman Catholic law.",
+        "search": "medieval canon law manuscript illuminated",
+        "caption": "Catholic canon law permanently bans trials of deceased persons."
+      },
+      {
+        "narration": "In December 897 AD, Pope Theodore II officially annulled the Cadaver Synod and ordered Formosus's mutilated body reburied with full honors in Saint Peter's Basilica.",
+        "search": "pope theodore ii vatican manuscript engraving",
+        "caption": "Pope Theodore II rehabilitates Formosus in 897 AD."
+      },
+      {
+        "narration": "Pope John IX convened twin synods in Rome and Ravenna in 898 AD, explicitly outlawing trials of deceased persons and burning the original court transcripts.",
+        "search": "council of ravenna medieval manuscript illumination",
+        "caption": "Canon law bans posthumous trials in 898 AD."
+      },
+      {
+        "narration": "Despite the ban, Sergius III seized the papacy by force in 904 AD with the military backing of the powerful Roman warlord Theophylact.",
+        "search": "pope sergius iii portrait painting",
+        "caption": "Sergius III seizes power by force in 904 AD."
+      },
+      {
+        "narration": "Re-igniting the feud, Sergius III overturned John IX's rulings, demanded that priests ordained by Formosus be re-ordained, and praised the gruesome trial.",
+        "search": "medieval papal decree manuscript illumination",
+        "caption": "Sergius III reaffirms the macabre corpse trial."
+      },
+      {
+        "narration": "At the core of this theological madness was a bitter imperial struggle over who held the right to be crowned Holy Roman Emperor in Rome.",
+        "search": "holy roman emperor coronation oil painting",
+        "caption": "Imperial power struggles drive the Roman anarchy."
+      },
+      {
+        "narration": "The House of Theophylact turned the Vatican into a hereditary dynasty, appointing popes at will for nearly six turbulent decades.",
+        "search": "medieval roman fortress engraving",
+        "caption": "Roman aristocrats convert the papacy into a puppet state."
+      },
+      {
+        "narration": "Legend persisted among medieval monks that when Formosus's body was returned to Saint Peter's, the icons of saints bowed in reverence to the corpse.",
+        "search": "saint peters basilica interior old engraving",
+        "caption": "Medieval legends claim miraculous signs inside Saint Peter's."
+      },
+      {
+        "narration": "The Cadaver Synod remains the most surreal legal horror in Catholic history, demonstrating how political mania once brought the Holy See to absolute madness.",
+        "search": "cadaver synod pope formosus trial oil painting",
+        "caption": "The Cadaver Synod remains history's most bizarre trial."
+      },
+      {
+        "narration": "In 897 AD, Pope Stephen VI put a dead pope on trial for treason.",
+        "search": "cadaver synod pope stephen vi historic painting",
+        "caption": "In 897 AD, Rome put a dead pope on trial."
+      },
+      {
+        "narration": "Following the collapse of Charlemagne’s empire, rival Italian dynasties fought savagely for control over the Roman papacy.",
+        "search": "9th century charlemagne empire map engraving",
+        "caption": "Political chaos engulfed 9th-century Europe after Charlemagne's fall."
+      },
+      {
+        "narration": "To nullify Pope Formosus’s past acts, Stephen VI exhumed his rival's nine-month-old corpse from Saint Peter's Basilica.",
+        "search": "pope formosus portrait painting",
+        "caption": "Stephen VI ordered the exhumation of Pope Formosus."
+      },
+      {
+        "narration": "Dressed in sacred papal robes, the rotting corpse sat on a throne while a terrified deacon acted as its defense lawyer.",
+        "search": "cadaver synod trial illuminated manuscript",
+        "caption": "A young deacon defended the rotting corpse in court."
+      },
+      {
+        "narration": "After screaming questions at the silent corpse, Stephen VI nullified Formosus's papacy and ordered his blessing fingers severed.",
+        "search": "pope stephen vi cadaver trial historic engraving",
+        "caption": "Formosus was convicted, stripped, and mutilated post-mortem."
+      },
+      {
+        "narration": "Executioners dragged the corpse through Rome and threw it into the Tiber River, where local fishermen recovered it.",
+        "search": "tiber river rome historical oil painting",
+        "caption": "The mutilated body was thrown into the Tiber River."
+      },
+      {
+        "narration": "Outraged by the sacrilege, the Roman populace staged a violent uprising and stormed the papal palace.",
+        "search": "medieval uprising castle storming woodcut",
+        "caption": "Outraged Romans revolted and imprisoned Pope Stephen VI."
+      },
+      {
+        "narration": "In August 897 AD, Stephen VI was strangled in prison, marking the start of the papacy's darkest era.",
+        "search": "pope stephen vi portrait engraving",
+        "caption": "Stephen VI was strangled, triggering the papal dark ages."
+      },
+      {
+        "narration": "The death of Pope Stephen VI in August 897 AD failed to restore stability to Rome. Instead, the sudden void in leadership plunged the Catholic Church into complete administrative collapse.",
+        "search": "medieval rome architecture 9th century oil painting",
+        "caption": "The death of Stephen VI created immediate chaos in Rome."
+      },
+      {
+        "narration": "Pope Romanus succeeded Stephen in late 897 AD, but was deposed after just four months as rival factions fought for control of the Holy See.",
+        "search": "Pope Romanus medieval portrait painting",
+        "caption": "Pope Romanus ruled for only four months in 897 AD."
+      },
+      {
+        "narration": "In December 897 AD, Pope Theodore II held the papacy for twenty days and officially retrieved Formosus' body for reburial at Saint Peter's Basilica.",
+        "search": "saint peters basilica old church interior engraving",
+        "caption": "Pope Theodore II ordered Formosus reburied at St. Peter's Basilica."
+      },
+      {
+        "narration": "Theodore II formally declared the trial invalid and reinstated clergy ordained by Formosus, but his sudden death weeks later reignited political violence.",
+        "search": "medieval pope decree papal bull manuscript illumination",
+        "caption": "Theodore II annulled the Cadaver Synod before his sudden death."
+      },
+      {
+        "narration": "To prevent future atrocities, Pope John IX convened synods in Rome and Ravenna in 898 AD, explicitly outlawing trials of deceased individuals under canon law.",
+        "search": "Pope John IX synod council medieval engraving",
+        "caption": "Pope John IX outlawed trials of deceased individuals in 898 AD."
+      },
+      {
+        "narration": "The legal chaos spanned Western Europe, as bishops ordained by Formosus found their authority questioned by local secular lords.",
+        "search": "medieval European bishops council manuscript detail",
+        "caption": "Invalidated ordinations caused widespread legal chaos across Europe."
+      },
+      {
+        "narration": "Sensing imperial weakness, the Roman aristocrat Theophylact, Count of Tusculum, seized control of municipal administration and dominated papal appointments.",
+        "search": "house of theophylact medieval rome aristocrat portrait painting",
+        "caption": "The House of Theophylact gained absolute control over the papacy."
+      },
+      {
+        "narration": "The political feud escalated further when rival faction leader Sergius III laid claim to the throne, threatening to reverse John IX's decrees.",
+        "search": "Pope Sergius III medieval manuscript illustration",
+        "caption": "Sergius III claimed the papal throne and threatened renewal of conflict."
+      },
+      {
+        "narration": "To invalidate all consecrations performed by his rival, Pope Stephen VI invoked an obscure canonical rule prohibiting bishops from transferring between dioceses.",
+        "search": "medieval canon law manuscript illustration",
+        "caption": "Stephen VI cited canon law to void Formosus's acts."
+      },
+      {
+        "narration": "In January 897, papal grave-diggers entered St. Peter's Basilica to unearth Formosus, nine months after his burial.",
+        "search": "saint peters basilica tomb medieval engraving",
+        "caption": "Formosus was exhumed nine months after his death."
+      },
+      {
+        "narration": "The decaying corpse was clad in sacred vestments and seated upon a throne inside the Basilica of Saint John Lateran.",
+        "search": "basilica of saint john lateran interior old engraving",
+        "caption": "The corpse was dressed in vestments on the throne."
+      },
+      {
+        "narration": "A trembling young deacon was assigned as defense counsel, standing beside the rotting remains while the hall filled with the stench of death.",
+        "search": "medieval synod trial court engraving",
+        "caption": "A terrified deacon was assigned to defend the corpse."
+      },
+      {
+        "narration": "Pope Stephen VI stood over the silent body, shouting formal accusations of perjury and illegal seizure of the Roman papacy.",
+        "search": "Pope Stephen VI portrait engraving shouted",
+        "caption": "Stephen VI shouted accusations at the silent body."
+      },
+      {
+        "narration": "The assembly formally rendered a guilty verdict, stripping Formosus of his papal attire and revoking all holy orders he had granted.",
+        "search": "cadaver synod pope formosus trial engraving",
+        "caption": "The synod invalidated every ordination Formosus performed."
+      },
+      {
+        "narration": "Soldiers severed the three fingers of Formosus's right hand used to perform sacred blessings, systematically defiling his memory.",
+        "search": "severed hand medieval manuscript illumination",
+        "caption": "Executioners cut off the three blessing fingers."
+      },
+      {
+        "narration": "After being dragged through the public squares of Rome, the desecrated corpse was thrown directly into the Tiber River.",
+        "search": "tiber river rome bridge historical engraving",
+        "caption": "Formosus's body was dumped into the Tiber River."
+      },
+      {
+        "narration": "In early 897 AD, local fishermen pulled the submerged, mutilated corpse of Pope Formosus from the waters of the Tiber River.",
+        "search": "medieval fishermen drawing nets river tiber rome manuscript illumination",
+        "caption": "Fishermen retrieve the floating body from the Tiber River in 897 AD."
+      },
+      {
+        "narration": "Rumors quickly swept through the city that touching Formosus's remains produced miraculous healings, turning public sympathy fiercely against Pope Stephen VI.",
+        "search": "pope formosus body miracle healing medieval oil painting",
+        "caption": "Reports of miraculous healings fan public fury across Rome."
+      },
+      {
+        "narration": "When a sudden tremor damaged the Basilica of Saint John Lateran shortly after the trial, superstitious Romans viewed it as divine vengeance.",
+        "search": "saint john lateran basilica earthquake damage historic engraving",
+        "caption": "An earthquake damaging the Lateran Basilica is seen as divine wrath."
+      },
+      {
+        "narration": "In August 897 AD, an enraged mob of Roman citizens and political rivals stormed the papal palace to overthrow Pope Stephen VI.",
+        "search": "medieval riot storming papal palace Rome manuscript painting",
+        "caption": "An outraged Roman mob storms the papal palace in August 897 AD."
+      },
+      {
+        "narration": "Stripped of his sacred vestments, Pope Stephen VI was dragged from his throne and locked inside a dark dungeon.",
+        "search": "pope stephen vi imprisoned dungeon cell historical illustration",
+        "caption": "Pope Stephen VI is imprisoned following the popular revolt."
+      },
+      {
+        "narration": "Just months after presiding over the macabre trial, Pope Stephen VI was strangled to death in his prison cell.",
+        "search": "medieval dungeon execution strangulation historical engraving",
+        "caption": "Pope Stephen VI is strangled to death in his prison cell."
+      },
+      {
+        "narration": "Pope Theodore II subsequently annulled the trial's decrees and reburied Formosus's body with full papal honors inside Saint Peter's Basilica.",
+        "search": "pope formosus funeral old saint peters basilica medieval painting",
+        "caption": "Pope Formosus is reburied with full honors inside Saint Peter's."
+      },
+      {
+        "narration": "The horrifying specter of the Cadaver Synod inaugurated the Saeculum Obscurum, a dark century where popes were routinely deposed, imprisoned, and murdered.",
+        "search": "saeculum obscurum dark ages papacy medieval chronicle manuscript",
+        "caption": "The Cadaver Synod plunged the papacy into a century of chaos."
+      },
+      {
+        "narration": "Did a corpse put on trial destroy papal authority forever? In 897 AD, a dead pope was dragged into court, shattering the Vatican's standing.",
+        "search": "cadaver synod pope formosus trial 19th century oil painting",
+        "caption": "The macabre trial of Pope Formosus in 897 AD"
+      },
+      {
+        "narration": "Following the death of Pope Formosus in 896 AD, the rival House of Spoleto seized power in Rome and demanded political vengeance.",
+        "search": "medieval rome map engraving 16th century",
+        "caption": "Factional warfare in 9th century medieval Rome"
+      },
+      {
+        "narration": "Pope Stephen VI ordered Formosus exhumed nine months post-mortem to invalidate his past episcopal appointments on legal technicalities.",
+        "search": "pope stephen vi portrait engraving orchestrated",
+        "caption": "Pope Stephen VI orchestrated the posthumous trial"
+      },
+      {
+        "narration": "Dressed in full papal vestments, the rotting corpse sat on a throne while a reluctant deacon stood beside it to deliver defense testimony.",
+        "search": "pope formosus dead body illuminated manuscript illustration",
+        "caption": "Formosus placed on trial in sacred robes"
+      },
+      {
+        "narration": "Found guilty of canon law violations, Formosus was stripped of his robes and mutilated when officers severed his three blessing fingers.",
+        "search": "cadaver synod desecration 19th century historic engraving",
+        "caption": "The mutilation and condemnation of Formosus"
+      },
+      {
+        "narration": "Throwing the corpse into the Tiber River incited violent riots among Romans, leading to the imprisonment and strangulation of Pope Stephen VI in late 897 AD.",
+        "search": "tiber river rome 18th century etching view",
+        "caption": "Riots following the desecration of the corpse"
+      },
+      {
+        "narration": "Successive popes over the next decade repeatedly overturned and reinstated the verdict, plunging the Church into the chaotic period known as the Saeculum Obscurum.",
+        "search": "saint peters basilica old reconstruction drawing engraving",
+        "caption": "Decades of papal instability and chaos followed"
+      },
+      {
+        "narration": "The scandal ultimately compelled the Catholic Church to strictly forbid posthumous trials, ensuring the Cadaver Synod remained an unrepeatable stain on church history.",
+        "search": "vatican archives historical manuscript parchment photo",
+        "caption": "Posthumous trials were permanently banned by church law"
+      },
+      {
+        "narration": "Can a dead man be convicted of treason? In 897 AD, the Vatican conducted history's most macabre trial against a rotting papal corpse.",
+        "search": "cadaver synod pope formosus trial engraving stand",
+        "caption": "Can a dead pope stand trial for treason?"
+      },
+      {
+        "narration": "Following the collapse of Charlemagne's empire in the ninth century, competing Italian noble factions turned the Papacy into a deadly political prize.",
+        "search": "charlemagne empire map 9th century illustration",
+        "caption": "Ninth-century Rome plunged into political anarchy and conflict."
+      },
+      {
+        "narration": "Pope Stephen VI, aligned with the powerful House of Spoleto, sought to annul all official acts of his deceased predecessor, Pope Formosus.",
+        "search": "pope stephen vi portrait engraving targeted",
+        "caption": "Pope Stephen VI targeted his deceased rival Pope Formosus."
+      },
+      {
+        "narration": "Nine months after his burial, Formosus was exhumed, clad in sacred papal vestments, and forced to sit before an appointed deacon defense council.",
+        "search": "pope formosus exhumed cadaver synod manuscript painting",
+        "caption": "Formosus was exhumed and placed on the papal throne."
+      },
+      {
+        "narration": "After screaming accusations at the silent corpse, Stephen VI pronounced Formosus guilty, stripped his vestments, and severed his three blessing fingers.",
+        "search": "pope formosus mutilated fingers historic illustration",
+        "caption": "Formosus was convicted, stripped, and physically mutilated."
+      },
+      {
+        "narration": "The mutilated remains were dragged through the streets of Rome and cast into the Tiber River, sparking public outrage across the city.",
+        "search": "tiber river rome medieval engraving",
+        "caption": "The body was dragged through Rome and thrown away."
+      },
+      {
+        "narration": "Rumors of miraculous healings near the submerged body incited a violent popular uprising that overthrew Stephen VI, who was imprisoned and strangled in his cell.",
+        "search": "castel sant angelo rome dungeon engraving",
+        "caption": "Public fury led to the imprisonment of Stephen VI."
+      },
+      {
+        "narration": "The horrific spectacle ushered in decades of papal instability, ultimately compelling the Catholic Church to permanently ban all posthumous trials.",
+        "search": "vatican archives historical document photograph",
+        "caption": "The Catholic Church banned all posthumous trials forever."
+      },
+      {
+        "narration": "In 897 AD, the Vatican tried a rotting corpse.",
+        "search": "Cadaver Synod Jean Paul Laurens oil painting",
+        "caption": "The Cadaver Synod of 897 AD"
+      },
+      {
+        "narration": "Following the collapse of Charlemagne's empire, ninth-century Rome descended into violent factional warfare between rival noble houses competing for papal authority.",
+        "search": "ninth century Rome map engraving",
+        "caption": "Chaos in Ninth Century Rome"
+      },
+      {
+        "narration": "Driven by political vengeance, Pope Stephen VI ordered the exhumation of his predecessor, Pope Formosus, nine months after his death.",
+        "search": "Pope Stephen VI portrait engraving exhumes",
+        "caption": "Stephen VI Exhumes Formosus"
+      },
+      {
+        "narration": "Vesting the decaying corpse in sacred papal robes at the Lateran Basilica, Stephen VI assigned a trembling young deacon to defend the silent body.",
+        "search": "Lateran Basilica Rome interior historic oil painting",
+        "caption": "The Ghastly Courtroom Spectacle"
+      },
+      {
+        "narration": "After convicting the corpse of illegal usurpation, guards severed Formosus's three blessing fingers, dragged his body through Rome, and threw it into the Tiber River.",
+        "search": "Tiber river Rome historic engraving",
+        "caption": "Mutilated and Thrown into Tiber"
+      },
+      {
+        "narration": "When local fishermen pulled the preserved remains from the water, rumors of miraculous healings sparked intense public fury against Stephen VI.",
+        "search": "Fishermen on Tiber river historic oil painting",
+        "caption": "Rumors of Miracles Spark Anger"
+      },
+      {
+        "narration": "A violent popular uprising breached the papal palace, resulting in Stephen VI being stripped of his authority, imprisoned, and strangled in his cell.",
+        "search": "Medieval castle dungeon historic engraving",
+        "caption": "Stephen VI Imprisoned and Strangled"
+      },
+      {
+        "narration": "This grotesque spectacle ruined papal credibility for decades, ultimately forcing the Catholic Church to permanently ban all posthumous criminal trials.",
+        "search": "Vatican archives historic illustration",
+        "caption": "Posthumous Trials Permanently Banned"
+      },
+      {
+        "narration": "In 897, Rome put a dead pope on trial.",
+        "search": "cadaver synod medieval engraving print",
+        "caption": "In 897 AD, a dead Pope stood trial in Rome."
+      }
+    ],
+    "error": "",
+    "youtube_id": "L0IUfFoCWOo",
+    "youtube_url": "https://www.youtube.com/watch?v=L0IUfFoCWOo",
+    "created_at": "2026-10-18T00:08:22.490983+00:00",
+    "updated_at": "2026-10-18T00:33:22.281722+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-18T00:15:51.174759+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3795 chars",
+        "at": "2026-10-18T00:16:45.547687+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "228.7s en-US-GuyNeural 34 cau",
+        "at": "2026-10-18T00:16:54.774247+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T00:17:06.284909+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-18T00:27:01.319285+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T00:27:01.383105+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 228.8s 149202416 bytes",
+        "at": "2026-10-18T00:33:04.439255+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-10-18T00:33:04.565460+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=L0IUfFoCWOo",
+        "at": "2026-10-18T00:33:17.323061+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZLiZI672WNQY1nnQX-4jB6IAlpxlaTISPxgVqSvU1jpZKr0z19",
+        "at": "2026-10-18T00:33:18.630735+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T00:33:19.981207+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T00:33:20.378773+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"L0IUfFoCWOo\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T00:33:22.004011+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T00:33:22.068351+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T00:33:22.281706+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11110912/pexels-photo-11110912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38917918/pexels-photo-38917918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934432/pexels-photo-38934432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/62645/pexels-photo-62645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7535417/pexels-photo-7535417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14115984/pexels-photo-14115984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11214721/pexels-photo-11214721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28379808/pexels-photo-28379808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29718572/pexels-photo-29718572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31077443/pexels-photo-31077443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15226535/pexels-photo-15226535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31357704/pexels-photo-31357704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32027082/pexels-photo-32027082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7584354/pexels-photo-7584354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38098774/pexels-photo-38098774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14766051/pexels-photo-14766051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36850637/pexels-photo-36850637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8957701/pexels-photo-8957701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708940/pexels-photo-35708940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37957441/pexels-photo-37957441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13700759/pexels-photo-13700759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3876951/pexels-photo-3876951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19913648/pexels-photo-19913648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828418/pexels-photo-8828418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10618845/pexels-photo-10618845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20668416/pexels-photo-20668416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36132807/pexels-photo-36132807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2416463/pexels-photo-2416463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22940193/pexels-photo-22940193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7051464/pexels-photo-7051464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7380073/pexels-photo-7380073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27866891/pexels-photo-27866891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7978043/pexels-photo-7978043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10528693/pexels-photo-10528693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37977711/pexels-photo-37977711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728527/pexels-photo-6728527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39321045/pexels-photo-39321045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33858009/pexels-photo-33858009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7572435/pexels-photo-7572435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13078562/pexels-photo-13078562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29809049/pexels-photo-29809049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29220957/pexels-photo-29220957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35474203/pexels-photo-35474203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30719635/pexels-photo-30719635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33168230/pexels-photo-33168230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36790451/pexels-photo-36790451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38109646/pexels-photo-38109646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29848867/pexels-photo-29848867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20010440/pexels-photo-20010440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7826034/pexels-photo-7826034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17914636/pexels-photo-17914636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19994994/pexels-photo-19994994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/320268/pexels-photo-320268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14300522/pexels-photo-14300522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3782173/pexels-photo-3782173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10970258/pexels-photo-10970258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934902/pexels-photo-38934902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32147978/pexels-photo-32147978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38151688/pexels-photo-38151688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30629834/pexels-photo-30629834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/161366/book-book-pages-book-cover-font-161366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12562124/pexels-photo-12562124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13651125/pexels-photo-13651125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25294110/pexels-photo-25294110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35689941/pexels-photo-35689941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31741852/pexels-photo-31741852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38151698/pexels-photo-38151698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11328523/pexels-photo-11328523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8872512/pexels-photo-8872512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739364/pexels-photo-5739364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063859/pexels-photo-27063859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31741851/pexels-photo-31741851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39196169/pexels-photo-39196169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10599776/pexels-photo-10599776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6688573/pexels-photo-6688573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28959925/pexels-photo-28959925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3037096/pexels-photo-3037096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37774517/pexels-photo-37774517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6a02f96712",
     "kind": "short",
     "channel": "Channel2",
