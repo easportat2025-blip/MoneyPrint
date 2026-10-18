@@ -1,5 +1,191 @@
 [
   {
+    "id": "271643712c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Conqueror Spared a Temple and Regretted It",
+    "idea": {
+      "title": "Why Rome's Conqueror Spared a Temple and Regretted It",
+      "hook": "When Alaric sacked Rome in 410 AD, he spared one holy basilica—a fatal mistake that cost his life months later.",
+      "beats": [
+        "Visigoth king Alaric breached Rome's gates after months of ruthless siege, ordering his soldiers to plunder everything.",
+        "Terrified of divine wrath, he commanded that the Basilica of St. Peter remain completely untouched, offering safe refuge to Romans.",
+        "Thousands survived behind church walls, secretly smuggling weapons and food while his troops grew weak from local plague.",
+        "Leaving the city empty-handed and sick, Alaric died suddenly within months, his secret army-burial hidden beneath a diverted river."
+      ],
+      "keywords": [
+        "alaric visigoths rome sack 410",
+        "st peter basilica ancient engraving",
+        "visigoth soldiers painting",
+        "ancient rome burning illustration",
+        "sack of rome vintage map"
+      ],
+      "tags": [
+        "#HistoryFacts",
+        "#AncientRome",
+        "#DarkAges",
+        "#MilitaryHistory",
+        "#HistoricalFigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's fiercest conqueror spared one church—and died for it.",
+        "search": "alaric sack of rome 410 oil painting",
+        "caption": "Rome's conqueror spared one church—and died for it."
+      },
+      {
+        "narration": "On August 24, 410 AD, Visigoth king Alaric breached Rome's Salarian Gate, shattering eight centuries of imperial defense.",
+        "search": "porta salaria rome ancient walls engraving",
+        "caption": "August 24, 410 AD: Rome falls after 800 years."
+      },
+      {
+        "narration": "Alaric unleashed his starving warriors upon the city, ordering them to strip the palaces of their legendary gold.",
+        "search": "alaric visigoth king marble bust statue",
+        "caption": "King Alaric ordered the total looting of Rome's palaces."
+      },
+      {
+        "narration": "Yet Alaric was a baptized Arian Christian who deeply dreaded the vengeance of the Christian saints.",
+        "search": "ancient saint peter apostle icon painting",
+        "caption": "A baptized Christian, Alaric feared divine retribution."
+      },
+      {
+        "narration": "He issued a strict decree: Old Saint Peter's Basilica must not be touched, and anyone seeking refuge within was safe.",
+        "search": "old st peters basilica rome reconstruction engraving",
+        "caption": "Saint Peter's Basilica was declared an untouched sanctuary."
+      },
+      {
+        "narration": "Thousands of desperate Romans surged past the bronze doors, sheltering alongside their most valuable hidden provisions.",
+        "search": "ancient roman citizens fleeing engraving",
+        "caption": "Thousands of Romans sheltered behind the holy church doors."
+      },
+      {
+        "narration": "While the refugees held out unharmed, Alaric's troops found little grain left in the pillaged city streets.",
+        "search": "sack of rome fire smoke vintage illustration",
+        "caption": "Visigoth forces quickly ran out of food inside Rome."
+      },
+      {
+        "narration": "As sweltering summer heat set in, a devastating camp fever began spreading through the conqueror's army.",
+        "search": "sick medieval soldiers camp manuscript illustration",
+        "caption": "A deadly fever began devastating the Visigoth ranks."
+      },
+      {
+        "narration": "After just three days inside the ravaged capital, starvation forced Alaric to withdraw his sickened army south toward Calabria.",
+        "search": "visigoths leaving rome oil painting",
+        "caption": "Starvation forced Alaric to abandon Rome after only three days."
+      },
+      {
+        "narration": "At the Strait of Messina, violent Mediterranean storms wrecked Alaric's makeshift fleet, trapping his plague-stricken legions on the mainland.",
+        "search": "shipwreck storm ancient fleet oil painting",
+        "caption": "Violent storms smashed his transport fleet, stranding his infected army."
+      },
+      {
+        "narration": "In late 410 AD, Alaric succumbed to fever at thirty-nine, buried secretly beneath the diverted Busento River alongside Rome's stolen gold.",
+        "search": "alaric burial busento river engraving",
+        "caption": "Alaric died months after the sack, buried beneath a diverted riverbed."
+      },
+      {
+        "narration": "Sparing one Roman church destroyed history's most ruthless barbarian king.",
+        "search": "Alaric sacks Rome 410 oil painting",
+        "caption": "Rome's conqueror spared one church—and paid with his life."
+      }
+    ],
+    "error": "",
+    "youtube_id": "O8_wup-NNBQ",
+    "youtube_url": "https://www.youtube.com/watch?v=O8_wup-NNBQ",
+    "created_at": "2026-10-18T19:33:17.780434+00:00",
+    "updated_at": "2026-10-18T19:35:32.392461+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-18T19:33:39.758404+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "408 chars (cat 205 de vua 55s)",
+        "at": "2026-10-18T19:33:53.378577+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 6 cau",
+        "at": "2026-10-18T19:33:55.490564+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T19:33:57.080681+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-18T19:34:33.077691+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T19:34:33.146238+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 15668225 bytes",
+        "at": "2026-10-18T19:35:25.658114+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=O8_wup-NNBQ",
+        "at": "2026-10-18T19:35:28.197343+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabvVRYuEtrpK-dAAonnvs_CKJp-ft5SVAiNQ9m6ijpvN709hcpp",
+        "at": "2026-10-18T19:35:29.204726+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T19:35:31.014698+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T19:35:31.278001+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"O8_wup-NNBQ\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T19:35:32.114812+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T19:35:32.184065+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T19:35:32.392444+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20358738/pexels-photo-20358738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36675659/pexels-photo-36675659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18043797/pexels-photo-18043797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10619920/pexels-photo-10619920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7464776/pexels-photo-7464776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36394941/pexels-photo-36394941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5095936/pexels-photo-5095936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9270579/pexels-photo-9270579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6108929/pexels-photo-6108929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19481488/pexels-photo-19481488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416953/pexels-photo-18416953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16615236/pexels-photo-16615236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "36b1b66480",
     "kind": "short",
     "channel": "Channel3",
