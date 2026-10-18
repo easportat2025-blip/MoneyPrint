@@ -1,5 +1,191 @@
 [
   {
+    "id": "934158ddbf",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Clever Wives Who Outsmarted a Tyrant King",
+    "idea": {
+      "title": "The Clever Wives Who Outsmarted a Tyrant King",
+      "hook": "King Conrad III gave starving women one hour to carry their most precious belongings out of a doomed castle, never expecting what they walked out with.",
+      "beats": [
+        "In 1140, King Conrad III besieged the fortress of Weinsberg and doomed every male defender to death.",
+        "Hoping to show royal grace, he allowed the women to leave with whatever they could carry on their shoulders.",
+        "Instead of gold or silk, the women emerged carrying their doomed husbands on their backs.",
+        "Furious nobles demanded their immediate execution, but Conrad kept his word and spared the entire city."
+      ],
+      "keywords": [
+        "Conrad III king painting",
+        "medieval siege castle engraving",
+        "12th century knight illustration",
+        "medieval town ruins portrait",
+        "german empire historical map"
+      ],
+      "tags": [
+        "#history",
+        "#medievalhistory",
+        "#ancientempires",
+        "#warhistory",
+        "#royalty"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did starving women trick a king into mercy?",
+        "search": "medieval siege castle engraving",
+        "caption": "How starving women tricked a tyrant king."
+      },
+      {
+        "narration": "In December 1140, hundreds of defeat-stricken soldiers faced immediate mass execution.",
+        "search": "12th century knight illustration",
+        "caption": "In 1140, hundreds faced immediate execution."
+      },
+      {
+        "narration": "King Conrad III of the Holy Roman Empire besieged Castle Weinsberg to destroy his political rivals.",
+        "search": "Conrad III king painting",
+        "caption": "King Conrad III besieged Castle Weinsberg."
+      },
+      {
+        "narration": "After months of relentless blockade, the starving fortress was forced to surrender unconditionally.",
+        "search": "german empire historical map",
+        "caption": "Starving defenders surrendered Castle Weinsberg."
+      },
+      {
+        "narration": "Conrad condemned every male defender to death, but offered the women one strict concession.",
+        "search": "medieval manuscript execution painting",
+        "caption": "Conrad doomed all male defenders to death."
+      },
+      {
+        "narration": "The king decreed that the wives could leave unharmed with whatever they carried on their shoulders.",
+        "search": "12th century medieval town ruins portrait",
+        "caption": "Wives could leave carrying whatever fit on their shoulders."
+      },
+      {
+        "narration": "Expecting the women to carry away gold and silk, royal soldiers opened the heavy gates.",
+        "search": "medieval castle gate engraving",
+        "caption": "Guard expected women to carry gold and jewels."
+      },
+      {
+        "narration": "Instead of treasure, the women emerged carrying their doomed husbands on their backs.",
+        "search": "medieval castle fortress oil painting",
+        "caption": "Women emerged carrying their husbands on their backs."
+      },
+      {
+        "narration": "Outraged by the clever trickery, Conrad's commanders demanded the immediate execution of both the women and their husbands.",
+        "search": "medieval knight commanders army engraving",
+        "caption": "Outraged nobles demanded the execution of the wives and defenders."
+      },
+      {
+        "narration": "King Conrad III refused, ruling that a monarch's royal word could not be broken, and spared every defender on the spot.",
+        "search": "king conrad iii german empire oil painting",
+        "caption": "Conrad III refused to break his word and spared every man."
+      },
+      {
+        "narration": "The siege of 1140 ended peacefully, leaving Castle Weinsberg forever known as Weibertreu, the fortress of wives' loyalty.",
+        "search": "weinsberg castle ruins portrait photograph",
+        "caption": "Castle Weinsberg became known forever as Weibertreu, the wives' loyalty."
+      },
+      {
+        "narration": "A king's royal mercy accidentally spared his worst enemies.",
+        "search": "medieval castle ruin oil painting",
+        "caption": "How a royal mercy backfired completely"
+      }
+    ],
+    "error": "",
+    "youtube_id": "ajznr1AYmoo",
+    "youtube_url": "https://www.youtube.com/watch?v=ajznr1AYmoo",
+    "created_at": "2026-10-18T00:35:41.379358+00:00",
+    "updated_at": "2026-10-18T00:41:50.089513+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-18T00:37:24.470286+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "367 chars (cat 178 de vua 55s)",
+        "at": "2026-10-18T00:39:15.242039+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-18T00:39:18.018191+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T00:39:19.385760+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-18T00:40:55.432288+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T00:40:55.493791+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.0s 16746403 bytes",
+        "at": "2026-10-18T00:41:42.673949+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=ajznr1AYmoo",
+        "at": "2026-10-18T00:41:46.237315+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYzPFYh4RH8qZwr3iKr9NVzG7tl6cGWySmoX0mqHX8XC6TN_tY_",
+        "at": "2026-10-18T00:41:47.292113+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T00:41:48.683266+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T00:41:49.015109+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"ajznr1AYmoo\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T00:41:49.836546+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T00:41:49.899642+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T00:41:50.089498+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30117465/pexels-photo-30117465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33683459/pexels-photo-33683459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11827526/pexels-photo-11827526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792662/pexels-photo-30792662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29182967/pexels-photo-29182967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40328147/pexels-photo-40328147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14146729/pexels-photo-14146729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30351489/pexels-photo-30351489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37620863/pexels-photo-37620863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15150194/pexels-photo-15150194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18444842/pexels-photo-18444842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18700188/pexels-photo-18700188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "29913cd920",
     "kind": "long",
     "channel": "seigh",
