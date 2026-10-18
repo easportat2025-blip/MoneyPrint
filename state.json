@@ -1,5 +1,191 @@
 [
   {
+    "id": "ac8656338c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The King Who Caged His Advisor for 11 Years",
+    "idea": {
+      "title": "The King Who Caged His Advisor for 11 Years",
+      "hook": "When King Louis XI discovered Cardinal Jean Balue betrayed France, he refused to execute him—building an iron cage where the priest lived in dark isolation for eleven years.",
+      "beats": [
+        "Cardinal Balue secretly leaked royal military secrets to the Duke of Burgundy.",
+        "King Louis intercepted the treasonous letters but spared the cardinal from execution.",
+        "Instead, he designed a cramped iron cage suspended inside a damp fortress dungeon.",
+        "Balue remained trapped inside for 11 years until Papal pressure finally forced his release."
+      ],
+      "keywords": [
+        "King Louis XI portrait",
+        "medieval iron cage print",
+        "cardinal historical engraving",
+        "medieval fortress dungeon interior",
+        "vintage historical map France"
+      ],
+      "tags": [
+        "#history",
+        "#medieval",
+        "#monarchy",
+        "#historyshorts",
+        "#historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a king cage his advisor for eleven years?",
+        "search": "King Louis XI portrait painting",
+        "caption": "Why did a king cage his advisor for eleven years?"
+      },
+      {
+        "narration": "In 1469, Cardinal Jean Balue served as the chief political adviser to King Louis XI of France.",
+        "search": "Cardinal Jean Balue historical engraving",
+        "caption": "In 1469, Cardinal Balue advised King Louis XI."
+      },
+      {
+        "narration": "France faced collapse as Charles the Bold, Duke of Burgundy, plotted to dismantle royal power.",
+        "search": "Charles the Bold Duke of Burgundy oil painting",
+        "caption": "Burgundy plotted to dismantle the French royal crown."
+      },
+      {
+        "narration": "Balue secretly authored treasonous letters, passing confidential troop deployments to the enemy.",
+        "search": "vintage historical map France engraving",
+        "caption": "Balue leaked state military secrets to rival forces."
+      },
+      {
+        "narration": "In April 1469, King Louis XI intercepted the coded letters, exposing the priest's treason.",
+        "search": "medieval royal letter manuscript illumination",
+        "caption": "Louis XI intercepted coded letters proving high treason."
+      },
+      {
+        "narration": "Because canon law prohibited executing a cardinal, Louis devised an agonizing alternative sentence.",
+        "search": "medieval ecclesiastical court cardinal portrait painting",
+        "caption": "Church law blocked execution, forcing an alternative torture."
+      },
+      {
+        "narration": "The monarch constructed a eight-foot iron cage suspended inside Loches Castle dungeon.",
+        "search": "medieval iron cage print engraving",
+        "caption": "Louis built an iron cage inside Loches Castle."
+      },
+      {
+        "narration": "Confined in darkness, Balue could neither stand straight nor lie flat inside the cell.",
+        "search": "medieval fortress dungeon interior dark illustration",
+        "caption": "Balue lived unable to stand or lie down."
+      },
+      {
+        "narration": "From 1469 to 1480, Cardinal Balue endured total isolation inside the cage while Pope Sixtus IV repeatedly demanded his release.",
+        "search": "cardinal historical engraving",
+        "caption": "Pope Sixtus IV demanded the cardinal's release for over a decade."
+      },
+      {
+        "narration": "Fearing eternal damnation as his own health failed in 1480, King Louis XI finally capitulated to papal authority and freed him.",
+        "search": "King Louis XI portrait oil painting",
+        "caption": "In 1480, a dying Louis XI finally granted Balue freedom."
+      },
+      {
+        "narration": "Balue survived his eleven-year cage confinement and lived until 1491, cementing Louis XI's history as the ruthless Spider King.",
+        "search": "medieval fortress dungeon interior engraving",
+        "caption": "Balue survived 11 years caged, outliving France's Cunning Spider King."
+      },
+      {
+        "narration": "Why did King Louis XI cage his highest cardinal alive?",
+        "search": "King Louis XI portrait painting",
+        "caption": "Why did King Louis XI cage his highest cardinal alive?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "43_QTp3E5BU",
+    "youtube_url": "https://www.youtube.com/watch?v=43_QTp3E5BU",
+    "created_at": "2026-10-18T05:39:07.323865+00:00",
+    "updated_at": "2026-10-18T05:44:35.512159+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-18T05:40:32.024132+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "345 chars (cat 208 de vua 55s)",
+        "at": "2026-10-18T05:41:28.409081+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-18T05:41:30.348264+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T05:41:31.435535+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-18T05:43:49.683851+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T05:43:49.739467+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.1s 14640325 bytes",
+        "at": "2026-10-18T05:44:27.150566+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=43_QTp3E5BU",
+        "at": "2026-10-18T05:44:30.502547+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYWmIPa20Wht5WiusbcflWaZt6x_A_Twxa1Uc7uSTBj3Op8Zc03",
+        "at": "2026-10-18T05:44:31.836911+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T05:44:33.567792+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T05:44:33.853660+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"43_QTp3E5BU\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T05:44:35.305716+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T05:44:35.357156+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T05:44:35.512143+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35836259/pexels-photo-35836259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37606022/pexels-photo-37606022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8943318/pexels-photo-8943318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17168599/pexels-photo-17168599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38156129/pexels-photo-38156129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35668165/pexels-photo-35668165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38911894/pexels-photo-38911894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11827780/pexels-photo-11827780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14679737/pexels-photo-14679737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36186347/pexels-photo-36186347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9325768/pexels-photo-9325768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15119286/pexels-photo-15119286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "91ffdc7a2f",
     "kind": "short",
     "channel": "Channel3",
