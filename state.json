@@ -1,5 +1,197 @@
 [
   {
+    "id": "be9d7b284c",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn luôn buồn ngủ rũ rượi sau bữa trưa?",
+    "idea": {
+      "title": "Tại sao bạn luôn buồn ngủ rũ rượi sau bữa trưa?",
+      "hook": "Bạn nghĩ mình buồn ngủ sau bữa trưa vì ăn quá no? Sự thật đằng sau phức tạp hơn chiếc dạ dày của bạn rất nhiều.",
+      "beats": [
+        "Sau khi nạp nhiều tinh bột, đường huyết tăng vọt khiến tuyến tụy tiết ồ ạt insulin.",
+        "Insulin dọn sạch các axit amin khác, vô tình mở đường cho tryptophan tràn vào não tạo ra serotonin và melatonin - hormone gây ngủ.",
+        "Cùng lúc đó, nhịp sinh học tự nhiên của con người luôn có một điểm trũng hạ nhiệt độ và giảm tỉnh táo từ 13h đến 15h.",
+        "Cơ thể chuyển sang trạng thái nghỉ ngơi để tiêu hóa, khiến bạn không thể cưỡng lại cơn díp mắt."
+      ],
+      "keywords": [
+        "tired office worker desk afternoon",
+        "heavy lunch food coma sleepy",
+        "brain neurotransmitters animation",
+        "circadian rhythm clock human body",
+        "pancreas insulin blood sugar spike"
+      ],
+      "tags": [
+        "sứckhỏe",
+        "giảithíchkhoahọc",
+        "mẹovặtđờisống",
+        "thóiquen",
+        "buồngngủ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Buồn ngủ sau ăn trưa không do dạ dày dồn máu.",
+        "search": "hoat hinh 3d nhan vien van phong guc dau ngu tren ban",
+        "caption": "Buồn ngủ sau ăn trưa không do dạ dày"
+      },
+      {
+        "narration": "Thủ phạm thực sự là một chuỗi phản ứng sinh hóa âm thầm bắt đầu từ đĩa cơm của bạn.",
+        "search": "dia com hop com van phong hoat hinh 3d",
+        "caption": "Thủ phạm bắt đầu từ đĩa cơm trưa"
+      },
+      {
+        "narration": "Lượng lớn tinh bột nhanh chóng bị bẻ gãy, khiến đường huyết tăng vọt chỉ sau mười lăm phút.",
+        "search": "duong huyet glucose trong mach mau do hoa chuyen dong 3d",
+        "caption": "Đường huyết tăng vọt sau 15 phút"
+      },
+      {
+        "narration": "Để bảo vệ mạch máu, tuyến tụy buộc phải phóng thích ồ ạt hormone insulin.",
+        "search": "tuyen tuy tiet hormone insulin hoat hinh mo phong co the nguoi",
+        "caption": "Tuyến tụy phóng thích ồ ạt insulin"
+      },
+      {
+        "narration": "Insulin dọn sạch hầu hết các axit amin vào cơ bắp, nhưng vô tình bỏ sót lại tryptophan.",
+        "search": "phan tu axit amin insulin trong mau hoat hoa 3d",
+        "caption": "Insulin dọn đường cho tryptophan"
+      },
+      {
+        "narration": "Mất hết đối thủ cạnh tranh, tryptophan một mình băng qua hàng rào máu não cực nhanh.",
+        "search": "hang rao mau nao hoat hinh y hoc mo phong phan tu",
+        "caption": "Tryptophan tràn thẳng vào não bộ"
+      },
+      {
+        "narration": "Tại não, chất này lập tức chuyển hóa thành serotonin, kích hoạt cảm giác thư giãn tột độ.",
+        "search": "te bao than kinh nao phat sang truyen tin hoat hoa 3d",
+        "caption": "Não giải phóng hormone thư giãn serotonin"
+      },
+      {
+        "narration": "Thế nhưng đây mới chỉ là một nửa lý do khiến mắt bạn díp lại lúc một giờ chiều.",
+        "search": "dong ho sinh hoc co the nguoi xoay chuyen hoat hoa 3d",
+        "caption": "Chiếc bẫy sinh học lúc 13 giờ trưa"
+      },
+      {
+        "narration": "Serotonin nhanh chóng chuyển tiếp thành melatonin, chính là hormone bóng đêm ru bạn ngủ vào mỗi tối.",
+        "search": "hoat hinh 3d nao bo phat sang hormone melatonin phan tu",
+        "caption": "Melatonin ru ngủ xuất hiện ngay giữa ban ngày"
+      },
+      {
+        "narration": "Đáng nói hơn, dù bạn có nhịn ăn trưa, nhịp sinh học tự nhiên vẫn kéo nhiệt độ cơ thể tụt dốc từ 13 đến 15 giờ.",
+        "search": "do hoa dong ho sinh hoc 24 gio co the tut nang luong",
+        "caption": "Nhịp sinh học tự động sụt giảm từ 13h đến 15h"
+      },
+      {
+        "narration": "Lúc này, hệ thần kinh đối giao cảm chiếm quyền kiểm soát, rút bớt oxy từ não để dồn toàn lực tiêu hóa thức ăn.",
+        "search": "mo phong 3d da day tieu hoa thuc an luu thong mau",
+        "caption": "Não giảm năng lượng để dồn máu nuôi dạ dày"
+      },
+      {
+        "narration": "Cú đúp giữa bão melatonin và đáy vực sinh học tạo nên cơn buồn ngủ tàn khốc mà ý chí không thể cưỡng lại.",
+        "search": "hoat hinh 3d nhan vien van phong guc dau xuong ban ngu say",
+        "caption": "Cú đúp hormone khiến bạn sụp mí hoàn toàn"
+      },
+      {
+        "narration": "Chỉ cần giảm một nửa tinh bột nhanh và chợp mắt đúng 15 phút, bạn sẽ triệt tiêu vĩnh viễn cơn mê mệt buổi chiều.",
+        "search": "hoat hinh 3d dong ho hen gio 15 phut bua an lanh manh",
+        "caption": "Giảm tinh bột và chợp mắt 15 phút để tỉnh táo"
+      }
+    ],
+    "error": "",
+    "youtube_id": "kn1Bs_v--Jg",
+    "youtube_url": "https://www.youtube.com/watch?v=kn1Bs_v--Jg",
+    "created_at": "2026-10-18T09:12:36.316999+00:00",
+    "updated_at": "2026-10-18T09:14:54.298107+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-18T09:13:14.802687+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "542 chars (cat 35 de vua 55s)",
+        "at": "2026-10-18T09:13:29.039754+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-18T09:13:35.016003+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T09:13:36.186432+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-18T09:14:01.162859+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-18T09:14:01.200734+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.6s 30389815 bytes",
+        "at": "2026-10-18T09:14:46.791072+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=kn1Bs_v--Jg",
+        "at": "2026-10-18T09:14:50.675373+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabN5jXgPQ5DjcL9kAieZkHHavreK7aBsI-19pj-nNTBd9b9HIAG",
+        "at": "2026-10-18T09:14:51.959984+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T09:14:52.946799+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T09:14:53.250845+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"kn1Bs_v--Jg\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T09:14:54.107606+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T09:14:54.149705+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T09:14:54.298088+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8468476/8468476-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8547634/8547634-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15424864/15424864-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7579916/7579916-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39738063/16944986_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39413125/16782191_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263456/8263456-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/25935017/11921986_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34993294/14825493_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28923787/12518269_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8296142/8296142-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8691674/8691674-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/28646608/12441653_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "237d55960a",
     "kind": "short",
     "channel": "Channel2",
