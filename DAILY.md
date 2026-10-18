@@ -1,23 +1,18 @@
-# Daily ping 17/10/2026
+# Daily ping 18/10/2026
 
-Total views (all tracked): **0** (+0 vs snapshot truoc)
+Total views (all tracked): **67799** (+0 vs snapshot truoc)
 
 ## Theo kenh
-- Slot 1 (ReZain): 14 video, 0 views (top:  - 0)
-- Slot 2 (seigh): 69 video, 0 views (top:  - 0)
-- Slot 3 (rescey): 62 video, 0 views (top:  - 0)
-- Chua gan nhan: 3 video, 0 views (top:  - 0)
+- Slot 1 (ReZain): 14 video, 1963 views (top: The Diamond Planet Bigger Than Earth - 493)
+- Slot 2 (seigh): 73 video, 28945 views (top: The Terrifying Secret of Genghis Khan’s Tomb - 1820)
+- Slot 3 (rescey): 65 video, 36197 views (top: Tác hại âm thầm khi cài bài hát yêu thích làm báo  - 2110)
+- Chua gan nhan: 3 video, 694 views (top: What Happens If You Fall Into A Black Hole? - 684)
 
-## Video moi (0)
+## Video moi (3)
+- [3] Sai lầm khi vừa ăn vừa uống nước đá ai cũng mắc (done) https://www.youtube.com/watch?v=Ch9Bu3i8bkI
+- [2] The Clever Wives Who Outsmarted a Tyrant King (done) https://www.youtube.com/watch?v=ajznr1AYmoo
+- [2] The Darkest Trial in Vatican History: When a Dead Pope  (done) https://www.youtube.com/watch?v=L0IUfFoCWOo
 
-## Fail (2)
-- Sai lầm khi vừa sạc vừa cắm tai nghe có dây :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
-}
-- Why an Inca General Drank from His Brother's Skull :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
-}
+## Fail (0)
 
 ## Top tang truong
