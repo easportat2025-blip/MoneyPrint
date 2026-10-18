@@ -1,5 +1,629 @@
 [
   {
+    "id": "d5e70d29f9",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "How 7,000 Warriors Conquered Spain: The Fall of the Visigoth Empire",
+    "idea": {
+      "title": "How 7,000 Warriors Conquered Spain: The Fall of the Visigoth Empire",
+      "hook": "In 711 AD, Tariq ibn Ziyad crossed the Gibraltar strait, allegedly ordered his fleet burned, and told his vastly outnumbered men: 'The sea is behind you, and the enemy is before you.' Within months, an ancient European kingdom would cease to exist.",
+      "beats": [
+        "Setting the Stage: The crumbling Visigothic Kingdom of Hispania, deeply weakened by dynastic civil wars, plague, and internal paranoia under King Roderic.",
+        "The Call Across the Strait: Disaffected Christian nobles, particularly Count Julian of Ceuta, betray Roderic by secretly inviting the Umayyad governor Musa ibn Nusayr to intervene.",
+        "The Crossing: General Tariq ibn Ziyad lands beneath the Rock of Gibraltar in the spring of 711 AD with a modest expeditionary force of roughly 7,000 lightly armored Berber horsemen and infantry.",
+        "No Way Back: The legendary destruction of the transport fleet and Tariq's rousing speech, leaving his men with only two choices: conquest or death on foreign soil.",
+        "The Titan Awakens: King Roderic abandons his military campaign against the Basques in the north and marches south with a colossal royal host estimated at over 30,000 troops.",
+        "The Clash at Guadalete: In July 711, the two forces collide; Tariq uses marshy terrain along the Guadalete River to neutralize Visigothic numerical superiority and heavy infantry charges.",
+        "The Fatal Betrayal: In the heat of battle, rival Visigoth factions led by the sons of former King Wittiza abandon Roderic's flanks, enacting a deadly political feud mid-fight.",
+        "The Slaughter and the Mystery: Umayyad cavalry tears through the exposed royal center; King Roderic vanishes forever, leaving behind only his riderless white warhorse and golden sandals embedded in the mud.",
+        "The Collapse of Authority: With Visigothic leadership utterly decapitated, panic sweeps across the peninsula, causing terrified provincial governors to surrender without a fight.",
+        "Tariq's Lightning Advance: Defying cautious orders from North Africa, Tariq pushes aggressively north and seizes the Visigothic royal capital of Toledo with minimal resistance.",
+        "Musa's Arrival: Tariq's commander, Musa ibn Nusayr, arrives with 18,000 veteran Arab soldiers, completing the conquest of Seville, Merida, and Zaragoza amid fierce professional rivalry.",
+        "The 800-Year Legacy: The destruction of the Visigoths transforms the Iberian Peninsula into Al-Andalus, launching eight centuries of Moorish culture, science, and the epic saga of the Reconquista."
+      ],
+      "keywords": [
+        "Tariq ibn Ziyad",
+        "Battle of Guadalete",
+        "Visigothic Kingdom",
+        "King Roderic",
+        "Umayyad Conquest of Hispania",
+        "Moorish Spain",
+        "Al-Andalus history",
+        "Medieval warfare",
+        "Gibraltar history",
+        "Count Julian"
+      ],
+      "tags": [
+        "#HistoryDocumentary",
+        "#MedievalHistory",
+        "#AncientEmpires",
+        "#AlAndalus",
+        "#BattleOfGuadalete",
+        "#SpanishHistory",
+        "#TariqIbnZiyad",
+        "#MilitaryHistory",
+        "#Visigoths",
+        "#DarkAges"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE BURNED HIS OWN SHIPS"
+    },
+    "scenes": [
+      {
+        "narration": "Seven thousand warriors destroyed an entire European kingdom in months.",
+        "search": "medieval battle manuscript illustration moors visigoths",
+        "caption": "7,000 warriors toppled Hispania's Visigoth Kingdom in 711 AD"
+      },
+      {
+        "narration": "By 711 AD, the Visigothic Kingdom of Hispania had ruled Iberia for centuries, but dynastic civil wars and plague had hollowed out its central authority under King Roderic.",
+        "search": "king roderic visigoth coin portrait",
+        "caption": "Visigothic Hispania suffered severe internal fragmentation under King Roderic"
+      },
+      {
+        "narration": "Seeking to overthrow Roderic, rival Visigothic factions secretly coordinated with Count Julian of Ceuta, who invited the Umayyad governor of North Africa to intervene.",
+        "search": "straits of gibraltar historical map engraving",
+        "caption": "Rival nobles invited Umayyad intervention across the Strait of Gibraltar"
+      },
+      {
+        "narration": "In April 711, Berber commander Tariq ibn Ziyad crossed the strait with roughly seven thousand lightly armored horsemen and foot soldiers, assembling beneath the Rock of Gibraltar.",
+        "search": "tariq ibn ziyad gibraltar landing oil painting",
+        "caption": "General Tariq ibn Ziyad landed 7,000 troops at Gibraltar in April 711"
+      },
+      {
+        "narration": "Stranded on hostile shores, Tariq eliminated his transport fleet, confronting his vastly outnumbered soldiers with an absolute ultimatum: conquer or die.",
+        "search": "burning ships ancient fleet coast oil painting",
+        "caption": "Tariq reportedly neutralized his fleet, denying his army any retreat"
+      },
+      {
+        "narration": "King Roderic aborted his military campaign against the Basques in northern Iberia and marched south with an imperial army numbering over thirty thousand troops.",
+        "search": "visigothic heavy cavalry warriors medieval engraving",
+        "caption": "King Roderic mobilized over thirty thousand soldiers to crush the landing"
+      },
+      {
+        "narration": "In late July 711, the forces collided near the Guadalete River, where marshy terrain severely hindered the Visigoths' heavily armored cavalry charges.",
+        "search": "battle of guadalete river landscape 19th century oil painting",
+        "caption": "Marshlands along the Guadalete River neutralized Visigothic numerical superiority"
+      },
+      {
+        "narration": "As Umayyad light cavalry counterattacked, rival Visigothic nobles commanded by the sons of former King Wittiza abruptly deserted Roderic's flanks mid-battle.",
+        "search": "riderless white horse battle mud oil painting",
+        "caption": "Factional desertion shattered the royal flanks, sealing King Roderic's fate"
+      },
+      {
+        "narration": "Wittiza's sudden betrayal left King Roderic's central guard completely exposed to Tariq's cavalry, turning the clash into a rout. Roderic vanished during the retreat, leaving behind only his caparisoned white warhorse and embroidered tunic near the mudbanks.",
+        "search": "King Roderic Guadalete battle death oil painting",
+        "caption": "King Roderic vanished mid-battle, leaving only his abandoned horse and royal robes."
+      },
+      {
+        "narration": "Because the Visigothic monarchy was strictly elective and centralized, Roderic's sudden disappearance decapitated the entire political structure overnight. Regional governors received no command orders, allowing small Umayyad raiding parties to spread northward across Andalusia unchallenged.",
+        "search": "Visigothic kingdom map engraving 8th century Hispania",
+        "caption": "Roderic's defeat paralyzed the elective monarchy, leaving provinces without central military command."
+      },
+      {
+        "narration": "Tariq detached his lieutenant Mughith al-Rumi with just seven hundred horsemen to bypass fortified towns and assault Córdoba. Exploiting an unguarded breach in the city walls during a thunderstorm, Mughith captured the city and besieged its governor in a fortified church.",
+        "search": "Roman bridge of Cordoba medieval engraving",
+        "caption": "Seven hundred Umayyad cavalry captured Córdoba after infiltrating a breached wall perimeter."
+      },
+      {
+        "narration": "Operating under strict instructions from North Africa to halt and consolidate territory, Tariq instead pushed his core detachment directly toward the capital. He feared that delaying would allow the surviving Gothic nobility time to elect a new king and assemble another royal host.",
+        "search": "Tariq ibn Ziyad portrait illustration manuscript",
+        "caption": "Defying orders to halt, Tariq rushed north to prevent a new monarch's election."
+      },
+      {
+        "narration": "By late autumn 711, Tariq reached Toledo, discovering the Visigothic royal seat virtually undefended after the archbishop and court aristocrats fled into the northern mountains. The conquerors seized the legendary royal treasury, including emerald-encrusted crowns and the purported Table of Solomon.",
+        "search": "Toledo Spain medieval city walls historic engraving",
+        "caption": "Visigothic nobles abandoned Toledo, ceding the royal treasury without a prolonged siege."
+      },
+      {
+        "narration": "Alarmed and envious of his subordinate's unsanctioned triumphs, Governor Musa ibn Nusayr landed in June 712 with eighteen thousand veteran Arab and Syrian troops. Rather than reinforcing Tariq, Musa charted an alternate western route to subjugate cities his lieutenant had bypassed.",
+        "search": "Musa ibn Nusayr landing Algeciras historical oil painting",
+        "caption": "Musa landed eighteen thousand veteran troops in 712, opening a separate campaign axis."
+      },
+      {
+        "narration": "Unlike earlier collapses, the fortress city of Mérida mounted fierce resistance, withstanding Musa's siege engines for over a year behind formidable Roman walls. The city capitulated only in June 713 under terms that surrendered all church properties to the Umayyad treasury.",
+        "search": "Roman walls of Merida Spain historical engraving",
+        "caption": "Mérida resisted Umayyad siege engines for months before yielding in June 713."
+      },
+      {
+        "narration": "When Musa finally converged with Tariq near Talavera in late 713, he publicly struck his subordinate with a whip for insubordination and misappropriating the royal hoard. Yet even as the commanders fractured into bitter personal feuds, their combined hosts prepared to march on the Pyrenean frontier.",
+        "search": "Medieval Umayyad cavalry army manuscript illumination",
+        "caption": "Internal commander rivalries erupted just as their armies approached the Pyrenees mountains."
+      },
+      {
+        "narration": "In early 714, Musa and Tariq joined forces to march into the Ebro river valley, subjecting the fortified metropolis of Zaragoza after an intense siege. The fall of Zaragoza severed the northern Visigothic provinces from Christian Gaul and forced surrounding regional governors into swift submission.",
+        "search": "zaragoza roman walls medieval stone fortification engraving",
+        "caption": "Zaragoza fell in 714 AD, cutting off northern Hispania from Gaul."
+      },
+      {
+        "narration": "Pragmatic Visigothic nobles chose political survival over resistance, most notably Count Cassius of the upper Ebro, who pledged fealty and converted to Islam. His lineage became the Banu Qasi, an autonomous Muslim-Iberian dynasty that dominated the regional marcher territories for two centuries.",
+        "search": "umayyad era gold dinar damascus caliphate coin",
+        "caption": "Local Visigothic nobility converted and formed the powerful Banu Qasi dynasty."
+      },
+      {
+        "narration": "By the summer of 714, Umayyad raiding columns penetrated Asturias and captured the coastal fortress of Gijón on the Bay of Biscay. However, surviving Visigothic nobles, clergy, and royal guards retreated into the near-impenetrable limestone gorges of the Picos de Europa.",
+        "search": "picos de europa mountains asturias landscape oil painting",
+        "caption": "Visigothic refugees fled into the rugged gorges of northern Asturias."
+      },
+      {
+        "narration": "Among the refugees was Pelagius, a former royal bodyguard who refused to remit tribute to the regional Umayyad governor Munuza. Pelagius organized an armed band of mountaineers, laying the clandestine foundation for what became the Kingdom of Asturias.",
+        "search": "pelagius of asturias king don pelayo statue close up",
+        "caption": "Nobleman Pelagius organized northern mountain resistance against Umayyad tribute demands."
+      },
+      {
+        "narration": "Just as Musa prepared an expedition across the Pyrenees into Frankish Septimania, an imperial courier arrived from Damascus bearing orders from Caliph al-Walid I. The caliph commanded both Musa and Tariq to halt all military campaigns immediately and report in person to the imperial capital.",
+        "search": "caliph al-walid I damascus umayyad mosque fresco painting",
+        "caption": "Caliph al-Walid I ordered both conquerors to return immediately to Damascus."
+      },
+      {
+        "narration": "Musa appointed his son Abd al-Aziz as the first Umayyad governor of al-Andalus before departing Hispania in September 714. Musa marched through North Africa leading a colossal caravan bearing thirty wagon-loads of looted Visigothic treasuries, four hundred noble captives, and Tariq as his subordinate.",
+        "search": "medieval caravan crossing desert miniature manuscript illustration",
+        "caption": "Musa departed Hispania in 714 bearing wagon-loads of Visigothic royal treasures."
+      },
+      {
+        "narration": "As Musa traversed the Levant in February 715, Caliph al-Walid lay on his deathbed in Damascus. The heir-apparent, Sulayman ibn Abd al-Malik, dispatched couriers demanding Musa delay his arrival so Sulayman could receive the spoils during his own upcoming coronation.",
+        "search": "umayyad caliphate damascus syria 8th century manuscript illumination",
+        "caption": "The dying caliph's brother demanded Musa delay his arrival in Damascus."
+      },
+      {
+        "narration": "Musa ignored the prince's demand and entered Damascus with the spoils days before al-Walid died on February 23, 715. When Sulayman assumed the throne, he immediately accused both conquerors of financial treason, stripping them of rank, wealth, and freedom.",
+        "search": "caliph sulayman ibn abd al-malik enthroned arabian miniature painting",
+        "caption": "New Caliph Sulayman stripped Musa and Tariq of their titles and riches."
+      },
+      {
+        "narration": "Caliph Sulayman ordered Musa ibn Nusayr publicly disgraced under the desert sun and levied a ruinous fine of several hundred thousand dinars. Tariq ibn Ziyad was stripped of his military command, disappearing entirely from Damascus court records into historical obscurity.",
+        "search": "umayyad caliphate damascus old engraving",
+        "caption": "The conquerors of Hispania were stripped of rank, wealth, and command."
+      },
+      {
+        "narration": "In Hispania, now organized as the Umayyad province of Al-Andalus, Musa's son Abd al-Aziz ruled as viceroy from Seville. To pacify remaining Visigothic nobility, he took Queen Egilona, the widow of King Roderic, as his wife.",
+        "search": "queen egilona visigoth painting",
+        "caption": "Roderic's widow married the new Umayyad governor of Al-Andalus."
+      },
+      {
+        "narration": "Egilona encouraged Abd al-Aziz to adopt local royal protocols, including lowering doorway lintels so visiting commanders had to bow as if before a monarch. Syrian informers alerted Damascus that the governor was wearing a Visigothic crown and plotting an independent realm.",
+        "search": "visigothic crown treasure of guarrazar photograph",
+        "caption": "Rumors reached Damascus that the governor had adopted Christian royal crowns."
+      },
+      {
+        "narration": "In March 716, armed with a secret execution decree from Caliph Sulayman, five Arab commanders ambushed Abd al-Aziz in Seville. The viceroy was struck down and decapitated while conducting dawn prayers inside a converted church.",
+        "search": "church of san salvador seville old engraving",
+        "caption": "Governor Abd al-Aziz was assassinated inside a Seville mosque in 716."
+      },
+      {
+        "narration": "Caliph Sulayman had the severed head preserved in salt and brought to Syria to confront Musa ibn Nusayr. The elderly conqueror confirmed the identity of his murdered son shortly before dying in destitute conditions around 717.",
+        "search": "umayyad great mosque damascus 19th century engraving",
+        "caption": "Caliph Sulayman presented Musa with the severed head of his son."
+      },
+      {
+        "narration": "Despite political purges at the top, Umayyad armies continued expanding, crossing the eastern Pyrenees into Frankish Septimania. In 719, Governor Al-Samh ibn Malik al-Khawlani captured the fortified Visigothic regional capital of Narbonne.",
+        "search": "narbonne medieval fortifications engraving",
+        "caption": "Umayyad forces crossed the Pyrenees and seized Narbonne in 719."
+      },
+      {
+        "narration": "In the rugged Cantabrian mountains of northern Iberia, a surviving Visigothic royal guardsman named Pelagius openly defied the occupation. Pelagius refused to pay the required jizya tax, gathering hundreds of Christian fugitives into the Asturian highlands.",
+        "search": "king pelayo statue covadonga photograph",
+        "caption": "Visigothic noble Pelagius rebelled in the remote Cantabrian mountains."
+      },
+      {
+        "narration": "In the summer of 722, Umayyad commander Alkama led an expeditionary column into the narrow limestone gorge of Covadonga to eliminate the insurgency. Pelagius and roughly three hundred mountain fighters retreated into a high cavern, preparing an ambush from the overlooking cliffs.",
+        "search": "holy cave of covadonga asturias painting",
+        "caption": "Umayyad soldiers marched into the narrow Covadonga gorge in 722."
+      },
+      {
+        "narration": "As Alkama's troops advanced through the defile, Pelagius's hidden archers and rolling boulders rained down from the heights of Mount Auseva. The enclosed limestone valley prevented the Umayyad cavalry from deploying, turning the gorge into a fatal bottleneck.",
+        "search": "battle of covadonga 722 oil painting",
+        "caption": "722 AD: Mountain ambush in the gorge of Covadonga"
+      },
+      {
+        "narration": "Commander Alkama fell during the fighting, triggering a disorganized retreat that local Asturian villagers decimated with further ambushes. Though Arab chronicles dismissed the clash as an insignificant encounter with thirty wild donkeys, imperial authority over the northern crags collapsed entirely.",
+        "search": "asturias mountains covadonga gorge landscape engraving",
+        "caption": "Umayyad forces routed in the Cantabrian mountain passes"
+      },
+      {
+        "narration": "Pelagius established his seat of power at Cangas de Onís, officially founding the independent Kingdom of Asturias. This tiny mountain territory became the sole Christian enclave on the peninsula, igniting the centuries-long conflict later known as the Reconquista.",
+        "search": "king pelagius of asturias statue monument",
+        "caption": "Pelagius establishes the Kingdom of Asturias at Cangas de Onís"
+      },
+      {
+        "narration": "In Córdoba, Umayyad administrators viewed the Asturian wilderness as too barren to warrant another costly mountain campaign. Imperial governors redirected their primary offensive resources north across the Pyrenean frontier into the affluent territories of Frankish Gaul.",
+        "search": "medieval cordoba umayyad caliphate map engraving",
+        "caption": "Umayyad rulers redirect imperial ambitions across the Pyrenees"
+      },
+      {
+        "narration": "In the spring of 732, the governor of Al-Andalus, Abdul Rahman Al Ghafiqi, crossed the Pyrenees with a massive cavalry expedition. His forces routed Duke Odo of Aquitaine at the Battle of the River Garonne, plundering wealthy monasteries along the road toward Tours.",
+        "search": "battle of the river garonne medieval manuscript illumination",
+        "caption": "732 AD: Abdul Rahman Al Ghafiqi advances into Aquitaine"
+      },
+      {
+        "narration": "Facing total defeat, Duke Odo fled north to plead for assistance from his political rival, Charles Martel, Mayor of the Frankish Palace. Martel agreed on the condition that Odo submit Aquitaine to Frankish suzerainty, swiftly mobilizing a disciplined infantry host.",
+        "search": "charles martel frankish leader equestrian statue",
+        "caption": "Charles Martel mobilizes the Frankish army to confront Al Ghafiqi"
+      },
+      {
+        "narration": "In October 732, the two armies converged between the cities of Poitiers and Tours along an ancient Roman roadway. Martel carefully anchored his men atop a wooded hill, forcing the horse-mounted Andalusian army to face an uphill fight through dense trees.",
+        "search": "battle of tours poitiers 732 oil painting",
+        "caption": "Frankish infantry forms an elevated defensive phalanx near Poitiers"
+      },
+      {
+        "narration": "For seven tense days, both commanders exchanged minor skirmishes while awaiting the opposing general's tactical error in the unseasonable autumn cold. Then, on a frosty morning, Abdul Rahman Al Ghafiqi ordered his elite cavalry forward in an all-out assault against the unbroken Frankish wall.",
+        "search": "umayyad moorish cavalry medieval battle engraving",
+        "caption": "Al Ghafiqi launches the decisive cavalry charge at Tours"
+      },
+      {
+        "narration": "Waves of Umayyad cavalry crashed repeatedly against the Frankish line, but Charles Martel's veteran infantry locked their heavy shields into an immovable defensive square.",
+        "search": "battle of tours cavalry charge oil painting",
+        "caption": "Umayyad cavalry assaults the Frankish shield wall in October 732."
+      },
+      {
+        "narration": "Armed with heavy battleaxes and long spears, the Frankish foot soldiers absorbed the shock of multiple charges, cutting down horsemen at close quarters.",
+        "search": "frankish infantry shield wall battle engraving",
+        "caption": "Disciplined Frankish infantry repel successive waves of mounted troops."
+      },
+      {
+        "narration": "As the frontal assault stalled, Duke Odo of Aquitaine led a flanking force around the hill to strike the Umayyad camp and its accumulated loot.",
+        "search": "medieval military baggage train camp manuscript illumination",
+        "caption": "Allied forces flank the battlefield to strike the Umayyad supply camp."
+      },
+      {
+        "narration": "Fearing the loss of their hard-won Iberian spoils, large contingents of Andalusian horsemen broke away from the frontline to defend their baggage train.",
+        "search": "retreating medieval cavalry battle oil painting",
+        "caption": "Portions of the Umayyad cavalry withdraw to secure their camp."
+      },
+      {
+        "narration": "Abdul Rahman Al Ghafiqi threw himself into the chaotic retreat to rally his broken lines, but Frankish spearmen surrounded and killed the governor.",
+        "search": "abdul rahman al ghafiqi death battle of tours oil painting",
+        "caption": "Governor Abdul Rahman Al Ghafiqi is killed attempting to rally his troops."
+      },
+      {
+        "narration": "Nightfall abruptly ended the fighting, leaving Charles Martel uncertain of his enemy's strength as he ordered his exhausted soldiers to hold rank until dawn.",
+        "search": "medieval battlefield at night torches oil painting",
+        "caption": "Martel maintains defensive formations throughout the freezing October night."
+      },
+      {
+        "narration": "At daybreak, Frankish scouts discovered the Umayyad tents completely abandoned, the surviving expeditionary forces having fled south toward Septimania under cover of darkness.",
+        "search": "abandoned military tent camp engraving",
+        "caption": "Frankish scouts discover the Umayyad force retreated south overnight."
+      },
+      {
+        "narration": "While Martel halted the northward advance into Western Europe, powerful Umayyad garrisons still held Narbonne and the entire Iberian peninsula, bracing for immediate counteroffensives.",
+        "search": "8th century umayyad al andalus iberia map engraving",
+        "caption": "Umayyad strongholds in Septimania and Hispania prepare for renewed warfare."
+      },
+      {
+        "narration": "In 737 AD, Charles Martel led a Frankish punitive expedition into Septimania, laying siege to the heavily fortified Umayyad stronghold at Narbonne.",
+        "search": "Charles Martel siege Narbonne 737 oil painting",
+        "caption": "In 737 AD, Charles Martel besieged the Umayyad stronghold of Narbonne."
+      },
+      {
+        "narration": "Umayyad relief forces sent by sea from Al-Andalus landed at the mouth of the Berre River, where Martel's heavy cavalry ambushed and annihilated them.",
+        "search": "Battle of the River Berre 737 cavalry ambush engraving",
+        "caption": "Frankish cavalry ambushed Umayyad relief forces at the River Berre."
+      },
+      {
+        "narration": "Unable to breach Narbonne's Roman walls before winter, Martel dismantled the amphitheaters and fortifications of neighboring Nîmes and Béziers to deny the garrison supplies.",
+        "search": "Roman amphitheatre Nimes medieval ruins engraving",
+        "caption": "Martel destroyed surrounding fortifications to isolate the Narbonne garrison."
+      },
+      {
+        "narration": "Far to the northwest in the rugged Cantabrian mountains, the small Christian enclave founded by Pelagius expanded its borders across Asturias uncontested.",
+        "search": "King Pelagius of Asturias statue Covadonga",
+        "caption": "Pelagius consolidated the remote Christian Kingdom of Asturias in the north."
+      },
+      {
+        "narration": "The most destabilizing crisis for the caliphate erupted not from Christian kings, but from within, when the Great Berber Revolt broke out across North Africa in 739 AD.",
+        "search": "Berber warriors medieval North Africa manuscript illumination",
+        "caption": "The Great Berber Revolt erupted across North Africa in 739 AD."
+      },
+      {
+        "narration": "Infuriated by discriminatory taxation and unequal spoils imposed by aristocratic Arab governors, Berber garrison troops in northern Hispania mutinied in 741 AD.",
+        "search": "Medieval Moorish soldiers mutiny battle miniature painting",
+        "caption": "Berber garrisons in northern Hispania mutinied against Arab leadership in 741."
+      },
+      {
+        "narration": "The mutineers abandoned their posts along the northern river frontiers, forming three massive insurgent armies that marched south toward Toledo and Córdoba.",
+        "search": "Eighth century Iberian peninsula map engraving",
+        "caption": "Rebel Berber columns advanced south toward the provincial capital of Cordoba."
+      },
+      {
+        "narration": "Facing imminent collapse, Córdoba's governor sent a desperate plea to thousands of hardened Syrian imperial cavalry stranded across the strait in Ceuta.",
+        "search": "Umayyad Syrian cavalry crossing Gibraltar strait illustration",
+        "caption": "Cordoba requested desperate military intervention from stranded Syrian veterans."
+      },
+      {
+        "narration": "In late 741, Governor Abd al-Malik evacuated ten thousand starving Syrian cavalry from Ceuta, demanding noble hostages to ensure they would return to Africa after the campaign.",
+        "search": "medieval moorish cavalry manuscript illumination",
+        "caption": "Syrian imperial cavalry cross into Hispania under strict treaty terms in 741."
+      },
+      {
+        "narration": "Armed with fresh horses and weapons, commander Balj ibn Bishr's Syrian vanguard collided with the northern Berber host north of Córdoba in early 742, crushing the rebel infantry in open combat.",
+        "search": "battle of the reconquista medieval miniature painting",
+        "caption": "Syrian heavy cavalry shatters the Berber insurgent army north of Córdoba."
+      },
+      {
+        "narration": "Flushed with victory, the Syrian commanders refused to surrender their arms and turned directly on their host, storming Córdoba and torturing Governor Abd al-Malik to death.",
+        "search": "medieval siege of cordoba manuscript illumination",
+        "caption": "Syrian mutineers execute Córdoba's governor and seize control of the capital."
+      },
+      {
+        "narration": "The sons of the executed governor mobilized established Arab settler clans across Hispania, raising over forty thousand troops to expel the Syrian usurpers.",
+        "search": "moorish soldiers 8th century historical illustration",
+        "caption": "Settler clans mobilize forty thousand troops against the Syrian occupiers in 742."
+      },
+      {
+        "narration": "In August 742, the two Islamic factions collided outside Córdoba at the Battle of Aqua Portora, where Balj ibn Bishr was mortally wounded amidst catastrophic casualties.",
+        "search": "medieval caliphate civil war battle engraving",
+        "caption": "Balj ibn Bishr falls mortally wounded in the slaughter outside Córdoba."
+      },
+      {
+        "narration": "The raging civil strife triggered devastating crop failures across central Hispania, forcing thousands of starving garrisons to abandon the northern river valleys entirely.",
+        "search": "medieval famine and desolate landscape woodcut engraving",
+        "caption": "Famine and war force Muslim garrisons to abandon the northern frontier."
+      },
+      {
+        "narration": "Observing the southern collapse from the Cantabrian mountains, King Alfonso I of Asturias swept south into the undefended plains, systematically sacking towns and relocating Christian populations.",
+        "search": "king alfonso i of asturias statue portrait",
+        "caption": "King Alfonso I exploits Islamic civil war to raid the northern plains."
+      },
+      {
+        "narration": "By 745, the entire Duero River basin had become a depopulated military wasteland, leaving the survival of Islamic Iberia hanging by a thread as collapse swept the Umayyad Caliphate.",
+        "search": "duero river valley old historical map engraving",
+        "caption": "The Duero basin turns into a depopulated military desert by 745."
+      },
+      {
+        "narration": "In 750, the Abbasid Revolution systematically exterminated the ruling Umayyad family in Damascus, wiping out the dynasty that had directed the initial invasion of Hispania.",
+        "search": "massacre of the umayyads abbasid revolution 19th century oil painting",
+        "caption": "Abbasid forces massacre the Umayyad dynasty in 750"
+      },
+      {
+        "narration": "A single twenty-year-old royal prince, Abd al-Rahman ibn Mu'awiya, survived the purge and fled across North Africa, evading Abbasid assassins for five continuous years.",
+        "search": "abd al-rahman i fleeing across north africa oil painting",
+        "caption": "Prince Abd al-Rahman escapes Abbasid death squads"
+      },
+      {
+        "narration": "In August 755, Abd al-Rahman landed on the southern Iberian coast at Almuñécar, directly mobilizing Syrian and Yemeni military garrisons weary of regional tribal anarchy.",
+        "search": "abd al-rahman landing in spain 19th century history painting",
+        "caption": "Abd al-Rahman lands at Almuñécar in August 755"
+      },
+      {
+        "narration": "At the Battle of Musarah along the Guadalquivir River in May 756, the prince routed the Andalusian governor Yusuf al-Fihri and seized the capital.",
+        "search": "battle of musarah cordoba 756 medieval manuscript illumination",
+        "caption": "Umayyad loyalists defeat Governor al-Fihri at Musarah"
+      },
+      {
+        "narration": "Proclaiming himself Emir of Córdoba, Abd al-Rahman severed Iberia from the Abbasid Caliphate in Baghdad, establishing Europe's first independent Islamic monarchy.",
+        "search": "emir abd al-rahman i of cordoba bronze statue likeness",
+        "caption": "Abd al-Rahman I proclaims the Emirate of Córdoba"
+      },
+      {
+        "narration": "Rebellious northern Muslim governors, led by Sulayman al-Arabi of Zaragoza, refused to submit and sent envoys across the Pyrenees to King Charlemagne of the Franks.",
+        "search": "charlemagne receiving saracen envoys medieval illuminated manuscript",
+        "caption": "Zaragoza's governors invite King Charlemagne to intervene"
+      },
+      {
+        "narration": "In the spring of 778, Charlemagne marched an imperial Frankish army across the Pyrenees, but Zaragoza unexpectedly sealed its massive Roman gates against him.",
+        "search": "charlemagne besieging spanish city medieval miniature manuscript",
+        "caption": "Charlemagne fails to breach the walls of Zaragoza"
+      },
+      {
+        "narration": "Forced into a grueling retreat through the Pyrenean pass of Roncesvalles in August 778, Charlemagne's rearguard was surrounded and slaughtered by Basque mountaineers.",
+        "search": "battle of roncevaux pass 778 medieval manuscript illumination",
+        "caption": "Basque mountaineers annihilate Charlemagne's rearguard at Roncesvalles"
+      },
+      {
+        "narration": "To contain further Umayyad expansion after Roncesvalles, Charlemagne established the Spanish March in 795, fortifying Barcelona and the Pyrenean frontier.",
+        "search": "charlemagne spanish march medieval illuminated manuscript",
+        "caption": "Charlemagne fortified the Pyrenean frontier against Córdoba in 795."
+      },
+      {
+        "narration": "In the south, the Emirate of Córdoba transformed into Western Europe's most populous intellectual hub, breaking ground on the Great Mosque in 785.",
+        "search": "great mosque of cordoba prayer hall interior arches photograph",
+        "caption": "Construction on the Great Mosque of Córdoba began in 785."
+      },
+      {
+        "narration": "Meanwhile, the northern Kingdom of Asturias fortified its mountainous redoubts, claiming legitimacy from the vanished Visigothic crown and initiating centuries of border warfare.",
+        "search": "kingdom of asturias santa maria del naranco church photograph",
+        "caption": "Northern Christian kingdoms rallied around the legacy of the fallen Visigoths."
+      },
+      {
+        "narration": "For three centuries, Al-Andalus flourished through an agricultural revolution and classical scholarship, transmitting preserved Greek philosophy, algebra, and medicine into medieval Europe.",
+        "search": "andalusian scholars library medieval manuscript illustration",
+        "caption": "Al-Andalus reintroduced classical philosophy and mathematics into Western Europe."
+      },
+      {
+        "narration": "By 1031, the central Caliphate of Córdoba fractured into rival taifa kingdoms, leaving the fragmented peninsula vulnerable to expanding northern Christian monarchies.",
+        "search": "taifa kingdoms iberian peninsula medieval map engraving",
+        "caption": "The collapse of the Caliphate in 1031 created rival taifa kingdoms."
+      },
+      {
+        "narration": "On January 2, 1492, Muhammad XII surrendered the Emirate of Granada to Isabella of Castile and Ferdinand of Aragon, ending 781 years of Islamic governance in Hispania.",
+        "search": "surrender of granada 1492 pradilla oil painting",
+        "caption": "The surrender of Granada in 1492 ended Moorish rule in Iberia."
+      },
+      {
+        "narration": "The rapid conquest of 711 irrevocably blended Arab, Berber, Jewish, and Visigothic heritage, permanently shaping Spanish architecture, vocabulary, and jurisprudence.",
+        "search": "alhambra palace patio of the lions granada photograph",
+        "caption": "Eight centuries of coexistence permanently transformed Iberian culture and language."
+      },
+      {
+        "narration": "An empire of thirty thousand crumbled before seven thousand warriors at Guadalete because an aristocracy tore itself apart from within.",
+        "search": "rock of gibraltar strait 18th century engraving",
+        "caption": "In 711, internal betrayal destroyed the Visigothic Empire in months."
+      },
+      {
+        "narration": "Seven thousand cavalry destroyed an ancient European superpower in weeks.",
+        "search": "medieval oil painting battle cavalry charges Visigoths",
+        "caption": "7,000 warriors shattered an empire in 711 AD."
+      }
+    ],
+    "error": "",
+    "youtube_id": "WJRLdn7v2yI",
+    "youtube_url": "https://www.youtube.com/watch?v=WJRLdn7v2yI",
+    "created_at": "2026-10-18T17:02:26.124589+00:00",
+    "updated_at": "2026-10-18T17:15:24.459482+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-18T17:05:47.403060+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3528 chars",
+        "at": "2026-10-18T17:05:58.654669+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "217.0s en-US-GuyNeural 35 cau",
+        "at": "2026-10-18T17:06:15.760493+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-18T17:06:23.714349+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-18T17:10:52.621829+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-18T17:10:52.672166+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 217.0s 144115240 bytes",
+        "at": "2026-10-18T17:15:07.440585+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-10-18T17:15:07.531214+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=WJRLdn7v2yI",
+        "at": "2026-10-18T17:15:20.355882+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaryZsc97-2PWMU1NoC6TjYnx6gV7f2oGODTxOchrFqjfwINU2k",
+        "at": "2026-10-18T17:15:21.378346+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-18T17:15:22.779808+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-18T17:15:23.368380+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"WJRLdn7v2yI\\\"\",\n    \"errors\"",
+        "at": "2026-10-18T17:15:24.207291+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-18T17:15:24.255205+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-18T17:15:24.459467+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35689882/pexels-photo-35689882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/64824/pexels-photo-64824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4905090/pexels-photo-4905090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34421644/pexels-photo-34421644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38915666/pexels-photo-38915666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269133/pexels-photo-9269133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397724/pexels-photo-16397724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269146/pexels-photo-9269146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16207593/pexels-photo-16207593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37389603/pexels-photo-37389603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33755066/pexels-photo-33755066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34652787/pexels-photo-34652787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39760386/pexels-photo-39760386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30527614/pexels-photo-30527614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28516034/pexels-photo-28516034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327453/pexels-photo-35327453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39760376/pexels-photo-39760376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14936593/pexels-photo-14936593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19819784/pexels-photo-19819784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/977657/pexels-photo-977657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11759741/pexels-photo-11759741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6771190/pexels-photo-6771190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12816275/pexels-photo-12816275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7042325/pexels-photo-7042325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34632854/pexels-photo-34632854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31595413/pexels-photo-31595413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36037031/pexels-photo-36037031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37427739/pexels-photo-37427739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16929396/pexels-photo-16929396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38104407/pexels-photo-38104407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3933541/pexels-photo-3933541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35712457/pexels-photo-35712457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15977315/pexels-photo-15977315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5200144/pexels-photo-5200144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19441420/pexels-photo-19441420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13841023/pexels-photo-13841023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30753262/pexels-photo-30753262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35410908/pexels-photo-35410908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13022953/pexels-photo-13022953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736363/pexels-photo-30736363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10108130/pexels-photo-10108130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732734/pexels-photo-34732734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27894881/pexels-photo-27894881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27425289/pexels-photo-27425289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37662180/pexels-photo-37662180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14588059/pexels-photo-14588059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9910279/pexels-photo-9910279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35021470/pexels-photo-35021470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12382735/pexels-photo-12382735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563553/pexels-photo-16563553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13524886/pexels-photo-13524886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17005939/pexels-photo-17005939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5504504/pexels-photo-5504504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267470/pexels-photo-9267470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34985390/pexels-photo-34985390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17082125/pexels-photo-17082125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40357288/pexels-photo-40357288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7978844/pexels-photo-7978844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30741325/pexels-photo-30741325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2760679/pexels-photo-2760679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37945750/pexels-photo-37945750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36279321/pexels-photo-36279321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16498889/pexels-photo-16498889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34548946/pexels-photo-34548946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397769/pexels-photo-16397769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397773/pexels-photo-16397773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39382003/pexels-photo-39382003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35037754/pexels-photo-35037754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19513326/pexels-photo-19513326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39737935/pexels-photo-39737935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31452324/pexels-photo-31452324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21948466/pexels-photo-21948466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17454022/pexels-photo-17454022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30155801/pexels-photo-30155801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31362772/pexels-photo-31362772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39657842/pexels-photo-39657842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38321022/pexels-photo-38321022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35021518/pexels-photo-35021518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13092437/pexels-photo-13092437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38726475/pexels-photo-38726475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "35f94130dd",
     "kind": "short",
     "channel": "Channel3",
