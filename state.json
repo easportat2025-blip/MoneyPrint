@@ -1,5 +1,192 @@
 [
   {
+    "id": "d0dd9c747d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Emperor Flayed His Corrupt Judge into a Chair",
+    "idea": {
+      "title": "Why an Emperor Flayed His Corrupt Judge into a Chair",
+      "hook": "In 525 BC, King Cambyses found out his chief judge took a bribe—and turned his skin into the next judge's seat.",
+      "beats": [
+        "Persian King Cambyses II discovered Royal Judge Sisamnes took a bribe to issue an unfair verdict.",
+        "Instead of a simple execution, Cambyses had Sisamnes flayed alive and sliced his skin into leather straps.",
+        "He used the skin to upholster the judicial bench where all future verdicts would be read.",
+        "The ultimate twist: Cambyses appointed Sisamnes' own son to take the bench, forcing him to dispense justice while sitting on his father's skin.",
+        "The shocking punishment created one of the most incorruptible legal eras in ancient Persian history."
+      ],
+      "keywords": [
+        "Persian King Cambyses portrait",
+        "Judgement of Cambyses engraving",
+        "ancient Persian court art",
+        "Persian empire map ancient",
+        "antique justice scales engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientpersia",
+        "#historyfacts",
+        "#historicalfigures",
+        "#historymysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "This Persian king upholstered a throne with human skin.",
+        "search": "The Judgment of Cambyses Gerard David oil painting detail",
+        "caption": "A brutal punishment for Persian judicial corruption."
+      },
+      {
+        "narration": "In 525 BC, Emperor Cambyses the Second expanded the massive Achaemenid Persian Empire.",
+        "search": "Cambyses II Persian king relief carving Persepolis",
+        "caption": "Cambyses II ruled Persia from 530 to 522 BC."
+      },
+      {
+        "narration": "Behind the imperial expansion, corruption festered inside the royal high court.",
+        "search": "ancient Persian court art stone relief Persepolis",
+        "caption": "The Persian legal system demanded absolute incorruptibility."
+      },
+      {
+        "narration": "Royal judge Sisamnes accepted a heavy bribe to issue a fraudulent verdict.",
+        "search": "antique justice scales engraving vintage",
+        "caption": "Judge Sisamnes accepted bribes for unfair rulings."
+      },
+      {
+        "narration": "When King Cambyses discovered the treason, a standard execution was rejected as insufficient.",
+        "search": "Persian empire map ancient engraving",
+        "caption": "Cambyses uncovered the royal court bribery scandal."
+      },
+      {
+        "narration": "Cambyses ordered Sisamnes arrested and flayed alive before the imperial court.",
+        "search": "Judgment of Cambyses flaying engraving antique",
+        "caption": "The emperor ordered Sisamnes flayed alive."
+      },
+      {
+        "narration": "Executioners sliced the condemned judge's skin into long leather cords.",
+        "search": "medieval flaying skin manuscript illustration",
+        "caption": "The judge's skin was cured into leather straps."
+      },
+      {
+        "narration": "Craftsmen then stretched the human leather across the official judge's bench.",
+        "search": "ancient carved royal throne Persepolis relief",
+        "caption": "The judicial bench was upholstered in human hide."
+      },
+      {
+        "narration": "King Cambyses then summoned Sisamnes' son, Otanes, appointing him as the empire's next supreme royal judge.",
+        "search": "Judgement of Cambyses Gerard David oil painting detail",
+        "caption": "Cambyses appointed Sisamnes' son as the next supreme judge"
+      },
+      {
+        "narration": "Otanes was commanded to deliver every future verdict while sitting directly upon the cured flesh of his own father.",
+        "search": "Otanes sitting on Sisamnes chair historical engraving",
+        "caption": "Forced to dispense justice sitting on his father's skin"
+      },
+      {
+        "narration": "The gruesome reminder worked, ushering in an era of incorruptible Persian magistrates terrified of becoming the next chair.",
+        "search": "Achaemenid Persian court Persepolis stone relief carving",
+        "caption": "Fear of the flayed chair eliminated judicial corruption"
+      },
+      {
+        "narration": "A Persian king made a judge sit on human skin.",
+        "search": "The Judgement of Cambyses Gerard David oil painting",
+        "caption": "A royal seat upholstered in human skin."
+      }
+    ],
+    "error": "",
+    "youtube_id": "aS4da9f__9I",
+    "youtube_url": "https://www.youtube.com/watch?v=aS4da9f__9I",
+    "created_at": "2026-10-19T09:11:02.272036+00:00",
+    "updated_at": "2026-10-19T09:25:23.318339+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-19T09:13:00.455005+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "430 chars (cat 128 de vua 55s)",
+        "at": "2026-10-19T09:15:31.629701+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-19T09:15:34.280063+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T09:15:35.821956+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-19T09:24:23.620035+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T09:24:23.689091+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 14931761 bytes",
+        "at": "2026-10-19T09:25:15.962444+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=aS4da9f__9I",
+        "at": "2026-10-19T09:25:18.814125+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabmQnRz0p09vQkyBdGm1qVMVp25_1cbGItTI7Z6XWOOad5vOG4G",
+        "at": "2026-10-19T09:25:20.063779+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T09:25:21.843965+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T09:25:22.175829+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"aS4da9f__9I\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T09:25:23.047003+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T09:25:23.115002+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T09:25:23.318323+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8792976/pexels-photo-8792976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37998611/pexels-photo-37998611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30727983/pexels-photo-30727983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15253932/pexels-photo-15253932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158647/pexels-photo-33158647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2402924/pexels-photo-2402924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35010154/pexels-photo-35010154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158645/pexels-photo-33158645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7479540/pexels-photo-7479540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16781982/pexels-photo-16781982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158646/pexels-photo-33158646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19036551/pexels-photo-19036551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a5f0597d98",
     "kind": "short",
     "channel": "Channel2",
