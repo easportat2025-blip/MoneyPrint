@@ -1,5 +1,199 @@
 [
   {
+    "id": "7744c679fa",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn không bao giờ nên gập laptop khi vừa tắt máy?",
+    "idea": {
+      "title": "Tại sao bạn không bao giờ nên gập laptop khi vừa tắt máy?",
+      "hook": "Bạn có thói quen vừa bấm tắt laptop là gập ngay màn hình lại? Thói quen vô hại này thực ra đang âm thầm nướng chín màn hình của bạn.",
+      "beats": [
+        "Nhiều dòng laptop hiện đại tản nhiệt qua khe hở ngay bản lề sát mép dưới màn hình.",
+        "Khi vừa tắt, quạt ngừng quay nhưng chip CPU và GPU vẫn giữ nhiệt độ lên tới 60-70 độ C.",
+        "Gập máy ngay lập tức khiến hơi nóng phả thẳng vào tấm nền LCD mỏng manh phía trên.",
+        "Nhiệt tích tụ lâu ngày làm keo dán màn hình bong tróc, gây sọc màn hoặc ố vàng vĩnh viễn.",
+        "Cách đúng: Để máy mở nắp khoảng 60 giây sau khi tắt để nhiệt tự thoát hết ra ngoài."
+      ],
+      "keywords": [
+        "laptop cooling vent heat screen damage",
+        "shutting down laptop screen close",
+        "thermal camera laptop heat dissipation",
+        "damaged lcd display screen line",
+        "working desk laptop overheating"
+      ],
+      "tags": [
+        "#Channel3",
+        "#congnghe",
+        "#meocongnghe",
+        "#laptop",
+        "#thoisucongnghe",
+        "#learnontiktok"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vừa tắt laptop đã gập máy là tự phá màn hình.",
+        "search": "hoat hinh 3d ban tay gap laptop tren ban lam viec",
+        "caption": "Tắt laptop xong gập ngay là sai lầm lớn"
+      },
+      {
+        "narration": "Cử chỉ vô hại kéo dài vài giây này đang âm thầm nướng chín tấm nền hiển thị đắt tiền của bạn.",
+        "search": "3d render mo phong man hinh laptop boc khoi nong",
+        "caption": "Luồng nhiệt âm thầm phá hủy tấm nền hiển thị"
+      },
+      {
+        "narration": "Hầu hết laptop hiện đại đều bố trí khe thoát nhiệt nằm ngay sát bản lề phía dưới màn hình.",
+        "search": "isometric 3d animation zoom can canh khe tan nhiet ban le laptop",
+        "caption": "Khe tản nhiệt nằm sát mép dưới màn hình"
+      },
+      {
+        "narration": "Khoảnh khắc hệ điều hành vừa tắt, quạt làm mát sẽ lập tức ngừng quay hoàn toàn.",
+        "search": "motion graphics quat tan nhiet laptop dung quay dot ngot",
+        "caption": "Quạt tản nhiệt dừng quay ngay khi tắt máy"
+      },
+      {
+        "narration": "Tuy nhiên, chip xử lý CPU và bo mạch bên trong vẫn đang nóng tới gần 70 độ C.",
+        "search": "thermal camera camera nhiet 3d chip laptop do ruc 70 do",
+        "caption": "Chip xử lý vẫn giữ nhiệt độ 60 đến 70 độ C"
+      },
+      {
+        "narration": "Vì quạt đã tắt, luồng nhiệt khổng lồ không được tống ra ngoài mà bốc thẳng tự nhiên lên trên.",
+        "search": "3d animation luong khi nong boc len tu ban phim laptop",
+        "caption": "Nhiệt lượng bốc thẳng lên trên không lối thoát"
+      },
+      {
+        "narration": "Nếu bạn gập nắp lại, mặt kính màn hình sẽ áp sát trực tiếp vào lò nướng bốc lửa này.",
+        "search": "hoat hinh 3d nap laptop dong sat vao mat phim nong",
+        "caption": "Gập máy biến khe hở thành lò hấp nhiệt"
+      },
+      {
+        "narration": "Lớp keo quang học và tinh thể lỏng mỏng manh bắt đầu bị nung nấu liên tục từng ngày.",
+        "search": "3d explainer mat cat cac lop tam nen lcd man hinh bi nong",
+        "caption": "Lớp keo và tinh thể lỏng bị nung nấu liên tục"
+      },
+      {
+        "narration": "Nhiệt lượng 60 độ C không lối thoát sẽ làm biến tính các bóng bán dẫn siêu nhỏ và thoái hóa lớp keo kết dính tấm nền.",
+        "search": "hoat hinh 3d lop man hinh laptop bi nhiet nung chay",
+        "caption": "Nhiệt độ cao làm hỏng lớp keo và tinh thể lỏng"
+      },
+      {
+        "narration": "Hậu quả là màn hình xuất hiện các dải sọc ngang dọc chập chờn, đốm sáng loang lổ hoặc ố vàng vĩnh viễn ở viền dưới.",
+        "search": "3d render man hinh laptop bi soc mau hong xanh",
+        "caption": "Màn hình xuất hiện sọc và vết ám vàng vĩnh viễn"
+      },
+      {
+        "narration": "Chi phí để thay thế nguyên cụm màn hình này có thể ngốn từ 30 đến 50 phần trăm giá trị chiếc máy.",
+        "search": "motion graphics vi tien bay ra khoi laptop",
+        "caption": "Chi phí thay màn hình ngốn tới nửa giá trị máy"
+      },
+      {
+        "narration": "Giải pháp cực kỳ đơn giản: hãy áp dụng quy tắc 60 giây, giữ nguyên nắp mở sau khi tắt nguồn để nhiệt giải tỏa hoàn toàn.",
+        "search": "hoat hinh 3d dong ho dem nguoc 60 giay ben canh laptop",
+        "caption": "Áp dụng quy tắc 60 giây để máy tự thoát nhiệt"
+      },
+      {
+        "narration": "Chỉ cần kiên nhẫn đúng một phút trước khi gập máy và cất vào balo, bạn đã bảo vệ chiếc laptop bền bỉ thêm nhiều năm.",
+        "search": "3d animation nguoi gap laptop sach se cat vao balo",
+        "caption": "Chờ 1 phút giúp màn hình bền thêm nhiều năm"
+      }
+    ],
+    "error": "",
+    "youtube_id": "Z8gWOfjytcM",
+    "youtube_url": "https://www.youtube.com/watch?v=Z8gWOfjytcM",
+    "created_at": "2026-10-19T18:57:43.281886+00:00",
+    "updated_at": "2026-10-19T19:03:49.194375+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-19T19:01:44.686650+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 52 de vua 55s)",
+        "at": "2026-10-19T19:02:13.385127+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.5s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-10-19T19:02:24.089758+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T19:02:25.656822+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-19T19:02:42.482959+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-19T19:02:42.599017+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.6s 18634093 bytes",
+        "at": "2026-10-19T19:03:39.083828+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Z8gWOfjytcM",
+        "at": "2026-10-19T19:03:44.119120+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab9OMvaW93rc0AZRYtFTIHR7RLaIhDjkxlDSee34TygEsDt-iZc",
+        "at": "2026-10-19T19:03:45.610701+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T19:03:47.067043+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T19:03:47.384854+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Z8gWOfjytcM\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T19:03:48.897823+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T19:03:48.956148+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T19:03:49.194356+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/3755081/3755081-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6585409/6585409-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/40123798/17133417_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/15439758/15439758-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7600545/7600545-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39473719/16813355_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8721655/8721655-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/18069700/18069700-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6566841/6566841-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439756/15439756-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38385541/16301153_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/31804128/13550156_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "1b7b64907d",
     "kind": "short",
     "channel": "Channel3",
