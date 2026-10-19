@@ -1,5 +1,630 @@
 [
   {
+    "id": "7501f4f701",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Chess Match That Saved an Empire: How One Move Stopped an Army",
+    "idea": {
+      "title": "The Chess Match That Saved an Empire: How One Move Stopped an Army",
+      "hook": "In 1078, a Moorish vizier risked an entire kingdom on a single game of chess—and shocked the Christian world.",
+      "beats": [
+        "In 1078, the glittering Muslim city of Seville faced total destruction as the formidable armies of Christian King Alfonso VI marched to its gates.",
+        "During the fractured era of Al-Andalus, small Taifa kingdoms were forced to pay heavy tributes or face annihilation by the expanding northern kingdoms.",
+        "Abu al-Qasim Ibn Ammar, a brilliant court poet turned vizier, realized Seville could never defeat Alfonso's army on an open battlefield.",
+        "Rather than relying on military force, Ibn Ammar devised an unprecedented psychological trap targeting Alfonso VI's pride and passion for games.",
+        "Ibn Ammar traveled to the Christian war camp carrying a legendary chessboard, intricately carved from precious woods, gold, and ebony.",
+        "Captivated by the artisan masterpiece, King Alfonso demanded to possess the board, falling directly into the vizier's calculated trap.",
+        "Ibn Ammar agreed to play for the board on one condition: the game would be played for a blind wager where the winner could demand anything within the loser's power.",
+        "Intrigued and supremely confident in his own tactical skills, Alfonso accepted the high-stakes gamble in front of his court nobles.",
+        "Upon agreeing to the terms, Ibn Ammar revealed his condition: if he won, Alfonso had to spare Seville, lift the siege, and march his entire army home.",
+        "Inside an opulent tent amid tens of thousands of armed soldiers, the two men engaged in a intense, battle of grand strategy over the board.",
+        "Ibn Ammar utilized superior grandmaster tactics to systematically break Alfonso's defenses, forcing the Christian king into a decisive checkmate.",
+        "Bound by strict medieval chivalric honor and public oaths, King Alfonso kept his knightly word, accepted tribute, and ordered his massive host to retreat without shedding blood.",
+        "The game preserved Seville for decades, cementing Ibn Ammar's legacy as a master of intellectual warfare who won a war without firing an arrow."
+      ],
+      "keywords": [
+        "Ibn Ammar",
+        "Alfonso VI",
+        "Seville history",
+        "Moorish Spain",
+        "Reconquista",
+        "medieval chess",
+        "Al Andalus",
+        "history of chess",
+        "medieval diplomacy",
+        "battle of minds"
+      ],
+      "tags": [
+        "History Documentary",
+        "Moorish Spain",
+        "Alfonso VI",
+        "Ibn Ammar",
+        "Chess History",
+        "Reconquista",
+        "Medieval Warfare",
+        "Seville History",
+        "Ancient Strategy",
+        "Unusual Battles"
+      ],
+      "kind": "long",
+      "thumbnail_text": "A KINGDOM ON ONE MOVE"
+    },
+    "scenes": [
+      {
+        "narration": "One chess game stopped an unstoppable medieval Christian invasion.",
+        "search": "medieval chess manuscript illumination 11th century",
+        "caption": "A single chess move halted an invading medieval army."
+      },
+      {
+        "narration": "In 1078, the forces of King Alfonso VI of Castile-León surrounded the Islamic Taifa of Seville, threatening total conquest.",
+        "search": "alfonso vi of leon castile medieval miniature manuscript",
+        "caption": "King Alfonso VI surrounded Seville in 1078."
+      },
+      {
+        "narration": "Following the collapse of the Cordoba Caliphate, fractured Iberian Muslim states paid crushing annual tributes to avoid annihilation.",
+        "search": "al andalus cordoba caliphate medieval map engraving",
+        "caption": "Fractured Taifa kingdoms paid massive tributes to survive Christian conquest."
+      },
+      {
+        "narration": "Seville's ruler al-Mu'tamid turned to his prime minister, the poet Abu al-Qasim Ibn Ammar, who recognized an open battlefield defeat was certain.",
+        "search": "al mutamid seville alcazar medieval engraving",
+        "caption": "Vizier Ibn Ammar realized Seville could not win on the battlefield."
+      },
+      {
+        "narration": "Exploiting Alfonso's passion for games, Ibn Ammar commissioned a masterwork chessboard crafted from ebony, sandalwood, and inlaid gold.",
+        "search": "carved medieval islamic ivory chess pieces artifact",
+        "caption": "Ibn Ammar commissioned an exquisite gold and ebony chessboard."
+      },
+      {
+        "narration": "Riding directly into the Christian siege encampment without an escort, the unarmed vizier unveiled the board before Alfonso's generals.",
+        "search": "medieval military camp tents manuscript illustration",
+        "caption": "The unarmed vizier entered the Christian camp alone."
+      },
+      {
+        "narration": "Captivated by the rare artisan relic, Alfonso demanded to claim it, walking directly into Ibn Ammar's psychological trap.",
+        "search": "medieval king playing chess manuscript illumination",
+        "caption": "Alfonso demanded the chessboard, stepping into a diplomatic trap."
+      },
+      {
+        "narration": "Ibn Ammar agreed to play on one lethal condition: a blind wager where the victor could demand anything within the loser's power.",
+        "search": "medieval nobles wagering manuscript illustration",
+        "caption": "The vizier demanded a blind wager with the kingdom at stake."
+      },
+      {
+        "narration": "Surrounded by his Castilian nobles and bishops, King Alfonso VI accepted the blind wager, confident that no Moorish poet could outmaneuver him on the board.",
+        "search": "king alfonso vi castile medieval illuminated manuscript miniature",
+        "caption": "Alfonso VI accepts the blind wager before his assembled royal court."
+      },
+      {
+        "narration": "Before the opening move, Ibn Ammar declared his demand: if he won, the Christian army had to lift the siege of Seville and withdraw immediately across the border.",
+        "search": "medieval siege warfare tent camp oil painting",
+        "caption": "Ibn Ammar demands Alfonso abandon the siege if defeated."
+      },
+      {
+        "narration": "Alfonso's counselors protested the outrageous gamble, but under the chivalric code of medieval Iberia, a Christian monarch could not retract a public pledge.",
+        "search": "medieval spanish knights council 11th century manuscript illumination",
+        "caption": "Medieval chivalric codes prevented Alfonso from retracting his royal pledge."
+      },
+      {
+        "narration": "The match was played according to the rules of shatranj, where queens and bishops possessed limited mobility, transforming the contest into a slow, grinding positional war.",
+        "search": "medieval shatranj chess game illuminated manuscript miniature",
+        "caption": "Played under shatranj rules, the match became an agonizing positional duel."
+      },
+      {
+        "narration": "Alfonso opened with an aggressive frontal assault, advancing his knights and rooks across the center squares to crush Ibn Ammar’s defensive formation.",
+        "search": "medieval chess pieces ivory 11th century artifact",
+        "caption": "Alfonso launched an aggressive offensive across the center of the board."
+      },
+      {
+        "narration": "Ibn Ammar absorbed the onslaught without flinching, methodically trading minor pawns while subtly restricting the movement of Alfonso’s king.",
+        "search": "arab scholar vizier medieval al-andalus miniature manuscript",
+        "caption": "Ibn Ammar countered by systematically restricting the Castilian king's mobility."
+      },
+      {
+        "narration": "Outside the royal pavilion, tens of thousands of Castilian soldiers and Seville scouts waited in silence, oblivious that the kingdom’s survival hung on wooden squares.",
+        "search": "medieval spanish army encamped outside city walls historical oil painting",
+        "caption": "Thousands of troops stood waiting as Seville's fate hung in the balance."
+      },
+      {
+        "narration": "Several hours into the contest, Alfonso reached for his remaining knight, only to realize Ibn Ammar had lured his monarch into an inescapable tactical net.",
+        "search": "medieval chess match king checkmate historical engraving",
+        "caption": "Hours in, Alfonso realized his royal pieces were hopelessly ensnared."
+      },
+      {
+        "narration": "With a single decisive move across the ebony board in 1078, Ibn Ammar trapped Alfonso VI’s king, sealing an undeniable checkmate.",
+        "search": "medieval chess game manuscript illustration 11th century",
+        "caption": "Ibn Ammar forces checkmate in 1078"
+      },
+      {
+        "narration": "The Christian monarch faced a staggering dilemma: honor a blind wager made before his court, or break his royal word and sack Seville anyway.",
+        "search": "King Alfonso VI of Leon oil painting",
+        "caption": "Alfonso VI faces a critical choice"
+      },
+      {
+        "narration": "Castilian nobles urged the king to ignore the deal, but medieval chivalric codes severely punished broken oaths sworn in public.",
+        "search": "medieval knights inside royal pavilion illuminated manuscript",
+        "caption": "Castilian nobles debate the royal wager"
+      },
+      {
+        "narration": "Conceding defeat, Alfonso VI honored the game's terms, agreeing to spare Seville in exchange for a doubled annual tribute.",
+        "search": "medieval siege army royal camp oil painting",
+        "caption": "Alfonso VI accepts terms and tribute"
+      },
+      {
+        "narration": "The massive Christian host standing outside the city walls was ordered to strike their tents and retreat northward without firing a weapon.",
+        "search": "medieval army retreat warfare engraving",
+        "caption": "The Christian host abandons the siege"
+      },
+      {
+        "narration": "Ibn Ammar returned to Seville as a hero, having preserved the taifa kingdom’s independence for decades solely through intellectual strategy.",
+        "search": "medieval city of Seville old map engraving",
+        "caption": "Seville spared without blood shed"
+      },
+      {
+        "narration": "This single chess match delayed the Christian conquest of southern Al-Andalus, reshaping diplomatic warfare across 11th-century Iberia.",
+        "search": "Al Andalus 11th century historical map engraving",
+        "caption": "The Reconquista delayed in Al-Andalus"
+      },
+      {
+        "narration": "The legend of 1078 remains a timeless masterpiece of history, proving one move on a wooden board could halt an invading empire.",
+        "search": "Ibn Ammar vizier of Seville historical illustration",
+        "caption": "Victory achieved through intellectual warfare"
+      },
+      {
+        "narration": "In 1078, the Iberian Peninsula was violently fractured following the collapse of the Caliphate of Córdoba into competing Taifa kingdoms.",
+        "search": "al andalus map 11th century manuscript illustration",
+        "caption": "Al-Andalus fractured into competing Taifa kingdoms by 1078."
+      },
+      {
+        "narration": "King Alfonso VI of León and Castile exploited this division by demanding exorbitant annual tributes known as parias under threat of military destruction.",
+        "search": "king alfonso vi castile portrait oil painting",
+        "caption": "Alfonso VI demanded massive annual tributes from Muslim rulers."
+      },
+      {
+        "narration": "The prosperous Taifa of Seville, ruled by Emir Al-Mu'tamid, possessed immense wealth but lacked the troop numbers to endure a direct siege.",
+        "search": "seville alcazar moorish architecture 19th century oil painting",
+        "caption": "Seville’s vast wealth made it Alfonso VI’s ultimate target."
+      },
+      {
+        "narration": "When Seville delayed payments in 1078, Alfonso VI mobilized thousands of armored cavalry and marched directly toward the city walls.",
+        "search": "medieval knight army marching 19th century oil painting",
+        "caption": "Thousands of heavy Christian cavalry marched toward Seville’s defenses."
+      },
+      {
+        "narration": "Recognizing that military defense meant total destruction, Seville's grand vizier, Abu al-Qasim Ibn Ammar, engineered a radical psychological defense.",
+        "search": "moorish vizier scholar miniature manuscript illumination",
+        "caption": "Vizier Ibn Ammar devised an unprecedented psychological strategy."
+      },
+      {
+        "narration": "Ibn Ammar carefully studied Alfonso VI's personal flaws, discovering the Christian monarch's overwhelming pride in tactical games and strategic gambling.",
+        "search": "medieval king playing board game illuminated manuscript",
+        "caption": "Alfonso VI was renowned for his obsessive tactical vanity."
+      },
+      {
+        "narration": "The vizier commissioned a magnificent chessboard inlaid with sandalwood, ebony, gold, and ivory to serve as irresistible psychological bait.",
+        "search": "medieval luxury chessboard inlaid wood gold artifact photo",
+        "caption": "An extraordinary artisan chessboard was crafted as high-stakes bait."
+      },
+      {
+        "narration": "Leaving the safety of Seville, Ibn Ammar rode directly into Alfonso VI’s vast war camp carrying the hidden masterpiece into enemy territory.",
+        "search": "medieval royal tent encampment oil painting",
+        "caption": "Ibn Ammar entered the Christian war camp single-handedly."
+      },
+      {
+        "narration": "In the autumn of 1078, Abu al-Qasim Ibn Ammar entered King Alfonso VI’s forward encampment outside Seville under a diplomatic flag of truce. Castilian sentries escorted the Moorish envoy directly into the royal pavilion, unaware of the gambit he brought with him.",
+        "search": "Alfonso VI of Castile medieval manuscript miniature illumination",
+        "caption": "Ibn Ammar enters the royal Castilian camp in autumn 1078."
+      },
+      {
+        "narration": "Before Alfonso’s assembled nobles and military council, Ibn Ammar unveiled the masterwork chessboard inlaid with polished ebony, ivory, and gold leaf. The exquisite craftsmanship immediately captivated the assembly, transforming a hostile military negotiation into an exhibition of luxury.",
+        "search": "medieval ivory chess pieces Charlemagne set 11th century museum photo",
+        "caption": "The opulent ebony and ivory board mesmerized the Christian court."
+      },
+      {
+        "narration": "Alfonso VI, a well-known enthusiast of medieval shatranj, immediately demanded to purchase the set for the Crown of Castile. Sensing the monarch's growing obsession, the vizier deliberately rejected every financial offer presented by the king.",
+        "search": "King Alfonso VI of Leon oil painting portrait historical",
+        "caption": "Alfonso VI demanded to purchase the set, but was refused."
+      },
+      {
+        "narration": "Instead of accepting gold, Ibn Ammar proposed a wager: Alfonso could win the priceless board in a single game of chess. In return, the loser had to grant whatever demand the victor chose to name, without precondition.",
+        "search": "Alfonso X Libro de los juegos chess match medieval manuscript miniature",
+        "caption": "Ibn Ammar proposed a high-stakes blind wager over the board."
+      },
+      {
+        "narration": "Castilian barons and senior prelates immediately urged Alfonso to reject the proposal, warning that a blind wager with a Taifa diplomat carried hidden political hazards. The commanders demanded that the vizier declare his specific demands before a single move was played.",
+        "search": "11th century medieval knights council war tent historical illustration",
+        "caption": "Castilian commanders warned Alfonso against accepting an open-ended bet."
+      },
+      {
+        "narration": "Driven by royal pride and supreme confidence in his strategic skill, Alfonso VI silenced his council and bound himself with a solemn public oath. The Castilian monarch sat opposite Ibn Ammar, sealing the contest before his assembled nobility.",
+        "search": "medieval Christian king and Moorish noble playing chess illumination manuscript",
+        "caption": "Alfonso VI overruled his generals and formally accepted the challenge."
+      },
+      {
+        "narration": "With the oath locked in place, Ibn Ammar revealed his victory demand: should he defeat the king, Alfonso had to immediately lift the siege and withdraw his entire army from Seville's territory. The Christian camp fell silent as the entire conquest of Andalusia was suddenly tied to a board game.",
+        "search": "medieval siege of Moorish city Spain vintage engraving",
+        "caption": "The vizier demanded the full withdrawal of Alfonso's invading army."
+      },
+      {
+        "narration": "Bound by chivalric honor, Alfonso VI refused to retract his word, and the two men reached out to make their opening moves. Outside the tent, tens of thousands of armed soldiers waited, completely unaware that their war now hung upon sixty-four squares.",
+        "search": "detailed close up antique medieval wooden and ivory chess pieces",
+        "caption": "Seville's survival hung entirely on the outcome of sixty-four squares."
+      },
+      {
+        "narration": "Inside the torchlit tent, King Alfonso played with aggressive, direct force, while Ibn Ammar executed the subtle positional strategies perfected in the scholarly courts of Islamic Spain.",
+        "search": "medieval chess game manuscript illumination 11th century",
+        "caption": "Direct martial aggression met Islamic grandmaster strategy."
+      },
+      {
+        "narration": "As Christian nobles watched intently, Alfonso captured several key pieces, confident that his brute tactical momentum would secure the kingdom of Seville.",
+        "search": "Alfonso VI of Leon oil painting portrait",
+        "caption": "Alfonso gained early material advantages, confident of victory."
+      },
+      {
+        "narration": "Unshaken by his losses, Ibn Ammar executed a planned sacrifice, surrendering a major piece to permanently shatter the king's pawn structure.",
+        "search": "Ibn Ammar Seville vizier historical illustration",
+        "caption": "A calculated piece sacrifice exposed the king's position."
+      },
+      {
+        "narration": "Alfonso stared at the ebony board in sudden disbelief as he realized every apparent advantage had been part of a carefully orchestrated psychological trap.",
+        "search": "medieval royal tent interior engraving",
+        "caption": "Alfonso realized his early gains were a deliberate trap."
+      },
+      {
+        "narration": "With a single decisive move of his piece, Ibn Ammar cornered the monarch's king, declaring a complete and inescapable checkmate.",
+        "search": "11th century carved ivory chess pieces photograph",
+        "caption": "A single move forced the Christian king into checkmate."
+      },
+      {
+        "narration": "Though his generals urged him to break the agreement and burn Seville anyway, Alfonso VI refused to violate his sworn knightly oath before his court.",
+        "search": "medieval knightly oath Christian king oil painting",
+        "caption": "Bound by honor, Alfonso refused to break his oath."
+      },
+      {
+        "narration": "In 1078, King Alfonso accepted a heightened annual tribute and ordered his tens of thousands of troops to lift the siege and march home.",
+        "search": "siege of medieval city engraving map 11th century",
+        "caption": "Alfonso lifted the siege and retreated without bloodshed."
+      },
+      {
+        "narration": "Ibn Ammar's brilliant gambit preserved the Taifa of Seville for decades, demonstrating how intellectual warfare halted an army without a single arrow fired.",
+        "search": "medieval Seville city walls old map engraving",
+        "caption": "Intellectual strategy saved Seville without a single casualty."
+      },
+      {
+        "narration": "In 1078, the glittering Muslim city of Seville faced total destruction as the formidable armies of Christian King Alfonso VI marched to its gates.",
+        "search": "medieval siege of a walled city manuscript illustration",
+        "caption": "Seville faced total destruction in 1078."
+      },
+      {
+        "narration": "During the fractured era of Al-Andalus, small Taifa kingdoms were forced to pay heavy tributes or face annihilation by the expanding northern kingdoms.",
+        "search": "medieval moorish fortress al andalus painting",
+        "caption": "Small Taifa kingdoms faced annihilation during the Reconquista."
+      },
+      {
+        "narration": "Abu al-Qasim Ibn Ammar, a brilliant court poet turned vizier, realized Seville could never defeat Alfonso's army on an open battlefield.",
+        "search": "ibn ammar courtier historical portrait painting",
+        "caption": "Vizier Ibn Ammar knew open battle meant defeat."
+      },
+      {
+        "narration": "Rather than relying on military force, Ibn Ammar devised an unprecedented psychological trap targeting Alfonso VI's pride and passion for games.",
+        "search": "medieval king playing chess illuminated manuscript miniature",
+        "caption": "A psychological trap targeted King Alfonso's pride."
+      },
+      {
+        "narration": "Ibn Ammar traveled to the Christian war camp carrying a legendary chessboard, intricately carved from precious woods, gold, and ebony.",
+        "search": "medieval luxury carved chess set artifact museum piece",
+        "caption": "He carried a legendary, intricately carved chessboard."
+      },
+      {
+        "narration": "Captivated by the artisan masterpiece, King Alfonso demanded to possess the board, falling directly into the vizier's calculated trap.",
+        "search": "king alfonso vi historical portrait painting likeness",
+        "caption": "King Alfonso demanded the artisan masterpiece."
+      },
+      {
+        "narration": "Ibn Ammar agreed to play for the board on one condition: the game would be played for a blind wager where the winner could demand anything within the loser's power.",
+        "search": "medieval nobles playing board game oil painting",
+        "caption": "They played for a high-stakes blind wager."
+      },
+      {
+        "narration": "Intrigued and supremely confident in his own tactical skills, Alfonso accepted the high-stakes gamble in front of his court nobles.",
+        "search": "medieval court nobles gathering manuscript art",
+        "caption": "Alfonso accepted the gamble before his court."
+      },
+      {
+        "narration": "Upon agreeing to the terms, Ibn Ammar revealed his condition: if he won, Alfonso had to spare Seville, lift the siege, and march his entire army home.",
+        "search": "medieval vizier courtier manuscript illumination",
+        "caption": "The hidden wager revealed: Seville's survival on the line"
+      },
+      {
+        "narration": "Inside an opulent tent amid tens of thousands of armed soldiers, the two men engaged in an intense battle of grand strategy over the board.",
+        "search": "medieval military encampment tent painting",
+        "caption": "High-stakes chess inside the Christian siege camp"
+      },
+      {
+        "narration": "Ibn Ammar utilized superior grandmaster tactics to systematically break Alfonso's defenses, forcing the Christian king into a decisive checkmate.",
+        "search": "medieval chess game manuscript miniature",
+        "caption": "Masterful tactics trap the Christian king"
+      },
+      {
+        "narration": "Bound by strict medieval chivalric honor and public oaths, King Alfonso kept his knightly word, accepted tribute, and ordered his massive host to retreat without shedding blood.",
+        "search": "medieval king medieval knight army retreat painting",
+        "caption": "Honor-bound retreat of the massive Christian host"
+      },
+      {
+        "narration": "The brilliant psychological gamble preserved Seville for decades, sparing the glittering southern metropolis from immediate destruction.",
+        "search": "Seville Moorish architecture alcazar medieval illustration",
+        "caption": "The glittering city of Seville spared from war"
+      },
+      {
+        "narration": "This extraordinary diplomatic victory cemented Ibn Ammar's legacy as a master of intellectual warfare who won a kingdom without firing a single arrow.",
+        "search": "Moorish scholar vizier portrait illumination",
+        "caption": "Ibn Ammar's legacy as a master of intellectual warfare"
+      },
+      {
+        "narration": "During the fractured era of Al-Andalus, small Taifa kingdoms constantly faced annihilation by expanding northern Christian empires.",
+        "search": "Al-Andalus medieval map 11th century cartography",
+        "caption": "The fractured Taifa kingdoms of Al-Andalus"
+      },
+      {
+        "narration": "The legendary match of 1078 remains one of history's most audacious triumphs of diplomacy over brute military force.",
+        "search": "medieval chess pieces ivory carved artifact museum",
+        "caption": "A legendary victory of diplomacy over brute force"
+      },
+      {
+        "narration": "In 1078, King Alfonso VI marched his formidable Christian army to the gates of the wealthy Moorish city of Seville.",
+        "search": "medieval army siege medieval manuscript illumination",
+        "caption": "King Alfonso VI's army arrives at Seville's gates"
+      },
+      {
+        "narration": "During the fractured era of Al-Andalus, small Taifa kingdoms faced constant annihilation by expanding northern Christian empires.",
+        "search": "moorish spain taifa palace architecture photograph",
+        "caption": "The fractured Taifa kingdoms of Al-Andalus"
+      },
+      {
+        "narration": "Abu al-Qasim Ibn Ammar, a brilliant court poet turned vizier, realized Seville could never defeat Alfonso's forces on an open battlefield.",
+        "search": "ibn ammar arab scholar medieval illustration",
+        "caption": "Vizier Ibn Ammar seeks a non-military solution"
+      },
+      {
+        "narration": "Rather than relying on military force, Ibn Ammar devised an unprecedented psychological trap targeting Alfonso VI's passion for games.",
+        "search": "medieval chess board carved ivory artifact museum",
+        "caption": "A legendary chess set becomes a diplomatic weapon"
+      },
+      {
+        "narration": "Ibn Ammar traveled directly to the Christian war camp carrying a priceless chessboard crafted from precious woods, gold, and ebony.",
+        "search": "medieval king tent camp tapestries historical painting",
+        "caption": "Entering the Christian war camp"
+      },
+      {
+        "narration": "Captivated by the artisan masterpiece, King Alfonso demanded to possess the board, falling directly into the vizier's calculated trap.",
+        "search": "alfonso vi of leon portrait oil painting",
+        "caption": "King Alfonso falls for the vizier's trap"
+      },
+      {
+        "narration": "Ibn Ammar agreed to play for the board on one condition: a blind wager where the winner could demand anything within the loser's power.",
+        "search": "medieval chess game players manuscript miniature",
+        "caption": "A high-stakes chess wager is proposed"
+      },
+      {
+        "narration": "Intrigued and supremely confident in his own tactical skills, Alfonso accepted the high-stakes gamble in front of his court nobles.",
+        "search": "medieval royal court nobles seated interior painting",
+        "caption": "The Christian king accepts the gamble"
+      },
+      {
+        "narration": "Upon agreeing to the terms, Ibn Ammar revealed his condition: if he won, Alfonso had to spare Seville, lift the siege, and march his entire army home.",
+        "search": "medieval Christian king in tent manuscript illustration",
+        "caption": "The astonishing wager to save Seville"
+      },
+      {
+        "narration": "Inside an opulent tent amid tens of thousands of armed soldiers, the two men engaged in an intense battle of grand strategy over the board.",
+        "search": "medieval chess game illuminated manuscript detail",
+        "caption": "High-stakes chess in the royal camp"
+      },
+      {
+        "narration": "Ibn Ammar utilized superior grandmaster tactics to systematically break Alfonso's defenses, forcing the Christian king into a decisive checkmate.",
+        "search": "medieval Moorish chess set ivory artifact museum display",
+        "caption": "A masterclass in strategic positioning"
+      },
+      {
+        "narration": "Bound by strict medieval chivalric honor and public oaths, King Alfonso kept his knightly word, accepted tribute, and ordered his massive host to retreat without shedding blood.",
+        "search": "medieval army retreating through landscape oil painting",
+        "caption": "Alfonso honors the wager and retreats"
+      },
+      {
+        "narration": "The game preserved Seville for decades, cementing Ibn Ammar's legacy as a master of intellectual warfare who won a war without firing an arrow.",
+        "search": "Seville Alcazar medieval architecture Moorish design photograph",
+        "caption": "Seville saved by a single chess match"
+      },
+      {
+        "narration": "In 1078, a Moorish vizier risked an entire kingdom on a single game of chess.",
+        "search": "medieval chess set ivory museum display macro shot",
+        "caption": "A single chess match saved Seville in 1078."
+      },
+      {
+        "narration": "The glittering Muslim city of Seville faced total destruction as King Alfonso VI marched his armies to its gates.",
+        "search": "medieval manuscript illumination marching army besieging city walls",
+        "caption": "King Alfonso VI laid siege to Seville."
+      },
+      {
+        "narration": "During the fractured era of Al-Andalus, small Taifa kingdoms paid heavy tributes to survive the expanding northern Christian kingdoms.",
+        "search": "medieval moorish palace interior courtyards seville alcazar architecture",
+        "caption": "Al-Andalus kingdoms faced relentless Reconquista pressure."
+      },
+      {
+        "narration": "Rather than relying on military might, Ibn Ammar devised an unprecedented psychological trap targeting Alfonso's passion for games.",
+        "search": "medieval royal court nobles gathered around gaming table",
+        "caption": "Ibn Ammar targeted King Alfonso's passion for games."
+      }
+    ],
+    "error": "",
+    "youtube_id": "hNxRq4wmCJ8",
+    "youtube_url": "https://www.youtube.com/watch?v=hNxRq4wmCJ8",
+    "created_at": "2026-10-19T19:37:56.747397+00:00",
+    "updated_at": "2026-10-19T20:08:06.505536+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "77 scenes",
+        "at": "2026-10-19T19:54:14.580529+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3322 chars",
+        "at": "2026-10-19T19:55:33.209997+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "195.6s en-US-GuyNeural 25 cau",
+        "at": "2026-10-19T19:55:41.326128+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T19:55:51.084840+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-19T20:02:21.782149+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T20:02:21.856359+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 195.6s 125434901 bytes",
+        "at": "2026-10-19T20:07:40.432538+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-10-19T20:07:40.566840+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=hNxRq4wmCJ8",
+        "at": "2026-10-19T20:08:01.187004+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDab3waeHk0_plGvOQXdCq5hFGtOh_Kz0lyOLUPxPZWTHNsxPqqzd",
+        "at": "2026-10-19T20:08:02.516953+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T20:08:04.092789+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T20:08:04.450308+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"hNxRq4wmCJ8\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T20:08:06.208548+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T20:08:06.277694+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T20:08:06.505521+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4596570/pexels-photo-4596570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11829263/pexels-photo-11829263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31538426/pexels-photo-31538426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532720/pexels-photo-36532720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35316800/pexels-photo-35316800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12978861/pexels-photo-12978861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525633/pexels-photo-30525633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36719652/pexels-photo-36719652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268595/pexels-photo-9268595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39255552/pexels-photo-39255552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6028660/pexels-photo-6028660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12520327/pexels-photo-12520327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37697014/pexels-photo-37697014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39709510/pexels-photo-39709510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12978859/pexels-photo-12978859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532721/pexels-photo-36532721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20903117/pexels-photo-20903117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30726093/pexels-photo-30726093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/943534/pexels-photo-943534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/161813/middle-ages-helm-knight-armor-161813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16778433/pexels-photo-16778433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34369618/pexels-photo-34369618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31538424/pexels-photo-31538424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34369629/pexels-photo-34369629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37490256/pexels-photo-37490256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16681095/pexels-photo-16681095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267469/pexels-photo-9267469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319245/pexels-photo-29319245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7041547/pexels-photo-7041547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36043076/pexels-photo-36043076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1470585/pexels-photo-1470585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15529795/pexels-photo-15529795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7978839/pexels-photo-7978839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32072309/pexels-photo-32072309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6599560/pexels-photo-6599560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28909679/pexels-photo-28909679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532733/pexels-photo-36532733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34090985/pexels-photo-34090985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12878643/pexels-photo-12878643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6946616/pexels-photo-6946616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397831/pexels-photo-16397831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38160161/pexels-photo-38160161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37374996/pexels-photo-37374996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9939032/pexels-photo-9939032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5773206/pexels-photo-5773206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22046617/pexels-photo-22046617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30643272/pexels-photo-30643272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27304997/pexels-photo-27304997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34369619/pexels-photo-34369619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39617579/pexels-photo-39617579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6028690/pexels-photo-6028690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6599548/pexels-photo-6599548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28990626/pexels-photo-28990626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532724/pexels-photo-36532724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12823298/pexels-photo-12823298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9388418/pexels-photo-9388418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267422/pexels-photo-9267422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5477779/pexels-photo-5477779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38009863/pexels-photo-38009863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16627228/pexels-photo-16627228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33869124/pexels-photo-33869124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7085827/pexels-photo-7085827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12520328/pexels-photo-12520328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34531733/pexels-photo-34531733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11829133/pexels-photo-11829133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12381332/pexels-photo-12381332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12376192/pexels-photo-12376192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267424/pexels-photo-9267424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251944/pexels-photo-31251944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7978849/pexels-photo-7978849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14620941/pexels-photo-14620941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13291524/pexels-photo-13291524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532729/pexels-photo-36532729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12520336/pexels-photo-12520336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3396023/pexels-photo-3396023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16071213/pexels-photo-16071213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532725/pexels-photo-36532725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6379410/pexels-photo-6379410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34831191/pexels-photo-34831191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31089887/pexels-photo-31089887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7744c679fa",
     "kind": "short",
     "channel": "Channel3",
