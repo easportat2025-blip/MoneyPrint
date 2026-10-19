@@ -1,5 +1,197 @@
 [
   {
+    "id": "54bc0567e2",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sự thật đáng sợ khi bạn dùng cồn lau màn hình điện thoại",
+    "idea": {
+      "title": "Sự thật đáng sợ khi bạn dùng cồn lau màn hình điện thoại",
+      "hook": "Bạn vừa vô tình phá hủy lớp bảo vệ đắt giá nhất trên điện thoại mà không hề hay biết.",
+      "beats": [
+        "Màn hình smartphone luôn được phủ lớp oleophobic kháng dầu và chống bám vân tay tinh vi.",
+        "Khi xịt cồn 70 hoặc 90 độ, dung môi cồn lập tức hòa tan lớp phủ nano này chỉ sau vài lần lau.",
+        "Màn hình mất đi lớp tráng sẽ bám vân tay dày đặc, rít ngón tay và trầy xước nhanh gấp mười lần.",
+        "Chỉ nên dùng khăn microfiber sợi mịn thấm nhẹ nước lọc để vệ sinh bề mặt kính an toàn."
+      ],
+      "keywords": [
+        "cleaning phone screen",
+        "rubbing alcohol surface",
+        "smartphone microfiber cloth",
+        "damaged smartphone screen",
+        "liquid screen protector"
+      ],
+      "tags": [
+        "meo cong nghe",
+        "dung dien thoai dung cach",
+        "bao ve man hinh",
+        "sai lam cong nghe",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Lau cồn làm hỏng vĩnh viễn màn hình điện thoại.",
+        "search": "hoat hinh 3d tay cam chai xit con vao man hinh dien thoai",
+        "caption": "Lau cồn làm hỏng vĩnh viễn màn hình điện thoại"
+      },
+      {
+        "narration": "Nhiều người có thói quen xịt cồn 70 hoặc 90 độ vì nghĩ sẽ diệt sạch vi khuẩn.",
+        "search": "hoat hinh 3d vi khuan chuyen dong tren mat kinh dien thoai",
+        "caption": "Thói quen xịt cồn sát khuẩn màn hình mỗi ngày"
+      },
+      {
+        "narration": "Thực tế, nhà sản xuất luôn phủ một lớp màng nano vô hình mang tên oleophobic lên kính.",
+        "search": "isometric 3d mo phong cau truc lop phu nano tren man hinh smartphone",
+        "caption": "Lớp phủ nano oleophobic đắt giá trên màn hình"
+      },
+      {
+        "narration": "Lớp màng này có tác dụng đẩy lùi dầu nhờn, chống bám vân tay và giúp ngón tay lướt trơn tru.",
+        "search": "hoat hinh 3d giot dau bi truot khoi mat kinh bong loang",
+        "caption": "Bảo vệ ngón tay vuốt mượt và kháng mồ hôi"
+      },
+      {
+        "narration": "Tuy nhiên, cồn là dung môi hòa tan cực mạnh, có thể bóc sạch lớp phủ nano chỉ sau vài lần lau.",
+        "search": "mo phong 3d hoa chat an mon lop bao ve man hinh",
+        "caption": "Dung môi cồn lập tức ăn mòn lớp nano mỏng"
+      },
+      {
+        "narration": "Khi lớp màng bảo vệ biến mất, dầu mỡ và mồ hôi sẽ bám thẳng vào mặt kính trần.",
+        "search": "hoat hinh 3d dau van tay bam loang lo nhanh tren kinh dien thoai",
+        "caption": "Vân tay bám dày đặc và không thể lau sạch"
+      },
+      {
+        "narration": "Màn hình sẽ trở nên rít ráp, khó vuốt và dễ bị trầy xước sâu gấp mười lần bình thường.",
+        "search": "can canh 3d mat kinh smartphone bi vet xuoc dam chong cheo",
+        "caption": "Kính bị rít tay và trầy xước nhanh gấp 10 lần"
+      },
+      {
+        "narration": "Để bảo vệ máy, bạn chỉ nên dùng khăn microfiber sợi mịn thấm nhẹ nước lọc để vệ sinh.",
+        "search": "hoat hinh 3d dung khan microfiber lau nhe man hinh dien thoai",
+        "caption": "Chỉ dùng khăn microfiber sợi mịn thấm nhẹ nước lọc"
+      },
+      {
+        "narration": "Tệ hơn nữa, cồn lỏng có thể ngấm qua khe loa và mép kính, hòa tan lớp keo chống nước khiến máy mất khả năng bảo vệ khi rơi vào nước.",
+        "search": "hoat hinh 3d giot chat long ngam vao khe vien man hinh dien thoai",
+        "caption": "Cồn còn làm tan keo chống nước ở viền máy"
+      },
+      {
+        "narration": "Nếu tiện tay lau cụm camera, dung môi này cũng phá hủy luôn lớp chống lóa của thấu kính, khiến ảnh chụp bị mờ nhòe và lóa sáng vĩnh viễn.",
+        "search": "3d render mat kinh camera dien thoai bi mo loa bong troc",
+        "caption": "Camera bị lóa sáng vĩnh viễn khi lau bằng cồn"
+      },
+      {
+        "narration": "Kể cả khi dùng kính cường lực, cồn vẫn thấm vào mép rìa làm chảy lớp keo silicon, khiến miếng dán bị hở bọt khí và bám bụi bẩn.",
+        "search": "hoat hinh mieng dan cuong luc dien thoai bi bong keo viem",
+        "caption": "Kính cường lực cũng bị bong keo và ố vàng"
+      },
+      {
+        "narration": "Để khử khuẩn an toàn, bạn nên sử dụng hộp đèn tia UV hoặc dung dịch xịt chuyên dụng cho thiết bị điện tử xịt gián tiếp lên khăn.",
+        "search": "3d animation hop khu khuan tia uv chieu sang dien thoai",
+        "caption": "Khử khuẩn an toàn bằng hộp đèn UV chuyên dụng"
+      },
+      {
+        "narration": "Hãy thử nhỏ một giọt nước lên mặt kính: nếu giọt nước vo tròn lăn tăn là lớp phủ còn tốt, nếu loang bẹt ra tức là bạn cần dán màn hình mới ngay.",
+        "search": "3d animation giot nuoc vo tron truot tren mat kinh smartphone",
+        "caption": "Nhỏ một giọt nước để kiểm tra màn hình ngay"
+      }
+    ],
+    "error": "",
+    "youtube_id": "aLnSYviiNcQ",
+    "youtube_url": "https://www.youtube.com/watch?v=aLnSYviiNcQ",
+    "created_at": "2026-10-19T10:23:56.867589+00:00",
+    "updated_at": "2026-10-19T10:28:26.579602+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-19T10:26:42.250373+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "407 chars (cat 191 de vua 55s)",
+        "at": "2026-10-19T10:26:55.425910+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.7s vi-VN-NamMinhNeural 4 cau",
+        "at": "2026-10-19T10:27:05.122610+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T10:27:06.675676+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-19T10:27:19.966630+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-19T10:27:20.037203+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.7s 22575423 bytes",
+        "at": "2026-10-19T10:28:19.981217+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=aLnSYviiNcQ",
+        "at": "2026-10-19T10:28:23.260747+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDablsFGWqqwxE_YDtaVOWL6OOBKIxdlrIFUmolsU-PjtE5nfCGHw",
+        "at": "2026-10-19T10:28:24.300178+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T10:28:25.225236+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T10:28:25.492229+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"aLnSYviiNcQ\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T10:28:26.284432+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T10:28:26.355457+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T10:28:26.579583+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819437/8819437-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7986779/uhd_25fps.mp4",
+      "https://videos.pexels.com/video-files/35003022/14828954_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863503/15863503-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38522480/16360163_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15863501/15863501-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7985875/7985875-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6872071/6872071-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34630730/14676902_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456774/16456774-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31035607/13265350_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39047840/16615673_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39695936/16924594_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "d0dd9c747d",
     "kind": "short",
     "channel": "Channel2",
