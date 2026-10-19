@@ -1,5 +1,192 @@
 [
   {
+    "id": "6fa0439441",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Bravest General Thrust His Hand Into Fire",
+    "idea": {
+      "title": "Why Rome's Bravest General Thrust His Hand Into Fire",
+      "hook": "When a captured assassin stood before the enemy king, he did something so insane it made the monarch surrender on the spot.",
+      "beats": [
+        "In 508 BC, Gaius Mucius infiltrated an invading Etruscan army to assassinate King Porsenna but stabbed the wrong man.",
+        "Brought before the furious king and threatened with torture by fire, Mucius calmly declared that 300 Romans had sworn the same oath.",
+        "To prove Romans felt no fear, he thrust his right hand into a burning brazier and watched it roast without uttering a single scream.",
+        "Terrified by such unyielding resolve, King Porsenna released him and immediately sued for peace.",
+        "Mucius earned the lifelong title 'Scaevola'—meaning the left-handed hero of Rome."
+      ],
+      "keywords": [
+        "Gaius Mucius Scaevola painting",
+        "King Porsenna ancient etching",
+        "Roman soldier fire engraving",
+        "Etruscan siege vintage illustration",
+        "Ancient Rome classical portrait"
+      ],
+      "tags": [
+        "roman history",
+        "ancient rome",
+        "history documentary",
+        "epic history",
+        "historical legends"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A single burnt hand saved Rome from total conquest.",
+        "search": "Mucius Scaevola thrusts hand into fire oil painting",
+        "caption": "A single burnt hand saved ancient Rome from total conquest."
+      },
+      {
+        "narration": "In 508 BC, the newly formed Roman Republic faced imminent starvation under siege by Etruscan King Lars Porsenna.",
+        "search": "Etruscan siege of Rome ancient engraving",
+        "caption": "In 508 BC, King Porsenna besieged the infant Roman Republic."
+      },
+      {
+        "narration": "Desperate to break the blockade, a Roman patrician named Gaius Mucius slipped behind enemy lines on a solo assassination mission.",
+        "search": "Gaius Mucius Scaevola Roman soldier classical painting",
+        "caption": "Gaius Mucius volunteered for a solo mission to assassinate the king."
+      },
+      {
+        "narration": "Disguised among the Etruscans, Mucius struck, but killed the king's richly dressed scribe by mistake.",
+        "search": "Roman assassin strikes royal scribe ancient etching",
+        "caption": "Mucius struck his target, but killed the king's scribe by mistake."
+      },
+      {
+        "narration": "Captured by royal guards, Mucius was dragged before Porsenna, who ordered him burned alive unless he revealed Rome's battle plans.",
+        "search": "Lars Porsenna Etruscan king royal tent oil painting",
+        "caption": "King Porsenna threatened to burn the captured assassin alive."
+      },
+      {
+        "narration": "Mucius remained completely calm, declaring that three hundred Roman youths had sworn an identical oath to take the king's life.",
+        "search": "captured Roman soldier before foreign monarch painting",
+        "caption": "Mucius claimed 300 Romans had sworn an oath to kill Porsenna."
+      },
+      {
+        "narration": "To demonstrate that Roman bodies meant nothing when honor was at stake, he plunged his right hand directly into a burning altar fire.",
+        "search": "hand burning in brazier Roman sacrifice oil painting",
+        "caption": "He thrust his right hand directly into the blazing sacrificial fire."
+      },
+      {
+        "narration": "As the flames consumed his flesh, Mucius stared down the Etruscan monarch without flinching or uttering a single sound.",
+        "search": "King Porsenna astonished expression classical art painting",
+        "caption": "Mucius held his hand in the flames without uttering a scream."
+      },
+      {
+        "narration": "Terrified by such absolute indifference to agony, King Lars Porsenna ordered the assassin dragged away from the brazier and set free.",
+        "search": "King Porsenna Mucius Scaevola historical oil painting",
+        "caption": "Porsenna ordered the defiant Roman pulled from the flames."
+      },
+      {
+        "narration": "Believing that hundreds of equally relentless Romans were stalking his camp, Porsenna abandoned the siege of 508 BC and signed a peace treaty.",
+        "search": "Etruscan army retreat ancient Roman siege etching",
+        "caption": "Porsenna ended the siege of Rome in 508 BC."
+      },
+      {
+        "narration": "Rome awarded Gaius Mucius the lifelong cognomen Scaevola, immortalizing the left-handed warrior who broke an invading army without striking a blow.",
+        "search": "Gaius Mucius Scaevola classical marble statue Rome",
+        "caption": "Mucius earned the name Scaevola: Rome's left-handed hero."
+      },
+      {
+        "narration": "One Roman forced an invading king to surrender instantly.",
+        "search": "Gaius Mucius Scaevola painting",
+        "caption": "One Roman forced an invading king to surrender instantly."
+      }
+    ],
+    "error": "",
+    "youtube_id": "rtjcADXTT6A",
+    "youtube_url": "https://www.youtube.com/watch?v=rtjcADXTT6A",
+    "created_at": "2026-10-19T00:25:27.037403+00:00",
+    "updated_at": "2026-10-19T00:34:25.667274+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-19T00:30:53.343054+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "413 chars (cat 166 de vua 55s)",
+        "at": "2026-10-19T00:31:26.493285+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-19T00:31:28.847403+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T00:31:30.389426+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-19T00:33:27.199594+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T00:33:27.264830+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.0s 16103142 bytes",
+        "at": "2026-10-19T00:34:18.254916+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=rtjcADXTT6A",
+        "at": "2026-10-19T00:34:20.933163+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaag_KW8PhFxIwhtIjpYb7LJOkiJa7x7Hd5J4mnC8MT0HOwLFSIj",
+        "at": "2026-10-19T00:34:22.257149+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T00:34:24.292627+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T00:34:24.560017+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"rtjcADXTT6A\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T00:34:25.403166+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T00:34:25.469416+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T00:34:25.667260+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17747096/pexels-photo-17747096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38811437/pexels-photo-38811437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708392/pexels-photo-35708392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22938971/pexels-photo-22938971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39656769/pexels-photo-39656769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10012816/pexels-photo-10012816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28354412/pexels-photo-28354412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37054304/pexels-photo-37054304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8792984/pexels-photo-8792984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39818773/pexels-photo-39818773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27127699/pexels-photo-27127699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8425193/pexels-photo-8425193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "03aebc3882",
     "kind": "short",
     "channel": "Channel2",
