@@ -1,5 +1,192 @@
 [
   {
+    "id": "ebe4cff0fe",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Greatest Rival Surrendered to a Hostage",
+    "idea": {
+      "title": "Why Rome's Greatest Rival Surrendered to a Hostage",
+      "hook": "In 168 BC, a single Roman envoy carrying only a wooden stick forced the mighty Syrian Emperor Antiochus IV into absolute humiliation.",
+      "beats": [
+        "Antiochus marched on Alexandria with a massive victorious army, poised to absorb Egypt into his empire.",
+        "An elderly, unarmed Roman senator named Gaius Popillius Laenas arrived with a single written demand to withdraw.",
+        "When Antiochus hesitated and asked for time to deliberate with his council, Popillius drew a circle in the sand around the king's boots.",
+        "Popillius gave the ultimatum: step out of the circle before giving an answer, and Rome declares immediate war.",
+        "Dumbfounded and terrified of Rome's legions, Antiochus bowed his head and abandoned his conquest on the spot."
+      ],
+      "keywords": [
+        "antiochus iv syrian king",
+        "gaius popillius laenas",
+        "roman senator sand circle",
+        "ancient alexandria conquest engraving",
+        "seleucid empire painting"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "rome",
+        "facts",
+        "historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A wooden stick stopped an entire empire in 168 BC.",
+        "search": "antiochus iv epiphanes silver coin macro",
+        "caption": "A wooden stick halted an imperial conquest in 168 BC."
+      },
+      {
+        "narration": "King Antiochus IV of the Seleucid Empire stood outside Alexandria with a massive victorious army. Egypt was days away from complete annexation.",
+        "search": "seleucid phalanx army ancient engraving",
+        "caption": "In 168 BC, Syria stood poised to annex Egypt entirely."
+      },
+      {
+        "narration": "Antiochus knew Roman power intimately, having spent over a decade in the capital as a royal political hostage.",
+        "search": "antiochus iv syrian king marble bust statue",
+        "caption": "Antiochus spent over a decade in Rome as a royal hostage."
+      },
+      {
+        "narration": "With Egyptian defenses broken, Rome faced the loss of its crucial Mediterranean grain lifeline to an imperial rival.",
+        "search": "ancient alexandria port map 17th century engraving",
+        "caption": "Seleucid control of Egypt threatened Rome's vital grain supplies."
+      },
+      {
+        "narration": "Instead of mobilizing legions, the Roman Senate dispatched an elderly, unarmed diplomat named Gaius Popillius Laenas.",
+        "search": "roman senator toga ancient marble bust statue",
+        "caption": "Rome sent an unarmed senator instead of legions to Alexandria."
+      },
+      {
+        "narration": "Meeting at Eleusis outside Alexandria, Antiochus extended his hand in warm personal greeting to the Roman envoy.",
+        "search": "antiochus popillius laenas historic oil painting",
+        "caption": "Antiochus greeted the Roman envoy as an old acquaintance."
+      },
+      {
+        "narration": "Popillius refused the handshake, thrusting forward a tablet containing the Senate's decree demanding immediate withdrawal from Egypt.",
+        "search": "roman senate decree wax tablet artifact macro",
+        "caption": "Senator Popillius refused the king's greeting and delivered Rome's ultimatum."
+      },
+      {
+        "narration": "When Antiochus stalled and stated he must consult his council of generals, Popillius raised his wooden walking staff.",
+        "search": "gaius popillius laenas drawing circle sand engraving",
+        "caption": "Antiochus stalled for time before the Roman envoy acted."
+      },
+      {
+        "narration": "The elderly senator stepped forward and used his wooden stick to draw a complete circle in the dirt around Antiochus's boots.",
+        "search": "gaius popillius laenas drawing circle in sand oil painting",
+        "caption": "A line drawn around the king"
+      },
+      {
+        "narration": "Popillius barked an ultimatum: provide the Roman Senate your answer before stepping out of this ring, or face immediate war.",
+        "search": "antiochus iv bust statue",
+        "caption": "Decide before stepping outside the circle"
+      },
+      {
+        "narration": "Humiliated and terrified of Rome's legions, Antiochus yielded in 168 BC, abandoning Egypt and birth of the phrase 'line in the sand'.",
+        "search": "ancient alexandria harbor engraving",
+        "caption": "Rome conquered an empire without casting a spear"
+      },
+      {
+        "narration": "How did a stick stop an empire in 168 BC?",
+        "search": "roman senator stick sand engraving",
+        "caption": "How a stick stopped an empire in 168 BC"
+      }
+    ],
+    "error": "",
+    "youtube_id": "N3h2ViwG05c",
+    "youtube_url": "https://www.youtube.com/watch?v=N3h2ViwG05c",
+    "created_at": "2026-10-19T21:40:53.733654+00:00",
+    "updated_at": "2026-10-19T21:45:16.512194+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-19T21:42:00.124343+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "341 chars (cat 302 de vua 55s)",
+        "at": "2026-10-19T21:42:26.813756+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-19T21:42:28.852821+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T21:42:30.179244+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-19T21:44:25.516571+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T21:44:25.584415+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.1s 13714770 bytes",
+        "at": "2026-10-19T21:45:07.921527+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=N3h2ViwG05c",
+        "at": "2026-10-19T21:45:11.226082+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYfBV59FGYI-yDH6GLP_RPAFFrmrI28QbWP3JTUz6cGEcd_oOle",
+        "at": "2026-10-19T21:45:12.735812+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T21:45:14.236211+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T21:45:14.593044+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"N3h2ViwG05c\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T21:45:16.233096+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T21:45:16.301531+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T21:45:16.512174+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28103486/pexels-photo-28103486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12604140/pexels-photo-12604140.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36900883/pexels-photo-36900883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36089252/pexels-photo-36089252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698400/pexels-photo-8698400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8792986/pexels-photo-8792986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39660011/pexels-photo-39660011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966864/pexels-photo-37966864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5490275/pexels-photo-5490275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30666573/pexels-photo-30666573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15238652/pexels-photo-15238652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4712003/pexels-photo-4712003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c8f68d8ec3",
     "kind": "short",
     "channel": "Channel3",
