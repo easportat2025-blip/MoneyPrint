@@ -1,5 +1,192 @@
 [
   {
+    "id": "18b92b9a42",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Deadliest Assassin Died by a Mirror",
+    "idea": {
+      "title": "Why Rome's Deadliest Assassin Died by a Mirror",
+      "hook": "In 161 BC, a brutal Syrian general walked into an empty chamber to check his bronze mirror—and sealed his own gruesome doom.",
+      "beats": [
+        "General Holofernes was feared across the ancient Near East for annihilating entire kingdoms without mercy.",
+        "During the siege of Bethulia, a wealthy Jewish widow named Judith entered his camp pretending to betray her people.",
+        "Charmed by her beauty, Holofernes hosted a private feast and drank himself into a deep stupor.",
+        "As he lay helpless beneath his ornate canopy, Judith unsheathed his own scimitar and severed his head in two strikes.",
+        "She carried his head back in a food basket, causing his elite army to panic and collapse the moment dawn broke."
+      ],
+      "keywords": [
+        "Judith beheading Holofernes painting",
+        "ancient Assyrian warrior engraving",
+        "ancient bronze mirror bust",
+        "biblical war historical painting",
+        "ancient siege battle art"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#judithandholofernes",
+        "#historyfacts",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A bronze mirror lured history's deadliest general to his death.",
+        "search": "ancient bronze mirror artifact museum",
+        "caption": "A bronze mirror led an invincible general to slaughter."
+      },
+      {
+        "narration": "In the second century BC, General Holofernes led an unstoppable campaign across the ancient Near East, leveling fortified cities without mercy.",
+        "search": "ancient assyrian warrior king stone relief engraving",
+        "caption": "General Holofernes laid waste to ancient kingdoms across the Near East."
+      },
+      {
+        "narration": "When his legions encircled the mountain stronghold of Bethulia, the city's water supplies were cut, pushing the defenders to surrender within days.",
+        "search": "ancient walled city siege oil painting",
+        "caption": "The fortress of Bethulia was surrounded and starved into submission."
+      },
+      {
+        "narration": "Before the fortress collapsed, a wealthy widow named Judith stepped through enemy lines, claiming she carried secret intelligence for the general.",
+        "search": "judith ancient hebrew woman portrait oil painting",
+        "caption": "Judith walked directly into the invading army's camp alone."
+      },
+      {
+        "narration": "Captivated by Judith's presence, Holofernes retreated to his private pavilion to prepare his appearance before an ornate bronze mirror.",
+        "search": "ancient roman polished bronze mirror artifact",
+        "caption": "Holofernes prepared inside his tent before a polished bronze mirror."
+      },
+      {
+        "narration": "Believing he had secured both victory and her allegiance, Holofernes hosted an intimate banquet, drinking heavily until he collapsed onto his couch.",
+        "search": "ancient royal banquet feast historical painting",
+        "caption": "Holofernes drank heavily until collapsing into a deep stupor."
+      },
+      {
+        "narration": "With the general incapacitated beneath his purple-and-gold canopy, Judith took down his own heavy scimitar mounted above the bed.",
+        "search": "judith beheading holofernes caravaggio oil painting",
+        "caption": "Judith unsheathed Holofernes' own sword beside his sleeping bed."
+      },
+      {
+        "narration": "In two calculated strikes, she severed the commander's neck, concealing the prize inside a common food sack before the imperial guards noticed.",
+        "search": "judith with head of holofernes mantegna painting",
+        "caption": "The general's head was severed and concealed before guards noticed."
+      },
+      {
+        "narration": "Slipping past the outer pickets under cover of darkness, Judith re-entered the gates of Bethulia and revealed the severed head of Holofernes to the astonished elders.",
+        "search": "judith displaying head of holofernes oil painting",
+        "caption": "Judith returned to Bethulia carrying the commander's severed head before sunrise."
+      },
+      {
+        "narration": "At dawn, the defenders mounted the general's head atop the battlements, while his officers entered his tent to find their supreme commander butchered in his own bed.",
+        "search": "ancient assyrian soldiers camp engraving",
+        "caption": "At dawn, the army discovered their supreme commander dead inside his tent."
+      },
+      {
+        "narration": "Paralyzed by panic, the leaderless imperial army broke rank and fled in chaos, transforming what seemed like Bethulia's certain destruction into one of antiquity's most legendary routs.",
+        "search": "ancient army fleeing rout battle oil painting",
+        "caption": "Without their general, the invading army collapsed into an immediate, chaotic rout."
+      },
+      {
+        "narration": "A bronze mirror lured antiquity's most brutal general to death.",
+        "search": "ancient bronze mirror artifact museum close up",
+        "caption": "A bronze mirror lured antiquity's most brutal general to death."
+      }
+    ],
+    "error": "",
+    "youtube_id": "x0p3ONy6TJ8",
+    "youtube_url": "https://www.youtube.com/watch?v=x0p3ONy6TJ8",
+    "created_at": "2026-10-19T23:11:58.177469+00:00",
+    "updated_at": "2026-10-19T23:13:49.036094+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-19T23:12:18.073035+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "321 chars (cat 279 de vua 55s)",
+        "at": "2026-10-19T23:12:30.017279+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "20.2s en-US-GuyNeural 4 cau",
+        "at": "2026-10-19T23:12:31.702693+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T23:12:32.910206+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-19T23:13:00.207850+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T23:13:00.277097+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 20.3s 12233805 bytes",
+        "at": "2026-10-19T23:13:41.916546+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=x0p3ONy6TJ8",
+        "at": "2026-10-19T23:13:44.696539+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZIKongZO5wW4RoVRi6IBdvK0m-3dWGFyqVdn0RqUzEAPsLUJdL",
+        "at": "2026-10-19T23:13:45.631220+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T23:13:47.142015+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T23:13:47.532656+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"x0p3ONy6TJ8\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T23:13:48.760350+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T23:13:48.829851+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T23:13:49.036079+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/26319156/pexels-photo-26319156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31386557/pexels-photo-31386557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484106/pexels-photo-16484106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8382808/pexels-photo-8382808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33545770/pexels-photo-33545770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12846015/pexels-photo-12846015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12425829/pexels-photo-12425829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779804/pexels-photo-13779804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28802631/pexels-photo-28802631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27992278/pexels-photo-27992278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268904/pexels-photo-9268904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610591/pexels-photo-20610591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ebe4cff0fe",
     "kind": "short",
     "channel": "Channel2",
