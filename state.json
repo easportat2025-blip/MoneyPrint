@@ -1,5 +1,191 @@
 [
   {
+    "id": "a5f0597d98",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Arab General Surrendered a City Over a Pigeon",
+    "idea": {
+      "title": "Why an Arab General Surrendered a City Over a Pigeon",
+      "hook": "In 641 AD, Roman invaders watched in disbelief as an Arab general halted his entire army over a single bird.",
+      "beats": [
+        "Amr ibn al-Aas was preparing to dismantle his command tent to march on Alexandria.",
+        "Just before striking camp, he noticed a wild pigeon nesting on the tent fabric.",
+        "Instead of disturbing the nest, he ordered the entire tent left standing under guard.",
+        "That single act of mercy became the foundation of Fustat, which grew into modern-day Cairo."
+      ],
+      "keywords": [
+        "Amr ibn al-Aas engraving",
+        "Arab conquest Egypt map",
+        "ancient tent medieval desert",
+        "historical siege Alexandria drawing",
+        "old Cairo painting"
+      ],
+      "tags": [
+        "history",
+        "ancienthistory",
+        "islamichistory",
+        "cairo",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A single bird halted an unstoppable imperial conquest.",
+        "search": "Arab conquest Egypt 7th century manuscript illustration",
+        "caption": "A single bird halted an unstoppable imperial conquest."
+      },
+      {
+        "narration": "In 641 AD, general Amr ibn al-Aas had broken the Byzantine military hold over Egypt.",
+        "search": "Amr ibn al-Aas historical portrait engraving",
+        "caption": "In 641 AD, Arab general Amr ibn al-Aas conquered Roman Egypt."
+      },
+      {
+        "narration": "His army seized the fortified stronghold of Babylon and prepared to march toward Alexandria.",
+        "search": "Babylon Fortress Cairo ancient ruins engraving",
+        "caption": "The Arab army prepared to strike the coastal capital of Alexandria."
+      },
+      {
+        "narration": "Troops prepared to strike the main desert encampment and pack the general's command pavilion.",
+        "search": "medieval desert military encampment tents oil painting",
+        "caption": "Soldiers dismantled the sprawling desert encampment for the march."
+      },
+      {
+        "narration": "As soldiers approached the pavilion, Amr spotted a wild pigeon nesting atop the linen cloth.",
+        "search": "wild pigeon nesting vintage engraving",
+        "caption": "A wild pigeon laid eggs directly on the general's pavilion."
+      },
+      {
+        "narration": "Refusing to disturb a nesting mother, the commander forbade his men from moving the fabric.",
+        "search": "medieval Arab commander desert camp historical drawing",
+        "caption": "Amr refused to destroy the nest under Islamic principles of mercy."
+      },
+      {
+        "narration": "He stationed armed sentries around the lone tent while the entire army marched north.",
+        "search": "medieval guard sentry tent desert illustration",
+        "caption": "Soldiers guarded an empty tent while the army went to war."
+      },
+      {
+        "narration": "When the troops returned, that preserved tent transformed the geopolitical map of the Middle East.",
+        "search": "old Cairo Fustat founding map engraving",
+        "caption": "That single preserved tent would birth a world-famous medieval metropolis."
+      },
+      {
+        "narration": "After taking Alexandria in late 641 AD, Amr returned to find the pigeon's chicks safely hatched and ordered his new administrative center built around the perimeter of that tent.",
+        "search": "ancient fustat egypt excavations aerial photograph",
+        "caption": "Amr built Egypt's new imperial capital around the untouched tent"
+      },
+      {
+        "narration": "He named the new city al-Fustat, the Arabic word for military tent, and erected Africa's very first mosque directly beside the nesting site.",
+        "search": "mosque of amr ibn al-aas historic engraving",
+        "caption": "Al-Fustat literally translates to tent in Arabic"
+      },
+      {
+        "narration": "Over thirteen centuries, that encampment grew into Cairo, meaning the modern metropolis of twenty million people owes its location to a single pigeon.",
+        "search": "historic cairo skyline minarets 19th century painting",
+        "caption": "Modern Cairo stands where one nesting pigeon halted an army"
+      },
+      {
+        "narration": "One pigeon halted the conquest of Egypt in 641.",
+        "search": "Arab cavalry battle historical painting",
+        "caption": "A single bird halted an imperial invasion in 641 AD."
+      }
+    ],
+    "error": "",
+    "youtube_id": "M_1Kqia1WO4",
+    "youtube_url": "https://www.youtube.com/watch?v=M_1Kqia1WO4",
+    "created_at": "2026-10-19T05:56:11.257695+00:00",
+    "updated_at": "2026-10-19T05:59:37.852190+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-19T05:56:43.546648+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 264 de vua 55s)",
+        "at": "2026-10-19T05:57:23.711221+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.0s en-US-GuyNeural 4 cau",
+        "at": "2026-10-19T05:57:26.334776+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-19T05:57:27.290309+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-19T05:58:59.518230+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-19T05:58:59.564695+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.1s 13754760 bytes",
+        "at": "2026-10-19T05:59:30.949417+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=M_1Kqia1WO4",
+        "at": "2026-10-19T05:59:33.487283+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZiQ4f91c8U5Cn1MvuUSt4IEhvZX4nS9kT1Q9n03wTlcWGULeaU",
+        "at": "2026-10-19T05:59:34.458658+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-19T05:59:35.876988+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-19T05:59:36.232912+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"M_1Kqia1WO4\\\"\",\n    \"errors\"",
+        "at": "2026-10-19T05:59:37.669293+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-19T05:59:37.714061+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-19T05:59:37.852168+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35087813/pexels-photo-35087813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13181983/pexels-photo-13181983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10934837/pexels-photo-10934837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267825/pexels-photo-9267825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18619964/pexels-photo-18619964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30953111/pexels-photo-30953111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37441337/pexels-photo-37441337.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11570408/pexels-photo-11570408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416946/pexels-photo-18416946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13938469/pexels-photo-13938469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35639104/pexels-photo-35639104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15470770/pexels-photo-15470770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "be0fee920a",
     "kind": "short",
     "channel": "Channel3",
