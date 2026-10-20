@@ -1,5 +1,629 @@
 [
   {
+    "id": "64aee9f16d",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The Terrifying Fate of the General Sewn Into Raw Cowhide Alive",
+    "idea": {
+      "title": "The Terrifying Fate of the General Sewn Into Raw Cowhide Alive",
+      "hook": "At just seventeen, Muhammad bin Qasim conquered an entire kingdom for his Caliph, only to be sewn alive inside a raw bull's hide and dragged across the desert by the very master he served.",
+      "beats": [
+        "Cold Open: The arrival of a horrific, sun-baked ox hide at the Umayyad palace in Damascus, revealing the contorted corpse of the Caliphate's greatest teenage conqueror.",
+        "The Rise of a Prodigy: How 17-year-old Muhammad bin Qasim gained command of the Umayyad eastern frontier under the iron-fisted governor Al-Hajjaj ibn Yusuf.",
+        "The Indus Expedition: Piracy in the Arabian Sea triggers a massive campaign as Qasim marches across Makran with thousands of horsemen and siege weapons.",
+        "The Fall of Sindh: The legendary Siege of Debal, the clash against King Raja Dahir's war elephants, and the fall of the Brahmin dynasty.",
+        "The Benevolent Conqueror: Qasim consolidates power across Sindh and Multan through pragmatic diplomacy, religious tolerance, and integration of local elites.",
+        "A Deadly Shift in Power: The death of Caliph Al-Walid I and the rise of Caliph Sulayman, who seethes with vengeance against all allies of the late Al-Hajjaj.",
+        "The Harem Conspiracy: According to the Chach Nama, the captive daughters of Raja Dahir fabricate a lethal lie, claiming Qasim violated them before sending them to Damascus.",
+        "The Caliph's Fatal Decree: In a fit of paranoid fury over insulted honor, Sulayman sends an imperial order commanding Qasim to be sewn alive into raw animal hide immediately.",
+        "Unwavering Obedience: Despite commanding a loyal army capable of open rebellion, Qasim chooses absolute fealty and voluntarily climbs into the wet skin.",
+        "The Desert Coffin: The agony of the journey across the arid wastes as the raw hide dries, hardens, and shrinks under the brutal sun, crushing and suffocating him.",
+        "The Tragic Confession: Sulayman displays the suffocated hero to the princesses, only for them to mockingly reveal that their honor was untouched and the accusation was pure revenge.",
+        "Legend vs. History: Unpacking the brutal factional purge in Wasit prison versus the Chach Nama account, and the tragic legacy of an empire that devoured its greatest hero."
+      ],
+      "keywords": [
+        "Muhammad bin Qasim",
+        "Umayyad Caliphate",
+        "Conquest of Sindh",
+        "Caliph Sulayman",
+        "Raja Dahir",
+        "Ancient History Documentary",
+        "Chach Nama",
+        "Medieval Warfare",
+        "Historical Betrayal",
+        "Brutal Executions"
+      ],
+      "tags": [
+        "muhammad bin qasim",
+        "umayyad caliphate",
+        "conquest of sindh",
+        "ancient history",
+        "caliph sulayman",
+        "human history documentary",
+        "medieval history",
+        "execution history",
+        "raja dahir",
+        "historical mysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "SEWN ALIVE IN COWHIDE"
+    },
+    "scenes": [
+      {
+        "narration": "A teenage conqueror was sewn alive into raw leather.",
+        "search": "raw leather hide drying desert oil painting",
+        "caption": "Sewn alive inside a shrinking raw bull hide."
+      },
+      {
+        "narration": "In 711 AD, seventeen-year-old general Muhammad bin Qasim was commissioned by the Umayyad governor Al-Hajjaj ibn Yusuf to march east. He commanded over six thousand Syrian cavalry across the rugged Makran desert toward the Indus valley.",
+        "search": "Umayyad warrior cavalry desert march medieval manuscript illumination",
+        "caption": "Seventeen-year-old Muhammad bin Qasim leads the Umayyad advance east in 711 AD."
+      },
+      {
+        "narration": "Piracy against Umayyad merchant ships near the port of Debal prompted the invasion of Sindh. Qasim deployed massive stone-hurling catapults to batter the fortified harbor walls into surrender.",
+        "search": "medieval siege catapult attacking stone fortress wall engraving",
+        "caption": "Massive catapults shatter the coastal defenses of Debal along the Indus."
+      },
+      {
+        "narration": "At the Battle of Aror in 712 AD, Qasim’s forces engaged King Raja Dahir, whose war elephants panicked under a barrage of flaming arrows. Dahir was slain in the melee, toppling the Brahmin dynasty of Sindh.",
+        "search": "ancient battle war elephants naptha fire arrows miniature painting",
+        "caption": "King Raja Dahir falls as war elephants panic at Aror in 712."
+      },
+      {
+        "narration": "Rather than plundering the region, Qasim established administrative stability across Multan by guaranteeing protection for local temples under dhimmi status. Native elites retained administrative posts, ensuring imperial taxes flowed back to Damascus.",
+        "search": "Umayyad gold dinar coin 8th century artifact close up",
+        "caption": "Qasim secures Multan through diplomatic taxation and administrative protection."
+      },
+      {
+        "narration": "The political landscape collapsed in 715 AD when Caliph Al-Walid died and his brother, Caliph Sulayman, assumed the throne. Sulayman held an unyielding vendetta against the late Al-Hajjaj and systematically purged every commander linked to his faction.",
+        "search": "Caliph Sulayman Umayyad court Damascus palace historic engraving",
+        "caption": "Caliph Sulayman takes the throne in 715, targeting Al-Hajjaj's loyalists."
+      },
+      {
+        "narration": "The historical chronicle Chach Nama records that Raja Dahir's captive daughters arrived at the court in Damascus seeking retribution. They claimed to Sulayman that Qasim had violated them prior to dispatching them as tribute.",
+        "search": "royal daughters before caliph throne medieval manuscript miniature",
+        "caption": "Captive princesses accuse the general of dishonor before the Umayyad court."
+      },
+      {
+        "narration": "Infuriated by the perceived insult, Caliph Sulayman dispatched an imperial decree commanding Qasim to immediately encase himself inside a freshly flayed hide. Facing the prospect of rebellion or gruesome death, the young general chose absolute submission.",
+        "search": "royal imperial decree scroll seal medieval miniature painting",
+        "caption": "Caliph Sulayman issues the death sentence demanding submission inside raw hide."
+      },
+      {
+        "narration": "In 715 AD, Muhammad bin Qasim surrendered his command at Aror and ordered his attendants to bind him inside a freshly flayed bull's skin. The wet leather was stitched tightly shut, leaving only narrow perforations to allow minimal airflow.",
+        "search": "medieval Islamic manuscript miniature leather binding execution",
+        "caption": "In 715 AD, Qasim willingly surrendered to be sewn into raw leather."
+      },
+      {
+        "narration": "Transported by camel across thousands of kilometers toward Damascus, the untanned hide steadily baked under the desert sun. As water evaporated from the skin, the collagen contracted, crushing Qasim's ribcage under immense compressive force.",
+        "search": "arabian desert camel caravan oil painting",
+        "caption": "The drying cowhide shrank under the desert sun, slowly crushing the captive."
+      },
+      {
+        "narration": "By the time the caravan reached the Umayyad capital, the young commander had succumbed to severe trauma and asphyxiation. The rock-hard, shrunken hide was carried directly into the throne room of Caliph Sulayman.",
+        "search": "Umayyad Mosque Damascus medieval courtyard engraving",
+        "caption": "The desiccated hide arrived at the palace in Damascus containing Qasim's corpse."
+      },
+      {
+        "narration": "Caliph Sulayman summoned the captive princesses Surya Devi and Parimal Devi to witness the corpse as demonstration of imperial retribution. The sisters openly mocked the Caliph, confessing they fabricated the violation to avenge their father Raja Dahir.",
+        "search": "orientalist palace audience throne room oil painting",
+        "caption": "Raja Dahir's daughters admitted their accusation was a calculated lie for revenge."
+      },
+      {
+        "narration": "Enraged by the humiliation, Sulayman ordered both princesses executed immediately on the palace grounds. Yet the imperial execution could not restore the premier military strategist of the Caliphate's eastern frontier.",
+        "search": "caliph sulayman umayyad gold dinar coin",
+        "caption": "Caliph Sulayman executed the princesses, but the strategic damage was permanent."
+      },
+      {
+        "narration": "While the thirteenth-century Chach Nama preserved the raw hide account, ninth-century historian al-Baladhuri recorded a purely factional political purge. Following Al-Hajjaj's death, Sulayman systematically arrested his loyalists and transferred Qasim in chains to Wasit in Iraq.",
+        "search": "wasit iraq ancient ruins archaeological site photograph",
+        "caption": "Historian al-Baladhuri recorded Qasim's arrest was a factional political purge."
+      },
+      {
+        "narration": "Inside the imperial prison at Wasit, financial governor Salih ibn Abd al-Rahman subjected Qasim to severe judicial torture. The teenage general who subdued Sindh died under interrogation alongside fellow members of the Thaqafi clan in 715 AD.",
+        "search": "ancient mesopotamian dungeon ruins engraving",
+        "caption": "In Wasit prison, Qasim was subjected to lethal judicial torture in 715 AD."
+      },
+      {
+        "narration": "Whether suffocated inside a contracting hide or broken in an Iraqi dungeon, Qasim's military campaigns permanently linked the Indus Valley to the Caliphate. His demise demonstrated how court factionalism routinely destroyed the Umayyad empire's most formidable commanders.",
+        "search": "debal port sindh ruins ancient map engraving",
+        "caption": "Qasim expanded the Caliphate to the Indus before court politics destroyed him."
+      },
+      {
+        "narration": "The thirteenth-century Persian text Chach Nama preserves a starkly different account of Qasim’s downfall, centering on two captive princesses. Surya Devi and Parimal Devi, the captured daughters of King Raja Dahir, were sent as war prizes to Damascus in 715 AD.",
+        "search": "medieval persian manuscript miniature chach nama historical text",
+        "caption": "The Chach Nama records an alternate account of Qasim's demise in 715."
+      },
+      {
+        "narration": "Presented before Caliph Sulayman ibn Abd al-Malik, the royal sisters executed a calculated deception to avenge their father's death. They alleged to the sovereign that Muhammad bin Qasim had violated their chastity before sending them to the imperial court.",
+        "search": "caliph sulayman umayyad damascus audience hall antique engraving",
+        "caption": "Dahir's daughters accused General Qasim of dishonoring the imperial court."
+      },
+      {
+        "narration": "Enraged by the alleged insult to his imperial dignity, Caliph Sulayman issued an immediate and merciless decree. An imperial envoy carried orders commanding that Qasim be sewn alive into a freshly flayed cowhide and transported to the capital.",
+        "search": "umayyad caliphate royal decree scroll manuscript illustration",
+        "caption": "Caliph Sulayman ordered Qasim sewn alive into raw animal hide."
+      },
+      {
+        "narration": "When the Caliph’s messenger arrived in modern-day Pakistan, Qasim’s veteran officers urged him to reject the fatal warrant. Bound by unwavering dynastic loyalty, the twenty-year-old commander ordered local butchers to sew him directly into the raw hide.",
+        "search": "8th century umayyad army camp sindh historical engraving",
+        "caption": "Qasim surrendered to the Caliph's decree despite commanding vast armies."
+      },
+      {
+        "narration": "Sealed inside the wet leather chest, Qasim began the multi-week overland transit across the scorching arid wastes of Makran. As the sun beat down on the caravan, the untanned cowhide contracted violently, slowly suffocating the general over three agonizing days.",
+        "search": "arabian desert camel caravan historical watercolor painting",
+        "caption": "The raw leather shrank under the desert sun, suffocating the prisoner."
+      },
+      {
+        "narration": "Upon arrival in Damascus, Sulayman summoned Surya Devi and Parimal Devi to the throne room to witness the consequence of treachery. The Caliph ordered the sun-hardened hide opened, revealing the contorted corpse of the conqueror of Sindh.",
+        "search": "umayyad court damascus throne room historical oil painting",
+        "caption": "Sulayman presented Qasim's corpse to the princesses in Damascus."
+      },
+      {
+        "narration": "The Chach Nama records that the princesses laughed openly at the sovereign's display. Surya Devi revealed that their virginity was intact, confessing they fabricated the charge purely to provoke Sulayman into destroying his own empire's greatest military mind.",
+        "search": "medieval royal women captive court hearing historical miniature painting",
+        "caption": "The princesses confessed the accusation was a calculated ploy for revenge."
+      },
+      {
+        "narration": "Realizing his impetuous decree had executed his most vital general without trial, Sulayman ordered both princesses immured alive inside stone palace walls. The fatal deception exposed how easily imperial paranoia could dismantle the frontier defense of the entire Caliphate.",
+        "search": "ancient stone city walls damascus syria antique engraving",
+        "caption": "Sulayman executed the princesses as imperial security began unraveling."
+      },
+      {
+        "narration": "While the ninth-century text Chach Nama popularized the tale of the ox hide, earlier accounts by historian Al-Baladhuri reveal a far more calculated political execution in 715 AD.",
+        "search": "medieval arabic manuscript folio page 800s detail",
+        "caption": "Historical texts offer a far darker political reality"
+      },
+      {
+        "narration": "Upon ascending the throne in 715 AD, Caliph Sulayman launched a ruthless purge against all military commanders tied to his rival, the late governor Al-Hajjaj ibn Yusuf.",
+        "search": "umayyad gold dinar coin 715 ad close up",
+        "caption": "Caliph Sulayman launched a purge against all rival generals"
+      },
+      {
+        "narration": "As the nephew and protégé of Al-Hajjaj, nineteen-year-old conqueror Muhammad bin Qasim was immediately stripped of his command in Sindh and bound in iron fetters.",
+        "search": "medieval iron shackles chains artifact museum photograph",
+        "caption": "Nineteen-year-old Qasim was arrested and placed in irons"
+      },
+      {
+        "narration": "Escorted under heavy guard across the desert to Iraq, Qasim was delivered directly to the fortress city of Wasit, where Sulayman's new appointees awaited him.",
+        "search": "ancient ruins of wasit iraq stone archway photograph",
+        "caption": "Qasim was transported in chains to the fortress of Wasit"
+      },
+      {
+        "narration": "Inside the dungeons of Wasit in 715 AD, minister Saleh ibn Abd al-Rahman ordered Qasim systematically tortured to death to avenge his own family's prior losses.",
+        "search": "medieval stone dungeon interior engraving 1800s",
+        "caption": "Imprisoned in Wasit dungeons, Qasim endured systematic torture"
+      },
+      {
+        "narration": "Qasim was not alone; Sulayman simultaneously disgraced Qutayba ibn Muslim and Musa ibn Nusayr, the conquerors of Transoxiana and Spain, halting imperial expansion worldwide.",
+        "search": "umayyad empire map 715 ad historical engraving",
+        "caption": "Imperial paranoia destroyed the conquerors of Central Asia and Spain"
+      },
+      {
+        "narration": "Deprived of Qasim's pragmatic administration, local rulers across Sindh revolted against imperial tax collectors, dismantling years of rapid stabilization in the Indus Valley.",
+        "search": "indus river basin landscape old steel engraving",
+        "caption": "Without Qasim's rule, revolts erupted across the Indus Valley"
+      },
+      {
+        "narration": "Whether by the agonizing shrink of a sun-baked hide or death in a dark cell at age nineteen, Muhammad bin Qasim remains a tragic symbol of an empire devouring its own greatest hero.",
+        "search": "portrait illustration of teenage medieval arab commander historical",
+        "caption": "A teenage conqueror sacrificed to internal political vengeance"
+      },
+      {
+        "narration": "In 715 AD, Caliph Sulayman ibn Abd al-Malik expanded his purge beyond Sindh, ordering the arrest and execution of high-ranking commanders tied to the Thaqafi faction across the entire Caliphate.",
+        "search": "Umayyad Caliphate 8th century empire map engraving",
+        "caption": "Sulayman ordered an empire-wide purge of frontier commanders in 715 AD."
+      },
+      {
+        "narration": "Hearing of Qasim's arrest, Central Asian conqueror Qutaiba ibn Muslim attempted open rebellion, only to be murdered alongside eleven family members in Fergana by his own mutinous troops.",
+        "search": "Central Asia ancient battle historical engraving",
+        "caption": "General Qutaiba revolted in Central Asia before being executed by mutineers."
+      },
+      {
+        "narration": "The sudden elimination of both frontier conquerors reignited bitter factional warfare between the northern Qays and southern Yamani tribes inside Umayyad military garrisons.",
+        "search": "medieval Arab cavalry clash manuscript illustration",
+        "caption": "Tribal feuds erupted across imperial garrisons after the generals were purged."
+      },
+      {
+        "narration": "Sulayman appointed Yazid ibn al-Muhallab as eastern viceroy, who used brutal torture against provincial tax administrators in Iraq to extract millions of silver dirhams.",
+        "search": "Umayyad Caliphate silver dirham ancient coin macro",
+        "caption": "Yazid ibn al-Muhallab tortured former officials to seize imperial provincial wealth."
+      },
+      {
+        "narration": "Taking advantage of the administrative collapse in the Indus Valley, Raja Dahir's surviving son Prince Jaisiah mobilized Hindu forces and recaptured Brahmanabad.",
+        "search": "Brahmanabad ancient fortress ruins Sindh archaeological photograph",
+        "caption": "Prince Jaisiah recaptured Brahmanabad, reversing early Umayyad territorial gains."
+      },
+      {
+        "narration": "Ninth-century historian Al-Baladhuri recorded that local subjects in Multan wept openly upon learning of Qasim's death, erecting commemorative effigies in memory of his fair administration.",
+        "search": "Al Baladhuri Futuh al Buldan Arabic manuscript page",
+        "caption": "Chronicler Al-Baladhuri recorded local subjects openly mourning Qasim in Multan."
+      },
+      {
+        "narration": "The Persian chronicle Chach Nama relates that Caliph Sulayman was consumed by bitter remorse after Raja Dahir's daughters admitted their sexual accusations were invented to avenge their father.",
+        "search": "Chach Nama Persian manuscript folio illumination",
+        "caption": "The Chach Nama records the princesses confessing their plot to Sulayman."
+      },
+      {
+        "narration": "Sulayman's three-year reign collapsed into disaster in 717 AD as imperial forces suffered catastrophic defeat outside Constantinople, leaving an empire deprived of its greatest generals.",
+        "search": "Siege of Constantinople 717 AD medieval illuminated manuscript",
+        "caption": "Sulayman died in 717 AD with imperial armies crushed outside Constantinople."
+      },
+      {
+        "narration": "While the thirteenth-century Chach Nama popularized the sensational cowhide execution, ninth-century historian Ahmad al-Baladhuri recorded a far colder, calculated political purge. Early Arabic chronicles demonstrate that Qasim's destruction was rooted in tribal vengeance orchestrated across the Umayyad administrative elite.",
+        "search": "medieval arabic manuscript folio calligraphy illumination",
+        "caption": "Ninth-century chronicles document a political purge rather than a harem scandal."
+      },
+      {
+        "narration": "The ascension of Caliph Sulayman in 715 AD marked the total ascendancy of the Yaman faction over the Qaysi clan that Al-Hajjaj had dominated for decades. Sulayman's powerful allies demanded the complete eradication of every general and governor tied to Al-Hajjaj's bloodline.",
+        "search": "umayyad dynasty silver dirham coin 8th century",
+        "caption": "Caliph Sulayman unleashed a violent tribal purge against Al-Hajjaj's faction."
+      },
+      {
+        "narration": "Sulayman dispatched general Yazid ibn Abi Kabsha al-Saksaki to Sindh with imperial orders to immediately strip Qasim of military command and arrest him. Qasim received the imperial courier at the city of Aror, surrounded by tens of thousands of veteran soldiers unconditionally loyal to his banner.",
+        "search": "ancient ruins of aror sindh pakistan landscape photograph",
+        "caption": "Imperial orders arrived at Aror commanding the immediate arrest of Qasim."
+      },
+      {
+        "narration": "Senior officers urged Qasim to declare open rebellion, pointing out that his victorious army could easily hold Sindh against Damascus or march west on Iraq. Qasim refused, declaring that he would never raise an army against the Caliphate he had sworn to expand.",
+        "search": "umayyad caliphate army cavalry battle medieval miniature manuscript",
+        "caption": "Qasim refused to lead his veteran army in rebellion against Damascus."
+      },
+      {
+        "narration": "Submitting voluntarily to imperial authority in late 715 AD, the nineteen-year-old general allowed Saksaki's guards to shackle his wrists and ankles in iron fetters. His abrupt departure triggered widespread mourning among the local populations of Sindh, who had prospered under his administrative treaties.",
+        "search": "ancient iron shackles chains archaeological artifact engraving",
+        "caption": "In late 715 AD, Muhammad bin Qasim surrendered himself in iron chains."
+      },
+      {
+        "narration": "Bound in heavy iron collars, Qasim was transported across the arid overland routes to Iraq and delivered directly to the fortress prison of Wasit. The fortress was commanded by Salih ibn Abd al-Rahman, an Umayyad financial governor whose own brother had been executed by Al-Hajjaj years prior.",
+        "search": "wasit iraq ancient fortress ruins historical engraving",
+        "caption": "Qasim was delivered to the dreaded imperial fortress prison of Wasit."
+      },
+      {
+        "narration": "Caliph Sulayman granted Salih full authority over Al-Hajjaj's surviving relatives, effectively sanctioning state-sponsored torture to recover purported hidden conquest plunder. Salih ordered Qasim plunged into subterranean cells alongside his kinsmen, demanding confessions under relentless interrogation.",
+        "search": "medieval dungeon prison stone cell engraving illustration",
+        "caption": "Imperial inquisitors subjected Qasim to brutal subterranean torture in Wasit."
+      },
+      {
+        "narration": "Historical accounts by Al-Tabari confirm that Qasim was subjected to the rack and systematic torment inside Wasit's vaults throughout 715 AD. Even as iron weights crushed his limbs, the teenage conqueror composed verses lamenting that the Caliphate had abandoned him after he won them an empire.",
+        "search": "torture rack dungeon execution medieval engraving",
+        "caption": "Al-Tabari records Qasim was brutally tortured inside Wasit throughout 715 AD."
+      },
+      {
+        "narration": "While official Umayyad court annals record Qasim dying in Wasit prison in 715 AD, the thirteenth-century Persian chronicle Chach Nama details a far more gruesome execution.",
+        "search": "medieval Persian manuscript illuminated page",
+        "caption": "Alternative accounts emerge from medieval Persian chronicles like the Chach Nama."
+      },
+      {
+        "narration": "According to this narrative, following the fall of Brahmanabad in 712 AD, Qasim sent King Raja Dahir's two daughters, Surya Devi and Parimal Devi, to Damascus as royal captives.",
+        "search": "medieval Indian painting royal captives manuscript",
+        "caption": "Princesses Surya Devi and Parimal Devi were sent to Damascus."
+      },
+      {
+        "narration": "When the princesses reached the Umayyad capital, Caliph Sulayman attempted to induct them into his imperial harem.",
+        "search": "Damascus Umayyad palace courtyard engraving",
+        "caption": "Caliph Sulayman summoned the captive princesses to the palace."
+      },
+      {
+        "narration": "Seeking vengeance for their father's death and the conquest of Sindh, the sisters falsely accused Qasim of violating them prior to their transport.",
+        "search": "medieval Islamic court miniature painting",
+        "caption": "The princesses concocted a lethal lie to destroy Qasim."
+      },
+      {
+        "narration": "Caliph Sulayman viewed the alleged dishonor as an intolerable treason against the imperial crown, driving him into a paranoid rage.",
+        "search": "Umayyad Caliph portrait painting illustration",
+        "caption": "Furious over perceived insult, Sulayman demanded immediate retribution."
+      },
+      {
+        "narration": "Without verifying the claim, Sulayman issued a fatal decree ordering Qasim to be sewn alive into a raw bull's hide.",
+        "search": "medieval Arabic parchment document manuscript",
+        "caption": "Sulayman ordered Qasim encased in a raw animal hide."
+      },
+      {
+        "narration": "Imperial couriers carried the royal warrant directly to Sindh, instructing the young general to enter the skin immediately upon receipt.",
+        "search": "medieval messenger horse rider engraving",
+        "caption": "Royal messengers delivered the death order to Sindh."
+      },
+      {
+        "narration": "Command of a powerful army left Qasim capable of staging a rebellion, yet he chose absolute fealty and voluntarily stepped into the wet hide.",
+        "search": "Umayyad soldiers cavalry illustration",
+        "caption": "Despite commanding loyal troops, Qasim submitted without rebellion."
+      },
+      {
+        "narration": "In 715 AD, imperial guards sewed Muhammad bin Qasim into the fresh, untanned hide of a slaughtered bull, leaving only narrow breathing slits.",
+        "search": "medieval leather binding manuscript illustration",
+        "caption": "In 715 AD, Muhammad bin Qasim was bound inside raw hide."
+      },
+      {
+        "narration": "As the caravan traversed the sun-scorched wastes toward Syria, the drying leather contracted violently in the heat, slowly suffocating the young general.",
+        "search": "arabian desert sand dunes oil painting",
+        "caption": "The shrinking leather casing slowly suffocated the young commander."
+      },
+      {
+        "narration": "When the imperial convoy finally arrived in Damascus, the hardened hide formed an unyielding shell around his contorted body.",
+        "search": "damascus city walls nineteenth century engraving",
+        "caption": "The convoy reached Damascus bearing the hardened leather casing."
+      },
+      {
+        "narration": "Caliph Sulayman ibn Abd al-Malik summoned the captive daughters of Raja Dahir to display the corpse as proof of satisfied honor.",
+        "search": "caliph sulayman umayyad portrait manuscript illustration",
+        "caption": "Caliph Sulayman displayed the corpse to the captive royal sisters."
+      },
+      {
+        "narration": "According to the Chach Nama, the princesses mocked the Caliph, revealing their accusation was a fabricated lie to avenge their fallen father.",
+        "search": "persian manuscript illumination text page",
+        "caption": "The princesses revealed their accusation was a vengeful fabrication."
+      },
+      {
+        "narration": "Enraged by the deception that cost him his empire's greatest general, Sulayman ordered the royal sisters executed inside the palace walls.",
+        "search": "ancient palace courtyard oil painting",
+        "caption": "Outraged by the lie, Sulayman ordered the princesses executed."
+      },
+      {
+        "narration": "Ninth-century historian al-Baladhuri provided an alternate account, recording that Qasim was imprisoned and tortured in Wasit during a political purge.",
+        "search": "arabic historical manuscript manuscript page",
+        "caption": "Historian al-Baladhuri recorded that Qasim died in Wasit prison."
+      },
+      {
+        "narration": "Whether crushed inside a bull's hide or executed in a Syrian dungeon, Qasim's death in 715 AD abruptly halted Umayyad expansion into India.",
+        "search": "sindh indus river valley historical map engraving",
+        "caption": "Qasim's execution in 715 AD halted Umayyad expansion into India."
+      },
+      {
+        "narration": "Upon news of Qasim's arrest in 715 AD, the fragile Umayyad administration in Sindh collapsed as local rulers reclaimed key cities across the region.",
+        "search": "medieval Indian fort ruins map engraving 18th century",
+        "caption": "Umayyad control shattered across Sindh following Qasim's sudden removal in 715 AD."
+      },
+      {
+        "narration": "Caliph Sulayman's purge extended far beyond Sindh, systematically liquidating other victorious generals like Qutayba ibn Muslim to eliminate the influence of Al-Hajjaj.",
+        "search": "Umayyad Caliphate Damascus manuscript miniature illustration",
+        "caption": "Caliph Sulayman executed top generals to eradicate his predecessor's loyalist faction."
+      },
+      {
+        "narration": "The thirteenth-century Persian chronicle Chach Nama immortalized the cowhide narrative, blending factual details of dynastic betrayal with enduring folk traditions of royal revenge.",
+        "search": "medieval Persian manuscript illustration calligraphy illuminated text",
+        "caption": "The Chach Nama preserved the chilling tale of raw hide execution."
+      },
+      {
+        "narration": "Execution by shrinking animal hide was a known medieval torture, where wet leather bound tightly around a prisoner contracted under the sun to cause slow suffocation.",
+        "search": "medieval torture device engraving historical illustration 16th century",
+        "caption": "Raw leather drying in sun creates an agonizingly lethal physical vise."
+      },
+      {
+        "narration": "The Umayyad dynasty's reliance on destructive factional feuds created a political culture where spectacular battlefield victories frequently ended in state-sponsored execution.",
+        "search": "Umayyad mosque damascus architecture historical engraving 19th century",
+        "caption": "Internal tribal rivalries repeatedly destroyed the empire's most successful military commanders."
+      },
+      {
+        "narration": "Qasim's refusal to launch a military rebellion with his devoted veteran troops demonstrated an absolute adherence to imperial authority that ultimately sealed his execution.",
+        "search": "Arab cavalry warriors medieval manuscript illumination",
+        "caption": "Qasim commanded a devoted army yet refused to revolt against Damascus."
+      },
+      {
+        "narration": "The removal of seventeen-year-old Qasim permanently halted the Arab eastward push into South Asia, stabilizing the Caliphate's border along the Indus River basin.",
+        "search": "Indus river valley antique map engraving 1700s",
+        "caption": "The Umayyad expansion into India permanently halted at the Indus River."
+      },
+      {
+        "narration": "Whether crushed inside a sun-baked bull's hide or tortured in a Syrian dungeon, Qasim's end stands as a stark warning of imperial ingratitude.",
+        "search": "ancient desert fortress ruins oil painting 19th century",
+        "caption": "Qasim remains history's prime example of military genius destroyed by empire."
+      },
+      {
+        "narration": "In the thirteenth-century text Chach Nama, the captive daughters of Raja Dahir revealed their accusation was fabricated only after Qasim’s shriveled corpse arrived in Damascus.",
+        "search": "medieval persian manuscript illumination royal court miniature painting",
+        "caption": "The Chach Nama records the fatal confession before Caliph Sulayman."
+      },
+      {
+        "narration": "Enraged by the realization that he had murdered his greatest general over a lie, Caliph Sulayman ordered the Hindu princesses walled alive into the palace masonry.",
+        "search": "stone fortress wall masonry ancient umayyad ruins photograph",
+        "caption": "Legend claims Sulayman entombed the deceitful princesses within palace walls."
+      },
+      {
+        "narration": "Historian Ahmad ibn Yahya al-Baladhuri recorded a grimmer reality: Qasim was arrested in Multan, chained, and systematically tortured to death in Wasit prison.",
+        "search": "wasit iraq ancient ruins archaeological site photograph state",
+        "caption": "Historical records state Qasim died tortured in Wasit prison."
+      },
+      {
+        "narration": "Sulayman’s paranoid purge consumed not only Qasim, but also stripped Musa ibn Nusayr of power, devastating the military leadership that built the empire.",
+        "search": "caliphate gold dinar coin caliph sulayman eighth century",
+        "caption": "Sulayman's vengeful purges dismantled the Caliphate's elite general staff."
+      },
+      {
+        "narration": "Without Qasim's pragmatic diplomacy and military genius, local Sindh chieftains revolted, rolling back Umayyad territorial authority across the northern Indus frontier.",
+        "search": "ancient indus river valley landscape sindh pakistan photograph",
+        "caption": "Sindh revolted following the elimination of its youthful conqueror."
+      },
+      {
+        "narration": "Within thirty-five years of Qasim’s execution in 715 AD, the Umayyad dynasty collapsed entirely, overthrown during the Abbasid revolution of 750 AD.",
+        "search": "umayyad mosque damascus syria ancient architecture photograph",
+        "caption": "The Umayyad Dynasty collapsed barely thirty-five years after Qasim's death."
+      },
+      {
+        "narration": "Centuries later, Muhammad bin Qasim became remembered across South Asia as the commander who carried Islamic rule into the subcontinent at just seventeen years old.",
+        "search": "muhammad bin qasim port indus delta old map engraving 18th century",
+        "caption": "Muhammad bin Qasim remains remembered as the teenage conqueror of Sindh."
+      },
+      {
+        "narration": "The teenage prodigy conquered an entire kingdom through tactical brilliance, only to be destroyed by the paranoid ruler he refused to betray.",
+        "search": "umayyad caliphate empire map historical antique engraving",
+        "caption": "Blind loyalty to a paranoid master sealed the teenage conqueror's demise."
+      },
+      {
+        "narration": "A teenage conqueror was crushed inside a shrinking bull hide.",
+        "search": "medieval arab warrior horseman manuscript illumination",
+        "caption": "A teenage general faced execution inside a drying bull hide."
+      }
+    ],
+    "error": "",
+    "youtube_id": "RMabp6jsPhA",
+    "youtube_url": "https://www.youtube.com/watch?v=RMabp6jsPhA",
+    "created_at": "2026-10-20T18:16:06.182272+00:00",
+    "updated_at": "2026-10-20T18:59:03.293723+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-20T18:33:50.661278+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4267 chars",
+        "at": "2026-10-20T18:36:20.512314+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "269.6s en-US-GuyNeural 49 cau",
+        "at": "2026-10-20T18:36:37.631535+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T18:36:51.286982+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-20T18:51:54.891921+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-20T18:51:54.970275+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 269.6s 162638406 bytes",
+        "at": "2026-10-20T18:58:45.958452+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "8 chapters",
+        "at": "2026-10-20T18:58:46.114264+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=RMabp6jsPhA",
+        "at": "2026-10-20T18:58:58.743257+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYNY-uhhs3VMJpBP6FrC5GH_z3DEjbrKRvxDIesLlr-7GIAKJgD",
+        "at": "2026-10-20T18:59:00.175395+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T18:59:01.660752+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T18:59:02.017524+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"RMabp6jsPhA\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T18:59:02.964209+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T18:59:03.040983+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T18:59:03.293705+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32076605/pexels-photo-32076605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33190406/pexels-photo-33190406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38549069/pexels-photo-38549069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36259550/pexels-photo-36259550.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1350463/pexels-photo-1350463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36276835/pexels-photo-36276835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39795333/pexels-photo-39795333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8711198/pexels-photo-8711198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28135004/pexels-photo-28135004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39362477/pexels-photo-39362477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29548234/pexels-photo-29548234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39527881/pexels-photo-39527881.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38716498/pexels-photo-38716498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39659845/pexels-photo-39659845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29075367/pexels-photo-29075367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9825398/pexels-photo-9825398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37195475/pexels-photo-37195475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5192346/pexels-photo-5192346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18682580/pexels-photo-18682580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5504605/pexels-photo-5504605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713867/pexels-photo-36713867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11476941/pexels-photo-11476941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36756213/pexels-photo-36756213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342502/pexels-photo-29342502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8442334/pexels-photo-8442334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/147635/pexels-photo-147635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7132581/pexels-photo-7132581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15997318/pexels-photo-15997318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7705839/pexels-photo-7705839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5352248/pexels-photo-5352248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18998151/pexels-photo-18998151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14109802/pexels-photo-14109802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34772856/pexels-photo-34772856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525640/pexels-photo-30525640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7293793/pexels-photo-7293793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25548851/pexels-photo-25548851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35579533/pexels-photo-35579533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36792024/pexels-photo-36792024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26830272/pexels-photo-26830272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525637/pexels-photo-30525637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6595971/pexels-photo-6595971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5106876/pexels-photo-5106876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327481/pexels-photo-35327481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16144326/pexels-photo-16144326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10259190/pexels-photo-10259190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10475168/pexels-photo-10475168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13778249/pexels-photo-13778249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35219236/pexels-photo-35219236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20000868/pexels-photo-20000868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12776992/pexels-photo-12776992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35087824/pexels-photo-35087824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29866906/pexels-photo-29866906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5192343/pexels-photo-5192343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36937819/pexels-photo-36937819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11912983/pexels-photo-11912983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8391472/pexels-photo-8391472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2563810/pexels-photo-2563810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37189767/pexels-photo-37189767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29486692/pexels-photo-29486692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13549656/pexels-photo-13549656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5651623/pexels-photo-5651623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29091947/pexels-photo-29091947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1259923/pexels-photo-1259923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29221920/pexels-photo-29221920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18717616/pexels-photo-18717616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342503/pexels-photo-29342503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15996636/pexels-photo-15996636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36148292/pexels-photo-36148292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327476/pexels-photo-35327476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37835735/pexels-photo-37835735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6069206/pexels-photo-6069206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20638089/pexels-photo-20638089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5667700/pexels-photo-5667700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416954/pexels-photo-18416954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39315287/pexels-photo-39315287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6002627/pexels-photo-6002627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19263884/pexels-photo-19263884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33626644/pexels-photo-33626644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12685978/pexels-photo-12685978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269135/pexels-photo-9269135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d0025d0b30",
     "kind": "short",
     "channel": "Channel3",
