@@ -1,5 +1,192 @@
 [
   {
+    "id": "92ddaa0b1f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Athenian Hero Carved His Name on a Shell",
+    "idea": {
+      "title": "Why an Athenian Hero Carved His Name on a Shell",
+      "hook": "In ancient Athens, a legendary statesman wrote his own name onto a ballot to banish himself forever—all because a stranger didn't recognize him.",
+      "beats": [
+        "Aristides was universally nicknamed 'The Just' by fellow Athenians for his unmatched integrity and honor.",
+        "During an ostracism vote to exile a dangerous citizen, an illiterate peasant asked Aristides to carve a name onto a pottery shard.",
+        "Aristides asked the man what wrong Aristides had ever done to him.",
+        "The voter replied: 'None at all, I don't even know him. I'm just sick of hearing everyone call him The Just.'",
+        "Without revealing his identity, Aristides silently wrote his own name on the shard and peacefully accepted his decade-long exile."
+      ],
+      "keywords": [
+        "Aristides the Just",
+        "ancient Athens ostracism",
+        "Greek pottery ostracon",
+        "Athenian democracy engraving",
+        "ancient Greece marble bust"
+      ],
+      "tags": [
+        "history",
+        "ancienthistory",
+        "ancientgreece",
+        "athens",
+        "historicalirony"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An Athenian hero carved his own name onto a ballot to banish himself.",
+        "search": "ancient Greece marble bust",
+        "caption": "Why did a legendary Athenian statesman exile himself?"
+      },
+      {
+        "narration": "In fifth century BC Athens, statesman Aristides earned the nickname The Just for unmatched integrity.",
+        "search": "Aristides the Just statue portrait",
+        "caption": "Aristides the Just: the most trusted man in Athens"
+      },
+      {
+        "narration": "During a democratic ostracism vote in 482 BC, citizens gathered to exile a dangerous political threat.",
+        "search": "ancient Athens ostracism pottery shard",
+        "caption": "The 482 BC democratic vote to exile a citizen"
+      },
+      {
+        "narration": "An illiterate peasant approached Aristides, failing to recognize the famous leader standing right before him.",
+        "search": "ancient Greece pottery ostracon",
+        "caption": "An illiterate peasant asks a stranger for a favor"
+      },
+      {
+        "narration": "The peasant handed Aristides a ceramic shard and asked him to write a specific name upon it.",
+        "search": "ancient Athenian democracy engraving",
+        "caption": "Writing a name on a broken pottery shard"
+      },
+      {
+        "narration": "Aristides asked the man what wrong Aristides had ever committed against him.",
+        "search": "ancient Greek statesman oil painting illustration",
+        "caption": "What crime had Aristides supposedly committed?"
+      },
+      {
+        "narration": "The voter replied that he did not even know him, but simply grew tired of hearing him called The Just.",
+        "search": "classical Greek agora illustration",
+        "caption": "Tired of hearing the man called The Just"
+      },
+      {
+        "narration": "Without revealing his identity, Aristides silently inscribed his own name onto the voting shard.",
+        "search": "ancient Greek terracotta fragment close up",
+        "caption": "Carving his own name onto the ballot"
+      },
+      {
+        "narration": "In 482 BC, the ostracism tally exceeded the required threshold, officially condemning Aristides to ten years of exile from Athenian territory.",
+        "search": "ancient greek ostracon pottery shard engraving",
+        "caption": "In 482 BC, Aristides was banished by his own written vote."
+      },
+      {
+        "narration": "Just two years later, King Xerxes launched the massive Persian invasion, forcing desperate Athenian magistrates to revoke the decree and recall their best commanders.",
+        "search": "battle of salamis persian invasion oil painting",
+        "caption": "Facing Persian invasion in 480 BC, Athens rescinded his exile."
+      },
+      {
+        "narration": "Aristides slipped through enemy blockades to aid his bitter rival Themistocles at Salamis, forever proving that his title of The Just was entirely earned.",
+        "search": "aristides the just marble bust statue",
+        "caption": "He saved the democracy that banished him, cementing his legendary title."
+      },
+      {
+        "narration": "Why did an ancient politician banish himself from Athens?",
+        "search": "ancient greece marble bust statue",
+        "caption": "Why did an Athenian hero vote to banish himself?"
+      }
+    ],
+    "error": "",
+    "youtube_id": "VR6DMkcE2so",
+    "youtube_url": "https://www.youtube.com/watch?v=VR6DMkcE2so",
+    "created_at": "2026-10-20T20:48:53.039984+00:00",
+    "updated_at": "2026-10-20T20:55:35.582085+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-20T20:50:38.622639+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "405 chars (cat 519 de vua 55s)",
+        "at": "2026-10-20T20:52:25.330080+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.6s en-US-GuyNeural 4 cau",
+        "at": "2026-10-20T20:52:30.374452+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T20:52:31.868409+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-20T20:54:37.928741+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-10-20T20:54:38.008862+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.6s 13822475 bytes",
+        "at": "2026-10-20T20:55:27.396343+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=VR6DMkcE2so",
+        "at": "2026-10-20T20:55:31.092878+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaaYHf9yax_cjZSXTxZVl-KqrObA8kHxysG9tDTH0uAlfZ-8KAGB",
+        "at": "2026-10-20T20:55:32.498310+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T20:55:33.993491+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T20:55:34.312826+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"VR6DMkcE2so\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T20:55:35.266846+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T20:55:35.344877+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T20:55:35.582065+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32389710/pexels-photo-32389710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20550204/pexels-photo-20550204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37992415/pexels-photo-37992415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15301861/pexels-photo-15301861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3224223/pexels-photo-3224223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2612359/pexels-photo-2612359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28300844/pexels-photo-28300844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39915315/pexels-photo-39915315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31980407/pexels-photo-31980407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645913/pexels-photo-28645913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162757/pexels-photo-6162757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844009/pexels-photo-37844009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2900024894",
     "kind": "short",
     "channel": "Channel3",
