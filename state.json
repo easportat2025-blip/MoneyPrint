@@ -1,5 +1,191 @@
 [
   {
+    "id": "9b64eafe7f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Dictator Erased His Own Name",
+    "idea": {
+      "title": "Why Rome's Dictator Erased His Own Name",
+      "hook": "In 79 BC, the most feared dictator in Rome did the unthinkable: he gave up absolute power and walked the streets completely alone.",
+      "beats": [
+        "Lucius Cornelius Sulla executed thousands of political enemies and declared himself absolute dictator of Rome for life.",
+        "At the height of undisputed power, Sulla stunned the Senate by abruptly resigning, dismissing his bodyguards, and returning to private life.",
+        "When an insolent youth followed him home shouting insults, Sulla offered no retaliation, merely predicting no future dictator would ever dare surrender power again.",
+        "His prophecy came true decades later when Julius Caesar used Sulla's march on Rome as a blueprint, sealing the republic's permanent demise."
+      ],
+      "keywords": [
+        "Lucius Cornelius Sulla bust",
+        "Roman Forum ancient senate",
+        "Roman republic classic painting",
+        "Roman dictator engraving",
+        "Roman citizens toga painting"
+      ],
+      "tags": [
+        "#romanempire",
+        "#ancienthistory",
+        "#historyfacts",
+        "#rome",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's deadliest dictator abruptly surrendered absolute power.",
+        "search": "Lucius Cornelius Sulla marble bust statue close-up",
+        "caption": "Rome's deadliest dictator surrendered absolute power in 79 BC."
+      },
+      {
+        "narration": "Lucius Cornelius Sulla had just executed thousands of political rivals to secure undisputed rule.",
+        "search": "Roman proscriptions slaughter historical oil painting",
+        "caption": "Sulla purged thousands of rivals to secure lifetime rule."
+      },
+      {
+        "narration": "In 82 BC, Sulla became the first Roman general to march legions into the capital city.",
+        "search": "Roman soldiers marching Roman forum ancient engraving",
+        "caption": "Sulla breached Roman law by marching legions into Rome."
+      },
+      {
+        "narration": "He posted public execution lists in the Forum, offering cash bounties for the heads of senators.",
+        "search": "Roman Forum proscription tablet ancient engraving",
+        "caption": "Daily execution lists condemned Rome's wealthiest citizens to death."
+      },
+      {
+        "narration": "A terrified Senate yielded, naming him dictator without any legal time limit.",
+        "search": "Roman Senate ancient toga assembly oil painting",
+        "caption": "The Senate appointed Sulla dictator with unlimited lifetime authority."
+      },
+      {
+        "narration": "Yet after rewriting Rome's entire legal code, Sulla appeared before the Senate in 79 BC and resigned.",
+        "search": "Sulla resigning Roman dictatorship classic painting",
+        "caption": "In 79 BC, Sulla stunned Rome by resigning his office."
+      },
+      {
+        "narration": "He dismissed his armed lictors, shed his bodyguards, and offered to defend his record as a common citizen.",
+        "search": "Roman lictors fasces marble relief carving",
+        "caption": "He dismissed his bodyguards and faced the public unprotected."
+      },
+      {
+        "narration": "As Sulla walked home alone through the crowded streets, an insolent youth followed him, shouting bitter insults.",
+        "search": "Roman crowd ancient street toga oil painting",
+        "caption": "A hostile citizen pursued the former tyrant through the streets."
+      },
+      {
+        "narration": "Instead of unleashing his former executioners, Sulla absorbed the insults in silence until reaching his doorway.",
+        "search": "Lucius Cornelius Sulla marble bust statue close up",
+        "caption": "The ruthless dictator endured public humiliation without executing the boy."
+      },
+      {
+        "narration": "Turning back, Sulla warned that this boy's insolence ensured no future Roman dictator would ever willingly surrender power again.",
+        "search": "ancient Roman street crowd oil painting",
+        "caption": "Sulla warned no future autocrat would ever voluntarily abdicate power."
+      },
+      {
+        "narration": "Thirty-five years later, Julius Caesar proved him right, mocking Sulla for stepping down before claiming perpetual dictatorship over Rome.",
+        "search": "Julius Caesar marble bust statue",
+        "caption": "Caesar remembered Sulla's fate and refused to surrender total power."
+      },
+      {
+        "narration": "Rome's deadliest dictator resigned and walked the streets alone.",
+        "search": "Lucius Cornelius Sulla marble bust statue",
+        "caption": "Rome's deadliest dictator walked away from absolute power."
+      }
+    ],
+    "error": "",
+    "youtube_id": "B9mcgGyw_7M",
+    "youtube_url": "https://www.youtube.com/watch?v=B9mcgGyw_7M",
+    "created_at": "2026-10-20T22:48:18.517910+00:00",
+    "updated_at": "2026-10-20T22:57:17.877680+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-20T22:51:29.998753+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "422 chars (cat 177 de vua 55s)",
+        "at": "2026-10-20T22:52:25.154070+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.9s en-US-GuyNeural 7 cau",
+        "at": "2026-10-20T22:52:28.281438+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T22:52:29.650657+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-20T22:56:23.112569+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-20T22:56:23.179141+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.9s 16582444 bytes",
+        "at": "2026-10-20T22:57:09.071796+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=B9mcgGyw_7M",
+        "at": "2026-10-20T22:57:13.382554+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYYNBAdad4BszfUWKAP05-aoQ_7UxHxxh5ini9nX2K3B5XGShH3",
+        "at": "2026-10-20T22:57:14.402094+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T22:57:15.657550+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T22:57:15.987873+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"B9mcgGyw_7M\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T22:57:17.511953+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T22:57:17.574237+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T22:57:17.877659+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/12564807/pexels-photo-12564807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38963126/pexels-photo-38963126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35812475/pexels-photo-35812475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37607838/pexels-photo-37607838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709014/pexels-photo-35709014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934898/pexels-photo-38934898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14548828/pexels-photo-14548828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38468109/pexels-photo-38468109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6229045/pexels-photo-6229045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9740713/pexels-photo-9740713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33785438/pexels-photo-33785438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422569/pexels-photo-20422569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "92ddaa0b1f",
     "kind": "short",
     "channel": "Channel2",
