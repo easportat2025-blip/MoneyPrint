@@ -1,5 +1,191 @@
 [
   {
+    "id": "f7a7bf4e3c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why Rome's Richest Senator Died Tripping on His Toga",
+    "idea": {
+      "title": "Why Rome's Richest Senator Died Tripping on His Toga",
+      "hook": "In 133 BC, Rome's richest politician led a violent mob against his own cousin, only to suffer the most humiliating death in senate history.",
+      "beats": [
+        "Publius Cornelius Scipio Nasica despised his cousin Tiberius Gracchus for championing the poor.",
+        "He led senators armed with broken chair legs into the Forum, clubbing Tiberius to death.",
+        "Fleeing the backlash, Nasica sprinted away, tripped on the heavy folds of his own senator toga, and hit the stone pavement.",
+        "Exiled in shame to Pergamum, Rome's wealthiest aristocrat died completely abandoned within months."
+      ],
+      "keywords": [
+        "scipio nasica portrait",
+        "roman forum murder engraving",
+        "ancient roman toga statue",
+        "tiberius gracchus painting",
+        "ancient pergamum ruins"
+      ],
+      "tags": [
+        "AncientRome",
+        "RomanHistory",
+        "HistoryMysteries",
+        "DarkHistory",
+        "TiberiusGracchus"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's richest senator was killed by his own toga.",
+        "search": "ancient roman toga marble statue",
+        "caption": "Rome's richest senator met a humiliating end in 133 BC."
+      },
+      {
+        "narration": "In 133 BC, Publius Cornelius Scipio Nasica Serapio ranked among the wealthiest men in the Roman Republic.",
+        "search": "roman patrician marble bust statue",
+        "caption": "Scipio Nasica held immense wealth and political power in Rome."
+      },
+      {
+        "narration": "His cousin, Tiberius Gracchus, proposed radical land redistribution laws that directly threatened the senatorial elite's vast estates.",
+        "search": "tiberius gracchus engraving ancient rome",
+        "caption": "Tribune Tiberius Gracchus championed land reform for Rome's poor plebeians."
+      },
+      {
+        "narration": "When the presiding consul refused to execute Gracchus without trial, Nasica resolved to take unlawful action himself.",
+        "search": "roman senate curia oil painting",
+        "caption": "The consul refused to illegally execute an elected tribune."
+      },
+      {
+        "narration": "Nasica veiled his head in the heavy folds of his senatorial toga, signaling a sacred duty to destroy a tyrant.",
+        "search": "roman pontifex veiled toga statue",
+        "caption": "Nasica signaled a religious purge by veiling his head in his toga."
+      },
+      {
+        "narration": "Armed with splintered wooden bench legs, Nasica's faction stormed the Forum and clubbed Gracchus and three hundred followers to death.",
+        "search": "death of tiberius gracchus painting",
+        "caption": "Senators clubbed Tiberius Gracchus and hundreds of supporters to death."
+      },
+      {
+        "narration": "The Roman plebeians erupted in fury over the massacre, openly targeting Nasica for execution in the streets.",
+        "search": "roman forum riot engraving",
+        "caption": "Rome's citizens revolted against the aristocratic assassins."
+      },
+      {
+        "narration": "Terrified for his survival, the senate secretly smuggled their supreme pontiff out of Italy toward Asia Minor.",
+        "search": "ancient roman ship mosaic",
+        "caption": "The Senate quietly exiled Rome's pontifex maximus across the Aegean Sea."
+      },
+      {
+        "narration": "Sent on a fabricated diplomatic mission to Pergamum in 132 BC, Scipio Nasica arrived only to find himself an international pariah shunned by provincial allies.",
+        "search": "ancient pergamum acropolis ruins engraving",
+        "caption": "Exiled to Pergamum, Rome's high priest was shunned as an outcast."
+      },
+      {
+        "narration": "Paranoid and physically deteriorating, the supreme pontiff suffered a catastrophic fall when tangled in the heavy woolen folds of his formal senatorial toga.",
+        "search": "roman senator toga marble statue",
+        "caption": "Trapped by his own senatorial toga, the aristocrat suffered a humiliating fall."
+      },
+      {
+        "narration": "In late 132 BC, Rome's richest senator died abandoned in exile, having unleashed political murder upon the Republic only to perish in disgrace.",
+        "search": "roman forum ruins oil painting",
+        "caption": "Rome's wealthiest senator died completely abandoned, destroying republican peace forever."
+      },
+      {
+        "narration": "In 133 BC, Rome's wealthiest politician suffered the most humiliating death in history.",
+        "search": "scipio nasica bust statue",
+        "caption": "Rome's richest senator died from a clumsy accident."
+      }
+    ],
+    "error": "",
+    "youtube_id": "kHUYkSorw8A",
+    "youtube_url": "https://www.youtube.com/watch?v=kHUYkSorw8A",
+    "created_at": "2026-10-20T05:49:28.192140+00:00",
+    "updated_at": "2026-10-20T05:57:24.419590+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-20T05:52:48.824716+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "401 chars (cat 212 de vua 55s)",
+        "at": "2026-10-20T05:54:15.116649+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-20T05:54:18.212763+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T05:54:19.048245+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-20T05:56:46.334766+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-20T05:56:46.375464+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 13176714 bytes",
+        "at": "2026-10-20T05:57:14.962810+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=kHUYkSorw8A",
+        "at": "2026-10-20T05:57:19.362480+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaacABjXFZ1tp0cYziKXj0N_xPbIyQol2EjXtuK0BNyHINl1SrRm",
+        "at": "2026-10-20T05:57:20.529740+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T05:57:22.545375+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T05:57:22.836706+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"kHUYkSorw8A\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T05:57:24.248411+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T05:57:24.289338+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T05:57:24.419577+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/27163473/pexels-photo-27163473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15253823/pexels-photo-15253823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861652/pexels-photo-37861652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38963126/pexels-photo-38963126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708780/pexels-photo-35708780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33954330/pexels-photo-33954330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38119183/pexels-photo-38119183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966894/pexels-photo-37966894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31963547/pexels-photo-31963547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31453376/pexels-photo-31453376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38447901/pexels-photo-38447901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057043/pexels-photo-29057043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3b2387fd0a",
     "kind": "short",
     "channel": "Channel3",
