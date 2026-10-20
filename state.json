@@ -1,5 +1,196 @@
 [
   {
+    "id": "2900024894",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Tại sao bạn luôn quên sạch trí nhớ ngay khi bước qua cửa?",
+    "idea": {
+      "title": "Tại sao bạn luôn quên sạch trí nhớ ngay khi bước qua cửa?",
+      "hook": "Bạn vừa bước từ phòng khách vào bếp và tự hỏi: 'Mình định lấy gì nhỉ?'. Sự thật là bộ não vừa lừa bạn một cú ngoạn mục.",
+      "beats": [
+        "Giải thích hiện tượng 'Doorway Effect' (Hiệu ứng khung cửa) khiến não bộ phải reset lại không gian.",
+        "Cửa ra vào đóng vai trò như một bức tường ngăn cách nhận thức, xóa sạch RAM tạm thời của bạn.",
+        "Cách duy nhất để chống lại cái bẫy vô hình này mỗi khi di chuyển trong nhà."
+      ],
+      "keywords": [
+        "doorway effect psychology",
+        "brain memory reset room",
+        "human brain memory limits",
+        "cognitive psychology door",
+        "forgetting entering room"
+      ],
+      "tags": [
+        "Channel3",
+        "TamLyHoc",
+        "BoNao",
+        "KienThucThuVi",
+        "KhoaHoc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao bước qua cửa lại quên ngay dự định?",
+        "search": "hoat hinh 3d nguoi di qua cua ngap ngung",
+        "caption": "Bước qua cửa là quên mất dự định?"
+      },
+      {
+        "narration": "Bạn vừa từ phòng khách sang bếp để lấy đồ, nhưng chạm chân vào bếp là quên sạch.",
+        "search": "hoat hinh 3d nguoi dung trong nha bep ngo ngac",
+        "caption": "Vừa sang phòng mới đã quên mục đích."
+      },
+      {
+        "narration": "Các nhà tâm lý gọi hiện tượng phổ biến này là Hiệu ứng Khung cửa.",
+        "search": "hoat hinh 3d mo hinh nao bo sang len khong gian",
+        "caption": "Hiệu ứng Khung cửa (Doorway Effect)."
+      },
+      {
+        "narration": "Bộ nhớ tạm thời của não chỉ chứa được vài thông tin cùng một lúc.",
+        "search": "hoat hinh 3d thanh dung luong bo nho nao bo nap day",
+        "caption": "Bộ nhớ ngắn hạn của não rất hạn chế."
+      },
+      {
+        "narration": "Khi đi qua cánh cửa, não coi đó là ranh giới sự kiện và lập tức bấm nút xóa.",
+        "search": "hoat hinh 3d canh cua mo ra xoa du lieu",
+        "caption": "Cánh cửa kích hoạt lệnh xóa thông tin."
+      },
+      {
+        "narration": "Cơ chế này giúp não tập trung vào môi trường mới nhưng làm rơi mất suy nghĩ cũ.",
+        "search": "hoat hinh 3d bong bong suy nghi trong dau bien mat",
+        "caption": "Não xóa thông tin cũ để nạp không gian mới."
+      },
+      {
+        "narration": "Thậm chí bước qua cửa ảo trên màn hình điện thoại cũng khiến bạn quên như vậy.",
+        "search": "hoat hinh 3d nhan vat tro choi di qua canh cua",
+        "caption": "Cửa ảo trong trò chơi cũng gây quên."
+      },
+      {
+        "narration": "Để khắc phục, hãy nhẩm tên vật cần lấy hoặc bước lùi lại phòng ban đầu.",
+        "search": "hoat hinh 3d nguoi lui lai qua canh cua va phat sang",
+        "caption": "Nhẩm trong đầu hoặc quay lại phòng cũ."
+      },
+      {
+        "narration": "Cánh cửa khiến brain xóa sạch 30% trí nhớ.",
+        "search": "3d animation nguoi buoc qua cua phong",
+        "caption": "Cánh cửa xóa 30% trí nhớ ngắn hạn"
+      },
+      {
+        "narration": "Bộ não coi cánh cửa là mốc kết thúc, lập tức làm rỗng bộ nhớ RAM tạm thời để nạp không gian mới.",
+        "search": "motion graphics nao bo xoa du lieu ram",
+        "caption": "Bộ não tự động xóa bộ nhớ tạm thời"
+      },
+      {
+        "narration": "Hiệu ứng này thậm chí xảy ra ngay cả khi bạn chuyển tab trên màn hình điện thoại.",
+        "search": "cartoony 3d tay luot chuyen tab dien thoai",
+        "caption": "Xảy ra cả khi chuyển tab điện thoại"
+      },
+      {
+        "narration": "Do não phải ưu tiên xử lý không gian mới, dòng suy nghĩ vừa rồi bị đè nén hoàn toàn.",
+        "search": "isometric render mo hinh phong khach va bep",
+        "caption": "Môi trường mới đè nén suy nghĩ cũ"
+      },
+      {
+        "narration": "Để khắc phục, hãy nhẩm tên vật cần lấy hoặc quay lại phòng ban đầu để kích hoạt lại ký ức.",
+        "search": "explainer animation nguoi di lui lai phong cu",
+        "caption": "Quay lại phòng cũ giúp khôi phục ký ức"
+      }
+    ],
+    "error": "",
+    "youtube_id": "U3tW5Dn9eH8",
+    "youtube_url": "https://www.youtube.com/watch?v=U3tW5Dn9eH8",
+    "created_at": "2026-10-20T19:28:43.849010+00:00",
+    "updated_at": "2026-10-20T19:33:47.509478+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-20T19:30:13.903436+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "517 chars (cat 51 de vua 55s)",
+        "at": "2026-10-20T19:31:59.291858+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-20T19:32:10.316716+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T19:32:12.168588+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-20T19:32:30.280706+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-20T19:32:30.353095+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.2s 24068738 bytes",
+        "at": "2026-10-20T19:33:40.292967+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=U3tW5Dn9eH8",
+        "at": "2026-10-20T19:33:43.603002+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaamZAiJHg3Lo7ezSx0cdAoWpyWWxTFQLZz7B8g9lv7PK-AlvQr2",
+        "at": "2026-10-20T19:33:44.733937+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T19:33:45.967871+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T19:33:46.247833+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"U3tW5Dn9eH8\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T19:33:47.203411+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T19:33:47.275581+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T19:33:47.509464+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818510/8818510-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39844621/16997581_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/18068664/18068664-uhd_1440_2558_24fps.mp4",
+      "https://videos.pexels.com/video-files/18069863/18069863-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/32107057/13687887_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39038431/16611280_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7984189/7984189-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7198065/7198065-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8382842/8382842-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/28939893/12523801_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819931/8819931-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6731483/6731483-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/38853666/16516078_1440_2560_60fps.mp4"
+    ]
+  },
+  {
     "id": "64aee9f16d",
     "kind": "long",
     "channel": "seigh",
