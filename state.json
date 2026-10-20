@@ -1,5 +1,191 @@
 [
   {
+    "id": "f82857dce9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Arab General Conquered China's Gate with Dirt",
+    "idea": {
+      "title": "Why an Arab General Conquered China's Gate with Dirt",
+      "hook": "In 715 AD, an Arab general took an oath to step on Chinese soil—so China's emperor mailed him bags of dirt.",
+      "beats": [
+        "Qutayba ibn Muslim swore by his god he would not halt his conquest until his boots trod upon the soil of China.",
+        "The Tang Emperor Xuanzong, unwilling to wage a costly war on his western border, devised a brilliant diplomatic compromise.",
+        "He sent Qutayba four sacks of Chinese soil to tread upon, along with tribute bags of silk and gold to satisfy his oath.",
+        "The conqueror trampled the imperial dirt in his camp, declared his sacred vow fulfilled, and withdrew his massive army without shedding a drop of blood."
+      ],
+      "keywords": [
+        "Qutayba ibn Muslim",
+        "Tang Dynasty Emperor Xuanzong",
+        "ancient Arab conquest map",
+        "Silk Road ancient painting",
+        "imperial Chinese court tribute engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#tangdynasty",
+        "#militaryhistory",
+        "#diplomacy"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "China stopped an unstoppable caliphate invasion with dirt.",
+        "search": "tang dynasty cavalry battle antique silk painting",
+        "caption": "How bags of soil halted a massive imperial invasion."
+      },
+      {
+        "narration": "By 715 AD, the Umayyad Caliphate had swept through Central Asia, approaching China's western gates.",
+        "search": "umayyad caliphate expansion map 8th century manuscript illustration",
+        "caption": "In 715 AD, two global superpowers faced direct collision."
+      },
+      {
+        "narration": "General Qutayba ibn Muslim had captured Samarkand and sworn a sacred oath to tread upon Chinese soil.",
+        "search": "medieval arab commander horse miniature painting",
+        "caption": "General Qutayba swore an unbreakable oath to tread Chinese soil."
+      },
+      {
+        "narration": "Breaking an oath sworn to God brought spiritual ruin, but invading Tang territory invited total imperial war.",
+        "search": "silk road kashgar oasis ancient desert caravan watercolor illustration",
+        "caption": "Retreat meant religious dishonor, while advance guaranteed catastrophe."
+      },
+      {
+        "narration": "In the capital of Chang'an, Emperor Xuanzong of Tang learned that Qutayba's vanguard was massing in Kashgar.",
+        "search": "emperor xuanzong of tang portrait hanging scroll painting",
+        "caption": "Emperor Xuanzong sought an escape from a devastating war."
+      },
+      {
+        "narration": "Instead of mobilizing his legions, Xuanzong interrogated Arab envoys to analyze the conqueror's exact vow.",
+        "search": "tang dynasty imperial court diplomats ancient scroll painting",
+        "caption": "Tang scholars examined the exact wording of the vow."
+      },
+      {
+        "narration": "The imperial advisers found a loophole: Qutayba's oath required his boots on Chinese earth, not blood.",
+        "search": "chinese imperial court scholar writing silk scroll painting",
+        "caption": "A subtle loophole inside a conqueror's holy oath."
+      },
+      {
+        "narration": "Emperor Xuanzong assembled an imperial caravan laden with royal tribute and four enigmatic, heavy sacks.",
+        "search": "ancient chinese diplomatic tribute caravan historical drawing",
+        "caption": "An imperial caravan set out with an unprecedented delivery."
+      },
+      {
+        "narration": "In 715 AD, Emperor Xuanzong's envoys entered the Arab camp, presenting diplomatic tribute alongside four sealed sacks filled with Chinese soil.",
+        "search": "Tang dynasty silk painting imperial envoys presentation",
+        "caption": "Four sacks of imperial earth were delivered to the Umayyad camp."
+      },
+      {
+        "narration": "General Qutayba emptied the earth onto the ground and stood upon it, technically fulfilling his religious oath to tread on Chinese soil.",
+        "search": "Umayyad commander tent miniature painting manuscript",
+        "caption": "Qutayba stepped upon the soil, fulfilling his oath without bloodshed."
+      },
+      {
+        "narration": "With the vow honored and imperial tribute accepted, the Umayyad army withdrew, securing the Tang border without fighting a single battle.",
+        "search": "ancient Silk Road territory map engraving",
+        "caption": "A diplomatic bag of dirt saved two ancient empires from catastrophic war."
+      },
+      {
+        "narration": "China stopped an unstoppable invasion using bags of dirt.",
+        "search": "tang dynasty silk scroll painting imperial palace",
+        "caption": "How bags of dirt stopped an imperial invasion"
+      }
+    ],
+    "error": "",
+    "youtube_id": "vssqN1Z7Sw4",
+    "youtube_url": "https://www.youtube.com/watch?v=vssqN1Z7Sw4",
+    "created_at": "2026-10-20T01:09:36.124344+00:00",
+    "updated_at": "2026-10-20T01:14:46.903274+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-20T01:10:21.272648+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "376 chars (cat 155 de vua 55s)",
+        "at": "2026-10-20T01:11:06.258066+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.3s en-US-GuyNeural 5 cau",
+        "at": "2026-10-20T01:11:11.617035+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-20T01:11:13.124772+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-20T01:13:51.853169+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-20T01:13:51.921547+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.3s 13989286 bytes",
+        "at": "2026-10-20T01:14:40.082544+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=vssqN1Z7Sw4",
+        "at": "2026-10-20T01:14:43.300740+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabU_sZW0iVZCR3GAmdu4_lb2WtK9zr_U_biR9XAx-bf5hu3IdKd",
+        "at": "2026-10-20T01:14:44.356696+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-20T01:14:45.368488+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-20T01:14:45.787040+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"vssqN1Z7Sw4\\\"\",\n    \"errors\"",
+        "at": "2026-10-20T01:14:46.627490+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-20T01:14:46.696824+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-20T01:14:46.903260+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15313370/pexels-photo-15313370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30834814/pexels-photo-30834814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33694896/pexels-photo-33694896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19820501/pexels-photo-19820501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35285605/pexels-photo-35285605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31032333/pexels-photo-31032333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38175301/pexels-photo-38175301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25558885/pexels-photo-25558885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30226444/pexels-photo-30226444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33642321/pexels-photo-33642321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2981109/pexels-photo-2981109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458156/pexels-photo-39458156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "18b92b9a42",
     "kind": "short",
     "channel": "Channel2",
