@@ -1,5 +1,192 @@
 [
   {
+    "id": "81b1ac21a4",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Bodyguard Who Murdered Alexander’s Father",
+    "idea": {
+      "title": "The Bodyguard Who Murdered Alexander’s Father",
+      "hook": "In 336 BC, Pausanias stabbed King Philip II of Macedon to death—all because the king made a fatal mistake ignoring a personal betrayal.",
+      "beats": [
+        "Pausanias suffered a terrible humiliation caused by a powerful court noble close to King Philip II.",
+        "When Philip refused to punish the attacker to protect political alliances, Pausanias directed his fury at the crown.",
+        "At his daughter's grand royal wedding, Philip walked unguarded into an arena to showcase his absolute power.",
+        "Pausanias lunged from the crowd, plunging a dagger straight through the king's ribs before trying to escape.",
+        "The shock assassination instantly thrust 20-year-old Alexander the Great onto the throne of the ancient world."
+      ],
+      "keywords": [
+        "Philip II of Macedon bust",
+        "Pausanias assassination painting",
+        "Ancient Macedonia engraving",
+        "Alexander the Great portrait",
+        "Ancient Greek soldier illustration"
+      ],
+      "tags": [
+        "AncientHistory",
+        "AlexanderTheGreat",
+        "HistoryShorts",
+        "Macedon",
+        "Channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A royal bodyguard's revenge created Alexander the Great.",
+        "search": "Philip II of Macedon bust statue",
+        "caption": "A bodyguard's revenge changed ancient history forever."
+      },
+      {
+        "narration": "In 336 BC, King Philip II ruled a dominant Macedonian empire preparing to invade Persia.",
+        "search": "Ancient Macedonia map engraving",
+        "caption": "In 336 BC, King Philip II ruled unified Greece."
+      },
+      {
+        "narration": "Within his elite royal guard, a young noble named Pausanias harbored a dangerous rage.",
+        "search": "Ancient Greek soldier illustration",
+        "caption": "Royal bodyguard Pausanias harbored a bitter personal grudge."
+      },
+      {
+        "narration": "Pausanias had suffered a horrific sexual assault orchestrated by Attalus, a powerful court general.",
+        "search": "Ancient Greek banquet illustration",
+        "caption": "Attalus, a powerful noble, orchestrated a terrible humiliation."
+      },
+      {
+        "narration": "When Pausanias demanded justice, King Philip refused to punish Attalus to protect a vital political alliance.",
+        "search": "King Philip II of Macedon portrait painting",
+        "caption": "King Philip refused justice to protect vital political alliances."
+      },
+      {
+        "narration": "Realizing the king favored politics over his suffering, Pausanias turned his anger against Philip.",
+        "search": "Ancient Greek bronze dagger illustration",
+        "caption": "Denied justice, Pausanias directed his fury at the crown."
+      },
+      {
+        "narration": "The opportunity came at Aegae during the grand wedding festival of Philip's daughter.",
+        "search": "Ancient Greek amphitheater engraving",
+        "caption": "At a royal wedding, Philip made a fatal mistake."
+      },
+      {
+        "narration": "To showcase his supreme confidence, Philip ordered his guards to step back and entered the arena unguarded.",
+        "search": "Pausanias assassination painting",
+        "caption": "Philip walked unprotected into the crowded arena."
+      },
+      {
+        "narration": "Seizing the opportunity in 336 BC, Pausanias lunged from the crowd and plunged a blade straight through King Philip's ribs.",
+        "search": "assassination of Philip II of Macedon historical oil painting",
+        "caption": "Pausanias struck down King Philip II in 336 BC"
+      },
+      {
+        "narration": "As the bodyguard tripped while sprinting toward his escape horse, Philip's loyal troops overtook Pausanias and speared him to death.",
+        "search": "ancient Macedonian royal guards engraving",
+        "caption": "Guards executed Pausanias during his escape attempt"
+      },
+      {
+        "narration": "By ignoring a personal betrayal, Philip died instantly—thrusting his twenty-year-old son, Alexander the Great, onto the throne to conquer the ancient world.",
+        "search": "Alexander the Great marble bust statue",
+        "caption": "Philip's death unleashed Alexander the Great upon the world"
+      },
+      {
+        "narration": "How did a bodyguard's revenge create Alexander the Great?",
+        "search": "Alexander the Great portrait painting",
+        "caption": "A bodyguard's revenge birthed an empire."
+      }
+    ],
+    "error": "",
+    "youtube_id": "E-wX3Kd4Nx4",
+    "youtube_url": "https://www.youtube.com/watch?v=E-wX3Kd4Nx4",
+    "created_at": "2026-10-21T05:58:22.231094+00:00",
+    "updated_at": "2026-10-21T06:03:45.280823+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-21T06:00:00.080856+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "359 chars (cat 424 de vua 55s)",
+        "at": "2026-10-21T06:01:02.669559+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.4s en-US-GuyNeural 4 cau",
+        "at": "2026-10-21T06:01:04.549848+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-21T06:01:05.443027+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-21T06:03:10.375130+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-21T06:03:10.422211+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.4s 16333867 bytes",
+        "at": "2026-10-21T06:03:38.205853+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=E-wX3Kd4Nx4",
+        "at": "2026-10-21T06:03:40.932212+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZGQkoc_sLPUNlzIIZxMiGwXxNN14PsVHUln3vdqsQxdR57rjPx",
+        "at": "2026-10-21T06:03:41.959765+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-21T06:03:43.233395+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-21T06:03:43.526075+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"E-wX3Kd4Nx4\\\"\",\n    \"errors\"",
+        "at": "2026-10-21T06:03:45.083199+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-21T06:03:45.132934+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-21T06:03:45.280801+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/22798634/pexels-photo-22798634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39538707/pexels-photo-39538707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10924613/pexels-photo-10924613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731089/pexels-photo-11731089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30094199/pexels-photo-30094199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386080/pexels-photo-38386080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21581453/pexels-photo-21581453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40086508/pexels-photo-40086508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35238980/pexels-photo-35238980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32675233/pexels-photo-32675233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5918771/pexels-photo-5918771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34377348/pexels-photo-34377348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "694511aed0",
     "kind": "short",
     "channel": "Channel3",
