@@ -1,5 +1,191 @@
 [
   {
+    "id": "be536ee418",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Arab General Sold a Kingdom for a Game of Chess",
+    "idea": {
+      "title": "Why an Arab General Sold a Kingdom for a Game of Chess",
+      "hook": "In 840 AD, an Arab emir waged an entire kingdom on a single game of chess—and lost.",
+      "beats": [
+        "Abu Hafs Umar, the Arab ruler of Crete, was famously obsessed with shatranj, the early ancestor of chess.",
+        "A captive Byzantine diplomat challenged the emir to a high-stakes match: his freedom and a frontier stronghold against bags of gold.",
+        "Blinded by pride, the emir blundered his queen pieces in a daring sacrificed checkmate.",
+        "The Byzantine escaped with official deeds, leaving the humiliated emir facing an instant rebellion from his own generals."
+      ],
+      "keywords": [
+        "medieval chess painting",
+        "byzantine diplomat engraving",
+        "arab emir historical bust",
+        "ancient map crete",
+        "medieval fortress ruins"
+      ],
+      "tags": [
+        "history",
+        "ancientempires",
+        "chesshistory",
+        "byzantine",
+        "historicalmysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 840 AD, an Arab ruler wagered an empire on a single game of chess.",
+        "search": "medieval chess manuscript illumination",
+        "caption": "A kingdom lost on a single chess game."
+      },
+      {
+        "narration": "That single defeat signed away a frontier fortress and triggered a violent military uprising in Crete.",
+        "search": "ancient map crete engraving",
+        "caption": "The loss sparked an instant military revolt."
+      },
+      {
+        "narration": "Emir Abu Hafs Umar had conquered Crete in 824 AD, establishing a powerful Islamic emirate.",
+        "search": "arab emir portrait painting",
+        "caption": "Emir Abu Hafs Umar ruled Crete in 824 AD."
+      },
+      {
+        "narration": "The emir became deeply consumed by shatranj, the medieval Persian ancestor of modern chess.",
+        "search": "medieval shatranj chess painting",
+        "caption": "Shatranj was the ancient ancestor of chess."
+      },
+      {
+        "narration": "In 840 AD, a captured Byzantine diplomat challenged the emir to a secret match inside the palace.",
+        "search": "byzantine diplomat manuscript painting",
+        "caption": "A captive Byzantine diplomat offered a high-stakes duel."
+      },
+      {
+        "narration": "The diplomat offered heavy sacks of imperial gold against his freedom and an official fortress deed.",
+        "search": "byzantine gold coin engraving",
+        "caption": "Gold coins were wagered against a fortress deed."
+      },
+      {
+        "narration": "Overconfident in his tactical skills, the emir accepted the wager without consulting his senior commanders.",
+        "search": "medieval fortress ruins oil painting",
+        "caption": "The emir accepted without his generals' knowledge."
+      },
+      {
+        "narration": "As the game unfolded, the Byzantine diplomat executed a devastating piece sacrifice that trapped the emir.",
+        "search": "byzantine diplomat engraving",
+        "caption": "A daring queen sacrifice trapped the emir's king."
+      },
+      {
+        "narration": "In 840 AD, Abu Hafs blundered his final defensive pieces, allowing the Byzantine envoy to deliver an inescapable checkmate on the board.",
+        "search": "medieval shatranj chess manuscript illumination",
+        "caption": "The fatal blunder sealed the emir's defeat in 840 AD."
+      },
+      {
+        "narration": "Bound by the wager, the humiliated emir handed over official title deeds to the frontier fortress, instantly triggering an armed revolt among his generals.",
+        "search": "arab soldiers mutiny medieval manuscript miniature",
+        "caption": "Surrendering the fortress sparked an armed military revolt in Crete."
+      },
+      {
+        "narration": "Byzantium reclaimed a crucial Aegean stronghold without losing a single soldier, proving how pride over a board game could fracture an entire kingdom.",
+        "search": "candia fortress crete antique map engraving",
+        "caption": "An entire strategic territory surrendered over a single game of chess."
+      },
+      {
+        "narration": "In 840 AD, chess destroyed an entire kingdom.",
+        "search": "ancient map crete engraving",
+        "caption": "In 840 AD, chess destroyed an entire kingdom."
+      }
+    ],
+    "error": "",
+    "youtube_id": "MMmMCf4Kios",
+    "youtube_url": "https://www.youtube.com/watch?v=MMmMCf4Kios",
+    "created_at": "2026-10-21T20:49:41.299885+00:00",
+    "updated_at": "2026-10-21T20:54:37.686249+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-21T20:50:48.371087+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "354 chars (cat 235 de vua 55s)",
+        "at": "2026-10-21T20:52:04.390712+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-21T20:52:08.776829+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-21T20:52:10.136444+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-21T20:53:42.799956+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-21T20:53:42.880037+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.3s 16730550 bytes",
+        "at": "2026-10-21T20:54:29.665314+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=MMmMCf4Kios",
+        "at": "2026-10-21T20:54:33.227999+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabJ55yB6U8slPDGs1P0dcM5UtWjV7p-OWUFzNvNIlQUjm3O3dGy",
+        "at": "2026-10-21T20:54:34.386170+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-21T20:54:35.865758+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-21T20:54:36.230147+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"MMmMCf4Kios\\\"\",\n    \"errors\"",
+        "at": "2026-10-21T20:54:37.375494+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-21T20:54:37.454859+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-21T20:54:37.686233+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/12039704/pexels-photo-12039704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38971089/pexels-photo-38971089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5416867/pexels-photo-5416867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8431757/pexels-photo-8431757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37043741/pexels-photo-37043741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6764225/pexels-photo-6764225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565365/pexels-photo-33565365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11961338/pexels-photo-11961338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35481062/pexels-photo-35481062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039709/pexels-photo-12039709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844583/pexels-photo-37844583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33516869/pexels-photo-33516869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2500218ebf",
     "kind": "short",
     "channel": "Channel3",
