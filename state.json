@@ -1,5 +1,192 @@
 [
   {
+    "id": "11004ad1c1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Athenian General Betrayed His City Three Times",
+    "idea": {
+      "title": "Why an Athenian General Betrayed His City Three Times",
+      "hook": "In 415 BC, Athens sentence its greatest general to death, triggering the most scandalous triple betrayal in ancient history.",
+      "beats": [
+        "Alcibiades, a charismatic Athenian aristocrat, was accused of desecrating sacred religious statues on the eve of the Sicilian Expedition.",
+        "Facing execution, he defected to Sparta and handed them the exact battle strategy to crush his own Athenian homeland.",
+        "After seducing the Spartan king's wife, he fled again to Persia, manipulating Persian funds to pit Greek city-states against each other.",
+        "Desperate Athens remarkably welcomed him back as supreme commander, before exiling him once more until Persian assassins burnt down his refuge."
+      ],
+      "keywords": [
+        "Alcibiades ancient Athens bust",
+        "Peloponnesian War battle map engraving",
+        "ancient Greek hoplites fighting painting",
+        "Spartan warriors vintage illustration",
+        "Persian satrap classical artwork"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#sparta",
+        "#athens",
+        "#betrayal",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Athens' ultimate general betray his city three times?",
+        "search": "Alcibiades marble bust statue",
+        "caption": "The General Who Betrayed Athens Thrice"
+      },
+      {
+        "narration": "In 415 BC, during the Peloponnesian War, general Alcibiades convinced Athens to launch a massive invasion of Sicily.",
+        "search": "Peloponnesian War battle map engraving",
+        "caption": "415 BC: Athens Prepares for Massive Conquest"
+      },
+      {
+        "narration": "On the eve of departure, sacred stone statues were desecrated, and rivals framed Alcibiades for the sacrilege.",
+        "search": "ancient Greek herm statue marble illustration",
+        "caption": "Sacred Statues Desecrated Before Departure"
+      },
+      {
+        "narration": "Sentence to death in absentia, Alcibiades fled his homeland and defected directly to Athens' arch-enemy, Sparta.",
+        "search": "Spartan warriors vintage illustration",
+        "caption": "Facing Execution, Alcibiades Defects to Sparta"
+      },
+      {
+        "narration": "He revealed Athens' secret military plans, helping the Spartans utterly annihilate the Athenian fleet at Syracuse.",
+        "search": "ancient Greek hoplites fighting painting",
+        "caption": "Leaking Secret Athenian Battle Plans"
+      },
+      {
+        "narration": "Alcibiades then seduced King Agis II's wife, fathered a secret heir, and narrowly escaped a Spartan assassination order.",
+        "search": "ancient Greek royal palace classical painting",
+        "caption": "Seduced the Spartan Queen"
+      },
+      {
+        "narration": "In 412 BC, he fled to Persia, convincing satrap Tissaphernes to bankroll both Greek sides and prolong their destruction.",
+        "search": "Persian satrap classical artwork",
+        "caption": "412 BC: Advising Persian Satrap Tissaphernes"
+      },
+      {
+        "narration": "By bleeding both empires dry, Alcibiades engineered a crisis that forced a desperate Athens to consider the unthinkable.",
+        "search": "ancient Persian court oil painting",
+        "caption": "Manipulating Ancient Empires Against Each Other"
+      },
+      {
+        "narration": "In 407 BC, Athens miraculously pardoned their traitor, welcoming Alcibiades back into Piraeus harbor as supreme commander of their entire military.",
+        "search": "return of alcibiades to athens oil painting",
+        "caption": "In 407 BC, Athens restored their traitor as supreme commander."
+      },
+      {
+        "narration": "Yet after his subordinate lost the naval battle of Notium in 406 BC, furious citizens stripped his command, driving Alcibiades into permanent exile in Persian Phrygia.",
+        "search": "peloponnesian naval battle notium engraving",
+        "caption": "A single naval defeat in 406 BC exiled him forever."
+      },
+      {
+        "narration": "In 404 BC, Spartan and Persian conspirators set his villa ablaze and cut him down, ending the life of history's most destructive political chameleon.",
+        "search": "death of alcibiades oil painting",
+        "caption": "Assassinated in 404 BC after tearing classical Greece apart."
+      },
+      {
+        "narration": "One general betrayed Athens, Sparta, and Persia—and survived.",
+        "search": "Alcibiades marble bust statue close up",
+        "caption": "History's most notorious triple traitor: Alcibiades."
+      }
+    ],
+    "error": "",
+    "youtube_id": "b-tOrftpNPk",
+    "youtube_url": "https://www.youtube.com/watch?v=b-tOrftpNPk",
+    "created_at": "2026-10-21T08:56:16.380036+00:00",
+    "updated_at": "2026-10-21T09:17:39.129882+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-21T09:06:54.600943+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "404 chars (cat 104 de vua 55s)",
+        "at": "2026-10-21T09:07:57.507303+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 4 cau",
+        "at": "2026-10-21T09:08:01.314091+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-21T09:08:02.485493+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-21T09:16:48.163375+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-21T09:16:48.223785+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 14303626 bytes",
+        "at": "2026-10-21T09:17:28.887319+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=b-tOrftpNPk",
+        "at": "2026-10-21T09:17:33.241000+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabYxHiITEoCV9zyWOiXlGJahmJRd8TUd8L3K4jzsGEa9CT_w0FF",
+        "at": "2026-10-21T09:17:35.248024+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-21T09:17:37.018063+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-21T09:17:37.344174+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"b-tOrftpNPk\\\"\",\n    \"errors\"",
+        "at": "2026-10-21T09:17:38.884079+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-21T09:17:38.944954+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-21T09:17:39.129861+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36359517/pexels-photo-36359517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070642/pexels-photo-15070642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29667309/pexels-photo-29667309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844002/pexels-photo-37844002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8640813/pexels-photo-8640813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39337565/pexels-photo-39337565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30548786/pexels-photo-30548786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12042181/pexels-photo-12042181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8585323/pexels-photo-8585323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39504012/pexels-photo-39504012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16272966/pexels-photo-16272966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "81b1ac21a4",
     "kind": "short",
     "channel": "Channel2",
