@@ -1,5 +1,191 @@
 [
   {
+    "id": "b21137d2e1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Brutal Betrayal of Rome's Greatest Ally",
+    "idea": {
+      "title": "The Brutal Betrayal of Rome's Greatest Ally",
+      "hook": "Rome's most brilliant barbarian ally spent 20 years protecting the empire, only to be executed on a suspicion that cost Rome its western half.",
+      "beats": [
+        "Flavius Stilicho defeated the Visigoths twice and saved Italy from total collapse.",
+        "Roman senators despised his barbarian blood and convinced Emperor Honorius he was a traitor.",
+        "Instead of sparking civil war, Stilicho surrendered his neck to the executioner's blade.",
+        "Weeks later, outraged barbarians joined Alaric and sacked Rome for the first time in 800 years."
+      ],
+      "keywords": [
+        "Flavius Stilicho Roman general",
+        "Emperor Honorius ancient Rome",
+        "Alaric Visigoths sack of Rome",
+        "ancient Roman execution painting",
+        "fall of western Roman empire"
+      ],
+      "tags": [
+        "romanempire",
+        "ancientrome",
+        "history",
+        "betrayal",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome executed the only general who could save it.",
+        "search": "sack of rome 410 ad oil painting",
+        "caption": "Rome murdered its last great protector."
+      },
+      {
+        "narration": "In 402 AD, the Western Roman Empire faced annihilation as Alaric's Visigoths overran northern Italy.",
+        "search": "alaric visigoths invading italy 402 ad painting",
+        "caption": "In 402 AD, Visigoth armies invaded Italy."
+      },
+      {
+        "narration": "The empire's defense fell to Flavius Stilicho, the half-Vandal commander-in-chief of Rome's legions.",
+        "search": "flavius stilicho ivory diptych relief monza",
+        "caption": "Flavius Stilicho: Rome's half-Vandal supreme commander."
+      },
+      {
+        "narration": "At the Battle of Pollentia in 402, Stilicho shattered the Visigoths, forcing Alaric to retreat across the Alps.",
+        "search": "battle of pollentia 402 ad engraving",
+        "caption": "Stilicho defeated the Visigoths at Pollentia."
+      },
+      {
+        "narration": "Despite saving Italy twice, Roman senators despised Stilicho's barbarian heritage and plotted his downfall.",
+        "search": "ancient roman senate debate oil painting",
+        "caption": "Roman aristocrats despised Stilicho's barbarian blood."
+      },
+      {
+        "narration": "Courtiers convinced the young Emperor Honorius that his supreme general intended to seize the western throne.",
+        "search": "emperor honorius roman coin gold solidus",
+        "caption": "Emperor Honorius was turned against his general."
+      },
+      {
+        "narration": "In August 408, imperial conspirators massacred Stilicho's top commanders at the military camp of Ticinum.",
+        "search": "ancient roman soldiers riot massacre engraving",
+        "caption": "A bloody coup wiped out Stilicho's allies."
+      },
+      {
+        "narration": "Stilicho's loyal barbarian bodyguards offered to march on the emperor, but the general made an unthinkable choice.",
+        "search": "flavius stilicho ravenna sanctuary oil painting",
+        "caption": "Stilicho faced a choice between rebellion and death."
+      },
+      {
+        "narration": "Refusing to ignite a civil war, Stilicho surrendered at Ravenna on August 22, 408, kneeling willingly before the executioner's blade.",
+        "search": "Flavius Stilicho execution Ravenna historical engraving",
+        "caption": "Stilicho refused civil war, kneeling before the executioner in 408."
+      },
+      {
+        "narration": "Emperor Honorius immediately butchered the families of his barbarian auxiliaries, driving thirty thousand elite troops to defect directly to Alaric.",
+        "search": "Alaric Visigoths barbarian army march oil painting",
+        "caption": "Rome's brutal purge drove 30,000 veteran soldiers into Alaric's ranks."
+      },
+      {
+        "narration": "With Stilicho dead, Italy stood defenseless, and in August 410, Alaric's Visigoths sacked Rome for the first time in eight hundred years.",
+        "search": "Sack of Rome 410 Alaric Visigoths oil painting",
+        "caption": "Two years later, Rome was sacked for the first time in centuries."
+      },
+      {
+        "narration": "Rome executed its greatest savior, destroying its own empire.",
+        "search": "Flavius Stilicho diptych ivory carving",
+        "caption": "Rome executed the only general keeping the empire alive."
+      }
+    ],
+    "error": "",
+    "youtube_id": "swYVEDR4oiI",
+    "youtube_url": "https://www.youtube.com/watch?v=swYVEDR4oiI",
+    "created_at": "2026-10-21T00:44:26.132612+00:00",
+    "updated_at": "2026-10-21T00:50:39.854794+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-21T00:45:24.898081+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "396 chars (cat 199 de vua 55s)",
+        "at": "2026-10-21T00:48:08.507134+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.1s en-US-GuyNeural 7 cau",
+        "at": "2026-10-21T00:48:10.791247+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-21T00:48:11.706826+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-21T00:50:01.626937+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-21T00:50:01.669290+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.1s 16385961 bytes",
+        "at": "2026-10-21T00:50:32.258933+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=swYVEDR4oiI",
+        "at": "2026-10-21T00:50:36.203404+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZ6Igt4fELO_YTcw9kJR1E9mK8j2XNetXyVVK7MHIZvUmBkYUnU",
+        "at": "2026-10-21T00:50:37.291892+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-21T00:50:38.303441+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-21T00:50:38.582599+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"swYVEDR4oiI\\\"\",\n    \"errors\"",
+        "at": "2026-10-21T00:50:39.684611+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-21T00:50:39.727232+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-21T00:50:39.854783+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/31374741/pexels-photo-31374741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721635/pexels-photo-18721635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32923874/pexels-photo-32923874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27112676/pexels-photo-27112676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32549848/pexels-photo-32549848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9472580/pexels-photo-9472580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37660138/pexels-photo-37660138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33882391/pexels-photo-33882391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37177698/pexels-photo-37177698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11450420/pexels-photo-11450420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29189942/pexels-photo-29189942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9b64eafe7f",
     "kind": "short",
     "channel": "Channel2",
