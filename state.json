@@ -1,5 +1,71 @@
 [
   {
+    "id": "77e7372a04",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Pirates Kidnapped Julius Caesar And Lived To Regret It",
+    "idea": {
+      "title": "Why Pirates Kidnapped Julius Caesar And Lived To Regret It",
+      "hook": "Cilician pirates thought they hit the jackpot capturing a young Julius Caesar, but they treated their prisoner like a guest until it was too late.",
+      "beats": [
+        "Setting the scene: The terrifying dominance of Cilician pirates in the Mediterranean during the 1st century BC and the chaotic political landscape of the late Roman Republic.",
+        "The fateful voyage: A young, ambitious, and largely unknown Julius Caesar is sailing to Rhodes to study philosophy in 75 BC when his ship is ambushed.",
+        "The initial capture: Caesar is taken hostage by the pirates and brought to their secluded island stronghold off the coast of Asia Minor.",
+        "The ransom negotiation: The pirates demand a meager ransom of 20 talents of silver for his release, assuming he is just a minor aristocrat.",
+        "Caesar's audacity: Offended by the insultingly low valuation of his life, Caesar laughs and insists they demand 50 talents instead.",
+        "The surreal 38-day captivity: While awaiting the massive sum to be gathered from Roman cities, Caesar lives comfortably among the pirates, treating them more like subordinates than captors.",
+        "Bizarre hostage dynamics: Caesar actively participates in their athletic games, writes and forces them to listen to his terrible poetry, and scolds them when they make too much noise while he sleeps.",
+        "The chilling warning: Throughout his stay, Caesar repeatedly and casually tells his captors that once he is freed, he will hunt them down and crucify them all.",
+        "The pirates' delusion: The hardened criminals view Caesar's bold threats as the amusing eccentricities of a quirky, arrogant young nobleman rather than a literal promise.",
+        "The release: The 50 talents are finally paid, the ransom is delivered, and Caesar is released unharmed on the coast of Miletus.",
+        "The swift vengeance: Instead of fleeing, Caesar immediately gathers a makeshift naval fleet and armed men from nearby ports, returning to the pirate hideout within days.",
+        "The final reckoning: Caesar captures the pirates and recovers the ransom money, demonstrating a ruthless streak that foreshadows his military genius.",
+        "Fulfilling the promise: Demonstrating mercy of a sort, Caesar has their throats slit before crucifying their lifeless bodies, keeping his exact word to the letter."
+      ],
+      "keywords": [
+        "Julius Caesar",
+        "Roman history",
+        "Cilician pirates",
+        "ancient Rome",
+        "historical mysteries",
+        "Roman Republic",
+        "Caesar pirate ransom",
+        "ancient warfare",
+        "historical figures",
+        "classical history"
+      ],
+      "tags": [
+        "Julius Caesar",
+        "Roman History",
+        "Ancient Rome",
+        "Cilician Pirates",
+        "History Documentary",
+        "Ancient Empires",
+        "Historical Figures",
+        "Roman Republic",
+        "True History",
+        "Ancient Mysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "CAESAR'S REVENGE"
+    },
+    "scenes": [],
+    "error": "invalid json: {\"scenes\":[{narration:\"In 75 BC, the Cilician pirates terrorized Mediterranean trade routes during the unstable final century of the Roman Republic.\",search:\"ancient Roman Republic galley ship oil painting\",caption:\"Mediterranean trade routes under pirate siege\"},{narration:\"A largely unknown and am",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-21T18:21:56.944732+00:00",
+    "updated_at": "2026-10-21T18:30:23.527818+00:00",
+    "stages": {
+      "error": {
+        "ok": false,
+        "detail": "invalid json: {\"scenes\":[{narration:\"In 75 BC, the Cilician pirates terrorized Mediterranean trade routes during the unstable final century of the Roman Republic.\",search:\"ancient Roman Republic galley ship oil painting\",caption:\"Mediterranean trade routes under pirate siege\"},{narration:\"A largely unknown and am",
+        "at": "2026-10-21T18:30:23.527801+00:00"
+      }
+    }
+  },
+  {
     "id": "a410061d5c",
     "kind": "short",
     "channel": "Channel3",
