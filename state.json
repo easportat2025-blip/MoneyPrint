@@ -1,5 +1,196 @@
 [
   {
+    "id": "a410061d5c",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm khi vừa sạc vừa kê gối lên điện thoại",
+    "idea": {
+      "title": "Sai lầm khi vừa sạc vừa kê gối lên điện thoại",
+      "hook": "Bạn có thói quen cắm sạc rồi nhét điện thoại dưới gối trước khi ngủ? Cái giá ngầm không chỉ là chai pin.",
+      "beats": [
+        "Vải bông và lông vũ là chất cách nhiệt cực tốt, giữ toàn bộ nhiệt tỏa ra từ pin lithium-ion.",
+        "Khi nhiệt độ vượt quá 45°C, quá trình phân hủy điện phân bắt đầu diễn ra nhanh gấp ba lần.",
+        "Ở môi trường yếm khí dưới gối, hiện tượng thoát nhiệt mất kiểm soát có thể nung chảy linh kiện và bắt lửa ga giường."
+      ],
+      "keywords": [
+        "smartphone charging on bed",
+        "thermal runaway battery",
+        "person sleeping pillow phone",
+        "overheating electronics smoke",
+        "lithium battery cross section"
+      ],
+      "tags": [
+        "channel3",
+        "meodungdienthoai",
+        "doisong",
+        "khoahocdoisong",
+        "congnghe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Kê điện thoại đang sạc dưới gối nguy hiểm thế nào?",
+        "search": "hoat hinh 3d dien thoai cam sac nhet duoi goi",
+        "caption": "Nguy cơ ngầm khi sạc điện thoại dưới gối"
+      },
+      {
+        "narration": "Hầu hết chúng ta đều tiện tay nhét điện thoại đang sạc ngay dưới gối trước khi ngủ.",
+        "search": "hoat hinh 3d nguoi nam ngu dat dien thoai ben canh",
+        "caption": "Thói quen phổ biến hàng đêm"
+      },
+      {
+        "narration": "Thói quen này không chỉ gây chai pin mà còn tạo ra một bẫy nhiệt chết người.",
+        "search": "hoat hinh 3d chiec goi bong va song nhiet do",
+        "caption": "Bẫy nhiệt nguy hiểm dưới gối"
+      },
+      {
+        "narration": "Vải bông và lông vũ của gối là những chất cách nhiệt vô cùng hiệu quả.",
+        "search": "hoat hinh 3d cau tao bong vai va lop ly do cach nhiet",
+        "caption": "Vải gối cách nhiệt cực tốt"
+      },
+      {
+        "narration": "Lượng nhiệt tỏa ra từ pin lithium-ion khi sạc bị giữ lại hoàn toàn bên dưới gối.",
+        "search": "hoat hinh 3d pin lithium ion toa nhiet do",
+        "caption": "Nhiệt lượng bị giữ lại hoàn toàn"
+      },
+      {
+        "narration": "Khi nhiệt độ tích tụ vượt quá 45 độ C, phản ứng hóa học bắt đầu biến đổi.",
+        "search": "hoat hinh 3d dong ho do nhiet do tang len 45 do",
+        "caption": "Nhiệt độ vượt ngưỡng 45 độ C"
+      },
+      {
+        "narration": "Quá trình phân hủy chất điện phân bên trong viên pin diễn ra nhanh gấp ba lần.",
+        "search": "hoat hinh 3d phan tu dien phan ben trong pin phan huy",
+        "caption": "Phân hủy điện phân nhanh gấp 3 lần"
+      },
+      {
+        "narration": "Chất điện phân bị phân hủy giải phóng khí gas và làm tăng áp suất nội tại cực nhanh.",
+        "search": "hoat hinh 3d pin dien thoai bi phong to vi tich khi",
+        "caption": "Áp suất khí bên trong tăng vọt"
+      },
+      {
+        "narration": "Áp suất nội tại tăng nhanh làm vỏ pin phồng rộp, biến viên pin thành một khối nhiệt chực chờ bùng phát.",
+        "search": "3d animation pin smartphone phong to boc khoi",
+        "caption": "Áp suất biến viên pin thành khối nhiệt chực nổ"
+      },
+      {
+        "narration": "Khi vượt ngưỡng 60°C, hiện tượng thoát nhiệt mất kiểm soát kích hoạt, khiến nhiệt độ tăng vọt hàng trăm độ C.",
+        "search": "3d animation pin dien thoai qua nhiet chay ngan manh",
+        "caption": "Nhiệt độ tăng vọt hàng trăm độ C trong vài giây"
+      },
+      {
+        "narration": "Vải bông của gối giữ lại toàn bộ lượng nhiệt này, nung chảy hoàn toàn lớp nhựa và linh kiện bên trong.",
+        "search": "3d animation dien thoai nong chay duoi goi",
+        "caption": "Lớp gối cách nhiệt nung chảy linh kiện điện thoại"
+      },
+      {
+        "narration": "Khí gas phụt ra bùng cháy, nhanh chóng bén lửa sang ga giường và chăn nệm ngay trong lúc bạn ngủ sâu.",
+        "search": "3d animation dien thoai boc hoa tren ga giuong",
+        "caption": "Bùng cháy bén lửa sang chăn nệm khi đang ngủ"
+      },
+      {
+        "narration": "Để tuyệt đối an toàn, hãy luôn sạc điện thoại trên mặt phẳng cứng, tản nhiệt tốt và đặt xa gối ngủ.",
+        "search": "3d animation sac dien thoai an toan tren mat ban go",
+        "caption": "Luôn sạc trên mặt phẳng cứng tản nhiệt tốt"
+      }
+    ],
+    "error": "",
+    "youtube_id": "z2z3AGjFECY",
+    "youtube_url": "https://www.youtube.com/watch?v=z2z3AGjFECY",
+    "created_at": "2026-10-21T17:47:19.369938+00:00",
+    "updated_at": "2026-10-21T17:51:35.413650+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-21T17:48:47.183997+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars (cat 51 de vua 55s)",
+        "at": "2026-10-21T17:49:49.318806+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-21T17:49:57.639687+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-21T17:49:59.617673+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-21T17:50:17.126719+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-21T17:50:17.203468+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.5s 29040172 bytes",
+        "at": "2026-10-21T17:51:27.029756+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=z2z3AGjFECY",
+        "at": "2026-10-21T17:51:31.431852+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaarDETEMm1y914h86RJjDz9tMSj52yfrXMFL6jZ6X3gKKF9uulu",
+        "at": "2026-10-21T17:51:32.751400+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-21T17:51:33.909688+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-21T17:51:34.169722+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"z2z3AGjFECY\\\"\",\n    \"errors\"",
+        "at": "2026-10-21T17:51:35.104210+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-21T17:51:35.178116+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-21T17:51:35.413628+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/40118839/17128940_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/5473919/5473919-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34327303/14542519_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16040147/16040147-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703799/15987288_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/5846593/5846593-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39431106/16791605_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7601829/7601829-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819933/8819933-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8828850/8828850-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819581/8819581-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7609151/7609151-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655804/16655804-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "c03deedc64",
     "kind": "short",
     "channel": "Channel3",
