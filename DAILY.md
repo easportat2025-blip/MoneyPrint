@@ -1,22 +1,22 @@
-# Daily ping 20/10/2026
+# Daily ping 21/10/2026
 
-Total views (all tracked): **75822** (+3368 vs snapshot truoc)
+Total views (all tracked): **78742** (+2920 vs snapshot truoc)
 
 ## Theo kenh
-- Slot 1 (ReZain): 14 video, 1963 views (top: The Diamond Planet Bigger Than Earth - 493)
-- Slot 2 (seigh): 85 video, 30623 views (top: The Terrifying Secret of Genghis Khan’s Tomb - 1821)
-- Slot 3 (rescey): 75 video, 42542 views (top: Tác hại âm thầm khi cài bài hát yêu thích làm báo  - 2110)
+- Slot 1 (ReZain): 14 video, 1964 views (top: The Diamond Planet Bigger Than Earth - 493)
+- Slot 2 (seigh): 90 video, 31504 views (top: The Terrifying Secret of Genghis Khan’s Tomb - 1821)
+- Slot 3 (rescey): 80 video, 44580 views (top: Tác hại âm thầm khi cài bài hát yêu thích làm báo  - 2110)
 - Chua gan nhan: 3 video, 694 views (top: What Happens If You Fall Into A Black Hole? - 684)
 
 ## Video moi (2)
-- [3] Tại sao bạn không bao giờ nên mở toang rèm ngay khi thứ (done) https://www.youtube.com/watch?v=cOveQjLDBXU
-- [2] Why an Arab General Conquered China's Gate with Dirt (done) https://www.youtube.com/watch?v=vssqN1Z7Sw4
+- [3] Tại sao bạn không nên kéo khóa áo khoác quá nhanh? (done) https://www.youtube.com/watch?v=w9ka-4_s71c
+- [2] The Brutal Betrayal of Rome's Greatest Ally (done) https://www.youtube.com/watch?v=swYVEDR4oiI
 
 ## Fail (0)
 
 ## Top tang truong
-- +794: Tại sao nhìn lên bầu trời lại thấy những vệt giun nổi?
-- +185: Tại sao bạn không bao giờ nên sấy khô giày bằng máy sấy
-- +121: Why Rome's Bravest General Thrust His Hand Into Fire
-- +87: Sai lầm khi để laptop cắm sạc 24/7 ai cũng mắc phải
-- +43: The King Who Caged His Advisor for 11 Years
+- +825: Tại sao bạn không bao giờ nên mở toang rèm ngay khi thứ
+- +159: Tại sao bạn không nên để pin laptop tụt về 0%?
+- +143: Tại sao bạn luôn buồn ngủ rũ rượi sau bữa trưa?
+- +119: Why an Arab General Conquered China's Gate with Dirt
+- +58: Why an Emperor Flayed His Corrupt Judge into a Chair
