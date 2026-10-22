@@ -1,5 +1,192 @@
 [
   {
+    "id": "63d9127d7b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Arab General Trapped 100,000 Enemies With Fog",
+    "idea": {
+      "title": "Why an Arab General Trapped 100,000 Enemies With Fog",
+      "hook": "In 636 AD, an Arab general intentionally led a massive Byzantine army into a blinding sandstorm—and not a single enemy saw the ambush coming.",
+      "beats": [
+        "Khalid ibn al-Walid faced an imperial army more than double the size of his own at the Battle of Yarmouk.",
+        "Instead of a direct charge, he waited days for the brutal southern desert wind, the Khamseen, to blow straight into Roman eyes.",
+        "Blinded by thick dust and choking on sand, the Byzantine infantry broke ranks in total panic.",
+        "Khalid unleashed his elite light cavalry to cut off their only retreat route over a deep ravine.",
+        "A superpower lost its entire Levant territory in a single afternoon due to a general weaponizing the wind."
+      ],
+      "keywords": [
+        "battle of yarmouk painting",
+        "khalid ibn al walid",
+        "byzantine cavalry engraving",
+        "ancient arabian warfare map",
+        "desert dust storm battlefield"
+      ],
+      "tags": [
+        "#history",
+        "#militaryhistory",
+        "#ancienthistory",
+        "#byzantineempire",
+        "#tactics"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One general destroyed an empire's army using only wind.",
+        "search": "battle of yarmouk oil painting",
+        "caption": "One general crushed an imperial army using only desert wind."
+      },
+      {
+        "narration": "In August 636 AD, the Roman Empire was about to permanently lose the entire Levant.",
+        "search": "byzantine empire 7th century map engraving",
+        "caption": "August 636 AD: Rome stood to lose the Levant forever."
+      },
+      {
+        "narration": "Emperor Heraclius mobilized over eighty thousand imperial troops to crush the Arabian forces completely.",
+        "search": "emperor heraclius gold solidus coin",
+        "caption": "Emperor Heraclius deployed over eighty thousand elite imperial troops."
+      },
+      {
+        "narration": "Opposing them was Khalid ibn al-Walid, an undefeated strategist outnumbered more than two to one.",
+        "search": "khalid ibn al walid manuscript miniature",
+        "caption": "Khalid ibn al-Walid faced odds of more than two to one."
+      },
+      {
+        "narration": "For five days along the Yarmouk River, Khalid refused to commit his main lines, stalling for time.",
+        "search": "yarmouk river gorge jordan valley engraving",
+        "caption": "For five days, Khalid deliberately refused to engage in full combat."
+      },
+      {
+        "narration": "He knew the Khamseen, a suffocating southern desert storm, was gathering behind his position.",
+        "search": "desert dust storm sandstorm vintage painting",
+        "caption": "He waited for the Khamseen: a blinding desert gale."
+      },
+      {
+        "narration": "On day six, gale-force winds whipped thick sand directly into the eyes of the advancing Romans.",
+        "search": "byzantine heavy infantry soldiers battle engraving",
+        "caption": "Violent winds hurled blinding sand directly into the Roman lines."
+      },
+      {
+        "narration": "Blind and suffocating, the imperial vanguard fractured as Khalid's elite cavalry mobilized to seal the ravine behind them.",
+        "search": "arabian cavalry charge historical oil painting",
+        "caption": "Blind and choking, the imperial vanguard walked into an invisible trap."
+      },
+      {
+        "narration": "Under cover of the choking dust, Khalid's cavalry seized the Roman bridge over the Wadi ar-Raqqad, trapping tens of thousands against sheer cliffs.",
+        "search": "battle of yarmouk gorge cavalry oil painting",
+        "caption": "Khalid seized the escape bridge, trapping thousands against sheer cliffs."
+      },
+      {
+        "narration": "Blinded by the storm, entire imperial legions tumbled into the deep ravine, obliterating the Byzantine army on August 20, 636.",
+        "search": "byzantine army defeat battle manuscript illumination",
+        "caption": "Imperial legions collapsed into the gorge on August 20, 636."
+      },
+      {
+        "narration": "The catastrophe forced Emperor Heraclius to abandon Syria forever, proving a weaponized desert wind could shatter an ancient superpower in a single afternoon.",
+        "search": "emperor heraclius byzantine coin gold solidus",
+        "caption": "A weaponized desert wind cost the Byzantine Empire the entire Levant."
+      },
+      {
+        "narration": "How did one general destroy 100,000 soldiers using dust?",
+        "search": "battle of yarmouk oil painting",
+        "caption": "How One General Destroyed 100,000 Enemies With Wind"
+      }
+    ],
+    "error": "",
+    "youtube_id": "zOG5chtTAFo",
+    "youtube_url": "https://www.youtube.com/watch?v=zOG5chtTAFo",
+    "created_at": "2026-10-22T08:53:29.405769+00:00",
+    "updated_at": "2026-10-22T08:57:03.140009+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-22T08:54:03.752011+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "371 chars (cat 276 de vua 55s)",
+        "at": "2026-10-22T08:54:16.004800+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 6 cau",
+        "at": "2026-10-22T08:54:19.088946+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-22T08:54:20.724185+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-22T08:56:01.369471+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-22T08:56:01.452373+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 17224684 bytes",
+        "at": "2026-10-22T08:56:53.919683+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=zOG5chtTAFo",
+        "at": "2026-10-22T08:56:57.342981+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYnecjmhVGOIxFtLEedTq1juL9LzdCbrQHHb0yUWonYu5Gt8ozi",
+        "at": "2026-10-22T08:56:58.722558+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-22T08:57:00.572243+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-22T08:57:01.055778+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"zOG5chtTAFo\\\"\",\n    \"errors\"",
+        "at": "2026-10-22T08:57:02.811448+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-22T08:57:02.893498+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-22T08:57:03.139989+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15288356/pexels-photo-15288356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28675676/pexels-photo-28675676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13416398/pexels-photo-13416398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19398858/pexels-photo-19398858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18113260/pexels-photo-18113260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9643190/pexels-photo-9643190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28958736/pexels-photo-28958736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15512758/pexels-photo-15512758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563548/pexels-photo-16563548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36889311/pexels-photo-36889311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15288376/pexels-photo-15288376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "f9ccc77ab4",
     "kind": "short",
     "channel": "Channel2",
