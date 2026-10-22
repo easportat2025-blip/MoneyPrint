@@ -1,5 +1,191 @@
 [
   {
+    "id": "9df950c907",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why a Spartan Mother Starved Her War Hero Son",
+    "idea": {
+      "title": "Why a Spartan Mother Starved Her War Hero Son",
+      "hook": "When Spartan war hero Pausanias was caught betraying his homeland to Persia, his own mother placed the first stone to seal him alive inside a temple.",
+      "beats": [
+        "Pausanias was celebrated as Greece's greatest commander after obliterating the Persian invasion at the Battle of Plataea.",
+        "Blinded by hubris, he secretly wore Persian robes and promised to deliver Sparta to Xerxes in exchange for royal marriage.",
+        "When the Spartan magistrates intercepted his treasonous letters, Pausanias fled into the sacred temple of Athena for divine protection.",
+        "Forbidden by sacred law from executing him inside, the Spartans walled up the doorways—with his mother placing the first brick to ensure he starved."
+      ],
+      "keywords": [
+        "spartan warrior bust",
+        "ancient spartan temple engraving",
+        "pausanias engraving",
+        "ancient sparta map",
+        "greek ruins painting"
+      ],
+      "tags": [
+        "history",
+        "ancient greece",
+        "sparta",
+        "historical betrayal",
+        "documentary shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Spartan mother starve her war-hero son?",
+        "search": "ancient sparta ruined temple oil painting",
+        "caption": "Why a Spartan mother starved her own hero son"
+      },
+      {
+        "narration": "In 479 BC, Spartan regent Pausanias annihilated the Persian army at the decisive Battle of Plataea.",
+        "search": "battle of plataea ancient greek painting",
+        "caption": "479 BC: Pausanias crushes the Persian invasion at Plataea"
+      },
+      {
+        "narration": "Acclaimed across Hellas, Pausanias took command in Byzantium, where he abandoned Spartan discipline for Persian silk robes.",
+        "search": "pausanias spartan commander marble bust",
+        "caption": "The Spartan regent adopted Persian customs in Byzantium"
+      },
+      {
+        "narration": "He dispatched a secret treaty to King Xerxes the First, offering to deliver all of Greece to Persia.",
+        "search": "king xerxes persia relief carving engraving",
+        "caption": "A secret proposal offering Sparta to King Xerxes"
+      },
+      {
+        "narration": "In 470 BC, Spartan magistrates known as the ephors intercepted the traitorous correspondence before it reached Susa.",
+        "search": "ancient greek papyrus letter scroll engraving",
+        "caption": "470 BC: Treasonous letters intercepted by Spartan ephors"
+      },
+      {
+        "narration": "Learning of his impending arrest, Pausanias bolted into the sacred Temple of Athena of the Brazen House.",
+        "search": "ancient spartan temple of athena illustration",
+        "caption": "Pausanias took sacred refuge in Athena's temple"
+      },
+      {
+        "narration": "Spartan law prohibited dragging any suppliant from a consecrated altar without incurring an incurable curse.",
+        "search": "ancient sparta sanctuary ruins engraving",
+        "caption": "Sacred law barred Spartans from dragging him out"
+      },
+      {
+        "narration": "To bypass the law, the magistrates ordered the temple walled shut, and Pausanias's mother, Theano, laid the first stone.",
+        "search": "spartan woman placing stone ancient engraving",
+        "caption": "His mother Theano placed the first sealing stone"
+      },
+      {
+        "narration": "Trapped inside the unroofed sanctuary of Athena of the Brazen House, Pausanias slowly starved while Spartan guards stood watch over the sealed doors. Stripped of food and water, the victor of Plataea deteriorated at the base of the sacred altar.",
+        "search": "temple of athena ruins classical oil painting",
+        "caption": "Pausanias starved inside the temple walls his mother helped seal."
+      },
+      {
+        "narration": "Around 477 BC, the magistrates monitored his breathing and breached the masonry just before he died, dragging his body outside to avoid polluting sacred ground. Pausanias expired on the open threshold seconds after crossing the perimeter.",
+        "search": "death of pausanias sparta historical engraving",
+        "caption": "Spartans dragged him outside moments before death to avoid a religious curse."
+      },
+      {
+        "narration": "The Delphic Oracle subsequently ordered Sparta to dedicate two bronze statues to Athena to atone for starving the suppliant. His mother's refusal to spare a traitor remains history's starkest display of Spartan duty over blood.",
+        "search": "ancient delphi sanctuary ruins oil painting",
+        "caption": "The Delphic Oracle punished Sparta, cementing a mother's uncompromising devotion to state."
+      },
+      {
+        "narration": "A Spartan mother starved her hero son to death.",
+        "search": "spartan warrior bust statue",
+        "caption": "A Spartan mother starved her hero son."
+      }
+    ],
+    "error": "",
+    "youtube_id": "jwyzm_cDO9o",
+    "youtube_url": "https://www.youtube.com/watch?v=jwyzm_cDO9o",
+    "created_at": "2026-10-22T23:26:31.198073+00:00",
+    "updated_at": "2026-10-22T23:32:03.136766+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-22T23:28:36.359075+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 148 de vua 55s)",
+        "at": "2026-10-22T23:29:47.164849+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.3s en-US-GuyNeural 5 cau",
+        "at": "2026-10-22T23:29:49.903653+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-22T23:29:50.832259+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-22T23:31:23.820917+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-22T23:31:23.868490+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.3s 15634429 bytes",
+        "at": "2026-10-22T23:31:54.384600+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=jwyzm_cDO9o",
+        "at": "2026-10-22T23:31:58.593701+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaamjwXL19bflyV_x3biYb2ytizdHNoGvpARdwllnlksnI5K7li1",
+        "at": "2026-10-22T23:31:59.915464+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-22T23:32:01.671817+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-22T23:32:01.999689+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"jwyzm_cDO9o\\\"\",\n    \"errors\"",
+        "at": "2026-10-22T23:32:02.940678+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-22T23:32:02.989654+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-22T23:32:03.136745+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36095787/pexels-photo-36095787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35248147/pexels-photo-35248147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162754/pexels-photo-6162754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37895010/pexels-photo-37895010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38278937/pexels-photo-38278937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15670518/pexels-photo-15670518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36107327/pexels-photo-36107327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8874340/pexels-photo-8874340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29535766/pexels-photo-29535766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31487200/pexels-photo-31487200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8058821/pexels-photo-8058821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10864682/pexels-photo-10864682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ff3dcbc69b",
     "kind": "short",
     "channel": "Channel2",
