@@ -1,5 +1,191 @@
 [
   {
+    "id": "ff3dcbc69b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why the pirate queen who avenged her husband terrified Rome",
+    "idea": {
+      "title": "Why the pirate queen who avenged her husband terrified Rome",
+      "hook": "When Queen Teuta executed Rome's ambassadors, she didn't know she had just signed a death warrant for an entire empire's patience.",
+      "beats": [
+        "Teuta took control of the Illyrian kingdom and unleashed her pirate fleet across the Adriatic Sea.",
+        "Roman diplomats arrived to negotiate peace, but Teuta had them murdered in cold blood.",
+        "Rome launched an unprecedented invasion, completely dismantling her empire in a matter of months.",
+        "Teuta vanished into history, leaving behind a legacy of absolute defiance against the ancient world's greatest superpower."
+      ],
+      "keywords": [
+        "Queen Teuta",
+        "Illyrian pirates",
+        "ancient Rome history",
+        "Roman republic wars",
+        "ancient queen portrait"
+      ],
+      "tags": [
+        "history",
+        "shorts",
+        "ancientrome",
+        "pirates",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did one pirate queen defy ancient Rome?",
+        "search": "ancient illyrian queen portrait illustration",
+        "caption": "How one pirate queen defied Rome."
+      },
+      {
+        "narration": "In 230 BC, Queen Teuta took control of the Ardiaei kingdom, unleashing Illyrian fleets across the Adriatic Sea.",
+        "search": "ancient adriatic sea map engraving",
+        "caption": "230 BC: Illyrian fleets dominate the Adriatic."
+      },
+      {
+        "narration": "Her privateers plundered Roman merchant vessels, choking vital trade routes and paralyzing regional commerce.",
+        "search": "ancient roman galley ship oil painting",
+        "caption": "Roman trade routes fall to pirate attacks."
+      },
+      {
+        "narration": "The Roman Senate dispatched envoys Lucius and Gaius Coruncanius to demand an immediate end to the piracy.",
+        "search": "ancient roman senate illustration engraving",
+        "caption": "Rome sends envoys to end the piracy."
+      },
+      {
+        "narration": "Teuta refused, and when one diplomat insulted her, she ordered him executed on his return journey.",
+        "search": "queen teuta illyria statue bust close up",
+        "caption": "Teuta orders the assassination of Rome's envoy."
+      },
+      {
+        "narration": "Executing a Roman ambassador was an unthinkable provocation that triggered the First Illyrian War in 229 BC.",
+        "search": "ancient roman legionaries war oil painting",
+        "caption": "229 BC: Rome declares the First Illyrian War."
+      },
+      {
+        "narration": "Rome mobilized two hundred warships and twenty thousand legionaries, quickly shattering Teuta's coastal strongholds.",
+        "search": "ancient naval fleet battle oil painting",
+        "caption": "200 Roman warships invade the Illyrian coast."
+      },
+      {
+        "narration": "Forced to surrender in 228 BC, Teuta lost her empire, leaving behind an unprecedented legacy of defiance.",
+        "search": "ancient stone fortress coastal ruins oil painting",
+        "caption": "228 BC: Teuta surrenders her kingdom."
+      },
+      {
+        "narration": "Under the peace treaty of 228 BC, Rome banned armed Illyrian ships south of Lissus and reduced Teuta to a powerless tributary.",
+        "search": "Roman republic senate session antique engraving",
+        "caption": "Rome reduced Teuta's kingdom to a restricted tributary in 228 BC."
+      },
+      {
+        "narration": "Unable to endure Roman subjugation, Teuta soon abdicated the throne, vanishing from historical records into enduring Balkan folklore.",
+        "search": "Queen Teuta Illyrian monument bronze statue",
+        "caption": "Stripped of power, the pirate queen vanished from history."
+      },
+      {
+        "narration": "By executing Rome's envoys, Teuta drew Roman legions across the Adriatic, inadvertently initiating the Republic's conquest of the Greek world.",
+        "search": "ancient Roman naval battle mosaic",
+        "caption": "Her defiance triggered Rome's expansion across the Mediterranean."
+      },
+      {
+        "narration": "Which pirate queen forced Rome into its first Balkan war?",
+        "search": "Queen Teuta Illyria oil painting",
+        "caption": "The pirate queen who defied ancient Rome"
+      }
+    ],
+    "error": "",
+    "youtube_id": "QLT9zRler90",
+    "youtube_url": "https://www.youtube.com/watch?v=QLT9zRler90",
+    "created_at": "2026-10-22T20:52:02.730436+00:00",
+    "updated_at": "2026-10-22T20:58:59.541734+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-22T20:54:49.603822+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "395 chars (cat 168 de vua 55s)",
+        "at": "2026-10-22T20:55:32.498950+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.8s en-US-GuyNeural 4 cau",
+        "at": "2026-10-22T20:55:37.688445+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-22T20:55:39.160854+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-22T20:57:59.861177+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-22T20:57:59.943260+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.9s 17169975 bytes",
+        "at": "2026-10-22T20:58:50.216720+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=QLT9zRler90",
+        "at": "2026-10-22T20:58:54.113010+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYxP-3kiquL1XkzKKPoIJcaiuML3Pov7to-6tXqujV90WjaT-wR",
+        "at": "2026-10-22T20:58:55.606401+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-22T20:58:57.565362+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-22T20:58:57.962305+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"QLT9zRler90\\\"\",\n    \"errors\"",
+        "at": "2026-10-22T20:58:59.201364+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-22T20:58:59.286929+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-22T20:58:59.541708+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29426270/pexels-photo-29426270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30238173/pexels-photo-30238173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397798/pexels-photo-16397798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8093233/pexels-photo-8093233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38536417/pexels-photo-38536417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397764/pexels-photo-16397764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9374702/pexels-photo-9374702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32575874/pexels-photo-32575874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36543707/pexels-photo-36543707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37573278/pexels-photo-37573278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31666430/pexels-photo-31666430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037012/pexels-photo-16037012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "11438876cc",
     "kind": "short",
     "channel": "Channel3",
