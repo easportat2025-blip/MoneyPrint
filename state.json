@@ -1,5 +1,45 @@
 [
   {
+    "id": "674ec4a882",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "researching",
+    "title": "Sai lầm cất bánh mì vào tủ lạnh ai cũng vô tình mắc",
+    "idea": {
+      "title": "Sai lầm cất bánh mì vào tủ lạnh ai cũng vô tình mắc",
+      "hook": "Bạn nghĩ cất bánh mì vào ngăn mát tủ lạnh sẽ giữ nó tươi lâu hơn, nhưng khoa học chứng minh việc này chỉ đang làm hỏng nó nhanh gấp 6 lần.",
+      "beats": [
+        "Nhiệt độ ngăn mát tủ lạnh (0 đến 4 độ C) là môi trường hoàn hảo để kích hoạt hiện tượng thoái hóa tinh bột.",
+        "Ở nhiệt độ này, các phân tử tinh bột tái kết tinh cực nhanh và đẩy toàn bộ hơi ẩm ra ngoài, khiến ruột bánh khô khốc và dai nhách.",
+        "Nếu ăn hết trong 2 đến 3 ngày, bảo quản ở nhiệt độ phòng trong túi kín là cách giữ độ xốp tốt nhất.",
+        "Nếu muốn giữ bánh tươi ngon hàng tháng trời, ngăn đông đá mới là giải pháp chuẩn xác giúp đóng băng quá trình lão hóa của tinh bột."
+      ],
+      "keywords": [
+        "bread in refrigerator",
+        "stale bread dry slice",
+        "kitchen bread storage",
+        "microscopic starch crystallization",
+        "freezer bread storage"
+      ],
+      "tags": [
+        "Channel3",
+        "mẹo vặt đời sống",
+        "bảo quản thực phẩm",
+        "khoa học đời sống",
+        "sai lầm nhà bếp"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-23T13:26:24.802704+00:00",
+    "updated_at": "2026-10-23T13:26:24.902260+00:00",
+    "stages": {}
+  },
+  {
     "id": "5829437f36",
     "kind": "short",
     "channel": "Channel3",
