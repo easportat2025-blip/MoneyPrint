@@ -1,5 +1,191 @@
 [
   {
+    "id": "817147e2a8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why a Cruel King Was Burned Alive in Bed",
+    "idea": {
+      "title": "Why a Cruel King Was Burned Alive in Bed",
+      "hook": "In 1387, King Charles the Bad wrapped himself in alcohol-soaked bandages to cure his paralysis, only for a single careless servant to turn him into a human torch.",
+      "beats": [
+        "Charles II of Navarre was so universally despised across Western Europe that he earned the historical title Charles the Bad.",
+        "Suffering from severe illness and premature decay, his royal physician ordered him sewn tightly into linens drenched in pure wine and brandy.",
+        "Instead of using shears to cut the leftover thread, the royal seamstress decided to burn the loose stitch off with an open candle.",
+        "The vapors ignited instantly, trapping the screaming king inside an inescapable flaming cocoon while terrified servants fled the room."
+      ],
+      "keywords": [
+        "Charles II of Navarre medieval portrait",
+        "medieval physician treating patient engraving",
+        "14th century royal bedchamber illustration",
+        "medieval castle fire archival painting",
+        "Kingdom of Navarre historical map"
+      ],
+      "tags": [
+        "history",
+        "medievalhistory",
+        "historyshorts",
+        "bizarrehistory",
+        "royalty"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did Europe’s most hated king burn alive in bed?",
+        "search": "Charles II of Navarre medieval portrait painting",
+        "caption": "How Europe's Most Hated King Burned Alive"
+      },
+      {
+        "narration": "In 1387, King Charles II of Navarre was so universally loathed that contemporaries dubbed him Charles the Bad.",
+        "search": "Kingdom of Navarre historical map engraving",
+        "caption": "Known Across Europe as Charles the Bad"
+      },
+      {
+        "narration": "By age fifty-four, the monarch suffered from severe paralysis, leaving him immobile and desperate for a medical cure.",
+        "search": "14th century medieval manuscript painting sick king in bed",
+        "caption": "Paralysis Left the 54-Year-Old Monarch Immobile"
+      },
+      {
+        "narration": "His royal physicians ordered an extreme treatment: wrapping his entire body in linen sheets drenched in highly concentrated brandy.",
+        "search": "medieval physician treating patient engraving",
+        "caption": "Doctors Wrapped Him in Brandy-Soaked Linens"
+      },
+      {
+        "narration": "Attendants tightly sewed the alcohol-soaked bandages around the king, trapping him neck-to-toe inside a fabric casing.",
+        "search": "14th century royal bedchamber illustration",
+        "caption": "Encased Neck to Toe in Flammable Fabric"
+      },
+      {
+        "narration": "Upon completing the final seam, a servant noticed a loose end of thread that needed to be severed.",
+        "search": "medieval seamstress sewing manuscript illumination",
+        "caption": "A Single Loose Thread Required Trimming"
+      },
+      {
+        "narration": "Lacking shears, the attendant made a catastrophic decision and used a burning candle flame to singe the thread away.",
+        "search": "medieval candle lighting oil painting detail",
+        "caption": "An Open Candle Flame Brought Close"
+      },
+      {
+        "narration": "The concentrated alcohol vapors ignited instantly, transforming the trapped king into a screaming human torch.",
+        "search": "medieval castle bedroom fire painting detail",
+        "caption": "Alcohol Vapors Ignited Into an Inferno"
+      },
+      {
+        "narration": "Terrified by the sudden explosion of fire, the attendant fled the chamber, leaving the immobilized king sewn helplessly inside the burning linen cocoon.",
+        "search": "medieval burning castle bedroom illumination",
+        "caption": "Trapped in stitched linen, the king could not escape."
+      },
+      {
+        "narration": "Courtiers eventually extinguished the flames, but the severe burns inflicted catastrophic damage, subjecting Charles to two weeks of agonizing decline.",
+        "search": "king charles ii of navarre deathbed engraving",
+        "caption": "Charles lingered in severe agony for fifteen days."
+      },
+      {
+        "narration": "On January 1, 1387, Charles the Bad died, his horrific demise recorded by medieval chroniclers as divine retribution against a tyrant.",
+        "search": "charles ii of navarre tomb effigy sculpture",
+        "caption": "Europe celebrated the cruel king's gruesome death as divine justice."
+      },
+      {
+        "narration": "How did medieval Europe's most hated king burn alive?",
+        "search": "Charles II of Navarre medieval portrait",
+        "caption": "Europe's most hated king died in a horrifying accident."
+      }
+    ],
+    "error": "",
+    "youtube_id": "4NH67SvHb6U",
+    "youtube_url": "https://www.youtube.com/watch?v=4NH67SvHb6U",
+    "created_at": "2026-10-23T20:37:28.381406+00:00",
+    "updated_at": "2026-10-23T20:48:12.139878+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-23T20:41:13.332144+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "390 chars (cat 207 de vua 55s)",
+        "at": "2026-10-23T20:44:28.320930+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 5 cau",
+        "at": "2026-10-23T20:44:31.727772+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-23T20:44:33.432374+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-23T20:47:09.785273+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-23T20:47:09.879344+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 13647726 bytes",
+        "at": "2026-10-23T20:48:05.248817+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=4NH67SvHb6U",
+        "at": "2026-10-23T20:48:07.905820+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYbJnOrRNLrxSIn1-IhWJTIjG72sPW6EjBiESLxWPxuPbDNFDT0",
+        "at": "2026-10-23T20:48:09.003636+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-23T20:48:10.624595+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-23T20:48:10.966669+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"4NH67SvHb6U\\\"\",\n    \"errors\"",
+        "at": "2026-10-23T20:48:11.752425+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-23T20:48:11.848775+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-23T20:48:12.139855+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14866475/pexels-photo-14866475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30687305/pexels-photo-30687305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6753238/pexels-photo-6753238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6129197/pexels-photo-6129197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18245184/pexels-photo-18245184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7778041/pexels-photo-7778041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32464708/pexels-photo-32464708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29861500/pexels-photo-29861500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19505402/pexels-photo-19505402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35503981/pexels-photo-35503981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15067186/pexels-photo-15067186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31158804/pexels-photo-31158804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "318e7f5552",
     "kind": "short",
     "channel": "Channel3",
