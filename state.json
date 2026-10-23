@@ -1,5 +1,629 @@
 [
   {
+    "id": "673906ed51",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "done",
+    "title": "The General Who Burned His Fleet to Conquer Spain | Tariq ibn Ziyad",
+    "idea": {
+      "title": "The General Who Burned His Fleet to Conquer Spain | Tariq ibn Ziyad",
+      "hook": "General Tariq ordered every single warship set ablaze on an enemy shore, trapping his outnumbered army with only two choices: victory or death.",
+      "beats": [
+        "In 711 AD, the Umayyad Caliphate expands across North Africa, setting its sights across the narrow Strait of Gibraltar toward the wealthy, fractured Visigothic Kingdom in Hispania.",
+        "Political turmoil strikes Spain as King Roderic violently seizes the throne, causing rival nobles and regional rulers to secretly seek aid from the Muslim governor Musa ibn Nusayr.",
+        "General Tariq ibn Ziyad leads an expeditionary vanguard of roughly 7,000 predominantly Berber warriors across the strait, making landfall at a massive rock formation later named Jabal Tariq (Gibraltar).",
+        "Word quickly reaches Tariq that King Roderic is marching south with a massive Visigothic royal army, outnumbering the Umayyad force nearly three to one.",
+        "Aware of the overwhelming enemy numbers, Tariq's men grow anxious, constantly looking back at the ships anchored in the bay as an easy retreat back to Africa.",
+        "Realizing that a desperate army fights harder than a safe one, Tariq makes a radical and terrifying decision: he secretly orders his officers to torch every single transport ship.",
+        "The army gathers on the shore in horror as thick black smoke rises, watching their only means of escape burn down to the waterline.",
+        "Standing before the blazing wreckage, Tariq delivers his legendary speech: 'The sea is behind you, and the enemy is ahead—by Allah, there is no escape for you except in your endurance.'",
+        "Psychologically stripped of all retreat options, the fear in the ranks transforms into relentless resolve, uniting the soldiers behind a single objective: absolute victory.",
+        "The two armies clash at the Battle of Guadalete, where Tariq's light, agile cavalry maneuvers outflank and dismantle the heavy, lumbering Visigothic infantry line.",
+        "Treacherous Visigothic nobles abandon Roderic mid-fight, turning the battle into a total rout; King Roderic disappears into the chaos, leaving the throne vacant.",
+        "The defeat shatters Visigothic power, allowing Tariq and subsequent reinforcements to swiftly conquer Toledo, Córdoba, and lay the foundations for nearly 800 years of Al-Andalus."
+      ],
+      "keywords": [
+        "Tariq ibn Ziyad",
+        "Conquest of Spain",
+        "Battle of Guadalete",
+        "Umayyad Caliphate",
+        "Visigoths",
+        "Burn Your Boats",
+        "Al-Andalus",
+        "King Roderic",
+        "Military Strategy",
+        "Gibraltar"
+      ],
+      "tags": [
+        "history documentary",
+        "ancient empires",
+        "famous wars",
+        "military strategy",
+        "tariq ibn ziyad",
+        "spain history",
+        "visigoths",
+        "umayyad conquest",
+        "middle ages",
+        "battle of guadalete"
+      ],
+      "kind": "long",
+      "thumbnail_text": "VICTORY OR DEATH"
+    },
+    "scenes": [
+      {
+        "narration": "Burn your own ships to conquer a kingdom?",
+        "search": "Tariq ibn Ziyad 19th century historical oil painting fantasy",
+        "caption": "The general who trapped his own army."
+      },
+      {
+        "narration": "In 711 AD, the Umayyad Caliphate swept across North Africa, casting its gaze toward the wealthy Visigothic Kingdom in Hispania.",
+        "search": "Umayyad Caliphate expansion medieval illuminated manuscript map",
+        "caption": "Expanding empires set sights on Hispania in 711 AD."
+      },
+      {
+        "narration": "Political turmoil gripped Spain after King Roderic seized the throne, prompting rival nobles to secretly seek military aid from governor Musa ibn Nusayr.",
+        "search": "Visigothic king crown antique historical engraving portrait",
+        "caption": "Civil strife tore the Visigothic Kingdom apart."
+      },
+      {
+        "narration": "General Tariq ibn Ziyad led an expeditionary vanguard of roughly 7,000 Berber warriors across the narrow strait, landing at a massive rock formation.",
+        "search": "Gibraltar rock old vintage engraving etching 19th century",
+        "caption": "7,000 warriors landed at Jabal Tariq."
+      },
+      {
+        "narration": "Word quickly reached Tariq that King Roderic was marching south with a royal Visigothic army outnumbering the invaders nearly three to one.",
+        "search": "medieval Muslim army vanguard desert march historical illustration",
+        "caption": "Outnumbered nearly three to one by royal forces."
+      },
+      {
+        "narration": "Facing overwhelming odds, Tariq's men grew anxious, constantly looking back at the transport ships anchored in the bay for an easy escape.",
+        "search": "ancient ships anchored in a mediterranean bay oil painting",
+        "caption": "Anxious soldiers eyed their only escape route."
+      },
+      {
+        "narration": "Realizing a desperate force fights harder, Tariq made a radical decision: he secretly ordered his officers to burn every single transport vessel.",
+        "search": "burning medieval wooden warship dramatic fire illustration",
+        "caption": "Tariq ordered every transport ship set ablaze."
+      },
+      {
+        "narration": "As thick black smoke consumed their fleet, the stranded army faced a stark ultimatum: total victory or total destruction.",
+        "search": "burning fleet on a dark shore historical painting",
+        "caption": "Victory or death on an enemy shore."
+      },
+      {
+        "narration": "Standing before the blazing wreckage, General Tariq delivered a rallying cry to his stranded men: the sea blocks our retreat, but victory awaits ahead.",
+        "search": "medieval muslim commander oil painting",
+        "caption": "The sea behind, the enemy ahead."
+      },
+      {
+        "narration": "Psychologically stripped of all retreat options, the fear in the ranks transformed into relentless resolve, uniting the soldiers behind a single objective.",
+        "search": "berber warrior cavalry manuscript illustration",
+        "caption": "Fear transformed into relentless resolve."
+      },
+      {
+        "narration": "Word quickly reached the Umayyad camp that King Roderic was marching south from Toledo with a massive Visigothic royal army.",
+        "search": "visigothic king medieval manuscript illumination",
+        "caption": "King Roderic marches south with a royal army."
+      },
+      {
+        "narration": "Outnumbered nearly three to one, the Umayyad vanguard braced for an impending clash against the dominant military power of Hispania.",
+        "search": "dark ages battle scene oil painting",
+        "caption": "Outnumbered nearly three to one."
+      },
+      {
+        "narration": "Can burning your own fleet guarantee total victory?",
+        "search": "burning fleet medieval ships oil painting",
+        "caption": "A gambit that changed European history forever."
+      },
+      {
+        "narration": "In 711 AD, the Umayyad Caliphate pushed across North Africa, targeting the fragmented Visigothic Kingdom of Hispania.",
+        "search": "medieval map of al andalus 711 ad engraving",
+        "caption": "711 AD: The expansion across North Africa."
+      },
+      {
+        "narration": "Political chaos erupted in Spain when King Roderic usurped the Visigothic throne, prompting rival factions to seek outside support.",
+        "search": "king roderic visigoth portrait painting",
+        "caption": "King Roderic seizes the Visigothic throne in Spain."
+      },
+      {
+        "narration": "General Tariq ibn Ziyad crossed the narrow strait with seven thousand Berber soldiers, landing at the landmark now known as Gibraltar.",
+        "search": "rock of gibraltar historical manuscript illustration",
+        "caption": "General Tariq lands at Jabal Tariq with 7,000 troops."
+      },
+      {
+        "narration": "Reports soon confirmed that King Roderic was marching south with thirty thousand troops, outnumbering Tariq nearly three to one.",
+        "search": "visigothic army marching medieval manuscript illustration",
+        "caption": "King Roderic marches south with overwhelming numerical superiority."
+      },
+      {
+        "narration": "Anxiety spread through the Umayyad ranks as soldiers stared at their anchored transports, contemplating an immediate retreat across the sea.",
+        "search": "medieval warship fleet at anchor historical engraving",
+        "caption": "Soldiers look toward the fleet as their only escape."
+      },
+      {
+        "narration": "To eliminate all possibility of retreat, Tariq secretly commanded his officers to set fire to every single transport vessel.",
+        "search": "burning medieval ships on coastline oil painting",
+        "caption": "Tariq orders every transport ship set ablaze."
+      },
+      {
+        "narration": "As smoke filled the shoreline, Tariq declared to his army that the sea was behind them and the enemy lay ahead, leaving victory as their only salvation.",
+        "search": "tariq ibn ziyad portrait painting illustration",
+        "caption": "With no escape left, victory became the only option."
+      },
+      {
+        "narration": "Deprived of any route of escape, Tariq's seven thousand warriors transformed their initial terror into desperate determination along the Iberian coast.",
+        "search": "medieval Moorish soldiers armor historical oil painting",
+        "caption": "Stripped of escape, the army unites behind total resolve."
+      },
+      {
+        "narration": "In July 711 AD, King Roderic arrived with an estimated thirty thousand Visigothic troops to crush the invading force.",
+        "search": "King Roderic Visigoth knight army medieval oil painting",
+        "caption": "In July 711 AD, Roderic brought thirty thousand troops."
+      },
+      {
+        "narration": "Recognizing the massive numerical disparity, Tariq requested urgent reinforcements from governor Musa ibn Nusayr, receiving five thousand additional horsemen.",
+        "search": "Musa ibn Nusayr governor Umayyad manuscript illumination",
+        "caption": "Reinforcements of five thousand horsemen arrive from Africa."
+      },
+      {
+        "narration": "The two armies clashed near the Guadalete River, where heavily armored Visigothic infantry collided with swift Umayyad light cavalry.",
+        "search": "Battle of Guadalete 711 AD medieval battle engraving",
+        "caption": "The armies clash at the pivotal Battle of Guadalete."
+      },
+      {
+        "narration": "Internal betrayal shattered the Visigothic flanks when rival noble factions abandoned Roderic mid-fight to seize political advantage.",
+        "search": "medieval knight betrayal battle scene oil painting",
+        "caption": "Disloyal Visigothic nobles abandon King Roderic mid-battle."
+      },
+      {
+        "narration": "The Visigothic force collapsed into a complete rout, and King Roderic vanished in the chaos, leaving behind only his royal horse and sandals.",
+        "search": "King Roderic crown abandoned river medieval painting",
+        "caption": "King Roderic vanishes as his royal army collapses."
+      },
+      {
+        "narration": "Capitalizing on the power vacuum, Tariq marched rapidly inland, capturing Toledo and Córdoba before opposition could reorganize.",
+        "search": "Toledo Spain medieval city walls historic engraving",
+        "caption": "Tariq captures key capitals including Toledo and Córdoba."
+      },
+      {
+        "narration": "This decisive military gamble dismantled Visigothic dominion and established Muslim rule across Hispania, initiating nearly eight centuries of Al-Andalus.",
+        "search": "Al-Andalus Cordoba mosque interior historic painting",
+        "caption": "Tariq's victory initiates eight centuries of Al-Andalus rule."
+      },
+      {
+        "narration": "In 711 AD, internal succession conflicts shattered the Visigothic Kingdom of Hispania, inviting intervention from the Umayyad Caliphate in North Africa.",
+        "search": "8th century manuscript illumination showing visigothic king and medieval knights",
+        "caption": "Hispania fell into internal chaos under King Roderic in 711 AD."
+      },
+      {
+        "narration": "General Tariq ibn Ziyad led an expeditionary force of seven thousand Berber soldiers across the strait, landing at the limestone promontory named Jabal Tariq.",
+        "search": "Tariq ibn Ziyad portrait painting historical illustration",
+        "caption": "Tariq ibn Ziyad landed seven thousand troops at Gibraltar."
+      },
+      {
+        "narration": "Reports quickly reached the invaders that King Roderic was marching south with a royal host outnumbering Tariq's forces nearly three to one.",
+        "search": "medieval oil painting of visigothic cavalry army marching into battle",
+        "caption": "King Roderic marched south with an overwhelming royal army."
+      },
+      {
+        "narration": "Realizing his anxious soldiers were looking toward the ships as an escape route, Tariq secretly commanded his officers to set the entire transport fleet on fire.",
+        "search": "18th century historical engraving of burning wooden warships at coastline",
+        "caption": "Tariq ordered his fleet burned to eliminate all possibility of retreat."
+      },
+      {
+        "narration": "As dense smoke filled the harbor, Tariq rallied his men on the shore, reminding them that the sea was behind them and victory was their only salvation.",
+        "search": "historical oil painting of general addressing soldiers on a rocky coast",
+        "caption": "The sea is behind you, and the enemy is ahead."
+      },
+      {
+        "narration": "The armies clashed at the Battle of Guadalete in July 711 AD, where swift light cavalry continuously outflanked the lumbering Visigothic infantry lines.",
+        "search": "medieval battle oil painting cavalry charging infantry collision",
+        "caption": "Light cavalry outmaneuvered the heavy Visigothic lines at Guadalete."
+      },
+      {
+        "narration": "Rival Visigothic nobles abandoned Roderic mid-fight, causing the royal defense to collapse completely as the king disappeared into the fray.",
+        "search": "medieval manuscript illustration of falling king during violent combat",
+        "caption": "Treason fractured the Visigothic army, and King Roderic vanished."
+      },
+      {
+        "narration": "This swift destruction of the Visigothic monarchy allowed Umayyad armies to secure Toledo and lay the groundwork for eight centuries of Al-Andalus.",
+        "search": "ancient map engraving of 8th century Iberian peninsula and Toledo",
+        "caption": "Victory opened Hispania to eight centuries of rule in Al-Andalus."
+      },
+      {
+        "narration": "Can burning your own ships guarantee total military conquest?",
+        "search": "burning wooden warships historical painting",
+        "caption": "Trapped with no return option."
+      },
+      {
+        "narration": "In May 711 AD, General Tariq ibn Ziyad led roughly 7,000 Berber warriors across the Strait of Gibraltar into Visigothic Hispania.",
+        "search": "Strait of Gibraltar medieval map engraving",
+        "caption": "7,000 warriors cross the strait."
+      },
+      {
+        "narration": "Visigothic King Roderic marched south with over 20,000 troops, outnumbering the Umayyad vanguard nearly three to one.",
+        "search": "Visigoth king Roderic historic portrait painting",
+        "caption": "Outnumbered nearly three to one."
+      },
+      {
+        "narration": "Panicked soldiers eyed the transport ships anchored offshore, desperate for a quick retreat back to North Africa.",
+        "search": "medieval warriors on beach engraving",
+        "caption": "Panic grows along the shoreline."
+      },
+      {
+        "narration": "To eliminate all option of retreat, Tariq ordered his officers to torch every single warship in the bay.",
+        "search": "burning fleet on shoreline historic oil painting",
+        "caption": "The entire fleet set ablaze."
+      },
+      {
+        "narration": "Sixteenth-century historian al-Maqqari recorded that Tariq reminded his men that the sea lay behind them and the enemy ahead.",
+        "search": "Tariq ibn Ziyad portrait painting",
+        "caption": "Victory or total destruction."
+      },
+      {
+        "narration": "In July 711 AD at the Battle of Guadalete, highly mobile Umayyad cavalry shattered the lumbering Visigothic royal army.",
+        "search": "Battle of Guadalete medieval cavalry battle oil painting",
+        "caption": "Guadalete shatters the Visigothic lines."
+      },
+      {
+        "narration": "The sudden collapse of King Roderic's reign opened the Iberian Peninsula to nearly eight centuries of Islamic Al-Andalus.",
+        "search": "Cordoba Moorish architecture historic engraving",
+        "caption": "Eight centuries of Al-Andalus begins."
+      },
+      {
+        "narration": "Following the destruction of the Visigothic vanguard at Guadalete, Tariq divided his modest force to strike multiple fortified strongholds simultaneously across Hispania.",
+        "search": "8th century map of medieval iberian peninsula manuscript illustration",
+        "caption": "Tariq splits his forces across Hispania to strike key cities"
+      },
+      {
+        "narration": "With no fleet to return home to, his commanders pushed rapidly north toward the Visigothic capital of Toledo to prevent local warlords from regrouping.",
+        "search": "medieval city walls of toledo spain historic engraving",
+        "caption": "Advance toward Toledo leaves zero room for retreat or delay"
+      },
+      {
+        "narration": "In 712 AD, the Umayyad governor Musa ibn Nusayr crossed the strait with 18,000 fresh veteran troops to assert his supreme authority over the campaign.",
+        "search": "musa ibn nusayr historical portrait engraving",
+        "caption": "Governor Musa ibn Nusayr lands in Spain with reinforcements"
+      },
+      {
+        "narration": "Rivalry flared between the commanders as Musa launched his own independent offensive, laying siege to the heavily fortified city of Mérida.",
+        "search": "roman arch and fortress merida spain engraving",
+        "caption": "Musa besieges Mérida while political rivalry intensifies between commanders"
+      },
+      {
+        "narration": "Defiant Visigothic garrisons launched fierce counter-attacks from behind stone ramparts, inflicting severe casualties on Umayyad forces during extended blockades.",
+        "search": "medieval city siege stone ramparts manuscript miniature",
+        "caption": "Visigothic strongholds offer fierce resistance against siege forces"
+      },
+      {
+        "narration": "Reports of vast Iberian riches and independent military actions reached Caliph Al-Walid I in Damascus, rousing deep royal suspicion.",
+        "search": "umayyad caliph al walid court damascus manuscript painting",
+        "caption": "Caliph Al-Walid I watches his generals with growing suspicion"
+      },
+      {
+        "narration": "Before the total subjugation of the northern mountains was complete, an urgent imperial decree arrived ordering both Tariq and Musa to halt operations.",
+        "search": "ancient royal letter parchment scroll oil painting",
+        "caption": "Imperial summons orders both conquerors back to Damascus immediately"
+      },
+      {
+        "narration": "Stripped of active command upon their arrival in Syria in 714 AD, both generals faced intense interrogation regarding the distribution of conquest spoils.",
+        "search": "umayyad royal court damascus syria historical engraving",
+        "caption": "Tariq and Musa face intense royal scrutiny over conquest spoils"
+      },
+      {
+        "narration": "In 715 AD, Caliph Al-Walid I fell mortally ill in Damascus, triggering a bitter political struggle over the vast wealth brought from Hispania.",
+        "search": "Umayyad Caliph Al-Walid I illuminated manuscript painting",
+        "caption": "Caliph Al-Walid I falls ill in Damascus in 715 AD."
+      },
+      {
+        "narration": "The new ruler, Caliph Sulayman, punished both commanders for perceived insubordination, confiscating Musa's wealth and stripping Tariq ibn Ziyad of all rank.",
+        "search": "Caliph Sulayman ibn Abd al-Malik medieval manuscript painting",
+        "caption": "Caliph Sulayman strips Tariq ibn Ziyad of all wealth."
+      },
+      {
+        "narration": "Tariq ibn Ziyad lived out his remaining days in obscurity in Syria, dying around 720 AD far from the Iberian lands he conquered.",
+        "search": "Damascus ancient city walls 18th century engraving",
+        "caption": "Tariq ibn Ziyad dies in Syrian obscurity around 720 AD."
+      },
+      {
+        "narration": "Across the Mediterranean, conquered territory was reorganized into Al-Andalus, establishing Córdoba as a thriving provincial capital under Umayyad governance.",
+        "search": "Great Mosque of Cordoba interior architecture oil painting",
+        "caption": "Hispania becomes Al-Andalus under Umayyad rule."
+      },
+      {
+        "narration": "In 722 AD, Visigothic nobleman Pelagius defeated an Umayyad force at the Battle of Covadonga, igniting the centuries-long campaign known as the Reconquista.",
+        "search": "Battle of Covadonga 722 AD history oil painting",
+        "caption": "Pelagius wins Battle of Covadonga in 722 AD."
+      },
+      {
+        "narration": "For nearly eight centuries, Al-Andalus developed into a intellectual crossroads, famed for advances in mathematics, medicine, and Islamic architecture.",
+        "search": "Alhambra palace Granada 19th century vintage engraving",
+        "caption": "Islamic Iberia flourishes as a center of medieval science."
+      },
+      {
+        "narration": "The massive limestone promontory where the invasion force made landfall was permanently renamed Jabal Tariq, which evolved into the modern name Gibraltar.",
+        "search": "Rock of Gibraltar 18th century map engraving",
+        "caption": "Jabal Tariq yields the modern place name Gibraltar."
+      },
+      {
+        "narration": "Tariq ibn Ziyad's extreme command to incinerate his own fleet in 711 AD remains history's ultimate doctrine of absolute commitment.",
+        "search": "Burning ships on shoreline 19th century oil painting",
+        "caption": "Burning the fleet remains history's ultimate tactical choice."
+      },
+      {
+        "narration": "In June 711 AD, scouts delivered catastrophic news: King Roderic was marching south with a royal Visigothic army numbering roughly thirty thousand men.",
+        "search": "visigothic army battle medieval manuscript illumination",
+        "caption": "King Roderic marches south with 30,000 Visigothic troops in 711 AD."
+      },
+      {
+        "narration": "Tariq ibn Ziyad's expeditionary force contained only seven thousand warriors, leaving them heavily outnumbered on hostile foreign soil.",
+        "search": "iberian peninsula antique map engraving 8th century",
+        "caption": "Tariq's 7,000 warriors face overwhelming four-to-one odds in Hispania."
+      },
+      {
+        "narration": "Anxiety rippled through the ranks, as soldiers repeatedly cast nervous glances toward the transport vessels anchored in the bay.",
+        "search": "8th century wooden sailing ships at anchor oil painting",
+        "caption": "Anxious soldiers eye their transport ships as an easy escape route."
+      },
+      {
+        "narration": "General Tariq recognized that an army retaining a line of retreat would inevitably break when faced with Roderic's heavy cavalry.",
+        "search": "tariq ibn ziyad portrait illustration",
+        "caption": "General Tariq foresees disaster if his troops retain an option to flee."
+      },
+      {
+        "narration": "Under cover of darkness, Tariq instructed a cadre of trusted officers to secretly torch every single transport ship along the shore.",
+        "search": "burning medieval fleet at night oil painting",
+        "caption": "Tariq secretly orders the entire transport fleet set ablaze at night."
+      },
+      {
+        "narration": "By daybreak, massive plumes of black smoke drifted across the water as the wooden ships burned down to the waterline.",
+        "search": "smoking shipwrecks on coast oil painting",
+        "caption": "Smoke fills the shoreline as the invasion fleet burns to ashes."
+      },
+      {
+        "narration": "Horror swept through the encampment as the warriors realized their only physical bridge back to North Africa was destroyed.",
+        "search": "8th century moorish warriors shoreline engraving",
+        "caption": "Soldiers react in horror as their only path home vanishes."
+      },
+      {
+        "narration": "As panic threatened to dissolve discipline into mutiny, Tariq ibn Ziyad assembled his stranded army along the burning coastline.",
+        "search": "umayyad general addressing troops historic engraving",
+        "caption": "Tariq steps forward to address his terrified and stranded army."
+      },
+      {
+        "narration": "Standing before the smoke, Tariq declared to his men that the sea was behind them and the enemy before them, leaving endurance as their only survival.",
+        "search": "Tariq ibn Ziyad addressing his army oil painting",
+        "caption": "Tariq addresses his stranded army on the Iberian shore in 711 AD."
+      },
+      {
+        "narration": "Deprived of all tactical escape, the widespread terror in the ranks transformed into absolute resolve as the army prepared to march inland.",
+        "search": "medieval Moorish warriors marching historical illustration",
+        "caption": "With no retreat possible, panic turns into relentless determination."
+      },
+      {
+        "narration": "Meanwhile, King Roderic rushed south from northern Spain with an estimated thirty thousand Visigothic soldiers to crush the invaders.",
+        "search": "King Roderic Visigoth army marching oil painting",
+        "caption": "King Roderic marches south with 30,000 Visigothic soldiers."
+      },
+      {
+        "narration": "In July 711 AD, the two forces met near the Guadalete River, where Tariq's heavily outnumbered troops faced overwhelming odds.",
+        "search": "Battle of Guadalete 711 AD historical map engraving",
+        "caption": "The armies converge near the Guadalete River in July 711 AD."
+      },
+      {
+        "narration": "The battle began with relentless Visigothic infantry assaults, but Tariq utilized fast, mobile light cavalry to harass and outmaneuver the heavy enemy flanks.",
+        "search": "Moorish cavalry attacking medieval infantry painting",
+        "caption": "Agile Umayyad light cavalry outmaneuver the heavy Visigothic infantry."
+      },
+      {
+        "narration": "Deep political divisions surfaced during the multi-day combat when rival Visigothic nobles secretly opposed to Roderic abandoned their positions.",
+        "search": "Visigoth nobles political treason medieval manuscript illumination",
+        "caption": "Rival Visigothic faction leaders desert Roderic during the engagement."
+      },
+      {
+        "narration": "The sudden betrayal shattered the Visigothic battle line, turning the massive royal defense into a chaotic and violent rout.",
+        "search": "Battle of Guadalete rout oil painting",
+        "caption": "The sudden collapse of the royal flanks turns defense into total defeat."
+      },
+      {
+        "narration": "King Roderic disappeared during the chaotic retreat, leaving behind his royal steed, golden sandals, and a completely shattered kingdom.",
+        "search": "King Roderic defeat historical engraving",
+        "caption": "King Roderic vanishes in battle, leaving the throne entirely vacant."
+      },
+      {
+        "narration": "With Roderic presumed dead and the Visigothic army destroyed, the road to the royal capital of Toledo lay completely defenseless in July 711 AD.",
+        "search": "medieval map Iberian Peninsula 8th century manuscript illustration",
+        "caption": "Toledo lay defenseless following Roderic's sudden defeat."
+      },
+      {
+        "narration": "Tariq divided his cavalry into swift mobile columns, dispatching commanders to besiege Córdoba and Archidona before local garrisons could organize.",
+        "search": "medieval cavalry battle oil painting Moors Visigoths",
+        "caption": "Mobile Umayyad cavalry rushed to secure key cities."
+      },
+      {
+        "narration": "Under the command of Mughith al-Rumi, a targeted night raid breached Córdoba's city walls, securing the ancient Roman bridge and forcing the garrison's surrender.",
+        "search": "Roman bridge of Cordoba old engraving illustration",
+        "caption": "Córdoba fell after a swift night raid by Umayyad forces."
+      },
+      {
+        "narration": "Moving northward along Roman roads, Tariq reached Toledo late in 711 AD, finding the city largely deserted by the Visigothic aristocracy.",
+        "search": "Toledo Spain ancient city walls historic oil painting",
+        "caption": "Tariq entered Toledo, the capital of Visigothic Spain."
+      },
+      {
+        "narration": "Inside the abandoned royal palace, Umayyad forces seized accumulated wealth, including priceless jewel-encrusted artifacts and royal Visigothic crowns.",
+        "search": "medieval royal treasury gold jewels manuscript illumination",
+        "caption": "Vast Visigothic treasure fell into the hands of the conquerors."
+      }
+    ],
+    "error": "",
+    "youtube_id": "q0mVKWW5WcQ",
+    "youtube_url": "https://www.youtube.com/watch?v=q0mVKWW5WcQ",
+    "created_at": "2026-10-23T18:04:24.432440+00:00",
+    "updated_at": "2026-10-23T18:32:33.441014+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "12 scenes",
+        "at": "2026-10-23T18:07:23.148095+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "1654 chars",
+        "at": "2026-10-23T18:08:38.318817+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "98.1s en-US-GuyNeural 13 cau",
+        "at": "2026-10-23T18:08:44.583136+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-23T18:08:49.582105+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-23T18:28:50.913662+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-23T18:28:50.995878+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 98.2s 98926767 bytes",
+        "at": "2026-10-23T18:32:19.598058+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-10-23T18:32:19.765357+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=q0mVKWW5WcQ",
+        "at": "2026-10-23T18:32:28.869569+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaa4tXg7AoD8IxmACWIpX25fcg2vbHGRKV6PcO4jYs2esJ66G68n",
+        "at": "2026-10-23T18:32:30.115319+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-23T18:32:31.283559+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-23T18:32:31.654381+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"q0mVKWW5WcQ\\\"\",\n    \"errors\"",
+        "at": "2026-10-23T18:32:33.087295+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-23T18:32:33.172080+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-23T18:32:33.440995+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34614/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494912/pexels-photo-9494912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37490270/pexels-photo-37490270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16207661/pexels-photo-16207661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38545723/pexels-photo-38545723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36990173/pexels-photo-36990173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30821123/pexels-photo-30821123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38739528/pexels-photo-38739528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40393806/pexels-photo-40393806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38784740/pexels-photo-38784740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10068860/pexels-photo-10068860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1074512/pexels-photo-1074512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37387200/pexels-photo-37387200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10068862/pexels-photo-10068862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11273998/pexels-photo-11273998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/188037/pexels-photo-188037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30164419/pexels-photo-30164419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9129534/pexels-photo-9129534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713831/pexels-photo-36713831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7317597/pexels-photo-7317597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20772160/pexels-photo-20772160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33684950/pexels-photo-33684950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732752/pexels-photo-34732752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9777909/pexels-photo-9777909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40034535/pexels-photo-40034535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39545136/pexels-photo-39545136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37478020/pexels-photo-37478020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40318070/pexels-photo-40318070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10821122/pexels-photo-10821122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35316798/pexels-photo-35316798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16597273/pexels-photo-16597273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38452666/pexels-photo-38452666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33344395/pexels-photo-33344395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39760396/pexels-photo-39760396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39381176/pexels-photo-39381176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12499421/pexels-photo-12499421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934674/pexels-photo-18934674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31452323/pexels-photo-31452323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397770/pexels-photo-16397770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713873/pexels-photo-36713873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269138/pexels-photo-9269138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37478018/pexels-photo-37478018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39709751/pexels-photo-39709751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39760379/pexels-photo-39760379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30389201/pexels-photo-30389201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7460182/pexels-photo-7460182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34988510/pexels-photo-34988510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12336442/pexels-photo-12336442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38978883/pexels-photo-38978883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34682160/pexels-photo-34682160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525646/pexels-photo-30525646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30548800/pexels-photo-30548800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38430942/pexels-photo-38430942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35037749/pexels-photo-35037749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397760/pexels-photo-16397760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34369623/pexels-photo-34369623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34590828/pexels-photo-34590828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30414197/pexels-photo-30414197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732742/pexels-photo-34732742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36344480/pexels-photo-36344480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5214156/pexels-photo-5214156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12453225/pexels-photo-12453225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/47221/pexels-photo-47221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9255831/pexels-photo-9255831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350049/pexels-photo-31350049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11932405/pexels-photo-11932405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39307218/pexels-photo-39307218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268684/pexels-photo-9268684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37361677/pexels-photo-37361677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11861364/pexels-photo-11861364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269149/pexels-photo-9269149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9510265/pexels-photo-9510265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37022212/pexels-photo-37022212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/957312/chess-checkmated-chess-pieces-black-white-957312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634698/pexels-photo-7634698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563556/pexels-photo-16563556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7861201/pexels-photo-7861201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39760388/pexels-photo-39760388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13283497/pexels-photo-13283497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "674ec4a882",
     "kind": "short",
     "channel": "Channel3",
