@@ -1,5 +1,192 @@
 [
   {
+    "id": "aba33a2fed",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an Arab Conqueror Threw His Crown Into a River",
+    "idea": {
+      "title": "Why an Arab Conqueror Threw His Crown Into a River",
+      "hook": "In 711 AD, Tariq ibn Ziyad conquered half of Spain, only for his jealous rival to strip him of his loot and throw his golden crown into a river.",
+      "beats": [
+        "After Tariq defeated the Visigoth King Roderic, his commanding general Musa ibn Nusayr grew furious with envy over Tariq's sudden fame.",
+        "Musa marched into Spain, publicly whipped his victorious general, and confiscated every treasure Tariq had gathered, including King Solomon's emerald table.",
+        "When summoned to Damascus, Musa claimed full glory for the conquest, but Tariq produced a hidden broken leg of the table to expose Musa's blatant lie before the Caliph.",
+        "Instead of a reward, both conquerors were stripped of command and spent their final days begging in the dust of Damascus."
+      ],
+      "keywords": [
+        "Moorish conquest Spain painting",
+        "Umayyad caliphate Damascus engraving",
+        "medieval Islamic warrior portrait",
+        "ancient Toledo Spain historic map",
+        "Caliph Walid Damascus court illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#medievalhistory",
+        "#conquest",
+        "#betrayal",
+        "#historicalfigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He conquered Spain, but his reward was public humiliation.",
+        "search": "Tariq ibn Ziyad crossing Gibraltar oil painting",
+        "caption": "The conqueror stripped of his empire in 711 AD"
+      },
+      {
+        "narration": "In 711 AD, Berber general Tariq ibn Ziyad crushed the Visigoth King Roderic at the Battle of Guadalete.",
+        "search": "Battle of Guadalete Visigoths oil painting",
+        "caption": "Battle of Guadalete ended Visigoth rule in 711"
+      },
+      {
+        "narration": "Tariq seized the capital of Toledo, claiming priceless Visigoth regalia and a fabled emerald table attributed to King Solomon.",
+        "search": "ancient Toledo Spain historic map engraving",
+        "caption": "Toledo fell, yielding legendary Visigoth royal relics"
+      },
+      {
+        "narration": "His commanding governor in North Africa, Musa ibn Nusayr, reacted to Tariq's triumph with bitter jealousy.",
+        "search": "Musa ibn Nusayr medieval Islamic portrait engraving",
+        "caption": "Governor Musa viewed Tariq's triumph as defiance"
+      },
+      {
+        "narration": "Musa had dispatched orders demanding Tariq halt, but Tariq advanced across Iberia without permission.",
+        "search": "Moorish conquest Spain cavalry illuminated manuscript",
+        "caption": "Tariq defied orders and pushed across northern Iberia"
+      },
+      {
+        "narration": "In 712 AD, Musa crossed into Spain with an army of eighteen thousand soldiers to reassert absolute control.",
+        "search": "medieval Islamic army landing Spain oil painting",
+        "caption": "Musa arrived with 18,000 soldiers to assert control"
+      },
+      {
+        "narration": "Musa confronted Tariq, had him publicly whipped in chains, and seized every crate of plunder.",
+        "search": "medieval military punishment flogging engraving",
+        "caption": "Tariq was publicly whipped and his spoils seized"
+      },
+      {
+        "narration": "Yet before surrendering Solomon's gold and emerald table, Tariq broke off one ornate leg and hid it.",
+        "search": "ornate golden medieval relic table museum artifact",
+        "caption": "Tariq secretly broke a leg off Solomon's table"
+      },
+      {
+        "narration": "In 715 AD, both generals stood before Caliph al-Walid in Damascus, where Musa claimed sole credit for conquering Hispania and presented Solomon's emerald table.",
+        "search": "Caliph Walid Damascus court illustration",
+        "caption": "In 715 AD, Musa claimed sole credit before Caliph al-Walid."
+      },
+      {
+        "narration": "When the Caliph questioned the table's mismatched golden leg, Tariq produced the original jeweled piece from beneath his robes, exposing his commander's fraud.",
+        "search": "medieval Islamic manuscript emerald table Damascus",
+        "caption": "Tariq revealed the hidden leg, proving Musa lied to the Caliph."
+      },
+      {
+        "narration": "Stripped of rank and fortune by the Caliphate, both conquerors of Spain spent their final years as forgotten outcasts begging on the streets of Damascus.",
+        "search": "ancient Damascus street engraving 1800s",
+        "caption": "Both conquerors were stripped of glory and died penniless in Damascus."
+      },
+      {
+        "narration": "Why did Spain's conqueror end up begging for bread?",
+        "search": "medieval Islamic warrior portrait oil painting",
+        "caption": "Spain's greatest conqueror died a penniless beggar."
+      }
+    ],
+    "error": "",
+    "youtube_id": "RPKLmFZpjb4",
+    "youtube_url": "https://www.youtube.com/watch?v=RPKLmFZpjb4",
+    "created_at": "2026-10-23T05:55:50.562349+00:00",
+    "updated_at": "2026-10-23T06:03:10.771250+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-23T05:59:21.657972+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 208 de vua 55s)",
+        "at": "2026-10-23T06:00:12.947695+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-23T06:00:17.331939+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-23T06:00:18.873896+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-23T06:02:14.873186+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-23T06:02:14.955385+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.0s 16588362 bytes",
+        "at": "2026-10-23T06:03:03.870556+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=RPKLmFZpjb4",
+        "at": "2026-10-23T06:03:06.432934+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabjXh5VcNcYt_v5b4lLMhsLNI1VymSXIanl0zzp8bGo8xAfmJWj",
+        "at": "2026-10-23T06:03:07.690224+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-23T06:03:09.174780+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-23T06:03:09.473689+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"RPKLmFZpjb4\\\"\",\n    \"errors\"",
+        "at": "2026-10-23T06:03:10.456398+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-23T06:03:10.533599+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-23T06:03:10.771226+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909116/pexels-photo-13909116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902532/pexels-photo-34902532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28048668/pexels-photo-28048668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38820027/pexels-photo-38820027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40085737/pexels-photo-40085737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40290713/pexels-photo-40290713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37403766/pexels-photo-37403766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35210858/pexels-photo-35210858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39344629/pexels-photo-39344629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13208790/pexels-photo-13208790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36947314/pexels-photo-36947314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386072/pexels-photo-38386072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d7ec9ea09d",
     "kind": "short",
     "channel": "Channel3",
