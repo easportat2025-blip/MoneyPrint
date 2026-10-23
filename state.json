@@ -1,5 +1,107 @@
 [
   {
+    "id": "b08237a16b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "scripting",
+    "title": "The Horrific Feast That Crushed Russian Princes Alive",
+    "idea": {
+      "title": "The Horrific Feast That Crushed Russian Princes Alive",
+      "hook": "In 1223, Mongol generals celebrated their greatest victory by dining on top of live Russian princes.",
+      "beats": [
+        "At the Kalka River, Mongol generals Subutai and Jebe lured a coalition of 80,000 Rus warriors into a catastrophic rout.",
+        "Mongol law forbade spilling royal blood on the earth, forcing the conquerors to devise a brutal loophole.",
+        "They stacked heavy wooden boards over the captured Grand Princes and placed their victory banquet directly on top.",
+        "As the generals ate, drank, and cheered into the night, the crushing weight slowly suffocated the trapped princes below."
+      ],
+      "keywords": [
+        "Battle of the Kalka River",
+        "Mongol warriors medieval painting",
+        "Russian princes medieval engraving",
+        "Subutai general portrait",
+        "Mongol cavalry battle map"
+      ],
+      "tags": [
+        "#mongolempire",
+        "#medievalhistory",
+        "#subutai",
+        "#ancientwarfare",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Mongol generals once celebrated victory by dining on living princes.",
+        "search": "battle of the kalka river medieval manuscript illumination",
+        "caption": "The victory feast that crushed Russian princes alive."
+      },
+      {
+        "narration": "In May 1223, eighty thousand Rus warriors advanced across the southern steppe, pursuing what appeared to be a disorganized Mongol scouting force.",
+        "search": "Kievan Rus warriors 13th century medieval miniature painting",
+        "caption": "May 1223: 80,000 Rus warriors march into a Mongol trap."
+      },
+      {
+        "narration": "The retreat was a nine-day feint masterminded by Subutai and Jebe, Genghis Khan's most ruthless field commanders.",
+        "search": "Subutai general portrait painting",
+        "caption": "Subutai lured the allied Russian armies into a nine-day pursuit."
+      },
+      {
+        "narration": "At the Kalka River, the Mongols wheeled around, encircling the exhausted coalition and shattering their lines in hours.",
+        "search": "Mongol cavalry charge medieval battle painting",
+        "caption": "The Mongols turned at the Kalka River, annihilating Rus forces."
+      },
+      {
+        "narration": "Grand Prince Mstislav the Third of Kiev fortified a hilltop camp, but surrendered after three days under a Mongol promise of safe passage.",
+        "search": "Grand Prince Mstislav III of Kiev medieval engraving",
+        "caption": "Grand Prince Mstislav surrendered after Mongols promised safe passage."
+      },
+      {
+        "narration": "Mongol sacred custom strictly forbade spilling royal blood upon the soil, as blood was believed to hold a ruler's eternal soul.",
+        "search": "Genghis Khan Yassa law medieval manuscript",
+        "caption": "Mongol law strictly prohibited spilling royal blood onto the ground."
+      },
+      {
+        "narration": "To execute the captured princes without drawing blood, the commanders devised a horrific technical loophole.",
+        "search": "medieval wooden torture platform engraving",
+        "caption": "Commanders devised a loophole to execute nobility without shedding blood."
+      },
+      {
+        "narration": "Mongol soldiers forced the Russian princes flat onto the earth and laid massive wooden floorboards directly across their bodies.",
+        "search": "captured prisoners tied medieval manuscript painting",
+        "caption": "Russian princes were forced down beneath massive wooden planks."
+      },
+      {
+        "narration": "Subutai and Jebe sat atop the wooden platform, ordering their banquet tables placed squarely above the trapped rulers.",
+        "search": "mongol banquet feast medieval miniature painting",
+        "caption": "Mongol generals placed their banquet tables directly over the trapped princes."
+      },
+      {
+        "narration": "For hours, warriors danced, drank, and cheered into the night as their immense weight slowly compressed the ribcages below.",
+        "search": "battle of the kalka river 1223 oil painting",
+        "caption": "Hours of heavy celebration slowly crushed the princes underneath."
+      },
+      {
+        "narration": "By dawn on May 31, 1223, Grand Prince Mstislav III and his nobles had suffocated—leaving not a single drop of royal blood spilled.",
+        "search": "mongol invasion of rus medieval chronicle illumination",
+        "caption": "The princes suffocated without a single drop of royal blood spilled."
+      }
+    ],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-23T08:47:08.110488+00:00",
+    "updated_at": "2026-10-23T08:52:05.978089+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-23T08:52:05.819268+00:00"
+      }
+    }
+  },
+  {
     "id": "aba33a2fed",
     "kind": "short",
     "channel": "Channel2",
