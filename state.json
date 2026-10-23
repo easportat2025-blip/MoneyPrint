@@ -1,5 +1,192 @@
 [
   {
+    "id": "80ed7d049f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Sultan Kept as an Emperor's Pet in a Cage",
+    "idea": {
+      "title": "The Sultan Kept as an Emperor's Pet in a Cage",
+      "hook": "In 1402, Sultan Bayezid marched against Timur convinced he was invincible—only to spend his final months locked inside an iron cage.",
+      "beats": [
+        "At the Battle of Ankara, Ottoman Sultan Bayezid was betrayed by his own allies and captured by the conqueror Timur.",
+        "Timur paraded the proud sultan as a live war trophy, confining him inside an iron-barred cage displayed during royal banquets.",
+        "Bayezid was forced to watch his captive wife serve Timur wine, stripping away every ounce of Ottoman royal prestige.",
+        "Broken by public humiliation and regret, Bayezid died in captivity less than a year later, shattering his empire into civil war."
+      ],
+      "keywords": [
+        "Battle of Ankara painting",
+        "Timur Lenk miniature",
+        "Sultan Bayezid portrait",
+        "Ottoman Empire engraving",
+        "Medieval prisoner cage"
+      ],
+      "tags": [
+        "history",
+        "ottoman empire",
+        "timur",
+        "ancient history",
+        "shorts",
+        "historical irony"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An Ottoman sultan once lived inside an iron cage.",
+        "search": "Sultan Bayezid iron cage Timur engraving",
+        "caption": "An Ottoman sultan was locked inside an iron cage"
+      },
+      {
+        "narration": "In July 1402, Sultan Bayezid the First commanded the most feared military machine in the Mediterranean.",
+        "search": "Sultan Bayezid I portrait oil painting",
+        "caption": "July 1402: Bayezid commanded an expanding Ottoman empire"
+      },
+      {
+        "narration": "Sweeping west from Central Asia came Timur, the undefeated Turco-Mongol warlord who had already slaughtered millions.",
+        "search": "Timur Lenk miniature manuscript portrait",
+        "caption": "Timur swept west with an undefeated Turco-Mongol army"
+      },
+      {
+        "narration": "On July 20, 1402, both rulers clashed at the Battle of Ankara, where Bayezid's Tatar cavalry abruptly defected.",
+        "search": "Battle of Ankara 1402 medieval miniature",
+        "caption": "July 20, 1402: Allied treachery breaks the Ottoman lines"
+      },
+      {
+        "narration": "Cut off and surrounded by mounted archers, the Ottoman sultan was captured alive on the battlefield.",
+        "search": "Bayezid captured by Timur manuscript illustration",
+        "caption": "Bayezid was taken prisoner by Timur's commanders"
+      },
+      {
+        "narration": "Refusing an ordinary execution, Timur ordered a custom iron-barred cage built to confine the fallen monarch.",
+        "search": "medieval prisoner cage engraving",
+        "caption": "Timur ordered an iron-barred cage built for Bayezid"
+      },
+      {
+        "narration": "The caged sultan was dragged across Anatolia and placed on display as a live trophy during imperial feasts.",
+        "search": "Timur banquet miniature medieval manuscript",
+        "caption": "Bayezid was displayed as a war trophy at banquets"
+      },
+      {
+        "narration": "To crush Bayezid's remaining dignity, Timur ordered the sultan's captured wife, Olivera Despina, brought before the court.",
+        "search": "Olivera Despina Ottoman miniature painting",
+        "caption": "Timur summoned Bayezid's captive wife before the imperial court"
+      },
+      {
+        "narration": "At Timur's imperial feast, Olivera was forced to serve the conqueror wine while Bayezid watched helplessly from inside his iron bars.",
+        "search": "sultan bayezid in iron cage banquet oil painting",
+        "caption": "Bayezid was forced to watch his captive wife serve Timur wine."
+      },
+      {
+        "narration": "Stripped of imperial prestige and broken by public humiliation, Bayezid died in Timurid captivity at Akşehir in March 1403.",
+        "search": "sultan bayezid I portrait engraving",
+        "caption": "Bayezid died broken in captivity at Akşehir in March 1403."
+      },
+      {
+        "narration": "His catastrophic capture triggered an eleven-year civil war among his sons, bringing the young Ottoman Empire to the brink of extinction.",
+        "search": "ottoman interregnum civil war manuscript miniature",
+        "caption": "The sultan's fall sparked an eleven-year civil war that fractured Anatolia."
+      },
+      {
+        "narration": "In July 1402, Sultan Bayezid the First commanded one of the most feared armies in Europe.",
+        "search": "Sultan Bayezid portrait painting",
+        "caption": "Sultan Bayezid I ruled an expanding Ottoman Empire in 1402."
+      }
+    ],
+    "error": "",
+    "youtube_id": "zyHzXdaVbb4",
+    "youtube_url": "https://www.youtube.com/watch?v=zyHzXdaVbb4",
+    "created_at": "2026-10-23T22:46:20.657065+00:00",
+    "updated_at": "2026-10-23T22:51:33.478694+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-23T22:47:53.553204+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "420 chars (cat 132 de vua 55s)",
+        "at": "2026-10-23T22:48:48.189266+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-23T22:48:51.770319+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-23T22:48:52.738163+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-23T22:50:54.055476+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-23T22:50:54.108673+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.5s 14502587 bytes",
+        "at": "2026-10-23T22:51:27.207421+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=zyHzXdaVbb4",
+        "at": "2026-10-23T22:51:29.958507+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDabwO-lDV5moxWnRaRjrTMqXGYvfbZI-iIgZ0kYELeqvrgFvjfWa",
+        "at": "2026-10-23T22:51:30.924193+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-23T22:51:32.122235+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-23T22:51:32.468606+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"zyHzXdaVbb4\\\"\",\n    \"errors\"",
+        "at": "2026-10-23T22:51:33.257714+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-23T22:51:33.311547+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-23T22:51:33.478671+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38482494/pexels-photo-38482494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11474424/pexels-photo-11474424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039708/pexels-photo-12039708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30875363/pexels-photo-30875363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34957213/pexels-photo-34957213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28764636/pexels-photo-28764636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18435983/pexels-photo-18435983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8940832/pexels-photo-8940832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037035/pexels-photo-16037035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35117632/pexels-photo-35117632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20590668/pexels-photo-20590668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13312438/pexels-photo-13312438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "817147e2a8",
     "kind": "short",
     "channel": "Channel2",
