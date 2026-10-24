@@ -1,5 +1,161 @@
 [
   {
+    "id": "552f5225c4",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Blind King Who Ordered His Men to Tie Him into Battle",
+    "idea": {
+      "title": "The Blind King Who Ordered His Men to Tie Him into Battle",
+      "hook": "In 1346, completely blind King John of Bohemia gave his knights one final, chilling order: tie his horse to theirs and ride straight into the enemy slaughter.",
+      "beats": [
+        "At the Battle of Crécy, 50-year-old King John of Bohemia was totally blind from an eye disease, yet refused to sit out the fight.",
+        "He commanded his most loyal knights to fasten their horses' bridles together with his so he could strike at least one blow with his sword.",
+        "The chained formation charged blindly into the devastating storm of English longbow arrows.",
+        "The next morning, English soldiers discovered the blind king dead in the mud, surrounded by the corpses of every knight tied to him."
+      ],
+      "keywords": [
+        "John of Bohemia portrait",
+        "Battle of Crecy painting",
+        "medieval knight engraving",
+        "hundred years war map",
+        "medieval cavalry battle art"
+      ],
+      "tags": [
+        "history",
+        "medievalhistory",
+        "knights",
+        "battleofcrecy",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1346, a blind king chained himself into battle.",
+        "search": "John of Bohemia illuminated manuscript portrait",
+        "caption": "In 1346, a blind king charged into battle"
+      },
+      {
+        "narration": "King John of Bohemia had lost his eyesight entirely nearly a decade before, yet he ruled as one of Europe's most feared warlords.",
+        "search": "King John of Bohemia equestrian statue",
+        "caption": "King John of Bohemia was completely blind"
+      },
+      {
+        "narration": "On August 26, 1346, French forces under King Philip VI clashed with the English at the Battle of Crécy.",
+        "search": "battle of crecy medieval manuscript miniature",
+        "caption": "Battle of Crécy, August 26, 1346"
+      },
+      {
+        "narration": "English longbowmen devastated the French vanguard, turning the muddy field into an inescapable killing zone.",
+        "search": "english longbowmen battle of crecy 14th century engraving",
+        "caption": "English longbows massacred the French front line"
+      },
+      {
+        "narration": "As allied nobles fled the slaughter, the fifty-year-old blind king demanded an honest report of the front lines.",
+        "search": "king philip vi of france illuminated manuscript",
+        "caption": "Allies fled as the slaughter worsened"
+      },
+      {
+        "narration": "Told the battle was utterly lost, John commanded his knights to fasten their horses' bridles directly to his own.",
+        "search": "medieval knights on horseback oil painting",
+        "caption": "John ordered his knights to bind their horses to his"
+      },
+      {
+        "narration": "He declared that no Bohemian monarch would ever flee, demanding to strike at least one blow with his sword.",
+        "search": "medieval knight drawing sword engraving",
+        "caption": "He swore to strike one final sword blow"
+      },
+      {
+        "narration": "Chained together abreast, John and his elite guard spurred their warhorses blindly straight into the English arrow storm.",
+        "search": "medieval cavalry charge battle oil painting",
+        "caption": "Tied together, they charged into the arrow storm"
+      },
+      {
+        "narration": "Tied bridle-to-bridle, the Bohemian cavalry crashed headlong into the English lines, where King John swung his sword blindly until the tangled riders were overwhelmed.",
+        "search": "battle of crecy 1346 cavalry clash illuminated manuscript",
+        "caption": "King John struck his blows before being cut down in the melee."
+      },
+      {
+        "narration": "On August 27, 1346, victorious English soldiers surveyed the field and found the fifty-year-old blind monarch dead, flanked by the corpses of every knight bound to his horse.",
+        "search": "john of bohemia dead battlefield crecy oil painting",
+        "caption": "The blind king was discovered dead beside all his tethered men."
+      },
+      {
+        "narration": "Moved by the blind king's valor, Edward the Black Prince adopted John's ostrich feather crest and German motto, 'Ich dien,' which remains the insignia of the Prince of Wales today.",
+        "search": "black prince tomb effigy canterbury cathedral engraving",
+        "caption": "Edward the Black Prince adopted King John's motto and heraldic crest."
+      },
+      {
+        "narration": "A blind king ordered knights to chain him for battle.",
+        "search": "medieval knight cavalry charge battle manuscript illumination",
+        "caption": "A blind king commanded his knights to tie him into battle."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-24T22:06:39.569323+00:00",
+    "updated_at": "2026-10-24T22:12:21.983775+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-24T22:08:04.647709+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "419 chars (cat 193 de vua 55s)",
+        "at": "2026-10-24T22:09:18.506087+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-24T22:09:21.652697+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T22:09:22.605812+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-24T22:11:49.904538+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-24T22:11:49.954740+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 14848404 bytes",
+        "at": "2026-10-24T22:12:21.717213+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-24T22:12:21.983759+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36674332/pexels-photo-36674332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30263461/pexels-photo-30263461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30829304/pexels-photo-30829304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14468442/pexels-photo-14468442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080699/pexels-photo-7080699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36458929/pexels-photo-36458929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20548095/pexels-photo-20548095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16135010/pexels-photo-16135010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4913340/pexels-photo-4913340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29331303/pexels-photo-29331303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18506339/pexels-photo-18506339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32283256/pexels-photo-32283256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "016efc39eb",
     "kind": "short",
     "channel": "Channel2",
