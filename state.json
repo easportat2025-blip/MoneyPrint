@@ -1,5 +1,190 @@
 [
   {
+    "id": "26590091f2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "Why an English Duke Chose Death by Wine",
+    "idea": {
+      "title": "Why an English Duke Chose Death by Wine",
+      "hook": "In 1478, an English prince convicted of treason was granted one final wish: to drown inside a giant barrel of his favorite sweet wine.",
+      "beats": [
+        "George Plantagenet, Duke of Clarence, repeatedly conspired to overthrow his own brother, King Edward IV, until he was finally condemned in the Tower of London.",
+        "Given the rare privilege of choosing his own private method of execution, the eccentric duke chose neither the axe nor the rope, but a butt of Malmsey wine.",
+        "Contemporary chronicles recorded that the condemned prince was submerged headfirst, creating one of the most bizarre and tragic royal executions in British history."
+      ],
+      "keywords": [
+        "Duke of Clarence portrait",
+        "Tower of London engraving",
+        "King Edward IV painting",
+        "medieval execution woodcut",
+        "medieval wine cellar"
+      ],
+      "tags": [
+        "#history",
+        "#historyshorts",
+        "#medievalhistory",
+        "#toweroflondon",
+        "#weirdhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A royal prince chose execution by drowning in wine.",
+        "search": "medieval execution woodcut engraving",
+        "caption": "A prince executed in a barrel of wine."
+      },
+      {
+        "narration": "In February 1478, George Plantagenet, Duke of Clarence, stood condemned of high treason inside the Tower of London.",
+        "search": "Tower of London medieval engraving",
+        "caption": "February 1478: George Plantagenet condemned for treason."
+      },
+      {
+        "narration": "The man demanding his death was his own elder brother, King Edward IV of England.",
+        "search": "King Edward IV portrait oil painting",
+        "caption": "King Edward IV demanded his brother's execution."
+      },
+      {
+        "narration": "During the Wars of the Roses, George had repeatedly rebelled, defecting to rival factions before begging his brother for pardons.",
+        "search": "Wars of the Roses battle manuscript illumination",
+        "caption": "George repeatedly betrayed his royal family."
+      },
+      {
+        "narration": "By late 1477, King Edward lost all patience after George publicly accused the royal court of judicial murder and sorcery.",
+        "search": "medieval parliament trial manuscript illustration",
+        "caption": "Accusations against the crown sealed George's fate."
+      },
+      {
+        "narration": "Because of his royal blood, the King granted George a singular privilege: a private execution shielded from the London crowds.",
+        "search": "Duke of Clarence portrait oil painting",
+        "caption": "Granted the rare privilege of private execution."
+      },
+      {
+        "narration": "Customary executions demanded the headsman's axe, but George adamantly refused both the block and the gallows rope.",
+        "search": "medieval executioner axe engraving",
+        "caption": "He refused both the headsman's axe and rope."
+      },
+      {
+        "narration": "Instead, the condemned duke made an unprecedented request: to drown inside a four-hundred-liter barrel of sweet Malmsey wine.",
+        "search": "medieval wine cellar wooden barrels engraving",
+        "caption": "A final demand: drowned in Malmsey wine."
+      },
+      {
+        "narration": "On February 18, 1478, guards escorted George to a subterranean chamber within the Bowyer Tower, where a full vat of Malmsey stood waiting.",
+        "search": "medieval wine cellar tower of london engraving",
+        "caption": "February 18, 1478: The private chamber in the Bowyer Tower"
+      },
+      {
+        "narration": "Contemporary chroniclers recorded that the twenty-eight-year-old royal was plunged headfirst into the alcohol, dying without a drop of royal blood spilled.",
+        "search": "drowning in malmsey wine medieval woodcut",
+        "caption": "Submerged headfirst so no royal blood was shed"
+      },
+      {
+        "narration": "Centuries later, George's exhumed remains revealed an intact neck, proving he was never beheaded and cementing history's strangest royal execution.",
+        "search": "George Plantagenet Duke of Clarence portrait painting",
+        "caption": "Intact remains confirmed the Duke never faced the executioner's axe"
+      },
+      {
+        "narration": "Why did a prince choose death by sweet wine?",
+        "search": "Tower of London medieval engraving",
+        "caption": "A royal treason with an unbelievable execution."
+      }
+    ],
+    "error": "",
+    "youtube_id": "Pp8IoY6HTMM",
+    "youtube_url": "https://www.youtube.com/watch?v=Pp8IoY6HTMM",
+    "created_at": "2026-10-24T08:27:37.225768+00:00",
+    "updated_at": "2026-10-24T08:38:42.564796+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-24T08:31:40.399019+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "348 chars (cat 224 de vua 55s)",
+        "at": "2026-10-24T08:34:11.734726+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-24T08:34:14.356987+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T08:34:15.739985+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-24T08:37:47.917222+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-24T08:37:47.999383+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.6s 14111396 bytes",
+        "at": "2026-10-24T08:38:33.555224+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=Pp8IoY6HTMM",
+        "at": "2026-10-24T08:38:36.808707+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZx1z03kcwbedv5x1WuU_dTj3lzaz6DusasFXEFnJLvE7HTvEX7",
+        "at": "2026-10-24T08:38:38.175960+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-24T08:38:40.253209+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-24T08:38:40.665818+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"Pp8IoY6HTMM\\\"\",\n    \"errors\"",
+        "at": "2026-10-24T08:38:42.223585+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-24T08:38:42.307813+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-24T08:38:42.564775+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16440459/pexels-photo-16440459.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17068696/pexels-photo-17068696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4406716/pexels-photo-4406716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326502/pexels-photo-18326502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14424473/pexels-photo-14424473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885589/pexels-photo-7885589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26653490/pexels-photo-26653490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19368012/pexels-photo-19368012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35966971/pexels-photo-35966971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12560822/pexels-photo-12560822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33763031/pexels-photo-33763031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18504587/pexels-photo-18504587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b89c33519a",
     "kind": "short",
     "channel": "Channel2",
