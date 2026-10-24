@@ -1,5 +1,161 @@
 [
   {
+    "id": "016efc39eb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Caliph Harun Executed His Best Friend",
+    "idea": {
+      "title": "Why Caliph Harun Executed His Best Friend",
+      "hook": "Caliph Harun al-Rashid loved his vizier Ja'far so deeply he refused to dine without him, yet in a single night had him brutally beheaded.",
+      "beats": [
+        "Harun al-Rashid and Ja'far al-Barmaki were inseparable, ruling the Islamic Golden Age together at the peak of Abbasid glory.",
+        "To keep Ja'far near him in private chambers, Harun arranged a symbolic marriage between Ja'far and his royal sister Abbasa, with strict orders never to consummate it.",
+        "When Abbasa secretly gave birth to twin sons, Harun felt utterly betrayed and ordered Ja'far executed on the spot, mounting his severed head on a bridge.",
+        "Harun wiped out the entire Barmakid dynasty overnight, spending his final years weeping in bitter regret for the friend he destroyed."
+      ],
+      "keywords": [
+        "Harun al-Rashid portrait",
+        "Abbasid Caliphate engraving",
+        "Islamic Golden Age painting",
+        "Baghdad historical miniature",
+        "medieval execution painting"
+      ],
+      "tags": [
+        "history",
+        "historyshorts",
+        "abbasidcaliphate",
+        "ancienthistory",
+        "middleeast"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Islam's greatest caliph execute his closest friend?",
+        "search": "Harun al-Rashid Abbasid caliph portrait painting",
+        "caption": "Why did Caliph Harun execute his closest friend?"
+      },
+      {
+        "narration": "In eighth-century Baghdad, Caliph Harun al-Rashid presided over the peak of the Abbasid Golden Age.",
+        "search": "medieval Baghdad Abbasid Caliphate historical manuscript miniature",
+        "caption": "Baghdad was the epicenter of the Abbasid Golden Age."
+      },
+      {
+        "narration": "At his side stood Grand Vizier Ja'far al-Barmaki, his inseparable advisor and confidant.",
+        "search": "Barmakid vizier Islamic court miniature painting",
+        "caption": "Vizier Ja'far al-Barmaki was Harun's most trusted advisor."
+      },
+      {
+        "narration": "To keep Ja'far near him during private palace gatherings, Harun arranged a formal marriage between Ja'far and his sister, Princess Abbasa.",
+        "search": "medieval Abbasid royal palace court engraving",
+        "caption": "Harun arranged a marriage between Ja'far and Princess Abbasa."
+      },
+      {
+        "narration": "The caliph strictly decreed that the union remain nominal, forbidding the couple from ever consummating it.",
+        "search": "Islamic Golden Age royal decree parchment manuscript",
+        "caption": "The caliph strictly forbade consummation of the marriage."
+      },
+      {
+        "narration": "Defying the imperial mandate, Abbasa secretly conceived and gave birth to twin sons, smuggling them away to Mecca.",
+        "search": "ancient Mecca Kaaba historical miniature painting",
+        "caption": "Abbasa secretly bore twin sons and hid them in Mecca."
+      },
+      {
+        "narration": "In January 803 AD, intelligence reached the caliph, uncovering the clandestine breach of his command.",
+        "search": "Harun al-Rashid royal court throne room painting",
+        "caption": "In 803 AD, Harun discovered the clandestine breach of his order."
+      },
+      {
+        "narration": "Without an inquiry or trial, Harun ordered imperial guards to seize Ja'far in the middle of the night.",
+        "search": "medieval Arab palace guards arrest oil painting",
+        "caption": "Harun dispatched imperial guards into the night to arrest Ja'far."
+      },
+      {
+        "narration": "Ja'far was decapitated immediately, and on Harun's orders, his severed head was mounted onto the Great Bridge of Baghdad while his torso was publicly impaled.",
+        "search": "medieval beheading execution engraving",
+        "caption": "Ja'far was summarily beheaded and displayed across Baghdad in 803 AD."
+      },
+      {
+        "narration": "Before dawn, imperial guards rounded up the entire Barmakid clan, confiscating their immense fortunes and throwing Ja'far's seventy-year-old father into a dungeon.",
+        "search": "dungeon prisoner medieval manuscript miniature",
+        "caption": "Harun liquidated the entire Barmakid family, seizing their imperial wealth."
+      },
+      {
+        "narration": "Without his brilliant vizier, Harun's administration fractured into rebellions, leaving the caliph to lament the execution of his closest companion until his death in 809 AD.",
+        "search": "caliph harun al rashid portrait oil painting",
+        "caption": "Harun died in 809 AD, bitterly lamenting the friend he destroyed."
+      },
+      {
+        "narration": "Caliph Harun suddenly executed his most beloved companion.",
+        "search": "Harun al-Rashid caliph orientalist oil painting portrait",
+        "caption": "Why did Caliph Harun execute his closest companion?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-24T20:04:45.854215+00:00",
+    "updated_at": "2026-10-24T20:09:13.877737+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-24T20:05:51.867955+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "365 chars (cat 254 de vua 55s)",
+        "at": "2026-10-24T20:06:36.947939+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-24T20:06:40.463302+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T20:06:41.741362+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-24T20:08:33.311425+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-24T20:08:33.382262+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 15370352 bytes",
+        "at": "2026-10-24T20:09:13.540130+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-24T20:09:13.877715+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40216716/pexels-photo-40216716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29833969/pexels-photo-29833969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30698532/pexels-photo-30698532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22039628/pexels-photo-22039628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8998019/pexels-photo-8998019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39453604/pexels-photo-39453604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32576250/pexels-photo-32576250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34838580/pexels-photo-34838580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30602304/pexels-photo-30602304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38542121/pexels-photo-38542121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081429/pexels-photo-20081429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25461286/pexels-photo-25461286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dada1bbda4",
     "kind": "long",
     "channel": "seigh",
