@@ -1,5 +1,192 @@
 [
   {
+    "id": "b89c33519a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "done",
+    "title": "The Tragic Murder Alexander the Great Regretted Forever",
+    "idea": {
+      "title": "The Tragic Murder Alexander the Great Regretted Forever",
+      "hook": "In a drunken rage, Alexander the Great speared the general who had saved his life—and spent the next three days weeping in agony.",
+      "beats": [
+        "At a drunken banquet in 328 BC, an argument erupted between Alexander and Cleitus the Black, his most trusted commander.",
+        "Cleitus openly scolded Alexander's growing arrogance, reminding the young king that mortal men had forged his victories.",
+        "Blinded by wine and fury, Alexander snatched a spear from a bodyguard and drove it straight through Cleitus's chest.",
+        "As Cleitus collapsed in pool of blood, the horror struck Alexander—he immediately tried to turn the spear on himself.",
+        "His guards disarmed him, leaving the weeping conqueror locked inside his tent for days, starved by suffocating regret."
+      ],
+      "keywords": [
+        "Alexander the Great painting",
+        "Cleitus the Black banquet",
+        "ancient Macedonia soldiers engraving",
+        "ancient Persian palace bust",
+        "classical history battle artwork"
+      ],
+      "tags": [
+        "history",
+        "ancienthistory",
+        "alexanderthegreat",
+        "historicalregret",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Alexander the Great executed his own lifesaver in fury.",
+        "search": "Alexander the Great marble bust statue",
+        "caption": "Alexander the Great killed his own savior in rage."
+      },
+      {
+        "narration": "Six years earlier at the Granicus in 334 BC, cavalry officer Cleitus the Black severed an enemy blade moments before it struck Alexander down.",
+        "search": "Battle of the Granicus historical oil painting",
+        "caption": "Cleitus the Black saved Alexander’s life in 334 BC."
+      },
+      {
+        "narration": "By autumn 328 BC, the Macedonian army garrisoned at Maracanda, where Alexander staged an intense, alcohol-fueled banquet for his commanders.",
+        "search": "ancient Greek banquet symposium fresco engraving",
+        "caption": "In 328 BC, Alexander hosted a lavish, wine-fueled banquet."
+      },
+      {
+        "narration": "Alexander had adopted Persian royal garments and customs, demanding divine honors that alienated his veteran Macedonian officers.",
+        "search": "ancient Persian royal palace relief Persepolis carving",
+        "caption": "Alexander demanded divine honors and adopted Persian imperial customs."
+      },
+      {
+        "narration": "During the drinking, sycophants mocked King Philip II, claiming Alexander’s divine parentage completely overshadowed his assassinated father.",
+        "search": "King Philip II of Macedon gold coin bust",
+        "caption": "Courtiers mocked Philip II to elevate Alexander as a god."
+      },
+      {
+        "narration": "An intoxicated Cleitus erupted in anger, citing ancient verses against arrogant tyrants and praising the soldiers who secured Alexander’s empire.",
+        "search": "Cleitus and Alexander confrontation classical oil painting",
+        "caption": "Cleitus denounced the king's arrogance before the entire court."
+      },
+      {
+        "narration": "Alexander reached for his dagger, prompting terrified bodyguards to pull the weapon away and hold the furious monarch back.",
+        "search": "ancient Macedonian hoplite soldiers armor engraving",
+        "caption": "Guards physically restrained Alexander as chaos erupted in the hall."
+      },
+      {
+        "narration": "Cleitus was forcibly dragged out of the banquet, but slipped his guards and stepped back into the doorway to shout one last defiance.",
+        "search": "ancient Greek banquet hall architecture illustration",
+        "caption": "Cleitus broke free and returned for a final confrontation."
+      },
+      {
+        "narration": "Snatching a pike from a royal bodyguard, Alexander lunged forward and drove the spearhead straight through Cleitus's chest, killing him on the banquet floor.",
+        "search": "Alexander the Great slaying Cleitus engraving",
+        "caption": "Alexander impaled Cleitus the Black through the chest."
+      },
+      {
+        "narration": "Sobriety struck the king instantly; ancient accounts record Alexander attempting to impale himself on the same spear before horrified officers wrestled him away.",
+        "search": "Alexander the Great marble bust statue close up",
+        "caption": "Bodyguards restrained Alexander as he turned the spear on himself."
+      },
+      {
+        "narration": "In the autumn of 328 BC, Alexander starved himself inside his tent for three days, forever shattered by the murder of the man who had once saved his life.",
+        "search": "Alexander the Great mourning oil painting classical history",
+        "caption": "He starved in isolation, haunted by the murder of his savior."
+      },
+      {
+        "narration": "Alexander the Great murdered the general who saved him.",
+        "search": "Alexander the Great bust sculpture",
+        "caption": "Alexander murdered the man who saved his life."
+      }
+    ],
+    "error": "",
+    "youtube_id": "VOk28ftDJv8",
+    "youtube_url": "https://www.youtube.com/watch?v=VOk28ftDJv8",
+    "created_at": "2026-10-24T05:37:24.506142+00:00",
+    "updated_at": "2026-10-24T05:45:43.761990+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-24T05:40:40.889472+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "413 chars (cat 233 de vua 55s)",
+        "at": "2026-10-24T05:43:08.621747+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.1s en-US-GuyNeural 6 cau",
+        "at": "2026-10-24T05:43:10.600677+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T05:43:12.152013+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-24T05:44:45.883483+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-24T05:44:45.964244+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 13791283 bytes",
+        "at": "2026-10-24T05:45:37.334663+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=VOk28ftDJv8",
+        "at": "2026-10-24T05:45:39.554498+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaZJNkG-t_7wWVHoEubgdBHJNq-2GcZQ8_JpiweGzi4RTVB7k4zn",
+        "at": "2026-10-24T05:45:40.763843+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-24T05:45:42.262129+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-24T05:45:42.512405+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"VOk28ftDJv8\\\"\",\n    \"errors\"",
+        "at": "2026-10-24T05:45:43.432867+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-24T05:45:43.514843+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-24T05:45:43.761973+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33924686/pexels-photo-33924686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902536/pexels-photo-34902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39206486/pexels-photo-39206486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158644/pexels-photo-33158644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15419005/pexels-photo-15419005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19036547/pexels-photo-19036547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350037/pexels-photo-31350037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39797567/pexels-photo-39797567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34377347/pexels-photo-34377347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38439054/pexels-photo-38439054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39538690/pexels-photo-39538690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10520137/pexels-photo-10520137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e035135753",
     "kind": "short",
     "channel": "Channel3",
