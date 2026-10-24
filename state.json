@@ -1,5 +1,599 @@
 [
   {
+    "id": "dada1bbda4",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Erased His Brother From History",
+    "idea": {
+      "title": "The Roman Emperor Who Erased His Brother From History",
+      "hook": "In December of 211 AD, Rome's co-emperor Geta was butchered inside the imperial palace while clinging to his own mother. But his brother Caracalla didn't just want him dead—he ordered the entire ancient world to erase every trace of his existence.",
+      "beats": [
+        "The death of Emperor Septimius Severus in 211 AD leaves the Roman Empire split between his two bitterly hostile sons, Caracalla and Geta.",
+        "Tensions paralyze the imperial court as the brothers divide the palace with physical barricades and double their personal food tasters to survive.",
+        "Caracalla feigns a peace offering, luring Geta into an unarmed reconciliation meeting arranged in their mother Empress Julia Domna's private quarters.",
+        "Centurions storm the chamber on Caracalla's command and slaughter Geta, who dies soaked in blood while desperately clinging to his mother's arms.",
+        "Caracalla sprints into the Praetorian Guard camp, falsely claiming he survived a vicious assassination attempt by Geta and buying their loyalty with gold.",
+        "A brutal purge sweeps Rome, resulting in the summary execution of roughly 20,000 citizens, soldiers, senators, and household staff loyal to Geta.",
+        "Caracalla forces the Senate to issue damnatio memoriae, legally transforming Geta from a co-emperor into an unperson and making his name treason to speak.",
+        "Across three continents, stonemasons chisel Geta's face off triumphal arches, public inscriptions, and family portraits under imperial watch.",
+        "Currency featuring Geta's profile is systematically recalled and melted, while imperial records, legal documents, and papyri bearing his name are burned.",
+        "Forbidden from shedding a single tear, Julia Domna is forced to smile publicly beside her surviving son under constant threat of execution.",
+        "The imperial cover-up backfires completely, as the violent, hollow gouges left in stone monuments become permanent testaments to the fratricide.",
+        "Haunted by paranoia and guilt, Caracalla's tyrannical rule ends six years later when he is assassinated, leaving his brother's scarred legacy permanently exposed."
+      ],
+      "keywords": [
+        "Caracalla",
+        "Geta",
+        "Roman Empire",
+        "Damnatio Memoriae",
+        "Ancient Rome documentary",
+        "Severan Dynasty",
+        "Julia Domna",
+        "Roman Emperors",
+        "Ancient history mysteries",
+        "Imperial Rome"
+      ],
+      "tags": [
+        "ancient rome",
+        "caracalla",
+        "geta",
+        "roman emperors",
+        "damnatio memoriae",
+        "history documentary",
+        "ancient history",
+        "roman empire",
+        "severan dynasty",
+        "ancient mysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "ERASED FROM HISTORY"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman emperor erased his brother from human history. In December 211 AD, Rome initiated an unprecedented campaign to annihilate co-emperor Geta's name and likeness.",
+        "search": "Arch of Septimius Severus erased inscription marble carving",
+        "caption": "Caracalla erased co-emperor Geta from the Roman world in 211 AD."
+      },
+      {
+        "narration": "Ten months earlier, Emperor Septimius Severus died at Eboracum, dividing absolute command of the empire between his two bitterly rivalrous sons.",
+        "search": "Septimius Severus marble bust statue",
+        "caption": "Septimius Severus died in 211 AD, dividing Rome between rival sons."
+      },
+      {
+        "narration": "Back in Rome, the brothers partitioned the Palatine palace with physical barricades and doubled their personal guards against suspected poisons.",
+        "search": "Palatine Hill imperial palace ruins Rome photograph",
+        "caption": "The brothers fortified opposing wings of the imperial palace."
+      },
+      {
+        "narration": "While Caracalla aggressively courted the army, Geta secured the allegiance of Rome's senatorial elite and urban populace.",
+        "search": "Geta Roman emperor marble bust statue",
+        "caption": "Geta commanded senatorial support, deepening Caracalla's hatred."
+      },
+      {
+        "narration": "On December 26, 211 AD, Caracalla offered a truce, requesting an unarmed reconciliation meeting inside the private chambers of Empress Julia Domna.",
+        "search": "Empress Julia Domna marble bust portrait",
+        "caption": "Caracalla arranged a supposed peace meeting in his mother's quarters."
+      },
+      {
+        "narration": "The moment Geta entered, concealed centurions lunged forward, stabbing the twenty-two-year-old co-emperor as he shielded himself behind their mother.",
+        "search": "Death of Geta historic oil painting",
+        "caption": "Centurions butchered Geta as he sought refuge with his mother."
+      },
+      {
+        "narration": "Covered in his brother's blood, Caracalla fled to the Praetorian camp and distributed two thousand five hundred denarii per soldier to secure their loyalty.",
+        "search": "Caracalla Roman emperor marble bust statue close up",
+        "caption": "Caracalla bribed the Praetorian Guard with massive treasury distributions."
+      },
+      {
+        "narration": "With military backing secured, Caracalla ordered the execution of twenty thousand citizens, senators, and household staff suspected of loyalty to Geta.",
+        "search": "Severan tondo painted panel portrait with erased face",
+        "caption": "A violent purge eliminated twenty thousand associates of the murdered prince."
+      },
+      {
+        "narration": "In 212 AD, Caracalla compelled the Roman Senate to decree a formal damnatio memoriae against Geta, legally eradicating his status as co-emperor. Speaking or writing Geta's name became a capital offense punishable by immediate execution.",
+        "search": "roman senate marble relief sculpture",
+        "caption": "Senate decrees total erasure of Geta in 212 AD"
+      },
+      {
+        "narration": "Across Europe, Asia, and North Africa, imperial stonemasons systematically chiseled Geta's likeness and name off public arches, temples, and family monuments.",
+        "search": "arch of septimius severus roma marble engraving",
+        "caption": "Stonemasons deface monuments across three continents"
+      },
+      {
+        "narration": "Millions of silver denarii bearing Geta's profile were collected and melted down, while government papyri and legal registry books were publicly burned.",
+        "search": "ancient roman silver coin caracalla",
+        "caption": "Coins melted and official records burned empire-wide"
+      },
+      {
+        "narration": "Empress Julia Domna was forbidden under threat of death from mourning her younger son, forced to host official receptions alongside Caracalla with a smile.",
+        "search": "julia domna marble bust statue",
+        "caption": "Empress Julia Domna forbidden from mourning her slain son"
+      },
+      {
+        "narration": "Rather than concealing the crime, the violent physical gouges left in marble reliefs made Geta's sudden absence dramatically obvious to every Roman citizen.",
+        "search": "severan tondo painted panel portrait",
+        "caption": "Chiseled voids make Geta's erasure glaringly conspicuous"
+      },
+      {
+        "narration": "Tormented by fear of conspiracy, Caracalla spent his remaining five years governing through brutal military force and expenditures that depleted the imperial treasury.",
+        "search": "caracalla marble bust statue close up",
+        "caption": "Paranoia drives Caracalla to intensify military tyranny"
+      },
+      {
+        "narration": "On April 8, 217 AD, while traveling near Carrhae in Mesopotamia, Caracalla was stabbed to death by a bodyguard named Justin Martialis.",
+        "search": "caracalla assassination oil painting",
+        "caption": "Caracalla assassinated by bodyguard in 217 AD"
+      },
+      {
+        "narration": "Caracalla's total campaign of erasure ultimately preserved his brother's memory forever, leaving scarred stone monuments that still bear witness to the fratricide.",
+        "search": "arch of the argentarii rome engraving",
+        "caption": "Scarred monuments preserve history of fratricide today"
+      },
+      {
+        "narration": "In the Roman Forum, four lines of bronze pegs reveal a hidden imperial murder. When archaeologists examined the Arch of Septimius Severus, shadow holes proved Geta's name had been replaced with hollow flattery for Caracalla.",
+        "search": "arch of septimius severus rome forum engraving",
+        "caption": "Bronze peg holes reveal Geta's erased name on Rome's triumphal arch."
+      },
+      {
+        "narration": "In Roman Egypt, imperial officials targeted a circular tempera wood painting of the royal family. While Caracalla and his parents remain intact, Geta’s child portrait was violently dissolved with chemical solvent.",
+        "search": "severan tondo tempera wood painting",
+        "caption": "Geta's face was chemically removed from this 200 AD wooden portrait."
+      },
+      {
+        "narration": "At Rome's Forum Boarium, the Arch of the Argentarii still displays a glaring sculptural void. Caracalla commanded stonemasons to chisel away both Geta and his wife, leaving an unnatural empty relief beside the altar.",
+        "search": "arch of the argentarii rome marble relief engraving",
+        "caption": "Stonemasons chiseled entire figures out of the Argentarii marble relief."
+      },
+      {
+        "narration": "Across provincial offices in Oxyrhynchus, scribes spent months scouring decades of tax receipts and municipal edicts. Every legal document bearing Geta’s consular dates had his name aggressively crossed out in dark gall ink.",
+        "search": "oxyrhynchus papyrus ancient greek manuscript",
+        "caption": "Scribes blacked out Geta's name from thousands of legal papyri."
+      },
+      {
+        "narration": "Following Caracalla’s 217 AD assassination, Empress Julia Domna was placed under military surveillance in Antioch. Stripped of imperial influence and battling illness, she starved herself to death that same year.",
+        "search": "julia domna marble bust statue starved",
+        "caption": "Empress Julia Domna starved herself to death in Antioch in 217 AD."
+      },
+      {
+        "narration": "In 218 AD, Domna’s sister Julia Maesa plotted a coup by bribing the Third Gallic Legion in Syria. To legitimize fourteen-year-old Elagabalus, Maesa falsely declared the boy was the secret biological son of Caracalla himself.",
+        "search": "elagabalus roman emperor marble bust statue",
+        "caption": "Julia Maesa claimed Elagabalus was Caracalla's secret son to seize power."
+      },
+      {
+        "narration": "The new regime attempted to rehabilitate Geta's memory, but imperial mints could never recover millions of melted denarii. Geta’s damnatio memoriae had permanently mutilated the empire’s monumental architecture from North Africa to Britain.",
+        "search": "geta caesar roman denarius silver coin",
+        "caption": "Melted silver coins and mutilated statues permanently marked Roman architecture."
+      },
+      {
+        "narration": "Caracalla sought to make Geta a non-entity, yet modern historians identify Geta precisely through the deliberate gouges carved across antiquity. The dictator’s campaign of obliteration ensured his brother’s martyrdom would never be forgotten.",
+        "search": "caracalla roman emperor marble bust statue",
+        "caption": "Caracalla's campaign of total erasure immortalized his brother's murder forever."
+      },
+      {
+        "narration": "Contemporary senator Cassius Dio recorded that even writing Geta’s name in private wills was treated as treason punishable by death. Roman citizens frantically inspected their household documents to scrape away any mention of the murdered prince before imperial informers raided their homes.",
+        "search": "cassius dio marble bust roman sculpture",
+        "caption": "Cassius Dio documented that uttering Geta's name became a capital offense."
+      },
+      {
+        "narration": "In Roman Egypt, imperial officials located the Severan Tondo, a painted wooden panel depicting the royal family, and smeared solvent directly across Geta’s face. The circular portrait survives in Berlin with a violent, blank gray void where the younger brother once stood beside his mother.",
+        "search": "severan tondo tempera wood panel painting museum artifact",
+        "caption": "Imperial officials smeared away Geta's face on the painted Severan Tondo."
+      },
+      {
+        "narration": "On the massive marble triumphal arch erected in the Roman Forum in 203 AD, stonemasons chiseled out Geta's name from the dedicatory inscription. Caracalla ordered the resulting physical indentations filled with new lettering dedicated solely to himself and his deceased father.",
+        "search": "arch of septimius severus forum romanum inscription close up",
+        "caption": "Stonemasons hacked Geta's name off the Roman Forum's triumphal arch."
+      },
+      {
+        "narration": "In their ancestral homeland of Leptis Magna in modern Libya, imperial agents attacked public reliefs to remove Geta’s likeness from family processions. Even in his father's birthplace, craftsmen decapitated statues of Geta rather than risk execution for displaying his profile.",
+        "search": "leptis magna marble relief carving roman libya",
+        "caption": "In Leptis Magna, statues of Geta were systematically decapitated by imperial order."
+      },
+      {
+        "narration": "When Caracalla demanded that the empire’s supreme jurist, Papinian, compose a legal justification for the murder, the magistrate bluntly refused. Centurions executed Papinian on the spot with an axe in 212 AD, signaling that Roman law now bowed entirely to imperial terror.",
+        "search": "roman lictor fasces execution ancient engraving",
+        "caption": "Jurist Papinian was executed in 212 AD for refusing to justify fratricide."
+      },
+      {
+        "narration": "The immense cost of melting millions of coins bearing Geta’s image and bribing the Praetorian Guard quickly drained the imperial treasury. To prevent a military mutiny, Caracalla debased the silver denarius to approximately fifty percent purity, triggering rampant inflation across the provinces.",
+        "search": "caracalla silver antoninianus coin macro photo",
+        "caption": "Mass currency recasting and military bribes severely debased the Roman silver denarius."
+      },
+      {
+        "narration": "At the fortress of Albanum outside Rome, the soldiers of Legio II Parthica initially shut their gates and barred Caracalla from entering. The legionnaires had sworn an oath of loyalty to both brothers and refused to accept Geta's death until Caracalla arrived with massive cash payouts.",
+        "search": "castra albana roman legion fortress ruins photography",
+        "caption": "Legio II Parthica barricaded their fortress in protest before accepting imperial bribes."
+      },
+      {
+        "narration": "By late 212 AD, Rome had transformed into a city of gouged stones and silent citizens terrified of uttering a forbidden syllable. Unable to bear the silent condemnation carved into every monument, Caracalla prepared to leave Rome forever, taking the legions toward the militarized frontier.",
+        "search": "caracalla marble bust angry expression close up",
+        "caption": "Terrified of his own capital, Caracalla abandoned Rome for the militarized frontier."
+      },
+      {
+        "narration": "In the spring of 213 AD, Caracalla marched north to the Rhine frontier to wage war against the Alamanni confederation. Living in the field among the troops, he ate ration bread, dug trenches, and wore the coarse Germanic hooded cloak that gave him his historical moniker.",
+        "search": "Caracalla marble bust statue close up spring",
+        "caption": "Spring 213 AD: Caracalla marches to the northern frontier among the legions."
+      },
+      {
+        "narration": "To fund the ruinous military pay raises keeping the army loyal, Caracalla issued the Constitutio Antoniniana, granting Roman citizenship to all free men across the empire. The edict instantly widened the imperial tax base, forcing millions of newly minted citizens to pay inheritance levies directly to the treasury.",
+        "search": "Constitutio Antoniniana papyrus Giessen manuscript engraving",
+        "caption": "The 212 AD imperial edict expanded the tax base to fund legionary loyalty."
+      },
+      {
+        "narration": "Imperial couriers carried damnatio memoriae orders into Raetia and Germania, where provincial governors chiseled Geta's name from military milestones and dedication slabs. Frontier boundary markers dividing tribal territory were smashed and re-inscribed if they bore the murdered co-emperor's titles.",
+        "search": "Roman milestone inscription erased stone carving",
+        "caption": "Governors chiseled Geta's name from remote imperial milestones and army dedications."
+      },
+      {
+        "narration": "By 214 AD, Caracalla's behavior grew increasingly erratic as he traveled eastward across Thrace, declaring himself the reincarnation of Alexander the Great. He formed a specialized phalanx of sixteen thousand legionnaires equipped with sixteen-foot Macedonian pikes and archaic bronze helmets.",
+        "search": "Macedonian phalanx ancient Roman relief carving",
+        "caption": "Caracalla marched east in 214 AD, forming a 16,000-man Macedonian-style phalanx."
+      },
+      {
+        "narration": "Empress Julia Domna accompanied the imperial train through Asia Minor, handling official correspondence and managing public petitions while constantly flanked by Caracalla's guards. She maintained imperial decorum in public, surrounded by the very soldiers who had slaughtered her youngest son.",
+        "search": "Julia Domna Roman coin engraving profile",
+        "caption": "Julia Domna governed imperial bureaucracy under constant Praetorian guard surveillance."
+      },
+      {
+        "narration": "In late 215 AD, Caracalla reached Alexandria, where citizens openly circulated satirical verses mocking his stature and the murder of his brother. Local playwrights staged underground farces comparing the imperial court to the tragic incest of Oedipus and Jocasta.",
+        "search": "Ancient Alexandria theater Roman ruins photograph",
+        "caption": "In 215 AD, Alexandrians staged public satires ridiculing Geta's murder."
+      },
+      {
+        "narration": "Feigning flattery, Caracalla invited Alexandria's young men and aristocratic leaders to the city gymnasium under the pretense of organizing a dedicated legion. Once the doors were secured, Roman legionaries encircled the unarmed gathering and slaughtered everyone trapped inside.",
+        "search": "Roman gladius sword ancient bronze artifact",
+        "caption": "Roman legionaries trapped and butchered Alexandria's leading youths inside the gymnasium."
+      },
+      {
+        "narration": "For days, soldiers rampaged through the streets of Alexandria, plundering homes and throwing bodies into mass trenches along the Mediterranean coast. Caracalla formally abolished the city's self-governing assembly, warning the ancient world that acknowledging Geta's death carried immediate execution.",
+        "search": "Catacombs of Kom El Shoqafa Alexandria stone relief photograph",
+        "caption": "Thousands died as Caracalla punished Alexandria for mocking his brother's murder."
+      },
+      {
+        "narration": "In 216 AD, leaving a devastated Alexandria behind, Caracalla marched his legions east into Parthia, obsessed with matching the conquests of Alexander the Great.",
+        "search": "roman army marching parthia oil painting",
+        "caption": "Caracalla Marches East into Parthia in 216 AD"
+      },
+      {
+        "narration": "Even while campaign logistics consumed his staff, imperial scribes combed through provincial archives to scrape Geta's name off papyrus tax records.",
+        "search": "ancient roman papyrus manuscript detail",
+        "caption": "Scribes Erase Geta From Official Tax Records"
+      },
+      {
+        "narration": "In provincial mints across Syria and Mesopotamia, thousands of bronze coins bearing Geta's profile were gathered and melted into bullion for military pay.",
+        "search": "roman coin caracalla silver denarius close up",
+        "caption": "Provincial Mints Melt Currency Bearing Geta Profile"
+      },
+      {
+        "narration": "Surrounded by German bodyguards and consulting Syrian astrologers, Caracalla grew intensely paranoid toward his own officers as the campaign dragged on.",
+        "search": "caracalla bust sculpture marble museum",
+        "caption": "Caracalla Retains Foreign Bodyguards Amid Deepening Paranoia"
+      },
+      {
+        "narration": "Among his entourage, Praetorian Prefect Marcus Opellius Macrinus began intercepting letters from Rome warning that prophecies named him as a usurper.",
+        "search": "macrinus roman emperor bust marble",
+        "caption": "Praetorian Prefect Macrinus Intercepts Treasonous Prophecies"
+      },
+      {
+        "narration": "Realizing Caracalla summarily executed anyone suspected of disloyalty, Macrinus concluded he had to eliminate the emperor before the reports reached him.",
+        "search": "ancient roman imperial court engraving",
+        "caption": "Imminent Executions Force Macrinus to Plan Action"
+      },
+      {
+        "narration": "Macrinus secretly recruited Julius Martialis, a disgruntled guard soldier bitter over being passed over for promotion to centurion.",
+        "search": "roman soldier helmet bronze artifact museum",
+        "caption": "Disgruntled Guard Julius Martialis Recruited for Conspiracy"
+      },
+      {
+        "narration": "On April 8, 217 AD, Caracalla rode out from his military base at Edessa toward Carrhae to visit the ancient temple of the moon god Men.",
+        "search": "ancient carrhae temple mesopotamia engraving",
+        "caption": "Caracalla Travels to Carrhae Temple in April 217 AD"
+      },
+      {
+        "narration": "Near the roadway between Edessa and Carrhae, Caracalla ordered his imperial retinue to halt and stepped away alone to relieve his bowels.",
+        "search": "roman military road mesopotamia landscape ruins engraving",
+        "caption": "Carrhae road, Mesopotamia, April 8, 217 AD"
+      },
+      {
+        "narration": "Julius Martialis closed the distance under the pretense of delivering a message, drew a concealed dagger, and stabbed the emperor through the back.",
+        "search": "assassination of roman emperor caracalla 19th century historical oil painting",
+        "caption": "Caracalla assassinated by Julius Martialis on roadside"
+      },
+      {
+        "narration": "Imperial mounted archers cut down Martialis within seconds, leaving the army leaderless until Praetorian Prefect Macrinus claimed the purple three days later on April 11, 217 AD.",
+        "search": "roman emperor macrinus marble bust statue portrait close up",
+        "caption": "Macrinus seizes imperial throne, April 11, 217 AD"
+      },
+      {
+        "narration": "Confined at Antioch and suffering from advanced breast cancer, Empress Julia Domna received confirmation that her only surviving son had been slain.",
+        "search": "empress julia domna marble bust statue louvre close up",
+        "caption": "Julia Domna receives news of Caracalla's death"
+      },
+      {
+        "narration": "Fearing public humiliation and execution under Macrinus's new regime, Julia Domna refused all nourishment and starved herself to death weeks later.",
+        "search": "ancient antioch syria ancient ruins landscape 19th century engraving",
+        "caption": "Empress Julia Domna dies by starvation in Antioch"
+      },
+      {
+        "narration": "With the Severan brothers dead, provincial administrators across the empire abandoned the systematic chiseling campaigns that had consumed public stonework for six years.",
+        "search": "roman senate curia julia ancient rome engraving",
+        "caption": "Severan dynasty authority collapses across Roman provinces"
+      },
+      {
+        "narration": "At the Arch of the Argentarii in Rome, the deep gouge where Geta once stood beside his parents was left exposed, permanently disfiguring the monument.",
+        "search": "arch of the argentarii rome relief showing chiseled out geta",
+        "caption": "Chiseled erasure on Arch of the Argentarii, Rome"
+      },
+      {
+        "narration": "Caracalla's attempt to erase his brother completely inverted itself, transforming thousands of chiseled voids into indelible markers of his fratricide.",
+        "search": "arch of septimius severus forum romanum inscription chiseled geta name",
+        "caption": "Permanent scars of Caracalla's damnatio memoriae"
+      },
+      {
+        "narration": "In early 213 AD, unable to endure the silent accusations etched into Rome's monuments, Caracalla permanently departed the imperial capital for the northern frontier. He sought refuge among the Rhine and Danubian legions, shedding his imperial robes for the coarse wool cloak of a frontline soldier.",
+        "search": "caracalla bust statue marble vatican close up",
+        "caption": "In 213 AD, Caracalla abandoned Rome to live among northern legions."
+      },
+      {
+        "narration": "To secure the unwavering loyalty of the soldiers, Caracalla increased legionary pay by nearly fifty percent, pushing imperial reserves to the brink of collapse. He marched on foot alongside his men and ground his own flour to project the image of an untouchable military comrade.",
+        "search": "roman legionaries marching relief column engraving",
+        "caption": "Caracalla hiked legionary pay by fifty percent to buy military loyalty."
+      },
+      {
+        "narration": "To fund these escalating military payouts, Caracalla promulgated the Constitutio Antoniniana in 212 AD, extending Roman citizenship to virtually all free inhabitants across the empire. The historic decree doubled imperial inheritance and manumission tax collections, funneling vast provincial wealth directly into military bounties.",
+        "search": "constitutio antoniniana papyrus gissensis ancient manuscript",
+        "caption": "The Antonine Constitution granted empire-wide citizenship to inflate imperial tax revenue."
+      },
+      {
+        "narration": "By 214 AD, Caracalla directed his armies eastward into Thrace and Asia Minor, driven by an obsessive fixation with Alexander the Great. He organized a sixteen-thousand-man phalanx equipped with archaic Macedonian pikes, while executing local governors on mere suspicions of treasonous speech.",
+        "search": "alexander the great marble bust museum statue",
+        "caption": "Caracalla formed a sixteen-thousand-man phalanx in emulation of Alexander the Great."
+      },
+      {
+        "narration": "When the populace of Alexandria produced satirical plays mocking his brother's slaughter and his mother's complicity, Caracalla traveled to the Egyptian metropolis under the guise of an imperial visit. In 215 AD, as the city's leading youth assembled outside the walls to welcome him, legionary cohorts ambushed and trapped the unarmed crowds.",
+        "search": "alexandria ancient roman city ruins engraving",
+        "caption": "In 215 AD, Caracalla ambushed Alexandria's youth over anti-fratricide satires."
+      },
+      {
+        "narration": "Imperial troops systematically pillaged the city over several days, cutting down thousands of civilians in the streets and temples. Cassius Dio recorded that Caracalla observed the carnage from the distant heights of the Serapeum, formally dedicating his brother-stained sword to the deity Serapis.",
+        "search": "serapeum alexandria ruins ancient engraving",
+        "caption": "Caracalla observed Alexandria's massacre from the heights of the Serapeum."
+      },
+      {
+        "narration": "By early 217 AD, mounting imperial paranoia turned against Caracalla's own inner circle, placing his Praetorian Prefect, Macrinus, on a secret execution list. When an intercepted courier carrying the death warrant was routed to Macrinus's desk by mistake, the prefect realized he had only days to strike first.",
+        "search": "macrinus roman emperor bronze coin portrait",
+        "caption": "Praetorian Prefect Macrinus intercepted his own death warrant in 217 AD."
+      },
+      {
+        "narration": "On April 8, 217 AD, while riding between Edessa and Carrhae in Mesopotamia, Caracalla stepped away from his imperial cavalry escort to relieve himself beside the road. Seizing the unguarded opening, a disgruntled royal guardsman named Julius Martialis closed in with a concealed gladius.",
+        "search": "carrhae ancient mesopotamia landscape ruins engraving",
+        "caption": "On April 8, 217 AD, an imperial assassin struck near Carrhae."
+      },
+      {
+        "narration": "A single dagger strike shattered Caracalla's six-year terror. On April 8, 217 AD, Martialis drove a gladius into the unguarded emperor's back beside the road to Carrhae.",
+        "search": "emperor caracalla marble bust statue portrait",
+        "caption": "Caracalla assassinated April 8, 217 AD near Carrhae"
+      },
+      {
+        "narration": "Caracalla collapsed into the Mesopotamian dirt, while his imperial cavalry guards chased down Martialis and speared the assassin through the chest.",
+        "search": "roman cavalry relief carving ancient marble",
+        "caption": "Imperial bodyguards speared Martialis immediately following the assassination"
+      },
+      {
+        "narration": "In Antioch, Empress Julia Domna received news of Caracalla's murder alongside Praetorian Prefect Macrinus's military coup. Ravaged by advanced breast cancer and stripped of power, Rome's matriarch starved herself to death.",
+        "search": "empress julia domna marble bust statue",
+        "caption": "Empress Julia Domna starved herself to death in Antioch in 217 AD"
+      },
+      {
+        "narration": "Macrinus seized the throne for only fourteen bloody months, but Caracalla's damnatio memoriae outlived them both. In Roman Egypt, officials had rigorously enforced the fratricidal purge on private household heirlooms.",
+        "search": "severan tondo painted wood panel portrait egypt",
+        "caption": "The Severan Tondo painted wooden portrait preserved in Roman Egypt"
+      },
+      {
+        "narration": "The painted wooden Severan Tondo depicts Septimius Severus, Julia Domna, and Caracalla, while Geta's face is a violent smudge of exposed timber. The youth's likeness had been scraped off with an abrasive solvent to comply with imperial law.",
+        "search": "severan tondo geta erased face detail",
+        "caption": "Geta's likeness was scraped raw with solvent from the imperial portrait"
+      },
+      {
+        "narration": "In the Roman Forum, stonecutters dismantled the dedication on the Arch of Septimius Severus in 212 AD. The empty bronze pinholes behind the recarved stone still clearly spell out Geta's excised name and titles.",
+        "search": "arch of septimius severus attic inscription engraving",
+        "caption": "Re-cut peg holes on the Roman Forum arch expose Geta's removal"
+      },
+      {
+        "narration": "At Rome's Arch of the Argentarii, craftsmen chiseled Geta's entire standing silhouette out of the solid marble relief. The defacement left Julia Domna holding out her hand to an empty void where her youngest son once stood.",
+        "search": "arch of the argentarii relief carving rome",
+        "caption": "The Arch of the Argentarii shows Julia Domna beside an empty void"
+      },
+      {
+        "narration": "Caracalla intended damnatio memoriae to eradicate Geta's existence, yet the frantic imperial gouges achieved the opposite. Every scarred inscription and hollowed relief across three continents became permanent, indestructible evidence of fratricide.",
+        "search": "arch of septimius severus leptis magna relief carving",
+        "caption": "Mutilated Severan stonework became permanent architectural evidence of fratricide"
+      },
+      {
+        "narration": "Empress Julia Domna was strictly forbidden from weeping for her slaughtered child, forced by Caracalla to smile publicly under constant threat of execution.",
+        "search": "julia domna roman bust marble statue",
+        "caption": "Julia Domna Forbidden From Mourning Geta"
+      },
+      {
+        "narration": "Across three continents, imperial agents seized millions of coins bearing Geta's likeness to be melted down, while thousands of official papyri were systematically burned.",
+        "search": "roman silver denarius coin engraving",
+        "caption": "Systematic Destruction Of Geta Currency"
+      },
+      {
+        "narration": "To secure his blood-stained throne, Caracalla drained the imperial treasury, raising army pay by fifty percent while executing over twenty thousand suspected Geta loyalists.",
+        "search": "praetorian guard roman legionaries oil painting",
+        "caption": "Caracalla Bribes Military After Purging 20000"
+      },
+      {
+        "narration": "Unable to escape the shadow of his murder, Caracalla fled Rome in 214 AD, marching his armies toward Parthia while consulting foreign cults to cure his relentless insomnia and paranoia.",
+        "search": "caracalla bust marble statue close up",
+        "caption": "Guilt And Paranoia Drive Caracalla East"
+      },
+      {
+        "narration": "On April 8, 217 AD, while relieving himself along a Mesopotamian roadside, twenty-eight-year-old Caracalla was stabbed to death by a disgruntled soldier in his own bodyguard.",
+        "search": "roman soldiers marching desert oil painting",
+        "caption": "Caracalla Assassinated In Mesopotamia 217 AD"
+      },
+      {
+        "narration": "The tyrant's sudden death shattered the imperial cover-up, exposing the hollow, violent gouges on Rome's public monuments for all to see.",
+        "search": "arch of septimius severus rome relief engraving",
+        "caption": "Gouged Marble Monuments Reveal The Fratricide"
+      },
+      {
+        "narration": "On the famous Severan Tondo panel, Geta's smeared, blank face stands as antiquity's most haunting symbol of failed historical erasure.",
+        "search": "severan tondo panel painting museum artifact",
+        "caption": "Severan Tondo Shows Smeared Face Of Geta"
+      },
+      {
+        "narration": "By attempting to wipe his brother from human memory, Caracalla ensured that Geta's missing face would be remembered for two thousand years as Rome's ultimate tragedy.",
+        "search": "rome forum ancient ruins photograph",
+        "caption": "The Emperor Who Immortalized His Erasure"
+      },
+      {
+        "narration": "Rome once wiped an emperor completely from human memory.",
+        "search": "severan tondo painted panel erased geta face",
+        "caption": "Rome attempted to delete Emperor Geta from human memory."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-24T17:10:57.487024+00:00",
+    "updated_at": "2026-10-24T18:02:13.686234+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-24T17:36:23.464586+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4863 chars",
+        "at": "2026-10-24T17:38:19.518550+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "295.5s en-US-GuyNeural 46 cau",
+        "at": "2026-10-24T17:38:45.990710+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T17:39:00.898171+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-24T17:54:53.348028+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-24T17:54:53.430953+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 295.5s 164306236 bytes",
+        "at": "2026-10-24T18:02:13.259810+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "7 chapters",
+        "at": "2026-10-24T18:02:13.428933+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-24T18:02:13.686215+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36835348/pexels-photo-36835348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40318417/pexels-photo-40318417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7463270/pexels-photo-7463270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32990232/pexels-photo-32990232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5393540/pexels-photo-5393540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16711435/pexels-photo-16711435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19089505/pexels-photo-19089505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6316866/pexels-photo-6316866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708812/pexels-photo-35708812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33852683/pexels-photo-33852683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8442357/pexels-photo-8442357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162192/pexels-photo-6162192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32323480/pexels-photo-32323480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6369060/pexels-photo-6369060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7266374/pexels-photo-7266374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26975956/pexels-photo-26975956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39351857/pexels-photo-39351857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1037772/pexels-photo-1037772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7460599/pexels-photo-7460599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12278950/pexels-photo-12278950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6711453/pexels-photo-6711453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7708818/pexels-photo-7708818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714842/pexels-photo-6714842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38455748/pexels-photo-38455748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2273501/pexels-photo-2273501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21550404/pexels-photo-21550404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37436921/pexels-photo-37436921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086774/pexels-photo-38086774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/128867/coins-currency-investment-insurance-128867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28121495/pexels-photo-28121495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162746/pexels-photo-6162746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13874202/pexels-photo-13874202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34326626/pexels-photo-34326626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18330381/pexels-photo-18330381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37556148/pexels-photo-37556148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11070650/pexels-photo-11070650.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8476048/pexels-photo-8476048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38965118/pexels-photo-38965118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32416931/pexels-photo-32416931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267454/pexels-photo-9267454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36132794/pexels-photo-36132794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1006060/pexels-photo-1006060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5637344/pexels-photo-5637344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10819062/pexels-photo-10819062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11097819/pexels-photo-11097819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141658/pexels-photo-38141658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760089/pexels-photo-7760089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32876369/pexels-photo-32876369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7337507/pexels-photo-7337507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21370816/pexels-photo-21370816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6606111/pexels-photo-6606111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6493544/pexels-photo-6493544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38949105/pexels-photo-38949105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422043/pexels-photo-20422043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36544875/pexels-photo-36544875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25436060/pexels-photo-25436060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38687352/pexels-photo-38687352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12526392/pexels-photo-12526392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4788183/pexels-photo-4788183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34967262/pexels-photo-34967262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13043226/pexels-photo-13043226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36461618/pexels-photo-36461618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12050747/pexels-photo-12050747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5865342/pexels-photo-5865342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5209697/pexels-photo-5209697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/460736/pexels-photo-460736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934680/pexels-photo-18934680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13815676/pexels-photo-13815676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36355291/pexels-photo-36355291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37520524/pexels-photo-37520524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31566970/pexels-photo-31566970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32573366/pexels-photo-32573366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34926378/pexels-photo-34926378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14284471/pexels-photo-14284471.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261389/pexels-photo-36261389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326146/pexels-photo-18326146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36770805/pexels-photo-36770805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37484468/pexels-photo-37484468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240400/pexels-photo-36240400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31009534/pexels-photo-31009534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "48f37a3c3a",
     "kind": "short",
     "channel": "Channel3",
