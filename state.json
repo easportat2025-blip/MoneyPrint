@@ -1,5 +1,199 @@
 [
   {
+    "id": "e035135753",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "done",
+    "title": "Sai lầm rửa thịt gà dưới vòi nước ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm rửa thịt gà dưới vòi nước ai cũng mắc",
+      "hook": "Bạn nghĩ rửa thịt gà sống dưới vòi nước là sạch sẽ? Thực chất, bạn đang vô tình phun hàng triệu vi khuẩn nguy hiểm ra khắp căn bếp của mình.",
+      "beats": [
+        "Áp lực từ vòi nước dội vào miếng thịt sống tạo ra các hạt nước li ti vô hình, bắn xa tới gần 1 mét xung quanh bồn rửa.",
+        "Vi khuẩn nguy hiểm như Salmonella và Campylobacter sẽ bám vào bát đĩa, dao thớt, thậm chí cả thức ăn chín để gần đó.",
+        "Nước lạnh hoàn toàn không thể diệt khuẩn; vi khuẩn trong thịt chỉ bị tiêu diệt khi nấu chín ở nhiệt độ trên 74°C.",
+        "Cách an toàn nhất được các chuyên gia khuyến cáo là chỉ cần thấm khô thịt bằng khăn giấy dùng một lần rồi nấu chín trực tiếp."
+      ],
+      "keywords": [
+        "washing raw chicken sink",
+        "bacteria spreading kitchen water splash",
+        "salmonella microscopic animation",
+        "chef cooking raw poultry safely",
+        "kitchen cross contamination slow motion"
+      ],
+      "tags": [
+        "sai lầm nấu ăn",
+        "rửa thịt gà sống",
+        "vi khuẩn salmonella",
+        "an toàn thực phẩm",
+        "mẹo nhà bếp",
+        "sức khỏe đời sống",
+        "khoa học thường thức"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rửa thịt gà sống đang đầu độc cả căn bếp.",
+        "search": "hoat hinh 3d rua thit ga song duoi voi nuoc",
+        "caption": "Rửa thịt gà sống đang đầu độc căn bếp của bạn"
+      },
+      {
+        "narration": "Bạn nghĩ nước xối sạch chất bẩn, nhưng thực chất bạn đang biến bồn rửa thành ổ phát tán mầm bệnh.",
+        "search": "mo phong 3d tia nuoc ban manh vao thit ga",
+        "caption": "Nước xối không làm sạch mà phát tán vi khuẩn"
+      },
+      {
+        "narration": "Khi tia nước va vào bề mặt thịt gà, hàng triệu hạt nước li ti vô hình lập tức bắn tung tóe.",
+        "search": "hieu ung cham 3d giot nuoc li ti ban tung toe",
+        "caption": "Hạt nước li ti bắn tung tóe trong không khí"
+      },
+      {
+        "narration": "Các giọt bắn mang mầm bệnh này có thể phóng xa tới một mét quanh khu vực bồn rửa.",
+        "search": "do hoa 3d ban kinh vi khuan phat tan trong bep",
+        "caption": "Bán kính ô nhiễm văng xa tới gần một mét"
+      },
+      {
+        "narration": "Cưỡi trên những hạt nước đó là Salmonella và Campylobacter, hai loại vi khuẩn gây tiêu chảy cấp nguy hiểm.",
+        "search": "hoat hinh 3d vi khuan salmonella di chuyen phong to",
+        "caption": "Vi khuẩn Salmonella nguy hiểm ẩn trong giọt bắn"
+      },
+      {
+        "narration": "Chúng âm thầm đáp xuống bát đĩa sạch úp bên cạnh, dao thớt và cả thức ăn ăn liền của bạn.",
+        "search": "hoat hinh vi khuan bam len bat dia va thot bep",
+        "caption": "Bát đĩa sạch và đồ ăn xung quanh bị nhiễm khuẩn"
+      },
+      {
+        "narration": "Nước lạnh từ vòi hoàn toàn bất lực và không thể tiêu diệt bất kỳ con vi khuẩn nào trên thịt.",
+        "search": "hoat hinh 3d nuoc lanh xa vao mieng thit gia cam",
+        "caption": "Nước lạnh hoàn toàn không thể diệt được vi khuẩn"
+      },
+      {
+        "narration": "Càng cố rửa cho sạch, nguy cơ đưa cả nhà vào viện vì nhiễm độc thức ăn càng tăng vọt.",
+        "search": "hoat hinh 3d nguoi om bung dau do ngo doc thuc pham",
+        "caption": "Nguy cơ nhiễm trùng đường ruột tăng vọt sau mỗi lần rửa"
+      },
+      {
+        "narration": "Chỉ cần vài cá thể Salmonella xâm nhập, niêm mạc ruột sẽ bị viêm loét gây sốt cao và tiêu chảy dữ dội trong nhiều ngày.",
+        "search": "hoat hinh 3d mo phong vi khuan salmonella tan cong thanh ruot nguoi",
+        "caption": "Salmonella tan cong ruot gay ngo doc nguy hiem"
+      },
+      {
+        "narration": "Thực tế, kẻ thù duy nhất tiêu diệt được chúng là nhiệt độ từ 74 độ C trở lên khi nấu chín hoàn toàn.",
+        "search": "3d animation nhiet ke do nhiet do mieng thit ga chin 74 do C",
+        "caption": "Nhiet do tren 74 do C moi diet sach vi khuan"
+      },
+      {
+        "narration": "Chuyên gia khuyên bạn chỉ nên dùng khăn giấy một lần thấm khô bề mặt thịt gà rồi vứt ngay vào thùng rác đậy kín.",
+        "search": "hoat hinh 3d tay cam khan giay lau tham kho mieng thit ga",
+        "caption": "Dung khan giay tham kho roi vut vao thung rac"
+      },
+      {
+        "narration": "Cho thịt trực tiếp vào nồi hoặc chảo nóng, nhiệt lượng sẽ tự động diệt sạch mọi mầm bệnh mà không làm bẩn gian bếp.",
+        "search": "cartoony 3d thit ga duoc nau chin vang trong chao nong boc hoi",
+        "caption": "Nhiet do nau chin se tu dong khu trung hoan toan"
+      },
+      {
+        "narration": "Ngừng ngay việc rửa thịt gà dưới vòi nước từ hôm nay để giữ căn bếp luôn là nơi an toàn nhất cho cả nhà.",
+        "search": "isometric render can bep gia dinh sach se sang bong khong vi khuan",
+        "caption": "Ngung rua thit ga duoi voi de bao ve ca nha"
+      }
+    ],
+    "error": "",
+    "youtube_id": "fsjVy2YpEjg",
+    "youtube_url": "https://www.youtube.com/watch?v=fsjVy2YpEjg",
+    "created_at": "2026-10-24T04:54:01.260132+00:00",
+    "updated_at": "2026-10-24T05:01:05.771768+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-24T04:58:32.031938+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "498 chars",
+        "at": "2026-10-24T04:59:06.457157+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.3s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-24T04:59:24.843619+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-24T04:59:26.823225+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-24T04:59:47.310499+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-24T04:59:47.390749+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.3s 25478223 bytes",
+        "at": "2026-10-24T05:00:57.796319+00:00"
+      },
+      "upload": {
+        "ok": true,
+        "detail": "https://www.youtube.com/watch?v=fsjVy2YpEjg",
+        "at": "2026-10-24T05:01:01.684388+00:00"
+      },
+      "captions": {
+        "ok": true,
+        "detail": "AUieDaYk31wCNGsGYkswVqHB2fsO0Rq1QUabkKLXJ2zaesWGEGJiczZU",
+        "at": "2026-10-24T05:01:02.803369+00:00"
+      },
+      "thumbnail": {
+        "ok": false,
+        "detail": "thumbnail failed: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The authenticated user doesn't have permissions to upload and set custom video thumbnails.\",\n    \"errors\": [\n      {\n        \"mess",
+        "at": "2026-10-24T05:01:03.913734+00:00"
+      },
+      "comment": {
+        "ok": false,
+        "detail": "comment failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Comments cannot be empty.\",\n    \"errors\": [\n      {\n        \"message\": \"Comments cannot be empty.\",\n        \"domain\": \"youtube.comme",
+        "at": "2026-10-24T05:01:04.349170+00:00"
+      },
+      "playlist": {
+        "ok": false,
+        "detail": "playlistItem failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'resource.snippet.resource_id' (type.googleapis.com/youtube.api.v3.ResourceId), \\\"fsjVy2YpEjg\\\"\",\n    \"errors\"",
+        "at": "2026-10-24T05:01:05.422776+00:00"
+      },
+      "units": {
+        "ok": true,
+        "detail": "450/10000 used today",
+        "at": "2026-10-24T05:01:05.504479+00:00"
+      },
+      "cleanup": {
+        "ok": true,
+        "detail": "",
+        "at": "2026-10-24T05:01:05.771750+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8676943/8676943-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6012519/6012519-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/7505752/7505752-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32064303/13667201_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324650/13788089_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/34985208/14820619_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/6271139/6271139-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/7033632/7033632-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/17552569/17552569-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324654/13788043_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39895906/17020700_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/12837557/12837557-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/38413550/16311696_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "b6ad51db23",
     "kind": "short",
     "channel": "Channel2",
