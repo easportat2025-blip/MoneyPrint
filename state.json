@@ -1,5 +1,161 @@
 [
   {
+    "id": "dbef8e3958",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Venice Ruler Erased From History",
+    "idea": {
+      "title": "The Venice Ruler Erased From History",
+      "hook": "In 1355, the supreme Doge of Venice plotted a bloody coup against his own council, but his fatal mistake led to the most chilling punishment in history: total erasure.",
+      "beats": [
+        "Marino Faliero, the newly elected Doge of Venice, resented the aristocratic council and secretly conspired to massacre the entire Venetian nobility in a midnight ambush.",
+        "A frightened co-conspirator leaked the plot hours before launch; the Council of Ten acted instantly, arresting the head of state and condemning him to the block.",
+        "Faliero was stripped of his golden ducal robes and publicly beheaded on the stone staircase of the Doge's Palace.",
+        "The council executed a ruthless damnatio memoriae: in the grand hall of painted rulers, Faliero’s portrait was blacked out with a dark shroud reading: 'This is the space for Marino Faliero, beheaded for treason.'"
+      ],
+      "keywords": [
+        "Marino Faliero Doge",
+        "Doge Palace Venice black cloth painting",
+        "medieval execution woodcut",
+        "Venetian Republic council engraving",
+        "medieval Venice grand council hall"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#venice",
+        "#medievalhistory",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Venice completely erased one supreme ruler from history.",
+        "search": "doge palace venice hall of the great council painting",
+        "caption": "The Venetian ruler condemned to total erasure."
+      },
+      {
+        "narration": "In 1354, the Republic of Venice was Europe's wealthiest maritime power, ruled by an elected supreme magistrate called the Doge.",
+        "search": "republic of venice 14th century map engraving",
+        "caption": "Venice dominated Mediterranean trade in the 14th century."
+      },
+      {
+        "narration": "That same year, seventy-six-year-old military commander Marino Faliero was elected as the fifty-fifth Doge of Venice.",
+        "search": "doge marino faliero portrait oil painting",
+        "caption": "Marino Faliero took power in 1354 at age 76."
+      },
+      {
+        "narration": "Although Faliero held the grandest title in the state, true governing power rested with an aristocratic body called the Council of Ten.",
+        "search": "venice council of ten historical engraving",
+        "caption": "Venice's elite Council of Ten held absolute political power."
+      },
+      {
+        "narration": "Embittered by insults from young patricians and infuriated by his limited authority, Faliero turned against the very system he led.",
+        "search": "medieval venetian nobles manuscript miniature",
+        "caption": "Faliero harbored deep resentment against the Venetian aristocracy."
+      },
+      {
+        "narration": "In April 1355, the sitting Doge secretly allied with commoner leaders to organize an armed coup d'etat.",
+        "search": "medieval conspiracy secret meeting engraving",
+        "caption": "In April 1355, the Doge organized an armed coup."
+      },
+      {
+        "narration": "The plan was set for April 15th: ring the bells of St. Mark to sound a false alarm, then slaughter the gathering nobles.",
+        "search": "saint marks basilica venice piazza medieval woodcut",
+        "caption": "The plot called for an armed massacre in St. Mark's."
+      },
+      {
+        "narration": "Hours before the bloodshed, a terrified conspirator broke silence and revealed the entire plot to council member Niccolo Trevisan.",
+        "search": "medieval confession betrayal historical illustration",
+        "caption": "A terrified conspirator leaked the plot hours before launch."
+      },
+      {
+        "narration": "Venetian guards sealed the palace at dawn, arresting Doge Marino Faliero before his militia could assemble. The Council of Ten tried their own head of state and sentenced him to death within twenty-four hours.",
+        "search": "Council of Ten Venice tribunal engraving",
+        "caption": "On April 16, 1355, Venice's supreme ruler was arrested for treason."
+      },
+      {
+        "narration": "On April 17, 1355, seventy-seven-year-old Faliero was stripped of his ducal insignia and beheaded atop the palace staircase. The bloody sword of justice was held up before thousands gathered in the piazza.",
+        "search": "Execution of Doge Marino Faliero oil painting",
+        "caption": "Marino Faliero was beheaded on the palace stairs after eight months."
+      },
+      {
+        "narration": "The Venetian state enacted complete damnatio memoriae: in the Grand Council Hall of painted doges, his portrait was blacked out under a painted shroud reading, 'This is the space of Marino Faliero, beheaded for crimes.'",
+        "search": "Marino Faliero black shroud Doge Palace portrait oil painting",
+        "caption": "His portrait was replaced with a black shroud, erasing his face."
+      },
+      {
+        "narration": "Venice wiped its supreme ruler from human history.",
+        "search": "Marino Faliero black shroud Doge Palace painting",
+        "caption": "Venice erased one of its supreme rulers from history."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T05:53:46.780988+00:00",
+    "updated_at": "2026-10-25T06:02:22.889147+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-25T05:57:06.212081+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "395 chars (cat 227 de vua 55s)",
+        "at": "2026-10-25T05:59:03.001746+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.9s en-US-GuyNeural 4 cau",
+        "at": "2026-10-25T05:59:05.296490+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T05:59:06.283917+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-25T06:01:50.658454+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-25T06:01:50.716440+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.9s 16459099 bytes",
+        "at": "2026-10-25T06:02:22.586257+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T06:02:22.889123+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18781083/pexels-photo-18781083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11098594/pexels-photo-11098594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20895778/pexels-photo-20895778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35981068/pexels-photo-35981068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36405904/pexels-photo-36405904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29452615/pexels-photo-29452615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36690042/pexels-photo-36690042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27638140/pexels-photo-27638140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29258949/pexels-photo-29258949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16662882/pexels-photo-16662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28728499/pexels-photo-28728499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4671916/pexels-photo-4671916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "047df0c7ab",
     "kind": "short",
     "channel": "Channel3",
