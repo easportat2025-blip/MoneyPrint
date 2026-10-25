@@ -1,5 +1,162 @@
 [
   {
+    "id": "6543c939db",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Empress Theodora’s 6 Words That Saved Rome",
+    "idea": {
+      "title": "Empress Theodora’s 6 Words That Saved Rome",
+      "hook": "When a terrifying mob burned Constantinople, Emperor Justinian prepared to flee—until his former dancer queen spoke six chilling words that changed history.",
+      "beats": [
+        "In 532 AD, the violent Nika Riots engulfed Constantinople, burning down half the imperial capital.",
+        "Terrified senators urged Emperor Justinian to board a secret ship and abandon his empire.",
+        "Empress Theodora refused to run, declaring: 'Royal purple makes the finest burial shroud.'",
+        "Shamed by her bravery, Justinian ordered General Belisarius to seal all exits of the Hippodrome.",
+        "Over 30,000 rebels were trapped and slaughtered inside, securing Justinian's reign forever."
+      ],
+      "keywords": [
+        "Empress Theodora bust",
+        "Justinian mosaic Ravenna",
+        "Nika Riots painting",
+        "ancient Constantinople map",
+        "General Belisarius portrait"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "byzantine",
+        "empress",
+        "historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Six words saved the Eastern Roman Empire from total collapse.",
+        "search": "Empress Theodora mosaic Ravenna detail",
+        "caption": "6 words saved the Roman Empire."
+      },
+      {
+        "narration": "In January 532 AD, the violent Nika Riots engulfed Constantinople, burning half the capital to ash.",
+        "search": "ancient Constantinople map engraving",
+        "caption": "January 532 AD: Constantinople burns."
+      },
+      {
+        "narration": "Angry mobs united against heavy taxation, storming the palace gates and demanding the government's total downfall.",
+        "search": "Nika Riots Constantinople historical illustration",
+        "caption": "Rebels attack the imperial palace."
+      },
+      {
+        "narration": "Terrified by the rising flames, Emperor Justinian I prepared to abandon his throne and board an escape ship.",
+        "search": "Emperor Justinian mosaic Ravenna close up",
+        "caption": "Justinian prepares to flee."
+      },
+      {
+        "narration": "His royal council urged immediate flight, convinced the ancient empire was already lost to the rebellion.",
+        "search": "Byzantine senate historical painting",
+        "caption": "Senators urge immediate evacuation."
+      },
+      {
+        "narration": "But Empress Theodora, a former stage performer turned empress, refused to run from the conflict.",
+        "search": "Empress Theodora marble bust statue",
+        "caption": "Empress Theodora refuses to run."
+      },
+      {
+        "narration": "She confronted the imperial court, declaring: 'Royal purple makes the finest burial shroud.'",
+        "search": "Empress Theodora court painting",
+        "caption": "'Royal purple makes the finest burial shroud.'"
+      },
+      {
+        "narration": "Shamed by her defiance, Justinian canceled his escape and summoned his top commander, General Belisarius.",
+        "search": "General Belisarius mosaic portrait",
+        "caption": "Justinian summons General Belisarius."
+      },
+      {
+        "narration": "In 532 AD, General Belisarius marched loyal imperial guards to the Hippodrome and sealed every exit.",
+        "search": "Byzantine army battle historical oil painting",
+        "caption": "General Belisarius sealed every exit of the Hippodrome."
+      },
+      {
+        "narration": "Imperial troops slaughtered over thirty thousand trapped rebels inside, brutally crushing the Nika Riots.",
+        "search": "Nika Riots Constantinople historic illustration",
+        "caption": "Over 30,000 rebels were slaughtered inside the arena."
+      },
+      {
+        "narration": "Empress Theodora’s six defiance-filled words saved the Eastern Roman Empire, securing Justinian's golden reign forever.",
+        "search": "Empress Theodora mosaic Ravenna",
+        "caption": "Six words saved the Roman Empire from total collapse."
+      },
+      {
+        "narration": "Six words saved the Roman Empire from total collapse.",
+        "search": "Empress Theodora mosaic San Vitale Ravenna",
+        "caption": "Six words saved the Roman Empire from collapse."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T19:53:57.674945+00:00",
+    "updated_at": "2026-10-25T19:58:59.550201+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-25T19:55:26.781792+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 189 de vua 55s)",
+        "at": "2026-10-25T19:56:08.189857+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.8s en-US-GuyNeural 6 cau",
+        "at": "2026-10-25T19:56:13.786946+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T19:56:15.436689+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-25T19:58:07.648678+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-25T19:58:07.734424+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 16180534 bytes",
+        "at": "2026-10-25T19:58:59.116319+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T19:58:59.550182+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33350170/pexels-photo-33350170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543458/pexels-photo-17543458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11627937/pexels-photo-11627937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28275628/pexels-photo-28275628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38150420/pexels-photo-38150420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28238469/pexels-photo-28238469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8864267/pexels-photo-8864267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11885559/pexels-photo-11885559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27853380/pexels-photo-27853380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18748640/pexels-photo-18748640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33579791/pexels-photo-33579791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9523803/pexels-photo-9523803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "290a3a2394",
     "kind": "long",
     "channel": "seigh",
