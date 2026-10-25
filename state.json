@@ -1,5 +1,162 @@
 [
   {
+    "id": "28adcd0e3f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Crippled General Avenged His Stolen Knees",
+    "idea": {
+      "title": "How a Crippled General Avenged His Stolen Knees",
+      "hook": "In 342 BC, General Pang Juan betrayed his brilliant friend Sun Bin by chopping off his kneecaps—never expecting that a crippled prisoner would orchestrate his humiliating doom.",
+      "beats": [
+        "Jealous of Sun Bin's military genius, Pang Juan framed him for treason, carved tattoos into his face, and severed both of his kneecaps to ensure he could never lead an army.",
+        "Sun Bin escaped by feigning madness, rolling in pig manure and eating animal filth until a visiting diplomat smuggled him out hidden inside a secret carriage compartment.",
+        "Years later at the Battle of Maling, Sun Bin lured Pang Juan's army into a narrow ravine by reducing his army's campfires each night, faking mass desertion.",
+        "Pang Juan rushed into total darkness where a tree stripped of bark read 'Pang Juan dies under this tree,' walking straight into thousands of waiting crossbows before taking his own life."
+      ],
+      "keywords": [
+        "ancient chinese battle painting",
+        "sun bin military engraving",
+        "warring states map china",
+        "ancient chinese crossbow painting",
+        "ancient chinese warriors illustration"
+      ],
+      "tags": [
+        "history",
+        "ancienthistory",
+        "militarytactics",
+        "ancientchina",
+        "revengehistory",
+        "warfare"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A crippled general destroyed his torturer with burning campfires.",
+        "search": "ancient chinese battle painting",
+        "caption": "A crippled general orchestrated the ultimate revenge."
+      },
+      {
+        "narration": "During China's Warring States period, military prodigy Sun Bin studied strategy alongside his rival, Pang Juan.",
+        "search": "warring states map china engraving",
+        "caption": "China's Warring States era bred deadly rivalries."
+      },
+      {
+        "narration": "Appointed supreme commander of Wei, Pang Juan feared his friend's superior intellect and framed him for treason.",
+        "search": "ancient chinese general portrait painting",
+        "caption": "Pang Juan framed his sworn brother for treason."
+      },
+      {
+        "narration": "Pang Juan ordered Sun Bin's face tattooed with convict ink and had both of his kneecaps carved out.",
+        "search": "sun bin military engraving",
+        "caption": "Sun Bin was brutally crippled and permanently scarred."
+      },
+      {
+        "narration": "To avoid execution, Sun Bin rolled in manure and feigned madness inside a filthy animal pen.",
+        "search": "ancient chinese prisoner illustration manuscript",
+        "caption": "Sun Bin feigned insanity to survive execution."
+      },
+      {
+        "narration": "Convinced of his genius, an envoy from the state of Qi smuggled the maimed strategist across the border in a concealed wagon.",
+        "search": "ancient chinese chariot carriage ink painting",
+        "caption": "Qi diplomats smuggled Sun Bin to freedom."
+      },
+      {
+        "narration": "In 342 BC, Pang Juan invaded Qi, unaware that his crippled victim was now directing the opposing army.",
+        "search": "ancient chinese warriors illustration",
+        "caption": "In 342 BC, the two commanders clashed."
+      },
+      {
+        "narration": "Unable to ride a horse, Sun Bin ordered his retreating troops to systematically reduce their campfires each night.",
+        "search": "ancient chinese army camp painting",
+        "caption": "Sun Bin used disappearing campfires to set a trap."
+      },
+      {
+        "narration": "Convinced the Qi army was collapsing from mass desertion, Pang Juan recklessly pursued them into the narrow gorge of Maling in 342 BC.",
+        "search": "ancient chinese battle painting warring states army ravine",
+        "caption": "Pang Juan pursued the retreating army into the narrow Maling gorge."
+      },
+      {
+        "narration": "Finding a tree stripped of its bark in the pitch dark, Pang Juan lit a torch to read Sun Bin's carved message: Pang Juan dies under this tree.",
+        "search": "ancient chinese military engraving nighttime ambush warriors",
+        "caption": "A carved tree trunk revealed Sun Bin's lethal death trap."
+      },
+      {
+        "narration": "Ten thousand Qi crossbowmen instantly unleashed a wall of arrows, forcing the defeated general to slit his own throat and finalizing Sun Bin's masterclass in vengeance.",
+        "search": "ancient chinese crossbow painting warring states battle",
+        "caption": "Thousands of crossbows destroyed Wei's army, finalizing Sun Bin's revenge."
+      },
+      {
+        "narration": "A mutilated prisoner destroyed the commander who crippled him.",
+        "search": "ancient chinese warriors engraving",
+        "caption": "How a mutilated prisoner destroyed an entire army."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T22:11:20.102665+00:00",
+    "updated_at": "2026-10-25T22:19:12.106711+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-25T22:14:06.280813+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "340 chars (cat 210 de vua 55s)",
+        "at": "2026-10-25T22:15:35.650503+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.7s en-US-GuyNeural 4 cau",
+        "at": "2026-10-25T22:15:38.925312+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T22:15:40.291432+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-25T22:18:27.952508+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-25T22:18:28.036820+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.7s 12638032 bytes",
+        "at": "2026-10-25T22:19:11.758938+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T22:19:12.106695+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34308967/pexels-photo-34308967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828451/pexels-photo-8828451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18895746/pexels-photo-18895746.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4234758/pexels-photo-4234758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20246239/pexels-photo-20246239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478271/pexels-photo-9478271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28844757/pexels-photo-28844757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34707920/pexels-photo-34707920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34707919/pexels-photo-34707919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33890165/pexels-photo-33890165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36163407/pexels-photo-36163407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39738081/pexels-photo-39738081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6543c939db",
     "kind": "short",
     "channel": "Channel2",
