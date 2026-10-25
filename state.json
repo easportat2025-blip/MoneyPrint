@@ -1,5 +1,161 @@
 [
   {
+    "id": "c53dd3303e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Persian Noble Who Cut Off His Own Face",
+    "idea": {
+      "title": "The Persian Noble Who Cut Off His Own Face",
+      "hook": "In 516 BC, a Persian noble sliced off his own nose and ears—not in madness, but to execute history's most terrifying betrayal.",
+      "beats": [
+        "The city of Babylon was under siege by Darius the Great for nearly two years and remained entirely impregnable.",
+        "Desperate to end the stalemate, General Zopyrus brutally mutilated his own face and whipped himself bloody before fleeing into Babylon.",
+        "He wept before the Babylonian council, swearing that King Darius had tortured him and begging for a command to seek revenge.",
+        "Convinced by his horrific wounds, Babylon handed him total military command—until one midnight, Zopyrus unlocked the gates and led the Persian slaughter from within."
+      ],
+      "keywords": [
+        "persian soldier engraving",
+        "darius the great bust",
+        "ancient babylon walls painting",
+        "persian empire historic map",
+        "ancient siege warfare artwork"
+      ],
+      "tags": [
+        "ancienthistory",
+        "persianempire",
+        "historyshorts",
+        "militaryhistory",
+        "historicalfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Persian general mutilated his own face to conquer Babylon.",
+        "search": "achaemenid persian soldier bas-relief stone carving",
+        "caption": "A Persian general sacrificed his own face to capture Babylon."
+      },
+      {
+        "narration": "In 516 BC, King Darius the Great spent nineteen months besieging Babylon without breaching its towering walls.",
+        "search": "darius the great behistun inscription relief",
+        "caption": "In 516 BC, Babylon resisted Darius the Great for nineteen months."
+      },
+      {
+        "narration": "Babylonian defenders mocked the Persian army from the ramparts, fortified by years of stockpiled grain.",
+        "search": "walls of babylon 19th century historical oil painting",
+        "caption": "Babylonian defenders mocked the stalled Persian army from impregnable walls."
+      },
+      {
+        "narration": "Persian nobleman Zopyrus realized conventional siege warfare would never break the city.",
+        "search": "persian achaemenid noble persepolis relief sculpture",
+        "caption": "Noble Zopyrus knew force alone could never breach the gates."
+      },
+      {
+        "narration": "To manufacture undeniable proof of Persian cruelty, Zopyrus sliced off his own nose and ears.",
+        "search": "ancient bronze age dagger artifact museum",
+        "caption": "Zopyrus severed his own nose and ears to stage treason."
+      },
+      {
+        "narration": "He whipped his own back bloody and fled directly toward the Babylonian gates under cover of darkness.",
+        "search": "ishtar gate babylon architectural reconstruction illustration",
+        "caption": "Mutilated and bleeding, Zopyrus approached the gates of Babylon."
+      },
+      {
+        "narration": "Brought before the Babylonian council, he claimed King Darius had tortured him for urging peace.",
+        "search": "ancient babylonian cylinder seal impression artwork",
+        "caption": "He told the council Darius had tortured him for dissent."
+      },
+      {
+        "narration": "Seeing his ruined face, the Babylonians believed no man would mutilate himself and granted him full command.",
+        "search": "ancient babylonian warriors bas relief sculpture",
+        "caption": "Convinced by his horrific wounds, Babylon gave him total command."
+      },
+      {
+        "narration": "To cement their absolute trust, Zopyrus secretly coordinated with Darius to defeat sacrificial Persian battalions in staged skirmishes outside the walls.",
+        "search": "ancient siege warfare artwork engraving",
+        "caption": "Zopyrus staged fake victories to earn total military control."
+      },
+      {
+        "narration": "Appointed supreme defender of the ramparts, Zopyrus unlocked the Belian and Cissian gates under cover of darkness, ushering the Persian army directly inside.",
+        "search": "ancient babylon city gate painting",
+        "caption": "At midnight, Zopyrus unlocked the city gates to Darius."
+      },
+      {
+        "narration": "Babylon fell in 516 BC, and King Darius later declared that no Persian reward could ever equal the agony Zopyrus endured to deliver the empire victory.",
+        "search": "darius the great bust statue",
+        "caption": "Babylon fell, cementing Zopyrus as Persia's most extreme tactician."
+      },
+      {
+        "narration": "He mutilated his own face to conquer an empire.",
+        "search": "ancient persian soldier engraving close up",
+        "caption": "He sliced off his own face to conquer Babylon."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T00:27:51.508939+00:00",
+    "updated_at": "2026-10-25T00:35:45.331983+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-25T00:30:14.560264+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "408 chars (cat 226 de vua 55s)",
+        "at": "2026-10-25T00:30:59.025530+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 6 cau",
+        "at": "2026-10-25T00:31:05.093637+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T00:31:06.736805+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-25T00:34:51.719743+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-25T00:34:51.801952+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 19965484 bytes",
+        "at": "2026-10-25T00:35:44.997339+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T00:35:45.331965+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20081436/pexels-photo-20081436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12940791/pexels-photo-12940791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37085127/pexels-photo-37085127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34705686/pexels-photo-34705686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33673252/pexels-photo-33673252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39362467/pexels-photo-39362467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31579342/pexels-photo-31579342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14950455/pexels-photo-14950455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14600675/pexels-photo-14600675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10947659/pexels-photo-10947659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9001064/pexels-photo-9001064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12572470/pexels-photo-12572470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "552f5225c4",
     "kind": "short",
     "channel": "Channel2",
