@@ -1,5 +1,163 @@
 [
   {
+    "id": "3d8adc0832",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Hannibal Escaped a Roman Trap With 2,000 Cows",
+    "idea": {
+      "title": "How Hannibal Escaped a Roman Trap With 2,000 Cows",
+      "hook": "Trapped inside a rocky canyon with 40,000 Roman troops closing in, Hannibal Barca saved his army using 2,000 cattle and torches.",
+      "beats": [
+        "In 217 BC, Roman general Fabius Maximus trapped Hannibal's invading army inside the mountain-locked valley of Ager Falernus.",
+        "With every pass heavily fortified by Roman legions, Hannibal tied dry bundles of wood to the horns of 2,000 captured oxen.",
+        "At midnight, his scouts lit the wood ablaze and drove the terrified herd up a steep, uninhabited ridge.",
+        "Tricked into believing the torch-lit herd was the Carthaginian army flanking them, Roman sentries rushed to intercept the cows.",
+        "Hannibal silently marched his entire army through the abandoned main mountain pass without losing a single soldier."
+      ],
+      "keywords": [
+        "Hannibal Barca painting",
+        "Roman legion engraving",
+        "Battle of Cannae art",
+        "Ancient Roman soldiers drawing",
+        "Vintage Carthage war map"
+      ],
+      "tags": [
+        "history",
+        "hannibal",
+        "ancientrome",
+        "militarytactics",
+        "ancienthistory",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Two thousand flaming cows once humiliated forty thousand Roman legionaries.",
+        "search": "hannibal barca marble bust statue",
+        "caption": "2,000 cows once saved Hannibal from total destruction."
+      },
+      {
+        "narration": "In the autumn of 217 BC, Carthage's greatest general was completely encircled in southern Italy.",
+        "search": "ancient carthage second punic war map engraving",
+        "caption": "In 217 BC, Hannibal Barca was trapped deep inside Italy."
+      },
+      {
+        "narration": "Roman dictator Quintus Fabius Maximus had sealed every mountain pass leading out of the valley of Ager Falernus.",
+        "search": "quintus fabius maximus roman bust statue",
+        "caption": "Roman dictator Fabius Maximus fortified every mountain exit."
+      },
+      {
+        "narration": "Walled in by sheer limestone cliffs and entrenched Roman cohorts, Hannibal's army faced starvation.",
+        "search": "roman legion soldiers vintage engraving",
+        "caption": "40,000 Roman troops held the fortified high ground."
+      },
+      {
+        "narration": "Rather than force a suicidal frontal assault, Hannibal rounded up two thousand captured draft oxen.",
+        "search": "ancient roman cattle oxen woodcut illustration",
+        "caption": "Hannibal gathered 2,000 captured oxen in total secrecy."
+      },
+      {
+        "narration": "His soldiers tied bundles of dry pine and vine cuttings directly to the animals' horns.",
+        "search": "ancient carthaginian soldiers camp oil painting",
+        "caption": "Dry bundles of wood were lashed to their horns."
+      },
+      {
+        "narration": "At midnight, light infantry lit the wood ablaze and drove the panicked herd up an unguarded ridge.",
+        "search": "ancient night battle fire torches oil painting",
+        "caption": "At midnight, the horns were set ablaze."
+      },
+      {
+        "narration": "Seeing hundreds of moving torches, Roman sentries abandoned the main gorge to intercept what they thought was the Carthaginian army.",
+        "search": "ancient mountain pass night torches historic illustration",
+        "caption": "Roman sentries rushed to intercept the fiery stampede."
+      },
+      {
+        "narration": "Reaching the high ridge in pitch darkness, four thousand Roman legionaries collided not with Carthaginian soldiers, but with wild, flaming cattle that ignited brushfires across the mountain.",
+        "search": "ancient roman soldiers fighting battle vintage engraving",
+        "caption": "Roman sentries charged straight into the blinding cattle stampede."
+      },
+      {
+        "narration": "With the primary defile left completely unguarded, Hannibal quietly marched his entire thirty-thousand-man army and plunder through the pass before dawn.",
+        "search": "hannibal barca army crossing mountain pass oil painting",
+        "caption": "Hannibal slipped his entire army through the gorge completely unharmed."
+      },
+      {
+        "narration": "By sunrise, Roman dictator Fabius Maximus could only watch the empty valley, outwitted by Hannibal Barca and a herd of two thousand cows.",
+        "search": "quintus fabius maximus roman dictator bust statue",
+        "caption": "Hannibal turned certain Roman slaughter into an immortal tactical legend."
+      },
+      {
+        "narration": "Hannibal Barca defeated forty thousand Romans using two thousand cows.",
+        "search": "Hannibal Barca marble bust statue",
+        "caption": "Hannibal defeated 40,000 Romans with 2,000 cows."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T08:38:08.962553+00:00",
+    "updated_at": "2026-10-25T08:53:10.404841+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-25T08:45:38.944499+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "353 chars (cat 234 de vua 55s)",
+        "at": "2026-10-25T08:47:36.507061+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-25T08:47:40.133313+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T08:47:41.011542+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-25T08:52:40.274370+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-25T08:52:40.332043+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 12715478 bytes",
+        "at": "2026-10-25T08:53:10.147005+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T08:53:10.404818+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37102067/pexels-photo-37102067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057044/pexels-photo-29057044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32466096/pexels-photo-32466096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484114/pexels-photo-16484114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9323585/pexels-photo-9323585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10311383/pexels-photo-10311383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5257407/pexels-photo-5257407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16375122/pexels-photo-16375122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12184734/pexels-photo-12184734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dbef8e3958",
     "kind": "short",
     "channel": "Channel2",
