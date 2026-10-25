@@ -1,5 +1,166 @@
 [
   {
+    "id": "ed3c920d86",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm ngửa cổ khi chảy máu cam ai cũng vô tình mắc",
+    "idea": {
+      "title": "Sai lầm ngửa cổ khi chảy máu cam ai cũng vô tình mắc",
+      "hook": "Khi bị chảy máu cam, bạn liền ngửa cổ ra sau đúng không? Các bác sĩ cảnh báo đây là sai lầm nguy hiểm mà 90% chúng ta đều đang mắc phải.",
+      "beats": [
+        "Ngửa cổ không hề cầm máu, nó chỉ khiến dòng máu chảy ngược xuống thực quản và dạ dày của bạn.",
+        "Máu trong dạ dày gây kích ứng niêm mạc dữ dội, dẫn tới buồn nôn hoặc nguy cơ máu tràn vào khí quản gây ngạt thở.",
+        "Cách chuẩn y khoa: Hơi cúi đầu về phía trước, dùng ngón tay ép chặt hai cánh mũi mềm liên tục 10 phút và thở bằng miệng."
+      ],
+      "keywords": [
+        "nosebleed first aid",
+        "person pinching nose",
+        "emergency care blood",
+        "medical animation bleeding",
+        "head leaning forward"
+      ],
+      "tags": [
+        "#chaymaucam",
+        "#suckhoe",
+        "#sodapchuan",
+        "#kienthuc",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngửa cổ khi chảy máu cam là sai lầm chết người.",
+        "search": "hoat hinh 3d nguoi bi chay mau mui ngua co",
+        "caption": "Ngửa cổ khi chảy máu cam là sai lầm chết người"
+      },
+      {
+        "narration": "Bản năng khiến bạn lập tức ngửa cổ ra sau để máu không nhỏ xuống áo.",
+        "search": "3d render nhan vat hoat hinh dua tay len mui",
+        "caption": "Bản năng ai cũng ngửa cổ ngăn máu chảy"
+      },
+      {
+        "narration": "Thấy máu ngừng rơi ra ngoài, hầu hết mọi người nghĩ vết thương đã cầm.",
+        "search": "hoat hinh giot mau roi xuong san nha",
+        "caption": "Máu ngừng nhỏ không có nghĩa đã cầm"
+      },
+      {
+        "narration": "Nhưng thực tế mạch máu bên trong mũi vẫn đang tiếp tục vỡ và tuôn chảy.",
+        "search": "3d animation mat cat khoang mui va mach mau",
+        "caption": "Mạch máu trong mũi vẫn liên tục chảy"
+      },
+      {
+        "narration": "Tư thế ngửa cổ khiến dòng máu đổi hướng, chảy ồ ạt xuống thành họng.",
+        "search": "do hoa 3d mo phong dong chat long chay xuong co hong",
+        "caption": "Dòng máu đảo chiều chảy ngược vào họng"
+      },
+      {
+        "narration": "Bạn vô tình nuốt lượng lớn máu tươi thẳng xuống đường thực quản.",
+        "search": "hoat hinh mo phong thuc quan va da day nguoi",
+        "caption": "Máu tươi bị nuốt trọn vào dạ dày"
+      },
+      {
+        "narration": "Chất sắt đậm đặc trong máu lập tức kích thích niêm mạc dạ dày co bóp dữ dội.",
+        "search": "3d animation da day bi viem co bop du doi",
+        "caption": "Dạ dày bị kích ứng dữ dội"
+      },
+      {
+        "narration": "Cơn buồn nôn ập đến, nhưng hiểm họa lớn hơn vẫn đang chực chờ ở khí quản.",
+        "search": "nhan vat hoat hinh om bung buon non kho chiu",
+        "caption": "Mối nguy ngạt thở đang rình rập phía trước"
+      },
+      {
+        "narration": "Nếu vô tình hít phải trong lúc hoảng loạn, dòng máu sẽ tràn thẳng vào thanh quản gây co thắt phế quản và ngạt thở cấp tính.",
+        "search": "hoat hinh 3d phoi va khi quan bi tac nghen do chat long",
+        "caption": "Máu tràn vào đường thở gây ngạt cấp tính"
+      },
+      {
+        "narration": "Hành động ngửa cổ hoàn toàn không cầm máu, nó chỉ đánh lừa thị giác và biến vết rách nhỏ thành cơn ngạt thở nguy hiểm.",
+        "search": "mo hinh 3d mat cat co the nguoi dong mau chay nguoc xuong co hong",
+        "caption": "Ngửa cổ chỉ giấu đi lượng máu đang mất"
+      },
+      {
+        "narration": "Thực tế 90% điểm chảy máu nằm ở đám rối mạch máu ngay vách ngăn trước, nơi chỉ cần áp lực cơ học là có thể tự cầm.",
+        "search": "hoat hinh 3d giai phau vach ngan mui va mao mach mau",
+        "caption": "Điểm xuất huyết nằm ngay vách ngăn trước"
+      },
+      {
+        "narration": "Quy tắc sống còn: hãy ngồi thẳng, hơi cúi nhẹ đầu về phía trước rồi dùng hai ngón tay ép chặt phần sụn mềm của cánh mũi.",
+        "search": "hoat hinh 3d nguoi cui dau dung tay bop chat canh mui",
+        "caption": "Hơi cúi đầu và bóp chặt hai cánh mũi"
+      },
+      {
+        "narration": "Thở đều bằng miệng và giữ nguyên lực ép liên tục suốt 10 phút, cục máu đông tự nhiên sẽ bịt kín hoàn toàn điểm rách.",
+        "search": "dong ho dem nguoc 10 phut do hoa chuyen dong cuc mau dong",
+        "caption": "Giữ chặt 10 phút để máu tự đông kín"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-25T13:03:40.962338+00:00",
+    "updated_at": "2026-10-25T13:15:33.161526+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-25T13:09:51.301646+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "446 chars",
+        "at": "2026-10-25T13:14:12.324409+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.1s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-25T13:14:20.539171+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-25T13:14:22.042967+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-25T13:14:36.784287+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-25T13:14:36.862691+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.1s 18808092 bytes",
+        "at": "2026-10-25T13:15:32.829714+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-25T13:15:33.161505+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/32383407/13812536_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816982/8816982-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35684740/15123512_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/25935019/11922004_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/32324604/13788782_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6801387/6801387-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39905195/17025410_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32957690/14046830_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40411821/17266523_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7812446/7812446-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7581718/7581718-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8720761/8720761-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7034348/7034348-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "8f3464d14c",
     "kind": "short",
     "channel": "Channel3",
