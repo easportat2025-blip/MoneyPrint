@@ -1,5 +1,161 @@
 [
   {
+    "id": "607c74d9de",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Who Ripped Out His Wounds to Spite Caesar",
+    "idea": {
+      "title": "The Roman Who Ripped Out His Wounds to Spite Caesar",
+      "hook": "Cato the Younger hated Julius Caesar so fiercely that when a doctor stitched his fatal stab wound, he waited until he was alone and tore his own body open to deny Caesar the glory of mercy.",
+      "beats": [
+        "Julius Caesar conquered Rome and humiliated his worst enemies by pardoning them, proving their absolute insignificance.",
+        "Senator Cato the Younger viewed Caesar's royal pardon as the ultimate disgrace to the dying Roman Republic.",
+        "After Caesar's triumph at Thapsus, Cato stabbed himself with his own gladius, but weeping servants summoned a doctor who stitched his belly.",
+        "The moment the room emptied, Cato ripped the fresh stitches open with his bare hands, dying on his own terms to deny Caesar a propaganda victory."
+      ],
+      "keywords": [
+        "Cato the Younger death painting",
+        "Julius Caesar bust marble",
+        "Roman Senate engraving ancient",
+        "Battle of Thapsus historic map",
+        "classical Roman suicide classical art"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Julius Caesar",
+        "Roman History",
+        "Cato",
+        "History Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman senator killed himself twice to spite Caesar.",
+        "search": "Cato the Younger death painting classical art",
+        "caption": "Dying twice to spite Julius Caesar."
+      },
+      {
+        "narration": "In 46 BC, Julius Caesar consolidated absolute power by granting strategic pardons to his defeated enemies.",
+        "search": "Julius Caesar bust marble close up",
+        "caption": "46 BC: Caesar pardons enemies to humiliate them."
+      },
+      {
+        "narration": "Senator Marcus Porcius Cato viewed Caesar's royal mercy as an unpardonable disgrace to the Roman Republic.",
+        "search": "Roman Senate engraving ancient illustration",
+        "caption": "Cato refused to accept Caesar's mercy."
+      },
+      {
+        "narration": "After Caesar's victory at the Battle of Thapsus, Cato barricaded himself inside the city of Utica.",
+        "search": "Battle of Thapsus historic map engraving",
+        "caption": "Defeat at Thapsus trapped Cato in Utica."
+      },
+      {
+        "narration": "Refusing to live as Caesar's captive, Cato drew his gladius and plunged it into his own abdomen.",
+        "search": "ancient roman gladius sword museum artifact",
+        "caption": "Cato stabbed himself in the abdomen."
+      },
+      {
+        "narration": "Weeping servants rushed inside with a physician, who carefully stitched Cato's open abdominal wound.",
+        "search": "ancient Roman medical instruments bronze artifact",
+        "caption": "A doctor stitched his fatal wound."
+      },
+      {
+        "narration": "The physician stabilized his condition, leaving Cato guarded in his chambers to recover overnight.",
+        "search": "ancient Roman bedroom oil painting classical",
+        "caption": "Cato waited silently until he was alone."
+      },
+      {
+        "narration": "The moment he was unmonitored, Cato tore open the fresh stitches with his bare hands.",
+        "search": "death of cato oil painting historic art",
+        "caption": "He ripped open his stitches with bare hands."
+      },
+      {
+        "narration": "Bleeding uncontrollably in Utica in 46 BC, forty-eight-year-old Cato died before doctors could intervene, successfully denying Caesar his public pardon.",
+        "search": "death of cato classical oil painting",
+        "caption": "Cato died in 46 BC to deny Caesar a propaganda victory."
+      },
+      {
+        "narration": "When news reached Julius Caesar, he reportedly lamented that Cato had begrudged him the glory of saving his rival's life.",
+        "search": "julius caesar marble bust statue",
+        "caption": "Caesar lamented losing the chance to pardon his greatest rival."
+      },
+      {
+        "narration": "By choosing gruesome self-destruction over royal mercy, Cato transformed his final breath into Rome's ultimate political statement against tyranny.",
+        "search": "ancient roman senate engraving",
+        "caption": "Cato's defiant death made him the ultimate symbol of liberty."
+      },
+      {
+        "narration": "Why did Cato tear open his own stitched wounds?",
+        "search": "cato the younger death oil painting",
+        "caption": "Why did Cato tear open his own stitched wounds?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T05:59:06.789639+00:00",
+    "updated_at": "2026-10-26T06:06:07.420988+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-26T06:01:13.303964+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "370 chars (cat 248 de vua 55s)",
+        "at": "2026-10-26T06:02:43.233043+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.5s en-US-GuyNeural 4 cau",
+        "at": "2026-10-26T06:02:45.108449+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T06:02:46.295494+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-26T06:05:27.014928+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T06:05:27.094781+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.6s 12374753 bytes",
+        "at": "2026-10-26T06:06:07.062804+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T06:06:07.420967+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20413467/pexels-photo-20413467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731095/pexels-photo-11731095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37847715/pexels-photo-37847715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27112676/pexels-photo-27112676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224014/pexels-photo-38224014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40379019/pexels-photo-40379019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29822261/pexels-photo-29822261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6108929/pexels-photo-6108929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5901846/pexels-photo-5901846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/615344/julius-caesar-rome-roman-empire-615344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38422294/pexels-photo-38422294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12430923/pexels-photo-12430923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "87e751e5fe",
     "kind": "short",
     "channel": "Channel3",
