@@ -1,5 +1,161 @@
 [
   {
+    "id": "01136fc6c9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Alexander Regretted Burning the Ancient World",
+    "idea": {
+      "title": "Why Alexander Regretted Burning the Ancient World",
+      "hook": "In 330 BC, Alexander the Great set the world's greatest palace ablaze during a drunken banquet—and spent his final years mourning the ash.",
+      "beats": [
+        "Persepolis was the architectural jewel of the Persian Empire, holding centuries of priceless archives and royal treasures.",
+        "Spurred by wine and a courtesan's dare during a victory feast, Alexander personally hurled the first torch into the cedar roof.",
+        "The flames engulfed the citadel, incinerating irreplaceable knowledge and millennia-old Zoroastrian sacred texts.",
+        "According to ancient historians, once sobriety returned at dawn, Alexander wept in bitter regret for erasing what he conquered."
+      ],
+      "keywords": [
+        "Alexander the Great banquet painting",
+        "Persepolis ruins burning engraving",
+        "ancient Persian palace architectural drawing",
+        "Alexander the Great marble bust",
+        "ancient Greek victory feast vintage illustration"
+      ],
+      "tags": [
+        "alexanderthegreat",
+        "ancienthistory",
+        "persianempire",
+        "historyfacts",
+        "ancientgreece"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 330 BC, Alexander destroyed his own greatest prize.",
+        "search": "Alexander the Great marble bust statue",
+        "caption": "330 BC: Alexander destroyed his own prize"
+      },
+      {
+        "narration": "Persepolis stood as the ceremonial heart of the Persian Empire, safeguarding centuries of imperial records and immense royal wealth.",
+        "search": "Persepolis ancient palace ruins archaeological site engraving",
+        "caption": "Persepolis held centuries of Persian wealth"
+      },
+      {
+        "narration": "After defeating Darius III at Gaugamela, the Macedonian king occupied the imperial terrace without facing armed resistance.",
+        "search": "Battle of Gaugamela Alexander Darius ancient mosaic",
+        "caption": "Alexander seized the capital without resistance"
+      },
+      {
+        "narration": "In May of 330 BC, Alexander hosted a lavish victory banquet fueled by heavy wine inside the grand palace.",
+        "search": "ancient Greek banquet symposium oil painting",
+        "caption": "A victory banquet inside the cedar palace"
+      },
+      {
+        "narration": "Ancient historians Arrian and Plutarch record that an Athenian woman named Thais challenged the intoxicated king to avenge Athens.",
+        "search": "Thais Alexander the Great torch vintage engraving",
+        "caption": "Historians record a drunken dare sparked disaster"
+      },
+      {
+        "narration": "Alexander seized a torch, led a rowdy procession through the corridors, and cast fire into the Palace of Xerxes.",
+        "search": "Alexander setting fire to Persepolis oil painting",
+        "caption": "Alexander hurled fire into the royal palace"
+      },
+      {
+        "narration": "Fueled by dry timbers, the blaze consumed the massive cedar beams and collapsed the colossal limestone columns.",
+        "search": "burning of Persepolis palace historical illustration",
+        "caption": "Flames consumed the colossal limestone halls"
+      },
+      {
+        "narration": "Trapped inside the inferno were thousands of royal archives and early Zoroastrian scriptures inscribed in gold ink.",
+        "search": "ancient Persian cuneiform clay tablet artifact",
+        "caption": "Priceless Zoroastrian scriptures burned to ash"
+      },
+      {
+        "narration": "By daybreak in 330 BC, ancient historians record that Alexander attempted to halt the flames, realizing he had incinerated the imperial seat he meant to claim.",
+        "search": "Alexander the Great surveying ruins of Persepolis oil painting",
+        "caption": "At dawn, Alexander realized he had destroyed his own capital."
+      },
+      {
+        "narration": "The biographer Plutarch noted that Alexander deeply repented the destruction, which alienated the Persian nobility whose allegiance was essential to govern the empire.",
+        "search": "Alexander the Great marble bust statue close up",
+        "caption": "Historians record Alexander repented alienating the Persian nobility."
+      },
+      {
+        "narration": "Persepolis was never rebuilt, leaving its charred columns as an eternal monument to the night Alexander erased the world he conquered.",
+        "search": "Persepolis palace ruins columns engraving vintage",
+        "caption": "Persepolis remained in ruins, an eternal monument to imperial destruction."
+      },
+      {
+        "narration": "Alexander the Great burned his greatest prize in 330 BC.",
+        "search": "Alexander the Great marble bust face closeup",
+        "caption": "Alexander destroyed his greatest victory in 330 BC."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T00:33:26.527049+00:00",
+    "updated_at": "2026-10-26T00:40:04.007723+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-26T00:35:57.989133+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "413 chars (cat 171 de vua 55s)",
+        "at": "2026-10-26T00:37:50.169343+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-26T00:37:53.222401+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T00:37:54.242553+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-26T00:39:33.140465+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T00:39:33.192227+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 13826189 bytes",
+        "at": "2026-10-26T00:40:03.724820+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T00:40:04.007708+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5918775/pexels-photo-5918775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38790396/pexels-photo-38790396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28201701/pexels-photo-28201701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20576918/pexels-photo-20576918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39503776/pexels-photo-39503776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12058835/pexels-photo-12058835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158653/pexels-photo-33158653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19252599/pexels-photo-19252599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8109752/pexels-photo-8109752.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8109752/pexels-photo-8109752.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158643/pexels-photo-33158643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36106639/pexels-photo-36106639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "28adcd0e3f",
     "kind": "short",
     "channel": "Channel2",
