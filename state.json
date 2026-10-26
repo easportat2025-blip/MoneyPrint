@@ -1,5 +1,161 @@
 [
   {
+    "id": "45d0636106",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Ottoman Sultan Drowned His Entire Harem",
+    "idea": {
+      "title": "Why an Ottoman Sultan Drowned His Entire Harem",
+      "hook": "In 1640, Ottoman Sultan Ibrahim I bound 280 royal concubines in weighted sacks and drowned them in the sea over a single unproven rumor.",
+      "beats": [
+        "Sultan Ibrahim I suffered from extreme paranoia, earning the infamous title Ibrahim the Mad.",
+        "When a rumor spread that a concubine had been unfaithful, he refused to investigate single individuals.",
+        "Instead, he ordered his royal guards to bind all 280 harem concubines in stone-weighted sacks.",
+        "They were cast into the Bosphorus strait at midnight, with only one woman surviving to reveal the horror."
+      ],
+      "keywords": [
+        "ottoman empire painting",
+        "sultan ibrahim portrait",
+        "bosphorus sea old map",
+        "ottoman harem engraving",
+        "17th century palace illustration"
+      ],
+      "tags": [
+        "#history",
+        "#historyfacts",
+        "#ottomanempire",
+        "#ancienthistory",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1640, an Ottoman sultan executed his entire harem.",
+        "search": "ottoman sultan ibrahim portrait oil painting",
+        "caption": "In 1640, Sultan Ibrahim I purged his entire royal harem."
+      },
+      {
+        "narration": "A single surviving witness escaped the dark Bosphorus waters to expose a gruesome imperial crime.",
+        "search": "bosphorus strait istanbul 17th century old map engraving",
+        "caption": "One survivor lived to recount the night of terror."
+      },
+      {
+        "narration": "Sultan Ibrahim I ruled the Ottoman Empire from Constantinople, tormented by severe paranoia and unstable mental health.",
+        "search": "topkapi palace constantinople 17th century illustration engraving",
+        "caption": "Sultan Ibrahim I inherited the empire under deep mental torment."
+      },
+      {
+        "narration": "Whispers within the Topkapi Palace alleged that a concubine was carrying out a secret affair.",
+        "search": "ottoman empire harem concubines 17th century engraving",
+        "caption": "A single palace rumor triggered terrifying consequences."
+      },
+      {
+        "narration": "Incapable of singling out the guilty individual, Ibrahim made a horrifying decision targeting all 280 women.",
+        "search": "ottoman royal guards janissaries 17th century painting",
+        "caption": "Unable to identify one suspect, the sultan condemned them all."
+      },
+      {
+        "narration": "Palace guards rounded up the concubines at midnight, binding each woman inside a stone-weighted sack.",
+        "search": "17th century stone palace dungeon engraving",
+        "caption": "Two hundred and eighty women were bound in weighted sacks."
+      },
+      {
+        "narration": "One by one, the women were ferried out into the black waters of the Bosphorus Strait.",
+        "search": "bosphorus sea night boat sailing 17th century painting",
+        "caption": "The guards cast the weighted sacks into the sea."
+      },
+      {
+        "narration": "The silent midnight sea swallowed the victims, until a French diver later made a shocking discovery beneath the waves.",
+        "search": "17th century naval ship bosphorus strait painting",
+        "caption": "A submerged discovery later revealed the tragic scale of the massacre."
+      },
+      {
+        "narration": "According to contemporary European travelers, a French diver later explored the depths of the Bosphorus and encountered rows of weighted sacks resting on the seafloor. Miraculously, one concubine had torn free from her bindings and was rescued by a passing merchant ship bound for France.",
+        "search": "bosphorus strait 17th century engraving",
+        "caption": "Weighted sacks were later discovered standing upright along the sea floor."
+      },
+      {
+        "narration": "The mounting terror and erratic purges eventually shattered the court's loyalty, prompting the Janissaries and the Grand Mufti to stage a revolt in 1648. Conspirators broke into the palace, dethroned Ibrahim, and locked him inside the Topkapi Palace prison.",
+        "search": "janissaries ottoman empire antique engraving",
+        "caption": "In 1648, the Janissaries revolted and imprisoned the tyrant."
+      },
+      {
+        "narration": "On August 18, 1648, royal executioners strangled Sultan Ibrahim with a silk bowstring. His eight-year reign closed in bloodshed, leaving behind the dark legacy of nearly three hundred innocent women drowned over an unverified rumor.",
+        "search": "sultan ibrahim i ottoman portrait painting",
+        "caption": "Ibrahim I was executed in 1648, ending his reign of terror."
+      },
+      {
+        "narration": "In 1640, 280 royal women vanished overnight.",
+        "search": "bosphorus sea old map engraving",
+        "caption": "280 Royal Women Vanished In A Single Night"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T23:27:48.149609+00:00",
+    "updated_at": "2026-10-26T23:36:01.126140+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-26T23:32:52.359915+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "434 chars (cat 139 de vua 55s)",
+        "at": "2026-10-26T23:33:40.987107+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-26T23:33:44.839950+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T23:33:46.446676+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-26T23:35:08.236794+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T23:35:08.323170+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 16185679 bytes",
+        "at": "2026-10-26T23:36:00.775035+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T23:36:01.126120+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17755839/pexels-photo-17755839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18013324/pexels-photo-18013324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14201190/pexels-photo-14201190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17375446/pexels-photo-17375446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16034679/pexels-photo-16034679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37584149/pexels-photo-37584149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11290385/pexels-photo-11290385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18939645/pexels-photo-18939645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38071523/pexels-photo-38071523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13157278/pexels-photo-13157278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37139890/pexels-photo-37139890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18120532/pexels-photo-18120532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c4c827e2ce",
     "kind": "short",
     "channel": "Channel2",
