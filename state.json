@@ -1,5 +1,599 @@
 [
   {
+    "id": "ce6a616e0b",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Ivan the Terrible Blinded the Architects of St. Basil's Cathedral",
+    "idea": {
+      "title": "Why Ivan the Terrible Blinded the Architects of St. Basil's Cathedral",
+      "hook": "When Tsar Ivan the Terrible stood before his finished masterpiece in Red Square, he didn't reward the architects with gold—he allegedly gouged out their eyes so they could never build anything as beautiful again.",
+      "beats": [
+        "In October 1552, Ivan IV captures the Tatar stronghold of Kazan, a landmark victory that demands an unprecedented monument in Moscow.",
+        "Ivan commissions the architects—historically recorded as Postnik Yakovlev and Barma—to erect the Cathedral of the Intercession, now known as St. Basil's.",
+        "Over six grueling years, the builders craft a radical architectural marvel of flame-shaped onion domes unlike anything seen in the medieval world.",
+        "In 1561, the completed cathedral is consecrated in Red Square, instantly dazzling the Muscovite populace and the deeply religious Tsar.",
+        "The chilling legend takes root: Ivan summons the master architects to ask whether they could ever design a structure to surpass this holy wonder.",
+        "Trusting their artistic genius, the architects proudly answer that they could build something even more magnificent.",
+        "Seized by pathological jealousy and paranoia, Ivan allegedly orders his guards to gouge out their eyes on the spot so his cathedral remains unmatched.",
+        "A deep dive into the psychological descent of Ivan IV: how early childhood trauma, court poisoning, and the death of his wife Anastasia fueled extreme cruelty.",
+        "The reign of terror under the Oprichnina, Ivan's ruthless black-clad enforcers, which made such horrifying rumors immediately plausible to ordinary citizens.",
+        "The historical reality: 19th-century records reveal Postnik Yakovlev actively working on the Kazan Kremlin years after St. Basil's was finished.",
+        "The birth of the myth: how Western European travelers and diplomats circulated the blinding story to reinforce tropes of Russian barbarism.",
+        "Why the legend endures centuries later: as a haunting symbol of Ivan's legacy, where transcendent beauty and ruthless tyranny were inextricably linked."
+      ],
+      "keywords": [
+        "Ivan the Terrible",
+        "St Basils Cathedral",
+        "Russian history",
+        "Tsar Ivan IV",
+        "Red Square",
+        "Postnik and Barma",
+        "Russian Tsars",
+        "Medieval history",
+        "Dark history documentary",
+        "Moscow history"
+      ],
+      "tags": [
+        "#ivantheterrible",
+        "#stbasilscathedral",
+        "#russianhistory",
+        "#historydocumentary",
+        "#medievalhistory",
+        "#moscow",
+        "#darkhistory",
+        "#tsarsofrussia",
+        "#historicalmyths",
+        "#worldhistory"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE BLINDED HIS OWN BUILDERS"
+    },
+    "scenes": [
+      {
+        "narration": "Did Ivan the Terrible blind his master architects? In 1561, a gruesome legend emerged from Moscow's Red Square.",
+        "search": "st basils cathedral moscow 19th century engraving",
+        "caption": "Did Ivan the Terrible blind his architects?"
+      },
+      {
+        "narration": "In October 1552, Tsar Ivan IV captured the Tatar stronghold of Kazan, a landmark victory for the Tsardom of Russia. To commemorate the triumph, he ordered an unprecedented cathedral built in Moscow.",
+        "search": "siege of kazan 1552 russian painting",
+        "caption": "October 1552: Ivan IV captures Kazan"
+      },
+      {
+        "narration": "Master builders Postnik Yakovlev and Barma directed the construction of the Cathedral of the Intercession from 1555 to 1561. Over six grueling years, they raised a complex of flame-shaped onion domes unlike anything in Europe.",
+        "search": "st basils cathedral construction medieval manuscript miniature",
+        "caption": "1555–1561: Architects erect Red Square's masterpiece"
+      },
+      {
+        "narration": "Following the cathedral's consecration in 1561, a chilling rumor spread across the continent. Legend claimed Ivan asked the architects if they could build an even finer structure, then gouged out their eyes when they said yes.",
+        "search": "ivan the terrible portrait painting viktor vasnetsov",
+        "caption": "Legend claims Ivan blinded the architects"
+      },
+      {
+        "narration": "The violent story gained immediate traction because Ivan IV was descending into profound instability following the 1560 death of his wife, Anastasia Romanovna. By 1565, his state-sanctioned secret police, the Oprichnina, terrorized Muscovite society through public executions.",
+        "search": "oprichnik ivan the terrible secret police oil painting",
+        "caption": "1565: The Oprichnina terrorizes Russia"
+      },
+      {
+        "narration": "Nineteenth-century archival discoveries shattered this centuries-old horror story. Official records revealed that architect Postnik Yakovlev was alive and actively designing the walls of the Kazan Kremlin years after St. Basil's was finished.",
+        "search": "kazan kremlin walls 19th century photo",
+        "caption": "Historical records prove the architect survived"
+      },
+      {
+        "narration": "Foreign envoys and Western European travelers, including diplomat Adam Olearius in the seventeenth century, popularized the blinding tale. Published travelogues routinely exaggerated Russian despotism to fit Western anti-Muscovite tropes.",
+        "search": "muscovy traveler account 17th century book engraving",
+        "caption": "Foreign envoys popularized the myth"
+      },
+      {
+        "narration": "Though historically false, the myth endures because it captures the terrifying duality of Ivan IV's reign. St. Basil's Cathedral stands as an architectural triumph forever linked to the dark shadow of Russia's first Tsar.",
+        "search": "st basils cathedral red square 1890 archival photo",
+        "caption": "Myth and legacy at St. Basil's Cathedral"
+      },
+      {
+        "narration": "In October 1552, twenty-two-year-old Tsar Ivan IV led over one hundred thousand Russian troops to capture the Tatar fortress of Kazan.",
+        "search": "conquest of kazan 1552 oil painting",
+        "caption": "October 1552: Ivan IV captures the Tatar fortress of Kazan."
+      },
+      {
+        "narration": "To commemorate this decisive military triumph, Ivan ordered the construction of a monument on Moscow's Red Square in 1555.",
+        "search": "moscow red square 16th century engraving",
+        "caption": "1555: Construction begins on Red Square's grand victory monument."
+      },
+      {
+        "narration": "Master builders Postnik Yakovlev and Ivan Barma were chosen to design an unprecedented stone cathedral complex.",
+        "search": "st basils cathedral construction medieval manuscript illustration",
+        "caption": "Master builders Postnik Yakovlev and Barma direct the layout."
+      },
+      {
+        "narration": "By July 1561, the completed Cathedral of the Intercession was consecrated, featuring distinct flame-shaped brick domes.",
+        "search": "st basils cathedral 16th century detail engraving",
+        "caption": "July 1561: The Cathedral of the Intercession is consecrated."
+      },
+      {
+        "narration": "The sudden death of Tsaritsa Anastasia Romanovna in August 1560 shattered Ivan's emotional stability and deepened his distrust of the nobility.",
+        "search": "anastasia romanovna tsarina portrait painting",
+        "caption": "August 1560: Death of Tsaritsa Anastasia sparks Ivan's paranoia."
+      },
+      {
+        "narration": "In 1565, Ivan established the Oprichnina, executing thousands through a private army of black-clad enforcers.",
+        "search": "oprichniki ivan the terrible oil painting",
+        "caption": "1565: The Oprichnina initiates a deadly reign of state terror."
+      },
+      {
+        "narration": "Surviving official records from 1564 show architect Postnik Yakovlev alive and constructing the defensive walls of the Kazan Kremlin.",
+        "search": "kazan kremlin 16th century map engraving",
+        "caption": "1564 records prove Postnik Yakovlev continued building in Kazan."
+      },
+      {
+        "narration": "Although historical evidence debunks the blinding legend, it persists as a symbol of Ivan IV's terrifying reign.",
+        "search": "ivan the terrible portrait painting",
+        "caption": "Ivan IV's legacy forever links tragic cruelty with architectural genius."
+      },
+      {
+        "narration": "In 1578, German adventurer Heinrich von Staden recorded rumors of Ivan's court, laying the groundwork for Western travelogues detailing imperial atrocities.",
+        "search": "Heinrich von Staden engraving portrait 16th century",
+        "caption": "Heinrich von Staden's 16th-century accounts popularized tales of Ivan's brutality."
+      },
+      {
+        "narration": "During the protracted Livonian War, German and Polish printing presses widely distributed anti-Muscovite pamphlets portraying the Tsar as an unhinged tyrant.",
+        "search": "16th century German woodcut print pamphlet propaganda",
+        "caption": "European printing presses published pamphlets warning against Muscovite expansion."
+      },
+      {
+        "narration": "Ivan's true descent into ruthless paranoia escalated sharply after the sudden death of his first wife, Anastasia Romanovna, on August 7, 1560.",
+        "search": "Anastasia Romanovna icon painting portrait",
+        "caption": "The death of Tsarina Anastasia Romanovna in 1560 destabilized Ivan's mental state."
+      },
+      {
+        "narration": "Convinced that aristocratic boyars had murdered Anastasia with poison, the Tsar severed trust with his advisory council and demanded absolute authority.",
+        "search": "Russian boyars 16th century historical oil painting",
+        "caption": "Ivan accused his aristocratic boyars of poisoning the young Tsarina."
+      },
+      {
+        "narration": "In February 1565, Ivan instituted the Oprichnina, carving Russia into a personal fiefdom governed entirely by royal decree and state terror.",
+        "search": "Ivan the Terrible leaving Moscow 1564 oil painting",
+        "caption": "In 1565, Ivan established the Oprichnina to crush perceived internal treason."
+      },
+      {
+        "narration": "Ivan's personal guard, the Oprichniki, rode horses bearing severed dog heads and brooms to symbolize hunting down traitors and sweeping them away.",
+        "search": "Oprichniki riders Ivan the Terrible historical oil painting",
+        "caption": "Oprichniki carried severed dog heads symbolizing relentless pursuit of traitors."
+      },
+      {
+        "narration": "In January 1570, Ivan led the Oprichniki into Novgorod, ordering public executions, drownings, and mass looting that decimated thousands of citizens.",
+        "search": "Sack of Novgorod 1570 historical engraving",
+        "caption": "The 1570 Massacre of Novgorod claimed thousands of Russian lives."
+      },
+      {
+        "narration": "When a ruler systematically drowned noble families and razed his own cities, blinding two architects seemed entirely plausible to contemporary observers.",
+        "search": "Tsar Ivan IV the Terrible oil painting portrait",
+        "caption": "Documented imperial massacres made the architect blinding legend completely believable."
+      },
+      {
+        "narration": "The earliest recorded claims that Ivan blinded his architects appeared not in Russian chronicles, but in memoirs written by Western Europeans visiting Muscovy decades later.",
+        "search": "16th century european traveler engraving woodcut",
+        "caption": "The earliest blinding claims originated in Western European memoirs."
+      },
+      {
+        "narration": "English diplomat Jerome Horsey, who resided in Moscow between 1573 and 1591, gathered court rumors detailing the Tsar's cruelties for readers in London.",
+        "search": "Jerome Horsey portrait engraving",
+        "caption": "Jerome Horsey recorded Muscovite court rumors for English readers."
+      },
+      {
+        "narration": "German scholar Adam Olearius later popularized the blinding anecdote in his 1647 travelogue, illustrating Ivan IV as an oriental despot governed by envy.",
+        "search": "Adam Olearius 1647 travelogue map illustration engraving",
+        "caption": "Adam Olearius popularized the blinding tale in Western Europe."
+      },
+      {
+        "narration": "During the Livonian War of 1558 to 1583, German printing presses churned out propaganda broadsheets depicting Ivan as a monstrous tyrant to justify military alliances against Russia.",
+        "search": "Livonian War 16th century broadsheet woodcut print",
+        "caption": "16th-century European broadsheets weaponized stories of Ivan's brutality."
+      },
+      {
+        "narration": "Yet official Russian chronicles from the 1560s, which openly documented Ivan's purges of the boyars, contain no mention of any maiming at St. Basil's.",
+        "search": "Russian illuminated chronicle manuscript 16th century miniature",
+        "caption": "Muscovite chronicles documented Ivan's purges but never mentioned blinding architects."
+      },
+      {
+        "narration": "In 1895, archival historian Pyotr Zabelyshin unearthed state administrative rolls identifying the master builder as Postnik Yakovlev, nicknamed Barma.",
+        "search": "19th century archival document parchment manuscript photo",
+        "caption": "19th-century archives identified the chief architect as Postnik Yakovlev."
+      },
+      {
+        "narration": "Muscovite chancery records proved that in the winter of 1561, Ivan IV personally ordered Postnik Yakovlev to construct the stone fortifications of the Kazan Kremlin.",
+        "search": "Kazan Kremlin white stone fortress wall engraving",
+        "caption": "In 1561, Ivan commissioned Yakovlev to fortify Kazan."
+      },
+      {
+        "narration": "Yakovlev continued signing architectural blueprints well into the 1560s, yet Ivan's sudden assault on his own son in November 1581 would convince the world the Tsar was capable of anything.",
+        "search": "Ivan the Terrible killing his son oil painting Ilya Repin",
+        "caption": "Subsequent royal tragedies kept the dark cathedral legend alive."
+      },
+      {
+        "narration": "Following the death of Tsaritsa Anastasia Romanovna in August 1560, Ivan fell into deep paranoia, accusing his boyars of poisoning her and unleashing relentless purges across Moscow.",
+        "search": "Ivan the Terrible at the deathbed of his wife Anastasia Romanovna oil painting",
+        "caption": "Death of Anastasia Romanovna in August 1560 fueled royal paranoia."
+      },
+      {
+        "narration": "In February 1565, the Tsar established the Oprichnina, a brutal state-within-a-state governed by black-clad horsemen who executed thousands without trial.",
+        "search": "Oprichniki riders under Ivan the Terrible historical engraving",
+        "caption": "The Oprichnina in 1565 unleashed unprecedented state terror across Russia."
+      },
+      {
+        "narration": "Public executions and horrific tortures were carried out directly in Red Square, in the shadows of the newly consecrated Cathedral of the Intercession.",
+        "search": "Red Square Moscow executions medieval engraving",
+        "caption": "Mass executions occurred directly beneath the domes of St. Basil's."
+      },
+      {
+        "narration": "Because the Tsar routinely tortured loyal servants, ordinary citizens and foreign merchants readily believed that Ivan had mutilated his own royal architects.",
+        "search": "Boyars tortured by Ivan the Terrible historical woodcut",
+        "caption": "Routine royal atrocities made violent rumors immediately believable to contemporaries."
+      },
+      {
+        "narration": "Foreign diplomats and travelers, including English merchant Jerome Horsey in the late sixteenth century, recorded rumors of Ivan's brutality to report back to Western Europe.",
+        "search": "Jerome Horsey portrait painting 16th century engraving",
+        "caption": "Foreign diplomats like Jerome Horsey documented tales of royal cruelty."
+      },
+      {
+        "narration": "In 1634, German scholar Adam Olearius published a popular travelogue that formally recorded the story of the architects being blinded to prevent a rival cathedral.",
+        "search": "Adam Olearius travelogue to Muscovy 17th century book illustration",
+        "caption": "German scholar Adam Olearius popularized the blinding myth in 1634."
+      },
+      {
+        "narration": "Western European chroniclers frequently exaggerated Muscovite cruelty, using tales like the blinded architects to frame Russia as an exotic realm of oriental despotism.",
+        "search": "17th century map of Muscovy engraving",
+        "caption": "Western chroniclers framed Muscovy as a land of oriental despotism."
+      },
+      {
+        "narration": "Though Soviet historians later confirmed Postnik Yakovlev survived to design the Kazan Kremlin, the myth of the blinded builders refused to die.",
+        "search": "Kazan Kremlin stone walls 19th century archival photograph",
+        "caption": "Postnik Yakovlev's later work in Kazan contradicted the popular legend."
+      },
+      {
+        "narration": "Did Tsar Ivan the Terrible blind his architects so St. Basil's Cathedral could never be duplicated?",
+        "search": "st basils cathedral moscow russia oil painting 19th century",
+        "caption": "Did Ivan the Terrible blind his master architects?"
+      },
+      {
+        "narration": "In October 1552, Tsar Ivan IV conquered the Tatar stronghold of Kazan, demanding a grand cathedral in Red Square to commemorate his triumph.",
+        "search": "siege of kazan 1552 Russian history oil painting",
+        "caption": "October 1552: Ivan IV conquers the Khanate of Kazan."
+      },
+      {
+        "narration": "Master builders Postnik Yakovlev and Barma spent six years constructing a radical brick monument featuring flame-shaped onion domes.",
+        "search": "cathedral of the intercession st basils engraving old map",
+        "caption": "Architect Postnik Yakovlev engineered the architectural marvel."
+      },
+      {
+        "narration": "When the holy monument was consecrated in 1561, a terrifying tale emerged that Ivan asked the craftsmen if they could ever surpass it.",
+        "search": "tsar ivan iv the terrible portrait oil painting",
+        "caption": "Consecrated in 1561, St. Basil's dazzled medieval Moscow."
+      },
+      {
+        "narration": "Deepened by childhood trauma and the poisoning of his wife Anastasia, Ivan's mounting paranoia fueled extreme cruelty across Muscovy through his secret police, the Oprichnina.",
+        "search": "ivan the terrible oprichnik black riders engraving",
+        "caption": "Ivan's paranoia unleashed terror across 16th-century Russia."
+      },
+      {
+        "narration": "When the architects proudly boasted they could build a grander church, legend claims Ivan instantly ordered guards to gouge out their eyes.",
+        "search": "foreign envoys tsarist russia court painting",
+        "caption": "Rumors claimed Ivan blinded the builders out of jealousy."
+      },
+      {
+        "narration": "In reality, historical documents prove Postnik Yakovlev was never blinded and actively constructed the Kazan Kremlin's walls years later.",
+        "search": "kazan kremlin walls drawing old manuscript",
+        "caption": "Historical records prove Postnik Yakovlev survived uninjured."
+      },
+      {
+        "narration": "16th-century Western diplomats spread the myth to depict Russia as barbaric, forever linking St. Basil's sublime beauty with Ivan's autocratic tyranny.",
+        "search": "red square moscow old engraving 18th century",
+        "caption": "The legend endures as a symbol of autocratic legacy."
+      },
+      {
+        "narration": "Following the sudden death of Tsaritsa Anastasia Romanovna in August 1560, Ivan IV descended into deep paranoia, accusing his boyars of poisoning her.",
+        "search": "tsar ivan iv mourning wife anastasia oil painting",
+        "caption": "Anastasia Romanovna died in August 1560, shattering Ivan's mental stability."
+      },
+      {
+        "narration": "In February 1565, Ivan established the Oprichnina, dividing Muscovy into state lands policed by black-clad riders who executed suspected traitors.",
+        "search": "oprichniki black riders ivan the terrible engraving",
+        "caption": "The Oprichnina was established in 1565 to crush political dissent."
+      },
+      {
+        "narration": "During the 1570 Massacre of Novgorod, Ivan's forces executed thousands of citizens, creating a climate where arbitrary blinding seemed entirely plausible.",
+        "search": "massacre of novgorod 1570 ivan the terrible oil painting",
+        "caption": "Thousands died during the brutal 1570 sack of Novgorod."
+      },
+      {
+        "narration": "While St. Basil's Cathedral represented divine order in Red Square, the surrounding streets of Moscow saw public executions and mass purges.",
+        "search": "st basils cathedral moscow red square 16th century illustration",
+        "caption": "Sacred architecture stood alongside public executions in 16th-century Moscow."
+      },
+      {
+        "narration": "English merchant diplomat Jerome Horsey recorded tales of Ivan's cruelty in his late 16th-century memoirs, publishing them for an eager European readership.",
+        "search": "jerome horsey portrait engraving diplomat",
+        "caption": "Diplomat Jerome Horsey documented Ivan IV's reign for Western audiences."
+      },
+      {
+        "narration": "European printmakers transformed these diplomatic reports into graphic illustrations, popularizing the archetype of the barbaric Eastern tyrant.",
+        "search": "16th century european print showing russian tsar engraving",
+        "caption": "Graphic prints popularized the trope of Russian barbarism across Europe."
+      },
+      {
+        "narration": "Historical records from 1568 reveal that master architect Postnik Yakovlev was actually dispatched to build the sandstone walls of the Kazan Kremlin.",
+        "search": "kazan kremlin stone walls old map engraving",
+        "caption": "Records show Postnik Yakovlev working in Kazan years later."
+      },
+      {
+        "narration": "Yet questions remain about why Ivan spared his master builders while routinely torturing and executing his closest court advisors.",
+        "search": "ivan the terrible sitting on throne oil painting",
+        "caption": "Ivan executed noble allies while protecting key state architects."
+      },
+      {
+        "narration": "If historical records prove Postnik Yakovlev survived to construct the Kazan Kremlin, a deeper mystery emerges regarding who invented the horrific fable.",
+        "search": "16th century western European map of muscovy engraving",
+        "caption": "Uncovering the true origin of the blinding myth"
+      },
+      {
+        "narration": "During the late sixteenth century, Western European diplomats and merchants visiting Moscow returned home with sensationalized accounts of Tsarist brutality.",
+        "search": "16th century European diplomat portrait painting",
+        "caption": "Western travelers chronicled Ivan IV's violent court"
+      },
+      {
+        "narration": "Writers such as English traveler Jerome Horsey published chronicled accounts that emphasized the arbitrary cruelty of Ivan the Terrible's regime.",
+        "search": "Jerome Horsey english merchant 16th century engraving",
+        "caption": "Sensational travelogues fueled Muscovy's barbaric reputation"
+      },
+      {
+        "narration": "Similar blinding folklore had circulated across Eurasia for centuries, previously attached to rulers like Byzantine Emperor Basil II.",
+        "search": "Byzantine Emperor Basil II medieval manuscript illumination",
+        "caption": "Ancient folklore tropes re-purposed for the Tsar"
+      },
+      {
+        "narration": "European audiences readily accepted the tale because Ivan's actual reign of terror, including the 1570 Novgorod massacre, proved his capacity for extreme violence.",
+        "search": "Massacre of Novgorod 1570 historical oil painting",
+        "caption": "Real atrocities made extreme rumors immediately believable"
+      },
+      {
+        "narration": "By the nineteenth century, Romantic historians and poets popularized the blinding narrative, transforming historic masons into tragic cultural martyrs.",
+        "search": "19th century Russian romanticism oil painting",
+        "caption": "Romantic era writers cemented the myth into folklore"
+      },
+      {
+        "narration": "Far from mutilated victims, historical master masons Postnik Yakovlev and Barma established an enduring legacy of stone monuments across sixteenth-century Russia.",
+        "search": "Postnik Yakovlev architect building Kazan Kremlin illustration",
+        "caption": "Master builders left an enduring architectural legacy"
+      },
+      {
+        "narration": "Today, St. Basil's Cathedral stands in Red Square as a masterpiece of Russian architecture, where transcendent artistic beauty and tyrannical myth remain intertwined.",
+        "search": "St Basils Cathedral Moscow archival photograph",
+        "caption": "Divine architectural beauty intertwined with dark historical myth"
+      },
+      {
+        "narration": "Did Tsar Ivan the Terrible blind his greatest architect?",
+        "search": "ivan the terrible portrait painting close up",
+        "caption": "Did Ivan the Terrible blind his architect?"
+      },
+      {
+        "narration": "In October 1552, Ivan IV conquered the Tatar stronghold of Kazan, celebrating Muscovite victory across eastern Europe.",
+        "search": "siege of kazan 1552 oil painting",
+        "caption": "Ivan IV captures the Tatar stronghold of Kazan in October 1552"
+      },
+      {
+        "narration": "Ivan commissioned master builders Postnik Yakovlev and Barma in 1555 to construct the Cathedral of the Intercession in Moscow.",
+        "search": "st basils cathedral 16th century engraving",
+        "caption": "Tsar Ivan commissions Postnik Yakovlev to build the iconic cathedral"
+      },
+      {
+        "narration": "Consecrated in 1561, the nine-domed structure spawned rumors that Ivan ordered the architects blinded to prevent any rival design.",
+        "search": "st basils cathedral onion domes oil painting",
+        "caption": "Consecrated in 1561, the cathedral sparked rumors of royal cruelty"
+      },
+      {
+        "narration": "Following the suspicious death of Tsarina Anastasia Romanovna in 1560, Ivan established the brutal Oprichnina secret police in 1565.",
+        "search": "anastasia romanovna portrait painting",
+        "caption": "The 1560 death of Tsarina Anastasia triggered Ivan violent paranoia"
+      },
+      {
+        "narration": "Foreign visitors like English diplomat Jerome Horsey recorded the blinding tale, spreading accounts of Muscovite savagery across Western Europe.",
+        "search": "jerome horsey engraving",
+        "caption": "Western diplomats like Jerome Horsey popularized the blinding tale abroad"
+      },
+      {
+        "narration": "Russian archival records discovered in the nineteenth century prove Postnik Yakovlev was alive and constructing the Kazan Kremlin in 1588.",
+        "search": "kazan kremlin stone walls old engraving",
+        "caption": "Archival records prove Postnik Yakovlev built the Kazan Kremlin in 1588"
+      },
+      {
+        "narration": "Though Yakovlev was never blinded, the myth endures as a testament to Ivan the Terrible's documented historical reign of terror.",
+        "search": "tsar ivan iv of russia 19th century oil painting",
+        "caption": "The enduring blinding legend reflects Ivan IV brutal historical legacy"
+      },
+      {
+        "narration": "Did Tsar Ivan the Terrible blind the architects of St. Basil's Cathedral? Russian imperial records prove the famous historical gruesome legend is completely false.",
+        "search": "st basils cathedral moscow oil painting",
+        "caption": "The myth of St. Basil's Cathedral"
+      },
+      {
+        "narration": "In October 1552, twenty-two-year-old Tsar Ivan IV captured the Tatar stronghold of Kazan, expanding the Tsardom of Russia eastward. To commemorate his victory, he commissioned master builders Postnik Yakovlev and Barma in 1555 to build a grand cathedral in Moscow.",
+        "search": "ivan the terrible siege of kazan 1552 oil painting",
+        "caption": "October 1552: Ivan IV conquers Kazan"
+      },
+      {
+        "narration": "Over six grueling years, stonecutters constructed eight vibrant onion-domed chapels around a central spire in Red Square. Consecrated on July 12, 1561, the Cathedral of the Intercession stunned Muscovite citizens with its unique architectural geometry.",
+        "search": "building st basils cathedral medieval illumination illustration",
+        "caption": "July 1561: Consecration in Red Square"
+      },
+      {
+        "narration": "Legend soon claimed Ivan asked the architects if they could ever design a superior cathedral, and when they answered yes, he ordered their eyes gouged out. This horror story alleged the Tsar acted out of severe jealousy to ensure his masterpiece remained unmatched.",
+        "search": "tsar ivan the terrible portrait oil painting",
+        "caption": "The myth of the blinded architects"
+      },
+      {
+        "narration": "The horrifying rumor gained traction because Ivan IV's actual reign descended into extreme paranoia following the 1560 death of his wife Anastasia Romanovna. In 1565, the Tsar formed the Oprichnina, a ruthless black-clad secret police force that executed thousands of citizens.",
+        "search": "oprichniki of ivan the terrible oil painting",
+        "caption": "1565: Ivan establishes the Oprichnina"
+      },
+      {
+        "narration": "However, nineteenth-century archival discoveries thoroughly debunked the blinding myth. Primary administrative records from 1588 confirm that architect Postnik Yakovlev remained fully sighted and active, building the stone walls of the Kazan Kremlin decades after St. Basil's was finished.",
+        "search": "kazan kremlin historical engraving",
+        "caption": "Archival proof: Postnik active in 1588"
+      },
+      {
+        "narration": "The blinding tale was originally fabricated by foreign diplomats like Englishman Giles Fletcher in 1591 to depict Russia as an oriental tyranny. European travelogues widely republished the story across the seventeenth century to reinforce tropes of Russian barbarism.",
+        "search": "16th century European travel book map engraving",
+        "caption": "1591: Western accounts spread the myth"
+      },
+      {
+        "narration": "The legend endures centuries later because it embodies the historical paradox of Ivan IV—a ruler capable of inspiring transcendent sacred art while inflicting terrible violence. Though Yakovlev's vision was spared, St. Basil's remains a monument to an era forged in beauty and terror.",
+        "search": "red square moscow historical map engraving",
+        "caption": "Beauty and tyranny in imperial Russia"
+      },
+      {
+        "narration": "Did Tsar Ivan IV blind St. Basil's architects? The chilling claim still defines Russia's most famous cathedral.",
+        "search": "st basils cathedral moscow 19th century engraving",
+        "caption": "Did Ivan the Terrible blind his master architects?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T20:39:42.953014+00:00",
+    "updated_at": "2026-10-26T21:28:34.381856+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-26T21:08:14.286840+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3287 chars",
+        "at": "2026-10-26T21:09:53.734508+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "205.2s en-US-GuyNeural 31 cau",
+        "at": "2026-10-26T21:10:10.197244+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T21:10:21.156181+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-26T21:21:26.360935+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T21:21:26.443036+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 205.2s 138772845 bytes",
+        "at": "2026-10-26T21:28:33.940642+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-10-26T21:28:34.102534+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T21:28:34.381838+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39257239/pexels-photo-39257239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17790810/pexels-photo-17790810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39482001/pexels-photo-39482001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588840/pexels-photo-4588840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5466866/pexels-photo-5466866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29144928/pexels-photo-29144928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12983110/pexels-photo-12983110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11354087/pexels-photo-11354087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14117602/pexels-photo-14117602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11354086/pexels-photo-11354086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10000072/pexels-photo-10000072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3629813/pexels-photo-3629813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36715330/pexels-photo-36715330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8405430/pexels-photo-8405430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35485922/pexels-photo-35485922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29797815/pexels-photo-29797815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13121457/pexels-photo-13121457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40237788/pexels-photo-40237788.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39644801/pexels-photo-39644801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18043815/pexels-photo-18043815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37678949/pexels-photo-37678949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588842/pexels-photo-4588842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29144930/pexels-photo-29144930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31052377/pexels-photo-31052377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34487516/pexels-photo-34487516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8236998/pexels-photo-8236998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2203056/pexels-photo-2203056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/57565/pexels-photo-57565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342496/pexels-photo-29342496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36207460/pexels-photo-36207460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31640432/pexels-photo-31640432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35471715/pexels-photo-35471715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10831750/pexels-photo-10831750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268903/pexels-photo-9268903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30484740/pexels-photo-30484740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30046325/pexels-photo-30046325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14995515/pexels-photo-14995515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34436217/pexels-photo-34436217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37845572/pexels-photo-37845572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38239898/pexels-photo-38239898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6214466/pexels-photo-6214466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24035737/pexels-photo-24035737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11066628/pexels-photo-11066628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109065/pexels-photo-6109065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38844905/pexels-photo-38844905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5512841/pexels-photo-5512841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5236312/pexels-photo-5236312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39931593/pexels-photo-39931593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16960921/pexels-photo-16960921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29033397/pexels-photo-29033397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5822213/pexels-photo-5822213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10000075/pexels-photo-10000075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31055091/pexels-photo-31055091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40044559/pexels-photo-40044559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8198053/pexels-photo-8198053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40235976/pexels-photo-40235976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37419649/pexels-photo-37419649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11369621/pexels-photo-11369621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7447113/pexels-photo-7447113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40154931/pexels-photo-40154931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38240680/pexels-photo-38240680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6719056/pexels-photo-6719056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20829630/pexels-photo-20829630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11354089/pexels-photo-11354089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4762169/pexels-photo-4762169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1470585/pexels-photo-1470585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10419832/pexels-photo-10419832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19041396/pexels-photo-19041396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13007365/pexels-photo-13007365.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2546933/pexels-photo-2546933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9806588/pexels-photo-9806588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20239319/pexels-photo-20239319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6000331/pexels-photo-6000331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3684544/pexels-photo-3684544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698362/pexels-photo-8698362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36730482/pexels-photo-36730482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3392841/pexels-photo-3392841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13291308/pexels-photo-13291308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1632074/pexels-photo-1632074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12900778/pexels-photo-12900778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34632908/pexels-photo-34632908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2f5fd0a195",
     "kind": "short",
     "channel": "Channel3",
