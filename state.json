@@ -1,5 +1,162 @@
 [
   {
+    "id": "e6ff1fc8eb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Lone Viking Who Halted 15,000 Saxons",
+    "idea": {
+      "title": "The Lone Viking Who Halted 15,000 Saxons",
+      "hook": "One unnamed Viking warrior held off an entire English army at Stamford Bridge—until a hidden trick ended his legendary stand.",
+      "beats": [
+        "In 1066, King Harold Godwinson ambushed the invading Norse army completely unprepared near Stamford Bridge.",
+        "A single towering berserker blocked the narrow wooden bridge, swinging a massive Dane axe and slaying over forty English soldiers.",
+        "Unable to pierce his shield wall, an English soldier crawled into an iron-bound swill tub and paddled silently beneath the timbers.",
+        "Thrusting a long pike upward between the floorboards, he mortally wounded the warrior, sealing the tragic end of the Viking age."
+      ],
+      "keywords": [
+        "viking battle painting",
+        "stamford bridge 1066 engraving",
+        "saxon warriors battle illustration",
+        "medieval axe combat woodcut",
+        "anglo saxon king portrait"
+      ],
+      "tags": [
+        "history",
+        "vikings",
+        "stamfordbridge",
+        "anglosaxons",
+        "ancientbattles",
+        "militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One lone warrior once halted an entire army.",
+        "search": "battle of stamford bridge 1066 oil painting",
+        "caption": "One lone warrior halted fifteen thousand Saxon soldiers in 1066."
+      },
+      {
+        "narration": "On September 25, 1066, King Harold Godwinson marched fifteen thousand Anglo-Saxon soldiers toward Stamford Bridge.",
+        "search": "king harold godwinson medieval manuscript illumination",
+        "caption": "King Harold Godwinson marched 15,000 troops to intercept the invaders."
+      },
+      {
+        "narration": "King Harald Hardrada's invading Norse force rested across the River Derwent, caught completely unprepared without their heavy mail armor.",
+        "search": "king harald hardrada norse coin engraving",
+        "caption": "The Norse army was resting unarmored beside the River Derwent."
+      },
+      {
+        "narration": "The only route across the flooded river was a narrow wooden bridge, barely wide enough for three men abreast.",
+        "search": "medieval wooden bridge river engraving",
+        "caption": "A single wooden bridge offered the only crossing over the river."
+      },
+      {
+        "narration": "Before the Saxons could overrun the encampment, a solitary Norse berserker planted himself on the planks.",
+        "search": "berserker viking warrior woodcut engraving",
+        "caption": "A solitary giant warrior stepped forward to block the crossing."
+      },
+      {
+        "narration": "Wielding a two-handed Dane axe, the towering warrior began cutting down the front ranks of charging Saxon infantry.",
+        "search": "medieval dane axe combat woodcut",
+        "caption": "Armed with a Dane axe, he repelled waves of attackers."
+      },
+      {
+        "narration": "According to the Anglo-Saxon Chronicle, the lone defender single-handedly slew more than forty English soldiers who attempted to cross.",
+        "search": "anglo saxon chronicle medieval manuscript page",
+        "caption": "Over forty Saxon warriors fell trying to cross the narrow span."
+      },
+      {
+        "narration": "Godwinson's entire advance ground to a halt, giving the main Viking army crucial time to form their shield wall.",
+        "search": "saxon shield wall battle oil painting",
+        "caption": "The entire English army was paralyzed by a single man."
+      },
+      {
+        "narration": "Unable to cross the narrow span, an Anglo-Saxon soldier crawled into a swill tub and paddled under the timber bridge.",
+        "search": "medieval wooden bridge river manuscript engraving",
+        "caption": "An English soldier slipped beneath the bridge in a tub."
+      },
+      {
+        "narration": "Thrusting a long spear up through the gaps in the floorboards, he pierced the berserker from below, finally killing the defender.",
+        "search": "battle of stamford bridge 1066 oil painting spear",
+        "caption": "A spear thrust upward through the floorboards ended his stand."
+      },
+      {
+        "narration": "The Saxons surged across the bridge to defeat Harald Hardrada on September 25, 1066, permanently ending the Viking Age in England.",
+        "search": "king harold godwinson bayeux tapestry embroidery",
+        "caption": "The Viking Age in England ended on September 25, 1066."
+      },
+      {
+        "narration": "One Viking warrior stopped fifteen thousand Saxon soldiers alone.",
+        "search": "battle of stamford bridge viking axe oil painting",
+        "caption": "One warrior stopped an army of fifteen thousand."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T09:17:29.521446+00:00",
+    "updated_at": "2026-10-26T09:38:56.130377+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-26T09:27:03.243485+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "315 chars (cat 242 de vua 55s)",
+        "at": "2026-10-26T09:31:04.062652+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "20.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-26T09:31:08.954461+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T09:31:10.256514+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-26T09:38:13.616917+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T09:38:13.703743+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 20.3s 11699669 bytes",
+        "at": "2026-10-26T09:38:55.700295+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T09:38:56.130358+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/27742049/pexels-photo-27742049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12354902/pexels-photo-12354902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7293763/pexels-photo-7293763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37982814/pexels-photo-37982814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14997949/pexels-photo-14997949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19125733/pexels-photo-19125733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6207364/pexels-photo-6207364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35254133/pexels-photo-35254133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19580693/pexels-photo-19580693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31703754/pexels-photo-31703754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610614/pexels-photo-20610614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386330/pexels-photo-38386330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "607c74d9de",
     "kind": "short",
     "channel": "Channel2",
