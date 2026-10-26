@@ -1,4 +1,4 @@
-# Daily ping 25/10/2026
+# Daily ping 26/10/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -13,11 +13,11 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Sự thật về nước ngọt 0 calo đang âm thầm đánh lừa não b :: token refresh failed: 400 {
+- Cái giá âm thầm khi nhai kẹo cao su lúc đói bụng :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
-- The Persian Noble Who Cut Off His Own Face :: token refresh failed: 400 {
+- Why Alexander Regretted Burning the Ancient World :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
