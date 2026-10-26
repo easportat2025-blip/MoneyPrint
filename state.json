@@ -1,5 +1,161 @@
 [
   {
+    "id": "c4c827e2ce",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Ate Bitter Bile for 20 Years",
+    "idea": {
+      "title": "The King Who Ate Bitter Bile for 20 Years",
+      "hook": "For twenty years, King Goujian ate bitter bile every morning just to remember how much he hated the man who spared his life.",
+      "beats": [
+        "Defeated by King Fuchai of Wu, Goujian was spared and forced to work as a lowly royal stable groom for three years.",
+        "Feigning total submission, Goujian even tasted the sick king's waste to diagnose him, successfully earning his release home.",
+        "Back in Yue, Goujian slept on thorny firewood and hung a gallbladder above his cot, licking it daily to keep his hatred alive.",
+        "After two decades of secret military preparation, Goujian struck back, destroyed the Wu kingdom, and drove Fuchai to suicide."
+      ],
+      "keywords": [
+        "ancient Chinese warrior painting",
+        "Yue kingdom historical map",
+        "King Goujian bronze sword",
+        "Spring and Autumn period bust",
+        "Chinese emperor court scroll"
+      ],
+      "tags": [
+        "#AncientHistory",
+        "#HistoryDocumentary",
+        "#RevengeHistory",
+        "#Warfare",
+        "#HistoryShorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A defeated king drank animal bile daily for revenge.",
+        "search": "King Goujian portrait painting ancient Chinese ruler",
+        "caption": "A king tasted bile daily for revenge"
+      },
+      {
+        "narration": "In 494 BC, King Goujian of Yue suffered catastrophic defeat against the rival state of Wu.",
+        "search": "ancient Chinese warrior painting battle Spring and Autumn period",
+        "caption": "In 494 BC, the Yue kingdom collapsed"
+      },
+      {
+        "narration": "King Fuchai of Wu spared Goujian's life, stripping his royal title and enslaving him as a palace stable groom.",
+        "search": "King Fuchai of Wu painting portrait",
+        "caption": "King Fuchai enslaved the defeated ruler"
+      },
+      {
+        "narration": "For three years, Goujian cleaned royal stables and led Fuchai's horses to project total obedience.",
+        "search": "ancient Chinese horse stable groom manuscript painting",
+        "caption": "Goujian served three years as a stable groom"
+      },
+      {
+        "narration": "Historical chronicles record that Goujian even sampled Fuchai's bodily waste during an illness to forecast his recovery.",
+        "search": "ancient Chinese royal palace interior historical painting",
+        "caption": "He feigned absolute devotion to his conqueror"
+      },
+      {
+        "narration": "Convinced Goujian posed no threat, Fuchai released him back to Yue in 490 BC.",
+        "search": "Yue kingdom historical map ancient China engraving",
+        "caption": "Fuchai released Goujian in 490 BC"
+      },
+      {
+        "narration": "Once home, Goujian discarded royal luxuries, choosing to sleep directly on rough firewood.",
+        "search": "ancient Chinese palace bedchamber historical painting",
+        "caption": "Goujian refused luxury and slept on firewood"
+      },
+      {
+        "narration": "He suspended a bitter animal gallbladder from his ceiling, licking it before every meal to fuel his secret hatred.",
+        "search": "King Goujian bronze sword artifact museum macro",
+        "caption": "He licked bitter bile daily to remember"
+      },
+      {
+        "narration": "For twenty years, Goujian quietly rebuilt his state's army and economy while continuing to send lavish tributes to keep King Fuchai oblivious.",
+        "search": "Chinese emperor court scroll",
+        "caption": "Goujian spent two decades secretly building a powerful army."
+      },
+      {
+        "narration": "In 473 BC, taking advantage of severe famine and military distraction in Wu, Goujian launched a full-scale invasion.",
+        "search": "ancient Chinese warrior painting",
+        "caption": "In 473 BC, Yue forces invaded and dismantled Wu."
+      },
+      {
+        "narration": "Fuchai committed suicide in total defeat, completing a twenty-year revenge celebrated today through artifacts like King Goujian's untarnished bronze sword.",
+        "search": "King Goujian bronze sword",
+        "caption": "King Fuchai chose suicide, cementing Goujian's legendary victory."
+      },
+      {
+        "narration": "One defeated king tasted animal bile every single morning.",
+        "search": "ancient Chinese warrior painting traditional ink",
+        "caption": "A defeated king tasted bitter bile daily."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-26T22:08:42.721277+00:00",
+    "updated_at": "2026-10-26T22:20:56.708804+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-26T22:13:05.843521+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "393 chars (cat 247 de vua 55s)",
+        "at": "2026-10-26T22:13:53.768378+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 6 cau",
+        "at": "2026-10-26T22:13:55.833854+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-26T22:13:57.417378+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-26T22:20:04.803919+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-26T22:20:04.891079+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.0s 16590398 bytes",
+        "at": "2026-10-26T22:20:56.355445+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-26T22:20:56.708786+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32792848/pexels-photo-32792848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30737862/pexels-photo-30737862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37252201/pexels-photo-37252201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27164035/pexels-photo-27164035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9168179/pexels-photo-9168179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6751794/pexels-photo-6751794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20719408/pexels-photo-20719408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34117531/pexels-photo-34117531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6847217/pexels-photo-6847217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37303157/pexels-photo-37303157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15651577/pexels-photo-15651577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27278758/pexels-photo-27278758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ce6a616e0b",
     "kind": "long",
     "channel": "seigh",
