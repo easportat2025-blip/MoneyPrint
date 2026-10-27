@@ -1,5 +1,162 @@
 [
   {
+    "id": "1414ed87e7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Tragic Death of Rome's Greatest Enemy Mind",
+    "idea": {
+      "title": "The Tragic Death of Rome's Greatest Enemy Mind",
+      "hook": "Archimedes held off Rome's deadliest fleet for two full years, only to be slain over circles drawn in the sand.",
+      "beats": [
+        "During the Siege of Syracuse in 212 BC, Archimedes' revolutionary cranes and catapults humiliated the Roman military.",
+        "Roman general Marcellus strictly commanded his men to capture the 75-year-old mathematician unharmed.",
+        "A rogue Roman legionary burst into the scholar's courtyard, finding him completely absorbed in geometric diagrams on the ground.",
+        "When Archimedes snapped 'Do not disturb my circles!', the enraged soldier drew his blade and killed him on the spot.",
+        "General Marcellus was crushed with regret and buried the ancient world's greatest thinker with full military honors."
+      ],
+      "keywords": [
+        "Archimedes death painting",
+        "Siege of Syracuse engraving",
+        "Roman soldier vintage drawing",
+        "ancient Greek scholar bust",
+        "General Marcellus portrait"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#archimedes",
+        "#militaryhistory",
+        "#ancientgreece"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One ancient scholar defeated Rome's navy for two years.",
+        "search": "ancient Greek scholar bust statue",
+        "caption": "One scholar held off Rome's entire fleet."
+      },
+      {
+        "narration": "During the Siege of Syracuse in 212 BC, seventy-five-year-old Archimedes engineered revolutionary war machines that devastated Roman invaders.",
+        "search": "Siege of Syracuse ancient warfare engraving",
+        "caption": "Syracuse, 212 BC: Archimedes' war machines crushed Rome."
+      },
+      {
+        "narration": "His massive claw cranes and catapults destroyed entire warships, humiliating the Roman military leadership.",
+        "search": "Roman naval fleet ship engraving",
+        "caption": "Roman war fleets were systematically destroyed."
+      },
+      {
+        "narration": "Recognizing Archimedes' genius, Roman General Marcus Claudius Marcellus issued strict orders that the mathematician be captured alive.",
+        "search": "General Marcellus Roman portrait engraving",
+        "caption": "General Marcellus ordered Archimedes captured alive."
+      },
+      {
+        "narration": "When Roman legionaries finally breached Syracuse, total chaos erupted while Archimedes remained completely absorbed in his work.",
+        "search": "Roman legionary soldier drawing vintage",
+        "caption": "Roman troops breached the city walls."
+      },
+      {
+        "narration": "Deep in thought, the scholar was drawing intricate geometric diagrams directly into the dust on the ground.",
+        "search": "ancient Greek mathematician geometry illustration",
+        "caption": "Archimedes remained focused on geometric diagrams."
+      },
+      {
+        "narration": "A rogue Roman soldier confronted him, demanding the old man follow him immediately to General Marcellus.",
+        "search": "Roman soldier with sword vintage illustration",
+        "caption": "A rogue Roman soldier confronted the scholar."
+      },
+      {
+        "narration": "Refusing to move until his mathematical problem was solved, Archimedes enraged the soldier, who drew his blade.",
+        "search": "Archimedes death oil painting",
+        "caption": "Archimedes was struck down over circles in dust."
+      },
+      {
+        "narration": "Ignoring orders to take him alive, the Roman soldier ran Archimedes through with his sword, killing the seventy-five-year-old mathematician over diagrams in the dust.",
+        "search": "death of archimedes oil painting",
+        "caption": "Archimedes was struck down over geometric diagrams in the dirt."
+      },
+      {
+        "narration": "Upon discovering the slaughter, General Marcellus was devastated, openly condemning the legionary and extending Roman protection to the surviving family.",
+        "search": "marcus claudius marcellus roman bust statue",
+        "caption": "General Marcellus punished the soldier and mourned the fallen scholar."
+      },
+      {
+        "narration": "Marcellus buried his greatest intellectual adversary with full military honors, marking the tomb with a sphere inscribed inside a cylinder according to the mathematician's wishes.",
+        "search": "tomb of archimedes siracusa vintage engraving",
+        "caption": "Rome buried their deadliest enemy with the highest military honors."
+      },
+      {
+        "narration": "One 75-year-old mathematician humiliated Rome's entire war fleet.",
+        "search": "Archimedes bronze bust statue museum close up",
+        "caption": "One mathematician defied the entire Roman navy."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T09:18:08.027643+00:00",
+    "updated_at": "2026-10-27T09:48:53.267220+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-27T09:35:36.825011+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "412 chars (cat 250 de vua 55s)",
+        "at": "2026-10-27T09:41:07.712080+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.2s en-US-GuyNeural 6 cau",
+        "at": "2026-10-27T09:41:11.729221+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T09:41:13.075819+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-27T09:48:09.332622+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-27T09:48:09.413535+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.3s 14480267 bytes",
+        "at": "2026-10-27T09:48:52.930789+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T09:48:53.267203+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33349674/pexels-photo-33349674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17778651/pexels-photo-17778651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29130928/pexels-photo-29130928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125787/pexels-photo-38125787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6256062/pexels-photo-6256062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38165229/pexels-photo-38165229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33013288/pexels-photo-33013288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17257205/pexels-photo-17257205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29754964/pexels-photo-29754964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33634009/pexels-photo-33634009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18128855/pexels-photo-18128855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0fb726af83",
     "kind": "short",
     "channel": "Channel2",
