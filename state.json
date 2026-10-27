@@ -1,5 +1,161 @@
 [
   {
+    "id": "ed1572f2f8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Stick That Stopped an Unbeatable Army",
+    "idea": {
+      "title": "The Stick That Stopped an Unbeatable Army",
+      "hook": "In 168 BC, an unarmed 60-year-old Roman diplomat stopped an entire invading army using nothing more than a wooden walking stick and five words.",
+      "beats": [
+        "King Antiochus the Fourth led a massive Syrian army to the gates of Alexandria, poised to conquer Egypt and build an unstoppable empire.",
+        "A lone Roman envoy named Popilius Laenas walked into the enemy camp without bodyguards, refusing to shake the king's hand.",
+        "When Antiochus claimed he needed time to discuss Rome's terms of withdrawal, Laenas used his cane to trace a circle in the sand around the king's boots.",
+        "Laenas demanded an answer before Antiochus stepped out of the circle, forcing the terrified king to abandon his war without a single sword drawn."
+      ],
+      "keywords": [
+        "ancient roman diplomat",
+        "king antiochus iv engraving",
+        "hellenistic army painting",
+        "alexandria ancient ruins map",
+        "roman senate bust"
+      ],
+      "tags": [
+        "RomanHistory",
+        "AncientRome",
+        "HistoryDocumentary",
+        "AncientEmpires",
+        "HistoryShorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A wooden stick stopped an entire army in 168 BC.",
+        "search": "popilius laenas antiochus engraving",
+        "caption": "How a wooden stick halted an imperial invasion"
+      },
+      {
+        "narration": "King Antiochus the Fourth led his veteran Syrian army to the gates of Alexandria.",
+        "search": "antiochus iv ancient greek coin portrait",
+        "caption": "Antiochus IV invaded Egypt with an overwhelming force in 168 BC"
+      },
+      {
+        "narration": "Ptolemaic Egypt faced total collapse, unable to defend against the Seleucid empire's advance.",
+        "search": "alexandria egypt ancient map engraving",
+        "caption": "Alexandria stood defenseless against the advancing Seleucid military"
+      },
+      {
+        "narration": "Just outside the city at Eleusis, Antiochus prepared his final assault before an unexpected arrival.",
+        "search": "hellenistic phalanx soldiers battle oil painting",
+        "caption": "Roman envoys arrived as Antiochus prepared his final conquest"
+      },
+      {
+        "narration": "Sixty-year-old Roman envoy Gaius Popilius Laenas walked into the enemy camp completely unarmed.",
+        "search": "roman senator toga marble bust statue",
+        "caption": "Senator Gaius Popilius Laenas approached without an escort"
+      },
+      {
+        "narration": "When King Antiochus extended his hand in friendly greeting, Popilius bluntly refused to take it.",
+        "search": "ancient roman parchment scroll wax seal",
+        "caption": "Popilius refused the king's hand, presenting a Senate ultimatum"
+      },
+      {
+        "narration": "The Roman decree ordered Antiochus to immediately abandon Egypt or face war with Rome.",
+        "search": "ancient roman legionary relief carving stone",
+        "caption": "Rome ordered Antiochus to abandon his conquest immediately"
+      },
+      {
+        "narration": "Antiochus hesitated, stating he needed time to consult his generals before making a decision.",
+        "search": "hellenistic royal court council oil painting",
+        "caption": "Antiochus stalled, attempting to delay his official response"
+      },
+      {
+        "narration": "In 168 BC, Gaius Popilius Laenas drew a circle around King Antiochus IV with his wooden staff, demanding a decision before the king stepped out.",
+        "search": "popilius laenas antiochus circle engraving",
+        "caption": "Laenas drew a circle in the sand, demanding an immediate response."
+      },
+      {
+        "narration": "Realizing a refusal meant immediate war with Rome, Antiochus yielded on the spot and agreed to withdraw his entire force from Egypt.",
+        "search": "seleucid king antiochus iv coin",
+        "caption": "King Antiochus yielded, ordering his invading army to abandon Egypt."
+      },
+      {
+        "narration": "By stepping out of the circle, Antiochus birthed the phrase 'a line in the sand', proving Rome could dismantle empires without drawing a sword.",
+        "search": "roman senate bust statue marble",
+        "caption": "A single stick secured Rome's absolute dominance over the ancient world."
+      },
+      {
+        "narration": "One wooden stick stopped an entire unstoppable empire.",
+        "search": "ancient roman wooden cane engraving",
+        "caption": "A wooden cane defeated an invading superpower."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T21:33:07.744409+00:00",
+    "updated_at": "2026-10-27T21:46:55.602165+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-27T21:35:55.570004+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 165 de vua 55s)",
+        "at": "2026-10-27T21:41:36.650600+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.2s en-US-GuyNeural 5 cau",
+        "at": "2026-10-27T21:41:45.664600+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T21:41:47.220208+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-27T21:46:05.007170+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-27T21:46:05.102905+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.2s 13151838 bytes",
+        "at": "2026-10-27T21:46:55.223119+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T21:46:55.602142+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/22944148/pexels-photo-22944148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11839920/pexels-photo-11839920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28682186/pexels-photo-28682186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326499/pexels-photo-18326499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3214599/pexels-photo-3214599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11385660/pexels-photo-11385660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34111443/pexels-photo-34111443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15584387/pexels-photo-15584387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10386003/pexels-photo-10386003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33773236/pexels-photo-33773236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15253823/pexels-photo-15253823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37097111/pexels-photo-37097111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8fc78b8034",
     "kind": "short",
     "channel": "Channel3",
