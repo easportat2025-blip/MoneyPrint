@@ -1,5 +1,167 @@
 [
   {
+    "id": "612a3460b4",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao mắt bạn chưa từng biết thấy lạnh dù trời rét đậm?",
+    "idea": {
+      "title": "Tại sao mắt bạn chưa từng biết thấy lạnh dù trời rét đậm?",
+      "hook": "Giữa mùa đông cắt da cắt thịt, đôi tay đóng băng nhưng đôi mắt bạn chưa bao giờ thấy lạnh dù chỉ một giây. Bí mật thực sự nằm ở đâu?",
+      "beats": [
+        "Mắt hoàn toàn không có các thụ thể thần kinh cảm nhận nhiệt độ lạnh như trên da.",
+        "Mạch máu dày đặc phía sau võng mạc liên tục bơm máu ấm để nuôi dưỡng nhãn cầu.",
+        "Lớp nước mắt bao phủ chứa muối và protein giúp hạ điểm đóng băng xuống thấp hơn nước bình thường.",
+        "Nhờ sự kết hợp này, đôi mắt có thể hoạt động hoàn hảo ngay cả trong môi trường độ âm."
+      ],
+      "keywords": [
+        "human eye close up",
+        "winter snow face",
+        "blood flow animation",
+        "cornea microscopic",
+        "extreme cold weather face"
+      ],
+      "tags": [
+        "#channel3",
+        "#suckhoe",
+        "#suthatthuvi",
+        "#sinhhoc",
+        "#khampha"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao mắt bạn không bao giờ thấy lạnh?",
+        "search": "mat nguoi chop mat hoat hinh 3d",
+        "caption": "Tại sao mắt không bao giờ thấy lạnh?"
+      },
+      {
+        "narration": "Dù tay chân bạn đóng băng ở âm độ, đôi mắt vẫn mở ra bình thường mà không hề buốt giá.",
+        "search": "nguoi run vi lanh tuyet roi hoat hoa",
+        "caption": "Tay chân đóng băng nhưng mắt vẫn bình thường."
+      },
+      {
+        "narration": "Thật kỳ lạ vì mắt hoàn toàn tiếp xúc trực tiếp với không khí băng giá bên ngoài.",
+        "search": "giac mac mat goc nhin kinh hien vi 3d",
+        "caption": "Mắt tiếp xúc trực tiếp không khí băng giá."
+      },
+      {
+        "narration": "Lý do đầu tiên: bề mặt giác mạc không có thụ thể thần kinh cảm nhận cái lạnh như trên da.",
+        "search": "day than kinh da va mat do hoa 3d",
+        "caption": "Giác mạc không có thần kinh cảm nhận lạnh."
+      },
+      {
+        "narration": "Nhưng không cảm nhận lạnh không có nghĩa là nó không bị đóng băng. Vậy bí mật thực sự là gì?",
+        "search": "bang tuyet dong bang mo phong 3d",
+        "caption": "Điều gì thực sự giữ ấm cho mắt?"
+      },
+      {
+        "narration": "Ngay phía sau võng mạc là mạng lưới mạch máu dày đặc, liên tục bơm máu ấm từ cơ thể lên.",
+        "search": "mach mau vong mac mat hoat hinh 3d",
+        "caption": "Mạch máu sau võng mạc bơm máu ấm liên tục."
+      },
+      {
+        "narration": "Chưa hết, lớp nước mắt phủ trên bề mặt chứa muối và protein giúp hạ điểm đóng băng xuống rất thấp.",
+        "search": "lop nuoc mat hoa hoc mo phong 3d",
+        "caption": "Nước mắt chứa muối hạ điểm đóng băng."
+      },
+      {
+        "narration": "Sự kết hợp hoàn hảo này giúp đôi mắt bạn hoạt động trơn tru ngay cả giữa bão tuyết âm độ.",
+        "search": "mat nguoi hoat dong trong bao tuyet 3d",
+        "caption": "Mắt hoạt động hoàn hảo ở nhiệt độ âm."
+      },
+      {
+        "narration": "Nếu giác mạc cũng có thụ thể cảm nhận độ lạnh như da, bạn sẽ thấy đau rát dữ dội mỗi khi chớp mắt giữa mùa đông.",
+        "search": "hoat hinh 3d giac mac mat human eye cornea microscopic 3d render",
+        "caption": "Nếu có cảm giác lạnh, chớp mắt sẽ cực kỳ đau rát"
+      },
+      {
+        "narration": "Mỗi lần chớp mắt, một lớp màng nước mắt chứa muối ấm lại được trải đều để sưởi ấm toàn bộ bề mặt nhãn cầu.",
+        "search": "hoat hinh 3d mo phang mang nuoc mat tear film animation 3d",
+        "caption": "Màng nước mắt sưởi ấm bề mặt nhãn cầu"
+      },
+      {
+        "narration": "Hơn nữa, võng mạc tiêu thụ năng lượng cực lớn, biến mắt thành một trong những cơ quan tỏa nhiệt mạnh nhất vùng mặt.",
+        "search": "hoat hinh 3d luong mau va nhiet mat blood flow eye animation",
+        "caption": "Mắt tiêu thụ năng lượng và tỏa nhiệt cực lớn"
+      },
+      {
+        "narration": "Đó là lý do dù toàn thân run rẩy vì băng giá, tầm nhìn của bạn vẫn luôn trơn tru và không hề đóng băng.",
+        "search": "hoat hinh 3d khuon mat dung trong bao tuyet winter freeze character",
+        "caption": "Mọi thứ có thể đóng băng ngoại trừ tầm nhìn"
+      },
+      {
+        "narration": "Một hệ thống sưởi ấm sinh học thông minh hoạt động 24/7 mà bạn chưa từng nhận ra.",
+        "search": "hoat hinh 3d con mat nhan cau xoay zoom in 3d render",
+        "caption": "Hệ thống sưởi sinh học bảo vệ đôi mắt 24/7"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T18:29:56.395361+00:00",
+    "updated_at": "2026-10-27T18:34:38.918833+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-27T18:32:21.796508+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "482 chars (cat 140 de vua 55s)",
+        "at": "2026-10-27T18:33:07.189517+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-27T18:33:15.295795+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T18:33:17.083786+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-27T18:33:31.391108+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-27T18:33:31.476354+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.4s 35417702 bytes",
+        "at": "2026-10-27T18:34:38.562598+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T18:34:38.918811+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/38629549/16406313_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/15956836/15956836-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/12723974/12723974-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/35441952/15015422_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107099/13688501_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39620429/16888550_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35063107/14852708_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35083376/14862640_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15897143/15897143-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10994872/10994872-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39620340/16888466_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6201062/6201062-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439747/15439747-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "4ad89fb9b6",
     "kind": "short",
     "channel": "Channel3",
