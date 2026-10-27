@@ -1,5 +1,163 @@
 [
   {
+    "id": "8fc78b8034",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do màn hình điện thoại tự tối sầm khi ra nắng",
+    "idea": {
+      "title": "Bí mật lý do màn hình điện thoại tự tối sầm khi ra nắng",
+      "hook": "Bạn tưởng điện thoại bị lỗi cảm biến ánh sáng? Thực ra nó đang âm thầm tự hạ nhiệt để tránh nổ pin.",
+      "beats": [
+        "Khi ra ngoài nắng, màn hình tăng tối đa độ sáng khiến nhiệt độ máy tăng vọt.",
+        "Vi xử lý phát hiện nguy cơ quá nhiệt làm hỏng tấm nền OLED và chai pin.",
+        "Điện thoại tự kích hoạt cơ chế Thermal Throttling, ép giảm 30-50% độ sáng dù bạn kéo thanh độ sáng kịch trần.",
+        "Đây là tính năng bảo vệ phần ứng âm thầm chứ không phải lỗi phần mềm."
+      ],
+      "keywords": [
+        "smartphone screen sunlight outdoor heat thermal"
+      ],
+      "tags": [
+        "#meodienthoai",
+        "#congnghe",
+        "#channel3",
+        "#suthatthuvien",
+        "#tips"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ra nắng màn hình tự tối không phải bị lỗi!",
+        "search": "3d animation smartphone screen dimming bright sunlight outdoor",
+        "caption": "Màn hình tự tối khi ra nắng không phải do lỗi"
+      },
+      {
+        "narration": "Nhiều người lầm tưởng cảm biến hỏng nên cố kéo thanh độ sáng lên tối đa.",
+        "search": "3d animation hand adjusting phone screen brightness slider",
+        "caption": "Cố kéo thanh độ sáng kịch trần cũng vô ích"
+      },
+      {
+        "narration": "Tuy nhiên chỉ sau vài phút, màn hình lại âm thầm tối sầm trở lại.",
+        "search": "cartoony 3d smartphone screen getting dark outdoor heat",
+        "caption": "Màn hình vẫn lì lợm tối sầm chỉ sau vài phút"
+      },
+      {
+        "narration": "Sự thật là hai nguồn nhiệt khổng lồ đang đồng thời tấn công điện thoại của bạn.",
+        "search": "motion graphics sun rays heating up smartphone render",
+        "caption": "Hai nguồn nhiệt khổng lồ đang tấn công điện thoại"
+      },
+      {
+        "narration": "Ánh nắng thiêu đốt bên ngoài, còn màn hình OLED thì rực nóng bên trong.",
+        "search": "isometric render oled screen glowing hot red inside phone",
+        "caption": "Nắng chiếu bên ngoài, màn hình rực nóng bên trong"
+      },
+      {
+        "narration": "Nhiệt độ vượt ngưỡng an toàn sẽ làm hỏng tấm nền và khiến pin chai rất nhanh.",
+        "search": "3d animation internal phone battery heating up red",
+        "caption": "Nhiệt độ cao làm hỏng tấm nền và làm chai pin"
+      },
+      {
+        "narration": "Để tự cứu mình khỏi nguy cơ phát nổ, vi xử lý buộc phải can thiệp.",
+        "search": "explainer animation cpu microchip sending red warning signal",
+        "caption": "Vi xử lý buộc phải can thiệp để tự bảo vệ"
+      },
+      {
+        "narration": "Cơ chế Thermal Throttling sẽ ép giảm 30 đến 50% độ sáng để hạ nhiệt máy.",
+        "search": "3d animation phone cooling down thermal throttling graph",
+        "caption": "Ép giảm 30-50% độ sáng để hạ nhiệt tức thì"
+      },
+      {
+        "narration": "Dù bạn có cố kéo thanh độ sáng lên mức tối đa, hệ điều hành vẫn sẽ từ chối thao tác này.",
+        "search": "thanh do sang man hinh dien thoai 3d animation",
+        "caption": "Kéo độ sáng tối đa vẫn không tác dụng"
+      },
+      {
+        "narration": "Nếu tiếp tục duy trì độ sáng cực đại ngoài trời nắng, tấm nền OLED sẽ hỏng vĩnh viễn và pin bị chai cấp tốc.",
+        "search": "man hinh OLED dien thoai qua nhiệt 3d animation",
+        "caption": "Nắng nóng làm hỏng OLED và chai pin cấp tốc"
+      },
+      {
+        "narration": "Cảm biến nhiệt độ liên tục gửi cảnh báo để CPU ép hạ công suất trước khi máy tự ngắt nguồn.",
+        "search": "chip CPU dien thoai phat sang qua nhiệt explainer animation",
+        "caption": "Cảm biến ép CPU giảm công suất khẩn cấp"
+      },
+      {
+        "narration": "Vì vậy, hiện tượng màn hình tự tối sầm hoàn toàn không phải do cảm biến ánh sáng bị hỏng.",
+        "search": "dien thoai nhap nhay bieu tuong loi isometric render",
+        "caption": "Màn hình tối sầm không phải lỗi phần mềm"
+      },
+      {
+        "narration": "Đó chính là lá chắn thông minh đang âm thầm cứu chiếc điện thoại đắt tiền của bạn khỏi nguy cơ phát nổ.",
+        "search": "dien thoai duoc bao ve la chan 3d animation",
+        "caption": "Lá chắn âm thầm cứu điện thoại khỏi phát nổ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T20:20:29.293994+00:00",
+    "updated_at": "2026-10-27T20:24:04.793283+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-27T20:22:04.599384+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "515 chars (cat 148 de vua 55s)",
+        "at": "2026-10-27T20:22:48.783125+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-27T20:23:02.373258+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T20:23:03.601980+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-27T20:23:18.256385+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-27T20:23:18.320114+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.2s 26199569 bytes",
+        "at": "2026-10-27T20:24:04.469732+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T20:24:04.793262+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/18516735/18516735-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/8820125/8820125-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7985888/7985888-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/28603089/12431403_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6624848/6624848-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/16552766/16552766-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6755168/6755168-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40316891/17222101_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/35062890/14852660_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561458/16561458-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34908543/14788219_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6332467/6332467-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "3df5f4a244",
     "kind": "long",
     "channel": "seigh",
