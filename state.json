@@ -1,5 +1,161 @@
 [
   {
+    "id": "0fb726af83",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Tragic Siege Where a General Sacrificed Everything",
+    "idea": {
+      "title": "The Tragic Siege Where a General Sacrificed Everything",
+      "hook": "In 757 AD, General Zhang Xun faced 130,000 invaders with zero supplies left, leading to an unthinkable act of desperation that saved an empire.",
+      "beats": [
+        "Trapped in Suiyang, Zhang Xun's 7,000 troops ran completely out of horses, birds, and leather gear.",
+        "To keep his defenders from surrendering, Zhang Xun sacrificed his own family members to feed the garrison.",
+        "Over 20,000 civilians were consumed during the agonizing months-long siege.",
+        "Their tragic stand drained the rebel army, allowing royal forces time to save the Tang Dynasty."
+      ],
+      "keywords": [
+        "ancient siege painting",
+        "tang dynasty battle",
+        "ancient general portrait",
+        "historic city siege engraving",
+        "medieval warfare battle map"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#tangdynasty",
+        "#militaryhistory",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 757 AD, one unthinkable sacrifice saved an empire.",
+        "search": "tang dynasty silk painting battle",
+        "caption": "An unthinkable sacrifice saved an empire."
+      },
+      {
+        "narration": "During the An Lushan Rebellion in 757 AD, General Zhang Xun defended Suiyang with just seven thousand men.",
+        "search": "ancient general zhang xun portrait painting",
+        "caption": "757 AD: General Zhang Xun holds Suiyang."
+      },
+      {
+        "narration": "Surrounding the fortress were over one hundred and thirty thousand rebel troops, completely sealing all supply lines.",
+        "search": "tang dynasty fortress siege painting",
+        "caption": "130,000 invaders surround the city."
+      },
+      {
+        "narration": "As months passed, the garrison exhausted all standard food supplies, devouring horses, birds, and leather gear.",
+        "search": "ancient city siege historic manuscript illustration",
+        "caption": "Rations depleted completely during the blockade."
+      },
+      {
+        "narration": "By mid-summer, extreme starvation threatened to force an immediate surrender to the rebel army.",
+        "search": "ancient map of tang dynasty siege suiyang engraving",
+        "caption": "Starvation brings the garrison to a crisis."
+      },
+      {
+        "narration": "Refusing to yield the strategic fortress, General Zhang Xun executed his own concubine to feed his starving troops.",
+        "search": "ancient chinese palace courtyard painting",
+        "caption": "Zhang Xun sacrifices his own family."
+      },
+      {
+        "narration": "Following their commander's extreme precedent, officers began systematic rations using the remaining population.",
+        "search": "ancient war casualty artwork silk painting",
+        "caption": "Extreme measures taken to maintain defense."
+      },
+      {
+        "narration": "Historical records estimate that over twenty thousand civilians were consumed to sustain the defense.",
+        "search": "historic siege battle scene painting",
+        "caption": "20,000 civilians consumed during siege."
+      },
+      {
+        "narration": "In October 757 AD, after ten months of resistance, Suiyang finally fell and Zhang Xun was captured and executed.",
+        "search": "ancient general portrait painting",
+        "caption": "In October 757 AD, Suiyang fell and General Zhang Xun was executed."
+      },
+      {
+        "narration": "However, the grueling siege destroyed the rebel army's momentum, giving Tang royal forces crucial time to recapture the capital.",
+        "search": "medieval warfare battle map",
+        "caption": "The prolonged siege stalled the rebellion, saving the Tang royal forces."
+      },
+      {
+        "narration": "Zhang Xun sacrificed twenty thousand lives to save an empire, cementing one of history's most horrific paradoxes.",
+        "search": "historic city siege engraving",
+        "caption": "A horrific sacrifice that saved an empire, leaving a brutal legacy."
+      },
+      {
+        "narration": "In 757 AD, General Zhang Xun faced 130,000 invaders with zero supplies left.",
+        "search": "ancient chinese general portrait ink painting",
+        "caption": "130,000 invaders faced zero supplies."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T06:08:19.431336+00:00",
+    "updated_at": "2026-10-27T06:14:29.903268+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-27T06:10:17.411006+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "395 chars (cat 355 de vua 55s)",
+        "at": "2026-10-27T06:11:21.365958+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-27T06:11:23.743991+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T06:11:25.214887+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-27T06:13:40.466030+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-27T06:13:40.565855+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.3s 13125847 bytes",
+        "at": "2026-10-27T06:14:29.541047+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T06:14:29.903252+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30723736/pexels-photo-30723736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40495046/pexels-photo-40495046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8366149/pexels-photo-8366149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35118211/pexels-photo-35118211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34412158/pexels-photo-34412158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15288359/pexels-photo-15288359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563545/pexels-photo-16563545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35379854/pexels-photo-35379854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13979555/pexels-photo-13979555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31198271/pexels-photo-31198271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7610582/pexels-photo-7610582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dff6105569",
     "kind": "short",
     "channel": "Channel3",
