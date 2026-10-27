@@ -1,5 +1,597 @@
 [
   {
+    "id": "3df5f4a244",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Shot in the Dark: The Unsolved Assassination of Sweden's Lion King",
+    "idea": {
+      "title": "Shot in the Dark: The Unsolved Assassination of Sweden's Lion King",
+      "hook": "In 1718, King Charles XII of Sweden peered over a siege trench when a single bullet pierced his brain—ending an empire in seconds.",
+      "beats": [
+        "Introduction: The chilling night of November 30, 1718, at Fredriksten fortress and the fatal shot that changed European history.",
+        "The Boy King's Rise: How 15-year-old Charles XII inherited absolute power and repelled Denmark, Poland, and Russia in the opening of the Great Northern War.",
+        "Reckless Courage: Charles XII's legendary battlefield tactics, refusing to wear royal armor, and fighting in the mud alongside his elite Caroleans.",
+        "The Tipping Point: The disastrous winter invasion of Russia, the catastrophic defeat at Poltava, and two decades of non-stop, exhausting warfare.",
+        "The Trench at Fredriksten: Reconstructing the night of the siege—pitch darkness, heavy mud, and the King leaning over the parapet into enemy sights.",
+        "The Fatal Impact: The precise trajectory through his temples, the immediate cover-up by his inner circle, and the panic in the Swedish camp.",
+        "Theory 1 - The Enemy Sharpshooter: The case for a lucky Norwegian grapeshot or musket ball fired under chaotic battlefield conditions.",
+        "Theory 2 - The Insider Assassination: Why war-weary Swedish nobles and prince-consort Frederick had powerful motives to eliminate the autocratic monarch.",
+        "The Brass Button Legend: The mysterious artifact alleged to be a makeshift bullet made from Charles XII's own uniform button.",
+        "Forensic Exhumations: Analyzing the 1859, 1917, and modern ballistics tests examining skull entry angles and bullet caliber sizes.",
+        "Collapse of an Empire: How Charles's death brought an instant end to Sweden's Great Power era and ushered in Russia's dominance under Peter the Great.",
+        "Conclusion: The immortal legend of the 'Swedish Meteor' and whether his death remains history's most successful political murder."
+      ],
+      "keywords": [
+        "Charles XII",
+        "Swedish Empire",
+        "Great Northern War",
+        "Fredriksten Fortress",
+        "royal assassination",
+        "Caroleans",
+        "Peter the Great",
+        "European military history",
+        "unsolved historical mysteries",
+        "Battle of Poltava"
+      ],
+      "tags": [
+        "#history",
+        "#militaryhistory",
+        "#sweden",
+        "#charlesxii",
+        "#greatnorthernwar",
+        "#historymysteries",
+        "#assassination",
+        "#documentary"
+      ],
+      "kind": "long",
+      "thumbnail_text": "SHOT BY HIS OWN MEN?"
+    },
+    "scenes": [
+      {
+        "narration": "Did Swedish insiders assassinate King Charles XII in 1718?",
+        "search": "Charles XII of Sweden oil painting",
+        "caption": "Did Swedish insiders assassinate King Charles XII in 1718?"
+      },
+      {
+        "narration": "On November 30, 1718, King Charles XII died instantly from a bullet through his skull at Fredriksten Fortress, collapsing the Swedish Empire in seconds.",
+        "search": "Fredriksten fortress siege 1718 engraving",
+        "caption": "November 30, 1718: The fall of Sweden's empire."
+      },
+      {
+        "narration": "Crowned in 1697 at age fifteen, Charles XII assumed absolute power and repelled Denmark, Poland, and Russia during the Great Northern War.",
+        "search": "Charles XII king coronation 1697 oil painting",
+        "caption": "Charles XII assumed total control at age fifteen."
+      },
+      {
+        "narration": "Refusing armor, the king led his elite Caroleans into Russia, culminating in the catastrophic 1709 defeat at the Battle of Poltava.",
+        "search": "Battle of Poltava 1709 oil painting",
+        "caption": "The 1709 Poltava defeat crippled the Swedish army."
+      },
+      {
+        "narration": "By late 1718, during a desperate Norwegian campaign, Charles leaned over a muddy trench wall into pitch darkness near enemy lines.",
+        "search": "18th century military siege trench engraving",
+        "caption": "Charles XII exposed himself above the trench line."
+      },
+      {
+        "narration": "A heavy projectile pierced his left temple and exited his right, forcing officers to immediately hide his face to prevent army-wide panic.",
+        "search": "Death of Charles XII 1718 historical painting",
+        "caption": "Officers covered the fatal headshot to prevent panic."
+      },
+      {
+        "narration": "While officially blamed on a Norwegian grapeshot, war-weary Swedish nobles and Prince Frederick had powerful motives to execute their autocratic monarch.",
+        "search": "Frederick I of Sweden portrait painting",
+        "caption": "Did war-weary Swedish nobles orchestrate an assassination?"
+      },
+      {
+        "narration": "Modern forensic exhumations and skull ballistics point toward a close-range insider strike, cementing Tsar Peter the Great as Europe's dominant northern power.",
+        "search": "Peter the Great of Russia portrait painting",
+        "caption": "Forensic evidence suggests murder, cementing Russian dominance."
+      },
+      {
+        "narration": "Legend says the regicide bullet was crafted from one of Charles XII's own brass buttons, melted down by a Swedish insider who believed the king was protected by witchcraft.",
+        "search": "18th century brass button uniform museum photograph",
+        "caption": "The legend of the silver bullet brass button"
+      },
+      {
+        "narration": "Minutes after the fatal shot on November 30, 1718, General Carl Gustaf Dücker draped a cloak over the king's shattered head to hide his death from the troops.",
+        "search": "Carl Gustaf Ducker portrait painting",
+        "caption": "Drapes cloak over Charles XII head 1718"
+      },
+      {
+        "narration": "When Swedish scientists exhumed Charles XII's body in 1917, high-resolution photographs revealed a clean 32-millimeter entry wound through his left temple.",
+        "search": "1917 archival photo exhumation Charles XII skull",
+        "caption": "Skull exhumation reveals 32mm bullet entry hole"
+      },
+      {
+        "narration": "Modern ballistics experts calculated that a Norwegian musket at 600 meters could not create the violent, high-velocity fracture pattern found inside the royal skull.",
+        "search": "18th century musket ball lead lead shot photo",
+        "caption": "Ballistics contradict distant Norwegian sniper fire"
+      },
+      {
+        "narration": "Within hours of the king's death, Prince Frederick of Hesse seized the treasury and ordered the execution of chief minister Georg Heinrich von Görtz in 1719.",
+        "search": "Frederick I of Sweden portrait painting prince",
+        "caption": "Prince Frederick seizes Swedish throne 1719"
+      },
+      {
+        "narration": "The sudden removal of the autocratic monarch forced Sweden to sign the 1721 Treaty of Nystad, surrendering Livonia, Estonia, and Ingria.",
+        "search": "Treaty of Nystad 1721 manuscript engraving",
+        "caption": "Treaty of Nystad ends Swedish Empire 1721"
+      },
+      {
+        "narration": "Tsar Peter the Great exploited the collapse of Swedish military power, establishing the Russian Empire as the undisputed hegemon of Northern Europe.",
+        "search": "Peter the Great Tsar portrait painting",
+        "caption": "Tsar Peter the Great claims Baltic supremacy"
+      },
+      {
+        "narration": "Three centuries after the trench wall at Fredriksten, history's most consequential battlefield death remains an unsolved murder that rewrote European destiny.",
+        "search": "Fredriksten fortress Norway 18th century engraving map",
+        "caption": "History's most successful political assassination unsolved"
+      },
+      {
+        "narration": "On November 30, 1718, the fatal projectile struck King Charles XII through his left temple at an extraordinarily close trajectory, raising immediate suspicion among his soldiers.",
+        "search": "King Charles XII death in trench 1718 oil painting",
+        "caption": "A point-blank lethal shot sparked immediate military suspicion in 1718."
+      },
+      {
+        "narration": "Suspicion centered on Prince Frederick of Hesse, who stood to inherit royal power and immediately dispatched courier André Sicre before the King's body grew cold.",
+        "search": "Prince Frederick of Hesse portrait painting",
+        "caption": "Prince Frederick sent couriers to seize royal power before dawn."
+      },
+      {
+        "narration": "Preserved in Stockholm, the felt hat worn by Charles XII on his final night reveals a distinct bullet hole measuring over eighteen millimeters across.",
+        "search": "Charles XII felt hat historical artifact museum engraving",
+        "caption": "The preserved felt hat shows an eighteen-millimeter bullet hole."
+      },
+      {
+        "narration": "In 1924, researchers analyzed a lead-filled brass button discovered in Halland, alleged to be a makeshift bullet cast from the King's own uniform.",
+        "search": "18th century Swedish military uniform brass button photo",
+        "caption": "A lead-filled brass uniform button surfaced as the alleged weapon."
+      },
+      {
+        "narration": "During the August 1859 royal exhumation inside Riddarholmen Church, Swedish physicians documented catastrophic fracture lines penetrating both sides of the monarch's skull.",
+        "search": "Riddarholmen Church Stockholm 19th century architectural engraving",
+        "caption": "Royal exhumations in 1859 documented severe cranial fracture patterns."
+      },
+      {
+        "narration": "A comprehensive 1917 forensic investigation led by Professor Almgren suggested the trajectory favored a shot originating from within the Swedish siege lines.",
+        "search": "1917 Swedish medical examination archival photograph",
+        "caption": "Autopsies in 1917 challenged official reports of Norwegian sniper fire."
+      },
+      {
+        "narration": "However, modern ballistics experiments conducted in 2022 proved an iron grapeshot fired from Fredriksten fortress easily accounts for the exact skull fracture diameter.",
+        "search": "Fredriksten fortress Norway 18th century map engraving",
+        "caption": "Computerized ballistic models matched distance to Norwegian fortress artillery."
+      },
+      {
+        "narration": "The sudden demise of Charles XII instantly dissolved Swedish absolutism, ushering in the parliamentary Age of Liberty in 1719 and ending an empire forever.",
+        "search": "Swedish Parliament Riksdag 18th century engraving",
+        "caption": "Charles XII's death ended absolute monarchy and birthed parliamentary rule."
+      },
+      {
+        "narration": "On November 30, 1718, seconds after the lethal projectile struck, General Carl Gustaf Cronstedt immediately wrapped King Charles XII's bloody head in a cloak to conceal the death from panic-stricken troops.",
+        "search": "18th century general cloak officer uniform oil painting",
+        "caption": "General Cronstedt hastily concealed the fallen monarch's body."
+      },
+      {
+        "narration": "Prince Frederick of Hesse-Kassel, who subsequently seized royal authority, distributed massive financial rewards and instant promotions to key officers present near the trench that night.",
+        "search": "Frederick I of Sweden portrait painting rewarded",
+        "caption": "Prince Frederick rewarded officers stationed near the fatal trench."
+      },
+      {
+        "narration": "A popular legend emerged around French aide-de-camp André Sicre, who reportedly confessed during a feverish delirium to firing a makeshift bullet fashioned from the King's own brass uniform button.",
+        "search": "18th century military button artifact photograph",
+        "caption": "A brass button legend fueled insider assassination conspiracy theories."
+      },
+      {
+        "narration": "When Swedish medical teams exhumed Charles XII in 1917, forensic photographs documented a massive exit wound measuring thirty-two millimeters across his left cranium.",
+        "search": "Charles XII of Sweden skull exhumation 1917 archival photograph",
+        "caption": "1917 forensic examination revealed a catastrophic skull wound."
+      },
+      {
+        "narration": "Modern ballistic trajectory modeling indicates the projectile struck from the direction of Norwegian fort cannons rather than the nearby Swedish trench positions.",
+        "search": "Fredriksten fortress 18th century map engraving",
+        "caption": "Trajectory analysis pointed directly toward enemy defensive batteries."
+      },
+      {
+        "narration": "Upon learning of their king's demise, the fifteen-thousand-man Swedish army abruptly abandoned the siege of Fredriksten and began a disastrous winter retreat.",
+        "search": "Caroleans blizzard march retreat 1718 oil painting",
+        "caption": "The Swedish retreat resulted in catastrophic losses across frozen mountains."
+      },
+      {
+        "narration": "The 1721 Treaty of Nystad officially stripped Sweden of its Baltic provinces, permanently establishing Tsar Peter the Great’s Russian Empire as the dominant northern power.",
+        "search": "Peter the Great Tsar of Russia portrait painting",
+        "caption": "Tsar Peter the Great established Russian hegemony in 1721."
+      },
+      {
+        "narration": "Whether struck by Norwegian iron grapeshot or an assassin's insider bullet, the death of Charles XII marked the permanent end of the Swedish Empire.",
+        "search": "King Charles XII of Sweden monument statue close up photo",
+        "caption": "The death of Charles XII marked the permanent end of empire."
+      },
+      {
+        "narration": "Suspicion immediately fell upon Prince Frederick of Hesse, the King's brother-in-law, who stood to inherit supreme military authority only if Charles XII died childless. His rapid seizure of power and the royal treasury within hours of the shooting raised urgent questions of high treason.",
+        "search": "Prince Frederick of Hesse portrait oil painting",
+        "caption": "Prince Frederick of Hesse seized power hours after the King's death."
+      },
+      {
+        "narration": "French officer André Sicre, Frederick's personal aide-de-camp, was rumored to be the hired gunman who pulled the trigger in the trenches. Decades later in 1741, while suffering from severe delirium, Sicre reportedly confessed to the assassination before later recanting.",
+        "search": "Andre Sicre portrait engraving",
+        "caption": "Aide-de-camp André Sicre was accused of firing the fatal shot."
+      },
+      {
+        "narration": "Folklore insisted Charles XII possessed magical protection against lead bullets, prompting conspirators to melt a brass uniform button into a makeshift projectile. In 1924, a Swedish worker unearthed a lead-filled brass button at a quarry matching royal coat dimensions.",
+        "search": "Charles XII brass button artifact museum photograph",
+        "caption": "Legend claims the King was shot with a brass uniform button."
+      },
+      {
+        "narration": "To resolve the mystery, Swedish authorities exhumed Charles XII’s preserved corpse four separate times, most thoroughly in 1917. Forensic photographs documented a massive entry-and-exit wound that completely shattered both sides of his skull.",
+        "search": "Charles XII skull exhumation photograph 1917",
+        "caption": "Royal exhumations in 1917 documented massive skull trauma."
+      },
+      {
+        "narration": "Medical examiners bitterly disputed which side of the skull sustained the initial bullet impact. A smaller hole on the left temple pointed to Norwegian enemy trenches, while a large outer blowout on the right indicated an exit point.",
+        "search": "Charles XII autopsy skull diagram engraving 19th century",
+        "caption": "Ballistic evidence hinged on identifying the entry and exit wounds."
+      },
+      {
+        "narration": "A 2022 forensic study by Finnish ballistics researchers re-analyzed skull measurements and uniform bloodstains using modern computer modeling. Their physical simulations determined that a heavy projectile larger than nineteen millimeters was necessary to cause such fractures.",
+        "search": "18th century Swedish lead musket ball museum photograph",
+        "caption": "Modern ballistics re-examine the physical force needed to shatter skull bone."
+      },
+      {
+        "narration": "The massive caliber size strongly pointed toward Norwegian iron grapeshot fired from fortress cannons during the chaotic bombardment. However, conspirators firing at close range with specialized heavy muskets could not be entirely ruled out.",
+        "search": "18th century cannon grapeshot iron ball artifact photo",
+        "caption": "Iron grapeshot from Danish-Norwegian cannons remains a leading physical explanation."
+      },
+      {
+        "narration": "As darkness enveloped the trench at Fredriksten on November 30, 1718, the chaos of siege warfare provided ideal cover for assassination. The ultimate truth behind the fatal shot remains buried beneath centuries of conflicting forensic evidence and political intrigue.",
+        "search": "Fredriksten fortress ruins dusk photograph",
+        "caption": "The true origin of the fatal shot remains shrouded in mystery."
+      },
+      {
+        "narration": "Suspicion immediately fell upon French mercenary André Sicre, the aide-de-camp to Charles XII’s brother-in-law, Prince Frederick of Hesse-Kassel. Sicre later confessed during a delirious fever in 1723 to firing the fatal shot, though he recanted after recovering.",
+        "search": "Andre Sicre portrait engraving 18th century",
+        "caption": "French mercenary André Sicre confessed to the royal murder during a fever."
+      },
+      {
+        "narration": "Prince Frederick possessed the strongest motive, as the King's sudden death cleared his wife Ulrika Eleonora's path to the Swedish throne. Hours after the shot, Frederick dispatched messengers to Stockholm to secure the crown before rivals could react.",
+        "search": "King Frederick I of Sweden oil painting",
+        "caption": "Prince Frederick instantly dispatched couriers to claim the Swedish throne in 1718."
+      },
+      {
+        "narration": "In 1924, a local legend gained scientific interest when a silver-plated brass button filled with lead was retrieved from a Swedish graveyard. According to folklore, an insider took a button from the King's own uniform to bypass his rumored magical invincibility.",
+        "search": "18th century brass military button artifact photo",
+        "caption": "Folklore claimed only a royal button could pierce the invulnerable king."
+      },
+      {
+        "narration": "Metallurgical analysis in 2002 confirmed that lead inside the brass button matched trace residues found on Charles XII's preserved gloves. However, DNA tests remained inconclusive due to centuries of biological contamination.",
+        "search": "Charles XII gloves preserved museum artifact photo",
+        "caption": "Chemical analysis matched lead traces on the button to royal gloves."
+      },
+      {
+        "narration": "To settle mounting rumors of treason, King Charles XV authorized the first official exhumation of the monarch's body in August 1859. Doctors documented a large entry wound through the left temple and a larger exit wound through the right.",
+        "search": "Charles XII skull exhumation 1859 illustration",
+        "caption": "The 1859 exhumation documented a fatal entry wound through the temple."
+      },
+      {
+        "narration": "A more thorough investigation in July 1917 utilized x-ray photography to analyze the skull's bone fractures and impact velocity. Ballistic experts calculated that the projectile moved at high speed from a left-to-right downward angle.",
+        "search": "Charles XII skull 1917 exhumation archival photograph",
+        "caption": "X-ray scans in 1917 revealed a high-velocity left-to-right bullet trajectory."
+      },
+      {
+        "narration": "In 1994, Swedish defense researchers built computer simulations of the siege trench geometry at Fredriksten fortress. Their models demonstrated that Norwegian fortress cannons firing grapeshot could easily produce the exact damage recorded on the skull.",
+        "search": "Fredriksten fortress 18th century map engraving computer",
+        "caption": "Computer models proved fortress grapeshot aligned perfectly with skull trauma."
+      },
+      {
+        "narration": "Despite scientific evidence pointing toward Norwegian artillery, key eyewitness accounts from officers standing inches away remained strangely contradictory. The sudden destruction of key military journals in 1719 raised fresh doubts that a cover-up took place.",
+        "search": "18th century swedish military document manuscript",
+        "caption": "Mysterious destruction of military records in 1719 fueled conspiracy theories."
+      },
+      {
+        "narration": "Suspicion focused heavily on Prince Frederick of Hesse, who stood to inherit the Swedish throne through his marriage to Charles's sister. His personal aide-de-camp, French officer André Sicre, was seen slipping away from the trench moments before the fatal shot.",
+        "search": "Prince Frederick of Hesse portrait painting stood",
+        "caption": "Prince Frederick stood to inherit the empire upon Charles's sudden death."
+      },
+      {
+        "narration": "Years after the siege, André Sicre suffered a violent fever and reputedly confessed in a delirium that he had killed the King. Though he later recanted, historians discovered Frederick paid Sicre astronomical sums immediately following the royal succession.",
+        "search": "18th century Swedish manuscript page document",
+        "caption": "Aide André Sicre confessed to the murder during a severe fever."
+      },
+      {
+        "narration": "On December 1, 1718, within hours of Charles XII's death, Prince Frederick seized the royal treasury and arrested the King's chief minister, Georg Heinrich von Görtz. Görtz was swiftly executed without a trial, silencing the fallen monarch's closest political ally.",
+        "search": "Georg Heinrich von Görtz portrait painting",
+        "caption": "Chief minister Görtz was executed immediately following the King's death."
+      },
+      {
+        "narration": "Folk tradition gave rise to the bizarre legend of the bullet button, claiming Charles XII possessed magical immunity that could only be shattered by his own property. According to Swedish lore, an assassin melted a brass button from the King's coat to fashion a custom projectile.",
+        "search": "18th century Swedish military uniform oil painting",
+        "caption": "Folklore claimed the King was killed by his own uniform button."
+      },
+      {
+        "narration": "In 1924, a Swedish blacksmith uncovered a lead-filled brass button matching 18th-century royal tunics in a gravel pit at Österby. DNA testing conducted in 2001 extracted human blood residue from the button that matched the royal family's genetic lineage.",
+        "search": "18th century brass military button museum artifact photograph",
+        "caption": "In 1924, a lead-filled button matching royal uniforms was discovered."
+      },
+      {
+        "narration": "Despite the biological match, ballistics experts noted that a cast brass button fired from a smoothbore musket would produce chaotic flight mechanics. This instability raised serious doubts that an assassin could hit a king's temple from inside a crowded trench.",
+        "search": "18th century flintlock musket engraving",
+        "caption": "Ballistics tests cast doubt on the accuracy of a crude button bullet."
+      },
+      {
+        "narration": "To resolve the conflict between the button theory and artillery strikes, scientists exhumed Charles XII's body in 1917 for a comprehensive photographic examination. The autopsy photos showed a massive opening on the left temple, but modern researchers disputed which side was the entry wound.",
+        "search": "1917 archival photograph charles xii exhumation",
+        "caption": "The 1917 exhumation provided new photographic evidence of skull damage."
+      },
+      {
+        "narration": "If the bullet entered from the left, it was likely Norwegian canister shot fired from the fortress walls far ahead. If it entered from the right, it meant an assassin stood just feet away inside the Swedish trenches, firing from behind the King's back.",
+        "search": "18th century siege trench siege warfare engraving",
+        "caption": "Entry angles determine whether the killer was Norwegian or Swedish."
+      },
+      {
+        "narration": "In 1994, ballistics experts re-examined the 1917 autopsy photographs and computed that a lead projectile over nineteen millimeters in diameter caused the skull trauma. This caliber closely matched both Norwegian trench-guns and standard Swedish infantry muskets of 1718.",
+        "search": "1917 historical photograph charles xii skull exhumation autopsy",
+        "caption": "Ballistics tests confirm a heavy caliber bullet pierced the skull."
+      },
+      {
+        "narration": "Suspicion quickly fell upon French mercenary officer André Sicre, who was standing in the trench near King Charles XII when the shot rang out. Years later in Stockholm, Sicre suffered from a severe fever and confessed to shooting the monarch.",
+        "search": "andre sicre portrait painting french officer sweden",
+        "caption": "French officer André Sicre later confessed to the shooting during delirium."
+      },
+      {
+        "narration": "Sicre was the personal aide-de-camp to Prince Frederick of Hesse, the husband of Charles XII’s younger sister, Princess Ulrika Eleonora. Prince Frederick held the ultimate political motive, as the King’s sudden death placed the Swedish crown directly within his reach.",
+        "search": "frederick i of sweden prince of hesse oil painting portrait",
+        "caption": "Prince Frederick of Hesse possessed the strongest political motive for assassination."
+      },
+      {
+        "narration": "Immediately after the shot at Fredriksten fortress on November 30, 1718, senior officers covered the King’s face with a hat and cloak to prevent general panic. They secretly carried his body back to camp, pretending the absolute monarch was merely asleep.",
+        "search": "charles xii dead body carriage fortress 1718 oil painting",
+        "caption": "Officers concealed the King's death to prevent panic among soldiers."
+      },
+      {
+        "narration": "Within hours of the King’s death, Prince Frederick halted the siege operations and distributed thousands of silver coins to buy the loyalty of the army leadership. The Swedish invasion force abandoned Norway in December 1718, retreating across frozen mountains where thousands froze to death.",
+        "search": "caroleans retreat norway winter 1718 historical painting",
+        "caption": "The Swedish army abandoned Norway, suffering thousands of winter casualties."
+      },
+      {
+        "narration": "Princess Ulrika Eleonora was crowned Queen of Sweden in 1719, promptly ceding supreme royal power to Parliament and ending decades of absolute monarchy. Without Charles XII's stubborn military command, Sweden rushed to negotiate peace with its coalition enemies.",
+        "search": "ulrika eleonora queen of sweden oil painting portrait",
+        "caption": "The King's death brought an immediate end to absolute royal authority."
+      },
+      {
+        "narration": "The signing of the Treaty of Nystad in September 1721 formally ended the Great Northern War after twenty-one years of conflict. Sweden surrendered Estonia, Livonia, and Ingria, forever relinquishing its status as Northern Europe's dominant empire to Peter the Great's Russia.",
+        "search": "treaty of nystad 1721 historic document manuscript engraving",
+        "caption": "The 1721 Treaty of Nystad stripped Sweden of its Baltic empire."
+      },
+      {
+        "narration": "Even after three royal exhumations, the exact trajectory and identity of the projectile that struck Charles XII remain fiercely contested by historians and ballistics experts. The mysterious shot in the dark on November 30, 1718, stands as one of history's greatest cold cases.",
+        "search": "charles xii monument halland ruin engraving 18th century",
+        "caption": "The fatal shot remains one of history's most debated cold cases."
+      },
+      {
+        "narration": "Upon Charles XII's death in 1718, his brother-in-law, Prince Frederick of Hesse, immediately ordered the arrest of the king's chief advisor, Georg Heinrich von Görtz. Görtz was executed without a trial in March 1719, clearing the path for Frederick to claim the Swedish throne.",
+        "search": "prince frederick of hesse portrait oil painting close up",
+        "caption": "Prince Frederick seized power immediately after the king's mysterious death."
+      },
+      {
+        "narration": "During the 1917 exhumation at Riddarholmen Church, Swedish physicians measured the exit wound in the king's skull at over twenty-five millimeters. This massive aperture suggested an impact far larger than standard Norwegian musket ammunition of the era.",
+        "search": "riddarholmen church stockholm engraving",
+        "caption": "The 1917 exhumation revealed an unusually large exit wound in the skull."
+      },
+      {
+        "narration": "Suspicion centered on the King's own troops, who were exhausted by eighteen years of unbroken warfare and brutal winter marches. Whispers spread across Stockholm that a Swedish traitor had loaded a uniform button into his musket to bypass the king's reputed bulletproof magic.",
+        "search": "18th century carolean swedish soldier oil painting",
+        "caption": "Rumors spread that Swedish soldiers used a brass button as ammunition."
+      },
+      {
+        "narration": "In 1722, French officer André Sicre, an aide to Prince Frederick, suffered a severe fever in Stockholm and frantically shouted that he had shot the king. Though he later retracted his confession after recovering, historians continue to debate his role in the trench that night.",
+        "search": "18th century trench siege artillery engraving",
+        "caption": "Aide-de-camp André Sicre confessed during a delirium before later recanting."
+      },
+      {
+        "narration": "In 1924, a local blacksmith presented the Örebro brass button, filled with lead and retrieved from a gravel pit near the site of the siege. Chemical tests confirmed trace amounts of blood matching Charles XII's rare DNA profile, deepening the mystery.",
+        "search": "18th century uniform brass button museum artifact photograph",
+        "caption": "The lead-filled brass button discovered in 1924 presented compelling physical evidence."
+      },
+      {
+        "narration": "In 2012, researchers at the University of Southern Denmark re-analyzed historical ballistics using modern fluid dynamics and 3D skull reconstructions. Their findings demonstrated that a lead bullet traveling at over three hundred meters per second could account for the bone fragmentation pattern.",
+        "search": "human skull ballistics 3d reconstruction illustration",
+        "caption": "Modern 3D digital simulations re-analyzed skull trauma and projectile velocity."
+      },
+      {
+        "narration": "The computer simulations showed that a Norwegian grapeshot fired from the Overbjerget fort remained ballistically possible, yet could not definitively disprove an assassin's shot from inside the trench. Both theories retain strong scientific arguments, leaving the ultimate truth elusive.",
+        "search": "fredriksten fortress norway 18th century map drawing",
+        "caption": "Scientific models support both a Norwegian grapeshot and close-range assassination."
+      },
+      {
+        "narration": "The sudden death of Charles XII shattered the Swedish Empire's military doctrine, transforming a dominant Baltic superpower into a constitutional monarchy bound by parliamentary limits. Sweden's collapse created a permanent power shift that established Peter the Great's Tsardom of Russia as Northern Europe's ruling empire.",
+        "search": "tsar peter the great portrait oil painting",
+        "caption": "Charles XII's death irrevocably transferred Northern European dominance to Russia."
+      },
+      {
+        "narration": "Folklore claimed Charles XII was invulnerable to ordinary lead, prompting an insider assassin to melt the king's own brass uniform button into a fatal bullet. In 1932, a brass-filled lead ball fitting the wound pattern was recovered from a Swedish churchyard.",
+        "search": "18th century swedish military uniform button detail engraving",
+        "caption": "Folk legends claimed only a custom brass bullet could kill Charles XII."
+      },
+      {
+        "narration": "Suspicion heavily targeted French aide-de-camp André Sicre, who reportedly confessed to firing the fatal shot during a fevered delirium in 1722. Sicre later recanted his deathbed admission, deepening the psychological mystery surrounding the royal court.",
+        "search": "18th century french army officer portrait oil painting",
+        "caption": "French aide André Sicre confessed to the murder before later recanting."
+      },
+      {
+        "narration": "Prince Frederick of Hesse, who married Charles's sister Ulrika Eleonora, immediately distributed 100,000 ducats to Swedish troops to secure their loyalty before news of the death spread. This massive transfer of wealth fueled persistent rumors of a paid treason plot.",
+        "search": "king frederick i of sweden portrait oil painting",
+        "caption": "Prince Frederick paid off troops hours after the King's death."
+      },
+      {
+        "narration": "Today, the felt hat worn by Charles XII on November 30, 1718, remains preserved in Stockholm, showing a distinct entry hole on the left temple. Ballistic experts continue to measure this single aperture against 18th-century musket calibers.",
+        "search": "charles xii hat with bullet hole museum artifact photograph",
+        "caption": "The bullet-pierced hat remains preserved in Stockholm."
+      },
+      {
+        "narration": "Within months of the King's burial, the Swedish Riksdag dismantled royal autocracy and established Europe's first parliamentary governance system, known as the Age of Liberty. The assassination effectively achieved what decades of political opposition could not.",
+        "search": "18th century swedish riksdag parliament meeting engraving",
+        "caption": "Charles's death immediately ended autocratic rule in Sweden."
+      },
+      {
+        "narration": "At Fredriksten Fortress, a granite monument stands near the dark trench where the thirty-six-year-old monarch fell into the mud. The cold Norwegian wind still shrouds the precise trajectory of the fatal shot in perpetual ambiguity.",
+        "search": "fredriksten fortress norway 18th century map engraving fateful",
+        "caption": "The fateful trench at Fredriksten Fortress remains a silent crime scene."
+      },
+      {
+        "narration": "Modern forensic science confirms the fatal projectile was large and traveling at high velocity, consistent with both Norwegian grapeshot and a close-range sniper within the siege lines. Without the physical bullet itself, ballistics cannot deliver a final verdict.",
+        "search": "charles xii death mask portrait sculpture illustration",
+        "caption": "Science narrows the trajectory, but the bullet itself remains missing."
+      },
+      {
+        "narration": "Whether struck down by an enemy gunner or executed by his own desperate officers, Charles XII's death in the dark remains history's ultimate political unsolved mystery. A single bullet ended the Swedish Empire, crowned Peter the Great's Russia, and changed Europe forever.",
+        "search": "king charles xii sweden deathbed portrait oil painting",
+        "caption": "A single mysterious shot redefined European history in seconds."
+      },
+      {
+        "narration": "Did a traitor's bullet end Sweden's empire?",
+        "search": "Charles XII of Sweden death trench 1718 oil painting",
+        "caption": "Was Sweden's King assassinated by his own men?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T19:11:46.090014+00:00",
+    "updated_at": "2026-10-27T19:50:32.308588+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-27T19:32:18.577826+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2244 chars",
+        "at": "2026-10-27T19:33:04.062102+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "134.1s en-US-GuyNeural 19 cau",
+        "at": "2026-10-27T19:33:17.587709+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-27T19:33:21.179146+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-27T19:48:04.224472+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-27T19:48:04.277280+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 134.1s 99526260 bytes",
+        "at": "2026-10-27T19:50:31.947249+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-10-27T19:50:32.050924+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-27T19:50:32.308570+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35661503/pexels-photo-35661503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37014935/pexels-photo-37014935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6693797/pexels-photo-6693797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40458787/pexels-photo-40458787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30718756/pexels-photo-30718756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36046257/pexels-photo-36046257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15251387/pexels-photo-15251387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267461/pexels-photo-9267461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14766457/pexels-photo-14766457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36572482/pexels-photo-36572482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33971318/pexels-photo-33971318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36046259/pexels-photo-36046259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5425613/pexels-photo-5425613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39397695/pexels-photo-39397695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38933944/pexels-photo-38933944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739380/pexels-photo-5739380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29484278/pexels-photo-29484278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10717210/pexels-photo-10717210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268732/pexels-photo-9268732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30753533/pexels-photo-30753533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13493217/pexels-photo-13493217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9002092/pexels-photo-9002092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34454497/pexels-photo-34454497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16721221/pexels-photo-16721221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30297617/pexels-photo-30297617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1408986/pexels-photo-1408986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3876301/pexels-photo-3876301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33565417/pexels-photo-33565417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14981265/pexels-photo-14981265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10879010/pexels-photo-10879010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1060069/pexels-photo-1060069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14632530/pexels-photo-14632530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36598233/pexels-photo-36598233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096142/pexels-photo-37096142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38563104/pexels-photo-38563104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37726618/pexels-photo-37726618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38302746/pexels-photo-38302746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39269122/pexels-photo-39269122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9090643/pexels-photo-9090643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39124330/pexels-photo-39124330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18919711/pexels-photo-18919711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386785/pexels-photo-35386785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39282158/pexels-photo-39282158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27912487/pexels-photo-27912487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40212117/pexels-photo-40212117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17797498/pexels-photo-17797498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37213006/pexels-photo-37213006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5065159/pexels-photo-5065159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34423696/pexels-photo-34423696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885621/pexels-photo-7885621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267804/pexels-photo-9267804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5016338/pexels-photo-5016338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386771/pexels-photo-35386771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2061915/pexels-photo-2061915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40427146/pexels-photo-40427146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34938231/pexels-photo-34938231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12407779/pexels-photo-12407779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6732647/pexels-photo-6732647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19310891/pexels-photo-19310891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30209024/pexels-photo-30209024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15742852/pexels-photo-15742852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6649320/pexels-photo-6649320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34769019/pexels-photo-34769019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718453/pexels-photo-7718453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34303325/pexels-photo-34303325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267813/pexels-photo-9267813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39743669/pexels-photo-39743669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13891132/pexels-photo-13891132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32961352/pexels-photo-32961352.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37885962/pexels-photo-37885962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17792391/pexels-photo-17792391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268721/pexels-photo-9268721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267806/pexels-photo-9267806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109043/pexels-photo-6109043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35245769/pexels-photo-35245769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36207471/pexels-photo-36207471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8932566/pexels-photo-8932566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16086933/pexels-photo-16086933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38315324/pexels-photo-38315324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37317626/pexels-photo-37317626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "612a3460b4",
     "kind": "short",
     "channel": "Channel3",
