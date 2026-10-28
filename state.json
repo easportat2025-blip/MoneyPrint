@@ -1,5 +1,162 @@
 [
   {
+    "id": "83dd26ca77",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Crowned Before He Was Even Born",
+    "idea": {
+      "title": "The Emperor Crowned Before He Was Even Born",
+      "hook": "In 309 AD, Persian nobles placed a golden crown directly onto a pregnant queen's belly, creating history's only unborn monarch.",
+      "beats": [
+        "When King Hormizd II died suddenly, rival princes slaughtered each other to claim the Sasanian Persian throne.",
+        "To prevent total civil war, royal priests announced that the widow's unborn child was a male chosen by the gods.",
+        "In an unprecedented ritual, nobles gathered around the pregnant queen and suspended the imperial crown over her womb.",
+        "Born as Emperor Shapur II, the infant survived court conspiracies and grew up to crush Rome in a 70-year reign."
+      ],
+      "keywords": [
+        "Sasanian Empire king portrait",
+        "Persian crown engraving",
+        "ancient Persia historical painting",
+        "Shapur II coin bust",
+        "ancient Ctesiphon map"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#persianempire",
+        "#historicalfigures",
+        "#weirdhistory",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "History's only emperor was crowned before he was born.",
+        "search": "Sasanian Persian crown gold engraving",
+        "caption": "Crowned before he was even born."
+      },
+      {
+        "narration": "In 309 AD, King Hormizd II died abruptly, leaving the Persian Sasanian Empire without a clear successor.",
+        "search": "Hormizd II coin bust antique",
+        "caption": "309 AD: King Hormizd II dies suddenly in Persia."
+      },
+      {
+        "narration": "Royal brothers and rival princes immediately turned on each other, triggering brutal palace purges across the capital of Ctesiphon.",
+        "search": "ancient Ctesiphon ruins antique engraving",
+        "caption": "Rival princes launch bloody palace purges for the throne."
+      },
+      {
+        "narration": "The oldest prince was murdered, another was blinded by court rivals, and a third fled into Roman exile.",
+        "search": "ancient Persian warriors battle manuscript illustration",
+        "caption": "One prince murdered, another blinded, the dynasty crumbling."
+      },
+      {
+        "narration": "Desperate to halt total civil war, Sasanian nobles and Zoroastrian priests turned to one of Hormizd's pregnant widows.",
+        "search": "Zoroastrian high priest relief carving ancient Persia",
+        "caption": "Priests look to the deceased king's pregnant widow."
+      },
+      {
+        "narration": "Royal astrologers boldly declared that the unborn fetus was not only male, but destined by the gods to rule.",
+        "search": "ancient Persian manuscript royal court miniature painting",
+        "caption": "Astrologers declare the unborn fetus is a male heir."
+      },
+      {
+        "narration": "In an unprecedented coronation ritual, grandees gathered in the royal bedchamber and suspended the imperial crown directly onto her belly.",
+        "search": "Persian queen royal regalia ancient illustration",
+        "caption": "The imperial crown is placed directly over the womb."
+      },
+      {
+        "narration": "Named Shapur II from the womb, the infant monarch now had to survive ambitious regents plotting his demise.",
+        "search": "Shapur II silver drachm coin portrait",
+        "caption": "Shapur II inherits an empire surrounded by conspirators."
+      },
+      {
+        "narration": "At age sixteen in 325 AD, Shapur II stripped his regents of power and assumed absolute command of the Sasanian military. He swiftly crushed rebel Arab confederations and fortified the imperial frontiers.",
+        "search": "Shapur II rock relief carving Taq-e Bostan",
+        "caption": "At age sixteen, Shapur seized power and crushed border rebellions."
+      },
+      {
+        "narration": "During his decades of war with Rome, Shapur defeated three Roman emperors, culminating in the death of Julian in 363 AD. The victory forced Rome to surrender five frontier provinces and major fortresses.",
+        "search": "Death of Roman Emperor Julian battle painting",
+        "caption": "Shapur crushed Roman forces in 363 AD, claiming strategic frontier territories."
+      },
+      {
+        "narration": "When Shapur II died in 379 AD, he had reigned for precisely seventy years. He remains the only monarch in documented history whose entire biological existence, from before birth to death, was spent as king.",
+        "search": "Shapur II gold coin bust engraving",
+        "caption": "Crowned before birth, Shapur II ruled his entire seventy-year life."
+      },
+      {
+        "narration": "One emperor was crowned before he was even born.",
+        "search": "Sasanian golden crown ancient Persian relief carving",
+        "caption": "History's only monarch crowned inside the womb."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T09:57:37.593346+00:00",
+    "updated_at": "2026-10-28T10:12:33.577607+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-28T10:07:00.018762+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "434 chars (cat 145 de vua 55s)",
+        "at": "2026-10-28T10:09:30.355846+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-10-28T10:09:33.831879+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T10:09:35.179602+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-28T10:11:50.249966+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T10:11:50.352289+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 16577318 bytes",
+        "at": "2026-10-28T10:12:33.184424+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T10:12:33.577585+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/31094856/pexels-photo-31094856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7175696/pexels-photo-7175696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30925621/pexels-photo-30925621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38914901/pexels-photo-38914901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29055856/pexels-photo-29055856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18062018/pexels-photo-18062018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37147527/pexels-photo-37147527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20893293/pexels-photo-20893293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12857836/pexels-photo-12857836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38182794/pexels-photo-38182794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12689956/pexels-photo-12689956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38737894/pexels-photo-38737894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "df3a5efa0f",
     "kind": "short",
     "channel": "Channel2",
