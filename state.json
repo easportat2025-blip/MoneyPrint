@@ -1,5 +1,162 @@
 [
   {
+    "id": "df3a5efa0f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Secret Dagger That Created China's First Emperor",
+    "idea": {
+      "title": "The Secret Dagger That Created China's First Emperor",
+      "hook": "When assassin Jing Ke unrolled a map before China's most ruthless king, he hid a poisoned blade inside—unwittingly triggering the bloody creation of an empire.",
+      "beats": [
+        "In 227 BC, assassin Jing Ke pretended to surrender maps and a rival general's head to King Zheng of Qin.",
+        "Unrolling the map revealed a hidden, lethal dagger, causing panic in the royal court.",
+        "Jing Ke grabbed the king, but Zheng's ceremonial sword was too long to draw in close quarters.",
+        "Guided by his court doctor, Zheng slung the sword behind his back, drew it, and mortally wounded his attacker.",
+        "Driven by rage and fear from the betrayal, Zheng conquered all remaining states to become China's First Emperor."
+      ],
+      "keywords": [
+        "ancient china painting",
+        "qin shi huang portrait",
+        "chinese assassin engraving",
+        "ancient war map",
+        "terracotta warrior history"
+      ],
+      "tags": [
+        "#history",
+        "#ancientchina",
+        "#chinahistory",
+        "#qinshihuang",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One dagger created China's first empire in 227 BC.",
+        "search": "qin shi huang portrait painting",
+        "caption": "One dagger created China's first empire."
+      },
+      {
+        "narration": "A botched assassination transformed a vulnerable king into history's most ruthless unifier.",
+        "search": "ancient chinese war map painting",
+        "caption": "A failed assassination triggered an empire."
+      },
+      {
+        "narration": "In 227 BC, the state of Yan sent assassin Jing Ke to King Zheng of Qin.",
+        "search": "ancient china royal court painting",
+        "caption": "227 BC: An assassin enters Qin."
+      },
+      {
+        "narration": "Jing Ke offered a territory map and a general's severed head as tokens of surrender.",
+        "search": "ancient chinese bronze dagger artifact",
+        "caption": "Gifts of peace hiding mortal betrayal."
+      },
+      {
+        "narration": "Unrolling the silk map inside the royal hall revealed a concealed, poisoned blade.",
+        "search": "chinese assassin engraving silk painting",
+        "caption": "The hidden poisoned blade unrolled."
+      },
+      {
+        "narration": "Jing Ke grabbed the king, whose five-foot ceremonial sword was too long to draw up close.",
+        "search": "ancient chinese ceremonial sword bronze artifact",
+        "caption": "Trapped by a long ceremonial sword."
+      },
+      {
+        "narration": "Prompted by his doctor, Zheng slung the sheath behind his back and mortally slashed his attacker.",
+        "search": "ancient chinese palace guard painting",
+        "caption": "A back-draw stroke saves the king."
+      },
+      {
+        "narration": "Fuelled by paranoia, King Zheng conquered all six rival states to crown himself First Emperor.",
+        "search": "terracotta warriors ancient china history",
+        "caption": "Paranoia birthed China's First Emperor."
+      },
+      {
+        "narration": "Driven by trauma from the 227 BC attack, Emperor Qin Shi Huang constructed an army of eight thousand terracotta soldiers to guard his tomb.",
+        "search": "terracotta warrior history photograph",
+        "caption": "Traumatized by assassins, Qin commissioned thousands of underground soldiers."
+      },
+      {
+        "narration": "To eliminate future rebellions, the emperor melted down all private weapons, burned ancient texts, and executed hundreds of dissenting scholars.",
+        "search": "burning of books Chinese ink painting",
+        "caption": "Total tyranny: private weapons melted, books burned, scholars executed."
+      },
+      {
+        "narration": "In 221 BC, Jing Ke's hidden dagger failed to kill a king, but its terror birthed China's immortal empire.",
+        "search": "qin shi huang portrait painting strike",
+        "caption": "One hidden dagger strike forged two thousand years of empire."
+      },
+      {
+        "narration": "One hidden dagger birthed an entire empire.",
+        "search": "ancient chinese dagger bronze artifact museum",
+        "caption": "One hidden dagger birthed an entire empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T06:51:22.889424+00:00",
+    "updated_at": "2026-10-28T06:58:40.944727+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-28T06:53:11.788561+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 257 de vua 55s)",
+        "at": "2026-10-28T06:55:32.888375+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.4s en-US-GuyNeural 7 cau",
+        "at": "2026-10-28T06:55:35.552049+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T06:55:36.861969+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-28T06:57:58.013640+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T06:57:58.095227+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.5s 15262681 bytes",
+        "at": "2026-10-28T06:58:40.605326+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T06:58:40.944707+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34165950/pexels-photo-34165950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2294475/pexels-photo-2294475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39116605/pexels-photo-39116605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11197734/pexels-photo-11197734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35749002/pexels-photo-35749002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24768393/pexels-photo-24768393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12273121/pexels-photo-12273121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30737860/pexels-photo-30737860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31467011/pexels-photo-31467011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35346910/pexels-photo-35346910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39041245/pexels-photo-39041245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31402726/pexels-photo-31402726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bf2d662bed",
     "kind": "short",
     "channel": "Channel3",
