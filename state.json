@@ -1,5 +1,161 @@
 [
   {
+    "id": "39511b8038",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Vlad the Impaler Terrified an Ottoman Invasion",
+    "idea": {
+      "title": "How Vlad the Impaler Terrified an Ottoman Invasion",
+      "hook": "In 1462, Vlad the Impaler disguised himself as an Ottoman officer, slipped into the Sultan's camp, and unleashed a night of horror that broke an entire empire's morale.",
+      "beats": [
+        "Sultan Mehmed II invaded Wallachia with 60,000 men to force Vlad from the throne.",
+        "Outnumbered four to one, Vlad launched a daring midnight attack directly targeting the Sultan's royal tent.",
+        "Although Mehmed survived, Vlad retreated and left a sight of 20,000 impaled enemies lining the road to his capital.",
+        "Stunned by the psychological horror, the demoralized Ottoman army abandoned the campaign without fighting a major battle."
+      ],
+      "keywords": [
+        "Vlad the Impaler portrait",
+        "Ottoman Empire battle engraving",
+        "Wallachia historical map",
+        "Sultan Mehmed II bust",
+        "medieval night attack painting"
+      ],
+      "tags": [
+        "history",
+        "vladtheimpaler",
+        "ottomanempire",
+        "medievalhistory",
+        "warhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1462, a prince broke an empire overnight.",
+        "search": "Vlad the Impaler portrait painting",
+        "caption": "How a prince broke an empire overnight."
+      },
+      {
+        "narration": "In 1462, Sultan Mehmed II marched 60,000 Ottoman soldiers into Wallachia to overthrow Vlad III.",
+        "search": "Sultan Mehmed II bust statue",
+        "caption": "Sultan Mehmed II invaded Wallachia in 1462."
+      },
+      {
+        "narration": "Outnumbered four to one, Vlad avoided open warfare, relying on scorched-earth tactics.",
+        "search": "Wallachia historical map engraving",
+        "caption": "Vlad was outnumbered four to one."
+      },
+      {
+        "narration": "Disguised in Ottoman attire, Vlad personally infiltrated the enemy camp under cover of night.",
+        "search": "medieval night attack painting",
+        "caption": "Vlad disguised himself to scout the camp."
+      },
+      {
+        "narration": "On June 17, 1462, Vlad launched a violent midnight raid targeting the Sultan's royal tent.",
+        "search": "Ottoman Empire battle engraving",
+        "caption": "A surprise raid targeted the Sultan."
+      },
+      {
+        "narration": "Chaos erupted as Wallachian forces struck thousands of confused soldiers before vanishing into darkness.",
+        "search": "medieval battle scene illumination manuscript",
+        "caption": "Thousands perished in nocturnal chaos."
+      },
+      {
+        "narration": "When Mehmed advanced toward Târgoviște, he encountered 20,000 impaled captives lining the road.",
+        "search": "Vlad the Impaler impalement historical engraving",
+        "caption": "A road of 20,000 impaled victims."
+      },
+      {
+        "narration": "Devastated by psychological horror, the demoralized Ottoman army abandoned the campaign without fighting a major battle.",
+        "search": "Ottoman cavalry retreat engraving",
+        "caption": "The terrified Ottoman army withdrew."
+      },
+      {
+        "narration": "In July 1462, Sultan Mehmed II withdrew his remaining forces across the Danube, leaving Vlad III in sovereign control of Wallachia.",
+        "search": "Ottoman army retreat historical engraving",
+        "caption": "Mehmed II retreated across the Danube, ending the 1462 invasion."
+      },
+      {
+        "narration": "Reports of the night raid reached Rome, where Pope Pius II commended Vlad's ruthless tactics as a defense of Christian Europe.",
+        "search": "Pope Pius II manuscript illustration portrait",
+        "caption": "European courts celebrated Vlad's brutal defense of Christendom."
+      },
+      {
+        "narration": "By using psychological horror to defeat a vast empire in 1462, Vlad the Impaler secured his throne and birthed the immortal legend of Dracula.",
+        "search": "Vlad the Impaler portrait oil painting",
+        "caption": "Vlad's psychological warfare created the ultimate legend of Dracula."
+      },
+      {
+        "narration": "In 1462, Vlad the Impaler broke an empire's morale overnight.",
+        "search": "Vlad the Impaler portrait oil painting",
+        "caption": "Did one man break an empire's morale?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T01:33:28.560575+00:00",
+    "updated_at": "2026-10-28T01:38:51.160797+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-28T01:35:02.074227+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "379 chars (cat 496 de vua 55s)",
+        "at": "2026-10-28T01:36:04.520367+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-28T01:36:07.789744+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T01:36:08.615548+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-28T01:38:22.621657+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T01:38:22.673548+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.5s 15061984 bytes",
+        "at": "2026-10-28T01:38:50.905566+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T01:38:51.160779+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30736786/pexels-photo-30736786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39618717/pexels-photo-39618717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15940015/pexels-photo-15940015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39436649/pexels-photo-39436649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34680951/pexels-photo-34680951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6752320/pexels-photo-6752320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592171/pexels-photo-39592171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19011494/pexels-photo-19011494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38102829/pexels-photo-38102829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36756831/pexels-photo-36756831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19487462/pexels-photo-19487462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20720305/pexels-photo-20720305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3b1861b7d5",
     "kind": "short",
     "channel": "Channel2",
