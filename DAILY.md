@@ -1,4 +1,4 @@
-# Daily ping 27/10/2026
+# Daily ping 28/10/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -12,8 +12,12 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (1)
-- Sai lầm nặn mụn ở tam giác chết đang đe dọa não bạn :: token refresh failed: 400 {
+## Fail (2)
+- Sai lầm nhai một bên hàm đang âm thầm làm lệch mặt bạn :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
+- How Vlad the Impaler Terrified an Ottoman Invasion :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
