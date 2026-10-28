@@ -1,5 +1,167 @@
 [
   {
+    "id": "e2af7ea228",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bấm Refresh liên tục lại làm máy tính chậm đi?",
+    "idea": {
+      "title": "Tại sao bấm Refresh liên tục lại làm máy tính chậm đi?",
+      "hook": "Bạn tưởng bấm nút Refresh liên tục trên màn hình là đang giúp máy tính giải nhiệt và chạy mượt hơn? Sự thật là bộ não máy tính đang ghét bạn vì điều đó.",
+      "beats": [
+        "Nút Refresh thực chất không hề xóa RAM hay dọn dẹp rác hệ thống như nhiều người nhầm tưởng.",
+        "Nó chỉ có nhiệm vụ bắt máy tính tải lại toàn bộ biểu tượng và giao diện trên màn hình desktop.",
+        "Việc nhấp liên tục buộc CPU và card đồ họa phải làm việc gấp đôi để vẽ lại cùng một khung hình.",
+        "Hệ quả là máy tính bị nghẽn lệnh xử lý tạm thời, khiến các ứng dụng khác càng chạy chậm hơn."
+      ],
+      "keywords": [
+        "computer desktop screen",
+        "finger clicking mouse fast",
+        "cpu microchip glowing processing",
+        "slow laptop screen freezing",
+        "hand typing on computer keyboard"
+      ],
+      "tags": [
+        "#channel3",
+        "#meomaytinh",
+        "#congnghe",
+        "#kienthuc",
+        "#suthatthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nút Refresh không hề giúp máy tính của bạn chạy mượt hơn. Sự thật là hành động này đang làm máy chạy chậm đi.",
+        "search": "3d animation ngon tay bam chuot lien tuc man hinh",
+        "caption": "Bấm Refresh liên tục làm máy tính chậm đi"
+      },
+      {
+        "narration": "Hầu hết mọi người đều có thói quen nhấp chuột phải rồi bấm Refresh liên tục mỗi khi máy bị đơ.",
+        "search": "cartoony 3d ban tay bam nhanh phim f5 tren ban phim",
+        "caption": "Thói quen nhấn Refresh liên tục khi máy lag"
+      },
+      {
+        "narration": "Nhiều người tin rằng thao tác này sẽ giúp xóa bộ nhớ tạm RAM hoặc dọn dẹp rác hệ thống.",
+        "search": "motion graphics thanh bieu do ram may tinh bao do",
+        "caption": "Lầm tưởng Refresh giúp dọn dẹp RAM bị đầy"
+      },
+      {
+        "narration": "Tuy nhiên hệ điều hành Windows chưa từng thiết kế nút Refresh cho mục đích dọn dẹp đó.",
+        "search": "explainer animation giao dien he dieu hanh may tinh",
+        "caption": "Refresh không có chức năng dọn dẹp bộ nhớ"
+      },
+      {
+        "narration": "Chức năng này thực chất chỉ có một nhiệm vụ cực kỳ đơn giản trên màn hình desktop.",
+        "search": "isometric render may tinh ban co hinh anh desktop",
+        "caption": "Nhiệm vụ thực sự của Refresh rất đơn giản"
+      },
+      {
+        "narration": "Nó chỉ giúp máy tính tải lại hiển thị của các biểu tượng icon khi giao diện bị lỗi.",
+        "search": "3d animation icon tren man hinh desktop bien mat roi hien lai",
+        "caption": "Chỉ tải lại hiển thị các icon màn hình"
+      },
+      {
+        "narration": "Mỗi lần bấm Refresh, hệ thống buộc phải quét lại danh sách tệp và vẽ lại toàn bộ màn hình.",
+        "search": "loop animation giao dien may tinh dang load lai",
+        "caption": "Ép máy tính nạp lại toàn bộ giao diện"
+      },
+      {
+        "narration": "Nếu bạn bấm liên tục mười lần, CPU sẽ nhận mười lệnh bắt buộc vẽ lại cùng một khung hình.",
+        "search": "3d animation con chip cpu may tinh phat sang xu ly du lieu",
+        "caption": "Ép CPU xử lý hàng loạt lệnh trùng lặp"
+      },
+      {
+        "narration": "Hàng loạt lệnh vẽ lại xếp chồng lên nhau khiến CPU phải gác lại các tác vụ ngầm để phục vụ riêng màn hình desktop.",
+        "search": "hoat hinh 3d hang doi du lieu cpu qua tai",
+        "caption": "CPU bị nghẽn hàng đợi vì lệnh vẽ lại desktop"
+      },
+      {
+        "narration": "Nút Refresh hoàn toàn không giải phóng một megabyte RAM nào, cũng không hề dọn dẹp tập tin rác hệ thống.",
+        "search": "3d render thanh ram may tinh do hoa",
+        "caption": "Refresh không hề dọn RAM hay xóa rác máy tính"
+      },
+      {
+        "narration": "Bạn bấm càng nhanh, con trỏ chuột càng xoay tròn liên tục và các ứng dụng đang mở càng dễ bị đóng băng.",
+        "search": "con tro chuot xoay tron tren man hinh may tinh hoat hoa 3d",
+        "caption": "Chuột xoay tròn, máy tính đóng băng tạm thời"
+      },
+      {
+        "narration": "Chức năng duy nhất của nút này là hiển thị lại biểu tượng khi bạn vừa chép một tệp mới mà desktop chưa kịp nhận.",
+        "search": "icon thu muc xuat hien tren desktop do hoa chuyen dong",
+        "caption": "Refresh chỉ dùng khi desktop không hiện file mới"
+      },
+      {
+        "narration": "Nếu muốn máy chạy mượt hơn, hãy tắt bớt các tab trình duyệt thay vì tiếp tục tra tấn nút F5.",
+        "search": "ban phim may tinh nut f5 3d animation",
+        "caption": "Tắt tab thừa thay vì bấm F5 vô nghĩa"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T10:55:27.885488+00:00",
+    "updated_at": "2026-10-28T11:04:59.717228+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-28T11:02:40.599441+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "486 chars (cat 165 de vua 55s)",
+        "at": "2026-10-28T11:03:31.301787+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.8s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-28T11:03:42.622325+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T11:03:44.460836+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-28T11:03:55.208687+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-28T11:03:55.307048+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.8s 18116476 bytes",
+        "at": "2026-10-28T11:04:59.343719+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T11:04:59.717209+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818574/8818574-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818315/8818315-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/19575437/19575437-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8519530/8519530-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7744397/7744397-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819583/8819583-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/36303143/15394908_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6755162/6755162-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029653/16029653-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561471/16561471-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819934/8819934-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/36460613/15460523_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439746/15439746-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "83dd26ca77",
     "kind": "short",
     "channel": "Channel2",
