@@ -1,5 +1,598 @@
 [
   {
+    "id": "b6f4c20c59",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome’s Greatest Savior Was Murdered By A Fake List",
+    "idea": {
+      "title": "Why Rome’s Greatest Savior Was Murdered By A Fake List",
+      "hook": "Emperor Aurelian re-conquered the entire Roman Empire in just five years, only to be murdered by his own generals over a forged piece of paper.",
+      "beats": [
+        "The Crisis of the Third Century: Rome stands fractured into three competing empires and on the verge of total collapse.",
+        "Enter Aurelian: An uncompromising commander of humble origins who ascends to the throne in 270 AD with singular focus.",
+        "Restorer of the World: In just five years, Aurelian crushes barbarian invasions, defeats Zenobia's Palmyrene Empire, and reclaims the Gallic West.",
+        "Iron Discipline: Aurelian turns his sights inward, enforcing ruthless anti-corruption laws and harsh punishments across the bureaucracy.",
+        "The Secretary's Lie: Aurelian's personal secretary, Eros, commits a minor offense and panics, knowing the emperor rarely forgives deceit.",
+        "The Forged Death List: To save his own skin, Eros expertly counterfeits Aurelian's handwriting and fabricates an imperial hitlist of top military commanders.",
+        "Fear Spreads Through the Ranks: Eros secretly shows the forged document to the listed generals, convincing them that Aurelian plans to execute them immediately.",
+        "Ambush at Caenophrurium: Believing they are acting in self-defense, Aurelian's most trusted officers ambush and murder him on a lonely road in 275 AD.",
+        "The Terrible Discovery: While searching imperial records after the assassination, the officers realize the list was a complete fake.",
+        "A Gruesome Retribution: Overcome with grief and fury, the generals brutally execute Eros, but the damage to the empire is already done.",
+        "Rome Relapses: Deprived of its greatest military genius, the Roman Empire plunges back into decades of political chaos and violent instability."
+      ],
+      "keywords": [
+        "Aurelian",
+        "Roman Emperor",
+        "Crisis of the Third Century",
+        "Restorer of the World",
+        "Roman History Documentary",
+        "Ancient Rome",
+        "Roman Empire Collapse",
+        "Queen Zenobia",
+        "Eros Forgery",
+        "Roman Military Betrayal"
+      ],
+      "tags": [
+        "Aurelian",
+        "Roman Empire",
+        "Ancient History",
+        "Roman History",
+        "History Documentary",
+        "Emperor Aurelian",
+        "Ancient Rome",
+        "Crisis Of Third Century",
+        "Roman Generals",
+        "Restitutor Orbis"
+      ],
+      "kind": "long",
+      "thumbnail_text": "MURDERED BY A FAKE LIST"
+    },
+    "scenes": [
+      {
+        "narration": "Rome’s greatest emperor was murdered by a single fake document. In 275 AD, five years of imperial restoration ended because of one secretary's forged list.",
+        "search": "emperor aurelian bust statue ancient roman sculpture",
+        "caption": "Rome’s greatest savior was killed by a single forged document."
+      },
+      {
+        "narration": "In 270 AD, the Roman Empire sat shattered into three competing realms amidst the Crisis of the Third Century. Aurelian, a hardened cavalry commander of humble origins, seized the throne to prevent complete collapse.",
+        "search": "crisis of the third century roman empire map engraving",
+        "caption": "In 270 AD, a fractured Roman Empire faced total collapse."
+      },
+      {
+        "narration": "Within five years, Aurelian defeated Queen Zenobia's Palmyrene Empire and reclaimed the breakaway Gallic provinces. The Roman Senate awarded him the title Restorer of the World for reuniting the empire.",
+        "search": "queen zenobia palmyra roman mosaic illustration",
+        "caption": "Aurelian reunited the shattered empire in just five short years."
+      },
+      {
+        "narration": "Returning to Rome, Aurelian targeted internal decay by enforcing uncompromising anti-corruption laws against dishonest officials and military officers. His absolute refusal to pardon fraud created intense paranoia throughout the imperial administration.",
+        "search": "aurelian roman coin gold aureus portrait",
+        "caption": "Aurelian ruthlessly punished corruption, creating deep fear among his officers."
+      },
+      {
+        "narration": "Caught committing a minor administrative offense, the imperial secretary Eros panicked, fearing Aurelian’s severe wrath. To save himself, Eros meticulously forged Aurelian's handwriting to draft a fake execution list of top generals.",
+        "search": "ancient roman papyrus manuscript Latin text artifact",
+        "caption": "A panicked secretary forged Aurelian's signature on a fake execution list."
+      },
+      {
+        "narration": "Eros showed the counterfeit document to the named commanders, convincing them that the emperor planned their immediate execution. Believing they were marked for death, the terrified officers formed a conspiracy to strike first.",
+        "search": "ancient roman military officers oil painting",
+        "caption": "Terrified generals believed they were marked for immediate execution by Aurelian."
+      },
+      {
+        "narration": "In September 275 AD, while marching toward a campaign in Thracia, Aurelian was ambushed and struck down at Caenophrurium by his own officers. The emperor who saved Rome died on a lonely road at the hands of his trusted guards.",
+        "search": "death of emperor aurelian history painting illustration",
+        "caption": "In 275 AD, Aurelian was assassinated by his trusted commanders."
+      },
+      {
+        "narration": "Upon reviewing the imperial records, the assassins discovered that Eros had completely fabricated the execution list, leading them to execute the secretary in rage. Without Aurelian's leadership, Rome relapsed into decades of violent political instability.",
+        "search": "roman army chaos battle engraving history",
+        "caption": "The list was fake, but Aurelian’s death plunged Rome back into chaos."
+      },
+      {
+        "narration": "In 235 AD, the assassination of Emperor Severus Alexander plunged Rome into fifty years of devastating anarchy known as the Crisis of the Third Century. Over twenty emperors claimed power in quick succession, with almost all of them falling to military betrayal.",
+        "search": "ancient Roman military battle stone relief carving",
+        "caption": "The Crisis of the Third Century shattered Roman stability in 235 AD."
+      },
+      {
+        "narration": "By 268 AD, the Roman Empire was fractured into three hostile states, with Queen Zenobia controlling Egypt and the Levant. Rome faced total bankruptcy and constant barbarian raids along the northern frontier.",
+        "search": "third century roman empire partition map engraving",
+        "caption": "Rome was fractured into three rival empires by 268 AD."
+      },
+      {
+        "narration": "Ascending the throne in 270 AD, Emperor Aurelian possessed the iron discipline needed to halt Rome's impending collapse. Born to a modest family in Sirmium, he rose through military ranks purely through combat competence.",
+        "search": "emperor aurelian marble bust statue portrait",
+        "caption": "Aurelian took power in 270 AD with ruthless military discipline."
+      },
+      {
+        "narration": "Aurelian quickly repelled massive Germanic invasions of Alamanni and Vandals from northern Italy. To protect the capital from future sieges, he ordered the construction of the formidable Aurelian Walls in 271 AD.",
+        "search": "ancient aurelian walls Rome fortification oil painting",
+        "caption": "The massive Aurelian Walls were constructed in 271 AD."
+      },
+      {
+        "narration": "In 272 AD, Aurelian led his legions east to defeat Queen Zenobia of Palmyra, who had cut off Rome's vital grain supply. Defeating her forces at Immae and Emesa, Aurelian subjugated the Palmyrene realm.",
+        "search": "queen zenobia palmyra historical oil painting",
+        "caption": "Aurelian defeated Queen Zenobia's Palmyrene forces in 272 AD."
+      },
+      {
+        "narration": "Turning west in 274 AD, Aurelian crushed the breakaway Gallic Empire at the Battle of Châlons. Having reunited the entire empire in four years, the Roman Senate bestowed upon him the title Restorer of the World.",
+        "search": "emperor aurelian restitutor orbis gold coin",
+        "caption": "Aurelian unified Rome, earning the title Restorer of the World."
+      },
+      {
+        "narration": "With external enemies defeated, Aurelian turned his wrath toward state corruption and fraudulent mint workers who had debased imperial currency. He enforced his anti-corruption laws with public executions, earning a reputation for merciless severity.",
+        "search": "ancient roman mint coins manufacturing engraving",
+        "caption": "Aurelian ruthlessly executed corrupt officials throughout the bureaucracy."
+      },
+      {
+        "narration": "In early 275 AD, the imperial secretary Eros committed a minor administrative offense, knowing Aurelian rarely pardoned official deceit. Panicking for his life, Eros devised an intricate treason plot using fake handwriting to manipulate Rome's top generals.",
+        "search": "ancient roman papyrus letter scroll illustration",
+        "caption": "Terrified secretary Eros forged documents to escape Aurelian's harsh justice."
+      },
+      {
+        "narration": "A forged document killed Rome's greatest emperor in 275 AD.",
+        "search": "emperor aurelian marble bust statue",
+        "caption": "A fake document destroyed Rome's savior in 275 AD."
+      },
+      {
+        "narration": "Masterfully imitating Aurelian’s handwriting, Eros drafted a counterfeit hit list containing Rome's top military commanders.",
+        "search": "ancient roman papyrus manuscript engraving",
+        "caption": "Eros forged Aurelian's handwriting to list officers marked for death."
+      },
+      {
+        "narration": "Eros covertly showed the document to the targeted generals, convincing them that summary executions were imminent.",
+        "search": "roman military generals ancient oil painting",
+        "caption": "Terrified officers believed Aurelian planned their summary execution."
+      },
+      {
+        "narration": "Believing they were acting in self-defense, high officers ambushed and murdered Aurelian at Caenophrurium in September 275 AD.",
+        "search": "assassination of roman emperor historical oil painting",
+        "caption": "Officers ambushed Emperor Aurelian on a lonely road in 275 AD."
+      },
+      {
+        "narration": "While inspecting Aurelian's official records after the assassination, the officers discovered the hit list was completely fabricated.",
+        "search": "ancient roman imperial document engraving",
+        "caption": "Imperial records revealed the emperor never signed an execution order."
+      },
+      {
+        "narration": "Overcome with grief and rage, the horrified generals condemned Eros to be executed by exposure to wild beasts.",
+        "search": "ancient roman punishment execution engraving",
+        "caption": "The generals executed Eros in fury after discovering the deceit."
+      },
+      {
+        "narration": "Aurelian’s death instantly halted his planned campaign against Persia and left Rome without a strong commander.",
+        "search": "ancient roman legion battle historical painting",
+        "caption": "The assassination halted campaigns and shattered border security."
+      },
+      {
+        "narration": "Deprived of its restorer, the Roman Empire relapsed into political chaos, undone by a secretary's single forgery.",
+        "search": "ruins of ancient roman forum oil painting",
+        "caption": "A forged list plunged Rome back into catastrophic instability."
+      },
+      {
+        "narration": "A single forged document destroyed Rome's greatest empire saver. In 275 AD, Emperor Aurelian was murdered by his own loyal generals over a lie.",
+        "search": "emperor aurelian statue bust",
+        "caption": "A single forgery destroyed Rome's ultimate empire saver."
+      },
+      {
+        "narration": "In 270 AD, the Crisis of the Third Century had fractured the Roman world into three separate, hostile states on the brink of total collapse.",
+        "search": "crisis of the third century roman empire map engraving competing",
+        "caption": "By 270 AD, Rome had fractured into three competing empires."
+      },
+      {
+        "narration": "Aurelian, a peasant-born cavalry commander, seized power with an uncompromising resolve to enforce absolute discipline across the legions.",
+        "search": "roman cavalry commander oil painting",
+        "caption": "Aurelian rose from humble origins to enforce absolute military discipline."
+      },
+      {
+        "narration": "In just five years, he crushed northern invaders, defeated Queen Zenobia of Palmyra, and reunited the splintered Gallic West under Roman rule.",
+        "search": "queen zenobia palmyra oil painting",
+        "caption": "Aurelian reunited the shattered empire in just five short years."
+      },
+      {
+        "narration": "Turning his focus to domestic rot, Aurelian instituted brutal anti-corruption measures that terrified the imperial bureaucracy.",
+        "search": "ancient roman corruption trial engraving",
+        "caption": "Imperial bureaucrats panicked as Aurelian launched a ruthless anti-corruption purge."
+      },
+      {
+        "narration": "When imperial secretary Eros committed a minor infraction, he panicked and expertly counterfeit Aurelian's handwriting on a fabricated death warrant.",
+        "search": "ancient roman wax tablet stylus illustration",
+        "caption": "Desperate to survive, secretary Eros forged an imperial execution list."
+      },
+      {
+        "narration": "Eros secretly showed the forged hitlist to the empire's top generals, convincing them that Aurelian planned to execute them immediately.",
+        "search": "roman generals conspiring oil painting",
+        "caption": "Believing they were marked for death, top officers planned an ambush."
+      },
+      {
+        "narration": "The officers struck Aurelian down at Caenophrurium in 275 AD, discovering moments later that the list was a fatal lie.",
+        "search": "assassination of emperor aurelian oil painting",
+        "caption": "Rome's savior was dead, betrayed by a secretary's deadly forgery."
+      },
+      {
+        "narration": "A single forged scroll destroyed Rome's ultimate savior in 275 AD. Emperor Aurelian had reunited an empire torn by decades of civil war, only to fall victim to a fabricated piece of papyrus.",
+        "search": "emperor aurelian marble bust statue close up",
+        "caption": "A forged document destroyed Rome's savior in 275 AD."
+      },
+      {
+        "narration": "In 270 AD, the Roman Empire was fractured into three rival realms and crippled by continuous barbarian invasions. Aurelian claimed the throne with an uncompromising mandate to enforce military discipline and reunite the realm.",
+        "search": "third century roman empire map engraving",
+        "caption": "In 270 AD, Rome was fractured into three competing realms."
+      },
+      {
+        "narration": "In just five years, Aurelian crushed invading armies, conquered Queen Zenobia's Palmyrene Empire, and absorbed the Gallic West. The Roman Senate granted him the title Restitutor Orbis, meaning Restorer of the World.",
+        "search": "queen zenobia palmyra historical oil painting conquered",
+        "caption": "Aurelian conquered Palmyra and Gaul to reunite the empire."
+      },
+      {
+        "narration": "Turning his harsh discipline inward, Aurelian initiated aggressive anti-corruption campaigns across the imperial administration. Officials caught lying or stealing faced immediate, ruthless execution.",
+        "search": "roman emperor coins hoard gold coin detail",
+        "caption": "Aurelian targeted corrupt officials with unyielding military discipline."
+      },
+      {
+        "narration": "In 275 AD, the emperor's personal secretary, Eros, committed a minor infraction and panicked. To save himself, Eros expertly forged Aurelian's handwriting onto a death sentence list targeting top military officers.",
+        "search": "ancient papyrus scroll Latin manuscript close up",
+        "caption": "The secretary forged a list of officers marked for execution."
+      },
+      {
+        "narration": "Eros secretly showed the forged document to the commanders, convincing them that Aurelian planned their imminent execution. Believing they were acting in self-defense, the officers ambushed and killed Aurelian at Caenophrurium.",
+        "search": "roman military officers legionaries relief carving",
+        "caption": "High-ranking generals ambushed Aurelian at Caenophrurium in 275 AD."
+      },
+      {
+        "narration": "Searching imperial archives immediately after the assassination, the officers discovered the hitlist was entirely fabricated. Realizing they had been manipulated into treason, the grief-stricken generals brutally executed Eros.",
+        "search": "roman army camp military tents historical illustration",
+        "caption": "The generals realized the hitlist was a forgery and executed Eros."
+      },
+      {
+        "narration": "The assassination deprived Rome of its most competent military leader, halting crucial reforms. Without Aurelian, the Roman Empire plunged back into decades of violent political instability.",
+        "search": "ancient roman forum ruins oil painting",
+        "caption": "Aurelian's murder plunged Rome back into instability and civil conflict."
+      },
+      {
+        "narration": "A forged document destroyed Rome’s greatest savior in 275 AD. Emperor Aurelian rebuilt a shattered empire in five years, only to die by a secretary's lie.",
+        "search": "aurelian roman emperor bust statue",
+        "caption": "A forged document killed Rome's greatest savior in 275 AD."
+      },
+      {
+        "narration": "By 270 AD, the Roman Empire had fractured into three warring realms during the Crisis of the Third Century. Aurelian, a commander of humble origin, assumed the throne to prevent total collapse.",
+        "search": "third century crisis roman empire map engraving",
+        "caption": "In 270 AD, Rome was fractured into three competing empires."
+      },
+      {
+        "narration": "Marching relentlessly across thousands of miles, Aurelian conquered Queen Zenobia’s Palmyrene Empire and reunited the Gallic West. His victories earned him the official title Restorer of the World.",
+        "search": "queen zenobia palmyra oil painting entire",
+        "caption": "Aurelian reunited the entire empire in just five years."
+      },
+      {
+        "narration": "Turning his attention inward, Aurelian enforced ruthless anti-corruption laws across the imperial administration. Officials faced death for even minor acts of deceit.",
+        "search": "roman coins Emperor Aurelian silver currency",
+        "caption": "Unforgiving discipline targeted corruption across the imperial administration."
+      },
+      {
+        "narration": "In 275 AD, the emperor's secretary Eros committed a minor offense and panicked, knowing Aurelian rarely forgave lies. To save himself, Eros forged Aurelian’s handwriting and created a fake hitlist of senior generals.",
+        "search": "ancient roman papyrus manuscript illustration",
+        "caption": "A frightened secretary forged an imperial hitlist of military commanders."
+      },
+      {
+        "narration": "Eros secretly showed the forged document to the targeted officers, convincing them that Aurelian planned their execution. Believing they were acting in self-defense, the commanders ambushed Aurelian at Caenophrurium.",
+        "search": "roman legionaries battle historical oil painting",
+        "caption": "Believing the fake list, officers ambushed Aurelian at Caenophrurium."
+      },
+      {
+        "narration": "Searching imperial archives immediately after the assassination, the officers discovered the hitlist was entirely fabricated. Realizing they had been manipulated into treason, the grief-stricken generals executed Eros.",
+        "search": "ancient roman military armor artifacts museum display",
+        "caption": "Officers discovered the death list was a completely forged trick."
+      },
+      {
+        "narration": "The assassination deprived Rome of its most competent military leader and halted crucial economic reforms. Without Aurelian, the Roman Empire plunged back into decades of violent instability.",
+        "search": "roman forum ruins oil painting",
+        "caption": "Aurelian's death plunged Rome back into decades of violent turmoil."
+      },
+      {
+        "narration": "News of Aurelian's murder reached Rome in late 275 AD, plunging the Senate into six months of total paralysis as no commander dared seize power.",
+        "search": "roman senate assembly ancient engraving",
+        "caption": "Senate paralyzed by news of Aurelian murder in 275 AD"
+      },
+      {
+        "narration": "Terrified of another immediate military coup, senators appointed the seventy-five-year-old Marcus Claudius Tacitus as emperor in late 275 AD.",
+        "search": "emperor tacitus coin face detail",
+        "caption": "Elderly Tacitus appointed emperor to prevent civil war"
+      },
+      {
+        "narration": "Tacitus lasted barely six months before mutinous frontier legionaries murdered him in Cappadocia in June 276 AD.",
+        "search": "ancient roman army marching relief sculpture",
+        "caption": "Tacitus assassinated in Cappadocia after six months in power"
+      },
+      {
+        "narration": "Aurelian's former general Marcus Aurelius Probus seized imperial authority in 276 AD, attempting to complete border fortifications left unfinished at Caenophrurium.",
+        "search": "emperor probus bust statue",
+        "caption": "General Probus claims imperial throne in 276 AD"
+      },
+      {
+        "narration": "Exploiting Aurelian's sudden demise, Frankish and Alemanni tribes breached the Rhine defense lines in 276 AD, devasting over seventy towns across Gaul.",
+        "search": "barbarian invasion roman gaul oil painting",
+        "caption": "Germanic tribes breach Rhine frontier following Aurelian death"
+      },
+      {
+        "narration": "Aurelian's crucial currency reform collapsed after his death, causing silver-coated antoninianus coins to lose ninety percent of their purchasing power by 280 AD.",
+        "search": "ancient roman coins antoninianus hoard photograph",
+        "caption": "Roman currency suffers severe inflation following aborted reforms"
+      },
+      {
+        "narration": "Demanding strict discipline like his late emperor, Probus forced idle legionaries into swamp drainage projects until mutinous troops killed him at Sirmium in 282 AD.",
+        "search": "roman legionaries draining marsh illustration",
+        "caption": "Probus murdered by troops near Sirmium in 282 AD"
+      },
+      {
+        "narration": "A single forged hitlist written by a panic-stricken secretary had eliminated Rome's greatest military genius, condemning the empire to another decade of instability.",
+        "search": "burning ancient roman city ruin oil painting",
+        "caption": "Forged list triggers another decade of imperial instability"
+      },
+      {
+        "narration": "Following the death of Probus in 282 AD, Emperor Carus and his sons briefly took power before dying under suspicious circumstances during a Persian campaign in 284 AD.",
+        "search": "emperor carus roman coin close up",
+        "caption": "Carus and his sons died rapidly between 282 and 284 AD."
+      },
+      {
+        "narration": "In just nine years following Aurelian's assassination in 275 AD, six different men claimed the imperial purple, most perishing at the hands of their own guards.",
+        "search": "crisis third century roman emperor marble bust statue",
+        "caption": "Six emperors fell in nine years following Aurelian's tragic murder."
+      },
+      {
+        "narration": "When Diocletian assumed power in 284 AD, he realized that Aurelian's central administrative model had failed due to officer paranoia and internal conspiracy.",
+        "search": "emperor diocletian marble bust statue",
+        "caption": "Diocletian analyzed the administrative flaws that destroyed Aurelian's reign."
+      },
+      {
+        "narration": "To eliminate single-point assassinations like Caenophrurium, Diocletian instituted the Tetrarchy in 293 AD, dividing imperial command among four distinct rulers.",
+        "search": "tetrarchs porphyry statue Venice historical photo",
+        "caption": "The Tetrarchy split imperial authority among four leaders in 293 AD."
+      },
+      {
+        "narration": "Diocletian restructured the court bureaucracy to restrict access to the emperor, ensuring no isolated secretary could ever manipulate high commanders with forged orders.",
+        "search": "late roman imperial court illustration diagram",
+        "caption": "Strict protocol was enacted to prevent forged administrative documents."
+      },
+      {
+        "narration": "The massive Aurelian Walls, commissioned in 271 AD, successfully fortified Rome against barbarian incursions for over one hundred and thirty years.",
+        "search": "aurelian walls rome ancient stone masonry photo",
+        "caption": "Aurelian's massive brick walls defended Rome well into the fifth century."
+      },
+      {
+        "narration": "By crushing Zenobia in Palmyra and Firmus in Egypt, Aurelian restored crucial grain supplies and monetary stability that extended the empire's life by centuries.",
+        "search": "ancient roman grain ship relief stone carving",
+        "caption": "Reclaiming Egypt restored essential grain shipments to the Roman capital."
+      },
+      {
+        "narration": "Aurelian re-unified a shattered empire in five years, only for a secretary's counterfeit list to cut short Rome's greatest military restoration.",
+        "search": "aurelian restorer of the world ancient roman coin",
+        "caption": "A forged document permanently cut short Rome's greatest military restorer."
+      },
+      {
+        "narration": "A forged list murdered Rome's greatest savior in 275 AD.",
+        "search": "emperor aurelian coin portrait gold solidus",
+        "caption": "Rome's greatest savior died over a single forged paper."
+      },
+      {
+        "narration": "In 270 AD, the Roman Empire was fractured into three hostile realms during the Crisis of the Third Century until Aurelian took power.",
+        "search": "crisis of third century roman empire map engraving",
+        "caption": "In 270 AD, Rome was fractured into three competing empires."
+      },
+      {
+        "narration": "In under five years, Aurelian defeated Queen Zenobia of Palmyra and reclaimed the Gallic West, earning the title Restorer of the World.",
+        "search": "zenobia palmyra defeat aurelian oil painting",
+        "caption": "Aurelian reunited the shattered empire in just five years."
+      },
+      {
+        "narration": "Aurelian enforced brutal anti-corruption laws, causing his secretary Eros to panic after committing a minor administrative offense.",
+        "search": "roman manuscript writing stylus ink engraving",
+        "caption": "Aurelian punished official corruption with uncompromising severity."
+      },
+      {
+        "narration": "Desperate to avoid execution, Eros forged Aurelian's handwriting to fabricate an imperial death list targeting top military commanders.",
+        "search": "ancient parchment document wax seal engraving",
+        "caption": "The secretary forged a secret execution list of top generals."
+      },
+      {
+        "narration": "Believing they were marked for immediate execution, panicked officers ambushed and murdered Aurelian at Caenophrurium in September 275 AD.",
+        "search": "assassination of roman emperor painting",
+        "caption": "Officers ambushed Aurelian at Caenophrurium in 275 AD."
+      },
+      {
+        "narration": "Searching imperial records after the murder, the generals realized the document was a complete lie and executed Eros in fury.",
+        "search": "roman soldier execution classical oil painting",
+        "caption": "The generals discovered the hitlist was an absolute forgery."
+      },
+      {
+        "narration": "Deprived of its military genius, the Roman Empire relapsed into decades of catastrophic political turmoil and military coups.",
+        "search": "ruins of ancient rome oil painting",
+        "caption": "Without Aurelian, Rome plunged back into decades of chaos."
+      },
+      {
+        "narration": "A forged piece of paper ended Rome’s greatest rescue. In 275 AD, Emperor Aurelian reunited a shattered empire, only to fall victim to a clerk's forgery.",
+        "search": "aurelian emperor bust statue marble",
+        "caption": "A single forgery destroyed Rome's ultimate savior."
+      },
+      {
+        "narration": "By 270 AD, the Crisis of the Third Century had fractured the Roman world into three competing states plagued by barbarian invasions.",
+        "search": "third century roman empire map engraving wide shot",
+        "caption": "In 270 AD, a fractured empire faced total collapse."
+      },
+      {
+        "narration": "Ascending the throne, Aurelian crushed foreign armies, defeated Queen Zenobia of Palmyra, and reclaimed the Gallic West in under five years.",
+        "search": "queen zenobia palmyra oil painting slow motion",
+        "caption": "Aurelian reunited three empires in just five short years."
+      },
+      {
+        "narration": "Determined to secure the state, the emperor enforced brutal anti-corruption reforms and ruthless discipline across the military bureaucracy.",
+        "search": "roman senate illustration 19th century oil painting",
+        "caption": "Uncompromising discipline struck terror into corrupt Roman officials."
+      },
+      {
+        "narration": "Fearing execution over a minor offense, imperial secretary Eros carefully forged Aurelian's handwriting to create a fake death list targeting senior generals.",
+        "search": "ancient roman parchment document engraving",
+        "caption": "A panicking secretary forged an imperial death list."
+      },
+      {
+        "narration": "Believing they were acting in self-defense, Aurelian's top officers ambushed and assassinated the emperor at Caenophrurium in September 275 AD.",
+        "search": "assassination of aurelian oil painting",
+        "caption": "Believing their lives were at risk, officers murdered Aurelian."
+      },
+      {
+        "narration": "Searching imperial records after the murder, the generals realized the document was a complete lie and executed Eros in fury.",
+        "search": "roman praetorian guard marble relief statue",
+        "caption": "Imperial archives revealed the tragic forgery too late."
+      },
+      {
+        "narration": "Deprived of its military genius, the Roman Empire relapsed into decades of catastrophic political turmoil, undoing Aurelian's miraculous rescue.",
+        "search": "roman ruin collapse oil painting",
+        "caption": "Aurelian's death plunged Rome back into catastrophic darkness."
+      },
+      {
+        "narration": "A forged document murdered Rome's greatest emperor in 275 AD.",
+        "search": "aurelian roman coin portrait face close up",
+        "caption": "A Forged Document Murdered Rome's Savior"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T19:14:18.259884+00:00",
+    "updated_at": "2026-10-28T19:47:15.385410+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-28T19:26:55.163598+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2121 chars",
+        "at": "2026-10-28T19:28:02.880506+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "133.1s en-US-GuyNeural 23 cau",
+        "at": "2026-10-28T19:28:17.983413+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T19:28:21.447171+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-28T19:44:48.331684+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T19:44:48.389623+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 133.1s 109104718 bytes",
+        "at": "2026-10-28T19:47:15.065388+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-10-28T19:47:15.177873+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T19:47:15.385396+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4254994/pexels-photo-4254994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37103615/pexels-photo-37103615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9648243/pexels-photo-9648243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12101621/pexels-photo-12101621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709057/pexels-photo-35709057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709020/pexels-photo-35709020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125778/pexels-photo-38125778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35766661/pexels-photo-35766661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35829362/pexels-photo-35829362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30267276/pexels-photo-30267276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1023767/pexels-photo-1023767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9615355/pexels-photo-9615355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080348/pexels-photo-7080348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9254636/pexels-photo-9254636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11716937/pexels-photo-11716937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40318417/pexels-photo-40318417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991559/pexels-photo-18991559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709047/pexels-photo-35709047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38002571/pexels-photo-38002571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31575603/pexels-photo-31575603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39808260/pexels-photo-39808260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7186544/pexels-photo-7186544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29547179/pexels-photo-29547179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36132744/pexels-photo-36132744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397755/pexels-photo-16397755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39264545/pexels-photo-39264545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37556160/pexels-photo-37556160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28608026/pexels-photo-28608026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9704108/pexels-photo-9704108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4757012/pexels-photo-4757012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10898471/pexels-photo-10898471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18471696/pexels-photo-18471696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33472028/pexels-photo-33472028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8442332/pexels-photo-8442332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34326626/pexels-photo-34326626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13971716/pexels-photo-13971716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6256808/pexels-photo-6256808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33595404/pexels-photo-33595404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14215064/pexels-photo-14215064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26975953/pexels-photo-26975953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40007136/pexels-photo-40007136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3790639/pexels-photo-3790639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14772956/pexels-photo-14772956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141661/pexels-photo-38141661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11868476/pexels-photo-11868476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39365562/pexels-photo-39365562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36526433/pexels-photo-36526433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36351445/pexels-photo-36351445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38087151/pexels-photo-38087151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12515182/pexels-photo-12515182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14042374/pexels-photo-14042374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16790506/pexels-photo-16790506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27384318/pexels-photo-27384318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19673893/pexels-photo-19673893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31428678/pexels-photo-31428678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4458200/pexels-photo-4458200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7245237/pexels-photo-7245237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31652414/pexels-photo-31652414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37650653/pexels-photo-37650653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6764985/pexels-photo-6764985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319327/pexels-photo-29319327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6607754/pexels-photo-6607754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7333604/pexels-photo-7333604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6289023/pexels-photo-6289023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30726162/pexels-photo-30726162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7186543/pexels-photo-7186543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36577333/pexels-photo-36577333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240434/pexels-photo-36240434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109089/pexels-photo-6109089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858744/pexels-photo-31858744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28274470/pexels-photo-28274470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739371/pexels-photo-5739371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14064548/pexels-photo-14064548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11631723/pexels-photo-11631723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31835108/pexels-photo-31835108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b27e490c08",
     "kind": "short",
     "channel": "Channel3",
