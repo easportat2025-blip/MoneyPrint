@@ -1,5 +1,45 @@
 [
   {
+    "id": "3b1861b7d5",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "researching",
+    "title": "How a Hidden Steel Claw Saved an Indian Kingdom",
+    "idea": {
+      "title": "How a Hidden Steel Claw Saved an Indian Kingdom",
+      "hook": "In 1659, Shivaji walked unarmed into a giant enemy general's embrace—concealing iron tiger claws in his palms.",
+      "beats": [
+        "General Afzal Khan invited the ruler Shivaji to a peace tent to negotiate, secretly planning a sudden assassination.",
+        "As Khan embraced Shivaji in a tight deathlock and pulled out his dagger, Shivaji deployed hidden steel tiger claws (Bagh Nakh) strapped to his hands.",
+        "Shivaji mortally wounded the general and signaled his hidden troops to ambush the leaderless 10,000-man invading force.",
+        "The daring escape saved the young Maratha kingdom and permanently reshaped the balance of power in medieval India."
+      ],
+      "keywords": [
+        "shivaji",
+        "afzal khan",
+        "tiger claws",
+        "medieval war",
+        "ancient india"
+      ],
+      "tags": [
+        "#history",
+        "#maratha",
+        "#ancienthistory",
+        "#historyfacts",
+        "#warhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-27T23:24:44.620137+00:00",
+    "updated_at": "2026-10-27T23:24:44.732742+00:00",
+    "stages": {}
+  },
+  {
     "id": "ed1572f2f8",
     "kind": "short",
     "channel": "Channel2",
