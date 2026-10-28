@@ -1,5 +1,168 @@
 [
   {
+    "id": "5dc4620323",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao não bạn bí mật 'xóa' chiếc mũi khỏi tầm nhìn?",
+    "idea": {
+      "title": "Tại sao não bạn bí mật 'xóa' chiếc mũi khỏi tầm nhìn?",
+      "hook": "Ngay lúc này, chiếc mũi đang chắn ngay giữa tầm nhìn của bạn, nhưng não bạn đã bí mật 'xóa sổ' nó suốt 24/7.",
+      "beats": [
+        "Mỗi con mắt nhìn thấy một phần chiếc mũi của bạn ở góc độ hoàn toàn khác nhau.",
+        "Nếu não hiển thị cả hai góc nhìn này liên tục, bạn sẽ rơi vào trạng thái hoa mắt và mất tập trung vĩnh viễn.",
+        "Hiện tượng 'ức chế vô thức' giúp não gộp tín hiệu hai mắt và tự động xóa bỏ vật cản tĩnh vô dụng này.",
+        "Chỉ khi nhắm một mắt lại hoặc cố tình để ý, bạn mới nhận ra chiếc mũi đang chiếm một góc cực lớn trước mắt."
+      ],
+      "keywords": [
+        "human eyes close up",
+        "brain optical illusion",
+        "focus vision blur",
+        "3d brain scan glowing",
+        "person looking at mirror"
+      ],
+      "tags": [
+        "#channel3",
+        "#kienthuc",
+        "#khoahoc",
+        "#naobo",
+        "#cothebancothechuabiet",
+        "#meovat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chiếc mũi che giữa mắt nhưng bạn không hề thấy.",
+        "search": "hoat hinh 3d guong mat nguoi va chiec mui",
+        "caption": "Mũi che tầm nhìn nhưng não bí mật xóa sổ"
+      },
+      {
+        "narration": "Hãy thử nhắm một mắt, bạn sẽ thấy chiếc mũi chiếm góc nhìn rất lớn.",
+        "search": "hoat hinh 3d nguoi nham mot ben mat",
+        "caption": "Nhắm một mắt để thấy chiếc mũi xuất hiện"
+      },
+      {
+        "narration": "Mỗi con mắt của bạn lại nhìn thấy chiếc mũi ở một góc hoàn toàn khác.",
+        "search": "hoat hinh 3d hai con mat nhin hai huong",
+        "caption": "Mắt trái và mắt phải thấy góc nhìn khác nhau"
+      },
+      {
+        "narration": "Nếu não hiển thị cả hai góc nhìn này, bạn sẽ lập tức bị hoa mắt.",
+        "search": "hoat hinh 3d nguoi bi hoa mat xoay xam",
+        "caption": "Hai hình ảnh chồng lên gây hoa mắt vĩnh viễn"
+      },
+      {
+        "narration": "Mỗi giây, hai mắt liên tục truyền hai tín hiệu hình ảnh khác nhau về não.",
+        "search": "mo phong 3d tin hieu than ky tu mat ve nao",
+        "caption": "Mắt gửi tín hiệu vật cản về não bộ"
+      },
+      {
+        "narration": "Trung khu thị giác buộc phải xử lý và gộp hai hình ảnh này làm một.",
+        "search": "mo phong 3d hai luong anh hop lam mot trong nao",
+        "caption": "Não bộ gộp tín hiệu từ hai mắt lại"
+      },
+      {
+        "narration": "Do chiếc mũi đứng yên vĩnh viễn, não lập tức xếp nó vào nhóm dữ liệu thừa.",
+        "search": "hoat hinh 3d loc thong tin rac trong nao",
+        "caption": "Mũi bị não coi là thông tin thừa thãi"
+      },
+      {
+        "narration": "Một cơ chế đặc biệt có tên ức chế vô thức lập tức được kích hoạt.",
+        "search": "mo phong 3d nao bo bat che do tam xoa hinh anh",
+        "caption": "Cơ chế ức chế tự động làm mờ vật cản"
+      },
+      {
+        "narration": "Não lấy dữ liệu từ mắt trái để bù vào góc khuất của mắt phải và ngược lại, tự động vẽ đè không gian lên vị trí chiếc mũi.",
+        "search": "hoat hinh 3d hai tia nhin mat giao nhau xoa vat can",
+        "caption": "Não tự động chắp vá hình ảnh để che đi chiếc mũi"
+      },
+      {
+        "narration": "Nếu không có cơ chế này, một bóng mờ khổng lồ sẽ rung lắc liên tục trước mắt, khiến thị giác của bạn quá tải chỉ sau vài phút.",
+        "search": "hoat hinh 3d goc nhin thu nhat vat the mo chan tam nhin",
+        "caption": "Không có bộ lọc này, bạn sẽ chóng mặt vĩnh viễn"
+      },
+      {
+        "narration": "Cơ chế này tương tự như việc não bạn hoàn toàn lờ đi cảm giác vải quần áo đang cọ xát liên tục trên da mỗi ngày.",
+        "search": "hoat hinh 3d nguoi mac ao phong tin hieu than kinh tat",
+        "caption": "Giống cách não bỏ qua cảm giác quần áo chạm vào da"
+      },
+      {
+        "narration": "Bạn muốn kiểm chứng? Hãy thử nhắm một bên mắt lại ngay bây giờ, góc khuất của chiếc mũi sẽ lộ diện ngay lập tức.",
+        "search": "hoat hinh 3d can canh guong mat nham mot mat nhin xuong",
+        "caption": "Chỉ cần nhắm một mắt, chiếc mũi sẽ lộ diện"
+      },
+      {
+        "narration": "Và điều hài hước nhất là, ngay lúc này bạn sẽ không thể ngừng nhìn thấy chiếc mũi của mình trong vài phút tới.",
+        "search": "hoat hinh 3d bo nao phat sang nhan thuc chiec mui",
+        "caption": "Giờ thì bạn không thể ngừng nhìn thấy chiếc mũi nữa!"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T14:49:33.726208+00:00",
+    "updated_at": "2026-10-28T14:59:17.756446+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-28T14:56:55.295103+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "476 chars (cat 97 de vua 55s)",
+        "at": "2026-10-28T14:57:42.323771+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.5s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-28T14:57:59.384257+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T14:58:00.865252+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-28T14:58:21.666231+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-28T14:58:21.764326+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.6s 20203906 bytes",
+        "at": "2026-10-28T14:59:17.437847+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T14:59:17.756426+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818317/8818317-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6491688/6491688-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/40535663/17320110_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464965/13417850_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15989685/15989685-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7984168/7984168-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/10210550/10210550-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34328671/14542923_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/29684350/12767132_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40355830/17241899_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6491684/6491684-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15393637/15393637-uhd_1440_2560_60fps.mp4"
+    ]
+  },
+  {
     "id": "e2af7ea228",
     "kind": "short",
     "channel": "Channel3",
