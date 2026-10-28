@@ -1,5 +1,167 @@
 [
   {
+    "id": "b27e490c08",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do tai bạn phát ra tiếng u u mỗi khi ngáp sâu",
+    "idea": {
+      "title": "Bí mật lý do tai bạn phát ra tiếng u u mỗi khi ngáp sâu",
+      "hook": "Bạn có từng nghe thấy tiếng u u rì rào như sóng biển trong tai mỗi khi ngáp sâu hay vươn vai? Đây không phải ù tai, mà là cơ thể đang bật một lá chắn bảo vệ bí mật.",
+      "beats": [
+        "Cơ căng màng nhĩ (Tensor tympani) là một bó cơ tí hon nằm sâu bên trong tai giữa.",
+        "Khi bạn ngáp hoặc nhai mạnh, cơ thể tự tạo ra âm thanh nội tại rất lớn có thể làm hỏng màng nhĩ.",
+        "Tự động phản xạ, cơ này lập tức gồng cứng để siết chặt màng nhĩ, làm giảm âm lượng đi vào.",
+        "Tiếng u u trầm chính là âm thanh rung động của chính bó cơ đó đang gồng hết sức để bảo vệ thính giác của bạn."
+      ],
+      "keywords": [
+        "human ear anatomy inner working",
+        "yawning close up person",
+        "sound waves medical animation",
+        "brain signaling muscle reaction",
+        "ear drum vibrating macro"
+      ],
+      "tags": [
+        "#Channel3",
+        "#suckhoe",
+        "#bihiemcothe",
+        "#khoahoc",
+        "#meodoisong"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tai bạn tự gầm lên mỗi khi ngáp sâu?",
+        "search": "hoat hinh 3d nguoi ngap ngu tren giuong",
+        "caption": "Tiếng u u lạ lùng mỗi khi ngáp sâu"
+      },
+      {
+        "narration": "Âm thanh này nghe giống tiếng gió rít hoặc sóng biển gầm rú ngay trong đầu. Đa số mọi người đều tưởng đây là chứng ù tai vô hại.",
+        "search": "3d animation song am thanh truyen vao lo tai",
+        "caption": "Âm thanh rầm rì như sóng biển trong đầu"
+      },
+      {
+        "narration": "Nhưng thực tế, màng nhĩ của bạn đang đối mặt với một mối nguy hiểm cực lớn. Mỗi cú ngáp hay nhai mạnh tạo ra chấn động chói tai từ bên trong.",
+        "search": "mo phong 3d mang nhi tai rung dong manh",
+        "caption": "Cú ngáp tạo chấn động cực lớn lên tai"
+      },
+      {
+        "narration": "Âm thanh cơ hàm và vòm họng khi đó có thể vọt lên hơn tám mươi decibel. Mức ồn này tương đương tiếng máy xay sinh tố đặt sát tai bạn.",
+        "search": "3d render do thi song am decibel tai nguoi",
+        "caption": "Tiếng ồn nội tại lên tới 80 decibel"
+      },
+      {
+        "narration": "Não bộ lập tức nhận diện nguy cơ này ngay trước khi hàm mở hết cỡ. Một xung điện khẩn cấp được phóng vọt qua các sợi thần kinh.",
+        "search": "hoat hinh 3d tin hieu than kinh nao bo chay doc day than kinh",
+        "caption": "Não phát lệnh khẩn cấp tới thính giác"
+      },
+      {
+        "narration": "Nằm sâu trong tai giữa là một sợi cơ tí hon mang tên cơ căng màng nhĩ. Kích thước chỉ vài milimét nhưng nó nắm giữ nhiệm vụ sinh tử.",
+        "search": "mo phong 3d giai phau co cang mang nhi tai giua",
+        "caption": "Bó cơ tí hon tensor tympani trong tai"
+      },
+      {
+        "narration": "Nhận lệnh, bó cơ này lập tức gồng cứng với tốc độ một phần nghìn giây. Nó co rút để kéo giật chuỗi xương con về phía sau.",
+        "search": "hoat hinh 3d chuoi xuong con tai giua co rut",
+        "caption": "Cơ siết chặt ghì màng nhĩ trong tích tắc"
+      },
+      {
+        "narration": "Màng nhĩ bị khóa chặt giúp chặn đứng âm lượng hủy diệt đi vào ốc tai. Nhưng chính cú gồng nghẹt thở đó lại tạo ra một hiện tượng kỳ lạ khác.",
+        "search": "3d animation mang nhi tai bi keo cang la chan",
+        "caption": "Lá chắn kích hoạt và hiện tượng kỳ lạ xuất hiện"
+      },
+      {
+        "narration": "Tương tự như khi bạn gồng chặt cơ bắp tay thật mạnh sát tai, bạn sẽ nghe thấy một tiếng ù ù trầm đục tương tự.",
+        "search": "gong co bap tay 3d animation hoat hinh",
+        "caption": "Gồng cơ bắp cũng tạo ra tần số rung trầm"
+      },
+      {
+        "narration": "Các sợi cơ khi co rút cực đại sẽ rung động liên tục ở tần số khoảng 20Hz, mức thấp nhất mà tai người cảm nhận được.",
+        "search": "rung dong soi co 3d motion graphics",
+        "caption": "Tần số rung 20Hz ở ngưỡng nghe tối thiểu"
+      },
+      {
+        "narration": "Âm thanh rung động này không truyền qua không khí mà dẫn truyền thẳng qua xương sọ vào tai trong của bạn.",
+        "search": "truyen am thanh qua xuong 3d medical animation",
+        "caption": "Âm thanh truyền trực tiếp qua xương sọ"
+      },
+      {
+        "narration": "Thậm chí, khoảng 10% dân số thế giới có khả năng chủ động điều khiển bó cơ này gồng lên bất cứ lúc nào mà không cần ngáp.",
+        "search": "nhan vat 3d nhay long may va tai cartoony",
+        "caption": "10% dân số có thể tự kích hoạt phản xạ này"
+      },
+      {
+        "narration": "Vì vậy, tiếng u u mỗi khi ngáp sâu chính là âm thanh của bó cơ tai đang gồng hết sức để bảo vệ thính giác của bạn.",
+        "search": "co mang nhi bao ve tai 3d explainer animation",
+        "caption": "Tiếng u u là âm thanh cơ tai bảo vệ bạn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T18:49:38.608780+00:00",
+    "updated_at": "2026-10-28T18:54:23.360224+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-28T18:52:19.432750+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "526 chars",
+        "at": "2026-10-28T18:53:02.346386+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-28T18:53:10.658426+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T18:53:11.832906+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-28T18:53:35.777308+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-28T18:53:35.836304+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.6s 29931378 bytes",
+        "at": "2026-10-28T18:54:23.053684+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T18:54:23.360207+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35753917/15157071_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/4985363/4985363-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34719152/14717267_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39656263/16905428_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8471502/8471502-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/36897732/15630088_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/7986040/7986040-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818605/8818605-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/30764000/13160203_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7089361/7089361-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/9465543/9465543-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816946/8816946-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "5dc4620323",
     "kind": "short",
     "channel": "Channel3",
