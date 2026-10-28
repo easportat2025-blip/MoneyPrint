@@ -1,5 +1,161 @@
 [
   {
+    "id": "6aaf0e8ab5",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Julius Caesar Trapped an Army Inside Another Trap",
+    "idea": {
+      "title": "How Julius Caesar Trapped an Army Inside Another Trap",
+      "hook": "Besieged by 250,000 barbarians while surrounding 80,000 more, Julius Caesar shocked the ancient world by building two parallel walls to fight in both directions at once.",
+      "beats": [
+        "Caesar penned Vercingetorix inside the hilltop fortress of Alesia with an 18-kilometer ring of trenches, palisades, and spiked pits.",
+        "When a massive Gallic relief army arrived behind him, the Romans found themselves suddenly trapped between two overwhelming forces.",
+        "Instead of fleeing, Caesar ordered his legionaries to construct a second massive outer wall facing backwards, turning his camp into a deadly double fortress.",
+        "Riding into the frontlines wearing his unmistakable red cloak, Caesar routed both barbarian armies in hours, permanently breaking Gaul's independence."
+      ],
+      "keywords": [
+        "Julius Caesar painting",
+        "Siege of Alesia engraving",
+        "Roman legionaries bust",
+        "ancient Gaul battle map",
+        "Vercingetorix surrender painting"
+      ],
+      "tags": [
+        "julius caesar",
+        "battle of alesia",
+        "roman empire",
+        "ancient rome",
+        "military history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Caesar once besieged an army while being besieged himself.",
+        "search": "Julius Caesar marble bust statue close up",
+        "caption": "Caesar fought two armies simultaneously at Alesia."
+      },
+      {
+        "narration": "In 52 BC, Gallic chieftain Vercingetorix retreated with eighty thousand warriors into the hilltop stronghold of Alesia.",
+        "search": "Vercingetorix bronze statue ancient Gaul",
+        "caption": "In 52 BC, 80,000 Gauls fortified the hilltop city of Alesia."
+      },
+      {
+        "narration": "Julius Caesar lacked the numbers for an assault, so his legions dug an eighteen-kilometer ring of fortifications around the plateau.",
+        "search": "Siege of Alesia Roman circumvallation fortifications engraving",
+        "caption": "Caesar built an 18-kilometer ring of walls around the fortress."
+      },
+      {
+        "narration": "The Romans planted hidden sharpened stakes, deep trenches flooded with river water, and fortified wooden watchtowers every eighty paces.",
+        "search": "Roman military siege trench obstacles historical diagram illustration",
+        "caption": "Spiked pits and flooded trenches sealed the Gauls inside."
+      },
+      {
+        "narration": "Before the circle fully closed, Gallic cavalry slipped through the perimeter to summon an empire-wide relief army.",
+        "search": "ancient Celtic cavalry battle ancient relief carving",
+        "caption": "Gallic horsemen escaped into the night to summon reinforcements."
+      },
+      {
+        "narration": "Weeks later, nearly two hundred and fifty thousand warriors arrived, pinning Caesar's sixty thousand Romans against the fortress.",
+        "search": "Gallic warrior army battle ancient oil painting",
+        "caption": "A relief army of 250,000 Gauls encircled the Romans."
+      },
+      {
+        "narration": "Completely surrounded, Caesar ordered his men to construct a second, outer wall facing outward across twenty-one kilometers.",
+        "search": "ancient Roman contravallation siege wall historical map engraving",
+        "caption": "Caesar constructed a second wall facing backward against the relief force."
+      },
+      {
+        "narration": "The Roman army was now locked inside a hollow ring of fortifications, forced to fight in two opposite directions at once.",
+        "search": "Battle of Alesia double siege lines oil painting",
+        "caption": "Trapped inside their own walls, the Romans prepared for two-front slaughter."
+      },
+      {
+        "narration": "In late September 52 BC, sixty thousand Gauls assaulted an incomplete section of the outer wall while Vercingetorix attacked the inner ring simultaneously.",
+        "search": "Siege of Alesia Roman ramparts battle engraving",
+        "caption": "September 52 BC: Roman lines breach under simultaneous dual assault"
+      },
+      {
+        "narration": "Donning his unmistakable scarlet cloak so his troops could see him, Caesar led the final reserves into the breach and ordered his cavalry to strike the Gallic rear.",
+        "search": "Julius Caesar red cloak battle oil painting",
+        "caption": "Caesar enters the breach wearing his scarlet commander's cloak"
+      },
+      {
+        "narration": "Panic shattered the relief army, forcing Vercingetorix to surrender his arms the following morning and cementing Roman control over Gaul for five centuries.",
+        "search": "Vercingetorix surrender to Julius Caesar oil painting",
+        "caption": "Vercingetorix surrenders, ending Gallic independence and sealing Roman dominion"
+      },
+      {
+        "narration": "Julius Caesar won his greatest victory while completely surrounded.",
+        "search": "Julius Caesar portrait painting",
+        "caption": "Caesar won while completely surrounded in 52 BC."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T21:53:46.164485+00:00",
+    "updated_at": "2026-10-28T22:08:47.105224+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-28T21:58:33.132977+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "358 chars (cat 282 de vua 55s)",
+        "at": "2026-10-28T22:05:41.834271+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.3s en-US-GuyNeural 6 cau",
+        "at": "2026-10-28T22:05:46.134021+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T22:05:47.643252+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-28T22:07:58.167474+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T22:07:58.265978+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 15188280 bytes",
+        "at": "2026-10-28T22:08:46.675230+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T22:08:47.105206+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20844476/pexels-photo-20844476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27381254/pexels-photo-27381254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8653358/pexels-photo-8653358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27925640/pexels-photo-27925640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11535343/pexels-photo-11535343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125777/pexels-photo-38125777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31814617/pexels-photo-31814617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16353152/pexels-photo-16353152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28976020/pexels-photo-28976020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809284/pexels-photo-19809284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15895421/pexels-photo-15895421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35778907/pexels-photo-35778907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "065bffd6c2",
     "kind": "short",
     "channel": "Channel3",
