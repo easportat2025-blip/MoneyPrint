@@ -1,5 +1,161 @@
 [
   {
+    "id": "dde267ad36",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Alexander The Great Regretted Burning Persepolis",
+    "idea": {
+      "title": "Why Alexander The Great Regretted Burning Persepolis",
+      "hook": "In a drunken haze, Alexander the Great burned the magnificent palace of Persepolis, sparking instant remorse that haunted him until his dying day.",
+      "beats": [
+        "After conquering the Persian Empire in 330 BC, Alexander hosted a massive victory celebration in the royal capital of Persepolis.",
+        "Prompted by an Athenian courtesan named Thais, the drunken conqueror threw the first torch to avenge the ancient Persian destruction of Athens.",
+        "As the cedar roofs and grand columns collapsed into ash, sobriety returned, and Alexander instantly realized the irreplaceable cultural loss.",
+        "Though he tried to halt the flames, it was too late, leaving behind a smoking ruin that marked the tragic turning point of his campaign."
+      ],
+      "keywords": [
+        "alexander the great bust",
+        "ancient persian ruins",
+        "historical painting fire",
+        "macedonian helmet",
+        "ancient manuscript"
+      ],
+      "tags": [
+        "alexander the great",
+        "persia",
+        "history",
+        "ancient world",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Alexander regret destroying his greatest victory?",
+        "search": "alexander the great bust statue",
+        "caption": "Why Alexander regretted burning Persepolis"
+      },
+      {
+        "narration": "In 330 BC, Alexander conquered Persepolis, the grand ceremonial capital of the Persian Empire.",
+        "search": "persepolis ancient persian ruins photo",
+        "caption": "330 BC: Persepolis falls to Macedonia"
+      },
+      {
+        "narration": "For months, Macedonian troops occupied the royal complex, marveling at its vast wealth and monumental architecture.",
+        "search": "ancient persian palace engraving",
+        "caption": "The magnificent palace of Persia"
+      },
+      {
+        "narration": "During a late-night victory banquet, heavy drinking fueled an increasingly reckless atmosphere among the conquerors.",
+        "search": "ancient greek banquet oil painting",
+        "caption": "A drunken victory celebration"
+      },
+      {
+        "narration": "An Athenian courtesan named Thais publicly challenged Alexander to avenge the Persian destruction of Athens.",
+        "search": "ancient greek woman illustration",
+        "caption": "Thais demands vengeance for Athens"
+      },
+      {
+        "narration": "Swept up in the frenzy, Alexander grabbed a torch and led a reveling procession through the halls.",
+        "search": "macedonian helmet and torch historical painting",
+        "caption": "Alexander leads the torchlit march"
+      },
+      {
+        "narration": "The king hurled the first torch, setting off a firestorm that rapidly devoured the cedar-roofed palaces.",
+        "search": "historical painting fire burning palace",
+        "caption": "Persepolis engulfed in fire"
+      },
+      {
+        "narration": "As the massive stone pillars began to collapse into ash, sober reality suddenly hit the young king.",
+        "search": "ancient ruined palace smoke oil painting",
+        "caption": "The tragic destruction of Persepolis"
+      },
+      {
+        "narration": "Horrified by the raging destruction, Alexander ordered his troops to extinguish the blaze, but the dry cedar timbers made the fire uncontrollable.",
+        "search": "burning ancient palace historical painting",
+        "caption": "Alexander desperately tried to stop the fire"
+      },
+      {
+        "narration": "By destroying the royal capital in May 330 BC, he obliterated centuries of Persian heritage and shattered his vision of a unified empire.",
+        "search": "persepolis ruins stone columns photograph",
+        "caption": "Centuries of Persian heritage turned to ash"
+      },
+      {
+        "narration": "Ancient historians recorded that Alexander carried immense remorse for this rash act, haunting the conqueror until his death in 323 BC.",
+        "search": "alexander the great bust marble statue",
+        "caption": "A single drunken mistake haunted his legacy"
+      },
+      {
+        "narration": "Alexander the Great destroyed history’s greatest palace in minutes.",
+        "search": "alexander the great bust statue marble",
+        "caption": "Alexander destroyed history's greatest palace in minutes."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-28T23:44:06.190799+00:00",
+    "updated_at": "2026-10-28T23:56:51.798587+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-28T23:45:27.226995+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "374 chars (cat 403 de vua 55s)",
+        "at": "2026-10-28T23:50:58.324784+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 4 cau",
+        "at": "2026-10-28T23:51:00.414144+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-28T23:51:01.585103+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-28T23:56:12.776106+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-28T23:56:12.856217+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 14080693 bytes",
+        "at": "2026-10-28T23:56:51.452609+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-28T23:56:51.798570+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/31658348/pexels-photo-31658348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27112671/pexels-photo-27112671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38843337/pexels-photo-38843337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38070954/pexels-photo-38070954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27163474/pexels-photo-27163474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39483724/pexels-photo-39483724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5856851/pexels-photo-5856851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32503058/pexels-photo-32503058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16160772/pexels-photo-16160772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14483032/pexels-photo-14483032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18908096/pexels-photo-18908096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31164214/pexels-photo-31164214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6aaf0e8ab5",
     "kind": "short",
     "channel": "Channel2",
