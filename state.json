@@ -1,5 +1,161 @@
 [
   {
+    "id": "79d71a767d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How One Axe Blow Shattered England's Army",
+    "idea": {
+      "title": "How One Axe Blow Shattered England's Army",
+      "hook": "In 1314, an English knight charged King Robert the Bruce alone—and a single split helmet changed Scottish history forever.",
+      "beats": [
+        "On the eve of Bannockburn, Sir Henry de Bohun spotted the Scottish king isolated on a small pony and lowered his lance for an easy glory kill.",
+        "Instead of retreating, Robert stood completely still, waiting until the charging warhorse was inches away before sidestepping the lance.",
+        "Rising in his stirrups, Bruce brought his battleaxe down with terrifying force, splitting Bohun's iron helmet in half and snapping his axe shaft.",
+        "The sudden, brutal duel electrified the Scots, destroyed English morale before combat began, and sparked one of the greatest upsets in medieval warfare."
+      ],
+      "keywords": [
+        "Robert the Bruce portrait",
+        "Battle of Bannockburn painting",
+        "Henry de Bohun knight",
+        "medieval Scotland engraving",
+        "medieval battle woodcut"
+      ],
+      "tags": [
+        "history",
+        "historyshorts",
+        "medievalhistory",
+        "scotland",
+        "warfare"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One split helmet decided Scotland's greatest war.",
+        "search": "battle of bannockburn oil painting",
+        "caption": "A single blow changed Scottish history forever."
+      },
+      {
+        "narration": "On June 23, 1314, twenty thousand English troops marched toward Stirling Castle to crush Scottish independence.",
+        "search": "stirling castle medieval map engraving",
+        "caption": "June 1314: England marches on Stirling Castle."
+      },
+      {
+        "narration": "King Robert the Bruce commanded barely six thousand men, facing an overwhelming force of heavy cavalry.",
+        "search": "king robert the bruce portrait painting",
+        "caption": "Bruce was outnumbered more than three to one."
+      },
+      {
+        "narration": "Before the armies engaged, English knight Sir Henry de Bohun rode out ahead of his vanguard.",
+        "search": "medieval knight charging lance manuscript illustration",
+        "caption": "Sir Henry de Bohun broke English ranks."
+      },
+      {
+        "narration": "Bohun spotted Bruce riding alone across the front lines on an unarmored highland pony.",
+        "search": "medieval scottish warrior woodcut",
+        "caption": "King Robert sat isolated on a small pony."
+      },
+      {
+        "narration": "Lowering his steel-tipped lance, the English champion spurred his warhorse into a full gallop.",
+        "search": "armored knight warhorse gallop medieval illumination",
+        "caption": "Bohun charged directly at the Scottish king."
+      },
+      {
+        "narration": "Scottish commanders yelled for Bruce to retreat, but the king stood motionless in the open field.",
+        "search": "robert the bruce statue stirling",
+        "caption": "Bruce refused to retreat behind his pikemen."
+      },
+      {
+        "narration": "At the final second before impact, Bruce jerked his reins aside and rose high in his stirrups.",
+        "search": "medieval cavalry duel battle miniature manuscript",
+        "caption": "Bruce dodged the lance point by inches."
+      },
+      {
+        "narration": "Bruce brought his battleaxe down with devastating force, cleaving through Bohun's steel helmet and skull before snapping the weapon's wooden shaft.",
+        "search": "Robert the Bruce killing Henry de Bohun engraving",
+        "caption": "Bruce split Bohun's steel helmet with a single blow."
+      },
+      {
+        "narration": "The sudden death of Bohun electrified the outnumbered Scottish lines, shattering English confidence hours before the general engagement even began.",
+        "search": "Battle of Bannockburn 1314 oil painting",
+        "caption": "The sudden duel destroyed English morale before combat began."
+      },
+      {
+        "narration": "Over the next two days at Bannockburn, Bruce's disciplined spearmen annihilated Edward II's host, securing Scottish independence from an opening duel.",
+        "search": "Robert the Bruce king of Scotland portrait painting",
+        "caption": "One axe blow secured Scottish independence at Bannockburn."
+      },
+      {
+        "narration": "Can a single axe blow destroy an entire army?",
+        "search": "Battle of Bannockburn painting",
+        "caption": "Can a single axe blow destroy an army?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T23:42:31.464534+00:00",
+    "updated_at": "2026-10-29T23:47:57.501817+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-29T23:44:10.047830+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "405 chars (cat 165 de vua 55s)",
+        "at": "2026-10-29T23:45:33.315479+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 4 cau",
+        "at": "2026-10-29T23:45:35.835029+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T23:45:36.798793+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-29T23:47:10.171952+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-29T23:47:10.265461+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 15428298 bytes",
+        "at": "2026-10-29T23:47:57.072370+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T23:47:57.501801+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28645913/pexels-photo-28645913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38566163/pexels-photo-38566163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14251036/pexels-photo-14251036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35639702/pexels-photo-35639702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27126166/pexels-photo-27126166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32932623/pexels-photo-32932623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13380248/pexels-photo-13380248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36917791/pexels-photo-36917791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36738960/pexels-photo-36738960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902536/pexels-photo-34902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779931/pexels-photo-13779931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/334203/pexels-photo-334203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7759c8576d",
     "kind": "short",
     "channel": "Channel2",
