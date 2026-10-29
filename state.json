@@ -1,5 +1,161 @@
 [
   {
+    "id": "ebff19a900",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Cyrus Conquered Babylon by Draining a River",
+    "idea": {
+      "title": "How Cyrus Conquered Babylon by Draining a River",
+      "hook": "In 539 BC, King Cyrus captured Babylon’s impenetrable fortress without losing a single soldier—by draining an entire river overnight.",
+      "beats": [
+        "Babylon was shielded by massive 40-foot stone walls and the deep, fast-flowing Euphrates River running straight through its center.",
+        "Cyrus realized the water-gates were the fortress's only unfortified entry point beneath the surface.",
+        "Upstream, Persian engineers secretly dug immense diversion trenches, dropping the river's depth to thigh-level under cover of darkness.",
+        "While Babylonian nobles were paralyzed during a drunken religious festival, Persian elite troops waded under the water-gates and captured the throne."
+      ],
+      "keywords": [
+        "Cyrus the Great Persian engraving",
+        "Ancient Babylon walls painting",
+        "Euphrates river antique map",
+        "Babylonian banquet feast illustration",
+        "Persian Achaemenid soldiers bust"
+      ],
+      "tags": [
+        "cyrusthegreat",
+        "ancienthistory",
+        "babylon",
+        "persianempire",
+        "ancientwarfare"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cyrus conquered impregnable Babylon by draining an entire river.",
+        "search": "Cyrus the Great stone relief engraving",
+        "caption": "Cyrus took Babylon by draining a river."
+      },
+      {
+        "narration": "In October 539 BC, Babylon was considered the most heavily fortified city in the ancient world.",
+        "search": "ancient Babylon Ishtar gate oil painting",
+        "caption": "In 539 BC, Babylon was deemed completely impregnable."
+      },
+      {
+        "narration": "Its perimeter was shielded by forty-foot stone walls, split down the center by the deep Euphrates River.",
+        "search": "walls of ancient Babylon river antique engraving",
+        "caption": "Forty-foot defensive walls and the Euphrates protected the capital."
+      },
+      {
+        "narration": "Babylonian storehouses held years of grain, designed to outlast any conventional Persian siege.",
+        "search": "King Nabonidus Babylonian stone stela artifact",
+        "caption": "Stockpiled provisions ensured Babylon could withstand years under siege."
+      },
+      {
+        "narration": "Cyrus the Great realized the iron grates submerged beneath the river were the city's sole vulnerability.",
+        "search": "Euphrates river ancient Mesopotamia map engraving",
+        "caption": "Cyrus identified submerged water-gates as Babylon's only weak point."
+      },
+      {
+        "narration": "Persian engineers secretly began diverting the Euphrates upstream into marshlands and massive excavated trenches.",
+        "search": "ancient Persian canal excavation illustration engraving",
+        "caption": "Upstream canals redirected the flow of the Euphrates river."
+      },
+      {
+        "narration": "Inside the city, Babylonian royalty gathered for a drunken religious banquet, oblivious to the receding waterline.",
+        "search": "Belshazzars feast Babylonian banquet oil painting",
+        "caption": "Babylonian royalty feasted, unaware the river was dropping rapidly."
+      },
+      {
+        "narration": "By nightfall, the river dropped to thigh level, and Persian shock troops entered the dark riverbed.",
+        "search": "Achaemenid Persian immortals relief artifact",
+        "caption": "Persian soldiers waded into the drained riverbed at midnight."
+      },
+      {
+        "narration": "Wading through the riverbed beneath the undefended bronze water-gates, Persian elite infantry breached Babylon's inner perimeter undetected.",
+        "search": "ancient babylon water gates historical engraving",
+        "caption": "Persian troops slipped beneath the unguarded river gates undetected."
+      },
+      {
+        "narration": "The soldiers stormed the royal palace mid-celebration, neutralizing the Babylonian leadership before an organized defense could even mobilize.",
+        "search": "belshazzar feast oil painting rembrandt",
+        "caption": "The royal palace was seized before guards could organize defense."
+      },
+      {
+        "narration": "On October 12, 539 BC, Cyrus took the ancient world's greatest fortress virtually bloodless, ending the Neo-Babylonian Empire overnight.",
+        "search": "cyrus cylinder ancient artifact photograph",
+        "caption": "Babylon fell overnight without a siege, ending an empire."
+      },
+      {
+        "narration": "King Cyrus conquered ancient Babylon by draining an entire river.",
+        "search": "Cyrus the Great bust statue Persian sculpture",
+        "caption": "Cyrus took Babylon by draining an entire river."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T06:57:33.356680+00:00",
+    "updated_at": "2026-10-29T07:28:20.009929+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-29T07:01:16.270581+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "363 chars (cat 250 de vua 55s)",
+        "at": "2026-10-29T07:07:46.736695+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.3s en-US-GuyNeural 5 cau",
+        "at": "2026-10-29T07:07:50.180147+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T07:07:50.934889+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-29T07:27:42.123918+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-29T07:27:42.203168+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.3s 16565651 bytes",
+        "at": "2026-10-29T07:28:19.707565+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T07:28:20.009911+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33242133/pexels-photo-33242133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23436757/pexels-photo-23436757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5441912/pexels-photo-5441912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39059538/pexels-photo-39059538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38288424/pexels-photo-38288424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35416002/pexels-photo-35416002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34357897/pexels-photo-34357897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39152821/pexels-photo-39152821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18075542/pexels-photo-18075542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21832916/pexels-photo-21832916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806578/pexels-photo-38806578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708783/pexels-photo-35708783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5438525c89",
     "kind": "short",
     "channel": "Channel3",
