@@ -1,5 +1,599 @@
 [
   {
+    "id": "6f44ae2bcc",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Deadly Banquet: How Cesare Borgia Ended a Rebellion in One Night",
+    "idea": {
+      "title": "The Deadly Banquet: How Cesare Borgia Ended a Rebellion in One Night",
+      "hook": "In the dead of winter in 1502, Renaissance warlord Cesare Borgia invited the treacherous generals who tried to destroy him to a lavish peace banquet—ensuring none of them would ever walk out alive.",
+      "beats": [
+        "Examine Cesare Borgia’s meteoric rise in early 16th-century Italy, using papal wealth and ruthlessness to carve out his own personal empire in the Romagna.",
+        "Detail the secret conspiracy hatched at La Magione, where Borgia's top mercenary generals realized his ultimate ambition and resolved to destroy him before he destroyed them.",
+        "Cover the sudden eruption of open rebellion as the rebel condottieri seized key strongholds like Urbino, pushing Cesare to the brink of total collapse.",
+        "Analyze Cesare's psychological counter-strategy: rather than fighting on the field, he feigned profound weakness, panic, and an eagerness to negotiate.",
+        "Show how Cesare exploited fractures within the rebel alliance through secret private letters, playing on their mutual distrust, greed, and individual ambitions.",
+        "Explore the false reconciliation treaty, where Cesare granted astonishingly generous concessions to convince the plotters that he was entirely dependent on their support.",
+        "Detail the capture of the coastal fortress of Senigallia, where Cesare orchestrated a face-to-face victory meeting under the guise of an official peace celebration.",
+        "Describe the eerie arrival on December 31, 1502: general Vitellozzo Vitelli rides in weeping from premonitions of doom, yet attends alongside his co-conspirators completely unarmed.",
+        "Reconstruct the fatal greeting: Cesare rides forward to embrace the commanders like beloved brothers, guiding them into the secluded private chambers of the Palazzo Ducale.",
+        "Break down the ambush: the instant the door closes, Cesare slips away, and armed royal guards emerge from the shadows to overpower the trapped commanders.",
+        "Describe the silent midnight executions: Vitellozzo Vitelli and Oliverotto da Fermo are strangled back-to-back with bowstrings while their soldiers are systematically massacred outside.",
+        "Reveal the historical legacy through the eyes of an eyewitness diplomat, Niccolò Machiavelli, who used Cesare's cold deception as the core inspiration for The Prince."
+      ],
+      "keywords": [
+        "Cesare Borgia",
+        "Massacre of Senigallia",
+        "Machiavelli The Prince",
+        "Italian Renaissance history",
+        "House of Borgia",
+        "Pope Alexander VI",
+        "Renaissance warfare",
+        "Condottieri betrayal",
+        "Historical assassinations",
+        "Medieval political intrigue"
+      ],
+      "tags": [
+        "cesare borgia",
+        "renaissance history",
+        "the prince machiavelli",
+        "house of borgia",
+        "senigallia massacre",
+        "historical betrayals",
+        "military history documentary",
+        "medieval warfare",
+        "italian renaissance",
+        "dark history"
+      ],
+      "kind": "long",
+      "thumbnail_text": "ONE DINNER. NO SURVIVORS."
+    },
+    "scenes": [
+      {
+        "narration": "One banquet ended Renaissance Italy’s deadliest rebellion overnight.",
+        "search": "Cesare Borgia portrait oil painting",
+        "caption": "How one banquet destroyed an entire military rebellion in 1502."
+      },
+      {
+        "narration": "In October 1502, Cesare Borgia faced ruin when his top mercenary generals met at Magione to plot his overthrow.",
+        "search": "Castello di Magione fortress engraving",
+        "caption": "Mercenary condottieri form a secret pact at Magione, October 1502."
+      },
+      {
+        "narration": "Led by Vitellozzo Vitelli and the Orsini family, the conspirators seized Urbino and defeated Borgia’s loyalist troops.",
+        "search": "Vitellozzo Vitelli portrait oil painting",
+        "caption": "Rebel commanders seize Urbino, threatening Borgia’s northern territories."
+      },
+      {
+        "narration": "Rather than fighting openly, Borgia locked himself inside Imola and feigned weakness while secretly securing French military aid.",
+        "search": "Rocca di Imola renaissance fortress engraving",
+        "caption": "Borgia feigns paralysis inside the fortress of Imola."
+      },
+      {
+        "narration": "Borgia sent private dispatches to individual conspirators, exploiting mutual distrust with separate bribes and promises of total pardon.",
+        "search": "16th century wax seal manuscript letter",
+        "caption": "Borgia exploits rivalries with separate promises and forged treaties."
+      },
+      {
+        "narration": "By late December 1502, the conspirators seized the Adriatic port of Senigallia and requested Borgia's arrival to accept the fortress.",
+        "search": "Rocca Roveresca Senigallia old map engraving",
+        "caption": "Conspirators secure Senigallia, preparing for Borgia’s direct arrival."
+      },
+      {
+        "narration": "On December 31, 1502, Borgia ordered the rebel generals to quarter their troops outside the walls while his cavalry quietly sealed every exit.",
+        "search": "Italian renaissance cavalry battle oil painting",
+        "caption": "Borgia surrounds the town of Senigallia with loyal cavalry."
+      },
+      {
+        "narration": "Cesare embraced the conspirators as brothers outside the gates, guiding them unarmed into the secluded chambers of the Palazzo Ducale.",
+        "search": "Renaissance palazzo interior council chamber engraving",
+        "caption": "Conspirators are escorted unarmed inside the Palazzo Ducale."
+      },
+      {
+        "narration": "Once Vitellozzo Vitelli and Oliverotto da Fermo crossed the threshold of the Palazzo Ducale on December 31, 1502, heavy wooden doors slammed shut behind them. Cut off from their bodyguards, the conspirators realized too late that they were trapped inside a locked fortress.",
+        "search": "Palazzo Ducale Senigallia interior renaissance architecture oil painting",
+        "caption": "The Trap Seals Inside the Palazzo Ducale"
+      },
+      {
+        "narration": "Under the pretext of changing his clothing, Cesare Borgia slipped out of the reception room through a hidden side passage. In his place, his ruthless captain Michelotto Corella emerged from the shadows accompanied by fully armored guards.",
+        "search": "Michelotto Corella assassin renaissance battle fresco",
+        "caption": "Cesare Steps Away as Guards Emerge"
+      },
+      {
+        "narration": "Completely unarmed due to Borgia’s deceptive hospitality, the rebellious condottieri were overpowered and bound before they could draw a weapon. Their frantic pleas for mercy were met with total silence from the surrounding mercenaries.",
+        "search": "Renaissance mercenaries arresting captive noblemen 16th century engraving",
+        "caption": "Unarmed Rebel Generals Seized in Darkness"
+      },
+      {
+        "narration": "Outside the city gates, Borgia’s cavalry launched a surprise assault on the unsuspecting rebel regiments quartered in nearby villages. Thousands of mercenary soldiers were disarmed, routed, and plundered in a coordinated midnight sweep.",
+        "search": "16th century Italian cavalry ambush military engraving",
+        "caption": "Rebel Mercenary Forces Plundered and Slaughtered"
+      },
+      {
+        "narration": "As midnight approached on January 1, 1503, Corella prepared the condemned generals for immediate execution without a trial. Vitellozzo Vitelli and Oliverotto da Fermo were forced to sit back-to-back on a low wooden bench.",
+        "search": "16th century executioner choking captive renaissance illustration",
+        "caption": "Midnight Executions Ordered Without Trial"
+      },
+      {
+        "narration": "Executioners slipped bowstrings around the necks of both men, strangling them simultaneously in the dark room. Oliverotto wept in panic, while Vitelli begged for a papal pardon from Cesare's father, Pope Alexander VI.",
+        "search": "Vitellozzo Vitelli portrait painting renaissance",
+        "caption": "Vitelli and Oliverotto Strangled Back-to-Back"
+      },
+      {
+        "narration": "Borgia kept the remaining captives, Pagolo Orsini and the Duke of Gravina, alive until he confirmed that his father had secured Rome. On January 18, 1503, both men were choked to death in Castel Pieve under identical orders.",
+        "search": "Pope Alexander VI Borgia portrait oil painting",
+        "caption": "Final Orsini Conspirators Executed Weeks Later"
+      },
+      {
+        "narration": "Florentine diplomat Niccolò Machiavelli observed the purge firsthand, hailing the tactical trickery as a ruthless masterpiece that inspired his classic work, The Prince. Through the Massacre of Senigallia, Cesare Borgia crushed the rebellion and cemented his terrifying legacy in Renaissance history.",
+        "search": "Niccolo Machiavelli portrait painting renaissance",
+        "caption": "Machiavelli Immortalizes Borgia in The Prince"
+      },
+      {
+        "narration": "One night in 1502 destroyed an entire rebel army.",
+        "search": "cesare borgia portrait oil painting night",
+        "caption": "One night destroyed an entire rebel army."
+      },
+      {
+        "narration": "In October 1502, mercenary commanders gathered secretly at La Magione to plot the destruction of Duke Cesare Borgia.",
+        "search": "la magione castle Italy oil painting",
+        "caption": "October 1502: The conspirators gather at La Magione."
+      },
+      {
+        "narration": "The rebel condottieri seized the Duchy of Urbino, pushing Borgia into an immediate military crisis across central Italy.",
+        "search": "duchy of urbino fortress renaissance engraving",
+        "caption": "Rebel condottieri seize Urbino and isolate Borgia."
+      },
+      {
+        "narration": "Rather than fighting on the field, Cesare feigned panic while sending private letters to exploit individual rivalries among the rebels.",
+        "search": "renaissance wax seal letter manuscript",
+        "caption": "Cesare feigns weakness while dividing his enemies."
+      },
+      {
+        "narration": "After signing a generous treaty, Cesare invited the conspirators to the coastal fortress of Senigallia on December 31, 1502.",
+        "search": "senigallia fortress map 16th century engraving",
+        "caption": "December 31, 1502: The trap springs at Senigallia."
+      },
+      {
+        "narration": "Cesare greeted commanders Vitellozzo Vitelli and Oliverotto da Fermo before guiding them unarmed into the secluded Palazzo Ducale.",
+        "search": "vitellozzo vitelli renaissance portrait painting",
+        "caption": "Borgia lures the unarmed generals inside."
+      },
+      {
+        "narration": "Once inside the chamber, armed guards emerged from the shadows and strangled the trapped commanders with bowstrings before midnight.",
+        "search": "palazzo ducale interior Renaissance painting",
+        "caption": "Conspirators strangled with bowstrings inside the palace."
+      },
+      {
+        "narration": "Eyewitness diplomat Niccolò Machiavelli recorded the purge, using Borgia's deception as the foundation for his classic treatise, The Prince.",
+        "search": "niccolo machiavelli portrait oil painting",
+        "caption": "Machiavelli immortalized Borgia in The Prince."
+      },
+      {
+        "narration": "Four generals entered a banquet and never walked out. On December 31, 1502, Cesare Borgia destroyed an entire military rebellion in a single night.",
+        "search": "cesare borgia portrait painting",
+        "caption": "Dec 31, 1502: Borgia eliminates four rebel generals in one night."
+      },
+      {
+        "narration": "By late 1502, Cesare Borgia used papal wealth from his father, Pope Alexander VI, to conquer the Romagna region. Fearing his growing power, his mercenary generals met secretly at La Magione Castle to plot his overthrow.",
+        "search": "pope alexander vi portrait painting",
+        "caption": "Mercenary captains assemble at La Magione to destroy Borgia."
+      },
+      {
+        "narration": "The conspirators revolted in October 1502, seizing the Duchy of Urbino and crushing Borgia's forces in open battle. Facing total collapse, Borgia was driven back to his stronghold at Imola with almost no remaining loyal troops.",
+        "search": "duchy of urbino renaissance map engraving",
+        "caption": "October 1502: Borgia loses Urbino as the rebellion spreads."
+      },
+      {
+        "narration": "Instead of offering battle, Borgia feigned weakness and signed an astonishingly generous reconciliation treaty in November 1502. Privately, he sent secret letters offering vast lands to individual captains, destroying their unity through mutual suspicion.",
+        "search": "16th century italian manuscript letter",
+        "caption": "Borgia signs a generous treaty while secretly dividing his enemies."
+      },
+      {
+        "narration": "Reassured by the treaty, commanders Vitellozzo Vitelli and Oliverotto da Fermo captured the coastal port of Senigallia for Borgia in late December. Borgia invited them to a victory banquet to finalize their peace agreement.",
+        "search": "senigallia fortress Renaissance engraving",
+        "caption": "Late December 1502: The rebels capture Senigallia for Borgia."
+      },
+      {
+        "narration": "Despite weeping from dark premonitions on December 31, 1502, Vitelli rode to the meeting completely unarmed alongside his fellow conspirators. Borgia met them at the gates and guided them into the private rooms of the Palazzo Ducale.",
+        "search": "vitellozzo vitelli portrait painting",
+        "caption": "Dec 31, 1502: Unarmed generals enter the Palazzo Ducale."
+      },
+      {
+        "narration": "Once inside the chamber, Borgia slipped away as heavy wooden doors locked behind them. Guards emerged from hidden alcoves and strangled Vitelli and Oliverotto back-to-back with bowstrings before midnight.",
+        "search": "palazzo ducale senigallia interior engraving",
+        "caption": "Borgia's guards strangle the trapped generals at midnight."
+      },
+      {
+        "narration": "Florentine diplomat Niccolò Machiavelli witnessed the execution and documented the deception as the core case study for his masterwork, The Prince. Borgia's cold purge at Senigallia reshaped Western political strategy for centuries.",
+        "search": "niccolo machiavelli portrait painting",
+        "caption": "Machiavelli used the Senigallia massacre as inspiration for The Prince."
+      },
+      {
+        "narration": "Can a single banquet eliminate an entire military rebellion? On December 31, 1502, Cesare Borgia neutralized a treacherous conspiracy in one night without firing a shot.",
+        "search": "cesare borgia portrait painting rival",
+        "caption": "December 31, 1502: Borgia eliminates his rival generals in one night."
+      },
+      {
+        "narration": "Using the vast wealth of his father, Pope Alexander VI, Borgia conquered the Romagna region with extreme ruthlessness. Terrified of his rising power, his top mercenary generals met secretly at La Magione in October 1502 to plot his destruction.",
+        "search": "pope alexander vi portrait painting against",
+        "caption": "October 1502: Mercenary commanders plot against Borgia at La Magione."
+      },
+      {
+        "narration": "The rebel condottieri seized crucial strongholds like Urbino, pushing Borgia to the brink of military collapse. Recognizing that open combat meant defeat, Borgia feigned complete panic and helplessness to buy crucial time.",
+        "search": "urbino fortress Renaissance map engraving",
+        "caption": "Rebel forces seize Urbino, threatening Borgia's empire in late 1502."
+      },
+      {
+        "narration": "Borgia secretly dispatched private letters offering lavish bribes to individual conspirators. By playing on their mutual distrust and personal greed, he fractured the rebel coalition before they could launch a final assault.",
+        "search": "16th century letter manuscript illustration",
+        "caption": "Borgia sends secret treaties to exploit distrust among rebel leaders."
+      },
+      {
+        "narration": "Borgia signed a generous peace treaty and invited the rebel commanders to celebrate their reconciliation at Senigallia. General Vitellozzo Vitelli wept from premonitions of doom, yet rode into the fortress completely unarmed on December 31, 1502.",
+        "search": "senigallia fortress Renaissance engraving enters",
+        "caption": "Dec. 31, 1502: Vitelli enters Senigallia despite premonitions of death."
+      },
+      {
+        "narration": "Borgia greeted the commanders like beloved brothers and ushered them into the private chambers of the Palazzo Ducale. The moment the outer doors locked shut, Borgia slipped through a hidden passageway as heavily armed guards surrounded the trap.",
+        "search": "palazzo ducale senigallia interior painting",
+        "caption": "Borgia locks the commanders inside the Palazzo Ducale chambers."
+      },
+      {
+        "narration": "Before midnight, executioners strangled Vitellozzo Vitelli and Oliverotto da Fermo back-to-back with bowstrings inside the palace cells. Simultaneously, Borgia's loyal forces ambushed and wiped out the rebels' troops outside the city walls.",
+        "search": "16th century execution bowstring illustration",
+        "caption": "Vitelli and Oliverotto strangled before midnight on December 31, 1502."
+      },
+      {
+        "narration": "Observing the purge firsthand, Florentine diplomat Niccolò Machiavelli recorded Borgia's brutal cunning as the core case study for his masterwork, The Prince. Borgia's ruthless deception at Senigallia permanently redefined Western political strategy.",
+        "search": "niccolo machiavelli portrait painting records",
+        "caption": "Machiavelli records Borgia's masterclass in statecraft for The Prince."
+      },
+      {
+        "narration": "In December 1502, Cesare Borgia crushed a deadly military rebellion by hosting a single peace banquet. Before sunrise, every rogue general who plotted his downfall was dead.",
+        "search": "cesare borgia renaissance oil painting",
+        "caption": "How One Dinner Ended a Rebellion"
+      },
+      {
+        "narration": "By 1502, Pope Alexander VI’s son, Cesare Borgia, was aggressively carving a personal empire across Italy's Romagna region. Fearing his ruthless ambition, Borgia's top mercenary generals secretly conspired at La Magione to destroy him.",
+        "search": "pope alexander vi portrait oil painting",
+        "caption": "1502: The Conspiracy at La Magione"
+      },
+      {
+        "narration": "The rebel condottieri struck quickly, seizing key strongholds like Urbino and pushing Borgia to the brink of complete military collapse.",
+        "search": "ducal palace of urbino renaissance engraving",
+        "caption": "Rebel Generals Seize Urbino"
+      },
+      {
+        "narration": "Rather than fight on the field, Borgia feigned profound panic and offered astonishingly generous peace concessions. Through secret private letters, he exploited the generals' mutual distrust and personal greed.",
+        "search": "16th century Italian letter manuscript document",
+        "caption": "Borgia Exploits Rebel Distrust"
+      },
+      {
+        "narration": "On December 31, 1502, Borgia summoned the pacified commanders to the coastal town of Senigallia under the guise of an official peace celebration. General Vitellozzo Vitelli arrived weeping from premonitions of doom, yet entered completely unarmed.",
+        "search": "vitellozzo vitelli renaissance portrait painting low angle",
+        "caption": "December 31, 1502: Arrival at Senigallia"
+      },
+      {
+        "narration": "Borgia embraced the commanders like brothers, personally guiding them into the secluded private chambers of the Palazzo Ducale. The instant the doors closed, hidden armed guards swarmed the traitors.",
+        "search": "palazzo ducale senigallia renaissance architecture engraving",
+        "caption": "Ambushed Inside Palazzo Ducale"
+      },
+      {
+        "narration": "At midnight, executioners strangled Vitellozzo Vitelli and Oliverotto da Fermo back-to-back with bowstrings inside the palace cells. Outside, Borgia’s army systematically wiped out the disarmed rebel troops.",
+        "search": "renaissance dungeon execution oil painting",
+        "caption": "Midnight Executions by Bowstring"
+      },
+      {
+        "narration": "Observing the purge firsthand, Florentine diplomat Niccolò Machiavelli recorded Borgia's ruthless deception as the core case study for his masterwork, The Prince.",
+        "search": "niccolo machiavelli portrait oil painting timelapse",
+        "caption": "Machiavelli and The Prince"
+      },
+      {
+        "narration": "While two generals died that night, Cesare kept Paolo Orsini and the Duke of Gravina alive in chains, awaiting a coordinated strike in Rome.",
+        "search": "Paolo Orsini renaissance portrait painting",
+        "caption": "Cesare held the remaining Orsini captives alive as political collateral."
+      },
+      {
+        "narration": "On January 3, 1503, Pope Alexander VI summoned Cardinal Giovanni Battista Orsini to the Vatican, instantly imprisoning him and seizing his family's fortresses.",
+        "search": "Pope Alexander VI Vatican fresco painting Pinturicchio",
+        "caption": "Alexander VI seized Cardinal Orsini and confiscated his dynasty's wealth."
+      },
+      {
+        "narration": "The moment couriers confirmed the Cardinal was locked inside Castel Sant'Angelo, Cesare ordered Paolo Orsini and the Duke of Gravina strangled on January 18.",
+        "search": "Castel Sant'Angelo Rome 16th century engraving",
+        "caption": "Paolo Orsini and the Duke of Gravina were strangled on January 18."
+      },
+      {
+        "narration": "With the rebel leadership annihilated, Borgia marched his army southward, effortlessly seizing Città di Castello, Perugia, and driving the ruler of Siena into exile.",
+        "search": "Perugia Italy renaissance town panorama engraving",
+        "caption": "Cesare annexed Umbrian city-states without facing organized military resistance."
+      },
+      {
+        "narration": "Cesare consolidated absolute control across the Romagna, enforcing civil order through magistrate Ramiro de Lorqua before publicly executing Lorqua to win popular favor.",
+        "search": "Cesena Romagna Italy historical map engraving",
+        "caption": "Borgia imposed absolute order across Romagna through calculated terror and governance."
+      },
+      {
+        "narration": "At the height of his power in August 1503, Cesare prepared to invade Tuscany, but a summer banquet at Cardinal Corneto's vineyard proved catastrophic.",
+        "search": "Renaissance banquet feast 16th century oil painting",
+        "caption": "In August 1503, a private banquet triggered sudden catastrophe."
+      },
+      {
+        "narration": "Struck down by virulent Roman fever or lethal poison, seventy-two-year-old Pope Alexander VI died on August 18, 1503, abruptly terminating Cesare's papal protection.",
+        "search": "Pope Alexander VI deathbed historical illustration engraving",
+        "caption": "Pope Alexander VI died on August 18, ending Cesare's papal backing."
+      },
+      {
+        "narration": "Incapacitated by the same illness and submerged in iced water to survive, Cesare lay bedridden while his exiled enemies mobilized armies to march on Rome.",
+        "search": "Cesare Borgia portrait painting Altobello Melone",
+        "caption": "Bedridden and near death, Cesare faced an immediate counter-rebellion in Rome."
+      },
+      {
+        "narration": "On September 22, 1503, the papal conclave elected the ailing Cardinal Piccolomini as Pope Pius III, briefly confirming Cesare as captain-general before dying twenty-six days later.",
+        "search": "Pope Pius III portrait oil painting",
+        "caption": "Pius III is elected pope in September 1503, dying 26 days later."
+      },
+      {
+        "narration": "Desperate to secure his Romagna territories, Cesare struck a secret pre-election pact with his family's bitterest rival, Cardinal Giuliano della Rovere, pledging Spanish cardinal votes for continued military authority.",
+        "search": "Cardinal Giuliano della Rovere portrait painting",
+        "caption": "Cesare backs bitter rival Giuliano della Rovere for the papal throne."
+      },
+      {
+        "narration": "On November 1, 1503, della Rovere ascended the papal throne as Pope Julius II, consolidating absolute control over Rome within hours of his election.",
+        "search": "Pope Julius II Raphael portrait oil painting",
+        "caption": "Giuliano della Rovere becomes Pope Julius II on November 1, 1503."
+      },
+      {
+        "narration": "Julius II swiftly revoked all private concessions, demanding Cesare immediately surrender every fortress in the Romagna, including the strategic citadels of Cesena and Forli.",
+        "search": "Rocca di Ravaldino Forli fortress engraving",
+        "caption": "Julius II demands the unconditional surrender of Cesare's Romagna fortresses."
+      },
+      {
+        "narration": "When Cesare refused and attempted to flee toward his loyal fleet at Ostia, papal guards intercepted him under the Pope’s direct orders, placing him under armed arrest.",
+        "search": "Ostia Antica fortress Renaissance engraving",
+        "caption": "Papal guards intercept and arrest Cesare Borgia at Ostia in 1503."
+      },
+      {
+        "narration": "Confined within the Torre Borgia at the Vatican, Cesare was powerless as Venetian armies swept into the Romagna and old rivals dismantled his conquered towns.",
+        "search": "Borgia Tower Vatican palace Renaissance fresco",
+        "caption": "Imprisoned in the Vatican, Cesare watches his conquered territories collapse."
+      },
+      {
+        "narration": "Florentine diplomat Niccolo Machiavelli recorded Cesare’s sudden descent, observing that placing faith in the promises of a newly crowned Julius II was the warlord's ultimate strategic error.",
+        "search": "Niccolo Machiavelli portrait painting Santi di Tito",
+        "caption": "Machiavelli witnesses Borgia's downfall and analyzes his fatal political miscalculation."
+      },
+      {
+        "narration": "Stripped of his army and coerced by papal guards, Cesare signed an unconditional capitulation on January 29, 1504, relinquishing all Romagna lands in exchange for his life.",
+        "search": "Cesena fortress Rocca Malatestiana 16th century engraving",
+        "caption": "In early 1504, Cesare surrenders all citadels, ending Borgia dominance."
+      },
+      {
+        "narration": "A captive warlord escaped Spain’s deadliest fortress in 1506.",
+        "search": "castle of la mota spain engraving",
+        "caption": "Escaping Spain's Deadliest Fortress"
+      },
+      {
+        "narration": "Following his 1504 betrayal by Pope Julius II, Gonzalo de Córdoba arrested Cesare Borgia in Naples and shipped him in chains to Spain. Imprisoned in the Castle of La Mota under King Ferdinand II, Cesare was denied all communication with the outside world.",
+        "search": "gonzalo de cordoba portrait painting",
+        "caption": "Imprisoned in Spain by Ferdinand II"
+      },
+      {
+        "narration": "On the night of October 25, 1506, Cesare utilized a smuggled rope to descend the high fortress tower, surviving a steep fall when guards severed the cord. Wounded but free, he fled across northern Spain on horseback to seek refuge with King John II of Navarre.",
+        "search": "castle of la mota tower oil painting",
+        "caption": "Daring Tower Escape in October 1506"
+      },
+      {
+        "narration": "Reaching Navarre in December 1506, Cesare was appointed commander of the Navarrese royal army to crush a rebel insurgency led by the Count of Lerma. Desperate to rebuild his empire, the thirty-one-year-old mercenary launched a relentless siege against the fortress of Viana in March 1507.",
+        "search": "king john ii of navarre portrait painting",
+        "caption": "Appointed Commander of the Navarrese Army"
+      },
+      {
+        "narration": "During a heavy storm on March 11, 1507, a rebel cavalry squadron broke through Navarrese lines to resupply the castle. Cesare mounted his horse and pursued the retreating knights into a narrow ravine, riding far ahead of his bodyguard.",
+        "search": "siege of viana 1507 illustration",
+        "caption": "Pursuing Rebel Knights Into a Ravine"
+      },
+      {
+        "narration": "Ambushed in the dark, Cesare was unhorsed, stripped of his gilded armor, and stabbed over twenty times with lances. When his officers discovered his body the next morning, the once-feared prince lay dead in the mud.",
+        "search": "cesare borgia death viana oil painting",
+        "caption": "Fallen Prince of the Romagna"
+      },
+      {
+        "narration": "News of Cesare's violent demise swept across Europe, prompting diplomat Niccolò Machiavelli to finalize his political treatise The Prince in 1513. Machiavelli used Borgia’s cold deception at Senigallia as the primary case study for absolute sovereign authority.",
+        "search": "niccolo machiavelli portrait painting machiavellis",
+        "caption": "Machiavelli's Inspiration for The Prince"
+      },
+      {
+        "narration": "Buried in Navarre, Cesare Borgia's ruthless strategy at the 1502 banquet of Senigallia established an enduring blueprint for total political power.",
+        "search": "church of santa maria viana engraving",
+        "caption": "The Immortal Legacy of Cesare Borgia"
+      },
+      {
+        "narration": "In December 1502, six treacherous generals walked into a peace banquet and never walked out alive.",
+        "search": "Cesare Borgia oil painting portrait",
+        "caption": "Six generals entered. None left alive."
+      },
+      {
+        "narration": "Facing a coalition of rebel condottieri at La Magione, Cesare Borgia saw his newly conquered empire in the Romagna on the verge of total collapse.",
+        "search": "Castello di Magione Renaissance map engraving",
+        "caption": "October 1502: The conspiracy at La Magione"
+      },
+      {
+        "narration": "Rather than risking open warfare, Borgia feigned panic and offered his rebellious captains exceptionally generous peace terms.",
+        "search": "16th century Renaissance manuscript letter document",
+        "caption": "Feigning panic to divide the rebels"
+      },
+      {
+        "narration": "On December 31, 1502, generals Vitellozzo Vitelli and Oliverotto da Fermo rode into the coastal town of Senigallia completely unarmed.",
+        "search": "Senigallia fortress Italy Renaissance engraving",
+        "caption": "December 31, 1502: The trap at Senigallia"
+      },
+      {
+        "narration": "Borgia embraced the commanders like brothers, guiding them into the private chambers of the Palazzo Ducale before slipping away.",
+        "search": "Palazzo Ducale interior Renaissance painting embraced",
+        "caption": "Embraced as brothers into locked chambers"
+      },
+      {
+        "narration": "Armed royal guards emerged from the shadows, overpowering the trapped conspirators and strangling Vitelli and Oliverotto with bowstrings before midnight.",
+        "search": "16th century Renaissance execution engraving",
+        "caption": "Strangled with bowstrings at midnight"
+      },
+      {
+        "narration": "Eyewitness diplomat Niccolò Machiavelli observed the sudden purge, analyzing Borgia's ruthless deception for his political treatise.",
+        "search": "Niccolo Machiavelli portrait oil painting documents",
+        "caption": "Machiavelli documents the flawless ambush"
+      },
+      {
+        "narration": "The Massacre of Senigallia became the cornerstone case study for The Prince, immortalizing Borgia's deadly banquet as history's ultimate political trap.",
+        "search": "Machiavelli The Prince 1532 edition book print",
+        "caption": "Senigallia: The blueprint for sovereign authority"
+      },
+      {
+        "narration": "One banquet crushed a whole Renaissance military rebellion overnight. On December 31, 1502, Cesare Borgia eliminated his top rebel generals in a single trap.",
+        "search": "cesare borgia oil painting portrait",
+        "caption": "The Deadly Banquet of Senigallia"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T19:41:59.679809+00:00",
+    "updated_at": "2026-10-29T20:16:02.251890+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-29T20:00:04.713589+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4407 chars",
+        "at": "2026-10-29T20:00:56.606962+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "269.7s en-US-GuyNeural 44 cau",
+        "at": "2026-10-29T20:01:23.143488+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T20:01:27.484963+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-29T20:11:44.811214+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-29T20:11:44.878546+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 269.7s 180286156 bytes",
+        "at": "2026-10-29T20:16:01.875310+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "7 chapters",
+        "at": "2026-10-29T20:16:02.008565+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T20:16:02.251857+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6932234/pexels-photo-6932234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35460127/pexels-photo-35460127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18562111/pexels-photo-18562111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32401440/pexels-photo-32401440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36824941/pexels-photo-36824941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36873807/pexels-photo-36873807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709019/pexels-photo-35709019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10351760/pexels-photo-10351760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709007/pexels-photo-35709007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39464615/pexels-photo-39464615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31266363/pexels-photo-31266363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13061930/pexels-photo-13061930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14747970/pexels-photo-14747970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16653993/pexels-photo-16653993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2827740/pexels-photo-2827740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19681870/pexels-photo-19681870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17249499/pexels-photo-17249499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34713437/pexels-photo-34713437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34604559/pexels-photo-34604559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21928738/pexels-photo-21928738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35907573/pexels-photo-35907573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33827927/pexels-photo-33827927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32358732/pexels-photo-32358732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36733374/pexels-photo-36733374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33241377/pexels-photo-33241377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31266265/pexels-photo-31266265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8472948/pexels-photo-8472948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5761595/pexels-photo-5761595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37654745/pexels-photo-37654745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6920179/pexels-photo-6920179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27495535/pexels-photo-27495535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19862975/pexels-photo-19862975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30715627/pexels-photo-30715627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36564397/pexels-photo-36564397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29976200/pexels-photo-29976200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7333517/pexels-photo-7333517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36403719/pexels-photo-36403719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6141784/pexels-photo-6141784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36665344/pexels-photo-36665344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39364709/pexels-photo-39364709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27667225/pexels-photo-27667225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6693769/pexels-photo-6693769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16409065/pexels-photo-16409065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13705890/pexels-photo-13705890.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708935/pexels-photo-35708935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33622683/pexels-photo-33622683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16375165/pexels-photo-16375165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7379029/pexels-photo-7379029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3674877/pexels-photo-3674877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33291992/pexels-photo-33291992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37251662/pexels-photo-37251662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32635277/pexels-photo-32635277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6604040/pexels-photo-6604040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8179151/pexels-photo-8179151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6769733/pexels-photo-6769733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36730485/pexels-photo-36730485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6688469/pexels-photo-6688469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36682838/pexels-photo-36682838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809281/pexels-photo-19809281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39265284/pexels-photo-39265284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36577334/pexels-photo-36577334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063874/pexels-photo-27063874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15035601/pexels-photo-15035601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29355213/pexels-photo-29355213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36789359/pexels-photo-36789359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11526664/pexels-photo-11526664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27516765/pexels-photo-27516765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36374762/pexels-photo-36374762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31651770/pexels-photo-31651770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17441851/pexels-photo-17441851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205382/pexels-photo-39205382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34953095/pexels-photo-34953095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6432802/pexels-photo-6432802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28248485/pexels-photo-28248485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6980694/pexels-photo-6980694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37643177/pexels-photo-37643177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7345781/pexels-photo-7345781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18285292/pexels-photo-18285292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4624252/pexels-photo-4624252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31362775/pexels-photo-31362775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39135972/pexels-photo-39135972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "33e89067b6",
     "kind": "short",
     "channel": "Channel3",
