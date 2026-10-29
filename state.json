@@ -1,5 +1,161 @@
 [
   {
+    "id": "7759c8576d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Deadly Betrayal of Prince William of Orange",
+    "idea": {
+      "title": "The Deadly Betrayal of Prince William of Orange",
+      "hook": "In 1584, Balthasar Gérard posed as a loyal French noble to assassinate Prince William of Orange, executing Europe's first handgun assassination of a head of state.",
+      "beats": [
+        "King Philip II of Spain offered a staggering bounty of 25,000 gold crowns for William's death.",
+        "Gérard infiltrated the court under a fake identity and shot William at point-blank range using wheel-lock pistols.",
+        "Caught fleeing the palace, Gérard was subjected to four days of horrific medieval torture before his execution.",
+        "Instead of crushing the rebellion, William's murder turned him into a martyr and united the Netherlands against Spain."
+      ],
+      "keywords": [
+        "Balthasar Gerard",
+        "William of Orange",
+        "Dutch Revolt painting",
+        "Wheel lock pistol antique",
+        "Sixteenth century portrait"
+      ],
+      "tags": [
+        "#HistoryShorts",
+        "#RoyalHistory",
+        "#Assassination",
+        "#DutchHistory",
+        "#Channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1584, a hidden handgun altered European monarchy forever.",
+        "search": "sixteenth century wheel lock pistol antique engraving",
+        "caption": "Europe's first handgun assassination changed history forever in 1584."
+      },
+      {
+        "narration": "The Dutch Revolt against Spanish rule was pushed to the brink when Prince William of Orange led the uprising.",
+        "search": "Dutch Revolt battle oil painting",
+        "caption": "Prince William led the Dutch Revolt against Spanish imperial dominance."
+      },
+      {
+        "narration": "Desperate to crush the rebellion, King Philip II of Spain issued a royal decree offering 25,000 gold crowns for William's head.",
+        "search": "King Philip II of Spain portrait painting",
+        "caption": "Spain placed a massive 25,000 gold crown bounty on William."
+      },
+      {
+        "narration": "Driven by fanatical loyalty to Catholicism, a quiet clerk named Balthasar Gérard spent years plotting to collect the bounty.",
+        "search": "Balthasar Gerard portrait engraving",
+        "caption": "Catholic fanatic Balthasar Gérard spent years planning the deadly strike."
+      },
+      {
+        "narration": "Disguised as a noble French Protestant seeking asylum, Gérard successfully gained direct access to William's inner court in Delft.",
+        "search": "Prince William of Orange portrait painting",
+        "caption": "Gérard infiltrated the Prince's inner court using a false identity."
+      },
+      {
+        "narration": "On July 10, 1584, Gérard concealed two wheel-lock pistols beneath his coat and waited along a hall doorway.",
+        "search": "sixteenth century palace hallway interior engraving",
+        "caption": "Concealing two wheel-lock pistols, Gérard waited in the palace hall."
+      },
+      {
+        "narration": "As the Prince stepped out from dinner, Gérard fired at point-blank range, piercing William's heart.",
+        "search": "Assassination of William of Orange oil painting",
+        "caption": "William was shot point-blank, becoming Europe's first pistol-assassinated head of state."
+      },
+      {
+        "narration": "Though Gérard was captured and executed, William's death martyred him, ultimately uniting the Dutch against Spain.",
+        "search": "Sixteenth century Dutch Republic map engraving",
+        "caption": "Instead of crushing resistance, the assassination united the Dutch against Spain."
+      },
+      {
+        "narration": "Captured attempting to scale the city wall, Gérard endured four days of brutal medieval torture before his public execution in July 1584.",
+        "search": "Balthasar Gerard execution 16th century engraving",
+        "caption": "Gérard suffered four days of brutal torture before public execution."
+      },
+      {
+        "narration": "King Philip II awarded Gérard's family the promised nobility and estates, but the assassination backfired spectacularly on the Spanish Crown.",
+        "search": "King Philip II of Spain portrait oil painting",
+        "caption": "Philip II rewarded the family, but Spain lost the war."
+      },
+      {
+        "narration": "Rather than crushing the revolt, William's murder immortalized him as the Father of the Netherlands, forging an independent Dutch Republic.",
+        "search": "William of Orange portrait oil painting",
+        "caption": "William's martyrdom forged an independent Dutch Republic forever."
+      },
+      {
+        "narration": "History’s first handgun murder of a head of state changed Europe forever.",
+        "search": "16th century wheel lock pistol antique detailed portrait",
+        "caption": "History's first handgun murder of a ruler changed Europe."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T21:57:35.681000+00:00",
+    "updated_at": "2026-10-29T22:02:18.375512+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-29T21:58:58.214226+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "357 chars (cat 334 de vua 55s)",
+        "at": "2026-10-29T21:59:42.247690+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.8s en-US-GuyNeural 4 cau",
+        "at": "2026-10-29T21:59:46.174923+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T21:59:46.955496+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-29T22:01:40.921088+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-29T22:01:41.003242+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.8s 14261933 bytes",
+        "at": "2026-10-29T22:02:17.947594+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T22:02:18.375494+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33079562/pexels-photo-33079562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19036563/pexels-photo-19036563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33681819/pexels-photo-33681819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29337517/pexels-photo-29337517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8466924/pexels-photo-8466924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7345908/pexels-photo-7345908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8943321/pexels-photo-8943321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35921959/pexels-photo-35921959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33824918/pexels-photo-33824918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35623638/pexels-photo-35623638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484131/pexels-photo-16484131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39526261/pexels-photo-39526261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "57eafca371",
     "kind": "short",
     "channel": "Channel3",
