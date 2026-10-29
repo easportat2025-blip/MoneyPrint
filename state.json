@@ -1,5 +1,161 @@
 [
   {
+    "id": "69ec935acf",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Worst Insult Sparked an 80,000-Body Massacre",
+    "idea": {
+      "title": "Why Rome's Worst Insult Sparked an 80,000-Body Massacre",
+      "hook": "In 60 AD, Roman governor Catus Decianus publicly whipped Queen Boudica, unaware his cruel arrogance would cost Rome three entire cities and 80,000 lives.",
+      "beats": [
+        "Following the death of King Prasutagus, corrupt Roman officials unlawfully annexed the Iceni lands and publicly scourged Queen Boudica.",
+        "Refusing submission, Boudica united rival British tribes into a vengeful host of over 100,000 warriors.",
+        "Her forces ambushed Rome's Ninth Legion and burned Londinium and Camulodunum to ash, massacring every imperial citizen inside.",
+        "The slaughter shook Rome so deeply that Emperor Nero nearly ordered the complete abandonment of the British Isles."
+      ],
+      "keywords": [
+        "Queen Boudica painting",
+        "Roman Britain ruins engraving",
+        "ancient Roman legion bust",
+        "burning of Londinium map",
+        "Celtic warrior statue"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#boudica",
+        "#historicalfacts",
+        "#celtic"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman insult sparked an 80,000-body massacre.",
+        "search": "Queen Boudica painting",
+        "caption": "An insult sparked an 80,000-body massacre"
+      },
+      {
+        "narration": "In 60 AD, the death of King Prasutagus left Britain's Iceni kingdom co-ruled by Rome.",
+        "search": "ancient Roman Britain ruins engraving",
+        "caption": "60 AD: Rome claims the Iceni kingdom"
+      },
+      {
+        "narration": "Roman governor Catus Decianus unlawfully seized all lands and publicly flogged Queen Boudica.",
+        "search": "ancient Roman official oil painting",
+        "caption": "Imperial officials unlawfully annex lands and flog Boudica"
+      },
+      {
+        "narration": "Refusing submission, Boudica united rival British tribes into a vengeful host.",
+        "search": "Celtic warrior statue",
+        "caption": "Boudica unites rival British tribes for vengeance"
+      },
+      {
+        "narration": "Over 100,000 warriors marched on Rome's colonial settlement at Camulodunum.",
+        "search": "ancient Celtic army oil painting",
+        "caption": "Over 100,000 warriors attack Roman strongholds"
+      },
+      {
+        "narration": "Boudica's forces ambushed Rome's Ninth Legion, slaughtering imperial soldiers by the thousands.",
+        "search": "ancient Roman legion bust statue",
+        "caption": "Rome's Ninth Legion ambushed and wiped out"
+      },
+      {
+        "narration": "Her armies reduced Londinium to ash, killing every imperial inhabitant inside.",
+        "search": "burning of Londinium map engraving",
+        "caption": "Londinium burned to ash with 80,000 dead"
+      },
+      {
+        "narration": "The sudden, ruthless slaughter panicked Emperor Nero into contemplating total Roman withdrawal.",
+        "search": "Emperor Nero bust statue",
+        "caption": "Emperor Nero panics over losing the British Isles"
+      },
+      {
+        "narration": "In 61 AD, Roman governor Suetonius Paulinus assembled ten thousand disciplined legionaries at Watling Street to face Boudica's overwhelming army.",
+        "search": "ancient Roman legion tactical battle engraving",
+        "caption": "Suetonius Paulinus made a desperate stand at Watling Street in 61 AD."
+      },
+      {
+        "narration": "Trapped against their own supply wagons, over eighty thousand Britons were slaughtered in a single day, effectively ending the rebellion.",
+        "search": "death of queen boudica historical oil painting",
+        "caption": "Over 80,000 Britons died in a single day, ending the revolt."
+      },
+      {
+        "narration": "Rome ultimately preserved its province, but the ashes of three annihilated cities stood as a permanent reminder of the price of one imperial insult.",
+        "search": "ancient Roman Britain ruins engraving britain",
+        "caption": "Rome kept Britain, but paid three destroyed cities for one insult."
+      },
+      {
+        "narration": "One Roman insult sparked an eighty thousand body massacre.",
+        "search": "ancient Roman legion bust",
+        "caption": "One Roman insult sparked an 80,000-body massacre."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T02:03:01.933152+00:00",
+    "updated_at": "2026-10-29T02:07:58.395950+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-29T02:04:49.178105+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "357 chars (cat 317 de vua 55s)",
+        "at": "2026-10-29T02:05:42.451629+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-29T02:05:46.576379+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T02:05:47.418093+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-29T02:07:30.098575+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-29T02:07:30.161523+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.3s 11517202 bytes",
+        "at": "2026-10-29T02:07:58.031777+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T02:07:58.395930+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36288606/pexels-photo-36288606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38498407/pexels-photo-38498407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28201700/pexels-photo-28201700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6241069/pexels-photo-6241069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33351717/pexels-photo-33351717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6869706/pexels-photo-6869706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1461811/pexels-photo-1461811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11900215/pexels-photo-11900215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30144476/pexels-photo-30144476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17256881/pexels-photo-17256881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11003040/pexels-photo-11003040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dde267ad36",
     "kind": "short",
     "channel": "Channel2",
