@@ -1,5 +1,167 @@
 [
   {
+    "id": "57eafca371",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do tai nghe Bluetooth một bên luôn hết pin trước?",
+    "idea": {
+      "title": "Bí mật lý do tai nghe Bluetooth một bên luôn hết pin trước?",
+      "hook": "Bạn có thắc mắc tại sao chiếc tai nghe bên phải luôn sập nguồn trước bên trái, dù bạn mua mới và sạc đầy cùng lúc?",
+      "beats": [
+        "Một trong hai bên tai nghe luôn được hệ thống chọn làm 'tai chủ' (Primary).",
+        "Tai chủ chịu trách nhiệm duy nhất là nhận tín hiệu từ điện thoại rồi phát lại cho tai còn lại.",
+        "Nó cũng thường là bên gánh toàn bộ micro đàm thoại và xử lý chống ồn chính.",
+        "Việc gánh gấp đôi công suất khiến viên pin ở tai chủ suy giảm nhanh hơn hẳn."
+      ],
+      "keywords": [
+        "bluetooth earbuds",
+        "charging case",
+        "audio waves",
+        "person wearing earphones",
+        "microchip close up"
+      ],
+      "tags": [
+        "#tainghebluetooth",
+        "#meocongnghe",
+        "#suthatthuvi",
+        "#channel3",
+        "#congnghe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao tai nghe một bên luôn hết pin trước?",
+        "search": "3d animation tai nghe bluetooth het pin mot ben",
+        "caption": "Tại sao tai nghe một bên luôn hết pin trước?"
+      },
+      {
+        "narration": "Dù sạc đầy cùng lúc, một bên tai nghe vẫn thường sập nguồn sớm hơn đáng kể.",
+        "search": "3d animation hop sac tai nghe bluetooth sang den pin",
+        "caption": "Sạc đầy 100% nhưng một bên vẫn hết pin sớm hơn."
+      },
+      {
+        "narration": "Nhiều người tưởng do pin bị chai hoặc thiết bị gặp sự cố kỹ thuật.",
+        "search": "motion graphics vien pin tai nghe bi chai",
+        "caption": "Đây không phải do chai pin hay lỗi từ nhà sản xuất."
+      },
+      {
+        "narration": "Nhưng nguyên nhân thực sự lại nằm ở cơ chế kết nối âm thầm bên trong.",
+        "search": "3d animation nguoi deo tai nghe bluetooth do hoa do",
+        "caption": "Bí mật nằm ở cơ chế kết nối âm thầm bên trong."
+      },
+      {
+        "narration": "Ngay khi mở hộp, thiết bị sẽ tự động chọn một bên làm tai chủ.",
+        "search": "explainer animation microchip tai nghe bluetooth phat song",
+        "caption": "Hệ thống tự động chọn một bên làm tai chủ."
+      },
+      {
+        "narration": "Tai chủ có nhiệm vụ hứng toàn bộ dữ liệu âm thanh từ điện thoại rồi mới phát sang tai kia.",
+        "search": "motion graphics song am thanh truyen tu dien thoai sang tai nghe",
+        "caption": "Tai chủ nhận dữ liệu rồi truyền tiếp sang tai còn lại."
+      },
+      {
+        "narration": "Chưa dừng lại ở đó, nó còn đảm nhận luôn micro đàm thoại và bộ xử lý chống ồn.",
+        "search": "3d animation micro va chip xu ly trong tai nghe",
+        "caption": "Tai chủ gánh luôn micro đàm thoại và chống ồn chính."
+      },
+      {
+        "narration": "Việc gánh khối lượng công việc gấp đôi khiến lượng pin tụt nhanh một cách vượt trội.",
+        "search": "isometric render tai nghe bluetooth bieu do tieu thu pin",
+        "caption": "Khối lượng công việc gấp đôi khiến năng lượng tụt nhanh."
+      },
+      {
+        "narration": "Về lâu dài, tai nghe chính luôn bị sạc xả nhiều hơn, làm giảm tuổi thọ pin vĩnh viễn so với bên còn lại.",
+        "search": "hoat hinh 3d pin tai nghe bao do suy giam",
+        "caption": "Pin tai chính chai nhanh hơn theo thời gian"
+      },
+      {
+        "narration": "Dù các hãng đã lập trình cơ chế tự đổi tai chủ, bên bạn nhấc ra khỏi hộp trước vẫn luôn gánh nặng nhất.",
+        "search": "3d isometric hop tai nghe bluetooth mo nap",
+        "caption": "Tai nhấc ra trước luôn làm tai chủ"
+      },
+      {
+        "narration": "Thói quen chỉ đeo một bên tai nghe để nghe gọi càng khiến bên đó kiệt sức và lệch dung lượng nghiêm trọng.",
+        "search": "hoat hinh 3d nguoi deo mot ben tai nghe bluetooth",
+        "caption": "Thói quen đeo một bên khiến pin lệch nặng"
+      },
+      {
+        "narration": "Do đó, sự chênh lệch 10 đến 20 phần trăm pin giữa hai bên tai nghe là hoàn toàn bình thường.",
+        "search": "hoat hinh 3d hien thi phan tram pin dien thoai",
+        "caption": "Lệch 10 đến 20% pin là hoàn toàn bình thường"
+      },
+      {
+        "narration": "Để bảo vệ thiết bị, hãy tập thói quen nhấc tai nghe bên còn lại ra trước trong lần sử dụng tiếp theo.",
+        "search": "hoat hinh 3d tay dat tai nghe vao hop sac",
+        "caption": "Đổi bên nhấc tai nghe để cân bằng tuổi thọ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T20:25:34.412580+00:00",
+    "updated_at": "2026-10-29T20:29:38.975561+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-29T20:27:01.888000+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "503 chars (cat 54 de vua 55s)",
+        "at": "2026-10-29T20:27:46.602815+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.3s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-29T20:28:10.313956+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T20:28:11.630275+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-29T20:28:30.859753+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-29T20:28:30.957326+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.3s 21864542 bytes",
+        "at": "2026-10-29T20:29:38.593678+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T20:29:38.975543+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9130470/9130470-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40326823/17229750_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/7858175/7858175-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107039/13687857_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39467721/16810730_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561462/16561462-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8136206/8136206-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7778218/7778218-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8820497/8820497-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7683264/7683264-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/6262799/6262799-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/9130461/9130461-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "6f44ae2bcc",
     "kind": "long",
     "channel": "seigh",
