@@ -1,5 +1,117 @@
 [
   {
+    "id": "5438525c89",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "scripting",
+    "title": "Sai lầm gấp chăn ngay khi ngủ dậy ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm gấp chăn ngay khi ngủ dậy ai cũng mắc",
+      "hook": "Tưởng chừng là thói quen ngăn nắp, việc vội vàng gấp chăn ngay khi rời giường thực chất đang biến chiếc giường của bạn thành ổ nuôi dưỡng lý tưởng cho hàng triệu con ve bụi.",
+      "beats": [
+        "Mỗi đêm cơ thể con người tiết ra khoảng nửa lít mồ hôi và đào thải hàng triệu tế bào da chết ngấm vào đệm ga.",
+        "Gấp chăn kín ngay lập tức sẽ nhốt trọn độ ẩm và hơi ấm, tạo môi trường cực thịnh cho loài mạt bụi (dust mites) sinh sôi.",
+        "Chất thải và xác mạt bụi tích tụ chính là thủ phạm kích hoạt viêm mũi dị ứng, ngứa da và mụn lưng dai dẳng.",
+        "Cách đúng là lật ngược chăn, mở toang cửa sổ để không khí và ánh nắng làm khô tự nhiên ít nhất 30 phút trước khi xếp gọn."
+      ],
+      "keywords": [
+        "making bed morning",
+        "dust mites mattress",
+        "bedroom sunlight morning",
+        "sweat mattress microscopic",
+        "microscopic dust mite allergy"
+      ],
+      "tags": [
+        "thói quen buổi sáng",
+        "sức khỏe phòng ngủ",
+        "mạt bụi",
+        "khoa học đời sống",
+        "mẹo vặt gia đình"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Gấp chăn ngay khi ngủ dậy là sai lầm lớn.",
+        "search": "hoat hinh 3d nguoi gap chan buoi sang tren giuong",
+        "caption": "Gấp chăn ngay khi thức dậy là sai lầm"
+      },
+      {
+        "narration": "Suốt một đêm dài, cơ thể bạn âm thầm tiết ra tới nửa lít mồ hôi.",
+        "search": "3d render co the nguoi tiet mo hoi tren dem giuong",
+        "caption": "Cơ thể tiết nửa lít mồ hôi mỗi đêm"
+      },
+      {
+        "narration": "Đi kèm với đó là hàng triệu tế bào da chết rơi rụng bám chặt vào sợi vải.",
+        "search": "do hoa chuyen dong te bao da chet roi tren mat dem",
+        "caption": "Hàng triệu tế bào da chết rơi xuống đệm"
+      },
+      {
+        "narration": "Hành động cuộn gấp chăn ngay lập tức sẽ nhốt kín toàn bộ lượng ẩm và hơi ấm ấy.",
+        "search": "hoat hinh isometric chan gap kin giu hoi nuoc tren dem",
+        "caption": "Gấp chăn giữ kín nhiệt độ và độ ẩm"
+      },
+      {
+        "narration": "Vô tình biến chiếc giường thành lồng ấp hoàn hảo cho một loài sinh vật bí mật.",
+        "search": "3d animation kinh hien vi phong to soi mat vai giuong",
+        "caption": "Tạo môi trường ấp nở sinh vật tí hon"
+      },
+      {
+        "narration": "Đó là mạt bụi nhà, với số lượng có thể lên tới hơn một triệu con.",
+        "search": "hoat hinh 3d mat bui dust mite bo tren soi vai",
+        "caption": "Hơn 1 triệu con mạt bụi ẩn nấp"
+      },
+      {
+        "narration": "Nguồn thức ăn khoái khẩu của chúng chính là lớp da chết ngấm đẫm mồ hôi còn ấm.",
+        "search": "mo phong 3d con mat bui an manh da chet",
+        "caption": "Mạt bụi ăn da chết ngấm mồ hôi"
+      },
+      {
+        "narration": "Nhưng điều nguy hiểm nhất không phải việc chúng sống chung, mà là thứ chúng thải ra.",
+        "search": "do hoa 3d chat thai sieu vi phat tan tren mat dem",
+        "caption": "Mối nguy từ chất thải của mạt bụi"
+      },
+      {
+        "narration": "Mỗi con mạt bụi thải ra khoảng 20 viên phân siêu nhỏ mỗi ngày, chứa loại protein gây kích ứng cực mạnh cho da và niêm mạc.",
+        "search": "hoat hinh 3d vi khuan va mat bui phong to tren soi vai dem",
+        "caption": "Phân mạt bụi kích ứng da và niêm mạc mỗi đêm"
+      },
+      {
+        "narration": "Đây chính là lý do khiến nhiều người sáng nào thức dậy cũng bị ngạt mũi, hắt hơi liên tục hoặc mụn lưng chữa mãi không dứt.",
+        "search": "hoat hinh 3d nguoi thuc day bi ngua da ngat mui tren giuong",
+        "caption": "Thủ phạm gây ngạt mũi và mụn lưng dai dẳng"
+      },
+      {
+        "narration": "Hành động vội vàng gấp chăn biến chiếc giường thành lồng ấp kín, nhốt trọn nhiệt và ẩm để chúng sinh sôi theo cấp số nhân.",
+        "search": "hoat hinh 3d gap chan ga giuong tao hieu ung nha kinh am uot",
+        "caption": "Gấp chăn kín tạo lồng ấp độ ẩm nuôi mạt bụi"
+      },
+      {
+        "narration": "Cách xử lý đúng là lật ngược mặt chăn ra ngoài, mở toang cửa sổ phòng ngủ để gió và ánh nắng làm khô tự nhiên ít nhất 30 phút.",
+        "search": "hoat hinh 3d lat nguoc chan mo toang cua so don anh nang phong ngu",
+        "caption": "Lật ngược chăn mở cửa sổ đón nắng 30 phút"
+      },
+      {
+        "narration": "Môi trường khô thoáng sẽ làm mạt bụi mất nước và tự chết hàng loạt; đôi khi bừa bộn một chút lại là thói quen cứu lá phổi của bạn.",
+        "search": "hoat hinh 3d mat bui bi kho heo tieu bien tren mat dem thoang sach",
+        "caption": "Để giường bừa bộn một chút lại giúp sạch khuẩn"
+      }
+    ],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T06:09:01.047331+00:00",
+    "updated_at": "2026-10-29T06:13:38.476555+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-29T06:13:38.296514+00:00"
+      }
+    }
+  },
+  {
     "id": "69ec935acf",
     "kind": "short",
     "channel": "Channel2",
