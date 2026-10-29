@@ -1,5 +1,166 @@
 [
   {
+    "id": "d6fcc1464b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bạn ngáp theo ngay khi thấy người khác ngáp?",
+    "idea": {
+      "title": "Tại sao bạn ngáp theo ngay khi thấy người khác ngáp?",
+      "hook": "Chỉ cần nhìn ai đó ngáp, hoặc thậm chí đọc thấy chữ 'ngáp', cơ thể bạn sẽ gần như không thể cưỡng lại phản xạ ngáp theo.",
+      "beats": [
+        "Hiện tượng này hoàn toàn không phải do thiếu ngủ hay thiếu oxy, mà là cơ chế kích hoạt của tế bào thần kinh gương (mirror neurons).",
+        "Vùng não này tự động sao chép hành vi xã hội để tạo sự thấu cảm và giữ cả bầy đàn đồng bộ nhịp sinh học từ thời nguyên thủy.",
+        "Người có chỉ số thấu cảm càng cao càng dễ bị ngáp lây, trong khi trẻ em dưới 4 tuổi hầu như chưa phát triển phản xạ này."
+      ],
+      "keywords": [
+        "yawning person close up",
+        "human brain neurons firing",
+        "tired office worker yawning",
+        "social empathy brain activity",
+        "macro eye and yawn reaction"
+      ],
+      "tags": [
+        "ngáp lây lan",
+        "tâm lý học",
+        "khoa học não bộ",
+        "phản xạ cơ thể",
+        "sự thật thú vị"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đọc chữ 'ngáp' khiến bạn muốn ngáp ngay đúng không?",
+        "search": "hoat hinh 3d nguoi luot dien thoai ngap dai",
+        "caption": "Đọc chữ ngáp là muốn ngáp theo ngay?"
+      },
+      {
+        "narration": "Nhiều người nghĩ ngáp lây do thiếu oxy, nhưng các thí nghiệm đã chứng minh điều này hoàn toàn sai.",
+        "search": "do hoa 3d mo hinh phoi va bong bong khi oxy",
+        "caption": "Không hề do thiếu ngủ hay thiếu oxy"
+      },
+      {
+        "narration": "Thủ phạm thật sự nằm sâu trong vỏ não: mạng lưới tế bào thần kinh gương.",
+        "search": "hoat hinh 3d nao bo phat sang cac te bao than kinh",
+        "caption": "Thủ phạm là tế bào thần kinh gương"
+      },
+      {
+        "narration": "Mỗi khi mắt thấy người khác ngáp, tế bào này lập tức ra lệnh cho cơ mặt sao chép y hệt.",
+        "search": "hoat hinh 3d hai nguoi doi dien bat chuoc hanh dong",
+        "caption": "Não tự động sao chép hành vi nhìn thấy"
+      },
+      {
+        "narration": "Từ thời nguyên thủy, cơ chế này giúp cả nhóm đồng bộ nhịp sinh học và duy trì trạng thái cảnh giác chung.",
+        "search": "do hoa chuyen dong nhom nguoi van phong dong loat ngap",
+        "caption": "Bản năng đồng bộ sinh học để sinh tồn"
+      },
+      {
+        "narration": "Người có mức độ thấu cảm xã hội càng cao thì tốc độ bị lây ngáp càng nhanh.",
+        "search": "hoat hinh 3d hai nguoi ban uong ca phe noi chuyen",
+        "caption": "Thấu cảm càng cao lây ngáp càng nhanh"
+      },
+      {
+        "narration": "Trẻ nhỏ dưới bốn tuổi hầu như không bị lây ngáp, vì não bộ chưa hoàn thiện vùng nhận thức xã hội.",
+        "search": "hoat hinh 3d em be nho ngoi choi do choi tren san",
+        "caption": "Trẻ dưới 4 tuổi hoàn toàn miễn nhiễm"
+      },
+      {
+        "narration": "Kinh ngạc hơn, ngay cả thú cưng trong nhà cũng có thể ngáp theo nhịp của chủ nhân.",
+        "search": "hoat hinh 3d chu cho ngap ben canh chu nhan",
+        "caption": "Thú cưng cũng bị ngáp lây từ chủ"
+      },
+      {
+        "narration": "Bạn dễ bị ngáp lây nhất từ người thân hoặc người yêu, với tốc độ phản ứng nhanh gấp ba lần so với người lạ.",
+        "search": "hoat hinh 3d hai nguoi ban ngoi uong ca phe ngap mieng rong",
+        "caption": "Càng thân thiết, phản xạ ngáp lây càng nhanh gấp 3 lần"
+      },
+      {
+        "narration": "Về mặt vật lý, một cú ngáp sâu bơm luồng không khí mát vào vòm họng để hạ nhiệt bộ não đang bị quá tải.",
+        "search": "mo hinh 3d nao nguoi phat sang luong khi lanh lam mat",
+        "caption": "Ngáp giúp bơm khí lạnh hạ nhiệt vỏ não tức thì"
+      },
+      {
+        "narration": "Những người có chỉ số thấu cảm kém hoặc tổn thương thùy trán hầu như trơ lì hoàn toàn trước cơn ngáp của người khác.",
+        "search": "do hoa chuyen dong te bao than kinh ket noi phat sang",
+        "caption": "Ngáp lây phản ánh mức độ thấu cảm của hệ thần kinh"
+      },
+      {
+        "narration": "Thậm chí bạn không cần thấy mặt ai, chỉ cần đọc chữ hoặc nghĩ về hành động này là cơ hàm đã muốn giãn ra.",
+        "search": "hoat hinh 3d mat nguoi can canh mieng mo to ngap ngu",
+        "caption": "Chỉ cần nghĩ đến từ ngáp, cơ hàm đã tự động phản xạ"
+      },
+      {
+        "narration": "Ngáp lây chứng minh não bộ bạn cực kỳ nhạy bén và biết kết nối. Thú nhận đi, nãy giờ bạn đã ngáp mấy lần rồi?",
+        "search": "nhan vat hoat hinh 3d cam dien thoai ngap dai roi cuoi",
+        "caption": "Bạn vừa ngáp đúng không? Não bạn đang rất thấu cảm!"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-29T11:13:28.062114+00:00",
+    "updated_at": "2026-10-29T11:34:11.373880+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-29T11:27:37.767685+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "502 chars (cat 46 de vua 55s)",
+        "at": "2026-10-29T11:32:38.530476+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-29T11:32:48.672517+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-29T11:32:49.866986+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-29T11:33:05.370493+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-29T11:33:05.461578+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.6s 23291005 bytes",
+        "at": "2026-10-29T11:34:10.985894+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-29T11:34:11.373859+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/5981744/5981744-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/8425524/8425524-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/7989634/7989634-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/32928952/14033961_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38984707/16585503_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6930966/6930966-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/40381859/17253871_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8680039/8680039-hd_1080_1620_16fps.mp4",
+      "https://videos.pexels.com/video-files/7817076/7817076-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/35286195/14948901_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6782495/6782495-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7299412/7299412-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6843841/6843841-uhd_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "7a7f975137",
     "kind": "short",
     "channel": "Channel2",
