@@ -1,5 +1,166 @@
 [
   {
+    "id": "1dbc912ff4",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm để điện thoại trong cốp xe ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm để điện thoại trong cốp xe ai cũng mắc",
+      "hook": "Bạn có thói quen nhét điện thoại vào cốp xe máy cho an toàn? Thói quen tưởng vô hại này đang âm thầm phá hủy cụm camera đắt tiền của bạn mỗi ngày.",
+      "beats": [
+        "Cốp xe máy nằm ngay trên động cơ, nhiệt độ có thể vượt 50°C làm pin phồng rộp và giảm tuổi thọ vi mạch cực nhanh.",
+        "Nguy hiểm hơn là xung chấn: mặt đường gồ ghề và nhịp nổ máy xe tạo ra rung chấn tần số cao liên tục dội thẳng vào điện thoại.",
+        "Lực rung này bẻ gãy hệ thống treo từ tính của cụm chống rung quang học OIS, khiến camera của bạn mất nét và rung giật vĩnh viễn."
+      ],
+      "keywords": [
+        "motorcycle storage phone",
+        "smartphone camera sensor macro",
+        "overheated battery phone",
+        "motorbike engine vibration",
+        "blurry smartphone camera"
+      ],
+      "tags": [
+        "#congnghe",
+        "#meodienthoai",
+        "#doisong",
+        "#channel3",
+        "#kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nhét điện thoại vào cốp xe sẽ giết chết camera.",
+        "search": "hoat hinh 3d nguoi nhet dien thoai vao cop xe may",
+        "caption": "Bo dien thoai vao cop xe se pha hong camera"
+      },
+      {
+        "narration": "Nhiều người nghĩ để máy trong cốp vừa tránh cướp giật, vừa chống mưa nắng an toàn.",
+        "search": "hoat hinh 3d cop xe may dong lai dien thoai ben trong",
+        "caption": "Thoi quen tuong an toan nhung cuc ky nguy hiem"
+      },
+      {
+        "narration": "Thế nhưng ngay sát đáy cốp là khối động cơ kim loại đang đốt cháy nhiên liệu liên tục.",
+        "search": "mo hinh 3d mat cat dong co xe may toa nhiet do ruc",
+        "caption": "Dong co toa nhiet cuc lon ngay sat day cop"
+      },
+      {
+        "narration": "Chỉ sau mười lăm phút chạy xe, nhiệt độ trong khoang cốp kín có thể vượt mức năm mươi độ C.",
+        "search": "do hoa 3d nhiet ke tang vot moc 50 do do ruc",
+        "caption": "Nhiet do vuot 50 do C chi sau 15 phut chay"
+      },
+      {
+        "narration": "Sức nóng này ép pin lithium giãn nở phồng rộp và làm thoái hóa vi mạch bên trong cực nhanh.",
+        "search": "mo phong 3d vien pin dien thoai phong to toa khoi",
+        "caption": "Pin dien thoai bi phong rop va thoai hoa cuc nhanh"
+      },
+      {
+        "narration": "Thế nhưng, nhiệt độ cao vẫn chưa phải là sát thủ đáng sợ nhất với chiếc điện thoại.",
+        "search": "hoat hinh 3d banh xe may dap go ghe mat duong rung lac",
+        "caption": "Nhiet do van chua phai thu gay thiet hai nang nhat"
+      },
+      {
+        "narration": "Mặt đường gồ ghề và nhịp nổ máy xe tạo ra rung chấn tần số cao truyền thẳng vào máy.",
+        "search": "do hoa 3d song rung dong truyen tu khung xe vao dien thoai",
+        "caption": "Rung chan tan so cao lien tuc doi thang vao may"
+      },
+      {
+        "narration": "Những chấn động liên hồi này đang âm thầm xé rách một bộ phận cơ học đắt giá nhất.",
+        "search": "can canh 3d phong to cum camera dien thoai thau kinh rung",
+        "caption": "Xung luc danh thang vao bo phan dat do nhat"
+      },
+      {
+        "narration": "Đó chính là cụm chống rung quang học OIS, nơi cảm biến đắt đỏ được treo lơ lửng bằng các vi dây thép và nam châm siêu nhỏ.",
+        "search": "hoat hinh 3d cum camera dien thoai ois mat cat ben trong",
+        "caption": "Cảm biến OIS được treo bằng các vi dây siêu mỏng"
+      },
+      {
+        "narration": "Tần số rung hàng trăm hertz từ mặt đường và pô xe sẽ bẻ cong hệ thống treo từ tính này, làm cảm biến lệch vĩnh viễn khỏi trục cân bằng.",
+        "search": "3d animation linh kien camera dien thoai bi rung lac gay day",
+        "caption": "Rung chấn liên tục bẻ gãy hệ thống treo từ tính"
+      },
+      {
+        "narration": "Hậu quả là camera mất khả năng lấy nét, phát ra tiếng rè rè cơ học và khung hình quay sẽ rung bần bật không thể cứu vãn.",
+        "search": "man hinh smartphone chup anh bi mo nhoe rung lac hoat hinh 3d",
+        "caption": "Camera mất nét và rung giật vĩnh viễn"
+      },
+      {
+        "narration": "Bạn vừa phải bỏ tiền triệu để thay mới cụm camera, vừa đối mặt nguy cơ pin phồng rộp biến dạng vì nhiệt độ cốp xe quá nóng.",
+        "search": "hoat hinh 3d pin dien thoai phong to boc khoi toa nhiet do",
+        "caption": "Tốn tiền triệu sửa camera và nguy cơ phồng pin"
+      },
+      {
+        "narration": "Hãy luôn để điện thoại trong túi quần hoặc balo để cơ thể giảm chấn giùm máy, tuyệt đối ngừng biến cốp xe thành máy hủy điện thoại.",
+        "search": "hoat hinh 3d nguoi nhet dien thoai vao tui quan di xe may",
+        "caption": "Luôn cất điện thoại trong túi quần hoặc balo"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T18:21:22.773966+00:00",
+    "updated_at": "2026-10-30T18:32:55.996693+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-30T18:28:23.158234+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "469 chars (cat 126 de vua 55s)",
+        "at": "2026-10-30T18:31:19.696190+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.7s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-10-30T18:31:29.547548+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T18:31:30.722400+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-30T18:31:53.920312+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-30T18:31:54.019174+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.7s 24985127 bytes",
+        "at": "2026-10-30T18:32:55.620532+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T18:32:55.996675+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6498244/6498244-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/37416388/15847050_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36103039/15310801_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/40205277/17176394_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107116/13688521_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/27969426/12276224_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38381787/16299909_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39068680/16624889_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/38689335/16433974_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/10503774/10503774-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36107571/15312956_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/6754823/6754823-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/7986127/7986127-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "f6ecfc9861",
     "kind": "short",
     "channel": "Channel3",
