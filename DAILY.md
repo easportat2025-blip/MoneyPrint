@@ -1,4 +1,4 @@
-# Daily ping 29/10/2026
+# Daily ping 30/10/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -12,8 +12,12 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (1)
-- Why Rome's Worst Insult Sparked an 80,000-Body Massacre :: token refresh failed: 400 {
+## Fail (2)
+- Bí mật lý do rèm tắm luôn bị hút dính vào bạn :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
+- How Alexander Conquered An Unreachable Island Fortress :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
