@@ -1,5 +1,161 @@
 [
   {
+    "id": "30c39ede22",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Murdered by His Own Paranoia",
+    "idea": {
+      "title": "The Emperor Murdered by His Own Paranoia",
+      "hook": "In 886 AD, Byzantine Emperor Basil the First ordered the immediate execution of the loyal soldier who had just saved his life, sealing his own horrific fate.",
+      "beats": [
+        "While hunting in the Thracian woods, a massive stag rammed Emperor Basil's horse, hooking its antlers directly into the monarch's heavy hunting belt.",
+        "The terrified animal bolted, dragging Basil through rocks and brambles at full gallop while his imperial guards watched in frozen shock.",
+        "One quick-thinking soldier spurred his horse forward, drew his hunting blade, and expertly sliced the belt to set the Emperor free.",
+        "Instead of showing gratitude, a paranoid Basil accused the soldier of treason for drawing steel near an emperor, had him executed on the spot, and died days later from internal injuries no doctor was allowed close enough to treat."
+      ],
+      "keywords": [
+        "Byzantine Emperor Basil I",
+        "medieval royal hunting tapestry",
+        "imperial constantinople court engraving",
+        "ancient stag painting",
+        "byzantine soldier drawing sword"
+      ],
+      "tags": [
+        "#byzantineempire",
+        "#ancienthistory",
+        "#darkhistory",
+        "#historyshorts",
+        "#romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Byzantine emperor executed his savior, sealing his death.",
+        "search": "byzantine emperor basil i gold coin macro",
+        "caption": "A Byzantine emperor executed the man who saved him."
+      },
+      {
+        "narration": "In August 886 AD, Emperor Basil the First led an imperial hunting party into the dense forests of Thrace.",
+        "search": "medieval royal hunting illuminated manuscript",
+        "caption": "August 886 AD: Emperor Basil I hunts in Thrace."
+      },
+      {
+        "narration": "Basil had seized Constantinople's throne through calculated assassinations, leaving him deeply paranoid of everyone around him.",
+        "search": "byzantine emperor basil i portrait miniature manuscript",
+        "caption": "Basil seized power through assassinations and harbored relentless paranoia."
+      },
+      {
+        "narration": "While tracking game, a massive red stag suddenly lunged from the brush, ramming directly into the monarch's mount.",
+        "search": "charging stag medieval hunting oil painting",
+        "caption": "A massive stag charged directly into the imperial horse."
+      },
+      {
+        "narration": "The animal's antler prongs hooked under Basil's heavy leather hunting belt, tearing the ruler violently from his saddle.",
+        "search": "medieval horseman falling hunting engraving",
+        "caption": "Antlers hooked Basil's belt, ripping him from the saddle."
+      },
+      {
+        "narration": "The terrified stag bolted at full gallop, dragging Basil across jagged rocks while his imperial entourage froze in shock.",
+        "search": "panicked deer running dark forest painting",
+        "caption": "Dragged across jagged rocks, the emperor faced certain death."
+      },
+      {
+        "narration": "Breaking ranks, a single imperial guardsman spurred his horse into pursuit to intercept the panicked beast.",
+        "search": "medieval cavalry soldier riding gallop painting",
+        "caption": "One loyal guardsman galloped forward to intercept the beast."
+      },
+      {
+        "narration": "Drawing his hunting blade at full speed, the soldier matched the stag's stride and cleanly severed the belt.",
+        "search": "byzantine soldier drawing blade manuscript engraving",
+        "caption": "With a single blade stroke, the soldier severed the belt."
+      },
+      {
+        "narration": "Freed from the beast, Emperor Basil rose from the mud, fixating not on his rescue, but on the bare steel in his savior's hand.",
+        "search": "byzantine emperor basil I illuminated manuscript miniature",
+        "caption": "Basil fixated on the drawn blade rather than his rescue"
+      },
+      {
+        "narration": "Under imperial law, unsheathing a weapon before the sovereign constituted high treason, and Basil ordered the guardsman beheaded on the spot.",
+        "search": "medieval executioner with sword engraving",
+        "caption": "The loyal soldier was executed on the spot for treason"
+      },
+      {
+        "narration": "On August 29, 886, Basil succumbed to massive internal trauma, sealed in agony by the very paranoia that murdered his savior.",
+        "search": "byzantine emperor deathbed illuminated manuscript miniature",
+        "caption": "Basil died days later, doomed by his own paranoia"
+      },
+      {
+        "narration": "A Byzantine emperor executed the soldier who saved him.",
+        "search": "byzantine emperor basil I illuminated manuscript miniature",
+        "caption": "A Byzantine emperor executed his savior."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T10:21:51.791458+00:00",
+    "updated_at": "2026-10-30T10:30:28.558354+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-30T10:27:04.160752+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "386 chars (cat 124 de vua 55s)",
+        "at": "2026-10-30T10:27:38.660549+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.8s en-US-GuyNeural 5 cau",
+        "at": "2026-10-30T10:27:40.521591+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T10:27:41.150956+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-30T10:29:59.566368+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T10:29:59.638196+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.8s 15517184 bytes",
+        "at": "2026-10-30T10:30:28.233325+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T10:30:28.558335+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6764231/pexels-photo-6764231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18062017/pexels-photo-18062017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6979930/pexels-photo-6979930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34246846/pexels-photo-34246846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33151744/pexels-photo-33151744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39927055/pexels-photo-39927055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269129/pexels-photo-9269129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35087840/pexels-photo-35087840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27969495/pexels-photo-27969495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38370493/pexels-photo-38370493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34788991/pexels-photo-34788991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24242382/pexels-photo-24242382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "123e0c4738",
     "kind": "short",
     "channel": "Channel2",
