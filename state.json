@@ -1,5 +1,161 @@
 [
   {
+    "id": "5855ff37cf",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 13 Broken Ships Defeated an Invasion of 133",
+    "idea": {
+      "title": "How 13 Broken Ships Defeated an Invasion of 133",
+      "hook": "Stripped of his rank, tortured near death, and left with just 13 warships, Admiral Yi Sun-sin chose to face a fleet of 133 enemies alone.",
+      "beats": [
+        "In 1597, the Japanese invasion fleet prepared to wipe out Korea after destroying almost its entire navy.",
+        "Reinstated after being framed and tortured, Admiral Yi was ordered by the king to abandon the sea and flee on foot.",
+        "Instead, Yi anchored his 13 ships in the Myeongnyang Strait, where ferocious currents trapped the narrow waterway.",
+        "When the tide violently reversed, the trapped Japanese warships collided into each other, and Yi sank 31 vessels without losing a single ship."
+      ],
+      "keywords": [
+        "Admiral Yi Sun-sin portrait",
+        "Battle of Myeongnyang map",
+        "Joseon naval battle engraving",
+        "Samurai war fleet woodcut",
+        "Korean turtle ship drawing"
+      ],
+      "tags": [
+        "Yi Sun-sin",
+        "naval battles",
+        "history documentary",
+        "military tactics",
+        "ancient wars"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Thirteen damaged warships destroyed an invading fleet of 133.",
+        "search": "Battle of Myeongnyang naval battle painting",
+        "caption": "13 ships defeated an armada of 133."
+      },
+      {
+        "narration": "In 1597, Japanese forces launched a second brutal campaign to conquer Joseon Korea.",
+        "search": "Samurai fleet 16th century Japanese woodcut",
+        "caption": "1597: Japan launches a second invasion of Joseon Korea."
+      },
+      {
+        "narration": "At the Battle of Chilcheollyang, catastrophic leadership wiped out nearly the entire Korean navy.",
+        "search": "antique Joseon dynasty sea map engraving",
+        "caption": "Korea's naval fleet was annihilated at Chilcheollyang."
+      },
+      {
+        "narration": "King Seonjo had previously stripped Admiral Yi Sun-sin of his title, imprisoning and torturing him on false charges.",
+        "search": "Admiral Yi Sun-sin portrait painting",
+        "caption": "Admiral Yi was stripped of rank and tortured."
+      },
+      {
+        "narration": "Facing utter defeat, the royal court reinstated Yi, but commanded him to disband the navy and flee.",
+        "search": "King Seonjo Joseon court manuscript illustration",
+        "caption": "The royal court ordered the navy disbanded."
+      },
+      {
+        "narration": "Yi refused the royal decree in writing, declaring that his remaining ships could still fight.",
+        "search": "War Diary of Yi Sun-sin Nanjung Ilgi manuscript",
+        "caption": "Yi refused: 'I still possess twelve warships.'"
+      },
+      {
+        "narration": "Scrounging a single thirteenth vessel, Yi positioned his tiny force at the treacherous Myeongnyang Strait.",
+        "search": "Myeongnyang Strait maritime navigation historical map",
+        "caption": "Yi anchored inside the treacherous Myeongnyang Strait."
+      },
+      {
+        "narration": "On October 26, 133 Japanese warships surged into the narrows, while Yi's flagship advanced alone.",
+        "search": "Korean panokseon warship historical illustration",
+        "caption": "Yi's single flagship advanced against 133 enemy ships."
+      },
+      {
+        "narration": "As the roaring current violently reversed direction, the crowded Japanese vanguard crashed backward into their own trailing ships. Yi's 13 vessels seized the chaos, opening broadside fire on the trapped fleet.",
+        "search": "Joseon naval battle painting 16th century",
+        "caption": "The reversing tide smashed the invading fleet together in chaos."
+      },
+      {
+        "narration": "The Joseon fleet destroyed 31 Japanese warships and forced the remainder to retreat without losing a single vessel. Admiral Yi had halted the entire mainland invasion in a single afternoon.",
+        "search": "Japanese samurai fleet 16th century woodcut",
+        "caption": "31 ships destroyed with zero Korean vessels lost."
+      },
+      {
+        "narration": "Framed, tortured, and outnumbered ten to one, Admiral Yi Sun-sin saved Korea from total conquest through pure tactical brilliance.",
+        "search": "Admiral Yi Sun-sin portrait painting Joseon dynasty",
+        "caption": "Admiral Yi Sun-sin achieved history's most impossible naval victory."
+      },
+      {
+        "narration": "Thirteen warships crushed an invasion fleet of one hundred thirty-three.",
+        "search": "Battle of Myeongnyang 1597 naval battle engraving",
+        "caption": "13 ships against an armada of 133 in 1597."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T21:41:20.789710+00:00",
+    "updated_at": "2026-10-30T21:51:20.405642+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-30T21:46:16.292343+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "423 chars (cat 226 de vua 55s)",
+        "at": "2026-10-30T21:46:57.863036+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.7s en-US-GuyNeural 5 cau",
+        "at": "2026-10-30T21:47:01.453322+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T21:47:02.188358+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-30T21:50:43.461131+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T21:50:43.539891+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.7s 16303388 bytes",
+        "at": "2026-10-30T21:51:20.068989+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T21:51:20.405624+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13128615/pexels-photo-13128615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39630009/pexels-photo-39630009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34840582/pexels-photo-34840582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27850125/pexels-photo-27850125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29013548/pexels-photo-29013548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5721954/pexels-photo-5721954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22756581/pexels-photo-22756581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20756110/pexels-photo-20756110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33825141/pexels-photo-33825141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27967858/pexels-photo-27967858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31939730/pexels-photo-31939730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29188305/pexels-photo-29188305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "553090bef7",
     "kind": "short",
     "channel": "Channel3",
