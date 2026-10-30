@@ -1,5 +1,161 @@
 [
   {
+    "id": "79beb7b1e0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Royal Blunder That Erased Portugal’s Throne",
+    "idea": {
+      "title": "The Royal Blunder That Erased Portugal’s Throne",
+      "hook": "In 1578, a 24-year-old king marched into the African desert chasing glory, and vanished—accidentally wiping his country off the map.",
+      "beats": [
+        "King Sebastian of Portugal was obsessed with holy crusades and ignored every advisor to invade Morocco with 23,000 men.",
+        "At the Battle of Alcácer Quibir, Portuguese forces were completely surrounded by 50,000 Saadi cavalry in blistering heat.",
+        "Sebastian charged recklessly into the melee, dying anonymously on the field without leaving an heir to his crown.",
+        "With Portugal’s nobility captured and the royal line extinguished, King Philip II of Spain marched in and annexed Portugal for 60 years."
+      ],
+      "keywords": [
+        "King Sebastian of Portugal portrait",
+        "Battle of Alcacer Quibir engraving",
+        "Morocco historical battle map 1578",
+        "Philip II of Spain painting",
+        "Portuguese armada historical painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#portugal",
+        "#militaryhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One royal mistake erased an entire global empire overnight.",
+        "search": "King Sebastian of Portugal oil painting portrait",
+        "caption": "One blunder erased Portugal's throne overnight."
+      },
+      {
+        "narration": "In 1578, twenty-four-year-old King Sebastian ruled Portugal, a maritime superpower commanding trade routes across four continents.",
+        "search": "16th century Lisbon harbor vintage engraving map",
+        "caption": "In 1578, Portugal controlled vast global trade routes."
+      },
+      {
+        "narration": "Obsessed with holy crusades, Sebastian ignored senior military commanders and emptied the royal treasury to assemble an invasion force.",
+        "search": "Renaissance royal court advisors oil painting",
+        "caption": "King Sebastian ignored veteran advisors to launch an invasion."
+      },
+      {
+        "narration": "In June 1578, over eight hundred ships carried twenty-three thousand Portuguese soldiers and foreign mercenaries across to Morocco.",
+        "search": "Portuguese armada sailing ships 16th century historical painting",
+        "caption": "800 ships carried 23,000 soldiers toward North Africa."
+      },
+      {
+        "narration": "Sebastian marched his heavily armored infantry inland during midsummer heat, abandoning coastal supply ships and fresh water sources.",
+        "search": "Morocco historical battle map 1578 antique engraving",
+        "caption": "The army marched deep into the Moroccan summer heat."
+      },
+      {
+        "narration": "On August 4, 1578, Sultan Abd al-Malik intercepted them near Alcácer Quibir with fifty thousand Saadi cavalry.",
+        "search": "Sultan Abd al-Malik Saadi dynasty miniature painting portrait",
+        "caption": "Fifty thousand Saadi cavalry intercepted the Portuguese lines."
+      },
+      {
+        "narration": "The Moroccan horsemen rapidly encircled the exhausted expedition, trapping the entire European force on an open plain.",
+        "search": "Battle of Alcacer Quibir 1578 historical battle engraving",
+        "caption": "The Portuguese army was completely surrounded within hours."
+      },
+      {
+        "narration": "Instead of organizing a defensive retreat, King Sebastian drew his sword and plunged directly into the enemy center.",
+        "search": "16th century cavalry melee clash historical oil painting",
+        "caption": "King Sebastian charged directly into the enemy cavalry."
+      },
+      {
+        "narration": "On August 4, 1578, King Sebastian was cut down in the chaotic melee, vanishing forever without leaving a single heir to secure his lineage.",
+        "search": "Battle of Alcacer Quibir historical engraving",
+        "caption": "King Sebastian perished in battle without leaving an heir."
+      },
+      {
+        "narration": "Exploiting the sudden dynastic vacuum and bankrupt nobility in 1580, King Philip II of Spain sent his armies across the border to seize the vacant throne.",
+        "search": "King Philip II of Spain portrait painting",
+        "caption": "King Philip II of Spain claimed the vacant throne in 1580."
+      },
+      {
+        "narration": "The catastrophic defeat bound Portugal under Spanish rule for sixty years, erasing a global empire's sovereignty in a single afternoon.",
+        "search": "Iberian Union 1580 antique map engraving",
+        "caption": "Portugal lost its independence for sixty years under Spanish rule."
+      },
+      {
+        "narration": "In 1578, one royal blunder wiped Portugal off the map.",
+        "search": "King Sebastian of Portugal portrait oil painting",
+        "caption": "In 1578, one royal blunder erased Portugal."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T23:26:19.533209+00:00",
+    "updated_at": "2026-10-30T23:38:27.897611+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-30T23:31:56.985433+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 147 de vua 55s)",
+        "at": "2026-10-30T23:33:13.117558+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.3s en-US-GuyNeural 4 cau",
+        "at": "2026-10-30T23:33:16.959617+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T23:33:18.042047+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-30T23:37:39.146159+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T23:37:39.246069+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.3s 16392050 bytes",
+        "at": "2026-10-30T23:38:27.430389+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T23:38:27.897594+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14037395/pexels-photo-14037395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5069526/pexels-photo-5069526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31438605/pexels-photo-31438605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29122677/pexels-photo-29122677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8719164/pexels-photo-8719164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9890504/pexels-photo-9890504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13516910/pexels-photo-13516910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268893/pexels-photo-9268893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844375/pexels-photo-37844375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32832952/pexels-photo-32832952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8231152/pexels-photo-8231152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39985252/pexels-photo-39985252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5855ff37cf",
     "kind": "short",
     "channel": "Channel2",
