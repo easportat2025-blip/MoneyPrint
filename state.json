@@ -1,5 +1,161 @@
 [
   {
+    "id": "a91dbbc20b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Alexander Conquered An Unreachable Island Fortress",
+    "idea": {
+      "title": "How Alexander Conquered An Unreachable Island Fortress",
+      "hook": "When the island city of Tyre mocked Alexander the Great from behind impenetrable ocean walls, he ordered an entire mountain thrown into the sea.",
+      "beats": [
+        "Tyre sat on an island half a mile offshore, protected by 150-foot stone battlements that made naval assaults impossible.",
+        "Refusing to surrender, Alexander commanded his soldiers to demolish ancient mainland ruins and build an artificial land bridge through the ocean.",
+        "For seven months, Greek engineers drove timber and stone through deep water under relentless fire from Phoenician warships.",
+        "Once the earthen mole breached the island's shores, Alexander's battering rams tore down the fortress, slaughtering the defenders in total retribution."
+      ],
+      "keywords": [
+        "Alexander the Great painting",
+        "Siege of Tyre engraving",
+        "Ancient Greek phalanx battle",
+        "Phoenician warship illustration",
+        "Ancient Mediterranean siege map"
+      ],
+      "tags": [
+        "history",
+        "alexanderthegreat",
+        "ancienthistory",
+        "militarytactics",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Alexander erased an ocean to conquer an unreachable fortress.",
+        "search": "Alexander the Great mosaic close up face",
+        "caption": "Alexander erased an ocean to conquer an unreachable fortress."
+      },
+      {
+        "narration": "In 332 BC, the Phoenician island fortress of Tyre stood half a mile offshore, protected by massive maritime walls.",
+        "search": "ancient Phoenician city Tyre map engraving",
+        "caption": "In 332 BC, Tyre sat fortified half a mile offshore."
+      },
+      {
+        "narration": "Protected by naval dominance and deep water, Tyre's garrison rejected Alexander's demand for surrender, believing their island was completely unassailable.",
+        "search": "ancient Phoenician warship trireme engraving",
+        "caption": "Tyre's navy and deep water made traditional assault impossible."
+      },
+      {
+        "narration": "Lacking a dominant fleet, Alexander commanded his army to demolish the ancient ruins of mainland Tyre for construction material.",
+        "search": "Alexander the Great marble bust statue",
+        "caption": "Alexander ordered the mainland city demolished for building stone."
+      },
+      {
+        "narration": "Macedonian engineers drove thousands of cedar logs into the seabed, constructing a massive two-hundred-foot-wide earthen causeway toward the island.",
+        "search": "ancient siege works construction engraving",
+        "caption": "Engineers built a 200-foot-wide land bridge across the sea."
+      },
+      {
+        "narration": "Tyrian defenders countered by launching a specialized fireship laden with pitch and sulfur, incinerating Alexander's initial siege towers.",
+        "search": "ancient naval battle fireship oil painting",
+        "caption": "Tyrian fireships incinerated the Macedonian siege towers."
+      },
+      {
+        "narration": "As the sea floor dropped sharply near the island walls, workers faced lethal missile barrages from Phoenician war galleys.",
+        "search": "ancient Greek catapult siege oil painting",
+        "caption": "Deep water and constant bombardment threatened to drown the campaign."
+      },
+      {
+        "narration": "Refusing retreat, Alexander gathered warships from Cyprus and Sidon to blockade the harbor and secure the causeway's final approach.",
+        "search": "Siege of Tyre 332 BC historical engraving",
+        "caption": "Allied fleets blockaded the harbor as the causeway reached the walls."
+      },
+      {
+        "narration": "In July 332 BC, Alexander mounted battering rams onto paired transport galleys, relentlessly pounding Tyre's southern sea wall alongside the causeway's artillery.",
+        "search": "siege of tyre battering ram engraving",
+        "caption": "Floating battering rams pound Tyre's massive sea walls into rubble."
+      },
+      {
+        "narration": "When a fifty-foot breach cracked open, Alexander personally led elite Macedonian hypaspists into the gap, breaking the Phoenician defense in brutal hand-to-hand combat.",
+        "search": "alexander the great battle breach oil painting",
+        "caption": "Alexander personally leads elite shock troops through the shattered stone breach."
+      },
+      {
+        "narration": "After executing thousands and enslaving thirty thousand survivors, Alexander achieved lasting physical change: his artificial mole trapped ocean currents, permanently cementing Tyre to the mainland forever.",
+        "search": "map of tyre lebanon peninsula antique engraving",
+        "caption": "Alexander's seven-month siege permanently fused Tyre's island to the mainland."
+      },
+      {
+        "narration": "How did Alexander destroy an unreachable ocean fortress?",
+        "search": "Alexander the Great bust statue close up",
+        "caption": "How Alexander conquered an unreachable island fortress."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T02:05:52.028226+00:00",
+    "updated_at": "2026-10-30T02:12:18.166331+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-30T02:08:53.032383+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "396 chars (cat 281 de vua 55s)",
+        "at": "2026-10-30T02:09:39.089439+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.6s en-US-GuyNeural 5 cau",
+        "at": "2026-10-30T02:09:43.016283+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T02:09:44.033647+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-30T02:11:27.264653+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T02:11:27.360861+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.6s 16206065 bytes",
+        "at": "2026-10-30T02:12:17.792713+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T02:12:18.166313+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39483728/pexels-photo-39483728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32865468/pexels-photo-32865468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16222375/pexels-photo-16222375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36066298/pexels-photo-36066298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38519254/pexels-photo-38519254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37539250/pexels-photo-37539250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13834911/pexels-photo-13834911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844377/pexels-photo-37844377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4321698/pexels-photo-4321698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39538693/pexels-photo-39538693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39515968/pexels-photo-39515968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564810/pexels-photo-12564810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "79d71a767d",
     "kind": "short",
     "channel": "Channel2",
