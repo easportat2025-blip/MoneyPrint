@@ -1,5 +1,161 @@
 [
   {
+    "id": "123e0c4738",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Unlocked Gate That Ended the Roman Empire",
+    "idea": {
+      "title": "The Unlocked Gate That Ended the Roman Empire",
+      "hook": "In 1453, the last bastion of the Roman Empire was not breached by massive Ottoman cannons, but by a careless defender who forgot to lock a small wooden gate.",
+      "beats": [
+        "For 53 days, Constantinople's legendary Theodosian Walls withstood Sultan Mehmed II's relentless bombardment and massive assaults.",
+        "At dawn on May 29, Ottoman skirmishers noticed the Kerkoporta sally port had been accidentally left unbolted after a nighttime raid.",
+        "Fifty elite Janissaries sprinted inside, mounted the ramparts, and raised the Ottoman battle standard atop the inner wall.",
+        "Seeing enemy banners above them, the defenders panicked believing the city had fallen, opening the floodgates to Rome's final collapse."
+      ],
+      "keywords": [
+        "Fall of Constantinople painting",
+        "Sultan Mehmed II engraving",
+        "Theodosian Walls archival",
+        "Emperor Constantine XI portrait",
+        "Kerkoporta gate vintage map"
+      ],
+      "tags": [
+        "History",
+        "Byzantine Empire",
+        "Constantinople",
+        "Mehmed II",
+        "Roman History"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An unlocked wooden gate ended the Roman Empire.",
+        "search": "fall of constantinople 1453 oil painting",
+        "caption": "An unlocked wooden gate destroyed Rome's final empire."
+      },
+      {
+        "narration": "In April 1453, Sultan Mehmed II surrounded Constantinople with over one hundred thousand Ottoman troops.",
+        "search": "sultan mehmed ii portrait painting gentile bellini",
+        "caption": "Sultan Mehmed II besieged Constantinople in spring 1453."
+      },
+      {
+        "narration": "Defending the millennium-old imperial capital was Emperor Constantine XI, backed by only seven thousand men.",
+        "search": "emperor constantine xi palaiologos portrait engraving",
+        "caption": "Emperor Constantine XI defended the capital with 7,000 men."
+      },
+      {
+        "narration": "The city's survival rested on the ancient Theodosian Walls, an impenetrable triple-layered defense system.",
+        "search": "theodosian walls constantinople vintage map engraving",
+        "caption": "The imperial city relied on the ancient Theodosian Walls."
+      },
+      {
+        "narration": "For 53 days, Ottoman super-cannons hurled massive stone balls against the masonry, yet the inner line held firm.",
+        "search": "basilic bombard ottoman siege cannon manuscript illustration",
+        "caption": "Massive Ottoman cannons bombarded the walls for 53 days."
+      },
+      {
+        "narration": "Desperate to relieve pressure, Greek defenders launched secret night raids through concealed sally ports.",
+        "search": "kerkoporta gate constantinople historical sketch engraving",
+        "caption": "Defenders launched night raids through hidden sally ports."
+      },
+      {
+        "narration": "One of these hidden portals was the Kerkoporta, a small ground-level doorway beneath the Blachernae palace.",
+        "search": "medieval fortified city gate wooden door engraving",
+        "caption": "The Kerkoporta was a small wooden door beneath the palace."
+      },
+      {
+        "narration": "In the chaos before dawn on May 29, the raiding party returned, but neglected to bolt the gate shut.",
+        "search": "ottoman janissary soldiers 15th century miniature painting",
+        "caption": "Defenders slipped back inside, leaving the door unbolted."
+      },
+      {
+        "narration": "At dawn on May 29, 1453, fifty Ottoman Janissaries spotted the unbolted Kerkoporta, slipped inside undetected, and scaled the inner ramparts.",
+        "search": "ottoman janissaries storming constantinople walls oil painting",
+        "caption": "Fifty Janissaries infiltrated the unlocked Kerkoporta undetected at dawn."
+      },
+      {
+        "narration": "When Roman defenders looked back and saw Ottoman standards flying from their own towers, cries spread that the city had fallen, sparking an irreversible rout.",
+        "search": "emperor constantine xi last stand oil painting",
+        "caption": "Spotting enemy banners overhead, the defenders broke into total panic."
+      },
+      {
+        "narration": "By afternoon, Sultan Mehmed II entered Hagia Sophia, extinguishing over fifteen centuries of the Roman Empire through a single forgotten bolt.",
+        "search": "sultan mehmed ii entering constantinople oil painting",
+        "caption": "A single unlatched door ended fifteen centuries of Roman rule."
+      },
+      {
+        "narration": "An unlocked wooden gate destroyed the entire Roman Empire.",
+        "search": "fall of constantinople 1453 siege oil painting",
+        "caption": "An unlocked wooden gate destroyed the Roman Empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T06:58:07.871456+00:00",
+    "updated_at": "2026-10-30T07:06:39.187347+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-30T07:00:35.372361+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "359 chars (cat 253 de vua 55s)",
+        "at": "2026-10-30T07:01:56.213248+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.1s en-US-GuyNeural 5 cau",
+        "at": "2026-10-30T07:01:58.215147+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T07:01:58.977935+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-30T07:06:05.401261+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T07:06:05.483952+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.1s 18042206 bytes",
+        "at": "2026-10-30T07:06:38.843949+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T07:06:39.187324+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15157508/pexels-photo-15157508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9423055/pexels-photo-9423055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39635105/pexels-photo-39635105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543475/pexels-photo-17543475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32115278/pexels-photo-32115278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11198006/pexels-photo-11198006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9408094/pexels-photo-9408094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15391974/pexels-photo-15391974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9277555/pexels-photo-9277555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5152217/pexels-photo-5152217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17883495/pexels-photo-17883495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12808833/pexels-photo-12808833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "072519080d",
     "kind": "short",
     "channel": "Channel3",
