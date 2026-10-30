@@ -1,5 +1,168 @@
 [
   {
+    "id": "072519080d",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do rèm tắm luôn bị hút dính vào bạn",
+    "idea": {
+      "title": "Bí mật lý do rèm tắm luôn bị hút dính vào bạn",
+      "hook": "Mỗi lần bạn bật vòi sen nước nóng, tấm rèm tắm lại tự động bay tới và dính chặt vào da như có ma thuật.",
+      "beats": [
+        "Nhiều người nghĩ do quạt thông gió hoặc hơi nước bốc lên đẩy rèm, nhưng sự thật bắt nguồn từ một định luật vật lý nổi tiếng.",
+        "Hiện tượng này có tên khoa học là hiệu ứng Bernoulli: dòng nước xối mạnh cuốn theo lớp không khí bên trong di chuyển với vận tốc cực lớn.",
+        "Vận tốc khí tăng vọt làm áp suất không khí bên trong buồng tắm tụt sâu, tạo ra một vùng chân không cục bộ.",
+        "Áp suất khí quyển mạnh mẽ bên ngoài ngay lập tức ép tấm rèm cong vào trong và bám dính chặt lấy cơ thể bạn.",
+        "Cách giải quyết cực kỳ đơn giản: chỉ cần hé mở một khoảng trống nhỏ ở mép rèm để cân bằng lại áp suất hai bên."
+      ],
+      "keywords": [
+        "man showering bathroom curtain",
+        "water droplets flowing shower",
+        "curtain blowing wind indoor",
+        "physics pressure air flow animation",
+        "modern luxury bathroom warm water"
+      ],
+      "tags": [
+        "khoa học đời sống",
+        "hiệu ứng bernoulli",
+        "mẹo nhà tắm",
+        "bí mật cuộc sống",
+        "sự thật thú vị"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao rèm tắm luôn hút chặt vào bạn?",
+        "search": "nam gioi tam voi sen rem tam bi hut 3d animation",
+        "caption": "Tại sao rèm tắm luôn tự dính chặt vào cơ thể?"
+      },
+      {
+        "narration": "Nhiều người nghĩ hơi nước nóng hoặc quạt thông gió đẩy rèm, nhưng hoàn toàn sai.",
+        "search": "giot nuoc voi sen xa manh phong tam hoat hinh 3d",
+        "caption": "Hơi nước hay quạt gió không phải là nguyên nhân."
+      },
+      {
+        "narration": "Kẻ giật dây đằng sau hiện tượng phiền phức này chính là một quy luật vật lý kinh điển.",
+        "search": "mo hinh khi hoi ap suat khong khi 3d motion graphics",
+        "caption": "Sự thật nằm ở một quy luật vật lý kinh điển."
+      },
+      {
+        "narration": "Hiện tượng này liên quan trực tiếp đến hiệu ứng Bernoulli nổi tiếng trong động lực học chất lưu.",
+        "search": "dong chay nuoc va luong khong khi 3d explainer animation",
+        "caption": "Hiệu ứng Bernoulli trong động lực học chất lưu."
+      },
+      {
+        "narration": "Khi vòi sen xối mạnh, dòng nước kéo theo lớp không khí bên trong chuyển động với tốc độ cực nhanh.",
+        "search": "luong khong khi di chuyen nhanh trong buong tam animation",
+        "caption": "Dòng nước xối kéo không khí di chuyển cực nhanh."
+      },
+      {
+        "narration": "Tốc độ không khí tăng vọt làm áp suất bên trong gian tắm bị tụt giảm nghiêm trọng.",
+        "search": "bieu do giam ap suat khong khi 3d isometric render",
+        "caption": "Vận tốc khí tăng cao làm áp suất bên trong tụt sâu."
+      },
+      {
+        "narration": "Trong khi đó, áp suất khí quyển bên ngoài nhà tắm vẫn giữ nguyên ở mức cao hơn hẳn.",
+        "search": "luong khong khi ben ngoai day vao trong hoat hinh",
+        "caption": "Áp suất bên ngoài cao hơn hẳn bên trong."
+      },
+      {
+        "narration": "Sự chênh lệch áp suất tạo ra lực đẩy mạnh mẽ, ép tấm rèm bám chặt vào da bạn.",
+        "search": "rem tam bi cuon cong vao trong da nguoi 3d render",
+        "caption": "Chênh lệch áp suất ép rèm tắm dính chặt vào da."
+      },
+      {
+        "narration": "Càng xả nước nóng mạnh, không khí di chuyển càng nhanh khiến lực hút tấm rèm dính vào da càng lớn.",
+        "search": "hoat hinh 3d luong nuoc va khong khi di chuyen nhanh",
+        "caption": "Nước chảy càng mạnh, lực hút rèm càng tăng."
+      },
+      {
+        "narration": "Nhiều người cố xịt nước làm nặng rèm, nhưng chênh lệch áp suất vẫn dễ dàng kéo nó áp sát lại.",
+        "search": "hoat hinh 3d rem tam nhua dinh chat vao da nguoi",
+        "caption": "Xịt nước làm nặng rèm cũng không tác dụng."
+      },
+      {
+        "narration": "Cách khắc phục cực kỳ đơn giản: hãy hé mở một khoảng trống nhỏ ở mép rèm tắm.",
+        "search": "hoat hinh 3d tay keo mo mot khe rem nha tam",
+        "caption": "Chỉ cần hé mở một khoảng nhỏ mép rèm."
+      },
+      {
+        "narration": "Khe hở nhỏ này giúp không khí bên ngoài tràn vào, cân bằng ngay lập tức áp suất hai bên.",
+        "search": "do hoa dong khong khi can bang ap suat buong tam",
+        "caption": "Không khí tràn vào giúp cân bằng áp suất."
+      },
+      {
+        "narration": "Tấm rèm sẽ đứng yên hoàn toàn, giúp bạn thoải mái tắm rửa mà không còn bị dính chặt.",
+        "search": "mo hinh 3d nha tam sach se va voi sen nuoc chay",
+        "caption": "Mở nhẹ mép rèm để tắm thoải mái mỗi ngày."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T06:09:19.431672+00:00",
+    "updated_at": "2026-10-30T06:13:08.775614+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-30T06:11:08.033914+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "503 chars",
+        "at": "2026-10-30T06:12:00.008429+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.7s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-30T06:12:09.640962+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T06:12:10.380393+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-30T06:12:26.876855+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-30T06:12:26.935738+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.7s 29786960 bytes",
+        "at": "2026-10-30T06:13:08.526006+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T06:13:08.775596+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39840272/16996280_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/9667669/9667669-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/18069095/18069095-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/16727464/16727464-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324539/13787967_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16727472/16727472-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37854033/16058376_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39468586/16811351_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667990/9667990-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39945093/17044650_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7250217/7250217-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8089529/uhd_25fps.mp4",
+      "https://videos.pexels.com/video-files/6693925/6693925-uhd_1440_2732_30fps.mp4"
+    ]
+  },
+  {
     "id": "a91dbbc20b",
     "kind": "short",
     "channel": "Channel2",
