@@ -1,5 +1,167 @@
 [
   {
+    "id": "11565ea422",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Cái giá âm thầm khi bạn cầm hóa đơn tính tiền",
+    "idea": {
+      "title": "Cái giá âm thầm khi bạn cầm hóa đơn tính tiền",
+      "hook": "Mỗi lần nhận hóa đơn siêu thị rồi tiện tay vò nát hoặc ngậm vào miệng, bạn đang âm thầm đưa một lượng hóa chất độc hại thẳng vào máu mà không hề hay biết.",
+      "beats": [
+        "Giấy in nhiệt không dùng mực thông thường mà phủ một lớp hóa chất chứa BPA (Bisphenol A) để phản ứng với nhiệt độ tạo chữ.",
+        "Chất này ở dạng bột mịn tự do nên cực kỳ dễ bong ra và thẩm thấu qua biểu bì da tay chỉ sau vài giây chạm vào.",
+        "Nguy hiểm hơn, nếu tay bạn dính cồn rửa tay khô hoặc kem dưỡng ẩm, lượng BPA ngấm vào máu có thể tăng vọt gấp 100 lần.",
+        "BPA tích tụ gây rối loạn hormone nội tiết và tăng nguy cơ bệnh tim mạch, vì vậy hãy từ chối nhận hóa đơn giấy nếu không thực sự cần thiết."
+      ],
+      "keywords": [
+        "thermal paper receipt",
+        "grocery store checkout",
+        "chemical absorption skin",
+        "hand sanitizer skin",
+        "endocrine disruptor molecule"
+      ],
+      "tags": [
+        "khoa học đời sống",
+        "sức khỏe",
+        "thói quen hàng ngày",
+        "hóa đơn nhiệt",
+        "mẹo sống khỏe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tờ hóa đơn siêu thị đang đưa độc vào máu bạn.",
+        "search": "hoat hinh 3d tay cam hoa don thanh toan sieu thi",
+        "caption": "Hóa đơn giấy có thể gây hại bạn"
+      },
+      {
+        "narration": "Hầu hết chúng ta đều có thói quen cầm tờ hóa đơn, vò nát hoặc kẹp vào miệng khi xách đồ.",
+        "search": "hoat hinh 3d nguoi ngam to hoa don vao mieng",
+        "caption": "Thói quen cầm và ngậm hóa đơn quen thuộc"
+      },
+      {
+        "narration": "Nhưng loại giấy này không hề dùng mực in thông thường như sách báo.",
+        "search": "mo phong 3d may in hoa don nhiet chay ra giay",
+        "caption": "Giấy in nhiệt không dùng mực in thường"
+      },
+      {
+        "narration": "Bề mặt của nó được phủ một lớp bột hóa chất công nghiệp chứa BPA hoặc BPS.",
+        "search": "hoat hinh 3d zoom kinh hien vi phan tu bpa tren giay",
+        "caption": "Lớp phủ chứa hóa chất BPA độc hại"
+      },
+      {
+        "narration": "Vì các phân tử này ở trạng thái tự do, chúng bám dính vào da tay ngay khi bạn chạm vào.",
+        "search": "hoat hinh 3d dau ngon tay cham vao mat giay phan tu phan tan",
+        "caption": "Bột hóa chất bám chặt vào đầu ngón tay"
+      },
+      {
+        "narration": "Lớp biểu bì không thể chặn lại, khiến hóa chất ngấm thẳng vào mạch máu chỉ sau vài giây.",
+        "search": "mo phong y hoc 3d phan tu hoa chat ngam qua da vao mach mau",
+        "caption": "Hóa chất ngấm thẳng vào mạch máu"
+      },
+      {
+        "narration": "Mức độ nguy hiểm tăng vọt nếu bạn vừa thoa kem dưỡng ẩm hoặc dùng nước rửa tay khô.",
+        "search": "hoat hinh 3d ban tay xit chai nuoc rua tay kho con",
+        "caption": "Nguy cơ tăng vọt khi tay dính cồn"
+      },
+      {
+        "narration": "Dung môi cồn phá vỡ màng bảo vệ da, khiến lượng hóa chất thẩm thấu tăng vọt gấp 100 lần.",
+        "search": "mo phong 3d hang rao da bi ton thuong chat doc xam nhap gap boi",
+        "caption": "Lượng chất độc ngấm tăng gấp 100 lần"
+      },
+      {
+        "narration": "Đáng sợ hơn, BPA ngấm qua da sẽ đi thẳng vào dòng máu mà không hề qua gan để thanh lọc như thức ăn.",
+        "search": "hoat hinh 3d phan tu bpa xam nhap mach mau da tay",
+        "caption": "BPA ngấm qua da đi thẳng vào máu không qua gan giải độc"
+      },
+      {
+        "narration": "Cấu trúc của chất này bắt chước hormone estrogen, đánh lừa tế bào và làm đảo lộn toàn bộ hệ thống nội tiết tự nhiên.",
+        "search": "3d animation te bao hormone noi tiet roi loan phan tu",
+        "caption": "Bắt chước estrogen làm rối loạn hoàn toàn hệ nội tiết"
+      },
+      {
+        "narration": "Sự tích tụ liên tục làm tăng vọt nguy cơ hiếm muộn, rối loạn chuyển hóa và các bệnh lý tim mạch nguy hiểm.",
+        "search": "do hoa 3d trai tim va he tuan hoan bi anh huong hoa chat",
+        "caption": "Tăng nguy cơ hiếm muộn, béo phì và bệnh tim mạch"
+      },
+      {
+        "narration": "Thói quen ngậm hóa đơn vào môi hoặc tiện tay bốc đồ ăn sau khi thanh toán chính là tự đầu độc cơ thể nhanh nhất.",
+        "search": "hoat hinh nguoi ngam hoa don giay trong mieng va boc do an",
+        "caption": "Tuyệt đối không ngậm hóa đơn hay bốc thức ăn ngay"
+      },
+      {
+        "narration": "Hãy chủ động từ chối lấy hóa đơn in nhiệt, ưu tiên nhận bill điện tử trên điện thoại và rửa tay sạch bằng xà phòng.",
+        "search": "3d render dien thoai hien hoa don dien tu e receipt man hinh",
+        "caption": "Từ chối hóa đơn giấy, ưu tiên bill điện tử trên điện thoại"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T11:20:21.523467+00:00",
+    "updated_at": "2026-10-30T11:28:50.446709+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-30T11:27:17.980324+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "503 chars (cat 58 de vua 55s)",
+        "at": "2026-10-30T11:27:38.704197+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-30T11:27:53.520466+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T11:27:54.328732+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-30T11:28:09.647140+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-30T11:28:09.718882+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.7s 22620946 bytes",
+        "at": "2026-10-30T11:28:50.110300+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T11:28:50.446685+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8816948/8816948-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7181928/7181928-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/11597648/11597648-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/27989031/12282648_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7590455/7590455-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8326543/8326543-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/5809645/5809645-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/39626654/16891906_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/3959056/3959056-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6282194/6282194-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31879728/13579753_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/30035129/12885054_1080_1920_50fps.mp4",
+      "https://videos.pexels.com/video-files/16456768/16456768-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "30c39ede22",
     "kind": "short",
     "channel": "Channel2",
