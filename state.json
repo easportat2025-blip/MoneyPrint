@@ -1,5 +1,167 @@
 [
   {
+    "id": "f6ecfc9861",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật ngỡ ngàng: Tại sao sao không nhấp nháy ngoài vũ trụ?",
+    "idea": {
+      "title": "Sự thật ngỡ ngàng: Tại sao sao không nhấp nháy ngoài vũ trụ?",
+      "hook": "Bạn luôn nghĩ các ngôi sao đang lung linh nhấp nháy trên bầu trời đêm? Thực ra đó chỉ là một cú lừa của khí quyển Trái Đất.",
+      "beats": [
+        "Từ mặt đất nhìn lên, ánh sáng sao phải đi xuyên qua các tầng khí quyển đan xen luồng khí nóng lạnh liên tục làm tia sáng bị bẻ cong.",
+        "Hiện tượng nhiễu loạn khí quyển này khiến mắt bạn thấy ngôi sao như đang chớp tắt liên tục.",
+        "Tuy nhiên, nếu bạn đứng ngoài không gian vũ trụ, các ngôi sao hoàn toàn đứng yên và chiếu sáng tĩnh lặng.",
+        "Đó là lý do các kính viễn vọng hiện đại nhất bắt buộc phải đặt ngoài vũ trụ để chụp ảnh chính xác."
+      ],
+      "keywords": [
+        "twinkling stars space",
+        "earth atmosphere refraction",
+        "astronaut looking at stars",
+        "space telescope orbit",
+        "night sky cosmos"
+      ],
+      "tags": [
+        "Channel3",
+        "vũ trụ",
+        "khoa học",
+        "sự thật thú vị",
+        "bầu trời đêm"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao ánh đèn đêm lại nhấp nháy?",
+        "search": "3d animation street light night city flickering loop",
+        "caption": "Tại sao ánh đèn đêm lại nhấp nháy?"
+      },
+      {
+        "narration": "Mỗi khi nhìn các đốm sáng xa xa, bạn luôn thấy chúng như đang chớp tắt liên tục.",
+        "search": "motion graphics human eye pupil zoom in cartoon",
+        "caption": "Ánh đèn xa luôn có vẻ chớp tắt"
+      },
+      {
+        "narration": "Nhiều người nghĩ do nguồn điện yếu hoặc do mắt bị mệt mỏi sau ngày dài làm việc.",
+        "search": "isometric render person looking at screen tired eyes fatigue",
+        "caption": "Do điện chập chờn hay mắt mỏi?"
+      },
+      {
+        "narration": "Tuy nhiên, ngay cả người có thị lực hoàn hảo cũng không thể tránh khỏi hiện tượng này.",
+        "search": "cartoony 3d character wearing glasses eye exam chart",
+        "caption": "Thị lực 10 trên 10 vẫn thấy"
+      },
+      {
+        "narration": "Thủ phạm thực sự nằm ở lớp không khí bao quanh bạn mỗi ngày.",
+        "search": "explainer animation air molecules hot cold thermal layer",
+        "caption": "Bí mật nằm ở lớp không khí"
+      },
+      {
+        "narration": "Các luồng khí nóng lạnh đan xen làm tia sáng bị bẻ cong liên tục trên đường đi.",
+        "search": "3d animation light beam bending refractor glass prism",
+        "caption": "Luồng khí nóng lạnh làm lệch tia sáng"
+      },
+      {
+        "narration": "Mắt nhận tín hiệu ánh sáng lệch hướng liên tục, khiến não bộ lầm tưởng đèn đang chớp.",
+        "search": "motion graphics human brain processing light signal animation",
+        "caption": "Mắt nhận tín hiệu sáng bị lệch"
+      },
+      {
+        "narration": "Nếu loại bỏ hoàn toàn không khí, chùm sáng sẽ trở nên đứng yên tĩnh lặng.",
+        "search": "isometric render vacuum chamber glass light bulb steady glow",
+        "caption": "Mọi nguồn sáng sẽ hoàn toàn đứng yên"
+      },
+      {
+        "narration": "Ngoại không gian là môi trường chân không, hoàn toàn không có không khí hay nhiệt độ xáo trộn để làm lệch tia sáng.",
+        "search": "mo hinh 3d khong gian vu tru khong co khong khi",
+        "caption": "Ngoài vũ trụ không có khí quyển gây khúc xạ"
+      },
+      {
+        "narration": "Do đó, phi hành gia khi nhìn vào vũ trụ sẽ thấy các vì sao chiếu sáng hoàn toàn tĩnh lặng và không hề chớp nháy.",
+        "search": "hoat hinh 3d phi hanh gia nhin ngoi sao dung yen",
+        "caption": "Phi hành gia thấy các vì sao chiếu sáng liên tục"
+      },
+      {
+        "narration": "Chính vì vậy, các kính viễn vọng hiện đại nhất như Hubble bắt buộc phải được đưa lên quỹ đạo ngoài Trái Đất.",
+        "search": "do hoa 3d kinh vien vong quy dao quanh trai dat",
+        "caption": "Kính viễn vọng Hubble phải đặt ngoài không gian"
+      },
+      {
+        "narration": "Khi hoạt động ngoài tầng khí quyển, thiết bị có thể bắt trọn ánh sáng nguyên bản để chụp lại bức ảnh vũ trụ sắc nét nhất.",
+        "search": "mo hinh 3d ong kinh chup hinh ngoi sao ro net",
+        "caption": "Tránh nhiễu loạn không khí giúp hình ảnh rõ nét"
+      },
+      {
+        "narration": "Sự lung linh ảo diệu của bầu trời đêm thực ra chỉ là một cú lừa thị giác do tầng khí quyển Trái Đất tạo ra.",
+        "search": "hoat hinh 3d mat nguoi nhin anh sang nhap nhay",
+        "caption": "Hiện tượng nhấp nháy chỉ là ảo giác khí quyển"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T15:03:46.591725+00:00",
+    "updated_at": "2026-10-30T15:19:17.016733+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-30T15:11:35.669359+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "544 chars",
+        "at": "2026-10-30T15:18:08.588854+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-30T15:18:18.887373+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T15:18:19.648220+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-30T15:18:34.616792+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-30T15:18:34.676578+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.5s 36695943 bytes",
+        "at": "2026-10-30T15:19:16.710011+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T15:19:17.016712+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/10681533/10681533-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9666934/9666934-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7579576/7579576-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/5995781/5995781-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40020040/17081244_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439741/15439741-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28494561/12398946_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10186783/10186783-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/11095529/11095529-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40308506/17220784_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7602470/7602470-hd_1080_1920_29fps.mp4",
+      "https://videos.pexels.com/video-files/30080732/12901442_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/26621090/11976803_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "11565ea422",
     "kind": "short",
     "channel": "Channel3",
