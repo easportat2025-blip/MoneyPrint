@@ -1,5 +1,599 @@
 [
   {
+    "id": "f3ed150a30",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 10,000 Romans Crushed Boudica's 80,000 Rebels | Battle of Watling Street",
+    "idea": {
+      "title": "How 10,000 Romans Crushed Boudica's 80,000 Rebels | Battle of Watling Street",
+      "hook": "Queen Boudica led 80,000 furious warriors to wipe Rome off the map of Britain—only for her own supply wagons to turn the battlefield into an inescapable slaughterhouse.",
+      "beats": [
+        "The Spark of Vengeance: Following the death of King Prasutagus, Roman officials flog Queen Boudica and violate her daughters, triggering an unstoppable wave of Celtic fury.",
+        "Ash and Slaughter: The united Iceni and Trinovantes tribes burn Camulodunum, Londinium, and Verulamium to the ground, massacring over 70,000 Roman citizens and allies.",
+        "Rome on the Brink: Emperor Nero seriously considers withdrawing from Britannia entirely as Governor Gaius Suetonius Paulinus scrambles to assemble a surviving force.",
+        "The Mismatched Forces: Suetonius gathers only 10,000 disciplined legionaries from Legio XIV Gemina and Legio XX against Boudica's rapidly swelling horde of over 80,000 warriors.",
+        "Choosing the Killing Ground: Suetonius carefully selects a narrow gorge opening onto a plain, bordered by dense forest to eliminate Celtic flanking maneuvers and negate their numerical superiority.",
+        "Fatal Hubris: Convinced of an easy massacre, the Britons position their families and baggage wagons in a massive semicircular ring directly behind their front lines to spectate the battle.",
+        "The Clash of Speeches: Boudica rides her war chariot urging her warriors to win or die, while Suetonius calmly instructs his veterans to ignore the barbarian noise and maintain iron formation.",
+        "The Devastating Volley: As the disorganized British horde charges into the bottleneck, the Romans unleash thousands of heavy armor-piercing pila javelins, shattering the charge's momentum.",
+        "The Iron Wedge: Locking their heavy scuta shields, the Roman legionaries form pointed wedge formations, methodically stabbing forward with gladii into the compressed Celtic masses.",
+        "Auxiliary Envelopment: Roman auxiliary infantry and cavalry break out on the flanks, driving the panicked Britons backward into an ever-tightening pocket.",
+        "The Wagon Trap: Retiring warriors slam directly into the impenetrable wall of their own parked wagons, creating a fatal crush where thousands are trampled before the Roman blades reach them.",
+        "Total Annihilation: Roman chronicler Tacitus records 80,000 Britons slaughtered against roughly 400 Roman casualties, leading Boudica to poison herself and securing Roman control of Britain for 300 years."
+      ],
+      "keywords": [
+        "Battle of Watling Street",
+        "Queen Boudica",
+        "Roman Empire",
+        "Roman Legion",
+        "Suetonius Paulinus",
+        "Ancient Rome",
+        "Iceni Tribe",
+        "Roman Britain",
+        "Ancient Warfare",
+        "Military Tactics"
+      ],
+      "tags": [
+        "boudica",
+        "roman empire",
+        "ancient history",
+        "military history",
+        "watling street",
+        "suetonius",
+        "roman legions",
+        "ancient warfare",
+        "boudica rebellion",
+        "roman tactics"
+      ],
+      "kind": "long",
+      "thumbnail_text": "80,000 TRAPPED BY OWN WAGONS"
+    },
+    "scenes": [
+      {
+        "narration": "Ten thousand Romans destroyed eighty thousand rebels in Britain.",
+        "search": "battle of watling street roman oil painting",
+        "caption": "Ten thousand Romans defeated an army of eighty thousand."
+      },
+      {
+        "narration": "In AD 60, Roman administrators annexed the Iceni kingdom, publicly flogging Queen Boudica and violating her young daughters.",
+        "search": "queen boudica statue london bronze",
+        "caption": "AD 60: Roman officials abuse Queen Boudica and seize her kingdom."
+      },
+      {
+        "narration": "Boudica united the native tribes, incinerating Camulodunum, Londinium, and Verulamium, and killing seventy thousand imperial citizens.",
+        "search": "burning of londinium ancient ruins oil painting",
+        "caption": "Rebel forces burn Londinium and slaughter seventy thousand Roman inhabitants."
+      },
+      {
+        "narration": "The catastrophic losses rattled Rome, leading Emperor Nero to debate withdrawing Roman legions from Britannia entirely.",
+        "search": "emperor nero marble bust statue",
+        "caption": "Emperor Nero considers abandoning the entire province of Britannia."
+      },
+      {
+        "narration": "Governor Gaius Suetonius Paulinus gathered roughly ten thousand men, principally from Legio XIV Gemina and Legio XX Valeria Victrix.",
+        "search": "roman centurion marble relief carving",
+        "caption": "Suetonius Paulinus assembles ten thousand veteran Roman legionaries."
+      },
+      {
+        "narration": "Suetonius positioned his line in a narrow gorge backed by dense woods, neutralizing Boudica's overwhelming numerical advantage.",
+        "search": "watling street roman battle tactics historic map engraving",
+        "caption": "Suetonius anchors his flanks in a narrow gorge bordered by forest."
+      },
+      {
+        "narration": "Anticipating an easy rout, Celtic warriors encircled the rear of the battlefield with baggage wagons carrying their families.",
+        "search": "ancient celts baggage wagons battle engraving",
+        "caption": "Briton tribes park baggage wagons behind their lines to spectate."
+      },
+      {
+        "narration": "Boudica marshaled her war chariots, launching tens of thousands of warriors straight into the narrow Roman kill zone.",
+        "search": "boudica in war chariot vintage engraving",
+        "caption": "Boudica charges her massive vanguard directly into the Roman defile."
+      },
+      {
+        "narration": "In AD 60, Governor Gaius Suetonius Paulinus ordered his frontline legionaries of Legio XIV Gemina to hold their ground until the charging Celts closed within forty paces.",
+        "search": "roman legionaries formation ancient engraving",
+        "caption": "Suetonius held the Roman line steady until the Celts reached forty paces."
+      },
+      {
+        "narration": "When the Britons entered range, thousands of heavy Roman pila javelins darkened the sky, bending upon impact to render Celtic shields useless.",
+        "search": "roman pilum javelin museum artifact",
+        "caption": "Thousands of Roman pila struck simultaneously, piercing and pinning Celtic shields."
+      },
+      {
+        "narration": "With the charging horde thrown into disarray, the Roman center locked their curved scuta shields into tightly packed wedge formations.",
+        "search": "roman testudo scutum shield ancient relief carving",
+        "caption": "Roman legionaries formed dense wedge formations with locked scuta shields."
+      },
+      {
+        "narration": "Advancing methodically down the defile, the legionaries thrust short gladii into the compressed Celtic front, where long British slashing swords had no room to swing.",
+        "search": "roman gladius sword archaeological artifact",
+        "caption": "Short gladius thrusts decimated Celtic ranks cramped inside the narrow defile."
+      },
+      {
+        "narration": "Suetonius directed veteran reserves from Legio XX to rotate continuously into the breach, maintaining an unbroken wall of fresh Roman swordsmen.",
+        "search": "gaius suetonius paulinus roman general illustration engraving",
+        "caption": "Fresh Roman cohorts continuously rotated forward to sustain grinding pressure."
+      },
+      {
+        "narration": "On both flanks, Roman auxiliary cavalry lowered their lances and charged out from the woods, rolling up the Celtic wings toward the center.",
+        "search": "roman auxiliary cavalry ancient stone relief",
+        "caption": "Roman auxiliary cavalry smashed into the exposed Celtic flanks."
+      },
+      {
+        "narration": "Pushed from three sides into a shrinking corridor, the rear ranks of Boudica's army stumbled backward, completely unable to deploy their numerical superiority.",
+        "search": "ancient celtic warriors battle oil painting",
+        "caption": "Tens of thousands of Celtic warriors were compressed into a helpless mass."
+      },
+      {
+        "narration": "As the panicked front lines attempted to retreat, they collided directly with the impenetrable crescent of their own spectator wagons, trapping tens of thousands in a tightening pocket.",
+        "search": "ancient celtic baggage wagons battle historical illustration",
+        "caption": "Fleeing warriors crashed directly into their own parked supply wagons."
+      },
+      {
+        "narration": "Jammed against their own heavy baggage carts, the Britons were compressed so tightly that warriors could no longer raise their longswords or throw spears. The sheer mass of bodies generated a suffocating crush before Roman gladii even reached the rear ranks.",
+        "search": "battle of watling street ancient celtic warriors baggage carts engraving",
+        "caption": "Trapped against their own wagons, British warriors could not raise their weapons."
+      },
+      {
+        "narration": "Auxiliary Roman cavalry exploited the chaos, driving their lances along the flanks to seal the remaining gaps along the tree line. Every outward break by desperate Celtic skirmishers was methodically turned back into the dense center.",
+        "search": "roman auxiliary cavalry charge ancient relief sculpture",
+        "caption": "Roman auxiliary cavalry sealed off all escape corridors along the forest edges."
+      },
+      {
+        "narration": "The Roman infantry maintained their rhythmic advance, using the heavy iron bosses of their scuta shields to knock opponents off balance before delivering fatal underhand thrusts. Legionaries rotated lines systematically, keeping the frontline killers fresh against an exhausted mass.",
+        "search": "roman legionaries scutum shield gladius formation historical oil painting",
+        "caption": "Roman legionaries advanced in mechanical shifts, maintaining relentless physical pressure."
+      },
+      {
+        "narration": "Draft oxen and horses tethered to the spectator carts panicked under missile fire, overturning heavy wagons directly into the fleeing crowds. The perimeter intended to showcase an Iceni triumph had transformed into an impenetrable barrier of splintered timber and dying livestock.",
+        "search": "ancient celtic war chariots overturned wagons historical illustration",
+        "caption": "Panicked draft animals overturned baggage carts, sealing the deadly perimeter shut."
+      },
+      {
+        "narration": "Roman historian Tacitus recorded that legionaries showed no quarter to non-combatants, cutting down baggage handlers, women, and pack animals indiscriminately to prevent any regrouping. The extreme density of the crowd meant every Roman thrust found flesh.",
+        "search": "publius cornelius tacitus roman bust statue close up",
+        "caption": "Historian Tacitus recorded Roman forces showing no mercy across the trapped field."
+      },
+      {
+        "narration": "From her war chariot, Queen Boudica watched her overwhelming numerical advantage unravel into an inescapable slaughter within two hours of the opening volley. Tribal commanders lost all communication as terror overrode discipline across the Iceni and Trinovantes coalition.",
+        "search": "queen boudica war chariot bronze statue london engraving",
+        "caption": "Boudica watched her 80,000-strong army disintegrate into helpless panic within hours."
+      },
+      {
+        "narration": "Governor Gaius Suetonius Paulinus strictly forbade his men from breaking ranks to chase stragglers into the surrounding woods. By keeping his wedge anchored inside the bottleneck, he ensured the slaughter continued without exposing legionaries to an ambush.",
+        "search": "gaius suetonius paulinus roman general ancient marble bust",
+        "caption": "Governor Suetonius forbade disorderly pursuit to preserve iron Roman formation discipline."
+      },
+      {
+        "narration": "Though tens of thousands of Britons lay butchered in the wagon ring, Roman scouts reported that Boudica and her inner guard had vanished from the killing field. Suetonius held the bloody ground, still uncertain whether the rebel queen had escaped into the northern wilds to raise another army.",
+        "search": "ancient roman britannia map 1st century ad engraving",
+        "caption": "As casualties mounted into tens of thousands, Boudica vanished from the battlefield."
+      },
+      {
+        "narration": "Suetonius dispatched auxiliary cavalry to scour the dense woods of the Midlands, intent on finding the rebel queen before she could rally surviving northern chieftains. Roman garrisons across Britannia remained on high alert, fearing a secondary uprising from uncommitted tribes.",
+        "search": "ancient roman auxiliary cavalry searching forest painting",
+        "caption": "Roman cavalry sweeps the wilderness to locate Queen Boudica."
+      },
+      {
+        "narration": "Before the battle, the Britons had neglected to plant crops, expecting to seize captured Roman stores to feed their massive host. With those grain reserves destroyed in burned settlements, starvation began devouring the surviving Iceni refugees in the autumn of 61 AD.",
+        "search": "celtic settlement winter starvation historical painting",
+        "caption": "Starvation ravages the surviving Iceni tribes after burned harvests."
+      },
+      {
+        "narration": "Dispatches detailing the destruction of three major cities reached Emperor Nero in Rome, who had secretly considered withdrawing all legions from Britannia entirely. Even after news of Suetonius's victory arrived, the emperor remained deeply uneasy about the province's fragile stability.",
+        "search": "emperor nero marble bust statue weighs",
+        "caption": "Emperor Nero weighs abandoning Britain amidst reports of massive destruction."
+      },
+      {
+        "narration": "Refusing to show clemency, Governor Suetonius launched a ruthless scorched-earth campaign across the territories of any tribe that had hesitated or assisted the rebellion. Roman legionaries burned hostile villages to the ground and put thousands of hostile casualties to the sword.",
+        "search": "roman legionaries burning barbarian village engraving",
+        "caption": "Suetonius launches a brutal pacification campaign against rebel tribes."
+      },
+      {
+        "narration": "Reports trickling into the Roman command post indicated that Boudica had fallen ill while hiding in the territory of her allies. Ancient chroniclers Tacitus and Cassius Dio recorded differing accounts of whether she died of disease or ingested poison to escape capture.",
+        "search": "tacitus Roman historian bust statue",
+        "caption": "Conflicting historical accounts surround the final days of Queen Boudica."
+      },
+      {
+        "narration": "Tacitus wrote that Boudica chose to consume deadly poison around late 61 AD, refusing to be paraded through Rome in chains as a trophy for Nero. Her death permanently shattered the unified Celtic resistance, leaving the remaining tribes leaderless.",
+        "search": "queen boudica poison death historical painting",
+        "caption": "Boudica drinks poison in 61 AD to evade Roman captivity."
+      },
+      {
+        "narration": "Fearing Suetonius's relentless cruelty would drive the Britons into permanent guerilla warfare, Rome appointed a new procurator, Gaius Julius Classicianus, to inspect the province. Classicianus urged Nero to replace Suetonius with a governor capable of securing peace through diplomacy.",
+        "search": "roman coin gaius julius classicianus relief",
+        "caption": "Julius Classicianus opposes Suetonius's excessive cruelty toward the provincials."
+      },
+      {
+        "narration": "Seizing upon the loss of a few Roman ships as a pretext, Emperor Nero recalled Suetonius Paulinus to Rome in 62 AD. His successor, Publius Petronius Turpilianus, initiated a policy of reconciliation, beginning the long process of rebuilding a shattered Roman Britain.",
+        "search": "ancient roman forum reconstruction drawing illustration",
+        "caption": "Nero recalls Suetonius in 62 AD to initiate reconciliation efforts."
+      },
+      {
+        "narration": "Modern archaeological excavations across Colchester, London, and St Albans reveal a distinct reddish-black layer dating to 60 AD, known as the Boudican destruction layer. This burnt stratum contains melted Roman glass, shattered pottery, and charred timber beams from destroyed civilian settlements.",
+        "search": "boudican destruction layer archaeological excavation colchester artifacts photograph",
+        "caption": "Archaeological evidence confirms catastrophic destruction in burnt 60 AD urban strata."
+      },
+      {
+        "narration": "In response to the destruction of three undefended settlements, Roman military architects began encircling rebuild cities with heavy stone walls. Londinium was re-established as the imperial provincial capital, secured by a massive stone perimeter and permanent military garrison.",
+        "search": "roman wall londinium stone masonry historical ruins photograph",
+        "caption": "Londinium rebuilt with massive stone fortifications as provincial capital."
+      },
+      {
+        "narration": "The widespread destruction of farmsteads and crop stores during the conflict caused severe regional famine across southeastern Britain throughout 62 AD. Roman authorities were forced to adjust tribute demands to stabilize the surviving population and prevent renewed rebellion.",
+        "search": "ancient roman agricultural relief stone carving engraving",
+        "caption": "Severe post-war famine forced Rome to restructure British tax collection."
+      },
+      {
+        "narration": "Following the defeat of the rebellion, the Iceni royal territory was formally disestablished and annexed into direct Roman provincial administration. The surviving tribal population was disarmed and integrated into the agrarian economy of Roman Britain.",
+        "search": "ancient iceni iron age gold torc artifact museum photograph",
+        "caption": "Iceni royal autonomy abolished and kingdom annexed into imperial province."
+      },
+      {
+        "narration": "Primary historical records of the Battle of Watling Street stem from Roman historian Tacitus, writing around 110 AD, whose father-in-law Agricola served as a military tribune under Suetonius Paulinus. Cassius Dio later provided a secondary account in the third century AD.",
+        "search": "tacitus roman historian marble bust statue close-up",
+        "caption": "Primary records stem from historian Tacitus writing around 110 AD."
+      },
+      {
+        "narration": "Tactical analysts classify Suetonius Paulinus's positioning at Watling Street as an exemplar of force multiplication through defensive terrain. By channeling the opposing charge into a constricted corridor, 10,000 disciplined legionaries successfully countered overwhelming numbers.",
+        "search": "roman legion formation battle tactic tactical map drawing",
+        "caption": "Strategic choke-point positioning neutralized 8-to-1 numerical disadvantage."
+      },
+      {
+        "narration": "For its role in saving the province, Legio XIV Gemina was awarded the honorific title Martia Victrix, meaning martial and victorious. Emperor Nero recognized the legion as an elite formation, later reassigning it to strategic positions along the Rhine frontier in 68 AD.",
+        "search": "roman legionary helmet bronze artifact museum exhibit photograph",
+        "caption": "Legio XIV Gemina awarded elite Martia Victrix title by Nero."
+      },
+      {
+        "narration": "Re-establishing firm control over southern Britain enabled future governors to advance Roman military operations into western Wales and northern Caledonia. By 84 AD, Roman forces under governor Gnaeus Julius Agricola reached the far north at the Battle of Mons Graupius.",
+        "search": "agricola roman governor map britannia campaign illustration",
+        "caption": "Re-established Roman rule paved way for northern campaigns under Agricola."
+      },
+      {
+        "narration": "In late 61 AD, Governor Suetonius Paulinus launched ruthless punitive campaigns against hostile tribal territories, burning crops and driving rebel survivors toward total famine.",
+        "search": "ancient roman soldier burning village engraving",
+        "caption": "Suetonius Paulinus launches devastating post-war punitive raids across rebel tribal lands."
+      },
+      {
+        "narration": "Fearing that perpetual warfare would destroy Britain's tax revenue, Emperor Nero appointed a new procurator, Gaius Julius Alpinus Classicianus, to investigate Suetonius's conduct.",
+        "search": "emperor nero marble bust statue museum",
+        "caption": "Emperor Nero appoints Procurator Classicianus to investigate Suetonius's military conduct."
+      },
+      {
+        "narration": "Classicianus reported directly to Rome that permanent peace could only be achieved through reconciliation rather than Suetonius's uncompromising military violence.",
+        "search": "roman procurator funeral stone inscription artifact museum",
+        "caption": "Procurator Classicianus urges imperial clemency to restore peace in Roman Britain."
+      },
+      {
+        "narration": "To settle the political deadlock, Emperor Nero dispatched his freedman envoy Polyclitus to Britain in 61 AD with authority to audit provincial administration.",
+        "search": "ancient roman court tribunal illustration drawing",
+        "caption": "Imperial envoy Polyclitus arrives in Britain to resolve high-level administrative conflict."
+      },
+      {
+        "narration": "After Suetonius lost several naval supply ships off the British coast, Nero used the mishap as justification to officially strip him of his governorship.",
+        "search": "ancient roman galley warship relief carving",
+        "caption": "Nero officially relieves Suetonius Paulinus of his command in Roman Britain."
+      },
+      {
+        "narration": "In 62 AD, Publius Petronius Turpilianus assumed the governorship, halting offensive operations and successfully calming tribal unrest through diplomatic moderation.",
+        "search": "ancient roman province map engraving vintage",
+        "caption": "Governor Turpilianus adopts diplomatic moderation to stabilize the province in 62 AD."
+      },
+      {
+        "narration": "Under this new administrative stability, Roman engineers rebuilt Londinium, Camulodunum, and Verulamium with stone defenses directly over the burnt destruction layers.",
+        "search": "roman london wall ruins stone masonry photography",
+        "caption": "Roman engineers rebuild destroyed settlements with massive stone fortifications and infrastructure."
+      },
+      {
+        "narration": "To prevent future insurrections, Rome maintained a permanent garrison of nearly 40,000 legionaries and auxiliaries across southern and central Britain.",
+        "search": "roman auxiliary infantry helmet bronze artifact museum",
+        "caption": "Rome permanently garrisons 40,000 legionaries in Britain to guarantee imperial control."
+      },
+      {
+        "narration": "Beyond the catastrophic military body count, the destruction of three major urban hubs in 60 AD created an immediate financial crisis across the Western Roman Empire.",
+        "search": "ancient roman silver denarius coin collection museum photograph",
+        "caption": "Financial shockwaves rippled through Rome after the destruction of three major cities."
+      },
+      {
+        "narration": "The victory was further overshadowed by military dishonor when Poenius Postumus, commander of Legio II Augusta, fell upon his own sword after realizing his refusal to march had denied his men a share in the glory.",
+        "search": "roman centurion armor iron helmet museum exhibit display",
+        "caption": "Commander Poenius Postumus took his own life following his legion's refusal to fight."
+      },
+      {
+        "narration": "Seeking total retribution, Governor Suetonius Paulinus launched a scorched-earth campaign across tribal territories, burning crops and driving thousands of surviving Britons toward widespread famine.",
+        "search": "ancient roman legionary gladius sword weapon artifact engraving",
+        "caption": "Suetonius launched a ruthless scorched-earth campaign that triggered catastrophic famine."
+      },
+      {
+        "narration": "The brutal punitive measures alarmed Rome's newly appointed procurator, Gaius Julius Classicianus, who warned the imperial court that Suetonius's relentless cruelty would provoke a second unending provincial war.",
+        "search": "roman senator toga marble relief carving ancient sculpture",
+        "caption": "Procurator Classicianus warned Rome that Suetonius's brutality would provoke perpetual war."
+      },
+      {
+        "narration": "In late 61 AD, Emperor Nero dispatched his trusted imperial freedman Polyclitus with a massive military escort to inspect Britannia and resolve the escalating feud between governor and procurator.",
+        "search": "emperor nero marble bust statue museum display",
+        "caption": "Emperor Nero dispatched imperial investigator Polyclitus to inspect the fractured province in 61 AD."
+      },
+      {
+        "narration": "Following Polyclitus's report, Suetonius was quietly stripped of his governorship on a minor tactical pretext and replaced by Publius Petronius Turpilianus, who instituted a policy of strategic pacification.",
+        "search": "roman governor military general relief carving stone sculpture",
+        "caption": "Rome recalled Suetonius Paulinus and instituted a policy of strategic pacification."
+      },
+      {
+        "narration": "Though Roman administrative control was restored, the staggering losses forever halted Rome's planned military expansion westward into Ireland and northward past the Scottish borders.",
+        "search": "ancient roman map engraving Great Britain province empire",
+        "caption": "The rebellion permanently altered Rome's northern expansion strategy in Western Europe."
+      },
+      {
+        "narration": "Today, modern archaeologists in London, Colchester, and St Albans continue to uncover a distinct, thick red layer of oxidized burnt debris—the permanent physical footprint of Boudica's fiery vengeance.",
+        "search": "ancient roman ruins archaeological excavation site pottery artifacts",
+        "caption": "Modern excavations reveal a thick burnt red layer marking Boudica's destruction."
+      },
+      {
+        "narration": "Ten thousand Romans destroyed eighty thousand rebels in one afternoon.",
+        "search": "roman legion battlefield battle oil painting",
+        "caption": "10,000 Romans Crushed 80,000 Rebels in 60 AD"
+      },
+      {
+        "narration": "In 60 AD, Roman tax collectors annexed the Iceni Kingdom and publicly flogged Queen Boudica after the death of King Prasutagus.",
+        "search": "queen boudica statue london westminster",
+        "caption": "Roman Atrocities Ignited the Iceni Uprising in 60 AD"
+      },
+      {
+        "narration": "Enraged Celtic tribes torched Camulodunum, Londinium, and Verulamium, slaughtering over 70,000 Roman citizens and loyal allies.",
+        "search": "burning of ancient city oil painting historical",
+        "caption": "Over 70,000 Slayed as Roman Settlements Burned"
+      },
+      {
+        "narration": "Emperor Nero contemplated abandoning Britannia entirely as Governor Gaius Suetonius Paulinus rallied just 10,000 men from Legio XIV Gemina and Legio XX.",
+        "search": "emperor nero bust statue marble close up",
+        "caption": "Emperor Nero Considered Abandoning Roman Britain Entirely"
+      },
+      {
+        "narration": "Suetonius deliberately selected a narrow gorge backed by dense forest, forcing the massive rebel horde into a fatal bottleneck.",
+        "search": "gaius suetonius paulinus roman general illustration",
+        "caption": "Suetonius Chose a Narrow Gorge to Trap Rebels"
+      },
+      {
+        "narration": "Overconfident British warriors parked hundreds of heavy family supply wagons in a tight semicircle, unintentionally blocking their only route of retreat.",
+        "search": "celtic war chariot ancient engraving illustration",
+        "caption": "Rebel Supply Wagons Sealed Their Own Escape Route"
+      },
+      {
+        "narration": "Roman legionaries threw thousands of heavy armor-piercing pila before advancing in tight shield wedges into the jammed Celtic ranks.",
+        "search": "roman legionaries wedge formation shield battle engraving",
+        "caption": "Iron Roman Wedges Drove Rebels Into Panic"
+      },
+      {
+        "narration": "Trapped against their own wagons, 80,000 Britons perished compared to 400 Romans, forcing Boudica to consume poison and securing Roman Britain for 300 years.",
+        "search": "boudica poison death classic oil painting",
+        "caption": "Tacitus Recorded 80,000 Rebel Casualties at Watling Street"
+      },
+      {
+        "narration": "In 60 AD, 10,000 Roman legionaries annihilated Queen Boudica's 80,000-strong rebel army in a single tactical trap.",
+        "search": "queen boudica statue london engraving",
+        "caption": "10,000 Roman legionaries faced 80,000 Celtic warriors in 60 AD."
+      },
+      {
+        "narration": "Following the death of King Prasutagus in 60 AD, Roman officials publicly flogged Queen Boudica and brutalized her daughters, triggering an unstoppable Celtic revolt.",
+        "search": "ancient roman coin emperor nero gold bust",
+        "caption": "Roman outrage sparked Queen Boudica's brutal revolt across ancient Britain."
+      },
+      {
+        "narration": "The allied Iceni and Trinovantes tribes burned Camulodunum, Londinium, and Verulamium to the ground, massacring over 70,000 Roman citizens and allies.",
+        "search": "ancient roman britain map engraving",
+        "caption": "Rebel armies destroyed three major Roman cities, killing 70,000 people."
+      },
+      {
+        "narration": "Governor Gaius Suetonius Paulinus gathered just 10,000 men from Legio XIV Gemina and Legio XX, positioning them in a narrow, forest-bordered gorge along Watling Street.",
+        "search": "suetonius paulinus roman general statue illustration",
+        "caption": "Governor Suetonius selected a narrow gorge to negate enemy numbers."
+      },
+      {
+        "narration": "Confident of victory, the Britons positioned a massive ring of supply wagons directly behind their lines so their families could spectate the slaughter.",
+        "search": "celtic war chariot ancient engraving",
+        "caption": "The Britons encircled their rear with heavy supply wagons."
+      },
+      {
+        "narration": "As the compressed British horde charged into the bottleneck, Roman legionaries unleashed heavy armor-piercing pila javelins before advancing in tight shield wedges.",
+        "search": "roman legionary pilum shield wedge illustration",
+        "caption": "Roman volley shattered the charge before legionaries advanced in wedges."
+      },
+      {
+        "narration": "Roman auxiliary cavalry broke out on the flanks, driving panicked Celtic warriors back into the impassable wall of their own parked wagons.",
+        "search": "roman auxiliary cavalry battle illustration",
+        "caption": "Retreating Celtic warriors collapsed against their own impassable wagon ring."
+      },
+      {
+        "narration": "Tacitus recorded 80,000 British casualties against roughly 400 Romans, forcing Boudica to poison herself and securing Roman control of Britain for three centuries.",
+        "search": "tacitus roman historian bust statue deaths",
+        "caption": "Tacitus recorded 80,000 rebel deaths, cementing Roman rule for 300 years."
+      },
+      {
+        "narration": "In AD 61, the brutal outcome at Watling Street crushed native Celtic resistance and permanently secured Rome's imperial foothold in Britannia.",
+        "search": "ancient Roman battle map engraving",
+        "caption": "Watling Street, AD 61: The decisive battle for Roman Britain"
+      },
+      {
+        "narration": "Prior to the clash, Queen Boudica's combined forces had burned Camulodunum, Londinium, and Verulamium, slaughtering over 70,000 Roman citizens and loyal allies.",
+        "search": "burning of Londinium ancient Roman illustration",
+        "caption": "Over 70,000 Roman citizens perished in flames"
+      },
+      {
+        "narration": "Emperor Nero seriously considered withdrawing from the island entirely until Governor Gaius Suetonius Paulinus gambled everything on a single tactical engagement.",
+        "search": "Gaius Suetonius Paulinus Roman general sculpture bust",
+        "caption": "Suetonius Paulinus risked the empire on 10,000 legionaries"
+      },
+      {
+        "narration": "By choosing a narrow defile backed by dense forest, Suetonius funneled the vast British horde into a bottleneck, rendering their overwhelming numbers useless.",
+        "search": "Roman legionaries in wedge formation tactical illustration",
+        "caption": "Dense woodland eliminated the vast Celtic numerical advantage"
+      },
+      {
+        "narration": "Overconfident in their numbers, the Britons parked their heavy baggage wagons in a massive arc behind their lines so their families could watch the slaughter.",
+        "search": "ancient British war chariot and baggage wagons historical illustration",
+        "caption": "Spectator baggage wagons became a fatal dead-end wall"
+      },
+      {
+        "narration": "When the Roman legionaries locked shields and advanced in tight wedges, fleeing warriors were hurled backward directly into their own impassable wagon barricade.",
+        "search": "Battle of Watling Street Roman legionaries fighting oil painting",
+        "caption": "Fleeing warriors were trapped and trampled against wagons"
+      },
+      {
+        "narration": "Roman chronicler Tacitus recorded 80,000 British casualties against roughly 400 Roman fallen, leading Queen Boudica to drink poison to escape capture.",
+        "search": "Queen Boudica statue bronze close up",
+        "caption": "Boudica consumed poison rather than face Roman captivity"
+      },
+      {
+        "narration": "The catastrophic trap destroyed the rebellion completely, returning Britain to Roman control for three centuries and proving that tactical arrogance destroyed Boudica's army.",
+        "search": "ancient Roman ruin in Britain oil painting",
+        "caption": "Roman rule secured for 300 years after Watling Street"
+      },
+      {
+        "narration": "How did 10,000 Romans slaughter 80,000 British rebels? In 61 AD, Queen Boudica’s own supply wagons turned her battle line into an inescapable trap.",
+        "search": "boudica statue london portrait",
+        "caption": "How 10,000 Romans annihilated 80,000 rebels."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-30T19:00:37.883438+00:00",
+    "updated_at": "2026-10-30T19:37:30.868596+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-30T19:19:04.015478+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3491 chars",
+        "at": "2026-10-30T19:20:01.854322+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "212.0s en-US-GuyNeural 36 cau",
+        "at": "2026-10-30T19:20:28.434744+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-30T19:20:35.167173+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-30T19:30:31.257993+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-30T19:30:31.350706+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 212.0s 151657292 bytes",
+        "at": "2026-10-30T19:37:30.394931+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-10-30T19:37:30.580176+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-30T19:37:30.868575+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38143378/pexels-photo-38143378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/823760/pexels-photo-823760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9817497/pexels-photo-9817497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39607229/pexels-photo-39607229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13458292/pexels-photo-13458292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20371109/pexels-photo-20371109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19866644/pexels-photo-19866644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143372/pexels-photo-38143372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17428881/pexels-photo-17428881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37556159/pexels-photo-37556159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32715002/pexels-photo-32715002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27893420/pexels-photo-27893420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33260578/pexels-photo-33260578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31049355/pexels-photo-31049355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6068216/pexels-photo-6068216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732750/pexels-photo-34732750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38087250/pexels-photo-38087250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7186550/pexels-photo-7186550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32618363/pexels-photo-32618363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130609/pexels-photo-11130609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31839043/pexels-photo-31839043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838611/pexels-photo-20838611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494903/pexels-photo-9494903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268883/pexels-photo-9268883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31912246/pexels-photo-31912246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30284413/pexels-photo-30284413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14619626/pexels-photo-14619626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9155534/pexels-photo-9155534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809272/pexels-photo-19809272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30284541/pexels-photo-30284541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33880366/pexels-photo-33880366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240430/pexels-photo-36240430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32866100/pexels-photo-32866100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32165113/pexels-photo-32165113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33152331/pexels-photo-33152331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37087936/pexels-photo-37087936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5587499/pexels-photo-5587499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15364730/pexels-photo-15364730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26654742/pexels-photo-26654742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39039648/pexels-photo-39039648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8363050/pexels-photo-8363050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20563271/pexels-photo-20563271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35442480/pexels-photo-35442480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36121562/pexels-photo-36121562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243711/pexels-photo-13243711.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19047968/pexels-photo-19047968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350047/pexels-photo-31350047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17970851/pexels-photo-17970851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37853091/pexels-photo-37853091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261389/pexels-photo-36261389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37853089/pexels-photo-37853089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16664193/pexels-photo-16664193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416990/pexels-photo-18416990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16470397/pexels-photo-16470397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31816121/pexels-photo-31816121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319275/pexels-photo-29319275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14536954/pexels-photo-14536954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14754619/pexels-photo-14754619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17694429/pexels-photo-17694429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17977130/pexels-photo-17977130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27613547/pexels-photo-27613547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18111420/pexels-photo-18111420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38182659/pexels-photo-38182659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29818065/pexels-photo-29818065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28843511/pexels-photo-28843511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7533633/pexels-photo-7533633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141661/pexels-photo-38141661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24828635/pexels-photo-24828635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8458924/pexels-photo-8458924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27221822/pexels-photo-27221822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9667105/pexels-photo-9667105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15826835/pexels-photo-15826835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35316794/pexels-photo-35316794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5903495/pexels-photo-5903495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397790/pexels-photo-16397790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33661329/pexels-photo-33661329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29546159/pexels-photo-29546159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40071934/pexels-photo-40071934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1dbc912ff4",
     "kind": "short",
     "channel": "Channel3",
