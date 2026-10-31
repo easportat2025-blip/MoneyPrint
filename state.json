@@ -1,5 +1,162 @@
 [
   {
+    "id": "51f05128d0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Ruler Quit to Grow Cabbages",
+    "idea": {
+      "title": "Why Rome's Ruler Quit to Grow Cabbages",
+      "hook": "In 305 AD, the most absolute ruler on Earth gave away the Roman Empire—just to plant cabbages in the dirt.",
+      "beats": [
+        "Emperor Diocletian spent 21 years ending Rome's near-fatal Crisis of the Third Century, restoring absolute order to a fracturing empire.",
+        "At the absolute peak of his authority, he shocked the ancient world by voluntarily abdicating his throne and retiring to the Dalmatian coast.",
+        "Years later, when civil war re-erupted, panicked Roman senators begged Diocletian to take back the purple mantle and restore peace.",
+        "Diocletian sent a legendary refusal: 'If you could see the cabbages I planted with my own hands, you would never ask me to rule again.'"
+      ],
+      "keywords": [
+        "Diocletian Roman Emperor bust",
+        "Roman Empire ancient map",
+        "Palace of Diocletian Split engraving",
+        "Roman senators oil painting",
+        "Ancient Roman imperial coin"
+      ],
+      "tags": [
+        "history",
+        "romanempire",
+        "diocletian",
+        "ancientrome",
+        "historyshorts",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman emperor quit absolute power to farm cabbages.",
+        "search": "Diocletian marble bust statue Roman Emperor",
+        "caption": "Why did Rome's supreme ruler willingly surrender power?"
+      },
+      {
+        "narration": "In 284 AD, Rome was disintegrating under fifty years of continuous civil war and barbarian invasions.",
+        "search": "Roman battle against barbarians ancient relief carving",
+        "caption": "In 284 AD, fifty years of chaos nearly destroyed Rome."
+      },
+      {
+        "narration": "A lowborn soldier named Diocletian seized the throne and overhauled the empire's military and administrative machinery.",
+        "search": "Diocletian bronze Roman imperial coin portrait",
+        "caption": "Emperor Diocletian radically restructured the fractured Roman Empire."
+      },
+      {
+        "narration": "To enforce lasting order, he instituted the Tetrarchy, dividing command among four rulers under his supreme guidance.",
+        "search": "The Tetrarchs porphyry sculpture Venice",
+        "caption": "Diocletian established the Tetrarchy to govern four imperial zones."
+      },
+      {
+        "narration": "By 305 AD, Diocletian held absolute, unrivaled control over millions of subjects across three continents.",
+        "search": "Roman Empire ancient map engraving",
+        "caption": "By 305 AD, Diocletian held undisputed control of Rome."
+      },
+      {
+        "narration": "Then on May first of that year, he gathered his legions and performed an unprecedented act.",
+        "search": "Roman Emperor addressing legions oil painting",
+        "caption": "On May 1, 305 AD, he shocked the legions."
+      },
+      {
+        "narration": "Diocletian stripped off his imperial purple mantle and became the first Roman emperor to voluntarily abdicate.",
+        "search": "Roman imperial regalia ceremonial oil painting",
+        "caption": "Diocletian became the first emperor to voluntarily resign the throne."
+      },
+      {
+        "narration": "He vanished to the Dalmatian coast, leaving the empire without its primary architect as rival successors mobilized.",
+        "search": "Diocletian Palace Split Croatia 18th century architectural engraving",
+        "caption": "He retreated to a fortress palace while rivals mobilized."
+      },
+      {
+        "narration": "By 308 AD, the tetrarchy had collapsed into civil war, prompting desperate Roman leaders to convene at Carnuntum and plead for Diocletian to take back power.",
+        "search": "Roman senators pleading oil painting",
+        "caption": "In 308 AD, Rome collapsed into civil war without him."
+      },
+      {
+        "narration": "When former co-emperor Maximian urged him to reclaim the imperial purple mantle, Diocletian flatly refused to touch the crown.",
+        "search": "Emperor Maximian ancient Roman coin portrait",
+        "caption": "Maximian urged Diocletian to retake absolute imperial control."
+      },
+      {
+        "narration": "Diocletian famously answered that if they could see the cabbages he planted with his own hands, they would never ask him to rule again.",
+        "search": "Diocletian Roman Emperor marble bust statue",
+        "caption": "He chose growing cabbages over ruling the Roman Empire."
+      },
+      {
+        "narration": "Why did Rome's all-powerful emperor quit to grow cabbages?",
+        "search": "Diocletian Roman Emperor bust statue",
+        "caption": "Why Rome's absolute emperor abandoned his throne to farm cabbages."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T06:55:01.769238+00:00",
+    "updated_at": "2026-10-31T07:10:06.910128+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-31T07:00:32.419889+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "386 chars (cat 156 de vua 55s)",
+        "at": "2026-10-31T07:02:25.266574+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.6s en-US-GuyNeural 6 cau",
+        "at": "2026-10-31T07:02:28.053604+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T07:02:29.095652+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-31T07:09:16.426492+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T07:09:16.526614+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.6s 16767427 bytes",
+        "at": "2026-10-31T07:10:06.533299+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T07:10:06.910108+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38041933/pexels-photo-38041933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3943725/pexels-photo-3943725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9773804/pexels-photo-9773804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839690/pexels-photo-35839690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861652/pexels-photo-37861652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39178637/pexels-photo-39178637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37173155/pexels-photo-37173155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397798/pexels-photo-16397798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33611525/pexels-photo-33611525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18525362/pexels-photo-18525362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "37d012431a",
     "kind": "short",
     "channel": "Channel3",
