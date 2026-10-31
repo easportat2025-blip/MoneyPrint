@@ -1,5 +1,162 @@
 [
   {
+    "id": "9877512a76",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Warships Traveled Overland to Crush Rome",
+    "idea": {
+      "title": "How Warships Traveled Overland to Crush Rome",
+      "hook": "In 1453, Sultan Mehmed II did the unthinkable: he hauled 70 massive warships over a mountain to bypass Rome's unbreakable iron chain.",
+      "beats": [
+        "Constantinople's harbor was defended by a colossal floating iron chain that blocked any enemy fleet from entering the Golden Horn.",
+        "Unable to break the barrier, Mehmed ordered thousands of men to construct a two-mile road of greased timber logs over Galata Hill overnight.",
+        "At dawn, Byzantine defenders watched in terror as an entire Ottoman fleet emerged inside their protected bay, sailing right behind their sea walls.",
+        "This impossible amphibious flanking maneuver shattered Byzantine morale and sealed the fall of the Byzantine Empire."
+      ],
+      "keywords": [
+        "Sultan Mehmed II",
+        "Siege of Constantinople 1453",
+        "Ottoman ships overland",
+        "Golden Horn chain",
+        "Byzantine Empire map"
+      ],
+      "tags": [
+        "Constantinople",
+        "Mehmed II",
+        "Ottoman Empire",
+        "Byzantine Empire",
+        "Military History",
+        "Ancient Empires"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Seventy warships crossed a mountain to destroy an empire.",
+        "search": "siege of constantinople 1453 oil painting",
+        "caption": "Seventy warships crossed a mountain to destroy an empire."
+      },
+      {
+        "narration": "In April 1453, the Roman Empire made its desperate final stand behind the walls of Constantinople.",
+        "search": "byzantine constantinople theodosian walls engraving",
+        "caption": "April 1453: Rome's final stand behind the Theodosian Walls."
+      },
+      {
+        "narration": "Byzantine Emperor Constantine XI counted on a single geographical advantage to protect his vulnerable northern flank.",
+        "search": "emperor constantine xi byzantine coin portrait",
+        "caption": "Emperor Constantine XI relied on one impenetrable harbor defense."
+      },
+      {
+        "narration": "A colossal floating iron chain stretched across the Golden Horn, completely locking out foreign navies.",
+        "search": "golden horn boom chain constantinople engraving",
+        "caption": "A massive forged iron chain blocked the Golden Horn harbor."
+      },
+      {
+        "narration": "Repeated Ottoman naval assaults broke against the barrier, leaving Byzantine supply lines open and morale intact.",
+        "search": "ottoman naval battle galleys 15th century manuscript",
+        "caption": "Byzantine defenses repelled every Ottoman attack by water."
+      },
+      {
+        "narration": "Refusing defeat, twenty-one-year-old Sultan Mehmed II devised a radical amphibious flanking operation.",
+        "search": "sultan mehmed ii gentile bellini portrait painting",
+        "caption": "Sultan Mehmed II planned an unprecedented military gamble."
+      },
+      {
+        "narration": "Mehmed ordered thousands of engineers to secretly construct a two-mile road over the steep ridge of Galata.",
+        "search": "galata hill constantinople 15th century map engraving",
+        "caption": "Ottoman engineers secretly surveyed a route over Galata Hill."
+      },
+      {
+        "narration": "Workers layered the track with thick timber logs and coated them in animal fat to pull warships overland.",
+        "search": "ottoman ships moved overland 1453 oil painting",
+        "caption": "Greased timber logs prepared to drag heavy galleys uphill."
+      },
+      {
+        "narration": "Over the night of April 21, 1453, teams of oxen and hundreds of soldiers hauled seventy Ottoman galleys over the two-hundred-foot ridge under cover of darkness.",
+        "search": "ottoman ships dragged overland golden horn oil painting",
+        "caption": "Overnight, seventy warships were hauled over the ridge."
+      },
+      {
+        "narration": "At dawn, Byzantine defenders on the sea walls watched in horror as an entire enemy fleet suddenly appeared inside the sealed Golden Horn.",
+        "search": "siege of constantinople 1453 golden horn ships historical engraving",
+        "caption": "At dawn, the Ottoman fleet sailed behind Byzantine defenses."
+      },
+      {
+        "narration": "Forced to divert dwindling defenders to the inner harbor walls, Constantinople fell on May 29, 1453, ending over eleven centuries of Roman imperial rule.",
+        "search": "fall of constantinople 1453 mehmed ii oil painting",
+        "caption": "Constantinople fell on May 29, 1453, ending the Roman Empire."
+      },
+      {
+        "narration": "Warships once climbed a mountain to conquer Rome.",
+        "search": "siege of constantinople 1453 oil painting",
+        "caption": "Warships once crossed a mountain to crush an empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T20:38:39.863414+00:00",
+    "updated_at": "2026-10-31T20:45:58.740250+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-31T20:40:27.800414+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 69 de vua 55s)",
+        "at": "2026-10-31T20:42:11.578104+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.8s en-US-GuyNeural 6 cau",
+        "at": "2026-10-31T20:42:16.791252+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T20:42:17.827610+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-31T20:45:07.829326+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T20:45:07.927396+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.8s 14875405 bytes",
+        "at": "2026-10-31T20:45:58.378835+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T20:45:58.740235+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909116/pexels-photo-13909116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20469604/pexels-photo-20469604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11591539/pexels-photo-11591539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11280251/pexels-photo-11280251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13276221/pexels-photo-13276221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17155318/pexels-photo-17155318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31114245/pexels-photo-31114245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8384754/pexels-photo-8384754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15212079/pexels-photo-15212079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33492425/pexels-photo-33492425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876294/pexels-photo-35876294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6932220/pexels-photo-6932220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c89960f205",
     "kind": "short",
     "channel": "Channel3",
