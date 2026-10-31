@@ -1,5 +1,599 @@
 [
   {
+    "id": "3d5c2be5a9",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Coward Behind the Curtain Who Conquered Rome",
+    "idea": {
+      "title": "The Coward Behind the Curtain Who Conquered Rome",
+      "hook": "In 41 AD, Roman guards slaughtering the imperial family ripped back a palace curtain—and found a crippled nobleman shaking in terror, moments away from changing history forever.",
+      "beats": [
+        "January 41 AD: The tyrant Caligula is butchered in an underground palace corridor by his own Praetorian Guard, throwing the Palatine Hill into savage pandemonium.",
+        "As vindictive soldiers hack through Caligula's wife and infant child, palace nobles flee for their lives from the blind military purge.",
+        "Introduce Claudius: fifty years old, plagued by a severe limp, nervous tremors, and a stammer, publicly shunned and dismissed as a brainless invalid by Augustus and Livia.",
+        "For decades Claudius survived the deadly Julio-Claudian dynastic purges by playing the harmless, bookish idiot absorbed in Etruscan history.",
+        "Hearing screams echoing through the imperial corridors, a terrified Claudius slips into an isolated sunroom and conceals himself behind heavy window drapes.",
+        "A roaming Praetorian guardsman named Gratus spots two trembling feet protruding beneath the hem of the curtain and wrenches the cloth aside.",
+        "Claudius drops to his knees weeping, desperately begging for his life in anticipation of a cold blade through his throat.",
+        "Instead of executing him, Gratus recognizes Germanicus's brother and kneels, hailing the petrified invalid as 'Imperator'—realizing a puppet prince secures Praetorian livelihoods.",
+        "The soldiers hoist Claudius onto an imperial litter and march him into their fortified camp while the Senate gathers frantically to declare the restoration of the Republic.",
+        "A tense standoff ensues until Jewish King Herod Agrippa mediates, persuading the divided Senate that an armed Praetorian army backing Claudius cannot be opposed.",
+        "Claudius promises each Praetorian soldier 15,000 sesterces, sealing the throne and creating the dark precedent that the Roman sword, not the Senate, creates the Emperor.",
+        "Defying all expectations of stupidity, Claudius outmaneuvers his rivals, builds monumental ports and aqueducts, and launches the legendary Roman conquest of Britannia."
+      ],
+      "keywords": [
+        "Emperor Claudius",
+        "Roman Empire documentary",
+        "Caligula assassination",
+        "Praetorian Guard",
+        "Ancient Rome history",
+        "Conquest of Britain",
+        "Julio-Claudian dynasty",
+        "Roman emperors",
+        "Claudius curtain",
+        "Ancient civilizations"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Emperor Claudius",
+        "Roman Empire",
+        "Caligula",
+        "Praetorian Guard",
+        "Roman History",
+        "History Documentary",
+        "Roman Emperors",
+        "Conquest of Britannia",
+        "Julio Claudian"
+      ],
+      "kind": "long",
+      "thumbnail_text": "BEGGED FOR LIFE, MADE CAESAR"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's greatest conqueror was crowned hiding behind a curtain.",
+        "search": "emperor claudius marble bust statue",
+        "caption": "Rome's unlikely conqueror was discovered behind palace drapes."
+      },
+      {
+        "narration": "On January 24, 41 AD, Praetorian officers assassinated Emperor Caligula in a subterranean passage beneath the Palatine Palace.",
+        "search": "assassination of caligula oil painting",
+        "caption": "January 41 AD: Praetorian conspirators assassinate Emperor Caligula."
+      },
+      {
+        "narration": "Bloodshed quickly spilled into the private imperial quarters as soldiers slaughtered Caligula's wife Caesonia and their infant daughter.",
+        "search": "palatine hill imperial palace ruins engraving",
+        "caption": "Praetorian soldiers purge the imperial household on Palatine Hill."
+      },
+      {
+        "narration": "Fifty-year-old Claudius, afflicted with tremors and a pronounced limp, had survived decades of Julio-Claudian dynastic purges by feigning harmless incompetence.",
+        "search": "emperor claudius bronze coin portrait",
+        "caption": "Claudius survived decades of lethal dynastic purges by playing harmless."
+      },
+      {
+        "narration": "Terrified by the sounds of slaughter echoing through the corridors, Claudius fled to an isolated terrace room and concealed himself behind heavy drapes.",
+        "search": "proclaiming claudius emperor oil painting lawrence alma tadema",
+        "caption": "Claudius conceals himself behind palace drapes as soldiers approach."
+      },
+      {
+        "narration": "A prowling Praetorian guardsman named Gratus noticed exposed feet beneath the fabric and hauled back the curtain to expose the trembling nobleman.",
+        "search": "praetorian guard ancient roman relief sculpture",
+        "caption": "Praetorian soldier Gratus discovers Claudius trembling behind the drapery."
+      },
+      {
+        "narration": "Expecting immediate execution, Claudius dropped to his knees, but the guardsman recognized Germanicus's brother and saluted him as Caesar.",
+        "search": "germanicus marble bust statue roman empire",
+        "caption": "Rather than execution, the guard salutes Claudius as Imperator."
+      },
+      {
+        "narration": "Soldiers hoisted Claudius onto a litter toward their fortified camp, while the Roman Senate mobilized to abolish the monarchy and restore the Republic.",
+        "search": "roman senate curia julia antique engraving",
+        "caption": "The Senate mobilizes to restore the Republic against the army."
+      },
+      {
+        "narration": "Inside the Temple of Jupiter, Senators gathered in January 41 AD to declare the end of imperial tyranny and the restoration of the Roman Republic.",
+        "search": "roman senate assembly historical engraving",
+        "caption": "Senate meets in 41 AD to restore the Roman Republic."
+      },
+      {
+        "narration": "Yet the Praetorian Guard refused to yield power to the Senate, knowing a restored republic would strip them of their imperial privileges and pay.",
+        "search": "praetorian guard roman soldier relief sculpture",
+        "caption": "Praetorian Guard refuses to surrender power to the Senate."
+      },
+      {
+        "narration": "King Herod Agrippa of Judea acted as a secret mediator, warning the hesitant Senate that thousands of armed guardsmen were ready to march for Claudius.",
+        "search": "herod agrippa coin ancient illustration",
+        "caption": "King Herod Agrippa mediates the dangerous political standoff."
+      },
+      {
+        "narration": "Claudius secured his throne by promising fifteen thousand sesterces to every Praetorian soldier, establishing a lethal precedent where gold bought the Roman crown.",
+        "search": "ancient roman sestertius coin close up",
+        "caption": "Claudius promises 15,000 sesterces per soldier to buy loyalties."
+      },
+      {
+        "narration": "Once installed in the Palatine Palace, the supposedly feeble Claudius immediately executed Caligula’s murderers to enforce absolute imperial control.",
+        "search": "palatine hill rome ruins ancient engraving",
+        "caption": "Claudius executes Caligula's assassins to consolidate sole authority."
+      },
+      {
+        "narration": "In 43 AD, Claudius launched forty thousand legionaries across the sea to conquer Britannia, achieving a victory that had eluded Julius Caesar.",
+        "search": "roman legionaries marching historical engraving",
+        "caption": "In 43 AD, Claudius launches the invasion of Britannia."
+      },
+      {
+        "narration": "He transformed Rome's infrastructure by constructing the monumental Aqua Claudia aqueduct and expanding the vital deep-water harbor at Ostia Portus.",
+        "search": "aqua claudia aqueduct rome vintage engraving",
+        "caption": "Claudius builds monumental aqueducts and expands Ostia's port."
+      },
+      {
+        "narration": "The terrified nobleman discovered behind a palace curtain in 41 AD governed Rome for thirteen years as one of its most capable emperors.",
+        "search": "emperor claudius marble bust statue hidden",
+        "caption": "The hidden coward ruled effectively as Emperor for thirteen years."
+      },
+      {
+        "narration": "Despite his monumental public works, Emperor Claudius faced constant senatorial hostility from aristocrats who viewed him as a military usurper.",
+        "search": "emperor claudius marble bust statue senatorial",
+        "caption": "Senatorial hostility threatened Claudius's rule from 41 AD onward"
+      },
+      {
+        "narration": "In 42 AD, Governor Lucius Arruntius Camillus Scribonianus launched a major rebellion in Dalmatia to restore the Roman Republic.",
+        "search": "ancient roman legionaries relief sculpture",
+        "caption": "Dalmatian rebellion of 42 AD tested the emperor's authority"
+      },
+      {
+        "narration": "To secure his military reputation, Claudius dispatched four legions under General Aulus Plautius to invade Britannia in 43 AD.",
+        "search": "roman army invasion britain 19th century engraving",
+        "caption": "In 43 AD Claudius launched the Roman invasion of Britannia"
+      },
+      {
+        "narration": "Claudius personally crossed the English Channel with war elephants, receiving the surrender of eleven British chieftains at Camulodunum.",
+        "search": "emperor claudius triumph Roman coin denarius",
+        "caption": "Eleven British chieftains surrendered to Emperor Claudius"
+      },
+      {
+        "narration": "Domestic crisis erupted in 48 AD when Empress Valeria Messalina conducted a treasonous secret marriage with Senator Gaius Silius.",
+        "search": "valeria messalina marble bust statue",
+        "caption": "Empress Messalina conspired to overthrow Claudius in 48 AD"
+      },
+      {
+        "narration": "Imperial freedman Narcissus exposed the treasonous plot and ordered Messalina's execution before Claudius could issue a official pardon.",
+        "search": "palatine hill imperial palace ruins photo",
+        "caption": "Imperial freedman Narcissus executed Messalina to preserve the emperor"
+      },
+      {
+        "narration": "In 49 AD, Claudius married his ambitious niece Agrippina the Younger, who maneuvered her son Nero ahead of his biological heir Britannicus.",
+        "search": "agrippina the younger marble bust statue",
+        "caption": "Agrippina married Claudius in 49 AD to elevate Nero"
+      },
+      {
+        "narration": "On October 13, 54 AD, Claudius died after eating poisoned mushrooms, ending the reign of the emperor discovered behind a curtain.",
+        "search": "death of emperor claudius 19th century oil painting",
+        "caption": "Claudius died of poison on October 13 54 AD"
+      },
+      {
+        "narration": "A mocked invalid hid behind a palace curtain and accidentally became Rome's most unexpected conqueror.",
+        "search": "emperor claudius hiding behind curtain oil painting",
+        "caption": "Rome's most unexpected conqueror began his reign behind a curtain."
+      },
+      {
+        "narration": "On January 24, 41 AD, Emperor Caligula was assassinated in an underground corridor on the Palatine Hill by his own guards.",
+        "search": "caligula assassination oil painting",
+        "caption": "On January 24, 41 AD, Caligula was killed in Rome."
+      },
+      {
+        "narration": "As vindictive Praetorian soldiers swept through the palace executing Caligula's family, panic engulfed the Roman nobility.",
+        "search": "praetorian guard roman relief sculpture",
+        "caption": "Praetorian soldiers executed the imperial family during the rampage."
+      },
+      {
+        "narration": "Fifty-year-old Claudius had spent decades avoiding dynastic purges by playing a harmless, bookish eccentric plagued by tremors.",
+        "search": "emperor claudius marble bust statue eccentric",
+        "caption": "Claudius survived decades of purges by playing a harmless eccentric."
+      },
+      {
+        "narration": "Hearing screams echo through the palace halls, Claudius fled to an isolated sunroom and cowered behind a heavy window drape.",
+        "search": "ancient roman palace interior illustration",
+        "caption": "Claudius hid in an isolated sunroom behind palace drapes."
+      },
+      {
+        "narration": "A Praetorian guard named Gratus spotted trembling feet beneath the fabric, pulled back the drape, and knelt to hail Claudius as emperor.",
+        "search": "gratus hailing claudius emperor engraving",
+        "caption": "Guard Gratus discovered Claudius and unexpectedly hailed him emperor."
+      },
+      {
+        "narration": "While the Senate frantically debated restoring the Roman Republic, Claudius promised 15,000 sesterces to each Praetorian soldier to secure their allegiance.",
+        "search": "ancient roman senate meeting oil painting",
+        "caption": "Claudius bribed the Praetorian Guard with 15,000 sesterces per man."
+      },
+      {
+        "narration": "Proving his detractors wrong, Emperor Claudius stabilized Roman administration and launched the historic invasion of Britain in 43 AD.",
+        "search": "roman conquest of britain oil painting",
+        "caption": "Emperor Claudius successfully ordered the Roman invasion of Britain in 43 AD."
+      },
+      {
+        "narration": "In 43 AD, General Aulus Plautius led four Roman legions across the Channel, encountering fierce resistance along the River Medway.",
+        "search": "Roman legions invasion of Britain engraving",
+        "caption": "Roman legions cross the English Channel under General Aulus Plautius in 43 AD."
+      },
+      {
+        "narration": "Claudius arrived in Britain with war elephants, capturing the Celtic stronghold at Camulodunum and securing the surrender of eleven kings.",
+        "search": "Emperor Claudius triumph Roman coin",
+        "caption": "Claudius captures Camulodunum and receives the submission of eleven British kings."
+      },
+      {
+        "narration": "Returning to Rome in 44 AD to celebrate an official triumph, the emperor bestowed the honorary name Britannicus upon his infant son.",
+        "search": "Britannicus bust statue Roman",
+        "caption": "The Senate awards Claudius a full military triumph and names his son Britannicus."
+      },
+      {
+        "narration": "Claudius addressed Rome's chronic grain shortages by constructing a massive deepwater harbor at Ostia beginning in 42 AD.",
+        "search": "Port of Claudius Ostia ancient map engraving",
+        "caption": "Claudius constructs the deepwater Portus harbor at Ostia to secure grain supplies."
+      },
+      {
+        "narration": "The emperor centralized civil administration by placing imperial freedmen Narcissus and Pallas in charge of state departments.",
+        "search": "Roman patricians and freedmen marble relief",
+        "caption": "Imperial freedmen Narcissus and Pallas assume control over Roman state administration."
+      },
+      {
+        "narration": "Senatorial fury over disenfranchisement led to multiple conspiracies, resulting in the execution of thirty-five senators during Claudius's reign.",
+        "search": "Roman Senate debate 19th century oil painting",
+        "caption": "Rising senatorial conspiracies prompt dozens of patrician executions under Claudius."
+      },
+      {
+        "narration": "In 48 AD, Empress Valeria Messalina staged a public marriage with senator Gaius Silius, threatening an armed takeover of the throne.",
+        "search": "Valeria Messalina marble bust statue valeria",
+        "caption": "Empress Valeria Messalina schemes with Gaius Silius to usurp the imperial throne."
+      },
+      {
+        "narration": "The imperial freedman Narcissus bypassed the emperor and dispatched Praetorian soldiers to execute Messalina in the Gardens of Lucullus.",
+        "search": "Death of Messalina historic oil painting",
+        "caption": "Freedman Narcissus orders Messalina's execution to crush the palace coup."
+      },
+      {
+        "narration": "In 49 AD, a desperate Claudius sought a new empress to secure his dynasty, setting his sights on his ambitious niece Agrippina the Younger.",
+        "search": "Agrippina the Younger roman coin profile",
+        "caption": "Claudius selects Agrippina for marriage."
+      },
+      {
+        "narration": "The Roman Senate hastily changed traditional laws against incestuous marriage to legalize the union between uncle and niece.",
+        "search": "roman senate interior marble relief sculpture",
+        "caption": "Senate legalizes imperial incest."
+      },
+      {
+        "narration": "Agrippina immediately sidelined Claudius's biological son Britannicus to position her own teenage son Lucius Domitius Ahenobarbus as heir.",
+        "search": "Emperor Nero ancient marble bust statue",
+        "caption": "Agrippina positions Nero for succession."
+      },
+      {
+        "narration": "Renamed Nero, the young prince received rigorous tutoring from the philosopher Seneca the Younger, paid for by the imperial treasury.",
+        "search": "Seneca philosopher roman marble portrait bust",
+        "caption": "Seneca tutors the future emperor."
+      },
+      {
+        "narration": "By 54 AD, Agrippina realized Claudius intended to restore Britannicus to his rightful place as primary heir to the empire.",
+        "search": "ancient roman palace interior fresco painting",
+        "caption": "Agrippina faces a succession crisis."
+      },
+      {
+        "narration": "According to contemporary historians like Tacitus and Suetonius, Agrippina conspired to murder the emperor using a dish of poisoned mushrooms.",
+        "search": "poisonous mushrooms botanical illustration vintage plate",
+        "caption": "Agrippina introduces lethal mushrooms."
+      },
+      {
+        "narration": "On October 13, 54 AD, the poison failed to act swiftly enough, prompting the imperial doctor Xenophon to thrust a poisoned feather down Claudius's throat.",
+        "search": "ancient roman doctor surgical instruments artifact museum",
+        "caption": "The palace physician finishes the murder."
+      },
+      {
+        "narration": "With Claudius dead behind locked palace doors, Agrippina concealed the body until Nero was safely proclaimed emperor by the Praetorian Guard.",
+        "search": "Praetorian Guard roman legionary reenactor photography",
+        "caption": "The Praetorians crown Emperor Nero."
+      },
+      {
+        "narration": "Following Claudius's death in October 54 AD, the Senate officially deified him, while the philosopher Seneca secretly authored a brutal satire mocking the deceased emperor's physical frailties.",
+        "search": "seneca bust statue marble sculpture ancient rome",
+        "caption": "Seneca authored a vicious post-mortem satire mocking Claudius."
+      },
+      {
+        "narration": "Titled the Apocolocyntosis, Seneca's lampoon ridiculed Claudius's stammer and limp, attempting to undermine the legacy of a ruler who had repeatedly outsmarted his noble rivals.",
+        "search": "ancient roman manuscript text engraving",
+        "caption": "Imperial propaganda attempted to erase Claudius's administrative achievements."
+      },
+      {
+        "narration": "Young Emperor Nero halted construction on Claudius's massive deification temple on the Caelian Hill, attempting to divert imperial funds to his own lavish palace projects.",
+        "search": "temple of claudius Rome ruin engraving",
+        "caption": "Nero attempted to dismantle his predecessor's monumental legacy."
+      },
+      {
+        "narration": "Yet Nero could not dismantle the vast territorial gains Claudius had secured, most notably the invasion of Britannia launched in 43 AD under General Aulus Plautius.",
+        "search": "aulus plautius roman legion invasion of britain oil painting",
+        "caption": "Claudius's invasion of Britain in 43 AD reshaped Western Europe."
+      },
+      {
+        "narration": "At Camulodunum, modern-day Colchester, Roman colonists erected a colossal temple dedicated to the living god Claudius, alienating the local British tribes.",
+        "search": "temple of claudius colchester reconstruction illustration",
+        "caption": "A colossal temple to Claudius was built at Camulodunum."
+      },
+      {
+        "narration": "In 60 AD, Queen Boudica of the Iceni tribe rallied thousands of native warriors in a devastating revolt specifically targeting Claudius's imperial cult sanctuary.",
+        "search": "queen boudica iceni rebellion oil painting",
+        "caption": "Queen Boudica launched a revolt against Claudius's imperial sanctuary."
+      },
+      {
+        "narration": "Boudica's forces besieged the temple for two days before decapitating Claudius's bronze statue and burning the Roman stronghold to the ground.",
+        "search": "roman temple burning colchester oil painting",
+        "caption": "Insurgents destroyed Claudius's bronze imperial statue in 60 AD."
+      },
+      {
+        "narration": "Despite the destruction, Claudius's veteran legions ultimately crushed the rebellion, permanently embedding Roman law, language, and architecture into the British Isles.",
+        "search": "battle of watling street roman legions oil painting",
+        "caption": "Claudius's veteran legions permanently secured Roman rule in Britain."
+      },
+      {
+        "narration": "A curtain saved Claudius, but a mushroom destroyed him.",
+        "search": "emperor claudius marble bust statue domestic",
+        "caption": "Claudius survived purges only to face domestic betrayal."
+      },
+      {
+        "narration": "In 48 AD, Empress Valeria Messalina shocked Rome by orchestrating a public marriage to senator Gaius Silius while Claudius inspected the port at Ostia.",
+        "search": "valeria messalina portrait engraving",
+        "caption": "Empress Messalina conspired to usurp the throne in 48 AD."
+      },
+      {
+        "narration": "Alerted by his powerful freedman Narcissus, Claudius acted swiftly, ordering the immediate execution of Messalina and her aristocratic co-conspirators.",
+        "search": "ancient roman forum engraving",
+        "caption": "Narcissus exposed treason, triggering immediate executions in Rome."
+      },
+      {
+        "narration": "In 49 AD, Claudius secured a Senate dispensation to marry his ambitious niece, Agrippina the Younger, consolidating power within the Julio-Claudian bloodline.",
+        "search": "agrippina the younger marble bust statue younger",
+        "caption": "Claudius married Agrippina the Younger in 49 AD."
+      },
+      {
+        "narration": "Agrippina systematically maneuvered her imperial husband into adopting her teenage son Nero, positioning him ahead of Claudius's biological heir, Britannicus.",
+        "search": "emperor nero young bust statue",
+        "caption": "Nero was elevated above Claudius's biological son Britannicus."
+      },
+      {
+        "narration": "On October 13, 54 AD, the sixty-three-year-old emperor collapsed and died after consuming a dish of fatal wild mushrooms served at a palace banquet.",
+        "search": "ancient roman banquet illustration",
+        "caption": "Emperor Claudius died on October 13, 54 AD."
+      },
+      {
+        "narration": "Agrippina concealed his death until the Praetorian Guard officially secured the camp and proclaimed seventeen-year-old Nero as Rome's new supreme ruler.",
+        "search": "praetorian guard ancient roman coin",
+        "caption": "Nero seized power with Praetorian backing after Claudius died."
+      },
+      {
+        "narration": "The stuttering scholar who cowered behind a curtain in 41 AD left behind vast aqueducts, new harbors, and an expanded empire that stretched into Britain.",
+        "search": "aqua claudia aqueduct ancient rome engraving",
+        "caption": "Claudius transformed Roman infrastructure and expanded imperial territory."
+      },
+      {
+        "narration": "In 41 AD, Roman guards pulled back a curtain to find a trembling invalid—who then conquered Britain.",
+        "search": "Claudius Emperor marble bust statue",
+        "caption": "Rome's weakest nobleman became its most unlikely conqueror."
+      },
+      {
+        "narration": "Minutes earlier, Praetorian assassins butchered the tyrannical Emperor Caligula in an underground palace corridor on the Palatine Hill.",
+        "search": "Assassination of Caligula 41 AD Roman palace engraving",
+        "caption": "January 41 AD: Caligula murdered in the Palatine Palace."
+      },
+      {
+        "narration": "Dismissed as a brainless invalid due to his limp and stammer, fifty-year-old Claudius fled the bloodbath into an isolated sunroom.",
+        "search": "Ancient Roman silver denarius coin Claudius portrait",
+        "caption": "Claudius feigned foolishness for decades to survive fatal purges."
+      },
+      {
+        "narration": "Hearing screams in the hall, Claudius wrapped himself in window drapes until a guardsman named Gratus spotted his exposed feet.",
+        "search": "Claudius hidden behind curtain palace illustration painting",
+        "caption": "Guardsman Gratus discovered Claudius hiding behind palace window drapes."
+      },
+      {
+        "narration": "Expecting a cold blade, the petrified noble fell to his knees, but the guards acclaimed Germanicus's brother as Imperator to secure their salaries.",
+        "search": "Praetorian Guard Roman soldier marble relief sculpture",
+        "caption": "The Praetorian Guard acclaimed Claudius emperor to retain power."
+      },
+      {
+        "narration": "While the Senate gathered frantically to restore the Republic, soldiers marched Claudius to their camp with Jewish King Herod Agrippa mediating the crisis.",
+        "search": "Roman Senate assembly meeting Curia Julia engraving",
+        "caption": "The Senate debated restoring the Republic against armed legionaries."
+      },
+      {
+        "narration": "Claudius promised each Praetorian soldier 15,000 sesterces, establishing the dangerous rule that the Roman sword created emperors.",
+        "search": "Ancient Roman bronze sestertius coin museum artifact",
+        "caption": "Claudius paid 15,000 sesterces per soldier to secure throne."
+      },
+      {
+        "narration": "Defying all expectations of weakness, Emperor Claudius consolidated power, constructed monumental ports, and engineered the Roman conquest of Britannia.",
+        "search": "Roman invasion of Britain 43 AD map engraving",
+        "caption": "Emperor Claudius expanded Rome into Britannia in 43 AD."
+      },
+      {
+        "narration": "How did Rome’s most ridiculed invalid become its greatest conqueror? In January 41 AD, rebellious guards butchered Emperor Caligula and hunted down his bloodline inside the Palatine palace.",
+        "search": "emperor caligula assassination roman marble relief engraving",
+        "caption": "A murdered emperor leaves Rome in chaos."
+      },
+      {
+        "narration": "Fifty-year-old Claudius, long dismissed as a harmless fool due to his limp and stammer, slipped into a sunroom and hid behind heavy window drapes.",
+        "search": "claudius curtain hiding roman palace oil painting",
+        "caption": "The hidden invalid expects a fatal blade."
+      },
+      {
+        "narration": "When Praetorian guardsman Gratus pulled back the cloth, Claudius dropped to his knees begging for life, but the soldier knelt and hailed him Imperator.",
+        "search": "claudius proclaimed emperor praetorian guard engraving",
+        "caption": "A terrified noble is hailed emperor."
+      },
+      {
+        "narration": "While the Senate gathered frantically to restore the Republic, Jewish King Herod Agrippa persuaded them that opposing an armed Praetorian army was impossible.",
+        "search": "roman senate debate ancient map engraving",
+        "caption": "The Senate surrenders to military pressure."
+      },
+      {
+        "narration": "Claudius secured his throne by promising 15,000 sesterces to every guardsman, creating the dark precedent that the Roman sword created emperors.",
+        "search": "roman silver denarius coin claudius bust",
+        "caption": "The imperial throne bought with silver."
+      },
+      {
+        "narration": "Defying all expectations of stupidity, Emperor Claudius consolidated power, reorganized Roman administration, and constructed massive aqueducts and the new port at Ostia.",
+        "search": "aqua claudia aqueduct ancient rome engraving genius",
+        "caption": "An unexpected genius builds monumental infrastructure."
+      },
+      {
+        "narration": "In 43 AD, Claudius authorized and launched the full-scale Roman invasion of Britannia, achieving a conquest that had eluded Julius Caesar.",
+        "search": "roman army invasion britain historical oil painting",
+        "caption": "Rome conquers the wild island of Britannia."
+      },
+      {
+        "narration": "The cowering noble found shaking behind a curtain proved to be one of Rome's most effective rulers, demonstrating that empire was forged by hidden resilience.",
+        "search": "emperor claudius marble bust statue close up",
+        "caption": "The accidental emperor who transformed Roman history."
+      },
+      {
+        "narration": "How did Rome's most mocked outcast conquer an empire?",
+        "search": "Emperor Claudius marble bust statue close up",
+        "caption": "Rome's most mocked emperor"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T18:11:02.722198+00:00",
+    "updated_at": "2026-10-31T18:39:31.540214+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-10-31T18:21:48.599670+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4068 chars",
+        "at": "2026-10-31T18:22:55.933577+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "252.0s en-US-GuyNeural 41 cau",
+        "at": "2026-10-31T18:23:34.277873+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T18:23:41.409951+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-10-31T18:33:13.816179+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T18:33:13.913948+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 252.0s 164695262 bytes",
+        "at": "2026-10-31T18:39:31.064422+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "7 chapters",
+        "at": "2026-10-31T18:39:31.266902+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T18:39:31.540196+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4823073/pexels-photo-4823073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086512/pexels-photo-38086512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28171523/pexels-photo-28171523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319299/pexels-photo-29319299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30024951/pexels-photo-30024951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14683036/pexels-photo-14683036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38252941/pexels-photo-38252941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37267326/pexels-photo-37267326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8817676/pexels-photo-8817676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4480232/pexels-photo-4480232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36984029/pexels-photo-36984029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35316801/pexels-photo-35316801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39607823/pexels-photo-39607823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30267276/pexels-photo-30267276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31652414/pexels-photo-31652414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39104702/pexels-photo-39104702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14614060/pexels-photo-14614060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16607076/pexels-photo-16607076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36635785/pexels-photo-36635785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162194/pexels-photo-6162194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6719051/pexels-photo-6719051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4863787/pexels-photo-4863787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251946/pexels-photo-31251946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30204965/pexels-photo-30204965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38002549/pexels-photo-38002549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37645335/pexels-photo-37645335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709011/pexels-photo-35709011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7512535/pexels-photo-7512535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38472511/pexels-photo-38472511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32486063/pexels-photo-32486063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7555339/pexels-photo-7555339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11106057/pexels-photo-11106057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19341842/pexels-photo-19341842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14380721/pexels-photo-14380721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19968241/pexels-photo-19968241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9901516/pexels-photo-9901516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14807041/pexels-photo-14807041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11890535/pexels-photo-11890535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709063/pexels-photo-35709063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13977297/pexels-photo-13977297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18448148/pexels-photo-18448148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5158887/pexels-photo-5158887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15190971/pexels-photo-15190971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19060080/pexels-photo-19060080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125823/pexels-photo-38125823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16664166/pexels-photo-16664166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4973412/pexels-photo-4973412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14552749/pexels-photo-14552749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2753662/pexels-photo-2753662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10061384/pexels-photo-10061384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22504674/pexels-photo-22504674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27347529/pexels-photo-27347529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33174693/pexels-photo-33174693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14754629/pexels-photo-14754629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36755842/pexels-photo-36755842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21430822/pexels-photo-21430822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6711455/pexels-photo-6711455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15269468/pexels-photo-15269468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20979877/pexels-photo-20979877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9902136/pexels-photo-9902136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32946340/pexels-photo-32946340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24346115/pexels-photo-24346115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14758936/pexels-photo-14758936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2859169/pexels-photo-2859169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9930707/pexels-photo-9930707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35663051/pexels-photo-35663051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243713/pexels-photo-13243713.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27221822/pexels-photo-27221822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30413636/pexels-photo-30413636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27880075/pexels-photo-27880075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29034170/pexels-photo-29034170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6020267/pexels-photo-6020267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30267276/pexels-photo-30267276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9cfb507aff",
     "kind": "short",
     "channel": "Channel3",
