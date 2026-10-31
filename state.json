@@ -1,5 +1,168 @@
 [
   {
+    "id": "c89960f205",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do bàn phím máy tính không xếp theo bảng chữ cái",
+    "idea": {
+      "title": "Bí mật lý do bàn phím máy tính không xếp theo bảng chữ cái",
+      "hook": "Bạn gõ phím mỗi ngày nhưng có bao giờ tự hỏi, tại sao các phím lại lộn xộn thay vì xếp theo thứ tự A-B-C?",
+      "beats": [
+        "Ban đầu máy đánh chữ cơ học thế kỷ 19 thực sự xếp phím theo đúng thứ tự bảng chữ cái ABC.",
+        "Tuy nhiên, khi người đánh máy gõ quá nhanh, các thanh búa kim loại liên tục va vào nhau và bị kẹt cứng.",
+        "Năm 1873, Christopher Sholes phát minh ra layout QWERTY bằng cách cố tình tách rời các chữ cái hay đi cùng nhau ra xa để làm chậm tốc độ gõ.",
+        "Thiết kế sinh ra để kìm hãm con người này sau đó thành thói quen không thể đảo ngược, tồn tại trên hàng tỷ máy tính và smartphone hiện nay."
+      ],
+      "keywords": [
+        "vintage typewriter mechanical closeup",
+        "typing keyboard fast hands",
+        "computer keyboard layout macro",
+        "hands typing laptop modern office",
+        "history retro technology mechanism"
+      ],
+      "tags": [
+        "#channel3",
+        "#kienthuc",
+        "#congnghe",
+        "#meomaytinh",
+        "#khampha",
+        "#suthatthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bàn phím máy tính cố tình bắt bạn gõ chậm lại.",
+        "search": "hoat hinh 3d ban tay go phim dien thoai thong minh",
+        "caption": "Bàn phím được tạo ra để bạn gõ chậm hơn?"
+      },
+      {
+        "narration": "Mỗi ngày bạn bấm hàng nghìn ký tự, nhưng các chữ cái lại lộn xộn vô lý thay vì xếp A-B-C.",
+        "search": "do hoa chuyen dong chu cai abc bien thanh qwerty tren man hinh",
+        "caption": "Tại sao không xếp theo bảng chữ cái ABC?"
+      },
+      {
+        "narration": "Ít ai biết, bàn phím đầu tiên trên thế giới từng được xếp thẳng tắp theo đúng bảng chữ cái.",
+        "search": "hoat hinh 3d mo hinh may danh chu co dien go phim",
+        "caption": "Bàn phím nguyên bản từng xếp theo thứ tự ABC"
+      },
+      {
+        "narration": "Thế nhưng khi người dùng bắt đầu quen tay và gõ cực nhanh, một sự cố phiền toái lập tức xảy ra.",
+        "search": "hoat hinh 3d ngon tay go phim toc do cao bieu tuong tia lua",
+        "caption": "Tốc độ gõ quá nhanh tạo ra rắc rối"
+      },
+      {
+        "narration": "Các thanh búa kim loại dập chữ lao lên cùng lúc, va đập chéo vào nhau rồi kẹt cứng ngắc.",
+        "search": "canh quay 3d can canh thanh kim loai may danh chu bi ket vao nhau",
+        "caption": "Các thanh búa dập liên tục va chạm và kẹt cứng"
+      },
+      {
+        "narration": "Mỗi lần kẹt phím, trang giấy bị lem mực và người đánh máy phải dùng tay gỡ từng thanh sắt.",
+        "search": "hoat hinh 3d ban tay go roi thanh kim loai bi mac ket",
+        "caption": "Gõ càng nhanh thì máy càng tắc nghẽn"
+      },
+      {
+        "narration": "Thay vì tìm cách làm máy chạy mượt hơn, nhà sản xuất lại chọn một phương án cực kỳ trớ trêu.",
+        "search": "hoat hinh 3d ban ve thiet ke ky thuat xoay vong tren ban lam viec",
+        "caption": "Giải pháp trớ trêu: kìm hãm chính đôi tay"
+      },
+      {
+        "narration": "Họ bắt đầu thống kê những chữ cái hay đi liền với nhau nhất để chuẩn bị đặt một cái bẫy.",
+        "search": "do hoa 3d du lieu cac chu cai tieng anh ket noi mang luoi",
+        "caption": "Theo dõi những cặp chữ cái hay xuất hiện cùng nhau"
+      },
+      {
+        "narration": "Năm 1873, bàn phím QWERTY ra đời với mục đích duy nhất: cố tình xếp những chữ hay đi cùng nhau ra xa nhất có thể.",
+        "search": "hoat hinh 3d ban phim qwerty cac phim chu tach roi chuyen dong",
+        "caption": "Cố tình tách xa các chữ hay gõ cùng nhau"
+      },
+      {
+        "narration": "Thiết kế này buộc ngón tay phải di chuyển quãng đường dài hơn, làm chậm tốc độ gõ để các thanh búa kim loại không kịp va vào nhau.",
+        "search": "hoat hinh ban tay go phim cham tren ban phim may tinh",
+        "caption": "Thiết kế sinh ra để làm chậm tốc độ con người"
+      },
+      {
+        "narration": "Đến kỷ nguyên máy tính, nút bấm hoàn toàn là tín hiệu điện tử không thể kẹt, nhưng mọi nỗ lực đổi về thứ tự A-B-C đều thất bại.",
+        "search": "do hoa chuyen dong ban phim abc bien doi thanh qwerty tren man hinh",
+        "caption": "Máy tính không thể kẹt phím nhưng vẫn giữ QWERTY"
+      },
+      {
+        "narration": "Bộ não và cơ bắp ngón tay của cả thế giới khi đó đã ghi nhớ vị trí từng nút phím sâu đến mức không ai muốn học lại từ đầu.",
+        "search": "hoat hinh 3d bo nao ket noi cac dau ngon tay go phim laptop",
+        "caption": "Trí nhớ cơ bắp khiến nhân loại không thể quay đầu"
+      },
+      {
+        "narration": "Nên mỗi ngày gõ màn hình cảm ứng, bạn vẫn đang dùng một bố cục từ thế kỷ 19 được sinh ra chỉ để kìm hãm đôi tay bạn.",
+        "search": "hoat hinh 3d ngon tay cai nhan tin ban phim ao dien thoai thong minh",
+        "caption": "Bàn phím điện thoại hôm nay tạo ra để kìm hãm bạn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T19:27:32.591332+00:00",
+    "updated_at": "2026-10-31T19:36:05.975071+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-31T19:33:41.501733+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "543 chars (cat 65 de vua 55s)",
+        "at": "2026-10-31T19:34:22.408080+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.5s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-10-31T19:34:29.415950+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T19:34:30.964665+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-31T19:34:46.125597+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-31T19:34:46.221973+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.6s 20788912 bytes",
+        "at": "2026-10-31T19:36:05.561072+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T19:36:05.975051+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818316/8818316-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/19162270/19162270-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/8322281/8322281-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819490/8819490-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32746758/13960453_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8348036/8348036-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7504605/7504605-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7343463/7343463-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283170/15283170-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7744210/7744210-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7342317/7342317-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39425826/16788578_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816952/8816952-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "3d5c2be5a9",
     "kind": "long",
     "channel": "seigh",
