@@ -1,5 +1,161 @@
 [
   {
+    "id": "b4815799f1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Grandest Emperor Ended Up as a Beggar",
+    "idea": {
+      "title": "Why Rome's Grandest Emperor Ended Up as a Beggar",
+      "hook": "In the year 565 AD, history's most celebrated general was seen begging in the dirt of Constantinople—all because of one emperor's deadly paranoia.",
+      "beats": [
+        "General Belisarius had reconquered Rome, North Africa, and Italy, handing Emperor Justinian an empire revived to golden age glory.",
+        "Yet Justinian grew terrified that Rome's greatest military hero was far more beloved by the populace than the emperor himself.",
+        "According to legendary medieval chronicles, Justinian falsely accused Belisarius of treason, confiscated his vast wealth, and had his eyes torn out.",
+        "The conqueror of the Vandals and Ostrogoths was forced to spend his final months begging on the imperial roadside for scraps of bread."
+      ],
+      "keywords": [
+        "Belisarius begging engraving",
+        "Justinian Byzantine emperor portrait",
+        "Ancient Rome ruins painting",
+        "Byzantine mosaics Ravenna",
+        "Hagia Sophia Constantinople archival"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#byzantine",
+        "#justinian",
+        "#romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's greatest conqueror ended his life begging for bread.",
+        "search": "Belisarius begging oil painting David",
+        "caption": "Rome's greatest conqueror died begging in the dirt."
+      },
+      {
+        "narration": "In 533 AD, Flavius Belisarius achieved the impossible by reconquering North Africa and Italy.",
+        "search": "Vandal war Byzantine mosaic Ravenna",
+        "caption": "Belisarius reconquered North Africa and Rome for the empire."
+      },
+      {
+        "narration": "Belisarius recaptured Rome itself, handing Emperor Justinian an empire restored to ancient glory.",
+        "search": "Justinian Byzantine emperor portrait mosaic Ravenna",
+        "caption": "Justinian received a restored empire forged by Belisarius."
+      },
+      {
+        "narration": "Yet inside the imperial palace in Constantinople, Justinian watched his general with mounting paranoia.",
+        "search": "Hagia Sophia Constantinople archival engraving",
+        "caption": "Justinian feared his general was more beloved than the crown."
+      },
+      {
+        "narration": "Roman crowds openly cheered Belisarius's name, sparking whispers that the general could claim the throne.",
+        "search": "Ancient Rome ruins painting Colosseum",
+        "caption": "The Roman public revered Belisarius above Emperor Justinian."
+      },
+      {
+        "narration": "In 562 AD, an assassination plot against Justinian gave the emperor his sudden pretext.",
+        "search": "Byzantine manuscript illumination trial emperor",
+        "caption": "In 562 AD, Justinian accused Belisarius of high treason."
+      },
+      {
+        "narration": "Justinian stripped Rome's most decorated defender of all honors and confiscated his vast fortune.",
+        "search": "Belisarius historical engraving portrait bust",
+        "caption": "Belisarius was stripped of his wealth and military rank."
+      },
+      {
+        "narration": "Medieval chronicles claim the emperor's wrath escalated far beyond financial destruction.",
+        "search": "Belisarius begging engraving historical print",
+        "caption": "Chroniclers claim Justinian ordered the war hero blinded."
+      },
+      {
+        "narration": "Twelfth-century chronicles allege Justinian ordered Belisarius blinded, condemning the conqueror of Italy and North Africa to absolute darkness.",
+        "search": "Belisarius begging Jacques-Louis David oil painting",
+        "caption": "Medieval chronicles claim Justinian ordered his top general blinded"
+      },
+      {
+        "narration": "Stripped of every title, Rome's greatest military mind was forced to sit along Constantinople's roadways, begging passing citizens for single copper coins.",
+        "search": "Belisarius begging engraving historical artwork",
+        "caption": "Rome's greatest defender was reduced to begging in the street"
+      },
+      {
+        "narration": "Though records show Justinian restored his freedom shortly before his death in 565 AD, the myth endured as the ultimate symbol of imperial betrayal.",
+        "search": "Emperor Justinian mosaic Basilica of San Vitale Ravenna",
+        "caption": "Pardoned before death in 565 AD, his tragedy became legend"
+      },
+      {
+        "narration": "Why did Rome's greatest conqueror die begging for scraps?",
+        "search": "Belisarius begging engraving",
+        "caption": "Why did Rome's greatest conqueror die begging?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T01:49:02.775814+00:00",
+    "updated_at": "2026-10-31T01:56:32.913650+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-31T01:53:32.431863+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "336 chars (cat 255 de vua 55s)",
+        "at": "2026-10-31T01:54:16.122959+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.4s en-US-GuyNeural 5 cau",
+        "at": "2026-10-31T01:54:21.999857+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T01:54:22.926940+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-31T01:55:52.224749+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T01:55:52.316948+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.5s 17570974 bytes",
+        "at": "2026-10-31T01:56:32.528597+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T01:56:32.913628+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33571204/pexels-photo-33571204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34526971/pexels-photo-34526971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29806084/pexels-photo-29806084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16368046/pexels-photo-16368046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20753321/pexels-photo-20753321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25068355/pexels-photo-25068355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15847798/pexels-photo-15847798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8078537/pexels-photo-8078537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38240408/pexels-photo-38240408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39429097/pexels-photo-39429097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934895/pexels-photo-38934895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9532309/pexels-photo-9532309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "79beb7b1e0",
     "kind": "short",
     "channel": "Channel2",
