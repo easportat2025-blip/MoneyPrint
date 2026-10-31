@@ -1,5 +1,168 @@
 [
   {
+    "id": "37d012431a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bạn luôn đói cồn cào sau khi đi bơi?",
+    "idea": {
+      "title": "Tại sao bạn luôn đói cồn cào sau khi đi bơi?",
+      "hook": "Bạn vừa bơi xong và cảm thấy như có thể ăn hết cả thế giới? Thử thách thực sự không đến từ lượng calo bạn vừa đốt.",
+      "beats": [
+        "Nước lạnh làm co các mạch máu ngoại vi để dồn máu giữ ấm các cơ quan nội tạng.",
+        "Nhiệt độ cơ thể giảm nhẹ đánh lừa bộ não rằng bạn đang cạn kiệt năng lượng dự trữ.",
+        "Não lập tức tiết ồ ạt hormone ghrelin kích thích cơn thèm ăn tinh bột dữ dội.",
+        "Thực tế một buổi bơi tiêu hao calo chỉ ngang chạy bộ, nhưng cơ chế giữ nhiệt khiến bạn ăn bù gấp đôi.",
+        "Uống một cốc nước ấm ngay sau khi lên bờ sẽ dập tắt cơn đói ảo này trong 5 phút."
+      ],
+      "keywords": [
+        "swimmer exiting pool shivering",
+        "cold water body thermoregulation",
+        "hunger hormones ghrelin brain",
+        "person eating ravenously fast food",
+        "drinking warm water cup"
+      ],
+      "tags": [
+        "khoahocdoisong",
+        "suckhoe",
+        "channel3",
+        "khampha",
+        "biquyet"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bơi đốt calo ngang chạy bộ, sao bạn đói cồn cào?",
+        "search": "3d animation nguoi boi loi ho boi cartoony",
+        "caption": "Bơi đốt calo ngang chạy, sao đói cồn cào?"
+      },
+      {
+        "narration": "Vừa bước lên bờ, dạ dày của bạn lập tức co thắt như thể đã bị bỏ đói cả ngày.",
+        "search": "3d animation nhan vat om bung doi do an fast food",
+        "caption": "Vừa lên bờ dạ dày lập tức co thắt dữ dội"
+      },
+      {
+        "narration": "Thực tế, 45 phút bơi chỉ đốt khoảng 400 calo, hoàn toàn không đủ để tạo ra cơn đói dữ dội như vậy.",
+        "search": "motion graphics so sanh calo chay bo va boi loi",
+        "caption": "45 phút bơi chỉ đốt khoảng 400 calo"
+      },
+      {
+        "narration": "Thủ phạm thực sự không phải vận động, mà là nhiệt độ nước hồ bơi luôn lạnh hơn thân nhiệt từ 7 đến 10 độ.",
+        "search": "3d animation nhiet ke nuoc lanh ho boi isometric",
+        "caption": "Nước hồ bơi lạnh hơn cơ thể 10 độ C"
+      },
+      {
+        "narration": "Để bảo vệ nội tạng, cơ thể lập tức co rút toàn bộ mạch máu ngoại vi gần bề mặt da.",
+        "search": "explainer animation mach mau co lai duoi da nguoi",
+        "caption": "Mạch máu co thắt để dồn nhiệt vào nội tạng"
+      },
+      {
+        "narration": "Lớp mỡ dưới da nguội đi đột ngột đánh lừa não bộ rằng nhiệt lượng cơ thể đang tụt dốc không phanh.",
+        "search": "3d animation bo nao phat tin hieu canh bao cartoony",
+        "caption": "Não bị đánh lừa cơ thể đang kiệt quệ"
+      },
+      {
+        "narration": "Bộ não lập tức phát tín hiệu khẩn cấp, kích thích cơ thể bơm ra lượng lớn hormone thèm ăn ghrelin.",
+        "search": "motion graphics phan tu hormone ghrelin di vao da day",
+        "caption": "Não kích hoạt dạ dày xả ồ ạt hormone ghrelin"
+      },
+      {
+        "narration": "Lượng hormone này tăng vọt khiến não bắt bạn phải tìm ngay tinh bột và đường để bù nhiệt khẩn cấp.",
+        "search": "cartoony 3d ban tay voi lay banh burger khoai tay chien",
+        "caption": "Cơn thèm tinh bột và đường ảo bùng nổ"
+      },
+      {
+        "narration": "Bơi 45 phút đốt khoảng 400 calo, ngang một buổi chạy bộ, nhưng cơ thể lại giục bạn nạp bù tới 800 calo.",
+        "search": "hoat hinh 3d nguoi an hamburger khoai tay chien khong lo",
+        "caption": "Bơi đốt 400 calo nhưng não đòi ăn gấp đôi"
+      },
+      {
+        "narration": "Khi chạy bộ trong môi trường nóng, nhiệt độ cơ thể tăng giúp ức chế ghrelin, hoàn toàn trái ngược với khi bơi trong nước mát.",
+        "search": "3d animation nguoi chay bo mo hoi dong ho do nhiet do",
+        "caption": "Chạy bộ làm giảm thèm ăn, bơi lội lại làm ngược lại"
+      },
+      {
+        "narration": "Cơn đói cồn cào xé ruột thực chất là cơn đói ảo, sinh ra để sưởi ấm chứ tế bào không hề cạn kiệt năng lượng.",
+        "search": "explainer animation co the nguoi than nhiet mau xanh bien lanh",
+        "caption": "Đói sau khi bơi chỉ là phản xạ giữ nhiệt ảo"
+      },
+      {
+        "narration": "Nếu vội vàng ăn đồ ngọt hoặc tinh bột ngay lúc này, toàn bộ lượng calo dư thừa sẽ biến thành mỡ bụng chỉ sau vài giờ.",
+        "search": "3d animation mo bung tang can can dien tu",
+        "caption": "Càng ăn mất kiểm soát, mỡ thừa càng tích tụ nhanh"
+      },
+      {
+        "narration": "Chỉ cần uống một cốc nước ấm ngay sau khi lên bờ, thân nhiệt tăng lại sẽ dập tắt cơn đói ảo này chỉ sau 5 phút.",
+        "search": "3d animation ban tay cam coc nuoc nong toa khoi",
+        "caption": "Uống 1 cốc nước ấm dập tắt cơn đói ảo trong 5 phút"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T06:04:33.941110+00:00",
+    "updated_at": "2026-10-31T06:13:35.532119+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-31T06:11:35.830961+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars (cat 24 de vua 55s)",
+        "at": "2026-10-31T06:12:24.007940+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.8s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-10-31T06:12:31.062289+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T06:12:31.942888+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-31T06:12:46.508009+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-31T06:12:46.589261+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.8s 36592608 bytes",
+        "at": "2026-10-31T06:13:35.238149+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T06:13:35.532093+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8050232/8050232-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/40114008/17123458_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/8817000/8817000-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/33830580/14357892_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/36042799/15285393_1080_1922_60fps.mp4",
+      "https://videos.pexels.com/video-files/8819482/8819482-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39735297/16944768_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31605029/13466478_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37296319/15798783_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32324542/13788074_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/5839051/5839051-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/7690494/7690494-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8820504/8820504-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "b4815799f1",
     "kind": "short",
     "channel": "Channel2",
