@@ -1,5 +1,161 @@
 [
   {
+    "id": "ac9c283ad8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Greatest General Burned His Own Fleet",
+    "idea": {
+      "title": "Why Rome's Greatest General Burned His Own Fleet",
+      "hook": "Tariq ibn Ziyad burned every single ship after landing in Spain, leaving his army one terrifying choice: conquer or drown.",
+      "beats": [
+        "In 711 AD, Tariq crossed the strait with 7,000 men to face a massive Visigoth army of over 30,000.",
+        "Realizing his soldiers were terrified of the overwhelming odds, he ordered all transport ships set ablaze.",
+        "Standing before the burning wood, he delivered a speech that erased all thoughts of retreat.",
+        "The trapped army fought with savage fury, completely shattering the Visigoth kingdom in a single battle."
+      ],
+      "keywords": [
+        "tariq ibn ziyad battle",
+        "spain medieval portrait",
+        "moorish conquest art",
+        "burning ship painting",
+        "ancient general bust"
+      ],
+      "tags": [
+        "#history",
+        "#battles",
+        "#ancienthistory",
+        "#militaryhistory",
+        "#shortshistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 711 AD, one tactical order erased an army's escape.",
+        "search": "moorish conquest of spain medieval illustration",
+        "caption": "One decision destroyed an army's only escape route."
+      },
+      {
+        "narration": "The Umayyad invasion of Hispania fundamentally reshaped European history for eight centuries.",
+        "search": "medieval map of early middle ages europe manuscript",
+        "caption": "Eight centuries of European history changed in 711 AD."
+      },
+      {
+        "narration": "General Tariq ibn Ziyad crossed the Strait of Gibraltar with seven thousand men.",
+        "search": "tariq ibn ziyad portrait painting",
+        "caption": "Commander Tariq ibn Ziyad landed with 7,000 soldiers."
+      },
+      {
+        "narration": "Visigoth King Roderic marched south to meet them with over thirty thousand troops.",
+        "search": "king roderic visigoth painting",
+        "caption": "King Roderic matched them with over 30,000 warriors."
+      },
+      {
+        "narration": "Seeing severe panic among his ranks, Tariq ordered all transport ships set ablaze.",
+        "search": "burning wooden fleet ship painting",
+        "caption": "Tariq ordered his own fleet destroyed by fire."
+      },
+      {
+        "narration": "With flames consuming the boats behind them, retreat was rendered completely impossible.",
+        "search": "gibraltar strait medieval engraving",
+        "caption": "With no ships left, retreat became physically impossible."
+      },
+      {
+        "narration": "In July 711 AD, the trapped force engaged at the Battle of Guadalete.",
+        "search": "battle of guadalete medieval artwork",
+        "caption": "The desperate army met the Visigoth heavy cavalry."
+      },
+      {
+        "narration": "Internal betrayal within the Visigoth nobility fractured King Roderic's defensive line during combat.",
+        "search": "visigothic kingdom battle scene oil painting",
+        "caption": "Internal betrayal fractured the massive Visigoth defense."
+      },
+      {
+        "narration": "King Roderic vanished during the chaotic rout, and the Visigoth army was completely shattered at the Guadalete River in July 711 AD.",
+        "search": "battle of guadalete historical oil painting",
+        "caption": "King Roderic's army collapsed at Guadalete in July 711."
+      },
+      {
+        "narration": "Deprived of any retreat, Tariq's forces pressed north across the peninsula, seizing the royal capital of Toledo before year's end.",
+        "search": "medieval map of al andalus engraving",
+        "caption": "Tariq's forces seized the Visigoth capital of Toledo."
+      },
+      {
+        "narration": "Destroying the transport fleet turned a desperate gamble into nearly eight centuries of Moorish rule across Spain.",
+        "search": "moorish conquest of spain manuscript illustration",
+        "caption": "One burned fleet rewrote eight centuries of European history."
+      },
+      {
+        "narration": "In 711 AD, one commander burned his own fleet.",
+        "search": "burning medieval wooden ships oil painting",
+        "caption": "Why did a commander burn his fleet?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T09:52:47.392204+00:00",
+    "updated_at": "2026-10-31T09:58:52.967366+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-31T09:55:08.635679+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "416 chars (cat 124 de vua 55s)",
+        "at": "2026-10-31T09:55:56.592761+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 6 cau",
+        "at": "2026-10-31T09:55:58.975532+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T09:56:00.018581+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-31T09:58:01.600491+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T09:58:01.702106+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 17218284 bytes",
+        "at": "2026-10-31T09:58:52.609482+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T09:58:52.967349+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35929684/pexels-photo-35929684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10986996/pexels-photo-10986996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30211225/pexels-photo-30211225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39521834/pexels-photo-39521834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20211144/pexels-photo-20211144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15921763/pexels-photo-15921763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36037065/pexels-photo-36037065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1486468/pexels-photo-1486468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563566/pexels-photo-16563566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34990522/pexels-photo-34990522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30463834/pexels-photo-30463834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38337664/pexels-photo-38337664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "51f05128d0",
     "kind": "short",
     "channel": "Channel2",
