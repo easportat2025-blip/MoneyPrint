@@ -1,5 +1,161 @@
 [
   {
+    "id": "3ba21801d9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Islam’s Greatest General Was Stripped of Command",
+    "idea": {
+      "title": "Why Islam’s Greatest General Was Stripped of Command",
+      "hook": "General Khalid ibn al-Walid conquered two superpowers without losing a single battle, yet his own Caliph stripped him of command for a terrifying reason.",
+      "beats": [
+        "Khalid undefeatedly crushed both the Byzantine and Sasanian armies, earning the legendary title 'The Sword of God.'",
+        "As his victories mounted, ordinary citizens and soldiers began attributing their triumphs to Khalid's military genius rather than divine providence.",
+        "Fearing the army was idolizing a mortal man above God, Caliph Umar made the shocking decision to strip his top commander of all authority overnight.",
+        "Khalid accepted the humiliating demotion without rebellion, loyally fighting on the front lines as an ordinary soldier until his death."
+      ],
+      "keywords": [
+        "khalid ibn al walid portrait",
+        "caliph umar vintage painting",
+        "byzantine sassanid wars engraving",
+        "early islamic army battle",
+        "ancient arab cavalry engraving"
+      ],
+      "tags": [
+        "khalid ibn al walid",
+        "military history",
+        "ancient empires",
+        "byzantine empire",
+        "untold history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Islam's greatest undefeated general was abruptly stripped of command.",
+        "search": "khalid ibn al walid warrior equestrian miniature painting",
+        "caption": "Why Islam's greatest undefeated general was suddenly demoted."
+      },
+      {
+        "narration": "Between 632 and 638 AD, General Khalid ibn al-Walid fought over fifty major engagements without losing once.",
+        "search": "early islamic conquest battle ancient engraving",
+        "caption": "Khalid won over fifty major battles without defeat."
+      },
+      {
+        "narration": "His swift desert cavalry crushed Roman Byzantine legions and dismantled the imperial Sasanian army across Mesopotamia.",
+        "search": "byzantine sassanid wars battle oil painting",
+        "caption": "He crushed both the Byzantine and Persian superpowers."
+      },
+      {
+        "narration": "His tactical mastery earned him the prestigious title Sayf Allah, meaning the Sword of God.",
+        "search": "sword of god arab scimitar antique steel engraving",
+        "caption": "Revered across Arabia as the Sword of God."
+      },
+      {
+        "narration": "Yet his unbroken string of victories created an unexpected crisis across the Rashidun Caliphate.",
+        "search": "rashidun caliphate territory historical map engraving",
+        "caption": "Unchecked victory created an unexpected ideological crisis."
+      },
+      {
+        "narration": "Soldiers and common citizens began attributing every triumph to Khalid's strategic genius rather than divine providence.",
+        "search": "ancient arab cavalry celebrating victory illustration",
+        "caption": "Troops began crediting Khalid rather than divine providence."
+      },
+      {
+        "narration": "In Medina, the second Caliph, Umar ibn al-Khattab, monitored this growing hero-worship with intense concern.",
+        "search": "caliph umar ibn al khattab historic manuscript miniature",
+        "caption": "Caliph Umar feared soldiers were idolizing a mortal."
+      },
+      {
+        "narration": "In 638 AD, at the height of the general's fame, Umar dispatched a letter relieving Khalid of duty.",
+        "search": "historical arabic calligraphy manuscript letter parchment",
+        "caption": "In 638 AD, Umar ordered Khalid's immediate demotion."
+      },
+      {
+        "narration": "Caliph Umar declared that the conquests were being attributed to Khalid rather than divine will, creating a dangerous cult of personality. To prevent the Muslim army from sliding into hero-worship, he stripped his most brilliant commander of all military authority.",
+        "search": "caliph umar ibn al khattab manuscript miniature painting",
+        "caption": "Umar feared the army was idolizing Khalid instead of God."
+      },
+      {
+        "narration": "Though Khalid commanded the absolute loyalty of veteran legions who would have mutinied for him, he surrendered his post without protest. He immediately took his place on the battlefield as an ordinary soldier under the new commander, Abu Ubaidah.",
+        "search": "early islamic conquest battle arab cavalry manuscript miniature",
+        "caption": "Khalid surrendered supreme command and served as a regular soldier."
+      },
+      {
+        "narration": "In 642 AD, Khalid ibn al-Walid died in bed in Homs, Syria, remaining undefeated across over fifty major battles. The Sword of God was broken not by Byzantine steel, but by his own caliph to prove that no mortal was indispensable.",
+        "search": "tomb of khalid ibn al walid homs historic engraving",
+        "caption": "Undefeated in fifty battles, Khalid died stripped of supreme command."
+      },
+      {
+        "narration": "History's most undefeated general was erased by his own leader.",
+        "search": "early islamic army battle painting",
+        "caption": "History's most undefeated general was erased by his own leader."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T22:58:54.681832+00:00",
+    "updated_at": "2026-10-31T23:04:32.794674+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-10-31T23:00:57.399274+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "387 chars (cat 272 de vua 55s)",
+        "at": "2026-10-31T23:01:44.002241+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.8s en-US-GuyNeural 8 cau",
+        "at": "2026-10-31T23:01:46.473553+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T23:01:47.614559+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-10-31T23:03:39.069854+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-10-31T23:03:39.170147+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.8s 18063561 bytes",
+        "at": "2026-10-31T23:04:32.318549+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T23:04:32.794654+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28958706/pexels-photo-28958706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32068992/pexels-photo-32068992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37083514/pexels-photo-37083514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32595949/pexels-photo-32595949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828596/pexels-photo-8828596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37951532/pexels-photo-37951532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35066402/pexels-photo-35066402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29486704/pexels-photo-29486704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12336447/pexels-photo-12336447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34367711/pexels-photo-34367711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14462058/pexels-photo-14462058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5491889/pexels-photo-5491889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9877512a76",
     "kind": "short",
     "channel": "Channel2",
