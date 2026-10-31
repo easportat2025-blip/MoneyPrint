@@ -1,5 +1,167 @@
 [
   {
+    "id": "0f3ae52bf8",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao tạt nước lạnh lên mặt làm tim bạn đập chậm?",
+    "idea": {
+      "title": "Tại sao tạt nước lạnh lên mặt làm tim bạn đập chậm?",
+      "hook": "Khi bạn tạt nước lạnh vào mặt, não bạn ngay lập tức hành động như thể bạn vừa lặn xuống đáy đại dương.",
+      "beats": [
+        "Đây là Phản xạ lặn (Mammalian Dive Reflex) di truyền từ tổ tiên động vật vú nuôi.",
+        "Dây thần kinh trên mặt nhận diện nhiệt độ lạnh đột ngột và gửi tín hiệu khẩn cấp về não.",
+        "Nhịp tim lập tức giảm từ 10% đến 25% để tiết kiệm tối đa lượng oxy tiêu thụ.",
+        "Các mạch máu ở tay chân co lại, dồn toàn bộ máu về bảo vệ tim và não bộ."
+      ],
+      "keywords": [
+        "cold water face splash",
+        "heart rate monitor slow",
+        "underwater diver swimming",
+        "human nervous system animation",
+        "brain signal science"
+      ],
+      "tags": [
+        "chủ đề cơ thể",
+        "mẹo sức khỏe",
+        "khoa học cơ thể",
+        "phản xạ lặn",
+        "Channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vừa tạt nước lạnh, nhịp tim lập tức giảm 25%.",
+        "search": "hoat hinh 3d tat nuoc lanh vao mat bon rua mat",
+        "caption": "Tạt nước lạnh khiến tim lập tức đập chậm 25%"
+      },
+      {
+        "narration": "Bạn chỉ muốn tỉnh ngủ, nhưng bộ não lại tưởng bạn đang chìm xuống đại dương.",
+        "search": "mo phong 3d bo nao phat sang hoang hot do hoa",
+        "caption": "Bộ não nhầm lẫn bạn đang chìm xuống nước"
+      },
+      {
+        "narration": "Ngay khi nước chạm vào gò má, dây thần kinh số năm lập tức phát tín hiệu báo động đỏ.",
+        "search": "hoat hinh 3d day than kinh tren mat phat tin hieu dien",
+        "caption": "Dây thần kinh mặt lập tức kích hoạt báo động"
+      },
+      {
+        "narration": "Mệnh lệnh khẩn cấp này đánh thức một cơ chế sinh tồn cổ xưa nằm ẩn trong gen.",
+        "search": "mo hinh chuoi xoan adn phat sang 3d render",
+        "caption": "Bản năng sinh tồn cổ xưa bị kích hoạt"
+      },
+      {
+        "narration": "Nó được gọi là phản xạ lặn, vũ khí sinh tồn của các loài động vật có vú dưới biển.",
+        "search": "hoat hinh 3d ca heo lan sau duoi bien xanh",
+        "caption": "Phản xạ lặn của các loài động vật biển"
+      },
+      {
+        "narration": "Bộ não lập tức đưa cơ thể vào chế độ tiết kiệm năng lượng tối đa để giữ lượng oxy còn lại.",
+        "search": "do hoa chuyen dong chi so oxy co the giam sut",
+        "caption": "Cơ thể kích hoạt chế độ tiết kiệm oxy tối đa"
+      },
+      {
+        "narration": "Các mạch máu ở bàn tay và bàn chân bị thắt chặt lại trong tích tắc.",
+        "search": "3d mo phong mach mau dau ngon tay co that lai",
+        "caption": "Mạch máu tứ chi co thắt đột ngột"
+      },
+      {
+        "narration": "Toàn bộ lượng máu ấm bị phong tỏa và buộc phải đảo chiều, dồn thẳng về vùng trung tâm.",
+        "search": "hoat hinh dong mau do don ve tim va bo nao 3d",
+        "caption": "Dòng máu bị cưỡng chế dồn về trung tâm"
+      },
+      {
+        "narration": "Nhịp tim của bạn lập tức rơi tự do, tụt giảm từ mười đến hai mươi lăm phần trăm chỉ sau vài giây ngắn ngủi.",
+        "search": "hoat hinh 3d man hinh nhip tim giam cham dan",
+        "caption": "Nhịp tim lập tức giảm tới 25% sau vài giây"
+      },
+      {
+        "narration": "Bằng cách hãm phanh quả tim, cơ thể khóa van tiêu hao để bảo toàn từng phân tử oxy quý giá cho não bộ.",
+        "search": "do hoa chuyen dong 3d nao bo phat sang giu khi oxy",
+        "caption": "Khóa van tiêu hao, dồn toàn bộ oxy cho não"
+      },
+      {
+        "narration": "Nước lạnh kích thích dây thần kinh phế vị, ép toàn bộ hệ thống báo động căng thẳng trong người bạn phải tắt lịm.",
+        "search": "hoat hinh 3d he than kinh phe vi chay doc cot song",
+        "caption": "Dây thần kinh phế vị ép tắt hệ thống căng thẳng"
+      },
+      {
+        "narration": "Đó là lý do chỉ một vốc nước lạnh bên bồn rửa có thể dập tắt cơn hoảng loạn nhanh hơn bất kỳ lời khuyên nào.",
+        "search": "hoat hinh 3d nguoi tat nuoc lanh vao mat bon rua",
+        "caption": "Một vốc nước lạnh dập tắt cơn hoảng loạn tức thì"
+      },
+      {
+        "narration": "Cơ thể tưởng bạn đang chìm xuống đáy biển sâu, trong khi bạn chỉ đang cố tỉnh ngủ trước tấm gương mỗi sáng.",
+        "search": "hoat hinh 3d nguoi nhin guong phong tam buoi sang",
+        "caption": "Cơ thể tưởng lặn biển sâu, bạn chỉ đang rửa mặt"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-10-31T10:41:43.058011+00:00",
+    "updated_at": "2026-10-31T10:50:36.237725+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-10-31T10:47:37.425847+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "534 chars (cat 48 de vua 55s)",
+        "at": "2026-10-31T10:49:17.079139+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-10-31T10:49:37.443397+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-10-31T10:49:38.204600+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-10-31T10:49:53.726561+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-10-31T10:49:53.792304+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.5s 31867622 bytes",
+        "at": "2026-10-31T10:50:35.930764+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-10-31T10:50:36.237709+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6337124/6337124-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34094899/14460731_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/7580478/7580478-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34862096/14774382_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/30319098/12996830_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/37875674/16069832_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/10639960/10639960-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34744516/14729277_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/3825405/3825405-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/28923586/12518192_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/12121501/12121501-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/6845766/6845766-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/6801632/6801632-uhd_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "ac9c283ad8",
     "kind": "short",
     "channel": "Channel2",
