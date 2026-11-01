@@ -1,5 +1,163 @@
 [
   {
+    "id": "aa2bce0014",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Cao Cao Chained His Fleet and Lost China",
+    "idea": {
+      "title": "Why Cao Cao Chained His Fleet and Lost China",
+      "hook": "In 208 AD, warlord Cao Cao chained his massive fleet together to stop seasickness—unaware he had just built his own floating funeral pyre.",
+      "beats": [
+        "Cao Cao marched south with 200,000 troops to violently conquer southern China and declare absolute rule.",
+        "Because his northern cavalry got violently seasick on the Yangtze River, he ordered every warship lashed tightly together with iron chains.",
+        "Allied commander Huang Gai feigned a surrender, sailing ten covert ships packed with oil and straw directly into the armada.",
+        "Once set ablaze, Cao Cao's chained warships could not separate, incinerating his entire imperial fleet in a catastrophic firestorm."
+      ],
+      "keywords": [
+        "battle of red cliffs painting",
+        "cao cao portrait",
+        "ancient chinese warships engraving",
+        "yangtze river fire ships art",
+        "three kingdoms battle map"
+      ],
+      "tags": [
+        "ancientchina",
+        "threekingdoms",
+        "caocao",
+        "redcliffs",
+        "militaryhistory",
+        "ancienthistory",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One military blunder permanently fractured imperial China into three.",
+        "search": "battle of red cliffs ancient chinese painting",
+        "caption": "The single blunder that shattered ancient China forever."
+      },
+      {
+        "narration": "In the winter of 208 AD, warlord Cao Cao mobilized over two hundred thousand soldiers to unify the fractured Han dynasty under his rule.",
+        "search": "warlord cao cao traditional ink portrait painting",
+        "caption": "Winter 208 AD: Cao Cao mobilizes 200,000 troops southward."
+      },
+      {
+        "narration": "Standing in his path were southern allied warlords Sun Quan and Liu Bei, holding the strategic barrier of the Yangtze River.",
+        "search": "three kingdoms period ancient china map engraving",
+        "caption": "Southern allies Sun Quan and Liu Bei defend the Yangtze."
+      },
+      {
+        "narration": "Cao Cao assembled an armada of river vessels, but his northern cavalrymen were unaccustomed to water and suffered debilitating seasickness.",
+        "search": "han dynasty warship fleet river battle engraving",
+        "caption": "Northern cavalrymen suffered severe seasickness on the turbulent river."
+      },
+      {
+        "narration": "To steady the vessels, Cao Cao ordered hundreds of heavy warships lashed tightly together with thick iron chains.",
+        "search": "ancient chinese war junk ship wooden deck illustration",
+        "caption": "Warships linked together with heavy iron chains to steady decks."
+      },
+      {
+        "narration": "The resulting platform was so stable that cavalry could gallop across ship decks, creating an seemingly impenetrable floating citadel.",
+        "search": "ancient chinese soldiers river fleet formation scroll painting",
+        "caption": "The chained fleet formed an apparently invincible floating fortress."
+      },
+      {
+        "narration": "Across the river, allied naval commander Huang Gai observed the rigid formation and dispatched a covert letter feigning surrender.",
+        "search": "ancient general huang gai portrait ink painting",
+        "caption": "General Huang Gai feigns surrender, preparing a covert strike."
+      },
+      {
+        "narration": "Hidden beneath the decks of Huang Gai's approaching surrender squadron were dense layers of dry kindling, reeds, and flammable oil.",
+        "search": "ancient chinese fire ship battle preparations oil painting",
+        "caption": "Hidden cargo: barrels of oil and kindling concealed below deck."
+      },
+      {
+        "narration": "Just two miles from Cao Cao's armada, Huang Gai ignited all ten vessels as sudden southeastern winds drove the flaming ships directly into the anchored formation.",
+        "search": "ancient chinese fire ships oil painting",
+        "caption": "Huang Gai ignited ten fireships propelled by sudden southern winds."
+      },
+      {
+        "narration": "Because the northern warships were locked together with iron chains, the soldiers could neither detach nor steer away, turning the imperial fleet into an inescapable inferno.",
+        "search": "battle of red cliffs burning warships painting",
+        "caption": "Chained together, Cao Cao's warships could not escape the spreading firestorm."
+      },
+      {
+        "narration": "Cao Cao retreated north with the remnants of his army, and the disaster at Red Cliffs in 208 AD permanently fractured China into the Three Kingdoms.",
+        "search": "three kingdoms period ancient china map engraving defeat",
+        "caption": "Defeat at Red Cliffs in 208 AD fractured China for generations."
+      },
+      {
+        "narration": "One fatal naval order shattered China's greatest ancient warlord.",
+        "search": "Cao Cao portrait painting ancient chinese scroll",
+        "caption": "One decision ended Cao Cao's dream of a united China."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T10:45:29.083751+00:00",
+    "updated_at": "2026-11-01T10:59:29.643545+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-01T10:51:33.393778+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "367 chars (cat 272 de vua 55s)",
+        "at": "2026-11-01T10:53:51.347433+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.3s en-US-GuyNeural 5 cau",
+        "at": "2026-11-01T10:53:55.128970+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T10:53:56.040100+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-01T10:58:43.483866+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-01T10:58:43.586045+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.3s 13702008 bytes",
+        "at": "2026-11-01T10:59:29.252167+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T10:59:29.643525+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38304161/pexels-photo-38304161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7610569/pexels-photo-7610569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39388945/pexels-photo-39388945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13128624/pexels-photo-13128624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33686746/pexels-photo-33686746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37294798/pexels-photo-37294798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15529743/pexels-photo-15529743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34730573/pexels-photo-34730573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37510640/pexels-photo-37510640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5681212/pexels-photo-5681212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36605940/pexels-photo-36605940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6440183/pexels-photo-6440183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "54175479ab",
     "kind": "short",
     "channel": "Channel3",
