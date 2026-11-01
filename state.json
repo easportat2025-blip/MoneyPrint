@@ -1,5 +1,167 @@
 [
   {
+    "id": "753a6936c9",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao cắm sạc điện thoại trên ô tô âm thầm làm hỏng pin?",
+    "idea": {
+      "title": "Tại sao cắm sạc điện thoại trên ô tô âm thầm làm hỏng pin?",
+      "hook": "Nhiều người có thói quen cắm điện thoại vào cổng USB trên ô tô mỗi khi di chuyển, nhưng họ không hề biết điều này đang tàn phá viên pin nhanh hơn gấp đôi.",
+      "beats": [
+        "Cổng USB có sẵn trên ô tô thường được thiết kế để truyền dữ liệu, chỉ cấp dòng điện rất thấp khoảng 0.5A.",
+        "Dòng điện yếu khiến điện thoại phải vừa nạp vừa xả liên tục, làm máy tỏa nhiệt lớn.",
+        "Máy phát điện ô tô biến thiên điện áp liên tục, tạo ra các cú sốc điện ngầm làm giảm tuổi thọ vi mạch pin.",
+        "Giải pháp đúng là dùng tẩu sạc chuyên dụng cắm vào cổng 12V để có dòng điện ổn định."
+      ],
+      "keywords": [
+        "car usb charger",
+        "smartphone charging",
+        "car dashboard",
+        "battery overheating",
+        "car interior"
+      ],
+      "tags": [
+        "#channel3",
+        "#meodienthoai",
+        "#sotiet",
+        "#congnghe",
+        "#meohay"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cắm sạc USB ô tô làm pin chai nhanh gấp đôi.",
+        "search": "hoat hinh 3d cam cap sac dien thoai tren tap lo o to",
+        "caption": "Sạc cổng USB ô tô làm pin chai gấp đôi?"
+      },
+      {
+        "narration": "Hầu hết mọi người lên xe đều tiện tay cắm dây vào cổng USB có sẵn trên bảng điều khiển.",
+        "search": "motion graphics ban tay cam day sac usb vao xe hoi",
+        "caption": "Tiện tay cắm cổng USB có sẵn trên xe"
+      },
+      {
+        "narration": "Nhưng cổng này sinh ra để đọc dữ liệu nhạc, hoàn toàn không thiết kế để sạc pin.",
+        "search": "hoat hinh 3d cong usb xe hoi ket noi du lieu am nhac",
+        "caption": "Cổng USB ô tô vốn chỉ để truyền dữ liệu"
+      },
+      {
+        "narration": "Nguồn ra của nó chỉ vỏn vẹn 0.5 ampe, yếu hơn một nửa củ sạc bình thường.",
+        "search": "motion graphics dong dien 0.5A yeu ot vao vien pin",
+        "caption": "Dòng điện chỉ 0.5A cực kỳ yếu ớt"
+      },
+      {
+        "narration": "Nếu bạn vừa bật bản đồ vừa cắm sạc, máy tiêu hao điện nhanh hơn tốc độ nạp.",
+        "search": "hoat hinh 3d dien thoai bat ban do dinh vi gps nong len",
+        "caption": "Vừa bật định vị vừa sạc dòng điện yếu"
+      },
+      {
+        "narration": "Hiện tượng vừa nạp vừa xả ép buộc này khiến nhiệt độ viên pin tăng vọt.",
+        "search": "hoat hinh 3d pin dien thoai toa nhiet do ruc",
+        "caption": "Pin nóng rực do vừa nạp vừa xả liên tục"
+      },
+      {
+        "narration": "Chưa dừng lại ở đó, máy phát điện ô tô biến thiên điện áp theo từng cú đạp ga.",
+        "search": "motion graphics chan dap chan ga o to bieu do dien bien thien",
+        "caption": "Điện áp trồi sụt theo từng cú đạp ga"
+      },
+      {
+        "narration": "Những xung điện bất ổn này âm thầm giáng đòn chí mạng vào vi mạch quản lý nguồn.",
+        "search": "hoat hinh 3d tia lua dien danh vao bo mach dien thoai",
+        "caption": "Xung điện bất ổn tàn phá vi mạch ngầm"
+      },
+      {
+        "narration": "Pin liên tục bị sốc nhiệt và giật điện áp, khiến chu kỳ chai pin bị đẩy nhanh gấp đôi bình thường.",
+        "search": "hoat hinh 3d pin dien thoai nong do ruc",
+        "caption": "Pin chai nhanh gấp đôi do sốc nhiệt và dao động điện"
+      },
+      {
+        "narration": "Tệ hơn, con chip điều khiển nguồn có thể bị đoản mạch bất ngờ, làm tắt ngúm chiếc điện thoại đắt tiền của bạn.",
+        "search": "hoat hinh 3d bo mach dien thoai bi tia lua dien",
+        "caption": "Chip IC sạc có thể chập cháy, làm hỏng hoàn toàn máy"
+      },
+      {
+        "narration": "Nhiều người nghĩ chỉ cần đổi dây sạc xịn là xong, nhưng nguồn cấp từ cổng USB tích hợp sẵn vẫn chỉ là 0.5A yếu ớt.",
+        "search": "hoat hinh 3d cam day sac usb tap lo xe hoi",
+        "caption": "Dây cáp xịn cũng vô ích với cổng USB 0.5A có sẵn"
+      },
+      {
+        "narration": "Để cứu điện thoại, giải pháp duy nhất là cắm một tẩu sạc chuẩn vào cổng nguồn 12V dạng tròn trên xe.",
+        "search": "hoat hinh 3d tau sac dien thoai cam o to 12v",
+        "caption": "Hãy dùng tẩu sạc chuyên dụng cắm vào cổng nguồn 12V"
+      },
+      {
+        "narration": "Tẩu sạc xịn có vi mạch nắn dòng độc lập, giúp nạp pin nhanh mát rượi và tuyệt đối an toàn.",
+        "search": "hoat hinh 3d bieu tuong pin xanh day 100 phan tram",
+        "caption": "Đổi tẩu sạc 12V ngay để giữ pin luôn bền bỉ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T11:34:52.309570+00:00",
+    "updated_at": "2026-11-01T11:41:12.348502+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-01T11:38:02.479752+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars",
+        "at": "2026-11-01T11:39:16.143418+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-01T11:39:28.392236+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T11:39:29.857466+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-01T11:39:47.260976+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-01T11:39:47.359780+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.5s 36927432 bytes",
+        "at": "2026-11-01T11:41:11.951710+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T11:41:12.348481+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9790183/9790183-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37384338/15834070_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029659/16029659-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7479750/7479750-hd_1080_1620_20fps.mp4",
+      "https://videos.pexels.com/video-files/32107100/13688823_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/25935016/11922051_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/39590729/16874807_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34906333/14787486_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456773/16456773-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38697709/16438454_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39421377/16785020_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/19911838/19911838-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7832369/7832369-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "aa2bce0014",
     "kind": "short",
     "channel": "Channel2",
