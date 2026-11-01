@@ -1,4 +1,4 @@
-# Daily ping 31/10/2026
+# Daily ping 01/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -13,11 +13,11 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Tại sao bạn luôn đói cồn cào sau khi đi bơi? :: token refresh failed: 400 {
+- Bí mật chiếc gương phòng thay đồ đang âm thầm móc túi b :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
-- Why Rome's Grandest Emperor Ended Up as a Beggar :: token refresh failed: 400 {
+- Hannibal’s Crescent Trap: How Rome Lost 70,000 in One D :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
