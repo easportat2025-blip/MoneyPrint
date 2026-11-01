@@ -1,5 +1,161 @@
 [
   {
+    "id": "e53781362c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Trapped Queen Fooled Xerxes by Sinking Her Ally",
+    "idea": {
+      "title": "How a Trapped Queen Fooled Xerxes by Sinking Her Ally",
+      "hook": "Trapped between Greek triremes and the Persian fleet, Queen Artemisia made a cold betrayal that should have ended on the executioner's block—yet earned Xerxes' ultimate praise.",
+      "beats": [
+        "At the 480 BC Battle of Salamis, Artemisia's warship was cut off and relentlessly pursued by an Athenian vessel.",
+        "With nowhere to escape, she intentionally rammed and sank a Calyndian warship—one of her own Persian allies.",
+        "The Athenian pursuer assumed she was fighting for Greece and broke off the attack, allowing her to slip away.",
+        "Watching from his throne on the cliff, Emperor Xerxes mistakenly believed she had sunk a Greek flagship and famously proclaimed: 'My men have become women, and my women men.'"
+      ],
+      "keywords": [
+        "Battle of Salamis painting",
+        "Queen Artemisia Halicarnassus bust",
+        "ancient Greek trireme engraving",
+        "Xerxes throne ancient Persia",
+        "Greco Persian war map"
+      ],
+      "tags": [
+        "History",
+        "AncientGreece",
+        "PersianEmpire",
+        "NavalWarfare",
+        "HistoricalFigures"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "She sank her own ally and won an emperor's praise.",
+        "search": "queen artemisia halicarnassus marble bust statue",
+        "caption": "A queen's deadly gamble at Salamis"
+      },
+      {
+        "narration": "In September 480 BC, the Greco-Persian naval war culminated inside the narrow straits of Salamis.",
+        "search": "battle of salamis naval clash oil painting",
+        "caption": "Salamis, September 480 BC"
+      },
+      {
+        "narration": "Queen Artemisia of Halicarnassus led a five-ship squadron under the Persian flag of Emperor Xerxes the Great.",
+        "search": "xerxes i persia relief sculpture persepolis",
+        "caption": "Artemisia sailed for Emperor Xerxes"
+      },
+      {
+        "narration": "When the Greek fleet ambushed Persian lines, Artemisia's flagship was cornered and hunted by an Athenian trireme.",
+        "search": "ancient greek trireme ramming naval engraving",
+        "caption": "Pursued by Athenian war galleys"
+      },
+      {
+        "narration": "Crowded Persian warships blocked every possible retreat route, leaving her trapped against Greek bronze rams.",
+        "search": "greco persian wars maritime map antique engraving",
+        "caption": "Boxed in with no escape"
+      },
+      {
+        "narration": "Rather than surrender, Artemisia ordered her rowers to ram the nearest vessel: a Calyndian ship belonging to her own fleet.",
+        "search": "ancient naval ramming warship illustration",
+        "caption": "She rammed her own ally"
+      },
+      {
+        "narration": "Her ram shattered the allied hull, sinking King Damasithymus and his entire crew into the sea with zero survivors.",
+        "search": "sinking trireme ancient naval battle oil painting",
+        "caption": "No survivors left to accuse her"
+      },
+      {
+        "narration": "The Athenian pursuer assumed she was fighting for Greece and disengaged, while Emperor Xerxes watched from his clifftop throne.",
+        "search": "xerxes watching battle of salamis oil painting",
+        "caption": "Xerxes watched from the cliffs"
+      },
+      {
+        "narration": "Because no Calyndian survived to expose the truth, Persian courtiers beside Mount Aigaleo confirmed the sunken vessel was an enemy ship.",
+        "search": "Persian king Xerxes overlooking battle of salamis oil painting",
+        "caption": "Zero survivors remained to expose Artemisia's deliberate treason"
+      },
+      {
+        "narration": "Seeing Artemisia's royal standard emerge victorious from the wreckage, Xerxes was convinced she had annihilated an Athenian flagship.",
+        "search": "Battle of Salamis ancient trireme naval battle engraving",
+        "caption": "Xerxes believed Artemisia had destroyed a Greek flagship"
+      },
+      {
+        "narration": "Instead of execution for treason, Artemisia received highest honors when Xerxes proclaimed: 'My men have become women, and my women men.'",
+        "search": "Queen Artemisia of Caria marble bust statue",
+        "caption": "Artemisia was rewarded after Xerxes praised her lethal deception"
+      },
+      {
+        "narration": "Why did Persia's emperor reward a queen's treason?",
+        "search": "Queen Artemisia Halicarnassus bust statue",
+        "caption": "Persia's Emperor Rewarded His Own Queen's Treason"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T23:13:55.971545+00:00",
+    "updated_at": "2026-11-01T23:24:38.963723+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-01T23:20:05.804605+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "407 chars (cat 227 de vua 55s)",
+        "at": "2026-11-01T23:22:13.779237+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 7 cau",
+        "at": "2026-11-01T23:22:16.586436+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T23:22:17.702946+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-01T23:23:47.226379+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-01T23:23:47.325985+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 17128197 bytes",
+        "at": "2026-11-01T23:24:38.576988+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T23:24:38.963703+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40382531/pexels-photo-40382531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484115/pexels-photo-16484115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081435/pexels-photo-20081435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27269181/pexels-photo-27269181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22775410/pexels-photo-22775410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27567252/pexels-photo-27567252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9174720/pexels-photo-9174720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34075947/pexels-photo-34075947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484125/pexels-photo-16484125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16908307/pexels-photo-16908307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20015110/pexels-photo-20015110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10479488/pexels-photo-10479488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8ded0fc36e",
     "kind": "short",
     "channel": "Channel2",
