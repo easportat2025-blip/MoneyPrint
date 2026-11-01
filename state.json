@@ -1,5 +1,161 @@
 [
   {
+    "id": "8d95ad4fff",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Hannibal’s Crescent Trap: How Rome Lost 70,000 in One Day",
+    "idea": {
+      "title": "Hannibal’s Crescent Trap: How Rome Lost 70,000 in One Day",
+      "hook": "At the Battle of Cannae, Hannibal pulled off history’s deadliest battlefield trap by doing the unthinkable: ordering his own center line to surrender ground.",
+      "beats": [
+        "Rome assembled its largest army ever—86,000 legionaries—convinced raw brute force would obliterate Carthage.",
+        "Hannibal deployed a thin, convex crescent bulging outward, placing his weakest infantry directly in the center.",
+        "As the Roman juggernaut surged ahead, Hannibal's center slowly retreated without breaking, luring the Romans into an inescapable pocket.",
+        "Carthaginian heavy cavalry smashed shut the rear, compressing 70,000 Roman soldiers so tightly they could not even draw their swords before being slaughtered."
+      ],
+      "keywords": [
+        "Battle of Cannae painting",
+        "Hannibal Barca bust portrait",
+        "Roman legionary engraving",
+        "Ancient battlefield map Cannae",
+        "Carthaginian cavalry historical illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#hannibal",
+        "#battleofcannae",
+        "#militarytactics"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome lost seventy thousand soldiers in a single afternoon.",
+        "search": "battle of cannae death toll oil painting",
+        "caption": "70,000 Romans died in a single afternoon."
+      },
+      {
+        "narration": "On August 2, 216 BC, the Roman Republic suffered the deadliest day of combat in ancient history.",
+        "search": "ancient roman republic legionary marble relief",
+        "caption": "August 2, 216 BC: Rome's deadliest military disaster."
+      },
+      {
+        "narration": "Consuls Terentius Varro and Aemilius Paullus fielded eighty-six thousand legionaries, banking on overwhelming brute force to crush Carthage.",
+        "search": "roman legionaries advancing engraving",
+        "caption": "86,000 Roman troops marched to crush Hannibal."
+      },
+      {
+        "narration": "Awaiting them near the town of Cannae stood Hannibal Barca, outnumbered nearly two to one with forty-five thousand soldiers.",
+        "search": "hannibal barca marble bust statue",
+        "caption": "Hannibal Barca faced odds of nearly two to one."
+      },
+      {
+        "narration": "Instead of a conventional defensive wall, Hannibal arranged his frontline into an outward-bulging convex crescent.",
+        "search": "battle of cannae battle formation map engraving",
+        "caption": "Hannibal deployed an inverted convex crescent formation."
+      },
+      {
+        "narration": "He deliberately placed his least disciplined Iberian and Gallic levies at the center, holding back elite African veterans on the flanks.",
+        "search": "ancient celtiberian warriors historical illustration",
+        "caption": "His weakest troops held the protruding center line."
+      },
+      {
+        "narration": "When the dense Roman column slammed forward, Hannibal ordered his center to give ground step by step without breaking.",
+        "search": "hannibal carthaginian army battle oil painting",
+        "caption": "Hannibal ordered his center to deliberately yield ground."
+      },
+      {
+        "narration": "Believing the enemy line was collapsing, the Roman legionaries surged forward, blind to the pocket forming around them.",
+        "search": "ancient roman soldiers fighting battle engraving",
+        "caption": "The Roman legions surged forward into the pocket."
+      },
+      {
+        "narration": "On August 2, 216 BC, Hasdrubal's Carthaginian heavy cavalry swept around the Roman flanks and smashed shut the trap from behind.",
+        "search": "Carthaginian cavalry historical illustration",
+        "caption": "Carthaginian cavalry seals the Roman rear, completing the double envelopment."
+      },
+      {
+        "narration": "Encircled on all sides, the Roman legionaries were compressed so tightly into the pocket that thousands could not even draw their swords.",
+        "search": "Battle of Cannae painting",
+        "caption": "70,000 Romans packed so densely they could not raise their swords."
+      },
+      {
+        "narration": "Rome lost seventy thousand soldiers in a single afternoon, making Hannibal Barca's crescent maneuver the deadliest battlefield trap in ancient history.",
+        "search": "Hannibal Barca bust portrait",
+        "caption": "Hannibal's crescent trap remains the deadliest single day in ancient warfare."
+      },
+      {
+        "narration": "70,000 Romans died in a single afternoon at Cannae.",
+        "search": "Battle of Cannae painting",
+        "caption": "70,000 Romans fell in a single day."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T01:21:08.110723+00:00",
+    "updated_at": "2026-11-01T01:26:34.758894+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-01T01:23:51.123643+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "350 chars (cat 324 de vua 55s)",
+        "at": "2026-11-01T01:24:36.317334+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 4 cau",
+        "at": "2026-11-01T01:24:38.090393+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T01:24:38.670110+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-01T01:26:05.653561+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-01T01:26:05.732792+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 13705430 bytes",
+        "at": "2026-11-01T01:26:34.404805+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T01:26:34.758868+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/1589279/pexels-photo-1589279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806575/pexels-photo-38806575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125831/pexels-photo-38125831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35069560/pexels-photo-35069560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353796/pexels-photo-38353796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5742968/pexels-photo-5742968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269127/pexels-photo-9269127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40621427/pexels-photo-40621427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237006/pexels-photo-38237006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18799717/pexels-photo-18799717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3ba21801d9",
     "kind": "short",
     "channel": "Channel2",
