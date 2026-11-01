@@ -1,5 +1,599 @@
 [
   {
+    "id": "c45b699718",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Last Stand of the Swiss Guard: How 189 Men Fought 20,000",
+    "idea": {
+      "title": "The Last Stand of the Swiss Guard: How 189 Men Fought 20,000",
+      "hook": "On May 6, 1527, twenty thousand raging mercenaries stormed the gates of Rome, but 189 Swiss Guards stood between them and the Pope, refusing to yield an inch.",
+      "beats": [
+        "In the spring of 1527, Holy Roman Emperor Charles V's imperial army of 20,000 starving, unpaid mercenaries marched on Rome driven by mutiny and greed.",
+        "Pope Clement VII ignored repeated warnings, leaving the Eternal City weakly defended while imperial forces surrounded the ancient walls under cover of thick morning fog.",
+        "The storm begins at the Borgo walls, where the imperial commander Duke of Bourbon is killed instantly, removing all remaining discipline from the ravenous horde.",
+        "With the walls breached, panic erupts across Rome as German Landsknechts and Spanish troops cut down civilians in an unstoppable, bloodthirsty tide.",
+        "Inside the Vatican, Captain Kaspar Röist gathers the 189 members of the Pontifical Swiss Guard, fully aware that no reinforcements are coming to save them.",
+        "The Guard makes its first stand at the Teutonic Cemetery, locking halberds and broadswords in savage, close-quarters combat against overwhelming numbers.",
+        "Driven back to the marble steps and high altar of St. Peter's Basilica, the guards form a desperate defensive perimeter to buy every possible second.",
+        "Captain Röist falls mortally wounded while the remaining guards fight shoulder-to-shoulder, transforming the sacred basilica into a horrific slaughterhouse.",
+        "While 147 guards sacrifice their lives on the steps, the surviving 42 guards extract Pope Clement VII along the narrow, elevated Passetto di Borgo corridor.",
+        "Imperial soldiers reach the base of Castel Sant'Angelo just as the heavy iron portcullis drops, securing the Pope behind fortress walls with seconds to spare.",
+        "Rome is left to endure months of devastating atrocities and looting, an apocalyptic event that marked the tragic end of the Italian High Renaissance.",
+        "To this day, every new recruit of the Swiss Guard is sworn in on May 6th, commemorating the 189 men who honored their oath in blood."
+      ],
+      "keywords": [
+        "Swiss Guard",
+        "Sack of Rome 1527",
+        "Pope Clement VII",
+        "Battle of Rome",
+        "Landsknechts",
+        "Holy Roman Empire",
+        "Castel Sant Angelo",
+        "military history",
+        "epic last stands",
+        "Renaissance warfare"
+      ],
+      "tags": [
+        "#SwissGuard",
+        "#SackOfRome",
+        "#MilitaryHistory",
+        "#HistoryDocumentary",
+        "#LastStand",
+        "#Vatican",
+        "#RenaissanceHistory",
+        "#EuropeanHistory",
+        "#HistoricalBattles",
+        "#EpicHistory"
+      ],
+      "kind": "long",
+      "thumbnail_text": "189 VS 20,000: LAST STAND"
+    },
+    "scenes": [
+      {
+        "narration": "Could one hundred eighty-nine guards stop twenty thousand invaders?",
+        "search": "swiss guard halberd oil painting",
+        "caption": "189 guards against an army of 20,000."
+      },
+      {
+        "narration": "In May 1527, twenty thousand starving imperial troops under Holy Roman Emperor Charles V marched mutinously toward Rome.",
+        "search": "emperor charles v portrait painting",
+        "caption": "May 1527: Imperial armies march toward Rome."
+      },
+      {
+        "narration": "Pope Clement VII ignored urgent military warnings, leaving the Vatican's outer fortifications manned by fewer than five thousand militia.",
+        "search": "pope clement vii portrait painting",
+        "caption": "Pope Clement VII left Rome critically undefended."
+      },
+      {
+        "narration": "On the morning of May 6, imperial commander Charles of Bourbon was shot dead scaling the Borgo walls, destroying all military discipline.",
+        "search": "charles iii duke of bourbon portrait painting",
+        "caption": "The imperial commander fell during the assault."
+      },
+      {
+        "narration": "Breaching the outer ramparts under heavy fog, German Landsknechts and Spanish infantry poured through the streets, butchering citizens on sight.",
+        "search": "sack of rome 1527 engraving",
+        "caption": "Mercenary forces breach Rome's outer defenses."
+      },
+      {
+        "narration": "Inside the Vatican complex, Captain Kaspar Röist mustered all one hundred eighty-nine Pontifical Swiss Guards, knowing no relief force existed.",
+        "search": "kaspar roist portrait engraving",
+        "caption": "Captain Röist assembled 189 guardsmen."
+      },
+      {
+        "narration": "The guards formed a locked phalanx of steel halberds at the Teutonic Cemetery, absorbing the initial wave of thousands.",
+        "search": "battle of rome 1527 oil painting",
+        "caption": "The Swiss Guard holds the cemetery."
+      },
+      {
+        "narration": "Forced backward onto the marble steps of Saint Peter's Basilica, the surviving guards fought shoulder-to-shoulder as imperial troops encircled them.",
+        "search": "old saint peters basilica rome engraving",
+        "caption": "A desperate perimeter on Saint Peter's steps."
+      },
+      {
+        "narration": "As the horde smashed through the basilica doors, Captain Kaspar Röist was struck down, leaving the surviving guards to transform the holy sanctuary into a slaughterhouse.",
+        "search": "saint peters basilica interior 16th century engraving",
+        "caption": "Captain Kaspar Röist falls as the basilica becomes a bloody battlefield."
+      },
+      {
+        "narration": "Exactly 147 Swiss Guards threw themselves directly into the imperial weapons, intentionally sacrificing their lives to buy precious minutes for their pontiff's escape.",
+        "search": "swiss guard battle 1527 oil painting",
+        "caption": "147 guards sacrifice their lives to stall twenty thousand attackers."
+      },
+      {
+        "narration": "While the rearguard fought to the last man, 42 surviving guards escorted Pope Clement VII through the Passetto di Borgo, a secret elevated corridor above the streets.",
+        "search": "passetto di borgo rome 17th century engraving",
+        "caption": "Pope Clement VII flees through the secret elevated Passetto di Borgo corridor."
+      },
+      {
+        "narration": "Imperial Landsknechts breached the corridor's outer doors just paces behind, determined to capture the Pope for a ransom to cover months of unpaid wages.",
+        "search": "landsknecht soldier 16th century woodcut engraving",
+        "caption": "Unpaid imperial mercenaries pursue the Pope across the elevated stone passage."
+      },
+      {
+        "narration": "Pope Clement VII reached the massive fortress of Castel Sant'Angelo seconds before the heavy iron portcullis dropped, securing him behind impenetrable walls.",
+        "search": "castel sant angelo rome 16th century oil painting",
+        "caption": "The massive portcullis of Castel Sant'Angelo drops with seconds to spare."
+      },
+      {
+        "narration": "Though the Pope survived behind heavy battlements, Rome was abandoned to eight devastating months of unchecked plunder, rape, and destruction by leaderless troops.",
+        "search": "sack of rome 1527 oil painting",
+        "caption": "Leaderless imperial troops subjected Rome to eight months of brutal looting."
+      },
+      {
+        "narration": "The horrific destruction of May 1527 shattered the prosperity of Rome, effectively bringing a tragic and abrupt end to the peak of the Italian High Renaissance.",
+        "search": "rome renaissance ruins 17th century oil painting",
+        "caption": "The devastation of 1527 brought the Italian High Renaissance to an end."
+      },
+      {
+        "narration": "To this day, every new recruit of the Pontifical Swiss Guard takes their solemn oath of loyalty on May 6th, bound by the memory of the 189 men.",
+        "search": "pontifical swiss guard swearing in ceremony color photograph",
+        "caption": "Every May 6th, new recruits take their oath honoring the 189."
+      },
+      {
+        "narration": "In early 1527, Holy Roman Emperor Charles V lacked the gold to pay his imperial army, leaving twenty thousand Spanish and German troops unpaid in northern Italy. Facing open mutiny, the army's leadership realized only massive plunder could prevent their soldiers from turning on their own officers.",
+        "search": "Emperor Charles V portrait oil painting by Titian",
+        "caption": "Emperor Charles V left his massive Italian army unpaid in 1527"
+      },
+      {
+        "narration": "Charles III, Duke of Bourbon, assumed command of the starving force and marched south through torrential mud, promising the riches of the Papal States. Without supply trains or artillery, the desperate mercenaries moved at breakneck speed directly toward the undefended capital of Christendom.",
+        "search": "Charles III Duke of Bourbon portrait engraving",
+        "caption": "The Duke of Bourbon promised Rome's wealth to starving mercenaries"
+      },
+      {
+        "narration": "A significant portion of the army consisted of German Landsknechts who had embraced Martin Luther's Protestant Reformation. These mercenary pikemen viewed Rome not just as a wealthy prize, but as a corrupt Babylon whose religious monuments deserved total destruction.",
+        "search": "16th century German Landsknecht soldiers woodcut engraving",
+        "caption": "Protestant Landsknechts viewed Rome as a target for religious retribution"
+      },
+      {
+        "narration": "In the Vatican, Pope Clement VII fatally miscalculated the threat, trusting fragile diplomatic truces rather than bolstering the city's fortifications. To conserve papal funds, Clement had even disbanded several thousand veteran mercenaries just weeks before the imperial force arrived outside the walls.",
+        "search": "Pope Clement VII portrait oil painting Sebastiano del Piombo",
+        "caption": "Pope Clement VII disbanded key defense forces weeks before the invasion"
+      },
+      {
+        "narration": "Before sunrise on May 6, 1527, a dense river fog crept off the Tiber, blinding Roman lookouts atop the Borgo ramparts. Under cover of the mist, imperial columns quietly moved into assault positions along the low walls of the Vatican quarter without facing artillery fire.",
+        "search": "Renaissance Rome city walls antique map engraving",
+        "caption": "Heavy morning fog masked the imperial approach on May 6"
+      },
+      {
+        "narration": "Leading the vanguard up an assault ladder, the Duke of Bourbon was struck dead by an arquebus bullet fired from the walls. His sudden demise removed the only commander capable of restraining the twenty thousand mercenaries, transforming the assault into an engine of unchecked rage.",
+        "search": "Death of the Duke of Bourbon 1527 oil painting",
+        "caption": "The imperial commander was killed instantly during the opening assault"
+      },
+      {
+        "narration": "Driven by fury over their fallen leader, Spanish pikemen and German Landsknechts swarmed over the breached ramparts near the Porta Torrione. The poorly trained Roman civic militia broke into immediate panic, abandoning their defensive posts and fleeing through the crowded cobblestone streets.",
+        "search": "1527 Sack of Rome battle historical engraving",
+        "caption": "Imperial mercenaries breached the ramparts and shattered Roman city militia"
+      },
+      {
+        "narration": "With the outer perimeter lost, Swiss Guard Commander Kaspar Röist assembled his 188 guardsmen near the Campo Santo Teutonico beside St. Peter's. Outnumbered over a hundred to one, the Swiss veterans locked their halberds in tight formation, resolved to hold the ground to the death.",
+        "search": "16th century Swiss Guard halberdier fresco painting",
+        "caption": "Commander Kaspar Röist formed a defensive perimeter with 188 guards"
+      },
+      {
+        "narration": "Thousands of German Landsknechts, many carrying intense religious grievances against the Roman papacy, crashed directly into the Swiss Guard's halberd hedge.",
+        "search": "landsknecht soldiers 16th century woodcut engraving",
+        "caption": "Imperial Landsknechts clash violently against the Swiss defensive line."
+      },
+      {
+        "narration": "Inside the cramped confines of the Teutonic Cemetery, Swiss halberdiers engaged in ferocious melee combat against mercenary zweihänder broadswords.",
+        "search": "renaissance halberd and zweihander battle engraving",
+        "caption": "Brutal close-quarters combat inside the Teutonic Cemetery."
+      },
+      {
+        "narration": "Spanish arquebusiers mounted the surrounding cemetery walls, firing devastating point-blank volleys into the Swiss ranks that shattered breastplates and pikes.",
+        "search": "16th century arquebusier firing matchlock woodcut",
+        "caption": "Spanish arquebus fire tears through the Swiss formation."
+      },
+      {
+        "narration": "Commander Kaspar Röist collapsed after taking multiple gunshot and blade wounds, ordering the surviving guards to pull back toward the basilica steps.",
+        "search": "Kaspar Roist commander swiss guard portrait painting",
+        "caption": "Commander Kaspar Röist falls mortally wounded during the fighting retreat."
+      },
+      {
+        "narration": "Swarming mercenaries overran Röist's position and slaughtered the commander, pressing immediately forward against civilians packed outside the church doors.",
+        "search": "sack of rome 1527 slaughter oil painting",
+        "caption": "Imperial mercenaries execute the fallen commander and advance on refugees."
+      },
+      {
+        "narration": "The surviving Swiss guards regrouped on the marble steps of Old St. Peter's, forming a narrow defensive perimeter to block the central entrance.",
+        "search": "old saint peters basilica exterior 16th century engraving",
+        "caption": "The Swiss Guard forms a desperate line on St. Peter's steps."
+      },
+      {
+        "narration": "Mercenaries battered their way through secondary entrances, turning the marble nave and high altar into a chaotic, blood-soaked battleground.",
+        "search": "sack of rome interior basilica massacre painting",
+        "caption": "Combat spills across the high altar of St. Peter's Basilica."
+      },
+      {
+        "narration": "With over one hundred and forty guardsmen lying dead across the steps, Lieutenant Hercules Goldli gathered the remaining forty-two survivors for an emergency maneuver.",
+        "search": "passetto di borgo vatican corridor historical engraving",
+        "caption": "Forty-two surviving guards prepare to execute the final escape plan."
+      },
+      {
+        "narration": "Lieutenant Hercules Göldli shoved Pope Clement VII through a concealed wooden door leading directly into the Passetto di Borgo. The elevated stone corridor offered the only remaining escape path connecting the Vatican Palace to the fortress of Castel Sant'Angelo.",
+        "search": "passetto di borgo vatican corridor stone wall engraving",
+        "caption": "Pope Clement VII enters the secret elevated escape corridor"
+      },
+      {
+        "narration": "To conceal his identity from imperial marksmen below, Bishop Paolo Giovio draped his own purple cloak over Clement VII's white papal cassock. Protestant Landsknechts fired arquebuses upward at the narrow arrow slits of the corridor as the pontiff fled.",
+        "search": "pope clement vii portrait oil painting",
+        "caption": "Clement VII disguises his papal robes beneath a bishop's cloak"
+      },
+      {
+        "narration": "A squad of Swiss Guards remained behind at the entrance of the covered walkway, barricading the heavy oak portal to stall the pursuing imperial troops. Their desperate resistance bought critical minutes as screaming mercenaries battered down the exterior doors.",
+        "search": "16th century swiss guard halberdier combat engraving",
+        "caption": "Guardsmen barricade the corridor entrance against swarming imperial soldiers"
+      },
+      {
+        "narration": "Below the ramparts, thousands of Spanish and German infantry swarmed the Borgo district, slaughtering civilians and setting fire to nearby residences. Plumes of black smoke rose alongside the covered passage, choking the fleeing papal retinue as lead shot chipped the outer brickwork.",
+        "search": "sack of rome 1527 city burning oil painting",
+        "caption": "Mercenaries torch Rome below the elevated corridor"
+      },
+      {
+        "narration": "The forty-two surviving Swiss Guards sprinted eight hundred meters along the top of the wall, shielding Clement VII with their bodies and iron bucklers. Behind them, imperial vanguard units breached the initial barrier and began racing up the corridor stairs.",
+        "search": "passetto di borgo aerial ancient bridge engraving",
+        "caption": "Forty-two survivors escort the pontiff across the eight-hundred-meter walkway"
+      },
+      {
+        "narration": "Across the Tiber, gunners stationed atop Castel Sant'Angelo trained their heavy culverins and cannons directly down at the approach to deter pursuing cavalry. Fortress commander Bernardo de Medici ordered the outer drawbridge lowered just enough to admit the running pontiff.",
+        "search": "castel sant angelo rome 16th century engraving",
+        "caption": "Fortress gunners prepare artillery atop Castel Sant'Angelo"
+      },
+      {
+        "narration": "Clement VII and his bloodied escort reached the fortress ramparts with imperial vanguard soldiers less than fifty paces behind them. Spanish arquebusiers fired volleys directly into the entryway, wounding two more guardsmen right on the threshold.",
+        "search": "landsknecht soldiers arquebus firing 16th century woodcut",
+        "caption": "Imperial vanguard opens fire on the fortress threshold"
+      },
+      {
+        "narration": "Heavy iron portcullises crashed down into the stone grooves, severing the corridor and locking the Pope inside the fortified sanctuary. Yet outside, twenty thousand mutinous troops completely encircled the fortress, preparing to starve out the Roman curia.",
+        "search": "castel sant angelo siege historical engraving",
+        "caption": "The iron portcullis falls, trapping Clement inside an encircled stronghold"
+      },
+      {
+        "narration": "Inside Castel Sant'Angelo, Pope Clement VII looked out over a burning Rome as imperial artillery began bombarding the fortress walls. Outside, unburied corpses piled in the streets, raising the immediate specter of disease alongside starvation.",
+        "search": "sack of rome 1527 burning city engraving",
+        "caption": "Imperial artillery bombards Castel Sant'Angelo as Rome burns below."
+      },
+      {
+        "narration": "Without the deceased Duke of Bourbon to command them, Philibert of Chalon struggled to control twenty thousand mutinous Landsknechts and Spanish soldiers. Monasteries, palaces, and ancient tombs were systematically stripped of gold and sacred relics.",
+        "search": "philibert of chalon portrait painting",
+        "caption": "Imperial officers lost all control over twenty thousand mutinous troops."
+      },
+      {
+        "narration": "Imperial troops subjected the Roman population to brutal ransoms, torturing cardinals and citizens alike to reveal hidden treasures. Over eight thousand civilians perished in the first week of the occupation alone.",
+        "search": "sack of rome massacre 1527 historical oil painting",
+        "caption": "Thousands of Roman citizens faced torture and summary execution."
+      },
+      {
+        "narration": "The forty-two surviving Swiss Guards mounted the ramparts of Castel Sant'Angelo, guarding the battlements alongside goldsmith Benvenuto Cellini and papal gunners. Food stores inside the fortress dwindled rapidly under the summer heat.",
+        "search": "benvenuto cellini portrait painting",
+        "caption": "Forty-two surviving Swiss Guards defended the castle ramparts."
+      },
+      {
+        "narration": "By July 1527, the bubonic plague erupted among the occupying imperial army, killing thousands of mercenaries and spreading into the overcrowded castle. The deadly outbreak threatened to destroy both besieger and besieged before any peace could be brokered.",
+        "search": "16th century plague doctor woodcut",
+        "caption": "The bubonic plague devastated both the besiegers and the besieged."
+      },
+      {
+        "narration": "In Madrid, Holy Roman Emperor Charles V expressed public embarrassment over the sack of the Holy See, yet secretly exploited Clement VII's imprisonment. He demanded immense monetary indemnities and territorial concessions to release the pontiff.",
+        "search": "emperor charles v portrait painting demanded",
+        "caption": "Emperor Charles V demanded massive ransoms for the Pope's release."
+      },
+      {
+        "narration": "Facing starvation and pestilence, Clement VII agreed to pay four hundred thousand ducats and cede key Papal States fortresses to the empire. To guarantee payment, imperial forces held the Pope prisoner inside the castle for seven long months.",
+        "search": "16th century papal states map engraving",
+        "caption": "Pope Clement VII capitulated after seven months of captivity."
+      },
+      {
+        "narration": "On December 6, 1527, Clement VII escaped Castel Sant'Angelo disguised as a peddler, fleeing to Orvieto under cover of night. Behind him lay a shattered city that had lost over half its population to massacre, famine, and plague.",
+        "search": "castel sant angelo rome 16th century engraving escaped",
+        "caption": "The Pope escaped in disguise, leaving a devastated capital behind."
+      },
+      {
+        "narration": "News of the horrific desecration of Rome shocked European monarchs, yet Holy Roman Emperor Charles V took full political advantage of the Pope's utter humiliation.",
+        "search": "emperor charles v oil painting portrait",
+        "caption": "News of Rome's destruction shocked 16th-century European monarchs."
+      },
+      {
+        "narration": "With Clement VII effectively crippled, Charles V asserted supreme imperial dominance over the Italian peninsula, ending decades of Renaissance geopolitical rivalry.",
+        "search": "battle of pavia 1525 oil painting",
+        "caption": "Imperial dominance reshaped the geopolitical landscape of Renaissance Europe."
+      },
+      {
+        "narration": "The catastrophic fall of Rome signaled the abrupt end of the High Renaissance, as artists, scholars, and architects fled the devastated intellectual capital.",
+        "search": "ruins of rome Renaissance engraving map",
+        "caption": "The Sack of Rome marked the sudden end of the High Renaissance."
+      },
+      {
+        "narration": "Protestant reformers across northern Europe viewed the destruction of the papal stronghold as divine judgment against Vatican corruption.",
+        "search": "martin luther protestant reformation woodcut print",
+        "caption": "Reformers saw the sack as divine retribution against the Vatican."
+      },
+      {
+        "narration": "Driven by the crisis, the Catholic Church launched the Counter-Reformation, adopting rigid orthodoxy and heightened defensive vigilance.",
+        "search": "council of trent catholic counter reformation oil painting",
+        "caption": "The Vatican response birthed the militant Counter-Reformation era."
+      },
+      {
+        "narration": "To prevent future catastrophes, successive popes fundamentally restructured the defense of the Vatican, placing absolute trust in their elite guards.",
+        "search": "pontifical swiss guard 16th century costume engraving",
+        "caption": "The papacy permanently altered its security strategy after 1527."
+      },
+      {
+        "narration": "Among all foreign forces, only the last stand of the 189 Swiss Guards earned eternal reverence for refusing to abandon their post during total collapse.",
+        "search": "swiss guard stand battle st peters basilica oil painting",
+        "caption": "The Swiss Guard earned unmatched historical devotion through sacrifice."
+      },
+      {
+        "narration": "Out of 189 guardsmen who made their heroic stand on May 6, 1527, exactly 147 perished on the blood-soaked marble of the Vatican.",
+        "search": "st peters basilica interior marble steps 16th century print",
+        "caption": "One hundred forty-seven guards sacrificed their lives in defense."
+      },
+      {
+        "narration": "Under heavy arquebus fire, the surviving forty-two Swiss Guards rushed Pope Clement VII through the elevated stone corridor of the Passetto di Borgo.",
+        "search": "Passetto di Borgo Rome 16th century engraving",
+        "caption": "Forty-two surviving guards escort Pope Clement VII along the high stone corridor."
+      },
+      {
+        "narration": "Bishop Paolo Giovio covered Clement VII's white vestments with a dark cloak so imperial marksmen below could not spot him along the parapet.",
+        "search": "Paolo Giovio portrait oil painting",
+        "caption": "Bishop Giovio concealed the Pope's bright robes from marksmen aiming below."
+      },
+      {
+        "narration": "Just as imperial shock troops reached the moat, the massive iron portcullis of Castel Sant'Angelo crashed shut, sealing the pontiff inside by mere seconds.",
+        "search": "Castel Sant'Angelo 16th century fortress engraving",
+        "caption": "Castel Sant'Angelo's iron gates sealed the pontiff inside just seconds ahead."
+      },
+      {
+        "narration": "On the ramparts above, Renaissance goldsmith Benvenuto Cellini directed fortress artillery, firing bronze cannons down into the surging imperial ranks.",
+        "search": "Benvenuto Cellini portrait engraving",
+        "caption": "Artist Benvenuto Cellini directed cannon fire from the fortress ramparts."
+      },
+      {
+        "narration": "Blocked from the papal sanctuary, the twenty thousand unpaid imperial mercenaries unleashed total savagery upon the defenseless civilian populace of Rome.",
+        "search": "Sack of Rome 1527 historical oil painting",
+        "caption": "Twenty thousand mutinous mercenaries turned their fury upon Rome's defenseless citizens."
+      },
+      {
+        "narration": "German Landsknechts looted priceless relics from St. Peter's high altar, dressed horses in cardinal robes, and scrawled Martin Luther's name across Vatican frescoes.",
+        "search": "Landsknecht soldiers 16th century woodcut print",
+        "caption": "Imperial Landsknechts desecrated papal treasures and inscribed Protestant slogans on frescoes."
+      },
+      {
+        "narration": "As summer arrived, the stench of unburied corpses triggered a devastating outbreak of bubonic plague, consuming both the invaders and the city.",
+        "search": "Plague in Rome 16th century engraving",
+        "caption": "Rotting corpses ignited an epidemic of plague across the ruined city."
+      },
+      {
+        "narration": "Inside Castel Sant'Angelo, food ran dry as Clement VII watched Rome burn, while imperial engineers dug siege tunnels directly beneath the papal redoubt.",
+        "search": "Siege of Rome 1527 vintage map engraving",
+        "caption": "Imperial sappers tunneled beneath the fortress as rations inside completely ran out."
+      },
+      {
+        "narration": "On June 6, 1527, Pope Clement VII officially surrendered Castel Sant'Angelo, agreeing to pay an astronomical ransom of 400,000 ducats to save his life.",
+        "search": "Pope Clement VII portrait painting Sebastiano del Piombo",
+        "caption": "Clement VII surrenders Castel Sant'Angelo on June 6, 1527."
+      },
+      {
+        "narration": "The humiliating capitulation terms forced the papacy to surrender key defensive fortresses, including Ostia, Civitavecchia, and Modena, to imperial control.",
+        "search": "Papal States central Italy Renaissance map engraving",
+        "caption": "The papacy surrenders key fortress cities across central Italy."
+      },
+      {
+        "narration": "To raise the first cash installment, papal treasurers were forced to melt down centuries of sacred golden chalices, reliquaries, and papal tiaras into bullion.",
+        "search": "goldsmith melting relics workshop 16th century engraving",
+        "caption": "Centuries of sacred papal relics are melted into gold bullion."
+      },
+      {
+        "narration": "Despite receiving gold, mutinous Landsknechts refused to vacate Rome, holding Clement VII as an armed hostage inside his own fortress apartment.",
+        "search": "Landsknecht mercenaries occupying Rome 16th century engraving",
+        "caption": "Mutinous imperial mercenaries maintain Clement VII as an armed hostage."
+      },
+      {
+        "narration": "In Madrid, Emperor Charles V publicly wore mourning robes over the sack, yet refused to dispatch funds to pay his troops or secure Clement's release.",
+        "search": "Holy Roman Emperor Charles V portrait painting Titian",
+        "caption": "Emperor Charles V feigns grief while withholding troop payments."
+      },
+      {
+        "narration": "Inside Castel Sant'Angelo, conditions degraded rapidly as seven high-ranking cardinals were locked in iron chains as collateral for unpaid ransom debts.",
+        "search": "Castel Sant Angelo prison cells historical engraving",
+        "caption": "High-ranking cardinals are chained as collateral for unpaid debts."
+      },
+      {
+        "narration": "By November 1527, intercepted imperial correspondence warned Clement that Lutheran mercenaries were preparing to kidnap him and march him to Nuremberg for trial.",
+        "search": "sixteenth century papal cipher secret letter manuscript",
+        "caption": "Intercepted letters reveal plots to put the Pope on trial."
+      },
+      {
+        "narration": "With winter approaching and his captors growing increasingly unstable, Clement VII realized that awaiting imperial mercy would result in his public execution.",
+        "search": "Castel Sant Angelo Rome nocturnal moonlight oil painting",
+        "caption": "Clement VII faces execution as winter tightens the siege."
+      },
+      {
+        "narration": "On December 6, 1527, Pope Clement VII disguised himself as a peddler and fled Castel Sant'Angelo under cover of night toward Orvieto.",
+        "search": "Pope Clement VII escape Orvieto 1527 historical engraving",
+        "caption": "December 1527: Clement escapes Rome in disguise"
+      },
+      {
+        "narration": "Behind him, Rome lay shattered after seven months of pillaging, leaving over 20,000 citizens dead and the High Renaissance in ruins.",
+        "search": "Sack of Rome 1527 pillage historical oil painting",
+        "caption": "20,000 citizens dead in six months of looting"
+      },
+      {
+        "narration": "The catastrophe permanently stripped the Papacy of its sovereign military leverage and marked the tragic end of Renaissance Rome's golden age.",
+        "search": "Renaissance Rome ruins 16th century map engraving",
+        "caption": "The end of Renaissance Rome's golden age"
+      },
+      {
+        "narration": "Yet amid the devastation, the sacrifice of the Pontifical Swiss Guard successfully fulfilled its primary mission by preserving the life of the Pope.",
+        "search": "Castel Sant Angelo fortress Rome 16th century print engraving",
+        "caption": "The defensive line that saved the Papacy"
+      },
+      {
+        "narration": "Of the 189 men who engaged 20,000 invaders, 147 perished on the steps of St. Peter's Basilica while 42 fought to secure the pontiff's retreat.",
+        "search": "Swiss Guard stand St Peters 1527 historical oil painting",
+        "caption": "147 guards dead to secure the Pope's escape"
+      },
+      {
+        "narration": "Today, the Pontifical Swiss Guard remains the world's oldest active military corps, maintaining continuous service for over five centuries.",
+        "search": "Swiss Guard Vatican City archival photograph",
+        "caption": "World's oldest active military unit"
+      },
+      {
+        "narration": "Every year on May 6, new recruits gather at the Vatican to swear their solemn oath of loyalty, commemorating the exact date of the 1527 last stand.",
+        "search": "Swiss Guard annual oath ceremony Vatican photograph",
+        "caption": "May 6th: annual oath sworn in honor of 1527"
+      },
+      {
+        "narration": "Against impossible odds of over 100 to 1, 189 men honored their oath in blood, ensuring the survival of the Papacy through sheer self-sacrifice.",
+        "search": "Pontifical Swiss Guard armor 16th century manuscript engraving",
+        "caption": "189 men against 20,000: an oath bound in blood"
+      },
+      {
+        "narration": "Can 189 men stop an army of twenty thousand? On May 6, 1527, the Swiss Guard made history's ultimate stand in Rome.",
+        "search": "sack of rome 1527 oil painting",
+        "caption": "189 guards against 20,000 imperial mercenaries in 1527."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T18:44:32.430990+00:00",
+    "updated_at": "2026-11-01T19:37:23.597681+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-01T19:12:38.905134+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4607 chars",
+        "at": "2026-11-01T19:14:19.868184+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "283.0s en-US-GuyNeural 54 cau",
+        "at": "2026-11-01T19:14:44.606782+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T19:14:48.945225+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-01T19:33:04.829349+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-01T19:33:04.909132+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 283.1s 187733242 bytes",
+        "at": "2026-11-01T19:37:23.192302+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "8 chapters",
+        "at": "2026-11-01T19:37:23.342338+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T19:37:23.597656+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19240506/pexels-photo-19240506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39965017/pexels-photo-39965017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422608/pexels-photo-20422608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14552618/pexels-photo-14552618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19688620/pexels-photo-19688620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6458045/pexels-photo-6458045.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29056518/pexels-photo-29056518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6720423/pexels-photo-6720423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17151443/pexels-photo-17151443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6648840/pexels-photo-6648840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23547599/pexels-photo-23547599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6220447/pexels-photo-6220447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26605624/pexels-photo-26605624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709016/pexels-photo-35709016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2235213/pexels-photo-2235213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588839/pexels-photo-4588839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34998012/pexels-photo-34998012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33436820/pexels-photo-33436820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36794271/pexels-photo-36794271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20344527/pexels-photo-20344527.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251944/pexels-photo-31251944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21958122/pexels-photo-21958122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35624251/pexels-photo-35624251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33508210/pexels-photo-33508210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39580959/pexels-photo-39580959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14173503/pexels-photo-14173503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36619422/pexels-photo-36619422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6410586/pexels-photo-6410586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6220448/pexels-photo-6220448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6640750/pexels-photo-6640750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36781974/pexels-photo-36781974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37875805/pexels-photo-37875805.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7380073/pexels-photo-7380073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6832215/pexels-photo-6832215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4678335/pexels-photo-4678335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32973680/pexels-photo-32973680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/157233/pexels-photo-157233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268694/pexels-photo-9268694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17571964/pexels-photo-17571964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38087249/pexels-photo-38087249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19968245/pexels-photo-19968245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27667227/pexels-photo-27667227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28618395/pexels-photo-28618395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15498615/pexels-photo-15498615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40270943/pexels-photo-40270943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15033397/pexels-photo-15033397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7195784/pexels-photo-7195784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14638945/pexels-photo-14638945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718454/pexels-photo-7718454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25365240/pexels-photo-25365240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34704/martin-luther-church-pray-church-of-our-lady.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29258794/pexels-photo-29258794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39218801/pexels-photo-39218801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142976/pexels-photo-19142976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12487576/pexels-photo-12487576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28770381/pexels-photo-28770381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205346/pexels-photo-39205346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6328599/pexels-photo-6328599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7232055/pexels-photo-7232055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422574/pexels-photo-20422574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38190782/pexels-photo-38190782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/191761/pexels-photo-191761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/163194/old-retro-antique-vintage-163194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/849674/pexels-photo-849674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37504136/pexels-photo-37504136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38896633/pexels-photo-38896633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/191761/pexels-photo-191761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27832843/pexels-photo-27832843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13540984/pexels-photo-13540984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34423698/pexels-photo-34423698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37547504/pexels-photo-37547504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27271144/pexels-photo-27271144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063899/pexels-photo-27063899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32119568/pexels-photo-32119568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28253240/pexels-photo-28253240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6251682/pexels-photo-6251682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15164642/pexels-photo-15164642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5051681/pexels-photo-5051681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14544988/pexels-photo-14544988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319274/pexels-photo-29319274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "10b79f0a87",
     "kind": "short",
     "channel": "Channel3",
