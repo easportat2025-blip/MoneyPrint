@@ -1,5 +1,161 @@
 [
   {
+    "id": "8ded0fc36e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Timur Crushed 120 War Elephants with Fire",
+    "idea": {
+      "title": "How Timur Crushed 120 War Elephants with Fire",
+      "hook": "When the Sultan of Delhi unleashed 120 iron-clad war elephants against Timur, the conqueror turned the beasts into weapons against their own master.",
+      "beats": [
+        "In 1398, Timur invaded northern India, but his veteran cavalry froze in horror at the sight of armored elephants wielding poisoned tusks.",
+        "Timur ordered his engineers to load bundles of dry hay and wood onto the backs of transport camels.",
+        "As Delhi's elephants charged, Timur set the camels ablaze and sent them galloping directly into the enemy vanguard.",
+        "The shrieking wall of fire panicked the elephants, causing them to wheel around and trample thousands of their own defending soldiers to death."
+      ],
+      "keywords": [
+        "battle of delhi 1398 painting",
+        "tamerlane timur portrait engraving",
+        "war elephants ancient engraving",
+        "delhi sultanate medieval battle",
+        "medieval cavalry charging painting"
+      ],
+      "tags": [
+        "timur",
+        "history shorts",
+        "ancient warfare",
+        "mongol empire",
+        "military history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Timur defeated 120 armored war elephants with fire.",
+        "search": "battle of delhi 1398 miniature painting",
+        "caption": "How Timur defeated 120 armored war elephants"
+      },
+      {
+        "narration": "In December 1398, Central Asian conqueror Timur marched his army outside Delhi, confronting Sultan Nasir-ud-Din Mahmud Shah.",
+        "search": "tamerlane timur portrait miniature painting",
+        "caption": "December 1398: Timur confronts the Delhi Sultanate"
+      },
+      {
+        "narration": "The Sultanate deployed 120 massive war elephants clad in chainmail, their tusks fitted with poisoned scythes.",
+        "search": "war elephants chainmail medieval indian miniature painting",
+        "caption": "120 armored elephants with poisoned steel tusks"
+      },
+      {
+        "narration": "Timur's veteran cavalry, victorious across Persia and Russia, froze in terror at the sight of the frontline.",
+        "search": "timurid cavalry charging medieval manuscript painting",
+        "caption": "Timur's veteran cavalry terrified by the beasts"
+      },
+      {
+        "narration": "To prevent an immediate rout, Timur ordered his engineers to dig anti-elephant trenches fronted by iron caltrops.",
+        "search": "medieval siege entrenchment historical engraving",
+        "caption": "Defensive trenches dug against the elephant charge"
+      },
+      {
+        "narration": "He then requisitioned his army's baggage camels, strapping bundles of dry hay, wood, and resin to their packs.",
+        "search": "caravan camels medieval islamic manuscript miniature",
+        "caption": "Baggage camels loaded with straw and resin"
+      },
+      {
+        "narration": "As the Sultan's war elephants advanced in a crushing line, Timur ordered the camel loads ignited.",
+        "search": "medieval battle fire arrows night manuscript painting",
+        "caption": "Timur sets the camels ablaze against the charge"
+      },
+      {
+        "narration": "Driven forward by iron prods and blinding heat, the flaming herd galloped headlong into the advancing monsters.",
+        "search": "medieval war elephant battle chaotic miniature painting",
+        "caption": "A wall of screaming fire charges the giants"
+      },
+      {
+        "narration": "The shrieking wall of flame panicked the armored elephants, causing them to wheel around and trample their own defending infantry.",
+        "search": "delhi sultanate medieval battle painting",
+        "caption": "The panicked elephants turned back, trampling thousands of Delhi's defending troops."
+      },
+      {
+        "narration": "In December 1398, Timur's veteran cavalry swept through the shattered ranks to secure a total victory over the Sultanate.",
+        "search": "medieval cavalry charging painting",
+        "caption": "In December 1398, Timur's cavalry swept through the shattered Indian ranks."
+      },
+      {
+        "narration": "Timur captured the surviving war elephants to rebuild his empire, proving that tactical brilliance could turn an enemy's ultimate weapon against them.",
+        "search": "tamerlane timur portrait engraving",
+        "caption": "Timur proved that even iron-clad war elephants could be turned against their master."
+      },
+      {
+        "narration": "One conqueror turned 120 armored war beasts against their owners.",
+        "search": "tamerlane timur portrait engraving",
+        "caption": "Turning 120 war elephants against their own master."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T21:23:01.016427+00:00",
+    "updated_at": "2026-11-01T21:28:40.569699+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-01T21:25:11.346765+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "369 chars (cat 163 de vua 55s)",
+        "at": "2026-11-01T21:25:53.425731+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-01T21:25:58.132498+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T21:25:59.175039+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-01T21:27:42.500821+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-01T21:27:42.597060+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.2s 16831091 bytes",
+        "at": "2026-11-01T21:28:40.169988+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T21:28:40.569679+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35087804/pexels-photo-35087804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18294634/pexels-photo-18294634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18072281/pexels-photo-18072281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4261004/pexels-photo-4261004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7881817/pexels-photo-7881817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34779963/pexels-photo-34779963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6623948/pexels-photo-6623948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27650521/pexels-photo-27650521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11025333/pexels-photo-11025333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40621842/pexels-photo-40621842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38418873/pexels-photo-38418873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6475298/pexels-photo-6475298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "fdd3d77760",
     "kind": "short",
     "channel": "Channel3",
