@@ -1,5 +1,167 @@
 [
   {
+    "id": "fdd3d77760",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tiếng bẻ khớp ngón tay thực sự phát ra từ đâu?",
+    "idea": {
+      "title": "Tiếng bẻ khớp ngón tay thực sự phát ra từ đâu?",
+      "hook": "Bạn nghĩ bẻ khớp ngón tay là hai mẩu xương va vào nhau? Sự thật cơ thể kỳ lạ hơn bạn tưởng rất nhiều.",
+      "beats": [
+        "Khoảng trống giữa các khớp ngón tay chứa dịch hoạt dịch, một chất lỏng bôi trơn chứa đầy khí hòa tan.",
+        "Khi bạn kéo căng khớp để bẻ, thể tích bao khớp giãn ra đột ngột khiến áp suất tụt giảm cực nhanh.",
+        "Hiện tượng giảm áp này tạo ra một bọt khí chân không nhỏ xíu và tiếng 'rắc' chính là khoảnh khắc bọt khí này hình thành và vỡ tung.",
+        "Một bác sĩ từng bẻ khớp tay trái suốt 60 năm và để nguyên tay phải: kết quả chứng minh bẻ ngón tay không gây viêm khớp, dù vậy bẻ quá đà vẫn có thể làm giãn dây chằng."
+      ],
+      "keywords": [
+        "knuckle cracking",
+        "synovial fluid",
+        "hand bones 3d",
+        "joint bubble popping",
+        "finger anatomy"
+      ],
+      "tags": [
+        "bẻ khớp ngón tay",
+        "khớp hoạt dịch",
+        "khoa học cơ thể",
+        "thói quen hàng ngày",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tiếng bẻ khớp tay không phải do xương va nhau.",
+        "search": "hoat hinh 3d ban tay be khop ngon tay phong to",
+        "caption": "Tiếng rắc ngón tay không do xương va chạm"
+      },
+      {
+        "narration": "Bên trong các khớp ngón tay luôn có một khoang chứa dịch hoạt dịch trơn trượt.",
+        "search": "mo hinh 3d khop ngon tay chat long hoat dich mau vang",
+        "caption": "Khớp ngón tay chứa dịch bôi trơn"
+      },
+      {
+        "narration": "Chất dịch này không hề rỗng mà chứa đầy các phân tử khí nitơ và oxy hòa tan.",
+        "search": "do hoa vi mo phan tu khi oxy nito chuyen dong",
+        "caption": "Chất lỏng chứa khí hòa tan"
+      },
+      {
+        "narration": "Khi bạn kéo căng hoặc bẻ cong ngón tay, hai đầu xương bị kéo tách xa nhau.",
+        "search": "hoat hinh 3d hai dau xuong ngon tay keo gian xa nhau",
+        "caption": "Khoảng cách khớp ngón tay bị giãn rộng"
+      },
+      {
+        "narration": "Khoang khớp giãn rộng bất ngờ khiến áp suất bên trong tụt dốc chỉ trong một phần nghìn giây.",
+        "search": "dong ho do ap suat tut doc hoat hoa do hoa",
+        "caption": "Áp suất bên trong tụt giảm cực nhanh"
+      },
+      {
+        "narration": "Hiện tượng giảm áp đột ngột khiến các phân tử khí gom lại, tạo thành một bọt khí chân không.",
+        "search": "hoat hoa 3d bot khi chan khong hinh thanh trong chat long",
+        "caption": "Bọt khí chân không siêu nhỏ hình thành"
+      },
+      {
+        "narration": "Và tiếng rắc đanh giòn phát ra chính là khoảnh khắc bong bóng khí này hình thành rồi vỡ tung.",
+        "search": "hieu ung song am no tung tu bot khi ngon tay",
+        "caption": "Tiếng rắc xuất hiện khi bọt khí vỡ"
+      },
+      {
+        "narration": "Nhiều người tin thói quen này gây viêm khớp, nhưng một thí nghiệm kỳ lạ suốt sáu mươi năm đã lật ngược tất cả.",
+        "search": "bac si gia quan sat ban tay chup x quang 3d",
+        "caption": "Thí nghiệm 60 năm lật ngược lời cảnh báo"
+      },
+      {
+        "narration": "Bác sĩ Donald Unger đã bẻ khớp tay trái mỗi ngày suốt 60 năm, trong khi để nguyên tay phải làm đối chứng.",
+        "search": "hoat hinh 3d ban tay trai phai doi chieu",
+        "caption": "Bẻ tay trái 60 năm, giữ nguyên tay phải"
+      },
+      {
+        "narration": "Kết quả chụp X-quang cho thấy hai bàn tay hoàn toàn khỏe mạnh như nhau, đập tan định kiến bẻ khớp gây viêm xương.",
+        "search": "phim x quang ban tay chuyen dong 3d",
+        "caption": "Không có bất kỳ dấu hiệu viêm khớp"
+      },
+      {
+        "narration": "Bạn cũng không thể bẻ một khớp hai lần liên tiếp, vì phải mất 20 phút để khí hòa tan lại vào dịch khớp.",
+        "search": "hoat hinh 3d bot khi tan vao chat long",
+        "caption": "Cần 20 phút để bọt khí tái tạo"
+      },
+      {
+        "narration": "Tuy không hại xương, nhưng việc dùng lực bẻ quá đà liên tục có thể làm giãn dây chằng và suy giảm lực nắm.",
+        "search": "mo phong 3d day chang ngon tay keo gian",
+        "caption": "Bẻ quá mạnh dễ làm giãn dây chằng"
+      },
+      {
+        "narration": "Tiếng rắc đanh tai thực chất chỉ là bọt khí vỡ, hoàn toàn vô hại miễn là bạn không bẻ đến mức phát đau.",
+        "search": "hoat hinh 3d ban tay co bop thu gian",
+        "caption": "Chỉ là bọt khí nổ, đừng bẻ đau khớp"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-01T19:52:50.832566+00:00",
+    "updated_at": "2026-11-01T20:02:42.166185+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-01T19:58:05.949860+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "472 chars (cat 204 de vua 55s)",
+        "at": "2026-11-01T20:01:26.861246+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.7s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-01T20:01:33.856527+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-01T20:01:35.061783+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-01T20:01:46.482658+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-01T20:01:46.581518+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.7s 13066766 bytes",
+        "at": "2026-11-01T20:02:41.801349+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-01T20:02:42.166171+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35220764/14920847_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8820507/8820507-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6998543/6998543-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818572/8818572-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39815149/16983223_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10373920/10373920-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7586157/7586157-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/6501871/6501871-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819488/8819488-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8435090/8435090-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7668635/7668635-uhd_1440_2732_24fps.mp4",
+      "https://videos.pexels.com/video-files/8820121/8820121-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818508/8818508-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "c45b699718",
     "kind": "long",
     "channel": "seigh",
