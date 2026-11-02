@@ -1,5 +1,45 @@
 [
   {
+    "id": "ba197358bd",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "researching",
+    "title": "Why China Burned the World's Greatest Fleet",
+    "idea": {
+      "title": "Why China Burned the World's Greatest Fleet",
+      "hook": "In 1433, China commanded a naval armada five times larger than anything in Europe—yet an emperor issued a shocking decree that reduced every single ship to ash.",
+      "beats": [
+        "Admiral Zheng He commanded colossal 400-foot treasure ships establishing trade dominance across Asia and the African coast.",
+        "Following the emperor's death, conservative Confucian bureaucrats convinced the new ruler that foreign voyages were costly and corrupting.",
+        "Under the strict Haijin edict, the imperial court dismantled the armada, banned multi-masted ships, and destroyed all navigational logs.",
+        "This shocking retreat from the seas isolated the empire and cleared the path for European powers to rule the oceans."
+      ],
+      "keywords": [
+        "ming dynasty treasure ship",
+        "admiral zheng he engraving",
+        "chinese imperial fleet painting",
+        "ancient chinese emperor portrait",
+        "antique map south china sea"
+      ],
+      "tags": [
+        "history",
+        "ancientchina",
+        "mingdynasty",
+        "zhenghe",
+        "navalhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-02T07:34:08.451047+00:00",
+    "updated_at": "2026-11-02T07:34:08.586906+00:00",
+    "stages": {}
+  },
+  {
     "id": "3246490054",
     "kind": "short",
     "channel": "Channel3",
