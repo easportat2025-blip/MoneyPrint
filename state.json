@@ -1,5 +1,166 @@
 [
   {
+    "id": "4b56c4423b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Cái giá âm thầm khi ngủ nướng bù vào cuối tuần",
+    "idea": {
+      "title": "Cái giá âm thầm khi ngủ nướng bù vào cuối tuần",
+      "hook": "Bạn thức khuya thứ Bảy và ngủ bù đến tận trưa Chủ nhật để hồi sức, nhưng thực ra cơ thể bạn vừa bị ném qua 3 múi giờ khác nhau.",
+      "beats": [
+        "Hiện tượng lệch múi giờ xã hội (Social Jetlag) xảy ra khi bạn thay đổi giờ thức - ngủ chỉ trong 2 ngày nghỉ, bẻ gãy nhịp sinh học tự nhiên.",
+        "Tuyến tùng bị đánh lừa ngừng tiết melatonin đúng giờ, khiến bạn trằn trọc mất ngủ tối Chủ nhật và thức dậy vật vờ vào sáng thứ Hai.",
+        "Ngủ nướng không giúp trả nợ giấc ngủ mà còn làm tăng mức cortisol, khiến bạn mệt mỏi mạn tính cả tuần tiếp theo."
+      ],
+      "keywords": [
+        "sleeping in bed alarm clock",
+        "tired person morning waking up",
+        "circadian rhythm biological clock animation",
+        "exhausted office worker at desk",
+        "sunrise bedroom window cinematic"
+      ],
+      "tags": [
+        "Channel3",
+        "giấc ngủ",
+        "ngủ nướng",
+        "social jetlag",
+        "sức khỏe đời sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ nướng cuối tuần làm bạn lệch ba múi giờ.",
+        "search": "hoat hinh 3d dong ho bao thuc giuong ngu buoi sang",
+        "caption": "Ngủ nướng cuối tuần làm lệch 3 múi giờ sinh học."
+      },
+      {
+        "narration": "Thức khuya thứ Bảy và dậy trưa Chủ nhật tưởng chừng giúp bạn sạc lại năng lượng bị thiếu.",
+        "search": "hoat hinh 3d nguoi ngu nuong trum chan kin mat troi len cao",
+        "caption": "Tưởng ngủ bù sẽ hồi phục năng lượng cả tuần mệt mỏi."
+      },
+      {
+        "narration": "Nhưng y học gọi cú trượt bốn tiếng này là Social Jetlag, tức hiện tượng lệch múi giờ xã hội.",
+        "search": "do hoa 3d qua dia cau xoay truc gio lech mui gio sinh hoc",
+        "caption": "Lệch múi giờ xã hội phá vỡ nhịp sinh học tự nhiên."
+      },
+      {
+        "narration": "Đồng hồ sinh học hai mươi tư giờ nằm sâu trong não bộ vốn không hề có khái niệm ngày nghỉ.",
+        "search": "mo hinh 3d bo nao nguoi va banh rang dong ho quay",
+        "caption": "Đồng hồ sinh học trong não không hề biết đến ngày nghỉ."
+      },
+      {
+        "narration": "Khi bạn mở mắt lúc trưa muộn, ánh nắng gắt lập tức đánh lừa trung tâm điều khiển nhịp ngày đêm.",
+        "search": "hoat hinh 3d anh nang chieu qua cua so phong ngu chieu vao mat",
+        "caption": "Ánh nắng trưa làm rối loạn trung tâm điều khiển ngày đêm."
+      },
+      {
+        "narration": "Tuyến tùng bị chặn đứng, khiến hormone gây buồn ngủ melatonin không kịp tiết ra vào tối Chủ nhật.",
+        "search": "hoat hinh 3d nguoi nam tran troc nhin tran nha ban dem",
+        "caption": "Tuyến tùng ngưng tiết melatonin khiến bạn trằn trọc tối Chủ nhật."
+      },
+      {
+        "narration": "Bạn vật vã chợp mắt lúc rạng sáng, rồi bị tiếng chuông thứ Hai xé toạc giấc ngủ sâu chưa trọn vẹn.",
+        "search": "hoat hinh 3d chuong bao thuc reo nguoi dap tat vat va",
+        "caption": "Tiếng chuông thứ Hai kéo bạn dậy giữa cơn kiệt sức."
+      },
+      {
+        "narration": "Hormone căng thẳng cortisol tăng vọt để ép cơ thể tỉnh táo, nhưng cái giá cho tim mạch chỉ mới bắt đầu.",
+        "search": "do hoa 3d mach mau va hormone cortisol chay trong co the",
+        "caption": "Cortisol tăng vọt kích hoạt trạng thái mệt mỏi kéo dài."
+      },
+      {
+        "narration": "Mức cortisol cao kéo dài phá vỡ khả năng kiểm soát đường huyết, khiến bạn thèm ăn đồ ngọt và kiệt sức cả tuần.",
+        "search": "hoat hinh 3d nhan vien van phong them an do ngoat",
+        "caption": "Đường huyết thất thường gây thèm ăn liên tục"
+      },
+      {
+        "narration": "Hiện tượng Social Jetlag này làm giảm đến 20% hiệu suất não bộ, biến mỗi sáng thứ Hai thành cơn ác mộng.",
+        "search": "hoat hinh 3d dong ho sinh hoc co the vo tan",
+        "caption": "Social Jetlag giảm 20% hiệu suất làm việc"
+      },
+      {
+        "narration": "Cơ thể không thể trả nợ giấc ngủ theo cách này, mà chỉ bị văng qua 3 múi giờ khác nhau sau hai ngày nghỉ.",
+        "search": "hoat hinh 3d lich va dong ho quay nhanh",
+        "caption": "Ngủ nướng không giúp trả nợ giấc ngủ"
+      },
+      {
+        "narration": "Giải pháp duy nhất là giữ cố định giờ thức dậy vào sáng Chủ nhật giống hệt như các ngày trong tuần.",
+        "search": "hoat hinh 3d dong ho bao thuc phong ngu",
+        "caption": "Thức dậy cùng một giờ mọi ngày"
+      },
+      {
+        "narration": "Nếu quá mệt, hãy bù đắp bằng giấc chợp mắt 20 phút vào đầu giờ chiều thay vì nằm lười đến trưa.",
+        "search": "hoat hinh 3d nguoi chop mat trua sofa",
+        "caption": "Chợp mắt 20 phút thay vì ngủ nướng"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-02T17:56:59.492199+00:00",
+    "updated_at": "2026-11-02T18:05:36.578429+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-02T18:02:33.663020+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "467 chars (cat 135 de vua 55s)",
+        "at": "2026-11-02T18:03:59.678984+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-02T18:04:11.641408+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-02T18:04:12.834474+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-02T18:04:32.108036+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-02T18:04:32.216515+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.2s 18083863 bytes",
+        "at": "2026-11-02T18:05:36.103502+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-02T18:05:36.578407+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/26200881/11938222_1080_1920_50fps.mp4",
+      "https://videos.pexels.com/video-files/31412089/13401585_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8830766/8830766-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/26621066/11976809_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/33752202/14329094_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34619059/14672168_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28292251/12352700_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7477535/7477535-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7813168/7813168-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/28925319/12518752_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/19826125/19826125-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6186722/6186722-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8347520/8347520-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "de84ef4572",
     "kind": "short",
     "channel": "Channel3",
