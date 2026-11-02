@@ -1,5 +1,167 @@
 [
   {
+    "id": "de84ef4572",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bạn luôn cắn phải má trong khi đang ăn?",
+    "idea": {
+      "title": "Tại sao bạn luôn cắn phải má trong khi đang ăn?",
+      "hook": "Bạn có bao giờ tự hỏi: hàm răng nhai hàng triệu lần không sao, nhưng một khi đã lỡ cắn vào má trong một cái, bạn sẽ cắn trúng nó thêm 3 lần nữa trong ngày?",
+      "beats": [
+        "Vết cắn đầu tiên chỉ là một tai nạn ngẫu nhiên do bạn nhai quá vội hoặc vừa ăn vừa nói chuyện.",
+        "Nhưng ngay sau va chạm, mô mềm bị tổn thương sẽ lập tức sưng phồng lên tạo thành một vết gờ nhỏ.",
+        "Gờ thịt này nhô hẳn vào quỹ đạo khép lại của răng, khiến não bộ dù cố điều chỉnh vẫn biến nó thành mục tiêu tiếp theo.",
+        "Cách duy nhất để thoát khỏi vòng lặp là nhai thật chậm ở bên hàm đối diện để vết sưng kịp xẹp xuống."
+      ],
+      "keywords": [
+        "human chewing food close up",
+        "mouth anatomy 3d animation",
+        "person eating painfully",
+        "swollen cheek dental illustration",
+        "microscopic tissue inflammation"
+      ],
+      "tags": [
+        "Channel3",
+        "sự thật cơ thể",
+        "khoa học đời sống",
+        "thói quen ăn uống",
+        "mẹo vặt sức khỏe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao lỡ cắn má một lần là cắn thêm 3 lần?",
+        "search": "hoat hinh 3d nguoi dang an mieng nhai phan hieu ung",
+        "caption": "Tại sao cắn má một lần lại bị cắn lại 3 lần?"
+      },
+      {
+        "narration": "Mỗi ngày, cơ hàm của bạn thực hiện hàng nghìn lượt nhai với lực cực lớn mà không hề trượt.",
+        "search": "hoat hinh 3d mo phong quai ham nhai thuc an",
+        "caption": "Cơ hàm nhai hàng nghìn lần mỗi ngày rất chuẩn xác."
+      },
+      {
+        "narration": "Nhưng chỉ cần một khoảnh khắc xao nhãng vừa ăn vừa nói, răng sẽ cắn nhầm vào niêm mạc má.",
+        "search": "hoat hinh 3d nguoi dang an giat minh dau mieng",
+        "caption": "Chỉ một giây lơ đễnh, răng sẽ cắn trúng má."
+      },
+      {
+        "narration": "Vết va chạm ban đầu chỉ là tai nạn nhỏ, nhưng phản ứng sinh học ngay sau đó mới là rắc rối.",
+        "search": "mo phong 3d te bao niem mac mieng bi viem sung",
+        "caption": "Phản ứng viêm lập tức diễn ra tại vết cắn."
+      },
+      {
+        "narration": "Cơ thể lập tức bơm máu đến vi mạch tổn thương, khiến mô mềm sưng phồng lên tạo thành một gờ thịt.",
+        "search": "mo phong 3d quai ham voi vet sung nhung ben trong ma",
+        "caption": "Mô mềm bị sưng phồng nhô cao hơn bình thường."
+      },
+      {
+        "narration": "Gờ thịt sưng này vô tình nhô thẳng vào đúng quỹ đạo khép lại của hàm răng.",
+        "search": "hoat hinh 3d quai ham khep lai va trung va cham",
+        "caption": "Vết sưng nằm ngay trên quỹ đạo nhai của răng."
+      },
+      {
+        "narration": "Não bộ ghi nhận cảm giác đau và cố điều chỉnh, nhưng khoảng không gian bên trong đã bị thu hẹp.",
+        "search": "hoat hinh 3d nao bo truyen tin hieu than kinh mieng",
+        "caption": "Não cố né nhưng không gian trong miệng đã hẹp lại."
+      },
+      {
+        "narration": "Mỗi lần nhai tiếp theo, gờ thịt này lại vô tình rơi thẳng vào bẫy kẹp của hai bề mặt răng.",
+        "search": "hoat hinh 3d hai hang rang kep chieu vao mo mieng",
+        "caption": "Vết sưng liên tục rơi vào bẫy nhai của răng."
+      },
+      {
+        "narration": "Càng cắn trúng, phản xạ viêm càng dồn dịch tới mô tổn thương, khiến gờ thịt phồng to gấp đôi chỉ sau vài phút.",
+        "search": "hoat hinh 3d te bao sung do viem mach mau",
+        "caption": "Mỗi cú cắn khiến vết sưng phồng to gấp đôi"
+      },
+      {
+        "narration": "Hàm răng khép lại theo quán tính tự động chỉ mất 0,3 giây, nhanh hơn nhiều so với tốc độ não kịp gửi lệnh dừng.",
+        "search": "mo phong 3d ham rang chuyen dong nhai thuc an",
+        "caption": "Nhịp nhai tự động 0,3 giây khiến não không kịp dừng"
+      },
+      {
+        "narration": "Kết quả tạo thành vòng lặp mắc kẹt: càng sưng thì càng dễ cắn trúng, và mỗi va chạm lại đẩy vết sưng to hơn.",
+        "search": "hoat hinh 3d vong lap mui ten do chu trinh",
+        "caption": "Vòng lặp sưng và cắn liên tục tái diễn"
+      },
+      {
+        "narration": "Cách duy nhất để ngắt chuỗi tai nạn này là chuyển toàn bộ thức ăn sang nhai cố định ở bên hàm đối diện.",
+        "search": "hoat hinh 3d nguoi an com doi ben ham nhai",
+        "caption": "Đổi hoàn toàn sang nhai bên hàm đối diện"
+      },
+      {
+        "narration": "Nhai chậm lại một nửa trong 24 giờ để dịch mô tự tiêu biến, đưa thành má trở về đúng vị trí an toàn ban đầu.",
+        "search": "mo phong 3d vet thuong niem mac ma trong lanh lai",
+        "caption": "Nhai chậm 24 giờ để thành má xẹp xuống an toàn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-02T13:05:09.855731+00:00",
+    "updated_at": "2026-11-02T13:18:26.628516+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-02T13:13:25.943343+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "542 chars (cat 40 de vua 55s)",
+        "at": "2026-11-02T13:17:00.774110+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-02T13:17:16.518927+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-02T13:17:17.265658+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-02T13:17:47.564288+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-02T13:17:47.626481+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.8s 24506487 bytes",
+        "at": "2026-11-02T13:18:26.313753+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-02T13:18:26.628491+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8328607/8328607-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34550102/14640321_1440_2560_50fps.mp4",
+      "https://videos.pexels.com/video-files/8908650/8908650-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7698443/7698443-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16265149/16265149-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7583540/7583540-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7984185/7984185-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/35078512/14860004_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/39904007/17021729_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38510173/16354167_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8819491/8819491-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35169497/14898989_1080_1920_50fps.mp4",
+      "https://videos.pexels.com/video-files/7698088/7698088-uhd_1440_2732_24fps.mp4"
+    ]
+  },
+  {
     "id": "11326a5540",
     "kind": "short",
     "channel": "Channel2",
