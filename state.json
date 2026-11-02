@@ -1,5 +1,161 @@
 [
   {
+    "id": "c7d6197473",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Mongols Rolled an Emperor in a Rug to Die",
+    "idea": {
+      "title": "Why Mongols Rolled an Emperor in a Rug to Die",
+      "hook": "In 1258, Mongol conqueror Hulagu Khan captured the ruler of Baghdad, but instead of using an executioner's blade, he wrapped him in a heavy wool carpet and had cavalry trample him to death.",
+      "beats": [
+        "Mongol superstition held that spilling royal blood on the earth cursed the conqueror with divine wrath.",
+        "To execute Caliph Al-Musta'sim legally, Hulagu ordered him tightly sewn inside a thick Persian rug.",
+        "Warhorses galloped back and forth across the bundle until the royal cries finally ceased.",
+        "This brutal loophole snuffed out a 500-year Golden Age without spilling a single drop of royal blood."
+      ],
+      "keywords": [
+        "Hulagu Khan",
+        "Siege of Baghdad 1258",
+        "Mongol warrior engraving",
+        "Caliph Al Mustasim",
+        "medieval Islamic miniature"
+      ],
+      "tags": [
+        "history",
+        "mongols",
+        "ancienthistory",
+        "historicalfacts",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Mongols execute an emperor inside a carpet?",
+        "search": "medieval islamic manuscript siege of baghdad 1258 miniature",
+        "caption": "Why did the Mongols execute an emperor inside a carpet?"
+      },
+      {
+        "narration": "In February 1258, the fall of Baghdad violently ended the five-hundred-year Islamic Golden Age.",
+        "search": "siege of baghdad 1258 persian manuscript painting",
+        "caption": "Baghdad fell in February 1258, ending the Islamic Golden Age."
+      },
+      {
+        "narration": "Mongol commander Hulagu Khan breached the city walls and captured Caliph Al-Musta'sim alive.",
+        "search": "hulagu khan portrait medieval miniature painting",
+        "caption": "Hulagu Khan captured Caliph Al-Musta'sim after Baghdad collapsed."
+      },
+      {
+        "narration": "Standard executions involved beheading, but Mongol tradition forbade spilling royal blood onto the soil.",
+        "search": "mongol warriors cavalry historical engraving",
+        "caption": "Mongol law strictly forbade spilling royal blood onto the earth."
+      },
+      {
+        "narration": "Tengrist shamans warned that royal blood soaking into dirt would trigger catastrophic divine curses.",
+        "search": "tengrism shaman ancient engraving",
+        "caption": "Belief held that spilled royal blood unleashed divine curses."
+      },
+      {
+        "narration": "Caliph Al-Musta'sim had previously mocked Mongol demands, convinced his sacred status made him untouchable.",
+        "search": "caliph al mustasim medieval manuscript illustration",
+        "caption": "Caliph Al-Musta'sim believed his religious title made him untouchable."
+      },
+      {
+        "narration": "To eliminate the Abbasid ruler without violating the taboo, Hulagu devised an engineered loophole.",
+        "search": "antique persian rug wool weaving detail",
+        "caption": "Hulagu devised a brutal legal loophole to bypass the taboo."
+      },
+      {
+        "narration": "Mongol guards dragged the Caliph out, rolled him inside a thick wool carpet, and tied it shut.",
+        "search": "medieval islamic miniature execution prisoners bound",
+        "caption": "The Caliph was bound tightly inside a heavy wool rug."
+      },
+      {
+        "narration": "In February 1258, Mongol cavalry galloped repeatedly over the woven bundle, crushing Caliph Al-Musta'sim under heavy warhorse hooves.",
+        "search": "mongol cavalry medieval manuscript illustration",
+        "caption": "Mongol warhorses crushed the wrapped ruler to death in 1258"
+      },
+      {
+        "narration": "The heavy wool rug trapped every drop of royal blood inside, strictly honoring the Mongol sacred taboo against staining the earth.",
+        "search": "siege of baghdad 1258 medieval miniature painting",
+        "caption": "The brutal loophole fulfilled the taboo without spilling royal blood"
+      },
+      {
+        "narration": "Without shedding a single drop of blood, Hulagu Khan executed the Emperor and extinguished the 500-year Islamic Golden Age.",
+        "search": "hulagu khan portrait medieval illuminated manuscript",
+        "caption": "A carpet loophole destroyed an empire and its golden age"
+      },
+      {
+        "narration": "In 1258, a conqueror killed an emperor without spilling blood.",
+        "search": "siege of baghdad 1258 medieval islamic miniature",
+        "caption": "Executed an emperor without spilling blood"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-02T01:41:31.739948+00:00",
+    "updated_at": "2026-11-02T01:48:01.364862+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-02T01:44:28.703111+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "355 chars (cat 235 de vua 55s)",
+        "at": "2026-11-02T01:45:27.910687+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.6s en-US-GuyNeural 6 cau",
+        "at": "2026-11-02T01:45:32.054126+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-02T01:45:33.054119+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-02T01:47:12.551978+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-02T01:47:12.652531+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.6s 17189351 bytes",
+        "at": "2026-11-02T01:48:00.906173+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-02T01:48:01.364846+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20590670/pexels-photo-20590670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32040779/pexels-photo-32040779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353236/pexels-photo-38353236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268909/pexels-photo-9268909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1578838/pexels-photo-1578838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21628885/pexels-photo-21628885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37878626/pexels-photo-37878626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36256552/pexels-photo-36256552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269136/pexels-photo-9269136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26274827/pexels-photo-26274827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31594872/pexels-photo-31594872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25254713/pexels-photo-25254713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e53781362c",
     "kind": "short",
     "channel": "Channel2",
