@@ -1,5 +1,161 @@
 [
   {
+    "id": "11326a5540",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Bloody Medieval War Fought Over an Oak Bucket",
+    "idea": {
+      "title": "The Bloody Medieval War Fought Over an Oak Bucket",
+      "hook": "In 1325, two Italian city-states marched over 30,000 soldiers into a brutal slaughter that left 2,000 dead—all because of an ordinary wooden bucket.",
+      "beats": [
+        "A band of soldiers from Modena sneaked into Bologna's town center and stole an oak bucket from a public well as an insulting trophy.",
+        "Humiliated, Bologna demanded the immediate return of their civic property; when Modena laughed in response, Bologna declared war with 32,000 men.",
+        "At the Battle of Zappolino, Modena's smaller force decisively crushed the Bolognese army in just two hours of frantic cavalry combat.",
+        "To this day, Bologna's original wooden bucket remains locked in Modena’s bell tower as a 700-year-old monument of total humiliation."
+      ],
+      "keywords": [
+        "Battle of Zappolino engraving",
+        "medieval Italian city map",
+        "medieval knight armor illustration",
+        "historic bell tower Modena",
+        "Ghibellines and Guelphs battle painting"
+      ],
+      "tags": [
+        "War of the Bucket",
+        "Medieval History",
+        "Bizarre Wars",
+        "Battle of Zappolino",
+        "History Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Two cities slaughtered two thousand men over an oak bucket.",
+        "search": "Ghibellines and Guelphs battle painting",
+        "caption": "2,000 dead over a wooden bucket."
+      },
+      {
+        "narration": "In November 1325, tensions between Guelph Bologna and Ghibelline Modena reached a breaking point.",
+        "search": "medieval Italian city map engraving",
+        "caption": "Northern Italy, 1325: A century of hatred."
+      },
+      {
+        "narration": "Under cover of darkness, a squad of Modenese soldiers slipped past the city guards of Bologna.",
+        "search": "medieval soldiers night raid manuscript illustration",
+        "caption": "A midnight raid into Bologna's town center."
+      },
+      {
+        "narration": "They unhooked a basic oak bucket from a public well, stealing it purely to disrespect their rival.",
+        "search": "medieval wooden bucket manuscript illustration",
+        "caption": "Stolen not for gold, but for humiliation."
+      },
+      {
+        "narration": "When Bologna demanded its immediate return, Modena laughed, triggering an instant declaration of war.",
+        "search": "medieval herald declaring war engraving",
+        "caption": "Modena refused to return the stolen bucket."
+      },
+      {
+        "narration": "Bologna mobilized thirty-two thousand troops, marching into the hills to reclaim their stolen property by force.",
+        "search": "medieval army marching oil painting",
+        "caption": "32,000 troops marched to avenge the insult."
+      },
+      {
+        "narration": "At the Battle of Zappolino, Modena’s outnumbered force launched a devastating cavalry charge.",
+        "search": "Battle of Zappolino engraving",
+        "caption": "Modena launched a sudden cavalry assault."
+      },
+      {
+        "narration": "In under two hours, the Bolognese lines collapsed, leaving over two thousand men slaughtered in the mud.",
+        "search": "medieval knight armor illustration",
+        "caption": "2,000 soldiers dead in just two hours."
+      },
+      {
+        "narration": "Victorious Modenese forces pursued the shattered Bolognese army straight to their city walls, staging celebratory games outside the gates to taunt the survivors.",
+        "search": "medieval siege city walls engraving",
+        "caption": "Modena pursued the survivors back to Bologna's city gates."
+      },
+      {
+        "narration": "When peace was negotiated in January 1326, Modena returned captured border towns and prisoners, but steadfastly refused to surrender the captured wooden well bucket.",
+        "search": "medieval treaty document manuscript illuminated",
+        "caption": "Modena returned captured towns, but refused to surrender the bucket."
+      },
+      {
+        "narration": "Seven centuries later, the original oak bucket still hangs suspended inside Modena's municipal tower, preserved as an enduring symbol of Bologna's catastrophic defeat.",
+        "search": "Secchia rapita wooden bucket Modena museum photo",
+        "caption": "Seven centuries later, Bologna's stolen bucket still hangs in Modena."
+      },
+      {
+        "narration": "Did 2,000 men die for a wooden bucket?",
+        "search": "Ghibellines and Guelphs battle painting",
+        "caption": "2,000 soldiers died for an oak bucket in 1325"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-02T11:35:49.717429+00:00",
+    "updated_at": "2026-11-02T11:47:05.238507+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-02T11:39:32.219854+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "339 chars (cat 301 de vua 55s)",
+        "at": "2026-11-02T11:40:24.785477+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 5 cau",
+        "at": "2026-11-02T11:40:27.565526+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-02T11:40:28.367580+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-02T11:46:28.377355+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-02T11:46:28.471054+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 12409282 bytes",
+        "at": "2026-11-02T11:47:04.880686+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-02T11:47:05.238486+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18269810/pexels-photo-18269810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17503521/pexels-photo-17503521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36184606/pexels-photo-36184606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37454036/pexels-photo-37454036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11750217/pexels-photo-11750217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14164559/pexels-photo-14164559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27152183/pexels-photo-27152183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30829315/pexels-photo-30829315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29899933/pexels-photo-29899933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18396200/pexels-photo-18396200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13364130/pexels-photo-13364130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ba197358bd",
     "kind": "short",
     "channel": "Channel2",
