@@ -1,5 +1,166 @@
 [
   {
+    "id": "df2e4a406f",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm để chế độ mở khóa khuôn mặt mở 24/7",
+    "idea": {
+      "title": "Sai lầm để chế độ mở khóa khuôn mặt mở 24/7",
+      "hook": "Bạn nghĩ mở khóa điện thoại bằng khuôn mặt là an toàn? Sự thật là nó đang âm thầm ghi lại mọi biểu cảm lúc bạn mệt mỏi nhất.",
+      "beats": [
+        "Camera trước liên tục quét khuôn mặt bạn ở góc độ thấp suốt cả ngày.",
+        "Hệ thống AI không chỉ nhận diện danh tính mà còn lập bản đồ tâm trạng và thói quen vô thức.",
+        "Dữ liệu này được lưu trữ ẩn, vô tình tạo ra một hồ sơ sinhometric mà bạn không hề hay biết."
+      ],
+      "keywords": [
+        "face recognition scanner",
+        "digital privacy surveillance",
+        "smartphone camera lens",
+        "abstract facial data",
+        "cyber security glowing tech"
+      ],
+      "tags": [
+        "baomat",
+        "dienthoai",
+        "congnghe",
+        "channel3",
+        "suathat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật mở khóa khuôn mặt 24/7 là một sai lầm lớn.",
+        "search": "3d animation dien thoai quet khuon mat",
+        "caption": "Bật mở khóa khuôn mặt 24/7 là sai lầm lớn?"
+      },
+      {
+        "narration": "Mỗi lần bạn nhìn vào màn hình, cảm biến hồng ngoại lập tức kích hoạt ngầm.",
+        "search": "motion graphics nguoi dung dien thoai goc thap",
+        "caption": "Cảm biến hồng ngoại kích hoạt ngầm liên tục"
+      },
+      {
+        "narration": "Dù bạn đang nằm ngả lưng hay lướt web muộn, ống kính vẫn âm thầm làm việc.",
+        "search": "3d animation khuon mat luoi quet sinh trac hoc",
+        "caption": "Âm thầm quét mặt ngay cả lúc bạn mệt mỏi"
+      },
+      {
+        "narration": "Hầu hết mọi người nghĩ camera chỉ xác nhận đúng chủ nhân để mở khóa.",
+        "search": "isometric render ung dung dien thoai bao mat",
+        "caption": "Không đơn thuần chỉ xác nhận chủ sở hữu"
+      },
+      {
+        "narration": "Thực tế thuật toán AI còn đo đạc chi tiết từng biểu cảm nhỏ nhất trên cơ mặt.",
+        "search": "motion graphics ai phan tich bieu cam khuon mat",
+        "caption": "Thuật toán AI phân tích từng vi biểu cảm"
+      },
+      {
+        "narration": "Độ trễ của mắt hay sự căng thẳng ở khóe miệng đều chuyển thành con số.",
+        "search": "cartoony 3d mat nguoi va du lieu ky thuat so",
+        "caption": "Mức độ mệt mỏi được mã hóa thành dữ liệu"
+      },
+      {
+        "narration": "Quá trình định vị điểm ảnh này diễn ra hàng trăm lần mỗi ngày mà không báo trước.",
+        "search": "explainer animation dong ho va tin hieu dien thoai",
+        "caption": "Hàng trăm lượt quét ngầm diễn ra mỗi ngày"
+      },
+      {
+        "narration": "Những điểm dữ liệu liên tục này vô tình ráp nối thành một bản đồ sinh trắc hoàn chỉnh.",
+        "search": "3d animation mo hinh du lieu sinh trac hoc",
+        "caption": "Bản đồ sinh trắc học đang ngầm hoàn thiện"
+      },
+      {
+        "narration": "Camera trước tiếp tục ghi hình ngay cả trong những góc độ thấp và mệt mỏi nhất.",
+        "search": "3d animation phone front camera glowing scan close up",
+        "caption": "Camera trước quét mặt từ góc thấp cả ngày"
+      },
+      {
+        "narration": "Hệ thống AI không chỉ nhận diện danh tính mà còn lập bản đồ tâm trạng và thói quen vô thức.",
+        "search": "motion graphics ai facial mesh data mapping face",
+        "caption": "AI lập bản đồ tâm trạng và thói quen vô thức"
+      },
+      {
+        "narration": "Toàn bộ dữ liệu này được lưu trữ ẩn, tạo ra một hồ sơ sinh trắc học mà bạn không hề hay biết.",
+        "search": "isometric render cyber security database glowing files",
+        "caption": "Dữ liệu lưu ẩn thành hồ sơ sinh trắc học"
+      },
+      {
+        "narration": "Việc bật chế độ mở khóa liên tục khiến quyền riêng tư cá nhân bị phơi bày hoàn toàn.",
+        "search": "explainer animation phone privacy security alert red",
+        "caption": "Quyền riêng tư bị phơi bày hoàn toàn"
+      },
+      {
+        "narration": "Hãy tắt ngay tính năng nhận diện khuôn mặt 24/7 và chuyển sang mã PIN để bảo vệ chính mình.",
+        "search": "cartoony 3d person locking smartphone screen safely",
+        "caption": "Tắt mở mặt 24/7, chuyển sang dùng mã PIN"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T12:29:00.912160+00:00",
+    "updated_at": "2026-11-03T12:33:10.595850+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-03T12:31:14.824921+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "454 chars",
+        "at": "2026-11-03T12:31:56.953275+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-03T12:32:10.631024+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T12:32:11.404531+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-03T12:32:30.748695+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-03T12:32:30.822540+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.9s 21055959 bytes",
+        "at": "2026-11-03T12:33:10.222425+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T12:33:10.595825+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819432/8819432-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/38364905/16293098_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283214/15283214-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107030/13687872_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/26621091/11976794_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/28115366/12303888_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439745/15439745-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34551471/14640179_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5473972/5473972-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16456775/16456775-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9893681/9893681-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7822022/7822022-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "005eac8068",
     "kind": "short",
     "channel": "Channel2",
