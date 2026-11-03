@@ -1,5 +1,151 @@
 [
   {
+    "id": "005eac8068",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "rendering",
+    "title": "How Alexander Punished the Traitor Who Saved Him",
+    "idea": {
+      "title": "How Alexander Punished the Traitor Who Saved Him",
+      "hook": "When a Persian noble murdered King Darius to appease Alexander the Great, he expected a heroic reward—instead, he faced a brutal execution.",
+      "beats": [
+        "Satrap Bessus betrayed Darius III, stabbing his own emperor and leaving the body for Alexander to find.",
+        "Bessus declared himself the new King of Persia, believing Alexander would welcome a puppet ruler.",
+        "Furious at the dishonor done to a fallen king, Alexander hunted Bessus across Central Asia for months.",
+        "Upon capture, Alexander stripped Bessus, cut off his nose and ears, and handed him to Persian royalists for execution."
+      ],
+      "keywords": [
+        "Alexander the Great portrait",
+        "Darius III engraving",
+        "ancient Persian Empire painting",
+        "Bessus execution illustration",
+        "ancient Macedonia battle map"
+      ],
+      "tags": [
+        "history",
+        "alexanderthegreat",
+        "ancientrome",
+        "persianempire",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Killing Alexander's enemy got this Persian nobleman executed.",
+        "search": "Alexander the Great portrait painting",
+        "caption": "Executed for killing Alexander's biggest enemy"
+      },
+      {
+        "narration": "In 330 BC, King Darius III of Persia fled eastward after losing the Battle of Gaugamela.",
+        "search": "Darius III Persian king engraving",
+        "caption": "330 BC: Darius III flees after defeat at Gaugamela"
+      },
+      {
+        "narration": "Sensing total defeat, Satrap Bessus betrayed his sovereign and stabbed Darius III to death.",
+        "search": "Darius III death painting illustration",
+        "caption": "Satrap Bessus betrays and stabs King Darius III"
+      },
+      {
+        "narration": "Bessus proclaimed himself Artaxerxes V, expecting Alexander to welcome a puppet ruler.",
+        "search": "ancient Persian empire painting crown",
+        "caption": "Bessus crowns himself King Artaxerxes V"
+      },
+      {
+        "narration": "Instead of rewarding the murderer, Alexander viewed regicide as an unforgivable offense against royal dignity.",
+        "search": "ancient Macedonia battle map engraving",
+        "caption": "Alexander viewed the murder of Darius as treason"
+      },
+      {
+        "narration": "The Macedonian king launched a relentless pursuit of Bessus across thousands of miles into Central Asia.",
+        "search": "ancient Macedonian soldiers marching illustration",
+        "caption": "Months of relentless pursuit across Central Asia"
+      },
+      {
+        "narration": "Trapped and betrayed by his own allies in 329 BC, Bessus was dragged before Alexander in chains.",
+        "search": "ancient prisoner bound in chains illustration",
+        "caption": "329 BC: Bessus captured and bound in chains"
+      },
+      {
+        "narration": "Alexander ordered Bessus stripped naked and exposed to public mutilation according to ancient Persian tradition.",
+        "search": "Bessus execution illustration Persian history",
+        "caption": "Bessus stripped and handed over to Persian royalists"
+      },
+      {
+        "narration": "In 329 BC, Alexander ordered Bessus's nose and ears severed according to Persian customary law for regicides. He then sent the captive to Ecbatana, delivering him directly to the brother of King Darius III.",
+        "search": "ancient Persian execution engraving",
+        "caption": "Alexander ordered Persian custom mutilation before sending Bessus to Ecbatana."
+      },
+      {
+        "narration": "At Ecbatana, Persian royalists tortured and publicly executed Bessus to avenge their fallen emperor. By punishing his rival's killer, Alexander effectively established himself as the legitimate heir to the Achaemenid Empire.",
+        "search": "ancient Ecbatana map engraving",
+        "caption": "Bessus was publicly executed, securing Alexander's claim as Persia's king."
+      },
+      {
+        "narration": "Bessus betrayed his emperor expecting power and wealth, but received total destruction instead. Alexander made it clear to the ancient world that no traitor could earn favor through regicide.",
+        "search": "Alexander the Great portrait painting assassin",
+        "caption": "The assassin expected a reward, but met Alexander's ruthless justice."
+      },
+      {
+        "narration": "Why did Alexander execute the traitor who won him Persia?",
+        "search": "Alexander the Great bust statue marble close-up",
+        "caption": "Alexander executed the traitor who surrendered Persia."
+      }
+    ],
+    "error": "",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T11:24:15.858827+00:00",
+    "updated_at": "2026-11-03T11:54:06.128769+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T11:35:58.075110+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "378 chars (cat 231 de vua 55s)",
+        "at": "2026-11-03T11:37:46.224826+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.5s en-US-AvaMultilingualNeural 6 cau",
+        "at": "2026-11-03T11:38:19.187596+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T11:38:20.082592+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T11:54:05.940153+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T11:54:06.046080+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16550244/pexels-photo-16550244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9117138/pexels-photo-9117138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8841045/pexels-photo-8841045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081432/pexels-photo-20081432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39538705/pexels-photo-39538705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268698/pexels-photo-9268698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26800347/pexels-photo-26800347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8192749/pexels-photo-8192749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17141688/pexels-photo-17141688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29899949/pexels-photo-29899949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31372545/pexels-photo-31372545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11055149/pexels-photo-11055149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a3fc36e3d8",
     "kind": "short",
     "channel": "Channel2",
