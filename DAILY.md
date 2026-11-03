@@ -1,4 +1,4 @@
-# Daily ping 02/11/2026
+# Daily ping 03/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -12,12 +12,20 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (2)
-- Tại sao càng gãi ngứa bạn lại càng thấy ngứa dữ dội hơn :: token refresh failed: 400 {
+## Fail (4)
+- Sai lầm để Wi-Fi bật 24/7 khi ra đường ai cũng mắc :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
-- Why Mongols Rolled an Emperor in a Rug to Die :: token refresh failed: 400 {
+- The Royal Doctor Who Stole an Entire Kingdom :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
+- How Scipio Turned 80 War Elephants on Hannibal :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Token has been expired or revoked."
+}
+- The Boy Who Killed King Richard the Lionheart :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
