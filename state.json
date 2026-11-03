@@ -1,5 +1,600 @@
 [
   {
+    "id": "1cfd3a58ba",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Sandstorm Swallowed 50,000 Persian Warriors: The Lost Army of Cambyses",
+    "idea": {
+      "title": "How a Sandstorm Swallowed 50,000 Persian Warriors: The Lost Army of Cambyses",
+      "hook": "In 524 BC, King Cambyses II sent 50,000 elite Persian soldiers into the Egyptian desert, but not a single warrior ever returned.",
+      "beats": [
+        "In 525 BC, Persian King Cambyses II conquers Egypt, establishing Persian rule over a deeply defiant native population.",
+        "The priests at the remote Oracle of Ammon in Siwa Oasis refuse to legitimize Cambyses' rule, foretelling his rapid demise.",
+        "Enraged by their defiance, Cambyses dispatches an elite army of 50,000 soldiers from Thebes into the unforgiving Western Desert.",
+        "The massive force embarks on a deadly 30-day trek through scorching heat, relying on fragile camel supply lines across hundreds of miles of wasteland.",
+        "The army successfully reaches the outpost of El-Kharga, after which they enter the treacherous and uncharted Great Sand Sea.",
+        "According to Herodotus, a violent southern wind known as the Khamsin strikes suddenly at mid-day while the soldiers pause to eat.",
+        "Hurricane-force desert winds whip up towering walls of sand, burying weapons, armor, horses, and tens of thousands of men alive.",
+        "Back in Memphis, Cambyses waits for victory reports, but not a single survivor or messenger ever emerges from the desert.",
+        "For over 2,000 years, mainstream historians dismiss the tale as anti-Persian propaganda invented by ancient Greek chroniclers.",
+        "In the early 20th century, desert explorers like László Almásy launch daring expeditions into the Great Sand Sea looking for armor remnants.",
+        "In 2009, twin Italian archaeologists discover Persian-era iron daggers, silver jewelry, and hundreds of human bones near the Siwa route.",
+        "New competing theories suggest the army was ambushed and destroyed by Egyptian rebel leader Petubastis III before the sandstorm covered the bodies.",
+        "The tragedy remains one of antiquity's greatest unsolved military catastrophes, illustrating the terrifying power of the ancient desert."
+      ],
+      "keywords": [
+        "Lost Army of Cambyses",
+        "Persian Empire history",
+        "Ancient Egyptian desert",
+        "Herodotus histories",
+        "King Cambyses II",
+        "Oracle of Siwa",
+        "Ancient military disaster",
+        "Great Sand Sea archaeology",
+        "Unsolved historical mysteries",
+        "Ancient Persia documentary"
+      ],
+      "tags": [
+        "#AncientHistory",
+        "#PersianEmpire",
+        "#Archaeology",
+        "#HistoryDocumentary",
+        "#LostCivilizations",
+        "#MilitaryHistory",
+        "#AncientEgypt",
+        "#Cambyses",
+        "#HistoricalMysteries",
+        "#SiwaOasis"
+      ],
+      "kind": "long",
+      "thumbnail_text": "50,000 SOLDIERS VANISHED"
+    },
+    "scenes": [
+      {
+        "narration": "In 524 BC, 50,000 Persian soldiers vanished into the desert.",
+        "search": "ancient persian soldier empire relief carving",
+        "caption": "50,000 soldiers vanished without a trace in 524 BC."
+      },
+      {
+        "narration": "Following his conquest of Egypt in 525 BC, King Cambyses II faced fierce resistance from priests at the distant Oracle of Ammon.",
+        "search": "king cambyses II persian empire oil painting",
+        "caption": "King Cambyses II conquered Egypt in 525 BC."
+      },
+      {
+        "narration": "Furious at their refusal to legitimize his divine rule, Cambyses dispatched an elite force of 50,000 men from Thebes into the western wasteland.",
+        "search": "ancient persian army marching engraving",
+        "caption": "Cambyses dispatched 50,000 soldiers to destroy the Oracle."
+      },
+      {
+        "narration": "The massive army trekked seven days through scorching desert to the outpost of El-Kharga before marching directly into the uncharted Great Sand Sea.",
+        "search": "egyptian western desert old map engraving",
+        "caption": "The army entered the deadly Great Sand Sea."
+      },
+      {
+        "narration": "According to the Greek historian Herodotus, a catastrophic southern Khamsin wind struck at midday, raising walls of suffocating sand over the resting troops.",
+        "search": "herodotus Greek historian bust statue close up",
+        "caption": "Herodotus recorded a catastrophic desert windstorm at midday."
+      },
+      {
+        "narration": "Tens of thousands of warriors, weapons, and horses were buried alive in minutes, leaving King Cambyses with zero survivors or victory reports in Memphis.",
+        "search": "ancient persian helmet bronze artifact detail",
+        "caption": "Not a single survivor returned to deliver news."
+      },
+      {
+        "narration": "While scholars dismissed the story as Greek propaganda for centuries, 2009 archaeological digs uncovered Persian-era weapons and human remains near Siwa.",
+        "search": "ancient persian iron dagger museum artifact photograph",
+        "caption": "Archaeology revealed ancient weapons and bones in 2009."
+      },
+      {
+        "narration": "Competing evidence now suggests a combination of a rebel ambush by Petubastis III and blinding sandstorms created ancient history's ultimate unsolved catastrophe.",
+        "search": "ancient egyptian tomb wall painting rebel pharaoh",
+        "caption": "Ancient history's ultimate unsolved desert military disaster."
+      },
+      {
+        "narration": "The complete disappearance of fifty thousand soldiers in 524 BC remains one of the ancient world's deadliest military disasters.",
+        "search": "ancient Egypt map engraving 18th century",
+        "caption": "50,000 soldiers vanished without a trace in 524 BC."
+      },
+      {
+        "narration": "In 525 BC, King Cambyses II of Achaemenid Persia conquered Egypt, establishing foreign rule over a resilient native population.",
+        "search": "Cambyses II Persian king relief sculpture drawing",
+        "caption": "King Cambyses II annexed Egypt into the Persian Empire in 525 BC."
+      },
+      {
+        "narration": "When the sacred Oracle of Ammon at Siwa Oasis condemned his reign, Cambyses dispatched an elite host from Thebes to destroy the sanctuary.",
+        "search": "Temple of Amun Siwa oasis ancient ruins photograph",
+        "caption": "The Oracle of Ammon refused to legitimize Persian imperial rule."
+      },
+      {
+        "narration": "Marching westward across hundreds of miles of waterless terrain, the column reached El-Kharga before pushing directly into the Great Sand Sea.",
+        "search": "Sahara desert sand dunes Great Sand Sea aerial photograph",
+        "caption": "The army ventured beyond El-Kharga into the Great Sand Sea."
+      },
+      {
+        "narration": "According to the Greek historian Herodotus, a violent southern wind known as the Khamsin struck at mid-day with hurricane force.",
+        "search": "Herodotus ancient Greek bust statue",
+        "caption": "Herodotus recorded that a catastrophic desert windstorm struck at midday."
+      },
+      {
+        "narration": "Swirling walls of sand buried armor, horses, and entire infantry lines alive, leaving King Cambyses without a single messenger in Memphis.",
+        "search": "ancient Persian soldiers relief sculpture detail Persepolis",
+        "caption": "Not a single survivor returned to report the army's fate."
+      },
+      {
+        "narration": "In 2009, twin archaeologists Angelo and Alfredo Castiglioni uncovered Persian-era iron daggers and mass human remains near the Siwa route.",
+        "search": "ancient iron dagger artifact museum exhibit photograph",
+        "caption": "2009 archaeological finds revealed Persian weapons and ancient human bones."
+      },
+      {
+        "narration": "Scholars now debate whether the force perished in nature's fury or fell to an ambush by Egyptian rebel leader Petubastis III.",
+        "search": "ancient Egyptian rebel warrior wall painting papyrus",
+        "caption": "The cataclysm remains ancient history's ultimate unsolved desert military disaster."
+      },
+      {
+        "narration": "Fifty thousand Persian soldiers vanished in 524 BC without leaving a single official grave.",
+        "search": "ancient Persian soldiers reliefs relief carving Persepolis",
+        "caption": "50,000 Persian Soldiers Vanished in 524 BC"
+      },
+      {
+        "narration": "Olaf Kaper of Leiden University argued in 2014 that Egyptian rebel leader Petubastis III ambushed the marching column near Siwa.",
+        "search": "ancient Egyptian rebel soldier relief carving",
+        "caption": "Rebel Leader Petubastis III Ambush Theory"
+      },
+      {
+        "narration": "When Darius I reconquered Egypt in 522 BC, he attributed the catastrophic military loss to a natural sandstorm to mask defeat.",
+        "search": "Darius I Persian king relief sculpture Persepolis",
+        "caption": "Darius I Masked Defeat as Natural Disaster"
+      },
+      {
+        "narration": "Geological surveys of the Great Sand Sea show that fifty-knot Khamsin winds routinely shift fifty-foot sand dunes overnight.",
+        "search": "Great Sand Sea Egypt map engraving 1800s",
+        "caption": "Khamsin Winds Shift Towering Desert Dunes"
+      },
+      {
+        "narration": "In 2009, researchers near the Western Desert route recovered Persian bronze arrowheads alongside horse bits and human skulls.",
+        "search": "ancient Persian bronze arrowhead artifact",
+        "caption": "Persian Bronze Arrowheads and Remains Uncovered"
+      },
+      {
+        "narration": "The ancient marching force required over ten thousand supply camels, stretching their vulnerable logistics line across hyper-arid wasteland.",
+        "search": "ancient camel caravan desert engraving",
+        "caption": "Vulnerable Supply Lines Across Desert Wasteland"
+      },
+      {
+        "narration": "Whether struck by suffocating sand or Egyptian steel, no fifth-century Persian record ever officially acknowledged the fallen army.",
+        "search": "King Cambyses II Persian manuscript painting",
+        "caption": "No Persian Record Acknowledged the Catastrophe"
+      },
+      {
+        "narration": "The Lost Army of Cambyses remains antiquity's most enduring military mystery, proving the ruthless power of Egypt's desert frontiers.",
+        "search": "Siwa Oasis Egypt desert landscape old engraving",
+        "caption": "Antiquity Greatest Unsolved Desert Military Disaster"
+      },
+      {
+        "narration": "In 525 BC, Persian King Cambyses II conquers Egypt, establishing foreign rule over a defiant native population.",
+        "search": "ancient Persian king Cambyses II stone relief carving",
+        "caption": "King Cambyses II conquers Egypt in 525 BC"
+      },
+      {
+        "narration": "The priests at the remote Oracle of Ammon in Siwa Oasis refuse to legitimize Cambyses' rule, predicting his demise.",
+        "search": "ancient Egyptian temple ruins Siwa Oasis photograph",
+        "caption": "Oracle of Ammon refuses to legitimize Persian rule"
+      },
+      {
+        "narration": "Enraged, Cambyses dispatches an elite army of 50,000 soldiers from Thebes into the unforgiving Western Desert.",
+        "search": "ancient Egyptian soldiers marching desert army painting",
+        "caption": "Cambyses dispatches 50,000 soldiers into the Western Desert"
+      },
+      {
+        "narration": "The massive force embarks on a deadly 30-day trek through scorching heat across hundreds of miles of wasteland.",
+        "search": "harsh Sahara desert dunes landscape wide view",
+        "caption": "A deadly 30-day trek across the arid wasteland"
+      },
+      {
+        "narration": "The army successfully reaches the outpost of El-Kharga, after which they enter the treacherous Great Sand Sea.",
+        "search": "ancient Egyptian desert outpost ruins archaeology",
+        "caption": "Entering the treacherous and uncharted Great Sand Sea"
+      },
+      {
+        "narration": "According to Herodotus, a violent southern wind known as the Khamsin strikes suddenly at mid-day.",
+        "search": "ancient Greek manuscript Herodotus histories page",
+        "caption": "Herodotus records the sudden strike of the Khamsin wind"
+      },
+      {
+        "narration": "In 524 BC, fifty thousand Persian soldiers marched into the Egyptian desert and vanished without a trace.",
+        "search": "ancient persian empire map engraving",
+        "caption": "50,000 Persian Soldiers Vanished in 524 BC"
+      },
+      {
+        "narration": "Following his conquest of Egypt in 525 BC, King Cambyses II faced fierce defiance from the priests at the Oracle of Siwa, who prophesied his downfall.",
+        "search": "cambyses ii persian king relief sculpture portrait",
+        "caption": "King Cambyses II Defied by Egyptian Priests"
+      },
+      {
+        "narration": "Infuriated by their resistance, Cambyses ordered an elite force of fifty thousand men to march west from Thebes across hundreds of miles of wasteland.",
+        "search": "ancient desert army oil painting",
+        "caption": "50,000 Elite Troops Dispatched From Thebes"
+      },
+      {
+        "narration": "After passing the outpost of El-Kharga on a grueling multi-week trek, the massive army plunged into the uncharted dunes of the Great Sand Sea.",
+        "search": "egyptian western desert sand dunes 19th century engraving",
+        "caption": "Entering the Uncharted Great Sand Sea"
+      },
+      {
+        "narration": "According to the ancient historian Herodotus, a sudden mid-day sandstorm struck the resting troops, hurling towering walls of sand that buried them alive.",
+        "search": "herodotus marble bust statue portrait",
+        "caption": "Herodotus Records the Catastrophic Sandstorm"
+      },
+      {
+        "narration": "Not a single messenger returned to Memphis, prompting mainstream historians for over two millennia to dismiss the disaster as anti-Persian propaganda.",
+        "search": "ancient memphis egypt ruins 19th century engraving",
+        "caption": "Dismissed as Propaganda for 2,000 Years"
+      },
+      {
+        "narration": "Modern archaeological expeditions eventually uncovered ancient Persian iron daggers, bronze arrowheads, and hundreds of human bones buried beneath the dunes.",
+        "search": "ancient persia iron dagger artifact museum exhibit",
+        "caption": "Archaeologists Uncover Weapons and Human Bones"
+      },
+      {
+        "narration": "Whether crushed by the lethal Khamsin wind or annihilated in an Egyptian rebel ambush, the lost legion remains one of history's greatest military tragedies.",
+        "search": "ancient persian warrior bronze armor sculpture",
+        "caption": "Antiquity's Greatest Unsolved Military Disaster"
+      },
+      {
+        "narration": "In 525 BC, King Cambyses II of the Achaemenid Empire conquered Egypt, but faced fierce resistance from a deeply defiant native population.",
+        "search": "ancient persian king cambyses relief carving",
+        "caption": "In 525 BC, Cambyses II conquered Egypt amidst fierce native resistance."
+      },
+      {
+        "narration": "Far across the desert, priests at the Oracle of Ammon in Siwa Oasis publicly refused to recognize his divine legitimacy, foretelling his swift demise.",
+        "search": "oracle of ammon siwa oasis ancient ruin engraving",
+        "caption": "The Oracle of Siwa defied the King, foretelling his rapid demise."
+      },
+      {
+        "narration": "Enraged by their insolence, Cambyses mobilized an elite force of fifty thousand Persian infantry from Thebes in 524 BC to destroy the sanctuary.",
+        "search": "ancient persian soldiers army marching wall painting",
+        "caption": "Cambyses dispatched 50,000 elite infantry into the Egyptian desert."
+      },
+      {
+        "narration": "The massive column embarked on an agonizing thirty-day trek, relying entirely on fragile camel water convoys across hundreds of miles of sun-bleached wasteland.",
+        "search": "camel caravan in desert ancient egyptian map engraving",
+        "caption": "A grueling thirty-day march relied on fragile camel water convoys."
+      },
+      {
+        "narration": "After reaching the remote outpost of El-Kharga, the fifty thousand warriors turned northward into the completely uncharted Great Sand Sea.",
+        "search": "great sand sea egypt dunes historical map drawing",
+        "caption": "The army vanished into the uncharted dunes of the Great Sand Sea."
+      },
+      {
+        "narration": "Greek historian Herodotus recorded that around mid-day, as the men paused for meals, a violent southern wind known as the Khamsin struck without warning.",
+        "search": "herodotus greek historian marble bust statue",
+        "caption": "Herodotus recorded that a lethal Khamsin wind struck at mid-day."
+      },
+      {
+        "narration": "Towering walls of swirling sand whipped across the desert, smothering horses, iron armor, and tens of thousands of men alive beneath vast dunes.",
+        "search": "sandstorm over desert dunes 19th century painting",
+        "caption": "Towering walls of sand buried 50,000 soldiers alive in hours."
+      },
+      {
+        "narration": "Back in the capital city of Memphis, Cambyses waited for news of victory, but not a single messenger ever emerged from the sands.",
+        "search": "ancient city of memphis egypt ruin oil painting",
+        "caption": "Not a single survivor returned to report the catastrophe in Memphis."
+      },
+      {
+        "narration": "For over two thousand years, mainstream historians dismissed the entire account as hostile anti-Persian propaganda invented by Greek chroniclers.",
+        "search": "ancient Greek manuscript illustration history",
+        "caption": "Historians initially dismissed the account as Greek propaganda."
+      },
+      {
+        "narration": "Skepticism grew because no physical trace of fifty thousand men, bronze shields, or iron weapons had ever been unearthed in the wasteland.",
+        "search": "empty vast desert landscape photography",
+        "caption": "No physical traces of the army were found."
+      },
+      {
+        "narration": "In the early twentieth century, daring desert explorers like László Almásy launched perilous expeditions into the uncharted Great Sand Sea.",
+        "search": "early 20th century desert expedition photograph",
+        "caption": "Early explorers searched the Great Sand Sea."
+      },
+      {
+        "narration": "Almásy and fellow adventurers scoured the burning dunes hoping to uncover remnants of Persian armor or rusted iron blades.",
+        "search": "vintage map of western desert Egypt engraving",
+        "caption": "Adventurers scoured the dunes for Persian armor."
+      },
+      {
+        "narration": "Then, in 2009, twin Italian archaeologists made a startling discovery near the ancient Siwa caravan route.",
+        "search": "archaeologist at desert excavation site photograph",
+        "caption": "Italian archaeologists made a startling discovery in 2009."
+      },
+      {
+        "narration": "They unearthed Persian-era bronze arrowheads, silver jewelry, and hundreds of human bones scattered beneath the sand.",
+        "search": "ancient bronze arrowheads and artifacts museum display",
+        "caption": "Excavations revealed Persian arrowheads and human bones."
+      },
+      {
+        "narration": "Yet, new competing theories emerged, suggesting the elite force might have been ambushed by Egyptian rebels instead.",
+        "search": "ancient Egyptian rebel warrior wall relief carving",
+        "caption": "New theories suggested an ambush by Egyptian rebels."
+      },
+      {
+        "narration": "Whether buried by nature or struck down in combat, the fate of Cambyses' army remains an enduring antiquity mystery.",
+        "search": "ancient Persian soldier helmet artifact museum photo",
+        "caption": "The true fate of the army remains unsolved."
+      },
+      {
+        "narration": "In 2014, Egyptologist Olaf Kaper deciphered temple inscriptions at Dakhla Oasis, suggesting the army marched directly into an ambush staged by Egyptian rebel leader Petubastis III.",
+        "search": "ancient egyptian hieroglyphic inscription stone relief",
+        "caption": "Temple inscriptions suggest Egyptian rebels ambushed Cambyses' advancing army."
+      },
+      {
+        "narration": "Petubastis proclaimed himself pharaoh in 522 BC, capitalizing on Cambyses’ disastrous southern campaign into Nubia that had already depleted Persian imperial reserves.",
+        "search": "Achaemenid Persian soldier relief Persepolis stone carving",
+        "caption": "Cambyses faced widespread revolts while his army marched west."
+      },
+      {
+        "narration": "When Darius I reconquered Egypt in 518 BC, royal scribes may have blamed a supernatural sandstorm rather than admit imperial soldiers were massacred by local insurgents.",
+        "search": "Darius I of Persia rock relief Behistun carving",
+        "caption": "Darius I may have fabricated the sandstorm myth to hide military defeat."
+      },
+      {
+        "narration": "Yet geologists argue that shifting barchan dunes in the Great Sand Sea constantly uncover prehistoric fossils, making the total disappearance of 50,000 armored men deeply anomalous.",
+        "search": "Great Sand Sea Egypt barchan sand dunes aerial photograph",
+        "caption": "Shifting sands regularly expose ancient artifacts, yet Persian armor remains elusive."
+      },
+      {
+        "narration": "Military logistics indicate that sustaining 50,000 men required thousands of gallons of water daily, meaning an orchestrated poisoning of oasis wells would have caused total collapse in forty-eight hours.",
+        "search": "ancient caravan route Sahara desert 19th century engraving",
+        "caption": "Severed water supplies would have annihilated the column within days."
+      },
+      {
+        "narration": "Modern researchers have deployed ground-penetrating satellite radar to scan the bedrock under Egyptian sand sheets, tracing lost caravan trails between Kharga and Siwa.",
+        "search": "satellite radar map Sahara desert subsurface topography",
+        "caption": "Radar scans search deep beneath desert dunes for ancient transit corridors."
+      },
+      {
+        "narration": "Egypt's Supreme Council of Antiquities challenged claims from the 2009 Italian expedition, arguing that recovered bronze arrowheads and scattered skeletal remains lacked clear stratigraphical proof.",
+        "search": "ancient Persian bronze arrowheads museum archaeological artifact",
+        "caption": "Archaeologists debate whether discovered artifacts belong to Cambyses' lost host."
+      },
+      {
+        "narration": "Whether annihilated in an insurgent slaughter or entombed by catastrophic winds, fifty thousand imperial soldiers and their armaments remain unaccounted for beneath Egypt's western wastes.",
+        "search": "ancient Achaemenid Persian gold and bronze weapons museum display",
+        "caption": "Thousands of bronze weapons and skeletons remain lost beneath the sands."
+      },
+      {
+        "narration": "In 2009, twin Italian archaeologists Angelo and Alfredo Castiglioni announced the discovery of Persian bronze arrowheads, silver jewelry, and human remains along the traditional Siwa caravan route.",
+        "search": "archaeological excavation desert site oil painting",
+        "caption": "2009 archaeological finds spark fresh historical debate."
+      },
+      {
+        "narration": "Yet Egypt's Supreme Council of Antiquities challenged these claims, arguing that recovered bronze arrowheads and scattered skeletal remains lacked clear stratigraphical proof.",
+        "search": "ancient egyptian artifacts museum display oil painting",
+        "caption": "Skeptics question the validity of the 2009 artifacts."
+      },
+      {
+        "narration": "Adding to the complexity, new historical analysis suggests the army may have been ambushed and destroyed by the Egyptian rebel leader Petubastis III rather than buried by the wind.",
+        "search": "ancient egyptian rebel pharaoh portrait painting",
+        "caption": "Rebel forces emerge as a plausible alternative threat."
+      },
+      {
+        "narration": "The sheer scale of the disappearance baffled ancient contemporaries, leaving Herodotus as the primary chronicler of the catastrophic desert march.",
+        "search": "herodotus ancient greek historian bust sculpture",
+        "caption": "Herodotus records the devastating Persian expedition."
+      },
+      {
+        "narration": "King Cambyses II never witnessed the return of his vanguard, his imperial ambitions abruptly checked by the unforgiving geography of North Africa.",
+        "search": "king cambyses ii persia stone relief sculpture",
+        "caption": "King Cambyses II waits in vain for victory reports."
+      },
+      {
+        "narration": "Centuries of subsequent Persian, Roman, and Islamic rule over Egypt failed to yield any trace of the missing imperial division or its heavy armor.",
+        "search": "ancient roman ruins egypt desert oil painting",
+        "caption": "Centuries pass without a trace of the missing soldiers."
+      },
+      {
+        "narration": "Today, the lost army of Cambyses endures as antiquity's ultimate military ghost story, a haunting testament to the lethal power of the Great Sand Sea.",
+        "search": "desert sandstorm historical illustration engraving",
+        "caption": "The legend of the lost Persian army endures."
+      },
+      {
+        "narration": "In the early 20th century, desert explorers like László Almásy launch daring expeditions into the Great Sand Sea looking for armor remnants.",
+        "search": "László Almásy portrait photograph early 20th century",
+        "caption": "Desert explorers hunt for missing imperial armor."
+      },
+      {
+        "narration": "Expeditions struggle against punishing temperatures and shifting dunes while scouring ancient trade routes for any trace of the garrison.",
+        "search": "vintage desert expedition camel caravan archival photo",
+        "caption": "Expeditions brave brutal dunes to find clues."
+      },
+      {
+        "narration": "For decades, academic consensus leans toward dismissing the entire episode as a fabricated myth meant to discredit Persian military might.",
+        "search": "ancient Greek manuscript parchment Herodotus histories page",
+        "caption": "Scholars long dismissed the event as ancient propaganda."
+      },
+      {
+        "narration": "Then, in 2009, twin Italian archaeologists uncover Persian-era iron daggers, silver jewelry, and hundreds of human bones near the Siwa route.",
+        "search": "archaeological excavation site desert bones artifacts photography",
+        "caption": "Excavations unearth ancient weapons and human remains."
+      },
+      {
+        "narration": "The unearthed bronze arrowheads and ornaments match the exact metallurgical style of sixth century BCE Persian craftsmanship.",
+        "search": "ancient Persian bronze dagger artifact museum display",
+        "caption": "Artifacts match sixth century BCE Persian craftsmanship."
+      },
+      {
+        "narration": "Yet, new competing theories suggest the army was ambushed and destroyed by Egyptian rebel leader Petubastis III before the sandstorm covered the bodies.",
+        "search": "ancient Egyptian pharaoh relief carving stone wall art",
+        "caption": "Rival theories point to an Egyptian rebel ambush."
+      },
+      {
+        "narration": "Whether buried by nature's fury or fallen to insurgent swords, the imperial force vanished completely from official imperial records.",
+        "search": "empty desert horizon sand dunes dramatic lighting photography",
+        "caption": "The imperial force vanished without an official trace."
+      },
+      {
+        "narration": "The tragedy remains one of antiquity's greatest unsolved military catastrophes, illustrating the terrifying power of the ancient desert.",
+        "search": "vast Sahara desert sand dunes aerial view photography",
+        "caption": "An unsolved military catastrophe of the ancient world."
+      },
+      {
+        "narration": "In the early 20th century, European desert explorers launch daring expeditions into the Great Sand Sea looking for armor remnants.",
+        "search": "1920s desert explorer expedition archival photograph",
+        "caption": "Early explorers search the Great Sand Sea."
+      },
+      {
+        "narration": "Mainstream historians for over two millennia dismissed the tale as anti-Persian propaganda invented by ancient Greek chroniclers.",
+        "search": "ancient greek manuscript page illumination",
+        "caption": "Historians dismissed the tale as propaganda."
+      },
+      {
+        "narration": "In 2009, twin Italian archaeologists discover Persian-era iron daggers, silver jewelry, and human bones near the Siwa route.",
+        "search": "archaeological excavation desert artifacts photograph",
+        "caption": "2009 discovery of ancient Persian relics."
+      },
+      {
+        "narration": "New competing theories suggest the army was ambushed and destroyed by Egyptian rebel leader Petubastis III before the storm.",
+        "search": "ancient egyptian rebel pharaoh stone relief",
+        "caption": "Theories suggest a deadly desert ambush."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T20:25:10.556889+00:00",
+    "updated_at": "2026-11-03T20:45:44.401987+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "30 scenes",
+        "at": "2026-11-03T20:29:42.509226+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "1763 chars",
+        "at": "2026-11-03T20:30:46.001359+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "105.5s en-US-GuyNeural 14 cau",
+        "at": "2026-11-03T20:31:01.835278+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T20:31:04.387852+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-03T20:42:49.887309+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T20:42:50.127114+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 105.5s 104872710 bytes",
+        "at": "2026-11-03T20:45:43.948997+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-11-03T20:45:44.151064+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T20:45:44.401967+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5624531/pexels-photo-5624531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33799609/pexels-photo-33799609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12660446/pexels-photo-12660446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18566789/pexels-photo-18566789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12527831/pexels-photo-12527831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17892638/pexels-photo-17892638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18870198/pexels-photo-18870198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934682/pexels-photo-18934682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31702707/pexels-photo-31702707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20039699/pexels-photo-20039699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12437205/pexels-photo-12437205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28829638/pexels-photo-28829638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5811906/pexels-photo-5811906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760096/pexels-photo-7760096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39863284/pexels-photo-39863284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934684/pexels-photo-18934684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760100/pexels-photo-7760100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15317427/pexels-photo-15317427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081433/pexels-photo-20081433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39617554/pexels-photo-39617554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34453105/pexels-photo-34453105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30158465/pexels-photo-30158465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40519818/pexels-photo-40519818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36885274/pexels-photo-36885274.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760093/pexels-photo-7760093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16535879/pexels-photo-16535879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267800/pexels-photo-9267800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32398256/pexels-photo-32398256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33691613/pexels-photo-33691613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14828257/pexels-photo-14828257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12740233/pexels-photo-12740233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32040708/pexels-photo-32040708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14999204/pexels-photo-14999204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40591880/pexels-photo-40591880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8396074/pexels-photo-8396074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934583/pexels-photo-18934583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/963625/pexels-photo-963625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31249245/pexels-photo-31249245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760098/pexels-photo-7760098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16580393/pexels-photo-16580393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/404993/pexels-photo-404993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35432065/pexels-photo-35432065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40688270/pexels-photo-40688270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33725974/pexels-photo-33725974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9437046/pexels-photo-9437046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33634010/pexels-photo-33634010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35689882/pexels-photo-35689882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10788162/pexels-photo-10788162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9678118/pexels-photo-9678118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9180227/pexels-photo-9180227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9806674/pexels-photo-9806674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30688201/pexels-photo-30688201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14224636/pexels-photo-14224636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14548826/pexels-photo-14548826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726181/pexels-photo-23726181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33807635/pexels-photo-33807635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11885445/pexels-photo-11885445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5389322/pexels-photo-5389322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36836883/pexels-photo-36836883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12890496/pexels-photo-12890496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39474313/pexels-photo-39474313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610629/pexels-photo-20610629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39617549/pexels-photo-39617549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15188368/pexels-photo-15188368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934678/pexels-photo-18934678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40162500/pexels-photo-40162500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760102/pexels-photo-7760102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34137936/pexels-photo-34137936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39043433/pexels-photo-39043433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15421358/pexels-photo-15421358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12179598/pexels-photo-12179598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35254135/pexels-photo-35254135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416943/pexels-photo-18416943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30150831/pexels-photo-30150831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991526/pexels-photo-18991526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31415639/pexels-photo-31415639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29107888/pexels-photo-29107888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12177906/pexels-photo-12177906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40291882/pexels-photo-40291882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18917741/pexels-photo-18917741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15317426/pexels-photo-15317426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "77ad259f29",
     "kind": "short",
     "channel": "Channel3",
