@@ -1,5 +1,161 @@
 [
   {
+    "id": "1429a3952a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Scipio Turned 80 War Elephants on Hannibal",
+    "idea": {
+      "title": "How Scipio Turned 80 War Elephants on Hannibal",
+      "hook": "In 202 BC, Hannibal unleashed 80 colossal war elephants to crush Rome, but Scipio Africanus defeated them without swinging a single sword.",
+      "beats": [
+        "Hannibal opened the Battle of Zama with a terrifying frontal charge of 80 rampaging war elephants.",
+        "Instead of holding a rigid wall, Scipio ordered his Roman maniples to form open lanes straight through his army.",
+        "Roman trumpeters blew deafening bronze horns, startling the lead beasts into a blind panic.",
+        "The terrified elephants veered down the open alleys or turned backward, trampling Hannibal's own cavalry flanks and handing Rome total victory."
+      ],
+      "keywords": [
+        "Battle of Zama painting",
+        "Scipio Africanus bust",
+        "Hannibal Barca portrait",
+        "ancient Roman legion engraving",
+        "war elephant ancient battle"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#hannibal",
+        "#militarytactics",
+        "#battleofzama"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome defeated eighty war elephants without swinging a sword.",
+        "search": "ancient war elephant battle oil painting",
+        "caption": "Rome defeated 80 war elephants without drawing a sword."
+      },
+      {
+        "narration": "In October 202 BC at Zama, control of the Mediterranean hinged on the outcome of a single clash.",
+        "search": "ancient Mediterranean battle map engraving",
+        "caption": "The Battle of Zama, October 202 BC, decided Mediterranean supremacy."
+      },
+      {
+        "narration": "Carthaginian general Hannibal Barca massed eighty colossal war elephants at the front of his line.",
+        "search": "Hannibal Barca portrait bust marble",
+        "caption": "Hannibal deployed eighty war elephants to shatter the Roman line."
+      },
+      {
+        "narration": "A direct charge from these beasts routinely crushed any tight infantry formation in the ancient world.",
+        "search": "Carthaginian war elephant charging engraving",
+        "caption": "Charging war elephants routinely shattered traditional heavy infantry formations."
+      },
+      {
+        "narration": "Roman general Publius Cornelius Scipio knew a traditional unbroken shield wall would be obliterated.",
+        "search": "Scipio Africanus bust statue Roman marble",
+        "caption": "Scipio Africanus recognized that traditional shield walls would be destroyed."
+      },
+      {
+        "narration": "Instead of a locked front, Scipio aligned his maniples to open wide corridors straight through his army.",
+        "search": "Roman legion formation diagram engraving",
+        "caption": "Scipio ordered his maniples to open vertical lanes through his army."
+      },
+      {
+        "narration": "As the elephants charged, Roman lines raised an ear-splitting blast on hundreds of bronze horns.",
+        "search": "Roman cornu horn player relief sculpture",
+        "caption": "Roman musicians unleashed a sudden blast of bronze horns and trumpets."
+      },
+      {
+        "narration": "The deafening noise startled the lead animals, freezing their momentum directly in front of the Roman lines.",
+        "search": "Battle of Zama Scipio Hannibal oil painting",
+        "caption": "Terrified by the sudden din, the lead elephants began to panic."
+      },
+      {
+        "narration": "Scipio had prearranged his maniples in parallel columns, opening wide avenues directly through the Roman infantry lines.",
+        "search": "ancient Roman legion battle formation engraving",
+        "caption": "Scipio opened clear corridors through the Roman infantry lines."
+      },
+      {
+        "narration": "The terrified beasts funneled harmlessly down the open alleys or bolted backward, shattering Hannibal's own cavalry flanks.",
+        "search": "Battle of Zama elephant charge oil painting",
+        "caption": "Panicked war elephants routed Hannibal's own mounted cavalry wings."
+      },
+      {
+        "narration": "With Carthage's cavalry shattered and his shock force erased, Hannibal suffered complete defeat at Zama, sealing Roman dominance over the Mediterranean.",
+        "search": "Scipio Africanus marble bust Roman sculpture",
+        "caption": "Rome secured total Mediterranean supremacy after Hannibal's defeat at Zama."
+      },
+      {
+        "narration": "How did Rome defeat eighty war elephants without a sword?",
+        "search": "Scipio Africanus bust statue",
+        "caption": "Defeating 80 war elephants without swinging a single sword."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T01:56:43.414860+00:00",
+    "updated_at": "2026-11-03T02:03:44.569385+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T01:58:07.995856+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "407 chars (cat 232 de vua 55s)",
+        "at": "2026-11-03T02:00:57.582736+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-03T02:01:01.696216+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T02:01:02.778597+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T02:02:53.618117+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T02:02:53.726587+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.9s 17202696 bytes",
+        "at": "2026-11-03T02:03:44.054603+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T02:03:44.569365+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/31760591/pexels-photo-31760591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33713420/pexels-photo-33713420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38199697/pexels-photo-38199697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237019/pexels-photo-38237019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40648510/pexels-photo-40648510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40645963/pexels-photo-40645963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34075947/pexels-photo-34075947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839556/pexels-photo-35839556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5985284/pexels-photo-5985284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31453376/pexels-photo-31453376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057043/pexels-photo-29057043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a1d2d46633",
     "kind": "short",
     "channel": "Channel2",
