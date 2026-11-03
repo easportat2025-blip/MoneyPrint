@@ -1,5 +1,160 @@
 [
   {
+    "id": "a3fc36e3d8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why pirates kidnapped Julius Caesar and regretted it",
+    "idea": {
+      "title": "Why pirates kidnapped Julius Caesar and regretted it",
+      "hook": "Năm 75 TCN, một nhóm cướp biển vùng Cilicia bắt cóc Julius Caesar trẻ tuổi và đòi khoản tiền chuộc 20 talents vàng, không ngờ đó là sai lầm lớn nhất đời chúng.",
+      "beats": [
+        "Trong suốt 38 ngày bị giam giữ, Caesar cư xử như một ông chủ thực sự, bắt cướp biển phải im lặng khi ông ngủ.",
+        "Caesar nhiều lần đùa cợt rằng sau khi được thả, ông sẽ quay lại treo cổ tất cả bọn chúng.",
+        "Ngay khi tiền chuộc được trả, Caesar giữ đúng lời hứa: quay lại bắt giữ và đóng đinh toàn bộ băng cướp."
+      ],
+      "keywords": [
+        "Julius Caesar",
+        "Roman Republic",
+        "Cilician pirates",
+        "ancient map",
+        "historical portrait"
+      ],
+      "tags": [
+        "history",
+        "juliuscaesar",
+        "rome",
+        "pirates",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Kidnapping Julius Caesar in 75 BC was a fatal mistake.",
+        "search": "Julius Caesar marble bust statue close up",
+        "caption": "Kidnapping Julius Caesar in 75 BC was a fatal mistake."
+      },
+      {
+        "narration": "Cilician pirates captured twenty-five-year-old Julius Caesar near the Aegean island of Pharmacusa.",
+        "search": "Aegean sea ancient Greek map engraving",
+        "caption": "Pirates captured 25-year-old Caesar near Pharmacusa island."
+      },
+      {
+        "narration": "The captors demanded twenty talents of silver, unaware of their young hostage's true standing.",
+        "search": "ancient Roman silver coins hoard close up",
+        "caption": "Captors demanded 20 talents of silver for his release."
+      },
+      {
+        "narration": "Caesar laughed at the demand, insisting he was worth at least fifty talents.",
+        "search": "young Roman patrician marble statue portrait",
+        "caption": "Caesar insisted his ransom be raised to 50 talents."
+      },
+      {
+        "narration": "During thirty-eight days of captivity, Caesar commanded the pirates to remain silent while he slept.",
+        "search": "ancient Cilician pirates wooden galley illustration",
+        "caption": "Caesar treated his pirate captors like subordinate servants."
+      },
+      {
+        "narration": "He wrote speeches for them to hear and openly promised to return and crucify them all.",
+        "search": "ancient Mediterranean sea storm oil painting",
+        "caption": "Caesar warned he would return and execute them all."
+      },
+      {
+        "narration": "Immediately upon his release at Miletus, Caesar raised a private naval fleet to pursue his captors.",
+        "search": "ancient Roman naval fleet battle oil painting",
+        "caption": "Upon release, Caesar immediately raised a private naval fleet."
+      },
+      {
+        "narration": "Caesar captured the pirates, reclaimed the silver ransom, and had the entire crew crucified.",
+        "search": "ancient Roman crucifixion historical illustration",
+        "caption": "Caesar captured the pirates and had them all crucified."
+      },
+      {
+        "narration": "In 75 BC, this brutal execution of the Cilician pirates cemented young Caesar's ruthless political ascent across the Roman Republic.",
+        "search": "ancient Roman coin featuring Julius Caesar profile",
+        "caption": "The ruthless rise of young Julius Caesar."
+      },
+      {
+        "narration": "The future dictator demonstrated that defying Roman authority carried absolute consequences, horrifying his senators and enemies alike.",
+        "search": "Julius Caesar marble bust sculpture museum lighting",
+        "caption": "Defying Rome carried absolute consequences."
+      },
+      {
+        "narration": "What began as a humiliating kidnapping in 75 BC ultimately birthed the legendary ambition that forged the Roman Empire.",
+        "search": "ancient Roman map engraving on weathered parchment",
+        "caption": "A kidnapping that forged an empire."
+      },
+      {
+        "narration": "In 75 BC, pirates captured Julius Caesar—and deeply regretted it.",
+        "search": "Julius Caesar marble bust statue close up",
+        "caption": "Kidnapping Julius Caesar was a fatal mistake"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T07:50:59.353298+00:00",
+    "updated_at": "2026-11-03T07:56:30.496308+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T07:53:14.077651+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "350 chars (cat 276 de vua 55s)",
+        "at": "2026-11-03T07:53:59.676543+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.2s en-US-GuyNeural 4 cau",
+        "at": "2026-11-03T07:54:01.937489+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T07:54:02.902684+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T07:55:39.308605+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T07:55:39.410126+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.2s 14130981 bytes",
+        "at": "2026-11-03T07:56:30.150189+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T07:56:30.496289+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38237017/pexels-photo-38237017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32658603/pexels-photo-32658603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7267494/pexels-photo-7267494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19143006/pexels-photo-19143006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1967533/pexels-photo-1967533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16115004/pexels-photo-16115004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35552016/pexels-photo-35552016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35697524/pexels-photo-35697524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39185426/pexels-photo-39185426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19892816/pexels-photo-19892816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18799892/pexels-photo-18799892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31399303/pexels-photo-31399303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c4b0acda10",
     "kind": "short",
     "channel": "Channel3",
