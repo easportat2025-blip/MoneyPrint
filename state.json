@@ -1,5 +1,167 @@
 [
   {
+    "id": "a51d7f93c1",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm mở tủ lạnh khi đói đang âm thầm phá hủy ví bạn",
+    "idea": {
+      "title": "Sai lầm mở tủ lạnh khi đói đang âm thầm phá hủy ví bạn",
+      "hook": "Bạn có bao giờ tự hỏi tại sao cứ bước vào bếp lúc đói là bạn lại vớ lấy những món đắt đỏ nhất không? Đừng đổ lỗi cho cái bụng.",
+      "beats": [
+        "Bộ não con người xem việc đói lả là một dạng tình trạng khẩn cấp sinh tồn.",
+        "Ngay khoảnh khắc bạn mở cửa tủ lạnh, ánh sáng và mùi hương kích hoạt vùng khoái cảm, tắt đi khả năng kiềm chế của lý trí.",
+        "Các siêu thị và tủ lạnh thông minh đều lợi dụng cơ chế này để khiến bạn chi tiêu gấp đôi cho những thực phẩm không cần thiết.",
+        "Hậu quả là ví tiền của bạn mỏng đi trông thấy chỉ vì những quyết định được đưa ra trong tích tắc khi dạ dày trống rỗng."
+      ],
+      "keywords": [
+        "open refrigerator",
+        "empty stomach decision",
+        "grocery shopping psychology",
+        "brain craving food",
+        "kitchen minimalist animation"
+      ],
+      "tags": [
+        "#channel3",
+        "#tamly",
+        "#meovat",
+        "#doisong",
+        "#kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn có bao giờ tự hỏi tại sao cứ bước vào bếp lúc đói là bạn lại vớ lấy những món đắt đỏ nhất không? Đừng đổ lỗi cho cái bụng.",
+        "search": "3d animation man open refrigerator light glowing kitchen",
+        "caption": "Tại sao bạn luôn chọn đồ đắt nhất khi đói?"
+      },
+      {
+        "narration": "Bộ não con người xem việc đói lả là một dạng tình trạng khẩn cấp sinh tồn.",
+        "search": "motion graphics human brain nervous system glowing impulse",
+        "caption": "Bộ não coi cơn đói là tình trạng khẩn cấp"
+      },
+      {
+        "narration": "Ngay khoảnh khắc bạn mở cửa tủ lạnh, ánh sáng và mùi hương kích hoạt vùng khoái cảm, tắt đi khả năng kiềm chế của lý trí.",
+        "search": "isometric render open fridge cold fog glowing food inside",
+        "caption": "Ánh sáng tủ lạnh đánh lừa vùng khoái cảm"
+      },
+      {
+        "narration": "Các siêu thị và tủ lạnh thông minh đều lợi dụng cơ chế này để khiến bạn chi tiêu gấp đôi cho những thực phẩm không cần thiết.",
+        "search": "explainer animation grocery store products shelf isometric",
+        "caption": "Hệ thống bán hàng lợi dụng cơ chế sinh tồn"
+      },
+      {
+        "narration": "Hậu quả là ví tiền của bạn mỏng đi trông thấy chỉ vì những quyết định được đưa ra trong tích tắc khi dạ dày trống rỗng.",
+        "search": "cartoony 3d wallet losing money flying away animation",
+        "caption": "Ví tiền bốc hơi vì những quyết định lúc đói"
+      },
+      {
+        "narration": "Khi dạ dày trống rỗng, lượng đường huyết giảm khiến trung tâm kiểm soát impulse ở vỏ não trước trán tạm ngừng hoạt động.",
+        "search": "motion graphics blood sugar drop brain activity chart",
+        "caption": "Đường huyết giảm làm tê liệt lý trí"
+      },
+      {
+        "narration": "Lúc này, hạch hạnh nhân - trung tâm cảm xúc - nắm quyền kiểm soát, khiến bạn thèm thuồng những thực phẩm giàu calo và đắt tiền nhất.",
+        "search": "3d animation human head showing emotional center glowing",
+        "caption": "Trung tâm cảm xúc chiếm quyền điều khiển"
+      },
+      {
+        "narration": "Thói quen mở tủ lạnh vô thức này không chỉ làm rỗng dạ dày mà còn âm thầm rút sạch tài khoản ngân hàng của bạn mỗi tháng.",
+        "search": "isometric kitchen counter money bills burning animation",
+        "caption": "Thói quen vô thức rút sạch tài khoản mỗi tháng"
+      },
+      {
+        "narration": "Các hãng thực phẩm và siêu thị lớn nghiên cứu rất kỹ hành vi này để bày bán những món đồ ăn nhanh, giá cao ngay tầm mắt bạn.",
+        "search": "isometric 3d supermarket shelves motion graphics",
+        "caption": "Sự thật về cách siêu thị thao túng ví tiền"
+      },
+      {
+        "narration": "Chỉ vài phút thiếu kiềm chế trước cánh cửa tủ lạnh, bạn đã vô tình ném đi một khoản tiền không nhỏ vào những thứ thừa thãi.",
+        "search": "cartoon 3d wallet losing money animation",
+        "caption": "Cái giá đắt cho vài phút đói bụng"
+      },
+      {
+        "narration": "Hậu quả là ví tiền của bạn mỏng đi trông thấy chỉ vì những quyết định chớp nhoáng khi dạ dày đang trống rỗng.",
+        "search": "empty wallet animation motion graphics",
+        "caption": "Ví tiền mỏng đi vì dạ dày trống rỗng"
+      },
+      {
+        "narration": "Thay vì mở tủ lạnh ngay, hãy uống một cốc nước ấm để lừa bộ não rằng cơ thể đã được nạp năng lượng tạm thời.",
+        "search": "drinking glass of water 3d animation loop",
+        "caption": "Mẹo nhỏ đánh lừa bộ não khi đói"
+      },
+      {
+        "narration": "Lên danh sách món cần ăn trước khi mở tủ giúp bạn tiết kiệm đến bốn mươi phần trăm chi phí mua sắm mỗi tháng.",
+        "search": "checklist notepad 3d animation minimal",
+        "caption": "Lên danh sách để bảo vệ ví tiền của bạn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T21:12:27.180723+00:00",
+    "updated_at": "2026-11-03T21:17:07.059869+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-03T21:14:34.394218+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "512 chars (cat 132 de vua 55s)",
+        "at": "2026-11-03T21:15:37.648224+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.8s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-03T21:15:49.730904+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T21:15:51.046519+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-03T21:16:03.139915+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-03T21:16:03.246221+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.8s 19343200 bytes",
+        "at": "2026-11-03T21:17:06.648215+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T21:17:07.059851+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/32365209/13807593_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/35012151/14832323_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/30205992/12951139_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/36108503/15313624_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/8816986/8816986-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7578609/7578609-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/36644496/15535660_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6700647/6700647-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655790/16655790-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816987/8816987-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816945/8816945-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/30211440/12952762_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/33194181/14146650_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "1cfd3a58ba",
     "kind": "long",
     "channel": "seigh",
