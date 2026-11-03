@@ -1,5 +1,161 @@
 [
   {
+    "id": "0a18eb631d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Unexpected Move Shattered the Invincible Spartan Army",
+    "idea": {
+      "title": "How 1 Unexpected Move Shattered the Invincible Spartan Army",
+      "hook": "General Epaminondas achieved what the Persian Empire never could: he shattered Spartan military dominance in a single afternoon through a shocking tactical betrayal of tradition.",
+      "beats": [
+        "Sparta had remained undefeated in pitched land battles for centuries using standard phalanx formations.",
+        "At Leuctra, Epaminondas massed his strongest troops 50-men deep on his left flank instead of the traditional right side.",
+        "He launched the elite Sacred Band of Thebes directly at the Spartan King Cleombrotus, catching the royal guard off guard.",
+        "The unexpected impact killed the Spartan King and sent the panic-stricken army into full retreat, ending Spartan hegemony forever."
+      ],
+      "keywords": [
+        "Battle of Leuctra engraving",
+        "Epaminondas ancient bust",
+        "Spartan phalanx painting",
+        "Ancient Greek warfare map",
+        "Sacred Band of Thebes illustration"
+      ],
+      "tags": [
+        "history",
+        "ancientgreece",
+        "sparta",
+        "militaryhistory",
+        "tactics"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One afternoon in 371 BC shattered centuries of Spartan invincibility.",
+        "search": "ancient spartan warrior helmet oil painting",
+        "caption": "One single afternoon destroyed Sparta's invincible army forever."
+      },
+      {
+        "narration": "For over two hundred years, no army could break the traditional Spartan phalanx in open warfare.",
+        "search": "spartan phalanx army battle oil painting",
+        "caption": "Sparta had never lost a major pitched land battle."
+      },
+      {
+        "narration": "In July 371 BC, King Cleombrotus the First marched four thousand Spartan hoplites to Leuctra to crush Thebes.",
+        "search": "ancient greek warfare battlefield map engraving",
+        "caption": "July 371 BC: Four thousand Spartans invade Leuctra."
+      },
+      {
+        "narration": "Theban general Epaminondas faced hopeless odds, but devised a complete betrayal of traditional warfare rules.",
+        "search": "epaminondas ancient bust statue",
+        "caption": "General Epaminondas planned a radical breach of military tradition."
+      },
+      {
+        "narration": "Instead of reinforcing his right flank as custom demanded, Epaminondas stacked a fifty-man deep column directly on his left.",
+        "search": "ancient greek battle formation diagram illustration",
+        "caption": "Epaminondas stacked a 50-man deep column on the left."
+      },
+      {
+        "narration": "He launched the Sacred Band of Thebes, three hundred elite warriors, straight into the Spartan king's personal guard.",
+        "search": "sacred band of thebes battle illustration",
+        "caption": "The Sacred Band struck directly at the Spartan King."
+      },
+      {
+        "narration": "The concentrated crushing weight shattered the line, killing King Cleombrotus and sending the phalanx into total panic.",
+        "search": "battle of leuctra fall of sparta engraving",
+        "caption": "King Cleombrotus fell, sending the invincible army running."
+      },
+      {
+        "narration": "Over one thousand Spartans perished that afternoon, ending Spartan military hegemony over Greece forever.",
+        "search": "ancient spartan soldier statue marble",
+        "caption": "The defeat at Leuctra ended Spartan global hegemony forever."
+      },
+      {
+        "narration": "In 371 BC at Leuctra, General Epaminondas permanently broke centuries of Spartan military dominance.",
+        "search": "Battle of Leuctra oil painting",
+        "caption": "Epaminondas shatters centuries of Spartan military dominance."
+      },
+      {
+        "narration": "The Persian Empire could never achieve this, yet a single afternoon ended Spartan hegemony over Greece forever.",
+        "search": "Epaminondas ancient marble bust statue",
+        "caption": "The defeat ended Spartan hegemony over Greece forever."
+      },
+      {
+        "narration": "This brilliant tactical betrayal of ancient tradition proved that even the most invincible empire can fall.",
+        "search": "Ancient Greek warfare map engraving",
+        "caption": "Even the most invincible ancient empires can fall."
+      },
+      {
+        "narration": "General Epaminondas achieved what the Persian Empire never could.",
+        "search": "Epaminondas ancient bust statue",
+        "caption": "How one move shattered invincible Sparta."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T22:32:15.968416+00:00",
+    "updated_at": "2026-11-03T22:38:35.918271+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T22:34:30.692607+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "342 chars (cat 369 de vua 55s)",
+        "at": "2026-11-03T22:35:33.193056+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.8s en-US-GuyNeural 4 cau",
+        "at": "2026-11-03T22:35:35.271064+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T22:35:36.090869+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T22:37:58.085959+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T22:37:58.188060+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.9s 17123912 bytes",
+        "at": "2026-11-03T22:38:35.542829+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T22:38:35.918250+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/23383453/pexels-photo-23383453.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5349030/pexels-photo-5349030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494937/pexels-photo-9494937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36145702/pexels-photo-36145702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32658615/pexels-photo-32658615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37104051/pexels-photo-37104051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31487200/pexels-photo-31487200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15279772/pexels-photo-15279772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645920/pexels-photo-28645920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13778880/pexels-photo-13778880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20524078/pexels-photo-20524078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151897/pexels-photo-40151897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a51d7f93c1",
     "kind": "short",
     "channel": "Channel3",
