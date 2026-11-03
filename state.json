@@ -1,5 +1,161 @@
 [
   {
+    "id": "5484f805b1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Royal Doctor Who Stole an Entire Kingdom",
+    "idea": {
+      "title": "The Royal Doctor Who Stole an Entire Kingdom",
+      "hook": "In 1772, an ordinary German physician entered the Danish court to treat a mad king—and within months, he was sleeping with the queen and secretly ruling the entire empire.",
+      "beats": [
+        "King Christian VII of Denmark suffered from severe mental illness and paranoia, leaving his court vulnerable to manipulation.",
+        "His personal doctor, Johann Friedrich Struensee, gained absolute control over the king's mind and seduced Queen Caroline Matilda.",
+        "Struensee issued over 1,800 radical decrees in just 14 months, abolishing torture and censorship while ruling as Denmark's unofficial absolute dictator.",
+        "Enraged Danish nobles orchestrated a midnight coup, forcing the terrified king to sign the warrant to publicly execute the man who had stolen his throne and wife."
+      ],
+      "keywords": [
+        "King Christian VII Denmark painting",
+        "Johann Friedrich Struensee engraving",
+        "Queen Caroline Matilda portrait",
+        "Copenhagen royal palace 18th century",
+        "Execution of Struensee engraving"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#royalhistory",
+        "#betrayal",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A royal doctor stole Denmark's entire empire in 1770.",
+        "search": "Johann Friedrich Struensee portrait oil painting",
+        "caption": "A royal physician stole Denmark's throne in 1770."
+      },
+      {
+        "narration": "King Christian VII of Denmark suffered from severe mental illness and paranoia, rendering him incapable of governing.",
+        "search": "King Christian VII Denmark oil painting portrait",
+        "caption": "King Christian VII suffered from crippling mental illness."
+      },
+      {
+        "narration": "In 1768, court officials hired German physician Johann Friedrich Struensee to manage the monarch's erratic behavior during a European tour.",
+        "search": "Christiansborg Palace Copenhagen 18th century engraving",
+        "caption": "In 1768, Johann Struensee became the king's royal physician."
+      },
+      {
+        "narration": "Struensee quickly isolated the paranoid king, gained his absolute trust, and took control of royal communications.",
+        "search": "18th century royal court Copenhagen engraving",
+        "caption": "Struensee manipulated the king to control all royal communications."
+      },
+      {
+        "narration": "Struensee soon seduced Christian's neglected wife, the nineteen-year-old Queen Caroline Matilda, securing supreme influence inside the palace.",
+        "search": "Queen Caroline Matilda Denmark oil painting portrait",
+        "caption": "Queen Caroline Matilda formed a secret alliance with Struensee."
+      },
+      {
+        "narration": "By July 1771, Struensee appointed himself Privy Cabinet Minister with full power to enact royal decrees without the king's signature.",
+        "search": "18th century royal decree document manuscript",
+        "caption": "In 1771, Struensee gained legal authority to issue royal decrees alone."
+      },
+      {
+        "narration": "Over fourteen months, Struensee issued more than eighteen hundred radical laws, abolishing torture, ending state censorship, and firing noble officials.",
+        "search": "18th century Enlightenment manuscript printing press engraving",
+        "caption": "Struensee enacted over 1,800 radical laws abolishing torture and censorship."
+      },
+      {
+        "narration": "Sidelined Danish aristocrats and military leaders formed a conspiracy to violently depose the foreign doctor and reclaim the crown.",
+        "search": "Danish army soldiers 18th century historical engraving",
+        "caption": "Enraged Danish nobles organized a conspiracy to topple Struensee."
+      },
+      {
+        "narration": "On January 17, 1772, conspirators stormed the royal palace at midnight, arresting Struensee and Queen Caroline Matilda in their bedchambers.",
+        "search": "Johann Friedrich Struensee arrest 1772 engraving",
+        "caption": "Conspirators stormed the Copenhagen royal palace at midnight in 1772."
+      },
+      {
+        "narration": "The conspirators coerced King Christian VII into signing the execution warrant, leading to Struensee's public beheading on April 28, 1772.",
+        "search": "Execution of Struensee engraving",
+        "caption": "Christian VII was forced to sign his doctor's death warrant."
+      },
+      {
+        "narration": "Though Struensee was destroyed, his brief reign proved that a single court physician could manipulate a monarch and rule an absolute empire.",
+        "search": "King Christian VII Denmark oil painting portrait single",
+        "caption": "A single physician successfully seized control of an entire kingdom."
+      },
+      {
+        "narration": "A German doctor stole Denmark's throne without drawing a sword.",
+        "search": "Johann Friedrich Struensee portrait oil painting",
+        "caption": "A royal physician stole an entire kingdom."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T03:37:33.893940+00:00",
+    "updated_at": "2026-11-03T03:45:38.010993+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T03:39:31.759043+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "377 chars (cat 224 de vua 55s)",
+        "at": "2026-11-03T03:40:15.976545+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-03T03:40:17.862682+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T03:40:18.479334+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T03:45:08.694958+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T03:45:08.774233+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.2s 14547091 bytes",
+        "at": "2026-11-03T03:45:37.664260+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T03:45:38.010969+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38694921/pexels-photo-38694921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18898358/pexels-photo-18898358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34200440/pexels-photo-34200440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30855096/pexels-photo-30855096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037019/pexels-photo-16037019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40249429/pexels-photo-40249429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326131/pexels-photo-18326131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326132/pexels-photo-18326132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38202039/pexels-photo-38202039.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38251621/pexels-photo-38251621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36952638/pexels-photo-36952638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3389707/pexels-photo-3389707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1429a3952a",
     "kind": "short",
     "channel": "Channel2",
