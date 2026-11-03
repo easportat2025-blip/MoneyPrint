@@ -1,5 +1,167 @@
 [
   {
+    "id": "c4b0acda10",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm để Wi-Fi bật 24/7 khi ra đường ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm để Wi-Fi bật 24/7 khi ra đường ai cũng mắc",
+      "hook": "Mỗi khi bạn bước ra khỏi nhà mà quên tắt Wi-Fi, điện thoại đang âm thầm phát tín hiệu liên tục và tiêu tốn pin gấp đôi.",
+      "beats": [
+        "Khi ra khỏi nhà, điện thoại liên tục gửi các gói tin Probe Request để tìm kiếm các mạng Wi-Fi từng kết nối.",
+        "Quá trình tìm kiếm liên tục này ngăn vi xử lý chìm vào chế độ nghỉ sâu (deep sleep).",
+        "Tín hiệu phát ra có thể vô tình lộ danh sách SSID các mạng quen thuộc cho các thiết bị quét xung quanh.",
+        "Tắt Wi-Fi khi đi ra ngoài giúp bạn tiết kiệm từ 10% đến 15% dung lượng pin mỗi ngày."
+      ],
+      "keywords": [
+        "smartphone wifi searching",
+        "city street walking phone",
+        "battery draining screen",
+        "cybersecurity concept",
+        "person holding phone street"
+      ],
+      "tags": [
+        "thủ thuật điện thoại",
+        "tiết kiệm pin",
+        "mẹo smartphone",
+        "bí mật công nghệ",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tắt màn hình nhưng Wi-Fi vẫn ngốn gấp đôi pin.",
+        "search": "3d animation dien thoai bat wifi tren duong pho",
+        "caption": "Tắt màn hình nhưng pin vẫn tụt gấp đôi?"
+      },
+      {
+        "narration": "Mỗi bước bạn đi ra ngoài, điện thoại đang âm thầm phát tín hiệu liên tục.",
+        "search": "3d animation song wifi phat ra tu smartphone",
+        "caption": "Điện thoại liên tục phát sóng vô hình"
+      },
+      {
+        "narration": "Thiết bị liên tục tự động bắn ra hàng trăm gói tin tìm kiếm Probe Request.",
+        "search": "isometric render goi tin du lieu phat ra tu dien thoai",
+        "caption": "Bắn hàng trăm gói tin Probe Request"
+      },
+      {
+        "narration": "Quá trình quét liên tục này ngăn vi xử lý chìm vào chế độ nghỉ sâu.",
+        "search": "explainer animation chip xu ly dien thoai chay nong",
+        "caption": "Ngăn chip điện thoại vào chế độ nghỉ"
+      },
+      {
+        "narration": "Đáng sợ hơn, các tín hiệu này vô tình làm lộ danh sách Wi-Fi quen thuộc.",
+        "search": "motion graphics danh sach wifi quen thuoc hien tren dien thoai",
+        "caption": "Lộ danh sách Wi-Fi nhà riêng"
+      },
+      {
+        "narration": "Thiết bị quét xung quanh có thể đọc vị những nơi bạn thường xuyên ghé thăm.",
+        "search": "cybersecurity concept quet ma tin hieu xung quanh",
+        "caption": "Nguy cơ bị lộ lịch trình di chuyển"
+      },
+      {
+        "narration": "Nguồn năng lượng quý giá bị vắt kiệt chỉ để tìm kiếm mạng không tồn tại.",
+        "search": "cartoony 3d pin dien thoai mau do can kiet",
+        "caption": "Pin bị vắt kiệt vô ích trên đường"
+      },
+      {
+        "narration": "Tắt Wi-Fi khi đi ra ngoài giúp bạn tiết kiệm 15% pin mỗi ngày.",
+        "search": "3d animation tay gat tat wifi tiet kiem pin",
+        "caption": "Tắt Wi-Fi ngoài đường giúp tiết kiệm 15% pin"
+      },
+      {
+        "narration": "Không chỉ tốn pin, việc bật Wi-Fi liên tục ngoài đường còn vô tình để lộ lịch sử kết nối của bạn cho kẻ gian quét được.",
+        "search": "3d animation cyber security wifi tracking data leak street",
+        "caption": "Lo lộ danh sách mạng Wi-Fi quen thuộc"
+      },
+      {
+        "narration": "Các thiết bị quét mạng xung quanh có thể dễ dàng thu thập tên các mạng Wi-Fi nhà bạn hoặc quán cà phê bạn từng lưu.",
+        "search": "isometric render phone broadcasting signals in public space",
+        "caption": "Điện thoại liên tục phát tín hiệu ra ngoài"
+      },
+      {
+        "narration": "Từ đó, chúng có thể dựng lên các trạm phát giả mạo để đánh lừa điện thoại tự động kết nối lại.",
+        "search": "cartoony 3d phone connecting to fake wifi hotspot network",
+        "caption": "Nguy cơ kết nối nhầm trạm phát giả"
+      },
+      {
+        "narration": "Thói quen lười tắt Wi-Fi này vô tình tạo ra lỗ hổng bảo mật ngay trên chính chiếc điện thoại cá nhân của bạn.",
+        "search": "motion graphics phone security warning alert on city street",
+        "caption": "Lỗ hổng bảo mật ít ai ngờ tới"
+      },
+      {
+        "narration": "Chỉ một thao tác vuốt màn hình tắt Wi-Fi trước khi ra cửa, bạn vừa giữ được 15% pin lại vừa bảo vệ an toàn thông tin.",
+        "search": "explainer animation turning off wifi toggle switch on smartphone",
+        "caption": "Thao tác nhỏ bảo vệ điện thoại an toàn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T07:14:28.126689+00:00",
+    "updated_at": "2026-11-03T07:23:28.700690+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-03T07:21:08.840253+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "444 chars (cat 167 de vua 55s)",
+        "at": "2026-11-03T07:22:03.068874+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.9s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-11-03T07:22:17.511584+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T07:22:18.655546+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-03T07:22:31.988995+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-03T07:22:32.101424+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.9s 16354856 bytes",
+        "at": "2026-11-03T07:23:28.274326+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T07:23:28.700663+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34081868/14455488_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/19162466/19162466-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/18069164/18069164-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6755165/6755165-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107024/13687902_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/5377690/5377690-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561462/16561462-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819927/8819927-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6266260/6266260-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/28846365/12493697_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10145286/10145286-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8992666/8992666-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8810534/8810534-hd_1080_1920_24fps.mp4"
+    ]
+  },
+  {
     "id": "5484f805b1",
     "kind": "short",
     "channel": "Channel2",
