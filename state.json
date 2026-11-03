@@ -1,5 +1,162 @@
 [
   {
+    "id": "a1d2d46633",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Boy Who Killed King Richard the Lionheart",
+    "idea": {
+      "title": "The Boy Who Killed King Richard the Lionheart",
+      "hook": "In 1199, an unarmed boy shot King Richard the Lionheart with a rusty crossbow—and what the dying king did next shocked the world.",
+      "beats": [
+        "While besieging a minor French castle, King Richard was struck in the shoulder by a bolt fired by a lone boy using a frying pan as a shield.",
+        "The wound turned gangrenous; knowing death was near, the king summoned his teenage assassin, Pierre Basile, expecting to execute him.",
+        "Instead, the boy boldly confessed he wanted revenge because Richard had personally killed his father and two brothers.",
+        "Moved by his courage, Richard pardoned the boy, awarded him 100 shillings, and ordered his men to let him go free.",
+        "Tragically, the moment the king drew his final breath, a vengeful mercenary captain captured the boy and flayed him alive."
+      ],
+      "keywords": [
+        "King Richard Lionheart portrait",
+        "medieval crossbow siege engraving",
+        "Chalus Chabrol castle ruins",
+        "king deathbed pardon painting",
+        "medieval mercenary execution illustration"
+      ],
+      "tags": [
+        "#history",
+        "#richardthelionheart",
+        "#medievalhistory",
+        "#crusades",
+        "#historyshorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A teenage boy killed England's most feared warrior king.",
+        "search": "king richard lionheart portrait oil painting",
+        "caption": "A boy killed England's most feared king."
+      },
+      {
+        "narration": "In March 1199, King Richard the Lionheart besieged the minor French castle of Châlus-Chabrol.",
+        "search": "chalus chabrol castle ruins photograph",
+        "caption": "March 1199: King Richard besieges Châlus-Chabrol."
+      },
+      {
+        "narration": "A lone youth defended the walls, deflecting arrows with a kitchen frying pan.",
+        "search": "medieval siege defender crossbow engraving",
+        "caption": "Defending castle walls with improvised armor."
+      },
+      {
+        "narration": "Aiming his crossbow, the boy shot a bolt into King Richard's left shoulder.",
+        "search": "king richard crossbow wound medieval manuscript",
+        "caption": "A crossbow bolt strikes the king's shoulder."
+      },
+      {
+        "narration": "A surgeon cut out the arrowhead, but lethal gangrene quickly infected the wound.",
+        "search": "medieval medical treatment manuscript illustration",
+        "caption": "Fatal gangrene sets into the wound."
+      },
+      {
+        "narration": "Knowing death was near, the king summoned his teenage archer to his bedchamber.",
+        "search": "king richard deathbed oil painting",
+        "caption": "Richard summons his teenage archer to bed."
+      },
+      {
+        "narration": "The boy defied the monarch, claiming revenge for his slain father and brothers.",
+        "search": "medieval prisoner royal trial painting",
+        "caption": "The boy confesses a deadly revenge motive."
+      },
+      {
+        "narration": "Impressed by his bravery, Richard forgave him, granted him silver, and ordered his release.",
+        "search": "king richard pardons assassin painting",
+        "caption": "Richard pardons the boy and grants silver."
+      },
+      {
+        "narration": "On April 6, 1199, King Richard succumbed to gangrene, leaving his final command vulnerable to ruthless subordinates.",
+        "search": "king richard lionheart deathbed oil painting",
+        "caption": "Upon Richard's death in 1199, his royal pardon was immediately ignored."
+      },
+      {
+        "narration": "Disregarding the royal mercy, the mercenary captain Mercadier seized Pierre Basile, flaying the teenager alive before hanging him.",
+        "search": "medieval fortress execution manuscript illustration",
+        "caption": "Mercenary commander Mercadier captured Pierre Basile and flayed him alive."
+      },
+      {
+        "narration": "Ultimately, England's most formidable warrior king was brought down not by an empire, but by a solitary boy with a crossbow.",
+        "search": "king richard lionheart tomb sculpture",
+        "caption": "A single peasant boy had slain England's most famous warrior king."
+      },
+      {
+        "narration": "A teenage boy killed England’s greatest warrior king in 1199.",
+        "search": "King Richard Lionheart medieval oil painting close up portrait",
+        "caption": "A teenage boy killed England's king."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-03T00:34:54.249476+00:00",
+    "updated_at": "2026-11-03T00:40:42.761025+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-03T00:36:19.519866+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 246 de vua 55s)",
+        "at": "2026-11-03T00:38:15.736198+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.7s en-US-GuyNeural 7 cau",
+        "at": "2026-11-03T00:38:18.376244+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-03T00:38:19.537525+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-03T00:39:49.630876+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-03T00:39:49.735208+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.7s 15130625 bytes",
+        "at": "2026-11-03T00:40:42.362581+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-03T00:40:42.761005+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909116/pexels-photo-13909116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14052726/pexels-photo-14052726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17584746/pexels-photo-17584746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6691500/pexels-photo-6691500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7722863/pexels-photo-7722863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5490270/pexels-photo-5490270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6069524/pexels-photo-6069524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8391468/pexels-photo-8391468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739366/pexels-photo-5739366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38779935/pexels-photo-38779935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22937488/pexels-photo-22937488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484104/pexels-photo-16484104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4b56c4423b",
     "kind": "short",
     "channel": "Channel3",
