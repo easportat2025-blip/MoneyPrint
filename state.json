@@ -1,5 +1,599 @@
 [
   {
+    "id": "0749c1ac64",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Shaved Ambassador Wiped an Empire Off the Map",
+    "idea": {
+      "title": "How 1 Shaved Ambassador Wiped an Empire Off the Map",
+      "hook": "When Shah Muhammad shaved the beards of Mongol envoys, he thought he was humiliating a nomad—unaware he had just signed the death warrant of 1.2 million people.",
+      "beats": [
+        "At the peak of its power in 1219, the wealthy Islamic Khwarazmian Empire controlled central Asia, unaware of the rising storm from the East.",
+        "Seeking trade route stability along the Silk Road, Genghis Khan dispatched a peaceful caravan of 500 camels laden with gold, silk, and jade.",
+        "Inalchuq, the governor of the border city Otrar, seized the trade goods and executed the merchants on suspicion of espionage.",
+        "Attempting diplomacy before war, Genghis Khan sent three envoys directly to Shah Muhammad to demand Governor Inalchuq be handed over for trial.",
+        "In an act of supreme arrogance, Shah Muhammad beheaded the chief envoy and shaved the beards of the other two—a catastrophic insult in Mongol culture.",
+        "Genghis Khan climbed the sacred mountain Burkhan Khaldun, fasting for three days while praying to the sky god Tengri for vengeance.",
+        "Unleashing an unstoppable army of 100,000 horsemen, the Mongols bypassed expectations by marching through the unreachable Kyzylkum Desert.",
+        "The fall of Otrar saw the brutal capture of Inalchuq, who according to legend was executed by having molten silver poured into his eyes and ears.",
+        "Cultural gems like Bukhara and Samarkand were systematically besieged, looted, and burned, their populations used as human shields or slaughtered.",
+        "Engineers under Mongol command diverted entire rivers to flood and utterly destroy the Shah's birthplace, erasing his heritage from the earth.",
+        "Shah Muhammad fled across his collapsing domain, hunted relentlessly by Mongol generals until he died of pleurisy in rags on a desolate Caspian island.",
+        "The utter annihilation of Khwarazm established the Mongol tactic of terror, permanently altering the demography and geopolitics of Eurasia."
+      ],
+      "keywords": [
+        "Genghis Khan",
+        "Khwarazmian Empire",
+        "Otrar Incident",
+        "Mongol Conquest",
+        "Shah Muhammad",
+        "History Blunders",
+        "Ancient Empires",
+        "Mongol Empire History",
+        "Silk Road History",
+        "Central Asian Warfare"
+      ],
+      "tags": [
+        "genghis khan",
+        "khwarazmian empire",
+        "mongol conquest",
+        "ancient history",
+        "history documentary",
+        "otrar incident",
+        "shah muhammad",
+        "mongol empire",
+        "historical blunders",
+        "silk road"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE SHAVED THE WRONG MAN"
+    },
+    "scenes": [
+      {
+        "narration": "A shaved beard destroyed an entire empire in 1219.",
+        "search": "medieval manuscript illustration mongol warrior riding horse",
+        "caption": "A shaved beard destroyed an empire."
+      },
+      {
+        "narration": "In 1219, the Khwarazmian Empire under Shah Ala ad-Din Muhammad II controlled key Silk Road trade hubs across Central Asia.",
+        "search": "samarkand medieval silk road illuminated manuscript miniature",
+        "caption": "Khwarazm dominated 13th-century Silk Road routes."
+      },
+      {
+        "narration": "Seeking commercial partnership, Genghis Khan sent a 500-camel trade caravan carrying gold, silk, and jade to the border city of Otrar.",
+        "search": "genghis khan portrait painting",
+        "caption": "Genghis Khan sent a 500-camel trade caravan."
+      },
+      {
+        "narration": "Governor Inalchuq seized the goods and executed the merchants, prompting Genghis Khan to send three envoys demanding the governor be surrendered for trial.",
+        "search": "inalchuq governor otrar medieval manuscript miniature",
+        "caption": "Inalchuq executed the Mongol trade envoys."
+      },
+      {
+        "narration": "Shah Muhammad beheaded the chief envoy and shaved the remainders' beards, committing a catastrophic insult in Mongol custom.",
+        "search": "shah muhammad khwarazm Persian miniature painting portrait",
+        "caption": "Shah Muhammad humiliated Genghis Khan's diplomats."
+      },
+      {
+        "narration": "Genghis Khan retreated to Mount Burkhan Khaldun before leading 100,000 horsemen across the Kyzylkum Desert to surprise the Khwarazmians.",
+        "search": "burkhan khaldun mongolia landscape painting",
+        "caption": "100,000 horsemen crossed the Kyzylkum Desert."
+      },
+      {
+        "narration": "By 1220, Mongol forces reduced Otrar to rubble and captured Inalchuq, executing him after a five-month siege.",
+        "search": "siege of otrar 1220 medieval manuscript illustration",
+        "caption": "Otrar fell after five months of siege."
+      },
+      {
+        "narration": "Bukhara and Samarkand were systematically destroyed, and Shah Muhammad died destitute on a Caspian island in 1221, extinguishing his dynasty.",
+        "search": "caspian sea desolate island historical landscape oil painting",
+        "caption": "Shah Muhammad died exiled in 1221."
+      },
+      {
+        "narration": "In 1221 at Urgench, Mongol engineers diverted the Amu Darya river to flood the city, drowning tens of thousands in their own homes.",
+        "search": "medieval manuscript illumination siege of urgench 1221 mongol army",
+        "caption": "Mongol engineers diverted rivers to flood the metropolis of Urgench."
+      },
+      {
+        "narration": "Shah Muhammad's son Jalal al-Din rallied thirty thousand survivors to make a final stand against Genghis Khan in late 1221.",
+        "search": "jalal al-din khwarazm illustration medieval miniature painting",
+        "caption": "Prince Jalal al-Din rallied 30,000 remnants for a final stand."
+      },
+      {
+        "narration": "Trapped against the Indus River in November 1221, Jalal al-Din leapt off a cliff on horseback into the raging waters to escape capture.",
+        "search": "battle of indus river 1221 medieval persian manuscript painting",
+        "caption": "Trapped at the Indus, Jalal al-Din plunged into the river."
+      },
+      {
+        "narration": "Following the death of Genghis Khan's son-in-law at Nishapur in April 1221, Mongol forces ordered the complete decimation of all living creatures in the city.",
+        "search": "nishapur ruins central asia medieval historical engraving",
+        "caption": "The 1221 sack of Nishapur left no living survivors behind."
+      },
+      {
+        "narration": "Mongol generals Subutai and Jebe launched a twenty-thousand-man cavalry raid around the Caspian Sea in 1222, probing deep into European territory.",
+        "search": "subutai mongol general portrait illustration medieval style",
+        "caption": "Generals Subutai and Jebe swept twenty thousand horsemen into Europe."
+      },
+      {
+        "narration": "Mongol armies deliberately destroyed the ancient subterranean qanat irrigation networks, turning fertile farmland across Central Asia into desolate desert.",
+        "search": "ancient qanat irrigation system central asia historical diagram engraving",
+        "caption": "Subterranean irrigation networks were destroyed, turning farmland to desert."
+      },
+      {
+        "narration": "The annihilation of Khwarazm effectively wiped out major hubs of the Islamic Golden Age, reducing prosperous urban centers into silent ruins for centuries.",
+        "search": "ancient silk road ruined fortress central asia historical painting",
+        "caption": "Centuries of Islamic Golden Age scholarship were erased in months."
+      },
+      {
+        "narration": "With the Khwarazmian Empire eradicated by 1225, Genghis Khan realized his horsemen could conquer any major civilization across the Eurasian continent.",
+        "search": "genghis khan on horseback mongol army medieval persian manuscript",
+        "caption": "The total destruction of Khwarazm unsealed Mongol ambitions across Eurasia."
+      },
+      {
+        "narration": "A shaved beard destroyed twelve million lives in 1219.",
+        "search": "Genghis Khan ancient manuscript illustration",
+        "caption": "A single insult triggered the total destruction of Khwarazm."
+      },
+      {
+        "narration": "In 1219, Governor Inalchuq intercepted five hundred Muslim merchants along the Silk Road, falsely branding them as spies.",
+        "search": "silk road trade caravan medieval painting",
+        "caption": "Governor Inalchuq detained 500 merchants in the frontier city of Otrar."
+      },
+      {
+        "narration": "When Genghis Khan demanded justice, Shah Muhammad beheaded one diplomat and shaved the beards of two others.",
+        "search": "shah muhammad khwarazm coin portrait",
+        "caption": "Shah Muhammad executed one ambassador and humiliated two surviving Mongol envoys."
+      },
+      {
+        "narration": "Enraged by the insult to diplomatic immunity, Genghis Khan spent three days atop Mount Burkhan Khaldun praying for retribution.",
+        "search": "burkhan khaldun mountain landscape oil painting",
+        "caption": "Genghis Khan spent three days fasting on Mount Burkhan Khaldun."
+      },
+      {
+        "narration": "In early 1220, over one hundred thousand Mongol horsemen marched undetected through the three-hundred-mile Kyzylkum Desert.",
+        "search": "kyzylkum desert historical map engraving",
+        "caption": "Mongol cavalry traversed the vast Kyzylkum Desert to strike unexpected targets."
+      },
+      {
+        "narration": "Upon capturing Otrar in 1220, Mongol commanders fulfilled the Khan's order by executing Inalchuq with molten silver.",
+        "search": "medieval siege of otrar manuscript painting",
+        "caption": "Inalchuq met a gruesome death after the fall of Otrar."
+      },
+      {
+        "narration": "To punish Shah Muhammad further, Mongol engineers diverted the Amu Darya river to flood his birth city of Gurganj.",
+        "search": "amu darya river historical map engraving",
+        "caption": "Mongol forces diverted rivers to submerge the Shah's ancestral birthplace."
+      },
+      {
+        "narration": "By late 1220, Shah Muhammad fled to a barren island in the Caspian Sea, dying in rags of pleurisy while his domain vanished.",
+        "search": "caspian sea historical map engraving",
+        "caption": "Shah Muhammad died isolated on a remote island in late 1220."
+      },
+      {
+        "narration": "Shah Muhammad was dead by late 1220, yet his son Prince Jalal al-Din rallied the remaining Khwarazmian loyalists in Afghanistan to launch a final counteroffensive.",
+        "search": "jalal al-din prince persian miniature manuscript illustration",
+        "caption": "Prince Jalal al-Din rallies Khwarazmian loyalists in Afghanistan."
+      },
+      {
+        "narration": "In the spring of 1221 at the Battle of Parwan, Jalal al-Din inflicted the first major field defeat on a Mongol army commanded by Shigi Qutuqu.",
+        "search": "battle of parwan 1221 medieval cavalry battle persian manuscript painting",
+        "caption": "The Battle of Parwan marks a rare tactical defeat for Mongol forces."
+      },
+      {
+        "narration": "Furious at the reversal, Genghis Khan marched his core forces south in late 1221 to personally hunt down the young prince before revolt could spread.",
+        "search": "genghis khan mounted cavalry army 13th century manuscript painting",
+        "caption": "Genghis Khan marches south to crush the military resurgence personally."
+      },
+      {
+        "narration": "To prevent further resistance, Mongol armies systematically leveled major urban centers like Nishapur in April 1221, slaughtering much of the population.",
+        "search": "nishapur medieval city ruins ancient map engraving",
+        "caption": "Nishapur faces near-total destruction in April 1221."
+      },
+      {
+        "narration": "In November 1221, Genghis Khan cornered Jalal al-Din's army against the banks of the Indus River, blocking all land escape routes.",
+        "search": "indus river landscape antique engraving map",
+        "caption": "Jalal al-Din is trapped against the Indus River in November 1221."
+      },
+      {
+        "narration": "Refusing to surrender, Prince Jalal al-Din strapped on his armor and leaped his warhorse off a high bank directly into the raging river.",
+        "search": "warrior horse leaping river medieval persian manuscript illustration",
+        "caption": "Prince Jalal al-Din leaps into the Indus River to escape capture."
+      },
+      {
+        "narration": "Genghis Khan ordered his archers to hold their fire, expressing open admiration for the prince's defiance as Jalal al-Din swam to the opposite shore.",
+        "search": "genghis khan portrait painting silk original album leaf",
+        "caption": "Genghis Khan commands his archers to spare the fleeing prince."
+      },
+      {
+        "narration": "By 1223, the Khwarazmian Empire was completely erased from the map, demonstrating the catastrophic cost of executing Genghis Khan's original envoys.",
+        "search": "mongol empire central asia map 13th century historical engraving",
+        "caption": "The Khwarazmian Empire is permanently erased from the map by 1223."
+      },
+      {
+        "narration": "As Shah Muhammad II fled westward in 1220, Genghis Khan dispatched generals Subutai and Jebe with twenty thousand horsemen on a relentless man-hunt across Persia.",
+        "search": "Subutai Mongol general painting miniature manuscript",
+        "caption": "Generals Subutai and Jebe hunt the fleeing Shah across Persia."
+      },
+      {
+        "narration": "In April 1221, Mongol forces captured the Khwarazmian capital of Gurganj and diverted the waters of the Amu Darya river to submerge the city entirely.",
+        "search": "Gurganj Urgench ancient city ruins silk road map engraving",
+        "caption": "Mongol engineers divert the Amu Darya river to flood Gurganj."
+      },
+      {
+        "narration": "At Nishapur in April 1221, Mongol commanders ordered the systematic execution of the population, constructing massive pyramids of severed skulls outside the ruined city walls.",
+        "search": "Nishapur siege medieval Persian manuscript illumination",
+        "caption": "Skulls piled outside Nishapur following its fall in April 1221."
+      },
+      {
+        "narration": "Deprived of his army and stripped of royalty, Shah Muhammad died of pleurisy in December 1220 on a desolate island in the Caspian Sea, dressed in rags.",
+        "search": "Shah Muhammad Khwarazm Persian miniature painting portrait caspian",
+        "caption": "Shah Muhammad dies in rags on a Caspian island, December 1220."
+      },
+      {
+        "narration": "The complete obliteration of Khwarazmian metropolises transformed psychological warfare, establishing a reputation of absolute destruction that terrified surrounding states into immediate surrender.",
+        "search": "Mongol cavalry battle 13th century illumination manuscript",
+        "caption": "Mongol psychological terror forces neighboring kingdoms into instant submission."
+      },
+      {
+        "narration": "Mongol armies intentionally dismantled ancient underground qanat irrigation systems, permanently transforming fertile agricultural hubs in Central Asia into arid wasteland.",
+        "search": "Persian qanat ancient irrigation channel historical engraving",
+        "caption": "Destruction of underground qanats permanently altered Central Asian agriculture."
+      },
+      {
+        "narration": "By unifying the Silk Road under brutal Mongol control by 1223, Genghis Khan created trade corridors linking East Asia to Eastern Europe under a single law code.",
+        "search": "Silk Road 13th century medieval trade map engraving",
+        "caption": "Direct control over Silk Road corridors established under single Mongol law."
+      },
+      {
+        "narration": "The arrogance of shaving three envoys in 1219 ultimately cost over one million lives and completely erased the Khwarazmian Empire from human history.",
+        "search": "Genghis Khan portrait painting museum silk",
+        "caption": "A single severed envoy beard brought total annihilation to Khwarazm."
+      },
+      {
+        "narration": "Can shaving one ambassador's beard trigger a million deaths?",
+        "search": "mongol invasion battle manuscript illustration",
+        "caption": "A single insult triggered total empire destruction."
+      },
+      {
+        "narration": "In 1219, Shah Muhammad governed the wealthy Khwarazmian Empire, controlling prosperous trade centers across Central Asia.",
+        "search": "khwarazmian empire silk road map engraving",
+        "caption": "Khwarazmian Empire controlled Silk Road routes in 1219."
+      },
+      {
+        "narration": "Seeking open trade, Genghis Khan dispatched a massive caravan of five hundred camels laden with silk and gold to Otrar.",
+        "search": "genghis khan portrait painting camels",
+        "caption": "Genghis Khan sent 500 trade camels to Otrar."
+      },
+      {
+        "narration": "After Governor Inalchuq seized the trade goods, Shah Muhammad foolishly beheaded the lead Mongol ambassador and shaved his diplomatic aides in 1219.",
+        "search": "shah muhammad khwarazm portrait manuscript",
+        "caption": "Shah Muhammad executed and shaved Mongol diplomats in 1219."
+      },
+      {
+        "narration": "Enraged by the insult, Genghis Khan prayed atop Mount Burkhan Khaldun before sending one hundred thousand cavalry through the Kyzylkum Desert.",
+        "search": "mongol horsemen desert march painting",
+        "caption": "Mongol cavalry crossed the Kyzylkum Desert."
+      },
+      {
+        "narration": "The city of Otrar fell in 1220, ending with Governor Inalchuq executed as molten silver was poured into his eyes and ears.",
+        "search": "inalchuq governor execution manuscript illustration",
+        "caption": "Governor Inalchuq executed after Otrar fell in 1220."
+      },
+      {
+        "narration": "Mongol armies systematically burned Bukhara and Samarkand, while engineers diverted rivers to submerge the Shah's ancestral lands.",
+        "search": "bukhara siege destruction manuscript illustration",
+        "caption": "Bukhara and Samarkand destroyed by Mongol forces."
+      },
+      {
+        "narration": "Shah Muhammad fled endlessly until dying impoverished on a desolate Caspian island in 1221, leaving his fallen empire erased from history.",
+        "search": "caspian sea map 17th century engraving",
+        "caption": "Shah Muhammad died isolated in 1221."
+      },
+      {
+        "narration": "In 1221, Prince Jalal al-Din rallied the remaining Khwarazmian forces, dealing Genghis Khan's vanguard their first major defeat at the Battle of Parwan.",
+        "search": "battle of parwan medieval islamic manuscript illustration",
+        "caption": "Prince Jalal al-Din scores a rare victory at Parwan, 1221."
+      },
+      {
+        "narration": "Furious at this rare setback, Genghis Khan personally led his main army south to trap Jalal al-Din against the banks of the Indus River.",
+        "search": "genghis khan equestrian portrait Persian miniature painting",
+        "caption": "Genghis Khan personally marches south to corner the prince."
+      },
+      {
+        "narration": "At the Battle of the Indus in late 1221, the surrounded Khwarazmian army was dismantled, forcing Jalal al-Din to leap his horse off a cliff into the river to escape.",
+        "search": "battle of the indus river medieval miniature illustration",
+        "caption": "Defeated at the Indus, Jalal al-Din makes a legendary escape."
+      },
+      {
+        "narration": "Meanwhile, the siege of Gurganj in 1221 became one of the bloodiest massacres in ancient warfare, leaving the imperial capital completely leveled.",
+        "search": "destruction of urgench gurganj historical map engraving",
+        "caption": "The bloody siege of Gurganj levels the imperial capital."
+      },
+      {
+        "narration": "Mongol engineers diverted the Amu Darya river into Gurganj, drowning survivors and leaving no physical trace of the metropolis.",
+        "search": "amu darya river central asia vintage map engraving",
+        "caption": "Rivers diverted to submerge and erase ruined cities."
+      },
+      {
+        "narration": "Contemporary chroniclers estimated over one million casualties across the region, causing a demographic collapse that altered Central Asia for centuries.",
+        "search": "central asia silk road ruined city 19th century engraving",
+        "caption": "Over one million perish, shattering Silk Road trade networks."
+      },
+      {
+        "narration": "The complete obliteration of Khwarazm established the Mongol strategy of calculated terror, signaling to prospective enemies that surrender was the only path to survival.",
+        "search": "mongol cavalry army march Persian manuscript painting",
+        "caption": "Calculated brutality becomes the ultimate psychological weapon."
+      },
+      {
+        "narration": "Shah Muhammad's choice to shave three envoys in 1219 remains history's most fatal diplomatic blunder, trading a peaceful Silk Road trade agreement for complete annihilation.",
+        "search": "mongol envoy shaved shah muhammad historic oil painting",
+        "caption": "A severed beard triggers the death of an entire empire."
+      },
+      {
+        "narration": "Shaving one envoy's beard destroyed an entire empire. In 1219, Shah Muhammad learned this lesson too late.",
+        "search": "13th century central asia map engraving",
+        "caption": "One shaved envoy destroyed twelve million lives in 1219."
+      },
+      {
+        "narration": "In 1219, the Khwarazmian Empire controlled central Asian trade, prompting Genghis Khan to send five hundred camels laden with silk and gold.",
+        "search": "silk road caravan medieval manuscript illumination",
+        "caption": "Genghis Khan sent 500 trade camels laden with gold."
+      },
+      {
+        "narration": "Governor Inalchuq of Otrar seized the entire caravan and executed the Mongol merchants under false accusations of espionage.",
+        "search": "otrar silk road medieval fortress manuscript illustration",
+        "caption": "Governor Inalchuq seized the caravan and executed the merchants."
+      },
+      {
+        "narration": "When Genghis Khan demanded justice, Shah Muhammad beheaded the lead envoy and shaved the remaining two, committing a fatal cultural insult.",
+        "search": "shah muhammad of khwarazm manuscript portrait painting",
+        "caption": "Shah Muhammad beheaded the chief envoy and shaved the rest."
+      },
+      {
+        "narration": "Genghis Khan prayed for three days atop Mount Burkhan Khaldun before sending one hundred thousand horsemen across the impassable Kyzylkum Desert.",
+        "search": "genghis khan mount burkhan khaldun medieval manuscript illustration",
+        "caption": "100,000 Mongol horsemen crossed the impassable Kyzylkum Desert."
+      },
+      {
+        "narration": "Otrar fell after a five-month siege, ending with Governor Inalchuq's execution as molten metal was allegedly poured into his eyes and ears.",
+        "search": "siege of otrar 1219 medieval manuscript painting",
+        "caption": "Otrar fell after five months, ending in brutal execution."
+      },
+      {
+        "narration": "Mongol forces systematically leveled Bukhara and Samarkand, diverting whole rivers to submerge Shah Muhammad's birthplace and erase his lineage.",
+        "search": "siege of bukhara medieval persia manuscript painting",
+        "caption": "Rivers were diverted to completely submerge the Shah's birthplace."
+      },
+      {
+        "narration": "Shah Muhammad fled into exile, dying in poverty on a Caspian island in 1220 while his fallen empire permanently reshaped Eurasian demographics.",
+        "search": "caspian sea historical map engraving exile",
+        "caption": "Shah Muhammad died in exile, leaving his empire in ashes."
+      },
+      {
+        "narration": "A shaved beard annihilated 1.2 million lives in 1219.",
+        "search": "mongol conquest central asia map engraving",
+        "caption": "A shaved beard annihilated 1.2 million lives in 1219."
+      },
+      {
+        "narration": "In 1219, Shah Muhammad II ruled the wealthy Khwarazmian Empire, which dominated major Central Asian trade routes.",
+        "search": "shah muhammad ii khwarazmian coin",
+        "caption": "Shah Muhammad II controlled Central Asia's wealthiest Silk Road trade hubs."
+      },
+      {
+        "narration": "Seeking peaceful commercial ties, Genghis Khan dispatched a 500-camel caravan laden with gold, silk, and jade.",
+        "search": "silk road caravan medieval manuscript illumination dispatched",
+        "caption": "Genghis Khan dispatched 500 gold-laden camels to establish trade."
+      },
+      {
+        "narration": "Governor Inalchuq of Otrar seized the trade goods and executed the merchants on suspicion of espionage.",
+        "search": "inalchuq fortress otrar medieval engraving",
+        "caption": "Governor Inalchuq executed the merchants and confiscated their trade goods."
+      },
+      {
+        "narration": "When Genghis Khan sent three diplomats demanding justice, Shah Muhammad beheaded the leader and shaved the survivors.",
+        "search": "genghis khan portrait painting low angle",
+        "caption": "Shah Muhammad beheaded the lead envoy and shaved the survivors."
+      },
+      {
+        "narration": "In response, Genghis Khan led 100,000 horsemen across the impassable Kyzylkum Desert to strike Khwarazm in 1220.",
+        "search": "mongol cavalry army medieval manuscript illumination",
+        "caption": "Genghis Khan led 100,000 horsemen across the impassable Kyzylkum Desert."
+      },
+      {
+        "narration": "Mongol forces captured Inalchuq at Otrar, while cultural centers like Bukhara and Samarkand were systematically dismantled.",
+        "search": "bukhara siege medieval manuscript illumination",
+        "caption": "Otrar, Bukhara, and Samarkand were captured and systematically destroyed."
+      },
+      {
+        "narration": "Shah Muhammad died stripped of power on a Caspian island in 1220, leaving his empire permanently erased from history.",
+        "search": "mongol empire conquest historical map engraving",
+        "caption": "Shah Muhammad died in exile, leaving the Khwarazmian Empire permanently erased."
+      },
+      {
+        "narration": "In 1221, Mongol engineers diverted the Oxus River to submerge the capital city of Gurganj, systematically drowning its remaining population.",
+        "search": "medieval Persian manuscript illustration flooded city ruins destruction",
+        "caption": "Mongol engineers diverted entire rivers to erase cities completely."
+      },
+      {
+        "narration": "Captives were forced to build siege engines and march as human shields before being slaughtered in record-setting massacres across Central Asia.",
+        "search": "13th century Mongol warfare Persian miniature siege engine painting",
+        "caption": "Millions were forced into front lines as living siege shields."
+      },
+      {
+        "narration": "Genghis Khan pursued the Shah's heir, Jalal al-Din, to the banks of the Indus River in 1221, breaking the last organized Khwarazmian resistance.",
+        "search": "Battle of Indus 1221 Persian manuscript illustration",
+        "caption": "Jalal al-Din made a final stand at the Indus River."
+      },
+      {
+        "narration": "Major Silk Road hubs like Merv and Nishapur were so thoroughly depopulated that their urban infrastructure did not recover for centuries.",
+        "search": "ancient Silk Road ruins Merv Turkmenistan historical engraving",
+        "caption": "Flourishing Silk Road metropolises were reduced to uninhabited wasteland."
+      },
+      {
+        "narration": "By total extermination of non-surrendering cities, the Mongols established a psychological doctrine of terror that opened gates across Eurasia without resistance.",
+        "search": "Mongol cavalry army marching historical Persian painting map",
+        "caption": "Calculated brutal tactics forced future targets into immediate submission."
+      },
+      {
+        "narration": "The fall of the Khwarazmian Empire in 1221 cleared the path for Mongol expansion westward into the Caucasus and Eastern Europe.",
+        "search": "medieval map of Mongol Empire conquests Eurasia 13th century engraving",
+        "caption": "Erasing Khwarazm unlocked the door to Mongol expansion westward."
+      },
+      {
+        "narration": "Modern archaeological studies confirm that the conquest permanently shifted Central Asian demographics and destroyed centuries-old agricultural irrigation networks.",
+        "search": "central asia ancient qanat irrigation system historic drawing",
+        "caption": "Ancient irrigation networks were obliterated, permanently altering regional ecology."
+      },
+      {
+        "narration": "Shah Muhammad sought to humble a nomad by shaving an ambassador, but his arrogance extinguished a million lives and erased his kingdom forever.",
+        "search": "Shah Muhammad Khwarazm portrait Persian manuscript miniature",
+        "caption": "A single act of royal hubris erased an entire empire."
+      },
+      {
+        "narration": "Can shaving one ambassador destroy an entire empire?",
+        "search": "khwarazmian empire map engraving",
+        "caption": "Shaving one ambassador erased an entire empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T20:48:17.662122+00:00",
+    "updated_at": "2026-11-04T21:12:41.685889+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-04T20:57:34.226442+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2539 chars",
+        "at": "2026-11-04T20:58:46.288854+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "155.7s en-US-GuyNeural 24 cau",
+        "at": "2026-11-04T20:58:56.993853+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T20:59:00.687805+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-04T21:08:59.133604+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-04T21:08:59.237559+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 155.8s 131517603 bytes",
+        "at": "2026-11-04T21:12:41.205049+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-11-04T21:12:41.399426+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T21:12:41.685870+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37820719/pexels-photo-37820719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5869122/pexels-photo-5869122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8080802/pexels-photo-8080802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30735952/pexels-photo-30735952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36748322/pexels-photo-36748322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17078999/pexels-photo-17078999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40504867/pexels-photo-40504867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30277120/pexels-photo-30277120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37697010/pexels-photo-37697010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4270847/pexels-photo-4270847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5202118/pexels-photo-5202118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10194945/pexels-photo-10194945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6466768/pexels-photo-6466768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11885464/pexels-photo-11885464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16386333/pexels-photo-16386333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6466767/pexels-photo-6466767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30756625/pexels-photo-30756625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6595970/pexels-photo-6595970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39693691/pexels-photo-39693691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20409628/pexels-photo-20409628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3218465/pexels-photo-3218465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22690993/pexels-photo-22690993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4271259/pexels-photo-4271259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34073524/pexels-photo-34073524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40720049/pexels-photo-40720049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18237167/pexels-photo-18237167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19090188/pexels-photo-19090188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36919857/pexels-photo-36919857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6984700/pexels-photo-6984700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19227959/pexels-photo-19227959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38292754/pexels-photo-38292754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39976635/pexels-photo-39976635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28293502/pexels-photo-28293502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30567404/pexels-photo-30567404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563533/pexels-photo-16563533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37160415/pexels-photo-37160415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38557008/pexels-photo-38557008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30311888/pexels-photo-30311888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525633/pexels-photo-30525633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9909222/pexels-photo-9909222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6408359/pexels-photo-6408359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525651/pexels-photo-30525651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30214969/pexels-photo-30214969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16791349/pexels-photo-16791349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36771089/pexels-photo-36771089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494907/pexels-photo-9494907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342496/pexels-photo-29342496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34489674/pexels-photo-34489674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19063375/pexels-photo-19063375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828412/pexels-photo-8828412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10355001/pexels-photo-10355001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/628566/pexels-photo-628566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40720050/pexels-photo-40720050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2756807/pexels-photo-2756807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33931053/pexels-photo-33931053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40718514/pexels-photo-40718514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33561026/pexels-photo-33561026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19883674/pexels-photo-19883674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6466767/pexels-photo-6466767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29925980/pexels-photo-29925980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21764718/pexels-photo-21764718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828455/pexels-photo-8828455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6564830/pexels-photo-6564830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37890411/pexels-photo-37890411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35098787/pexels-photo-35098787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21176600/pexels-photo-21176600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36697975/pexels-photo-36697975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4261000/pexels-photo-4261000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36771093/pexels-photo-36771093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35425418/pexels-photo-35425418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35070421/pexels-photo-35070421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34412040/pexels-photo-34412040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37697012/pexels-photo-37697012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40718520/pexels-photo-40718520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269132/pexels-photo-9269132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14436283/pexels-photo-14436283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19473609/pexels-photo-19473609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525651/pexels-photo-30525651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30757859/pexels-photo-30757859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9b6c4610f4",
     "kind": "short",
     "channel": "Channel3",
