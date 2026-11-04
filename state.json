@@ -1,5 +1,161 @@
 [
   {
+    "id": "079eb57b72",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman General Executed His Son for Winning",
+    "idea": {
+      "title": "Why a Roman General Executed His Son for Winning",
+      "hook": "In 340 BC, Roman consul Titus Manlius executed his own son—seconds after the boy won single combat against an enemy champion.",
+      "beats": [
+        "Titus Manlius issued strict orders before battle: no Roman soldier was to engage the enemy individually without direct permission.",
+        "Driven by pride, his young son accepted a duel from a Latin champion, killed him, and returned to camp expecting a hero's welcome.",
+        "Instead of praise, Manlius assembled the entire legion and declared that military discipline meant more to Rome than family loyalty.",
+        "He ordered his son bound to a stake and beheaded in front of the horrified army."
+      ],
+      "keywords": [
+        "roman soldier armor portrait",
+        "ancient rome battle engraving",
+        "consul portrait bust",
+        "ancient roman execution painting",
+        "historical map of ancient italy"
+      ],
+      "tags": [
+        "ancienthistory",
+        "romanempire",
+        "titustorquatus",
+        "historydocumentary",
+        "historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman consul execute his victorious son?",
+        "search": "ancient roman execution oil painting",
+        "caption": "Why execute a victorious son?"
+      },
+      {
+        "narration": "In 340 BC, Rome enforced military discipline with total brutal severity.",
+        "search": "historical map of ancient italy engraving",
+        "caption": "340 BC: Discipline above all"
+      },
+      {
+        "narration": "During the Latin War, Consul Titus Manlius Torquatus commanded Roman forces.",
+        "search": "consul portrait bust ancient rome",
+        "caption": "Consul Titus Manlius Torquatus"
+      },
+      {
+        "narration": "Manlius issued an absolute order: no soldier could engage the enemy unauthorized.",
+        "search": "ancient rome battle engraving military order",
+        "caption": "Strict decree: no combat without orders"
+      },
+      {
+        "narration": "His own son led a scouting party near enemy lines.",
+        "search": "roman soldier armor portrait illustration",
+        "caption": "The consul's son leads scouts"
+      },
+      {
+        "narration": "A Latin champion taunted the youth, challenging him to single combat.",
+        "search": "ancient roman cavalry duel oil painting",
+        "caption": "Challenged by an enemy champion"
+      },
+      {
+        "narration": "Defying orders for glory, the son fought and killed the rival.",
+        "search": "ancient roman warrior victory engraving",
+        "caption": "Son kills champion in combat"
+      },
+      {
+        "narration": "He returned to camp bearing the dead enemy's armor as proof.",
+        "search": "ancient roman military camp illustration",
+        "caption": "Returns expecting a hero's welcome"
+      },
+      {
+        "narration": "Instead of praise, Consul Titus Manlius assembled the entire legion in 340 BC to enforce absolute military discipline.",
+        "search": "consul portrait bust ancient roman marble sculpture",
+        "caption": "The consul assembled the entire legion for judgment."
+      },
+      {
+        "narration": "Manlius declared that state laws and military obedience meant far more to the Roman Republic than family loyalty.",
+        "search": "ancient roman execution painting historical oil painting",
+        "caption": "State discipline outweighed family loyalty in ancient Rome."
+      },
+      {
+        "narration": "He ordered his victorious son bound to a stake and beheaded in front of the horrified army, sealing a legacy of ultimate severity.",
+        "search": "ancient rome battle engraving historical print",
+        "caption": "The ultimate price for disobeying orders in 340 BC."
+      },
+      {
+        "narration": "In 340 BC, Roman consul Titus Manlius executed his own son.",
+        "search": "consul portrait bust ancient roman marble sculpture",
+        "caption": "A Roman general executed his own son."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T02:36:07.975484+00:00",
+    "updated_at": "2026-11-04T02:42:11.020898+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-04T02:38:01.546716+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "416 chars (cat 289 de vua 55s)",
+        "at": "2026-11-04T02:39:03.935421+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-04T02:39:08.029151+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T02:39:09.003263+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-04T02:41:27.993714+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-04T02:41:28.088015+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 15049128 bytes",
+        "at": "2026-11-04T02:42:10.631564+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T02:42:11.020879+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19049682/pexels-photo-19049682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36755134/pexels-photo-36755134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20529526/pexels-photo-20529526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29710611/pexels-photo-29710611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34754748/pexels-photo-34754748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708814/pexels-photo-35708814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268712/pexels-photo-9268712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22937490/pexels-photo-22937490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049682/pexels-photo-19049682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40648628/pexels-photo-40648628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25461450/pexels-photo-25461450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "abfe21fc23",
     "kind": "short",
     "channel": "Channel2",
