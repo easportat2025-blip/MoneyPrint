@@ -1,5 +1,161 @@
 [
   {
+    "id": "2e02eeeb5f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 40-Year Royal Blood Feud That Destroyed Francia",
+    "idea": {
+      "title": "The 40-Year Royal Blood Feud That Destroyed Francia",
+      "hook": "When Queen Fredegund ordered the assassination of her rival's sister, she triggered a terrifying 40-year blood feud that tore an empire apart.",
+      "beats": [
+        "In 568 AD, royal servant Fredegund seduced King Chilperic into murdering his Visigothic bride, Galswintha.",
+        "Galswintha’s sister, Queen Brunhilda, swore absolute vengeance, igniting decades of ruthless assassinations across Frankish realms.",
+        "Fredegund used poisoned daggers, political intrigue, and dark traps to eliminate Brunhilda’s husband and children.",
+        "Decades later, an aging Brunhilda was captured and torn apart by wild horses, ending history's deadliest royal rivalry."
+      ],
+      "keywords": [
+        "medieval queen portrait",
+        "merovingian dynasty engraving",
+        "dark history oil painting",
+        "ancient kingdom map",
+        "royal execution illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#darkhistory",
+        "#merovingians",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One royal murder triggered a forty-year empire-destroying feud.",
+        "search": "merovingian dynasty engraving dark history",
+        "caption": "A 40-year royal feud destroyed Francia."
+      },
+      {
+        "narration": "In 568 AD, the kingdom of Francia split as two queens waged history's deadliest rivalry.",
+        "search": "ancient kingdom map of Merovingian Francia engraving",
+        "caption": "In 568 AD, Francia split into bloody rivalry."
+      },
+      {
+        "narration": "A former servant named Fredegund seduced King Chilperic the First of Neustria to gain power.",
+        "search": "king chilperic I portrait medieval manuscript",
+        "caption": "Servant Fredegund seduced King Chilperic I."
+      },
+      {
+        "narration": "Fredegund quickly orchestrated the strangulation murder of Chilperic's new Visigothic bride, Galswintha.",
+        "search": "queen fredegund medieval portrait oil painting",
+        "caption": "Fredegund ordered Queen Galswintha's murder."
+      },
+      {
+        "narration": "Galswintha's sister, Queen Brunhilda of Austrasia, swore absolute vengeance against the Neustrian royal line.",
+        "search": "queen brunhilda of austrasia portrait painting",
+        "caption": "Queen Brunhilda swore relentless blood vengeance."
+      },
+      {
+        "narration": "Fredegund retaliated with relentless intrigue, sending assassins with poisoned daggers across the Frankish realm.",
+        "search": "medieval assassin dagger manuscript illumination",
+        "caption": "Poisoned daggers targeted Brunhilda's royal court."
+      },
+      {
+        "narration": "Brunhilda watched her husband King Sigebert and her young heirs fall to Fredegund's deadly traps.",
+        "search": "king sigebert assassination medieval engraving",
+        "caption": "King Sigebert fell to ruthless royal traps."
+      },
+      {
+        "narration": "Despite devastating losses, an aging Brunhilda seized control of two kingdoms to crush her rival's bloodline.",
+        "search": "medieval queen on throne manuscript painting",
+        "caption": "An aging Brunhilda seized power to crush her enemies."
+      },
+      {
+        "narration": "In 613 AD, after forty years of ruthless warfare, Frankish nobles betrayed the eighty-year-old Brunhilda and surrendered her to Fredegund's son, Chlothar II.",
+        "search": "merovingian royalty medieval manuscript illumination",
+        "caption": "In 613 AD, nobles betrayed Queen Brunhilda to her rival."
+      },
+      {
+        "narration": "Accused of murdering ten Merovingian royals, the aging queen was tortured for three days before Chlothar ordered her public execution.",
+        "search": "brunhilda royal execution illustration",
+        "caption": "Tortured for days, Brunhilda faced final execution before the army."
+      },
+      {
+        "narration": "Lashed to wild horses and torn apart, Brunhilda's gruesome death ended history's deadliest feud, leaving the Frankish empire permanently fractured.",
+        "search": "merovingian dynasty dark history oil painting",
+        "caption": "The 40-year blood feud ended, shattering the Merovingian kingdom forever."
+      },
+      {
+        "narration": "A royal assassination ignited a devastating forty-year blood feud.",
+        "search": "merovingian dynasty engraving",
+        "caption": "A brutal forty-year royal blood feud tears Francia apart."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T11:26:43.707522+00:00",
+    "updated_at": "2026-11-04T11:42:15.033432+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-04T11:34:36.247003+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "429 chars (cat 136 de vua 55s)",
+        "at": "2026-11-04T11:36:29.616150+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-04T11:36:32.017761+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T11:36:33.125692+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-04T11:41:22.444808+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-04T11:41:22.554070+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.9s 15985678 bytes",
+        "at": "2026-11-04T11:42:14.619664+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T11:42:15.033410+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40194351/pexels-photo-40194351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40651524/pexels-photo-40651524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27730342/pexels-photo-27730342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7528879/pexels-photo-7528879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28728542/pexels-photo-28728542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386092/pexels-photo-38386092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25746323/pexels-photo-25746323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37212606/pexels-photo-37212606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31595325/pexels-photo-31595325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33077363/pexels-photo-33077363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5227484/pexels-photo-5227484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30574006/pexels-photo-30574006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "79791069d2",
     "kind": "short",
     "channel": "Channel2",
