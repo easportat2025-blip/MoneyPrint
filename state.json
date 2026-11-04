@@ -1,5 +1,168 @@
 [
   {
+    "id": "f614fa9d5f",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đứng yên trên nền bê tông khiến bạn mệt gấp đôi đi bộ?",
+    "idea": {
+      "title": "Tại sao đứng yên trên nền bê tông khiến bạn mệt gấp đôi đi bộ?",
+      "hook": "Bạn có biết đứng yên 1 tiếng trên nền bê tông thực ra khiến cơ thể bạn kiệt sức hơn cả đi bộ liên tục?",
+      "beats": [
+        "Khi đi bộ, các cơ bắp chân co bóp liên tục đóng vai trò như một chiếc máy bơm hỗ trợ đẩy máu về tim.",
+        "Khi đứng yên, trọng lực kéo máu dồn xuống chân khiến cơ bắp phải gồng liên tục để giữ cơ thể cân bằng.",
+        "Nền bê tông quá cứng không hỗ trợ hấp thụ lực, dồn 100% phản lực ngược lại vào khớp gối và cột sống.",
+        "Chỉ sau 30 phút, tim phải đập nhanh hơn để bù đắp lượng máu dồn đọng, tạo ra cảm giác mệt mỏi toàn thân."
+      ],
+      "keywords": [
+        "person standing concrete floor",
+        "leg muscles anatomical animation",
+        "blood circulation foot animation",
+        "weary leg joint stress",
+        "human posture spine pressure"
+      ],
+      "tags": [
+        "#channel3",
+        "#meosuckhoe",
+        "#khoahoc",
+        "#doisong",
+        "#suckhoe",
+        "#giaithich"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đứng yên 1 tiếng trên bê tông mệt hơn đi bộ?",
+        "search": "3d animation person standing tired concrete floor",
+        "caption": "Đứng yên mệt hơn đi bộ?"
+      },
+      {
+        "narration": "Khi đi bộ, các cơ bắp chân co bóp liên tục đóng vai trò như một chiếc máy bơm máu về tim.",
+        "search": "motion graphics leg muscles anatomical animation pumping blood",
+        "caption": "Đi bộ giúp bơm máu về tim"
+      },
+      {
+        "narration": "Nhưng khi bạn đứng yên một chỗ, cơ chế tự nhiên này bỗng nhiên bị vô hiệu hóa.",
+        "search": "isometric render human posture spine pressure standing still",
+        "caption": "Đứng yên làm ngừng máy bơm"
+      },
+      {
+        "narration": "Trọng lực kéo toàn bộ lượng máu dồn sốc xuống phần chân và bàn chân của bạn.",
+        "search": "explainer animation blood circulation foot animation gravity",
+        "caption": "Máu dồn xuống chân"
+      },
+      {
+        "narration": "Lúc này, các cơ bắp chân buộc phải gồng cứng liên tục để giữ cho cơ thể đứng thẳng cân bằng.",
+        "search": "cartoony 3d weary leg joint stress muscle tension",
+        "caption": "Cơ bắp phải gồng cứng"
+      },
+      {
+        "narration": "Bề mặt nền bê tông lại quá cứng và hoàn toàn không có độ đàn hồi để hỗ trợ hấp thụ lực.",
+        "search": "3d animation feet stepping on hard concrete floor",
+        "caption": "Nền bê tông quá cứng"
+      },
+      {
+        "narration": "Nó dồn ngược lại một trăm phần trăm phản lực trực tiếp vào các khớp gối và cột sống.",
+        "search": "motion graphics knee joint impact pressure shock absorption",
+        "caption": "Phản lực dồn vào khớp"
+      },
+      {
+        "narration": "Chỉ sau nửa tiếng, tim phải đập nhanh hơn để bù đắp, tạo ra cảm giác kiệt sức toàn thân.",
+        "search": "explainer animation heart beating fast fatigue exhaustion",
+        "caption": "Tim đập nhanh gây kiệt sức"
+      },
+      {
+        "narration": "Khi đi bộ, các cơ bắp chân co bóp liên tục đóng vai trò như một chiếc máy bơm máu.",
+        "search": "leg muscles anatomical animation 3d motion graphics",
+        "caption": "Cơ bắp chân hoạt động như máy bơm máu"
+      },
+      {
+        "narration": "Ngược lại, khi đứng yên, trọng lực kéo máu dồn xuống chân khiến cơ bắp phải gồng cứng.",
+        "search": "blood circulation foot animation isometric render",
+        "caption": "Đứng yên khiến máu dồn xuống chân"
+      },
+      {
+        "narration": "Nền bê tông quá cứng không hề có độ đàn hồi để hấp thụ lực tác động từ cơ thể.",
+        "search": "weary leg joint stress explainer animation",
+        "caption": "Bê tông cứng không hấp thụ lực"
+      },
+      {
+        "narration": "Nó dồn ngược lại một trăm phần trăm phản lực trực tiếp vào các khớp gối và cột sống.",
+        "search": "human posture spine pressure cartoony 3d",
+        "caption": "Phản lực dồn thẳng vào cột sống"
+      },
+      {
+        "narration": "Đó là lý do đứng một chỗ mệt hơn đi bộ, vì cơ thể bạn phải gồng mình chống lại trọng lực suốt.",
+        "search": "person standing concrete floor loop animation",
+        "caption": "Đứng một chỗ mệt hơn đi bộ rất nhiều"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T06:50:48.162346+00:00",
+    "updated_at": "2026-11-04T06:55:29.909773+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-04T06:52:59.491596+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "476 chars (cat 248 de vua 55s)",
+        "at": "2026-11-04T06:54:20.066803+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-04T06:54:27.049598+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T06:54:27.797796+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-04T06:54:46.992568+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-04T06:54:47.074218+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.7s 29504947 bytes",
+        "at": "2026-11-04T06:55:29.580347+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T06:55:29.909748+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6221338/6221338-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/5319999/5319999-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6624518/6624518-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7479265/7479265-hd_1080_1620_16fps.mp4",
+      "https://videos.pexels.com/video-files/34328905/14543064_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37403348/15841665_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7876226/7876226-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6689150/6689150-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/36724996/15564640_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069402/18069402-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/16622188/16622188-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/10619341/10619341-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16554272/16554272-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "079eb57b72",
     "kind": "short",
     "channel": "Channel2",
