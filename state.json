@@ -1,5 +1,162 @@
 [
   {
+    "id": "79791069d2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Rebel Emperor Secretly Surrendered His Own Army",
+    "idea": {
+      "title": "How a Rebel Emperor Secretly Surrendered His Own Army",
+      "hook": "When Emperor Aurelian marched to crush the rebel Gallic Empire, King Tetricus did something unthinkable: he secretly betrayed his own army to save his life.",
+      "beats": [
+        "In 274 AD, the Roman Empire was fractured, and Tetricus ruled the breakaway Gallic realm.",
+        "Fed up with his own mutinous generals, Tetricus secretly wrote to Emperor Aurelian, begging for a rescue.",
+        "At the Battle of Châlons, Tetricus abandoned his soldiers mid-fight and surrendered to the Roman lines.",
+        "Leaderless and confused, the Gallic army was crushed, instantly reuniting the Roman Empire.",
+        "Instead of executing him, Aurelian rewarded Tetricus with a lucrative governorship in Italy."
+      ],
+      "keywords": [
+        "Emperor Aurelian",
+        "Tetricus",
+        "Roman Empire map",
+        "Ancient battle engraving",
+        "Gallic Empire"
+      ],
+      "tags": [
+        "#history",
+        "#romanempire",
+        "#ancienthistory",
+        "#documentary",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A rebel emperor once secretly betrayed his own army.",
+        "search": "roman empire split map 3rd century engraving",
+        "caption": "A rebel emperor betrayed his own army."
+      },
+      {
+        "narration": "In 274 AD, the Roman Empire was fractured, and Tetricus ruled the breakaway Gallic realm.",
+        "search": "crisis of the third century roman map illustration",
+        "caption": "274 AD: The Roman Empire was fractured."
+      },
+      {
+        "narration": "Threatened by his own mutinous generals, Tetricus feared his troops more than his enemies.",
+        "search": "emperor tetricus roman coin portrait",
+        "caption": "Tetricus faced mutiny from his commanders."
+      },
+      {
+        "narration": "When Roman Emperor Aurelian marched north to reclaim Gaul, Tetricus saw his chance.",
+        "search": "emperor aurelian marble bust statue",
+        "caption": "Emperor Aurelian marched to reclaim Gaul."
+      },
+      {
+        "narration": "In total secrecy, Tetricus sent a letter to Aurelian begging for a rescue.",
+        "search": "ancient roman wax tablet letter illustration",
+        "caption": "Tetricus secretly contacted his enemy."
+      },
+      {
+        "narration": "He offered to betray his entire army on the battlefield in exchange for his survival.",
+        "search": "ancient roman military camp night engraving",
+        "caption": "A plan to surrender his own men."
+      },
+      {
+        "narration": "At the Battle of Châlons, Tetricus abandoned his troops mid-fight and rode into Roman lines.",
+        "search": "battle of chalons ancient battle engraving",
+        "caption": "Tetricus fled to the enemy lines."
+      },
+      {
+        "narration": "Leaderless and panicked, the Gallic army was completely slaughtered by Aurelian's legions.",
+        "search": "ancient roman legion cavalry charge painting",
+        "caption": "The Gallic army was crushed."
+      },
+      {
+        "narration": "The massacre at Châlons destroyed the breakaway state, allowing Emperor Aurelian to fully reunite the Roman Empire in 274 AD.",
+        "search": "ancient roman empire map engraving 274 AD",
+        "caption": "Aurelian reunited the fractured empire in 274 AD"
+      },
+      {
+        "narration": "Paraded through Rome in Aurelian's victory triumph, Tetricus appeared condemned, but their secret bargain remained intact.",
+        "search": "roman triumph procession classical oil painting",
+        "caption": "Paraded in Rome, Tetricus awaited his bargain"
+      },
+      {
+        "narration": "Instead of execution, Aurelian appointed Tetricus governor of Lucania in Italy, proving his treacherous surrender was a masterstroke.",
+        "search": "tetricus coin portrait close up ancient",
+        "caption": "Surrendering his army earned Tetricus a governorship"
+      },
+      {
+        "narration": "When Emperor Aurelian marched to crush the rebel Gallic Empire, King Tetricus did the unthinkable.",
+        "search": "Emperor Aurelian Roman coin close up",
+        "caption": "A rebel king's ultimate betrayal."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T07:25:19.581337+00:00",
+    "updated_at": "2026-11-04T07:31:38.247830+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-04T07:27:47.536417+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "376 chars (cat 430 de vua 55s)",
+        "at": "2026-11-04T07:28:50.227556+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.3s en-US-GuyNeural 4 cau",
+        "at": "2026-11-04T07:28:53.561476+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T07:28:54.230886+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-04T07:31:08.088990+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-04T07:31:08.173445+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 14905329 bytes",
+        "at": "2026-11-04T07:31:37.859849+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T07:31:38.247805+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17402105/pexels-photo-17402105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7966689/pexels-photo-7966689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360560/pexels-photo-32360560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28948619/pexels-photo-28948619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33508958/pexels-photo-33508958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9117993/pexels-photo-9117993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20281874/pexels-photo-20281874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581668/pexels-photo-35581668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39504011/pexels-photo-39504011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34215255/pexels-photo-34215255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24186178/pexels-photo-24186178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "f614fa9d5f",
     "kind": "short",
     "channel": "Channel3",
