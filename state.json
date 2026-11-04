@@ -1,5 +1,161 @@
 [
   {
+    "id": "abfe21fc23",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why King Pyrrhus Wept After Winning His Greatest Battle",
+    "idea": {
+      "title": "Why King Pyrrhus Wept After Winning His Greatest Battle",
+      "hook": "In 279 BC, King Pyrrhus defeated a massive Roman army, but his victory speech terrified his own generals.",
+      "beats": [
+        "Pyrrhus crushed Rome at the Battle of Asculum using heavily armored war elephants.",
+        "However, the stubborn Romans fought to the death, wiping out Pyrrhus's elite commanders.",
+        "When congratulated on his victory, Pyrrhus famously declared: 'One more such victory will utter destroy us.'",
+        "Unable to replace his veteran troops, his campaign collapsed—coining the famous term 'Pyrrhic victory.'"
+      ],
+      "keywords": [
+        "Pyrrhus of Epirus",
+        "Ancient Rome",
+        "Battle of Asculum",
+        "War Elephants",
+        "Classic Oil Painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#militaryhistory",
+        "#pyrrhicvictory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did King Pyrrhus weep after destroying Rome's army?",
+        "search": "king pyrrhus bust statue ancient greece",
+        "caption": "Why a victorious king wept after battle."
+      },
+      {
+        "narration": "In 279 BC, the Greek commander Pyrrhus of Epirus clashed with Ancient Rome at Asculum.",
+        "search": "battle of asculum ancient roman map engraving",
+        "caption": "In 279 BC, Rome faced Pyrrhus at Asculum."
+      },
+      {
+        "narration": "Pyrrhus unleashed massive war elephants and elite Greek phalanxes to shatter the Roman lines.",
+        "search": "ancient war elephants battle oil painting",
+        "caption": "He unleashed war elephants to smash Roman lines."
+      },
+      {
+        "narration": "Though overwhelmed, the stubborn Romans fought to the death, turning the battlefield into a slaughterhouse.",
+        "search": "ancient roman legionaries battle classical painting",
+        "caption": "Rome refused to retreat, forcing a brutal slaughter."
+      },
+      {
+        "narration": "Roman legionaries cut down Pyrrhus's irreplaceable veteran officers and top commanders.",
+        "search": "ancient greek soldiers casualties battlefield oil painting",
+        "caption": "Rome wiped out Pyrrhus's elite commanders."
+      },
+      {
+        "narration": "When the dust settled, Pyrrhus held the field, claiming a bloody triumph.",
+        "search": "pyrrhus of epirus portrait painting",
+        "caption": "Pyrrhus won the battle, but lost his army."
+      },
+      {
+        "narration": "As his generals celebrated, Pyrrhus famously declared: 'One more such victory will utterly destroy us.'",
+        "search": "ancient greek king tent military meeting engraving",
+        "caption": "'One more such victory will utterly destroy us.'"
+      },
+      {
+        "narration": "Far from home, Pyrrhus could not reinforce a single lost veteran soldier.",
+        "search": "ancient greek warship fleet sailing oil painting",
+        "caption": "He could never replace his lost elite veterans."
+      },
+      {
+        "narration": "Meanwhile, the Roman Republic drew on vast reserves, replacing thousands of dead legionaries almost immediately.",
+        "search": "ancient rome legionaries battle classic oil painting",
+        "caption": "Rome replaced thousands of casualties almost immediately."
+      },
+      {
+        "narration": "Bleeding irreplaceable veterans with every success, King Pyrrhus completely abandoned his Italian campaign in 275 BC.",
+        "search": "king pyrrhus of epirus marble bust statue",
+        "caption": "Pyrrhus abandoned his campaign in 275 BC."
+      },
+      {
+        "narration": "His costly triumphs immortalized the term Pyrrhic victory—a win so devastating that it guarantees ultimate defeat.",
+        "search": "ancient battle after destruction classic oil painting",
+        "caption": "A Pyrrhic victory guarantees eventual defeat."
+      },
+      {
+        "narration": "In 279 BC, winning a battle ruined King Pyrrhus.",
+        "search": "king pyrrhus bust statue",
+        "caption": "Winning this battle destroyed King Pyrrhus in 279 BC."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-04T00:17:24.916533+00:00",
+    "updated_at": "2026-11-04T00:36:54.179185+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-04T00:28:19.979677+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "395 chars (cat 226 de vua 55s)",
+        "at": "2026-11-04T00:34:06.793314+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 6 cau",
+        "at": "2026-11-04T00:34:10.238073+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-04T00:34:11.162666+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-04T00:36:12.197793+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-04T00:36:12.289734+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.7s 17193625 bytes",
+        "at": "2026-11-04T00:36:53.824079+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-04T00:36:54.179165+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29123524/pexels-photo-29123524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627842/pexels-photo-8627842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484091/pexels-photo-16484091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22883086/pexels-photo-22883086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40174209/pexels-photo-40174209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5608062/pexels-photo-5608062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269364/pexels-photo-9269364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18579938/pexels-photo-18579938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37102502/pexels-photo-37102502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10322821/pexels-photo-10322821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11839642/pexels-photo-11839642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0a18eb631d",
     "kind": "short",
     "channel": "Channel2",
