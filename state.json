@@ -1,5 +1,161 @@
 [
   {
+    "id": "53afd4d098",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Ivan the Terrible Blinded His Own Architects",
+    "idea": {
+      "title": "Why Ivan the Terrible Blinded His Own Architects",
+      "hook": "After St. Basil's Cathedral was completed, Ivan the Terrible asked the architects if they could ever build anything more magnificent—and their proud 'yes' sealed their horrific fate.",
+      "beats": [
+        "The Russian tsar stood in awe before the colorful, onion-domed masterpiece that stunned all of Europe.",
+        "Wanting to ensure no other kingdom on earth would ever possess a structure this breathtaking, Ivan summoned the master builders.",
+        "When they boastfully replied that they could design something even greater given the chance, the tsar's smile vanished.",
+        "He immediately ordered their eyes gouged out so they could never replicate their divine creation for another rival ruler."
+      ],
+      "keywords": [
+        "ivan the terrible portrait",
+        "russian tsar painting",
+        "st basils cathedral art",
+        "medieval moscow engraving",
+        "historical architecture"
+      ],
+      "tags": [
+        "russia",
+        "history",
+        "darkhistory",
+        "tsar",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Russian tsar blind his own cathedral architects?",
+        "search": "ivan the terrible portrait oil painting",
+        "caption": "Why did the tsar blind his master architects?"
+      },
+      {
+        "narration": "In 1561, Moscow celebrated the completion of the breathtaking St. Basil's Cathedral.",
+        "search": "st basils cathedral art oil painting",
+        "caption": "Moscow's new architectural masterpiece completed in 1561"
+      },
+      {
+        "narration": "Tsar Ivan IV stood in awe before the colorful, onion-domed structure.",
+        "search": "russian tsar painting historical artwork",
+        "caption": "Tsar Ivan IV admired the stunning colorful domes"
+      },
+      {
+        "narration": "The cathedral stunned all of Europe with its unprecedented design.",
+        "search": "medieval moscow engraving woodcut",
+        "caption": "A structure that stunned all of Europe"
+      },
+      {
+        "narration": "Ivan wanted to ensure no rival kingdom would ever possess a structure this magnificent.",
+        "search": "tsar throne room historical illustration",
+        "caption": "Ensuring absolute architectural monopoly for Russia"
+      },
+      {
+        "narration": "He summoned the master builders, Barma and Postnik, to his court.",
+        "search": "sixteenth century russian boyars manuscript",
+        "caption": "The master builders summoned to court"
+      },
+      {
+        "narration": "The tsar asked if they could ever build anything more magnificent.",
+        "search": "medieval interrogation painting historical art",
+        "caption": "A fateful question asked by the tsar"
+      },
+      {
+        "narration": "Their proud affirmative response sealed their horrific fate.",
+        "search": "medieval dungeon torment historical painting",
+        "caption": "A proud boast that sealed their fate"
+      },
+      {
+        "narration": "In 1561, Tsar Ivan IV ordered his guards to gouge out the eyes of architects Postnik Yakovlev and Barma.",
+        "search": "ivan the terrible portrait oil painting ordered",
+        "caption": "Tsar Ivan IV ordered his architects blinded in 1561."
+      },
+      {
+        "narration": "By mutilating the master builders, the Russian monarch ensured no rival kingdom could ever replicate the structure.",
+        "search": "st basils cathedral moscow 16th century engraving",
+        "caption": "The horrific act prevented rivals from replicating the cathedral."
+      },
+      {
+        "narration": "Though some modern historians debate the legend, Saint Basil's Cathedral stands as an enduring symbol of Ivan's ruthless power.",
+        "search": "saint basils cathedral moscow red square painting",
+        "caption": "Saint Basil's stands as an enduring symbol of ruthless power."
+      },
+      {
+        "narration": "In 1561, construction finished on the architectural marvel known today as St. Basil's Cathedral in Moscow.",
+        "search": "st basils cathedral art oil painting",
+        "caption": "The completion of St. Basil's in 1561"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-05T00:45:34.119608+00:00",
+    "updated_at": "2026-11-05T00:52:17.350705+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-05T00:48:18.328572+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "421 chars (cat 110 de vua 55s)",
+        "at": "2026-11-05T00:49:02.429026+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.1s en-US-GuyNeural 7 cau",
+        "at": "2026-11-05T00:49:05.105715+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-05T00:49:06.288606+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-05T00:51:23.150304+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-05T00:51:23.264746+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.1s 15608024 bytes",
+        "at": "2026-11-05T00:52:16.908058+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+        "at": "2026-11-05T00:52:17.350684+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34397522/pexels-photo-34397522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9024822/pexels-photo-9024822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10683350/pexels-photo-10683350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36918087/pexels-photo-36918087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16295977/pexels-photo-16295977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24286514/pexels-photo-24286514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8382443/pexels-photo-8382443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35646851/pexels-photo-35646851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33200140/pexels-photo-33200140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40294124/pexels-photo-40294124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34534808/pexels-photo-34534808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40406032/pexels-photo-40406032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0749c1ac64",
     "kind": "long",
     "channel": "seigh",
