@@ -1,5 +1,167 @@
 [
   {
+    "id": "d3223dd886",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật cơn ngứa chân dữ dội mỗi khi bạn vừa chạy bộ",
+    "idea": {
+      "title": "Bí mật cơn ngứa chân dữ dội mỗi khi bạn vừa chạy bộ",
+      "hook": "Bạn vừa chạy bộ được 3 phút thì hai bắp chân bắt đầu ngứa ngáy dữ dội như bị kiến cắn? Đây không phải dị ứng da mà là hệ thần kinh của bạn đang bị đánh lừa.",
+      "beats": [
+        "Hình ảnh người chạy bộ phải dừng lại gãi chân liên tục vì ngứa ngáy khó chịu.",
+        "Mô phỏng 3D các mạch máu nhỏ (mao mạch) ở cơ chân đang xẹp lép bỗng mở rộng đột ngột để đón dòng máu tăng vọt.",
+        "Sự giãn nở thần tốc này kích thích các dây thần kinh xung quanh, phát tín hiệu giả về não bộ thành cảm giác ngứa ngáy.",
+        "Chỉ cần kiên trì chạy tiếp 5 phút, khi mạch máu quen với áp lực, cơn ngứa sẽ tự động biến mất hoàn toàn."
+      ],
+      "keywords": [
+        "runner scratching leg",
+        "running workout outdoor",
+        "blood vessels circulation 3d",
+        "leg muscle anatomy",
+        "fitness exercise pain"
+      ],
+      "tags": [
+        "#chaybo",
+        "#suckhoe",
+        "#cothebannhe",
+        "#khoahoc",
+        "#giai_ma"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chạy 3 phút chân ngứa dữ dội như kiến cắn?",
+        "search": "runner scratching leg outdoor workout",
+        "caption": "Chạy 3 phút đã ngứa chân dữ dội?"
+      },
+      {
+        "narration": "Đây không phải dị ứng da hay do quần áo của bạn.",
+        "search": "fitness exercise pain close up legs",
+        "caption": "Không phải dị ứng da thông thường"
+      },
+      {
+        "narration": "Hệ thần kinh của bạn đang bị đánh lừa ngay lúc này.",
+        "search": "leg muscle anatomy 3d animation",
+        "caption": "Hệ thần kinh đang bị đánh lừa"
+      },
+      {
+        "narration": "Hãy nhìn sâu vào bên trong bắp chân khi bạn vừa vận động.",
+        "search": "blood vessels circulation 3d render",
+        "caption": "Bên trong bắp chân khi vận động"
+      },
+      {
+        "narration": "Các mạch máu nhỏ xẹp lép bỗng mở rộng đột ngột.",
+        "search": "motion graphics blood flow expanding",
+        "caption": "Mạch máu xẹp lép nở rộng đột ngột"
+      },
+      {
+        "narration": "Dòng máu tăng vọt ồ ạt tràn vào các mao mạch.",
+        "search": "isometric render blood cells moving fast",
+        "caption": "Dòng máu tăng vọt tràn vào mao mạch"
+      },
+      {
+        "narration": "Sự giãn nở thần tốc này kích thích các dây thần kinh xung quanh.",
+        "search": "explainer animation nerve endings firing",
+        "caption": "Kích thích các dây thần kinh xung quanh"
+      },
+      {
+        "narration": "Não bộ nhận tín hiệu sai và tạo ra cảm giác ngứa ngáy.",
+        "search": "loop animation brain signals body",
+        "caption": "Não bộ nhận tín hiệu giả gây ngứa"
+      },
+      {
+        "narration": "Sự giãn nở thần tốc này kích thích các dây thần kinh xung quanh cơ bắp.",
+        "search": "3d animation leg muscle anatomy close up",
+        "caption": "Kích thích dây thần kinh"
+      },
+      {
+        "narration": "Não bộ nhận tín hiệu sai và tạo ra cảm giác ngứa ngáy dữ dội.",
+        "search": "motion graphics brain signaling pain or itch",
+        "caption": "Não bộ nhận tín hiệu sai"
+      },
+      {
+        "narration": "Đây chỉ là hiện tượng thích nghi tạm thời của hệ tuần hoàn.",
+        "search": "isometric render blood vessels expanding loop animation",
+        "caption": "Hệ tuần hoàn thích nghi"
+      },
+      {
+        "narration": "Cảm giác này hoàn toàn vô hại và không phải do dị ứng da.",
+        "search": "cartoony 3d runner scratching leg outdoor workout",
+        "caption": "Hoàn toàn vô hại"
+      },
+      {
+        "narration": "Chỉ cần chạy tiếp vài phút, mạch máu ổn định và cơn ngứa sẽ biến mất.",
+        "search": "fitness exercise running outdoors legs motion graphics",
+        "caption": "Cơn ngứa tự biến mất"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-05T21:39:01.857073+00:00",
+    "updated_at": "2026-11-05T21:43:20.562297+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-05T21:41:13.275897+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 115 de vua 55s)",
+        "at": "2026-11-05T21:42:15.886784+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.1s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-11-05T21:42:22.651893+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-05T21:42:23.506414+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-05T21:42:38.495736+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-05T21:42:38.576292+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.1s 33577373 bytes",
+        "at": "2026-11-05T21:43:20.244534+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-05T21:43:20.562274+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7877139/7877139-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7191274/7191274-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5756270/5756270-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39904101/17025436_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34912747/14789318_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8680152/8680152-hd_1080_1620_24fps.mp4",
+      "https://videos.pexels.com/video-files/35641289/15104517_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6388435/6388435-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/35158244/14893813_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34342917/14549299_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7884004/7884004-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7877153/7877153-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "76533834e4",
     "kind": "long",
     "channel": "seigh",
