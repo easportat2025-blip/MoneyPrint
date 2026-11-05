@@ -1,5 +1,162 @@
 [
   {
+    "id": "94b49e3670",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Clever Wives Saved 1,000 Warriors on Their Backs",
+    "idea": {
+      "title": "How Clever Wives Saved 1,000 Warriors on Their Backs",
+      "hook": "When King Conrad III condemned every man inside a besieged castle to death, he granted the women permission to leave with whatever they could carry. He never expected what walked out.",
+      "beats": [
+        "In 1140, German King Conrad III trapped rebel forces inside the fortress of Weinsberg and sentenced all men to execution.",
+        "As a minor gesture of royal mercy, he allowed the women to walk free carrying whatever precious possessions they could fit on their backs.",
+        "The following morning, the castle gates opened, but the women carried no gold, silver, or royal jewels.",
+        "Line by line, each woman emerged carrying her husband, father, or son on her back, relying on the King's sacred word.",
+        "Stunned by their tactical trickery and loyalty, Conrad laughed, kept his promise, and pardoned the entire garrison."
+      ],
+      "keywords": [
+        "medieval castle engraving",
+        "king conrad portrait",
+        "historical fortress siege art",
+        "medieval women painting",
+        "knights surrender illustration"
+      ],
+      "tags": [
+        "#history",
+        "#medievalhistory",
+        "#historyfacts",
+        "#ancientwarfare",
+        "#untoldhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1140, unarmed women saved a thousand condemned soldiers.",
+        "search": "medieval fortress siege engraving",
+        "caption": "Unarmed women saved 1,000 condemned soldiers."
+      },
+      {
+        "narration": "During the siege of Weinsberg Castle, German King Conrad the Third sentenced every male defender to execution.",
+        "search": "king conrad iii portrait painting",
+        "caption": "King Conrad III ordered total execution at Weinsberg."
+      },
+      {
+        "narration": "Starving and surrounded, the rebel garrison faced total annihilation after months of intense fighting.",
+        "search": "medieval castle under siege illuminated manuscript",
+        "caption": "The trapped garrison faced complete annihilation."
+      },
+      {
+        "narration": "As a gesture of mercy, Conrad allowed the women to leave with whatever valuables they could carry on their backs.",
+        "search": "medieval royal decree manuscript illustration",
+        "caption": "Women were permitted to carry out their valuables."
+      },
+      {
+        "narration": "The King fully expected them to haul away gold, silver, and jewelry before the massacre commenced.",
+        "search": "medieval gold treasure coins oil painting",
+        "caption": "Conrad expected gold and jewels to leave the castle."
+      },
+      {
+        "narration": "At dawn, the heavy oak gates swung open, but no gold emerged from the fortress.",
+        "search": "medieval castle gate opening oil painting",
+        "caption": "At dawn, the gates opened to a shocking sight."
+      },
+      {
+        "narration": "Instead, each woman stepped out staggering under the weight of her husband, father, or son piggybacked on her spine.",
+        "search": "women carrying men weinsberg historical painting",
+        "caption": "Each woman carried her husband or father on her back."
+      },
+      {
+        "narration": "Outwitted by their loyalty, King Conrad honorably kept his royal word and pardoned the entire garrison.",
+        "search": "king conrad iii surrounded by knights artwork",
+        "caption": "Conrad honored his word and pardoned every warrior."
+      },
+      {
+        "narration": "Though his enraged commanders urged him to execute the rebels anyway, Conrad declared that a sovereign's royal word must remain unbroken.",
+        "search": "king conrad iii medieval manuscript illustration",
+        "caption": "Conrad refused to break his royal word despite pressure from generals."
+      },
+      {
+        "narration": "The fortress of Weinsberg was permanently renamed Weibertreu, or Wifely Loyalty, to honor the legendary strategy of the women.",
+        "search": "weinsberg castle fortress 12th century engraving",
+        "caption": "The castle was renamed Weibertreu to honor the wives' tactical cleverness."
+      },
+      {
+        "narration": "By exploiting a monarch's mercy, these clever wives saved one thousand doomed warriors without spilling a single drop of blood.",
+        "search": "clever women of weinsberg medieval oil painting",
+        "caption": "A clever loophole saved 1,000 warriors without shedding any blood."
+      },
+      {
+        "narration": "Women carried an entire condemned army to safety.",
+        "search": "medieval siege battle manuscript illumination",
+        "caption": "How medieval women carried an army to freedom"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-05T11:21:35.876429+00:00",
+    "updated_at": "2026-11-05T11:33:07.268249+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-05T11:25:10.836173+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "391 chars (cat 213 de vua 55s)",
+        "at": "2026-11-05T11:26:57.724641+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.0s en-US-GuyNeural 6 cau",
+        "at": "2026-11-05T11:27:00.003982+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-05T11:27:00.677212+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-05T11:32:35.846775+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-05T11:32:35.926751+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.0s 16161710 bytes",
+        "at": "2026-11-05T11:33:06.928870+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-05T11:33:07.268231+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16563570/pexels-photo-16563570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35544994/pexels-photo-35544994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18926431/pexels-photo-18926431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080498/pexels-photo-7080498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19971328/pexels-photo-19971328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34222311/pexels-photo-34222311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15552888/pexels-photo-15552888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16342029/pexels-photo-16342029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39709836/pexels-photo-39709836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6816601/pexels-photo-6816601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27925640/pexels-photo-27925640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "691ab6bf9f",
     "kind": "short",
     "channel": "Channel3",
