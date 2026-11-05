@@ -1,5 +1,647 @@
 [
   {
+    "id": "76533834e4",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Brutal Punishment That Created Frederick the Great",
+    "idea": {
+      "title": "The Brutal Punishment That Created Frederick the Great",
+      "hook": "When 18-year-old Prince Frederick tried to flee his abusive father, King Frederick William I caught him—and forced the prince to watch his best friend's decapitation from a cell window.",
+      "beats": [
+        "Scene setting at Küstrin Fortress in 1730, introducing the terrifying dynamic between 18-year-old Prince Frederick and his tyrannical father, King Frederick William I.",
+        "The Clash of Cultures: King Frederick William’s obsession with hyper-masculine military austerity versus Prince Frederick's love for French literature, philosophy, and the flute.",
+        "Escalating Domestic Tyranny: The King's public beatings, severe psychological abuse, and forced starvation meant to beat the soft culture out of the young prince.",
+        "Enter Hans Hermann von Katte: The charming, cultured army officer who became Frederick's closest companion, confidant, and partner in secret rebellion.",
+        "The Secret Plot: Desperate to escape his father's violence, Frederick and Katte plan a daring flight to England during a royal diplomatic tour.",
+        "Betrayal and Interception: Botched communications lead to the discovery of the escape plot, resulting in the immediate arrest of both young men for military desertion.",
+        "The King's Rage: Frederick William I treats the flight as high treason, stripping his son of royal rank and debating whether to execute his own heir.",
+        "Overruling the Military Court: When a military tribunal refuses to execute Katte, the furious King personally overrules the sentence and orders a public decapitation.",
+        "The Execution at Küstrin: November 6, 1730—Frederick is held at his cell window, screaming for forgiveness, as Katte is beheaded directly beneath his view.",
+        "Psychological Breakdown: Frederick faints as the sword falls and slips into deep psychological trauma during extended solitary confinement.",
+        "The Great Pretender: Realizing survival requires total concealment, Frederick feigns complete submission to his father's strict military doctrine.",
+        "Legacy of a Monster's Lesson: How the extreme trauma of 1730 transformed a gentle young prince into the icy, calculated military genius known as Frederick the Great."
+      ],
+      "keywords": [
+        "Frederick the Great",
+        "Hans Hermann von Katte",
+        "King Frederick William I",
+        "Prussian History",
+        "Soldier King",
+        "Küstrin Fortress",
+        "House of Hohenzollern",
+        "European History",
+        "18th Century History",
+        "Royal Scandals"
+      ],
+      "tags": [
+        "frederick the great",
+        "prussia history",
+        "katte affair",
+        "history documentary",
+        "royal history",
+        "frederick william i",
+        "european history",
+        "royal trauma",
+        "military genius",
+        "history documentations"
+      ],
+      "kind": "long",
+      "thumbnail_text": "EXECUTED BEFORE HIS EYES"
+    },
+    "scenes": [
+      {
+        "narration": "A brutal execution created Europe's coldest military ruler. In 1730, Crown Prince Frederick of Prussia faced his tyrannical father's ultimate fury.",
+        "search": "crown prince frederick young portrait oil painting",
+        "caption": "A traumatic punishment created Frederick the Great."
+      },
+      {
+        "narration": "King Frederick William I despised his son's passion for French philosophy and music, subjecting eighteen-year-old Frederick to public beatings and starvation to break his spirit.",
+        "search": "king frederick william i of prussia portrait oil painting",
+        "caption": "King Frederick William I enforced ruthless military discipline."
+      },
+      {
+        "narration": "Desperate for freedom, Frederick conspired with his close companion, Lieutenant Hans Hermann von Katte, planning a secret escape to England during a 1730 diplomatic tour.",
+        "search": "hans hermann von katte portrait oil painting",
+        "caption": "Prince Frederick planned a secret escape to England."
+      },
+      {
+        "narration": "Intercepted letters exposed the flight in August 1730, leading to the immediate arrest of both young men for high treason and military desertion.",
+        "search": "kustrin fortress Prussia 18th century engraving",
+        "caption": "The escape plot failed, resulting in treason charges."
+      },
+      {
+        "narration": "When a Prussian military tribunal refused to execute Katte, King Frederick William personally overruled the court and ordered a public decapitation to punish the prince.",
+        "search": "18th century military tribunal trial court engraving",
+        "caption": "The King overruled the court to order decapitation."
+      },
+      {
+        "narration": "On November 6, 1730, guards held Prince Frederick at his cell window in Küstrin Fortress, forcing him to watch Katte beheaded directly below.",
+        "search": "execution of hans hermann von katte 1730 engraving",
+        "caption": "Prince Frederick was forced to watch his friend's execution."
+      },
+      {
+        "narration": "Frederick collapsed into unconsciousness as the sword fell, later adopting complete, cold obedience to survive his father's remaining reign.",
+        "search": "prince frederick in kustrin prison cell oil painting",
+        "caption": "Imprisoned and traumatized, Frederick feigned total obedience."
+      },
+      {
+        "narration": "The trauma of 1730 destroyed the gentle prince, creating Frederick the Great—the calculated military mastermind who reshaped eighteenth-century Europe.",
+        "search": "frederick the great king of prussia portrait oil painting",
+        "caption": "Trauma forged Prussia's most formidable military commander."
+      },
+      {
+        "narration": "Can extreme psychological torture create history's coldest military genius?",
+        "search": "Prince Frederick II of Prussia portrait painting",
+        "caption": "A traumatized prince became Europe's ruthless conqueror."
+      },
+      {
+        "narration": "Following the execution of Hans Hermann von Katte on November 6, 1730, at Küstrin Fortress, Prince Frederick remained imprisoned under strict royal surveillance.",
+        "search": "Küstrin Fortress 18th century engraving",
+        "caption": "Imprisoned at Küstrin Fortress after the failed escape plot."
+      },
+      {
+        "narration": "King Frederick William I forced his son to serve as a low-level clerk in the War and Domains Estate to enforce total obedience.",
+        "search": "King Frederick William I of Prussia portrait painting",
+        "caption": "King Frederick William I enforced absolute bureaucratic submission."
+      },
+      {
+        "narration": "Frederick concealed his resentment behind immaculate military service, mastering troop tactics while commanding a regiment at Neuruppin during the 1730s.",
+        "search": "Prussian infantry 18th century regiment oil painting",
+        "caption": "Masking rebellion with flawless military discipline at Neuruppin."
+      },
+      {
+        "narration": "When King Frederick William I died in May 1740, rival European courts assumed Prussia's new intellectual monarch would be weak in battle.",
+        "search": "Death of King Frederick William I 1740 engraving",
+        "caption": "European powers misjudged Prussia's new intellectual king in 1740."
+      },
+      {
+        "narration": "In December 1740, King Frederick II stunned Europe by initiating an unprovoked military invasion of the Habsburg province of Silesia.",
+        "search": "Map of Silesia 18th century old map",
+        "caption": "Launching an unprovoked invasion of Austrian Silesia in 1740."
+      },
+      {
+        "narration": "At the Battle of Mollwitz in April 1741, Frederick utilized his father's hyper-disciplined army to shatter Maria Theresa's imperial forces.",
+        "search": "Battle of Mollwitz 1741 oil painting",
+        "caption": "Crushing Habsburg forces at the Battle of Mollwitz in 1741."
+      },
+      {
+        "narration": "The brutal punishment at Küstrin ultimately forged a gentle prince into Frederick the Great, permanently altering the balance of European power.",
+        "search": "King Frederick the Great of Prussia portrait painting",
+        "caption": "Traumatic discipline forged the legendary legacy of Frederick the Great."
+      },
+      {
+        "narration": "In 1731, after months of solitary confinement at Küstrin, Crown Prince Frederick signed an oath of absolute submission to avert execution.",
+        "search": "Crown Prince Frederick of Prussia 1730s portrait oil painting",
+        "caption": "Signing submission under threat of execution."
+      },
+      {
+        "narration": "Assigned to the Küstrin War Chamber, Frederick concealed his grief over Katte while quietly mastering Prussian military and financial administration.",
+        "search": "Küstrin Fortress 18th century etching",
+        "caption": "Mastering statecraft under strict exile."
+      },
+      {
+        "narration": "In June 1733, King Frederick William I forced his son into a loveless marriage with Elisabeth Christine of Brunswick-Wolfenbüttel.",
+        "search": "Elisabeth Christine of Brunswick-Wolfenbuttel portrait oil painting",
+        "caption": "Forced marriage to Elisabeth Christine in 1733."
+      },
+      {
+        "narration": "When the King died on May 31, 1740, the twenty-eight-year-old successor took absolute control of eighty thousand highly trained soldiers.",
+        "search": "King Frederick William I of Prussia portrait oil painting inheriting",
+        "caption": "Inheriting the Prussian war machine in 1740."
+      },
+      {
+        "narration": "In December 1740, Frederick launched an unprovoked invasion of Habsburg Silesia, unleashing the First Silesian War.",
+        "search": "Prussian army marching 18th century engraving",
+        "caption": "The invasion of Silesia in December 1740."
+      },
+      {
+        "narration": "At the Battle of Chotusitz on May 17, 1742, Frederick outmaneuvered Austrian troops to secure strategic dominance.",
+        "search": "Battle of Chotusitz 1742 cavalry battle oil painting",
+        "caption": "Tactical victory at Chotusitz, May 1742."
+      },
+      {
+        "narration": "Observers noted that the traumatic execution of his youth had stripped Frederick of empathy, replacing emotion with cold tactical calculation.",
+        "search": "Frederick the Great in youth as king oil painting",
+        "caption": "A monarch forged in psychological trauma."
+      },
+      {
+        "narration": "The Treaty of Berlin in July 1742 granted Silesia to Prussia, confirming that the broken prince had reshaped European geography.",
+        "search": "18th century map of Silesia and Prussia engraving",
+        "caption": "Silesia conquered, establishing Prussian power."
+      },
+      {
+        "narration": "In 1744, Frederick weaponized his trauma, launching a surprise invasion of Bohemia during the War of the Austrian Succession.",
+        "search": "Frederick the Great military campaign oil painting",
+        "caption": "Frederick invades Bohemia during the Austrian Succession."
+      },
+      {
+        "narration": "The brutal discipline drilled into him by his father now manifested as ruthless battlefield efficiency against Austrian forces.",
+        "search": "18th century Prussian infantry battle engraving",
+        "caption": "Prussian infantry execute disciplined battlefield maneuvers."
+      },
+      {
+        "narration": "Yet, domestic life at Sanssouci Palace revealed a stark contradiction: a cold military ruler who spent his evenings playing flute sonatas.",
+        "search": "Sanssouci Palace interior rococo architecture photo",
+        "caption": "Frederick retreated to his private sanctuary at Sanssouci."
+      },
+      {
+        "narration": "He surrounded himself with Enlightenment thinkers like Voltaire, intellectualizing a state built entirely on military coercion.",
+        "search": "Voltaire and Frederick the Great oil painting",
+        "caption": "Frederick hosted Enlightenment philosophers in Potsdam."
+      },
+      {
+        "narration": "This fragile peace shattered in 1756 when Austria, France, and Russia formed a coalition to dismantle the Prussian state.",
+        "search": "18th century European diplomacy manuscript document",
+        "caption": "A massive European coalition formed against Prussia."
+      },
+      {
+        "narration": "Outnumbered three to one, Frederick faced total annihilation in what would become known as the Seven Years' War.",
+        "search": "Seven Years War battle scene oil canvas",
+        "caption": "Prussia faced total annihilation in 1756."
+      },
+      {
+        "narration": "At the Battle of Kunersdorf in 1759, the king suffered a catastrophic defeat, nearly writing a letter of abdication in despair.",
+        "search": "Battle of Kunersdorf 1759 historical engraving",
+        "caption": "Kunersdorf brought Prussia to the brink of ruin."
+      },
+      {
+        "narration": "Only the sudden death of Empress Elizabeth of Russia in 1762—the Miracle of the House of Brandenburg—saved Frederick from complete ruin.",
+        "search": "Russian empress historical portrait oil painting",
+        "caption": "The Miracle of Brandenburg saved the Prussian state."
+      },
+      {
+        "narration": "In October 1756, the aging monarch launched a preemptive strike against Saxony, igniting the Seven Years' War across Europe.",
+        "search": "frederick the great military camp oil painting",
+        "caption": "The Preemptive Strike of 1756"
+      },
+      {
+        "narration": "Facing a grand coalition of France, Austria, and Russia, the King utilized lightning-fast maneuvers to outflank numerically superior enemies.",
+        "search": "battle of leuthen historical oil painting",
+        "caption": "Outnumbered Against a European Coalition"
+      },
+      {
+        "narration": "Despite strategic brilliance, the grinding conflict drained Prussia's population, treasury, and resources to the absolute breaking point.",
+        "search": "18th century european soldiers marching engraving",
+        "caption": "The Grinding Toll of Total War"
+      },
+      {
+        "narration": "By 1760, Prussian forces were utterly exhausted, and hostile armies successfully occupied the capital city of Berlin.",
+        "search": "berlin 18th century city view old map",
+        "caption": "The Occupation of Berlin"
+      },
+      {
+        "narration": "Deeply isolated at Sanssouci Palace, the monarch carried a vial of poison, resolute never to accept a humiliating defeat.",
+        "search": "sanssouci palace exterior 18th century painting",
+        "caption": "The Poison Vial at Sanssouci"
+      },
+      {
+        "narration": "Then, in January 1762, Empress Elizabeth of Russia died unexpectedly, instantly altering the geopolitical balance of power.",
+        "search": "russian empress elizabeth portrait painting",
+        "caption": "The Miracle of Brandenburg"
+      },
+      {
+        "narration": "The new Russian tsar, Peter III, was a fervent admirer of the Prussian King and immediately withdrew his armies from the fight.",
+        "search": "tsar peter iii of russia oil painting",
+        "caption": "An Unlikely Salvation"
+      },
+      {
+        "narration": "With his greatest existential threat neutralized, the survivor of Küstrin secured Prussia's status as a dominant European great power.",
+        "search": "frederick the great old age portrait painting",
+        "caption": "The Unbroken Sovereign"
+      },
+      {
+        "narration": "Following the Treaty of Hubertusburg in 1763, Frederick confronted a ravaged kingdom where entire villages had been burned and thousands of civilians had perished.",
+        "search": "prussia seven years war destruction 18th century engraving",
+        "caption": "Post war devastation across Prussia in 1763"
+      },
+      {
+        "narration": "To fund reconstruction without taking on foreign debt, the King established state monopolies on coffee and tobacco while deploying inspectors to enforce compliance.",
+        "search": "18th century tax collector prussia engraving",
+        "caption": "Direct state control over Prussian commerce and taxes"
+      },
+      {
+        "narration": "In 1772, Frederick orchestrated the First Partition of Poland alongside Austria and Russia, annexing West Prussia without firing a single shot.",
+        "search": "first partition of poland 1772 oil painting",
+        "caption": "Partition of Poland expands Prussian territory in 1772"
+      },
+      {
+        "narration": "Foreign diplomats noted that the Prussian monarch executed territorial land grabs with the same detached calculation he used to manage state grain reserves.",
+        "search": "frederick the great portrait oil painting",
+        "caption": "Strategic calculation defines Frederick foreign policy"
+      },
+      {
+        "narration": "At his secluded retreat of Sanssouci Palace in Potsdam, Frederick lived alienated from his estranged wife Elisabeth Christine in near total emotional isolation.",
+        "search": "sanssouci palace potsdam 18th century engraving",
+        "caption": "Sanssouci Palace becomes Frederick isolated sanctuary"
+      },
+      {
+        "narration": "Preferring the company of his Italian greyhounds to human courtiers, he famously declared that animals displayed a loyalty mankind continually lacked.",
+        "search": "frederick the great with greyhounds oil painting",
+        "caption": "Deep distrust of human affection following traumatic youth"
+      },
+      {
+        "narration": "When Austria attempted to absorb Bavaria in 1778, the aging monarch personally took the field in the War of the Bavarian Succession to protect Prussian power.",
+        "search": "war of the bavarian succession 1778 battle engraving",
+        "caption": "Conflict with Austria erupts again in 1778"
+      },
+      {
+        "narration": "Severe supply shortages forced both armies into logistical stagnation, earning the brutal campaign the bitter nickname of the Potato War as winter set in.",
+        "search": "18th century prussian soldiers foraging winter engraving",
+        "caption": "Logistical stalemate grinds down Prussian forces in winter"
+      },
+      {
+        "narration": "In 1778, the aging Frederick confronted his final strategic stalemate, reflecting on the brutal formative trauma that forged his iron will.",
+        "search": "Frederick the Great old age oil painting",
+        "caption": "Frederick the Great in his later years"
+      },
+      {
+        "narration": "Decades earlier in 1730 at Küstrin Fortress, the eighteen-year-old crown prince endured a living hell crafted by his own father.",
+        "search": "Kustrin Fortress 18th century historical engraving",
+        "caption": "Küstrin Fortress prison cell, 1730"
+      },
+      {
+        "narration": "King Frederick William I despised his son's obsession with French literature and the flute, demanding an austere military machine instead.",
+        "search": "King Frederick William I portrait painting",
+        "caption": "King Frederick William I, the Soldier King"
+      },
+      {
+        "narration": "To survive his father's public beatings and starvation, the young prince turned to his closest confidant, the army officer Hans Hermann von Katte.",
+        "search": "Hans Hermann von Katte officer portrait painting",
+        "caption": "Hans Hermann von Katte, confidant and co-conspirator"
+      },
+      {
+        "narration": "Desperate to escape the tyrannical abuse, the two young men plotted a daring military desertion and flight to England.",
+        "search": "18th century British royal court oil painting",
+        "caption": "The secret plan to flee to England"
+      },
+      {
+        "narration": "When intercepted border communications exposed the conspiracy in August 1730, the enraged King treated the escape as high treason.",
+        "search": "18th century Prussian military tribunal engraving",
+        "caption": "The treason investigation begins"
+      },
+      {
+        "narration": "Refusing a military court's lenient verdict, the sovereign personally ordered a public execution to punish his fleeing heir.",
+        "search": "Prussian military court martial oil painting",
+        "caption": "The King overrides the military tribunal"
+      },
+      {
+        "narration": "On November 6, 1730, guards dragged the prince to his cell window to watch his closest friend beheaded below.",
+        "search": "18th century execution sword public square engraving",
+        "caption": "The brutal execution at Küstrin Fortress"
+      },
+      {
+        "narration": "As the blade severed Hans Hermann von Katte's head, Prince Frederick collapsed unconscious onto the stone floor of Küstrin Fortress.",
+        "search": "Küstrin Fortress prison cell 18th century oil painting",
+        "caption": "Frederick collapses into darkness at Küstrin Fortress."
+      },
+      {
+        "narration": "Solitary confinement followed for months, pushing the eighteen-year-old prince to the absolute brink of psychological breakdown.",
+        "search": "eighteenth century solitary confinement prison engraving",
+        "caption": "Months of grueling isolation break the young prince."
+      },
+      {
+        "narration": "Realizing that open resistance meant certain death, Frederick executed a brilliant, chilling psychological pivot.",
+        "search": "eighteenth century Prussian courtier oil painting",
+        "caption": "Frederick adopts a mask of total obedience."
+      },
+      {
+        "narration": "He feigned complete submission to his father's relentless military doctrine, playing the role of the dutiful soldier.",
+        "search": "King Frederick William I military inspection painting",
+        "caption": "Playing the submissive son for a tyrant father."
+      },
+      {
+        "narration": "King Frederick William I took the bait, gradually restoring his surviving son to royal favor and military administrative duties.",
+        "search": "Prussian royal court eighteenth century engraving",
+        "caption": "The King slowly restores his surviving heir."
+      },
+      {
+        "narration": "Behind the mask, however, the trauma of 1730 had permanently eradicated any trace of the gentle, flute-playing boy.",
+        "search": "silver flute eighteenth century museum artifact",
+        "caption": "The gentle prince and his flute are gone forever."
+      },
+      {
+        "narration": "The brutal punishment birthed an icy, calculating ruler who viewed human beings entirely as instruments of state power.",
+        "search": "Frederick the Great mature military portrait painting",
+        "caption": "The trauma creates an icy military genius."
+      },
+      {
+        "narration": "This extreme crucible forged the ruthless sovereign who would transform Prussia into a feared European military superpower.",
+        "search": "Prussian army eighteenth century battle oil painting",
+        "caption": "The brutal crucible of Prussia's greatest king."
+      },
+      {
+        "narration": "In November 1730 at Küstrin Fortress, King Frederick William I forced his 18-year-old son to watch his best friend's execution from a cell window.",
+        "search": "Kustrin Fortress 18th century copper engraving print",
+        "caption": "Forced to watch a brutal execution from his cell"
+      },
+      {
+        "narration": "Prince Frederick screamed for mercy as Hans Hermann von Katte was decapitated directly beneath his prison view.",
+        "search": "18th century execution sword and block oil painting",
+        "caption": "The horrific execution of Hans Hermann von Katte"
+      },
+      {
+        "narration": "The traumatized prince collapsed into unconsciousness and suffered a severe psychological breakdown during solitary confinement.",
+        "search": "gloomy 18th century stone prison cell oil painting",
+        "caption": "Frederick collapses into deep psychological trauma"
+      },
+      {
+        "narration": "Recognizing that survival demanded absolute deception, Frederick began feigning complete submission to his father's harsh military demands.",
+        "search": "young Frederick the Great military uniform portrait painting",
+        "caption": "The prince learns to conceal his true nature"
+      },
+      {
+        "narration": "This extreme psychological crucible permanently altered the House of Hohenzollern heir, stripping away his passion for French philosophy and flute music.",
+        "search": "prussian royal court 1730 interior oil painting",
+        "caption": "A gentle prince forced into brutal austerity"
+      },
+      {
+        "narration": "King Frederick William I ultimately restored his surviving son to the Prussian army command, believing the torture had successfully cured his rebellion.",
+        "search": "King Frederick William I of Prussia oil painting by Pesne",
+        "caption": "The Soldier King believes his son is finally broken"
+      },
+      {
+        "narration": "Instead of breaking the young man, the 1730 trauma forged an icy, calculating military genius who viewed human beings solely as instruments of state.",
+        "search": "Frederick the Great military camp horse back oil painting",
+        "caption": "The birth of a cold and calculated strategist"
+      },
+      {
+        "narration": "The brutal punishment at Küstrin created the legendary Prussian monarch who would permanently transform European history through relentless conquest.",
+        "search": "Frederick the Great equestrian statue Berlin photograph",
+        "caption": "The brutal legacy of Frederick the Great"
+      },
+      {
+        "narration": "In November 1730, a military tribunal in Prussia reviewed the treason charges against Prince Frederick and Hans Hermann von Katte.",
+        "search": "18th century Prussian military tribunal oil painting",
+        "caption": "Military court tries Prince Frederick and Katte for treason"
+      },
+      {
+        "narration": "When the court refused to sentence Katte to death, King Frederick William I forcefully overruled the military judges.",
+        "search": "angry 18th century German king portrait painting",
+        "caption": "King Frederick William I overrules the military court"
+      },
+      {
+        "narration": "On November 6, 1730, guards dragged Katte to a scaffold directly outside the window of Küstrin Fortress.",
+        "search": "Küstrin Fortress 18th century old map engraving",
+        "caption": "Guards bring Katte to the scaffold at Küstrin Fortress"
+      },
+      {
+        "narration": "Prince Frederick was pinned to his cell window, forced to watch his closest companion face execution.",
+        "search": "imprisoned 18th century prince looking out window oil painting",
+        "caption": "Frederick forced to watch from his cell window"
+      },
+      {
+        "narration": "As the executioner's sword fell, the eighteen-year-old prince screamed for forgiveness before collapsing unconscious.",
+        "search": "18th century execution sword and block historical illustration",
+        "caption": "Frederick faints as the executioner strikes"
+      },
+      {
+        "narration": "Months of harsh solitary confinement followed, breaking the young prince's spirit and plunging him into trauma.",
+        "search": "dark 18th century prison cell oil painting",
+        "caption": "Solitary confinement breaks the young prince"
+      },
+      {
+        "narration": "Recognizing that survival required absolute deception, Frederick feigned total submission to his father's military rule.",
+        "search": "cunning 18th century crown prince portrait painting",
+        "caption": "Frederick feigns submission to survive his father"
+      },
+      {
+        "narration": "The brutal trauma at Küstrin forged the icy military genius known to history as Frederick the Great.",
+        "search": "Frederick the Great old age portrait painting timelapse",
+        "caption": "The brutal trauma that created Frederick the Great"
+      },
+      {
+        "narration": "Forced to watch his best friend beheaded by his own father.",
+        "search": "18th century execution oil painting dark dramatic lighting",
+        "caption": "The brutal punishment that broke a future king."
+      },
+      {
+        "narration": "In November 1730, eighteen-year-old Prince Frederick sat imprisoned at Küstrin Fortress under the rule of King Frederick William I.",
+        "search": "Prussian fortress stone wall 18th century engraving architecture",
+        "caption": "Küstrin Fortress, November 1730."
+      },
+      {
+        "narration": "King Frederick William I demanded hyper-military austerity, clashing violently with his son's devotion to French literature and the flute.",
+        "search": "Prussian soldier king portrait oil painting Frederick William I",
+        "caption": "King Frederick William I: The Soldier King."
+      },
+      {
+        "narration": "The tyrannical king subjected the young prince to public beatings and forced starvation to purge his refined tastes.",
+        "search": "18th century royal court interior oil painting gloomy atmosphere",
+        "caption": "A reign of domestic tyranny."
+      },
+      {
+        "narration": "Amid this abuse, Frederick found a trusted confidant in the charming and cultured army officer Hans Hermann von Katte.",
+        "search": "18th century military officer portrait painting in uniform",
+        "caption": "Hans Hermann von Katte, Frederick's closest confidant."
+      },
+      {
+        "narration": "Desperate to escape, the two young men plotted a daring nighttime desertion and flight to England.",
+        "search": "18th century horse carriage night escape old map engraving",
+        "caption": "The doomed escape plot."
+      },
+      {
+        "narration": "Botched communications exposed the conspiracy, leading to their immediate arrest and charges of high treason.",
+        "search": "18th century military guard arrest painting dramatic style",
+        "caption": "Arrested for military desertion."
+      },
+      {
+        "narration": "Enraged, the King stripped his son of his royal rank and debated executing his own heir for treason.",
+        "search": "angry 18th century monarch oil painting throne room",
+        "caption": "A father's unforgiving wrath."
+      },
+      {
+        "narration": "A military tribunal in Berlin refused to condemn Prince Frederick to death for desertion.",
+        "search": "18th century prussian military court oil painting",
+        "caption": "A military court refuses the King's death demand."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-05T20:56:14.221453+00:00",
+    "updated_at": "2026-11-05T21:36:02.796551+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-05T21:09:39.563821+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "8552 chars (cat 2152 de vua 55s)",
+        "at": "2026-11-05T21:10:46.059189+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "523.9s en-US-GuyNeural 66 cau",
+        "at": "2026-11-05T21:11:56.234318+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-05T21:12:07.549542+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 89 images",
+        "at": "2026-11-05T21:26:23.421919+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-05T21:26:23.513382+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 523.9s 279092743 bytes",
+        "at": "2026-11-05T21:36:02.270913+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "10 chapters",
+        "at": "2026-11-05T21:36:02.482926+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-05T21:36:02.796533+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39205319/pexels-photo-39205319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7018445/pexels-photo-7018445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22690827/pexels-photo-22690827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8439562/pexels-photo-8439562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7296/building-historical-cannons.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37614284/pexels-photo-37614284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10475178/pexels-photo-10475178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9847439/pexels-photo-9847439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27570262/pexels-photo-27570262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31922540/pexels-photo-31922540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6483675/pexels-photo-6483675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18339292/pexels-photo-18339292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25811509/pexels-photo-25811509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7235911/pexels-photo-7235911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412596/pexels-photo-29412596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14597234/pexels-photo-14597234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4762169/pexels-photo-4762169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16356265/pexels-photo-16356265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6607752/pexels-photo-6607752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27975697/pexels-photo-27975697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19075966/pexels-photo-19075966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268912/pexels-photo-9268912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30297617/pexels-photo-30297617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17379570/pexels-photo-17379570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412595/pexels-photo-29412595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386773/pexels-photo-35386773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963896/pexels-photo-8963896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14638945/pexels-photo-14638945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/51191/stack-letters-letter-handwriting-family-letters-51191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11077392/pexels-photo-11077392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268688/pexels-photo-9268688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20697387/pexels-photo-20697387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397731/pexels-photo-16397731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563539/pexels-photo-16563539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9864193/pexels-photo-9864193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29255447/pexels-photo-29255447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11702436/pexels-photo-11702436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3793689/pexels-photo-3793689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8172590/pexels-photo-8172590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12325252/pexels-photo-12325252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38194478/pexels-photo-38194478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412595/pexels-photo-29412595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37662178/pexels-photo-37662178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20035566/pexels-photo-20035566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6432802/pexels-photo-6432802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268687/pexels-photo-9268687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12097686/pexels-photo-12097686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885621/pexels-photo-7885621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7040685/pexels-photo-7040685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31721372/pexels-photo-31721372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34134763/pexels-photo-34134763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6752319/pexels-photo-6752319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29420875/pexels-photo-29420875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268594/pexels-photo-9268594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268589/pexels-photo-9268589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/949081/pexels-photo-949081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10474995/pexels-photo-10474995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397773/pexels-photo-16397773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11527061/pexels-photo-11527061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29420871/pexels-photo-29420871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12400787/pexels-photo-12400787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34332117/pexels-photo-34332117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268735/pexels-photo-9268735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32048235/pexels-photo-32048235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15468917/pexels-photo-15468917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10473675/pexels-photo-10473675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728525/pexels-photo-6728525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13536172/pexels-photo-13536172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36046257/pexels-photo-36046257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6408684/pexels-photo-6408684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35977442/pexels-photo-35977442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19075966/pexels-photo-19075966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15047884/pexels-photo-15047884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5302525/pexels-photo-5302525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28904349/pexels-photo-28904349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39526265/pexels-photo-39526265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40415582/pexels-photo-40415582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6834845/pexels-photo-6834845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38685087/pexels-photo-38685087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21136421/pexels-photo-21136421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31875101/pexels-photo-31875101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5370065/pexels-photo-5370065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37501924/pexels-photo-37501924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269083/pexels-photo-9269083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29003857/pexels-photo-29003857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386773/pexels-photo-35386773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13315004/pexels-photo-13315004.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728537/pexels-photo-6728537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "41bacf4a46",
     "kind": "short",
     "channel": "Channel3",
