@@ -1,5 +1,167 @@
 [
   {
+    "id": "691ab6bf9f",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật: Cơ thể bạn đang âm thầm tự phát sáng trong đêm",
+    "idea": {
+      "title": "Bí mật: Cơ thể bạn đang âm thầm tự phát sáng trong đêm",
+      "hook": "Nghe có vẻ hư cấu, nhưng cơ thể bạn thực sự đang tỏa ra ánh sáng rực rỡ trong bóng tối mà mắt thường không thể nhìn thấy.",
+      "beats": [
+        "Các phản ứng hóa học từ quá trình trao đổi chất liên tục giải phóng các hạt photon ánh sáng.",
+        "Cường độ ánh sáng này yếu hơn 1.000 lần so với ngưỡng cảm nhận tối thiểu của mắt người.",
+        "Máy ảnh siêu nhạy ghi nhận vùng mặt và cổ phát sáng mạnh nhất vào khoảng 4 giờ chiều.",
+        "Đây là bằng chứng trực tiếp cho thấy ngọn lửa năng lượng sống đang liên tục cháy bên trong bạn."
+      ],
+      "keywords": [
+        "human body glowing",
+        "thermal camera bioluminescence",
+        "light photon microscopic",
+        "human heat signature",
+        "glowing in dark"
+      ],
+      "tags": [
+        "#channel3",
+        "#khoahoc",
+        "#cothenguoi",
+        "#suthatkyla",
+        "#khampha"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cơ thể bạn đang tự phát sáng ngay lúc này.",
+        "search": "3d animation co the nguoi phat sang trong dem",
+        "caption": "Cơ thể bạn đang tự phát sáng ngay lúc này"
+      },
+      {
+        "narration": "Nghe như hư cấu, nhưng đây là thực tế sinh học đang diễn ra 24/7.",
+        "search": "explainer animation te bao giai phong nang luong 3d render",
+        "caption": "Thực tế sinh học diễn ra liên tục 24/7"
+      },
+      {
+        "narration": "Mọi phản ứng trao đổi chất bên trong tế bào đều liên tục giải phóng các hạt photon.",
+        "search": "motion graphics hat photon phat sang trong te bao",
+        "caption": "Phản ứng tế bào liên tục giải phóng hạt photon"
+      },
+      {
+        "narration": "Vậy tại sao bạn lại chỉ thấy một khoảng tối đen khi tắt đèn đi ngủ?",
+        "search": "3d animation nguoi nam tren giuong phong toi",
+        "caption": "Tại sao tắt đèn mắt thường không nhìn thấy?"
+      },
+      {
+        "narration": "Lý do là ánh sáng này yếu hơn 1.000 lần so với ngưỡng cảm nhận của mắt người.",
+        "search": "explainer animation con mat nguoi va tia anh sang",
+        "caption": "Yếu hơn 1.000 lần ngưỡng cảm nhận mắt người"
+      },
+      {
+        "narration": "Các nhà khoa học phải dùng máy ảnh siêu nhạy đặc biệt mới ghi lại được.",
+        "search": "3d animation may anh quet co the nguoi",
+        "caption": "Máy ảnh siêu nhạy mới ghi nhận được"
+      },
+      {
+        "narration": "Kỳ lạ hơn, cường độ phát sáng không cố định mà thay đổi theo nhịp sinh học.",
+        "search": "motion graphics dong ho sinh hoc xoay 24 gio",
+        "caption": "Cường độ phát sáng thay đổi theo nhịp sinh học"
+      },
+      {
+        "narration": "Khuôn mặt và vùng cổ của bạn chính là nơi phát sáng mạnh nhất vào 4 giờ chiều.",
+        "search": "3d animation khuon mat va co phat sang aura",
+        "caption": "Vùng mặt phát sáng mạnh nhất lúc 4 giờ chiều"
+      },
+      {
+        "narration": "Các phản ứng hóa học từ quá trình trao đổi chất liên tục giải phóng các hạt photon ánh sáng.",
+        "search": "3d animation human cells glowing photon particles motion graphics",
+        "caption": "Tế bào liên tục giải phóng hạt photon ánh sáng"
+      },
+      {
+        "narration": "Cường độ ánh sáng này yếu hơn một nghìn lần so với ngưỡng cảm nhận tối thiểu của mắt người.",
+        "search": "explainer animation human silhouette glowing faint light effect",
+        "caption": "Ánh sáng quá yếu để mắt người nhìn thấy"
+      },
+      {
+        "narration": "Máy ảnh siêu nhạy ghi nhận vùng mặt và cổ phát sáng mạnh nhất vào khoảng bốn giờ chiều.",
+        "search": "isometric render face and neck glowing heat map thermal",
+        "caption": "Mặt và cổ phát sáng mạnh nhất lúc 4 giờ chiều"
+      },
+      {
+        "narration": "Đây là bằng chứng trực tiếp cho thấy ngọn lửa năng lượng sống đang liên tục cháy bên trong bạn.",
+        "search": "cartoony 3d glowing energy inside human body loop animation",
+        "caption": "Năng lượng sống luôn cháy âm thầm bên trong"
+      },
+      {
+        "narration": "Cơ thể bạn tự phát sáng trong đêm do phản ứng trao đổi chất sinh học.",
+        "search": "human body glowing in dark bioluminescence motion graphics",
+        "caption": "Cơ thể bạn thực sự đang tự phát sáng"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-05T07:16:23.402121+00:00",
+    "updated_at": "2026-11-05T07:21:43.223383+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-05T07:18:19.283015+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 181 de vua 55s)",
+        "at": "2026-11-05T07:19:22.187862+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.7s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-05T07:19:31.261972+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-05T07:19:32.008251+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-05T07:21:01.709500+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-05T07:21:01.779617+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.7s 46396902 bytes",
+        "at": "2026-11-05T07:21:42.948943+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-05T07:21:43.223364+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/26529309/11956504_1080_1920_12fps.mp4",
+      "https://videos.pexels.com/video-files/8048488/8048488-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39373510/16762161_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/3682812/3682812-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107114/13688592_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/28733290/12464590_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/17555904/17555904-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39888691/17011674_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35459805/15023256_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39872700/17004021_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34342926/14549303_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35066823/14854008_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/30358742/13012831_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "59483d5580",
     "kind": "short",
     "channel": "Channel2",
