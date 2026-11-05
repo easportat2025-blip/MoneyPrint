@@ -1,4 +1,4 @@
-# Daily ping 04/11/2026
+# Daily ping 05/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -13,15 +13,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Tại sao đứng yên trên nền bê tông khiến bạn mệt gấp đôi :: token refresh failed: 400 {
+- Bí mật: Cơ thể bạn đang âm thầm tự phát sáng trong đêm :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- Why a King Executed the Architect Who Built His Masterp :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
-- Why a Roman General Executed His Son for Winning :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
-}
-- Why King Pyrrhus Wept After Winning His Greatest Battle :: token refresh failed: 400 {
+- Why Ivan the Terrible Blinded His Own Architects :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Token has been expired or revoked."
 }
