@@ -1,5 +1,167 @@
 [
   {
+    "id": "45e8219951",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Nghịch lý: Uống cà phê trước khi ngủ trưa giúp tỉnh gấp đôi",
+    "idea": {
+      "title": "Nghịch lý: Uống cà phê trước khi ngủ trưa giúp tỉnh gấp đôi",
+      "hook": "Bạn nghĩ uống cà phê ngay trước khi nhắm mắt ngủ trưa sẽ gây mất ngủ? Sự thật ngược đời là não bạn đang cần chính sự kết hợp kỳ lạ này.",
+      "beats": [
+        "Chất Adenosine tích tụ suốt buổi sáng khiến não bạn cảm thấy mệt mỏi và buồn ngủ.",
+        "Giấc ngủ ngắn 20 phút hoạt động như chiếc máy hút bụi, dọn sạch Adenosine khỏi các thụ thể thần kinh.",
+        "Caffeine cần đúng 20 phút để ngấm vào máu và chiếm lấy các thụ thể vừa được dọn trống.",
+        "Bạn thức dậy đúng thời điểm Caffeine phát huy tác dụng tối đa, tạo ra bước nhảy năng lượng gấp đôi."
+      ],
+      "keywords": [
+        "person sleeping on office desk",
+        "pouring cup of hot coffee",
+        "brain neuron synapse animation",
+        "alarm clock ringing close up",
+        "person waking up energetic"
+      ],
+      "tags": [
+        "#Channel3",
+        "#MeoNguNgon",
+        "#CaPhe",
+        "#SucKhoe",
+        "#MeoCongViec"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cà phê trước giấc ngủ trưa giúp tỉnh gấp đôi.",
+        "search": "3d animation person sleeping on office desk coffee cup",
+        "caption": "Uống cà phê trước ngủ trưa giúp tỉnh gấp đôi?"
+      },
+      {
+        "narration": "Nghe có vẻ ngược đời, nhưng việc nạp caffeine rồi nhắm mắt lại tạo ra hiệu ứng kỳ diệu cho não bộ.",
+        "search": "3d animation pouring cup of hot coffee espresso",
+        "caption": "Nghe ngược đời nhưng cực kỳ hiệu quả"
+      },
+      {
+        "narration": "Mỗi sáng làm việc, não bạn liên tục tích tụ một chất gây mệt mỏi gọi là Adenosine.",
+        "search": "3d motion graphics brain neuron synapse animation",
+        "caption": "Tích tụ Adenosine khiến não mệt mỏi"
+      },
+      {
+        "narration": "Chất này bám chặt vào các thụ thể thần kinh, khiến mi mắt nặng trĩu và kéo năng lượng xuống đáy.",
+        "search": "explainer animation chemical receptor molecule binding",
+        "caption": "Adenosine bám vào thụ thể gây buồn ngủ"
+      },
+      {
+        "narration": "Nếu chỉ uống cà phê thông thường, caffeine phải chật vật vật lộn để tranh chỗ với Adenosine.",
+        "search": "3d graphic human brain glowing red fatigue animation",
+        "caption": "Caffeine khó chen chân khi thụ thể đầy"
+      },
+      {
+        "narration": "Nhưng một giấc ngủ ngắn đúng 20 phút lại hoạt động như một chiếc máy hút bụi.",
+        "search": "3d loop animation digital clock ringing alarm",
+        "caption": "Giấc ngủ 20 phút là chiếc máy hút bụi"
+      },
+      {
+        "narration": "Nó dọn sạch Adenosine khỏi các thụ thể thần kinh đúng lúc bạn thiếp đi.",
+        "search": "3d animation vacuum cleaner sweeping glowing particles",
+        "caption": "Dọn sạch Adenosine khỏi thụ thể thần kinh"
+      },
+      {
+        "narration": "Caffeine vừa ngấm vào máu sau 20 phút sẽ chiếm trọn thụ thể trống, tạo ra bước nhảy năng lượng gấp đôi.",
+        "search": "3d animation person waking up energetic desk smile",
+        "caption": "Caffeine chiếm thụ thể trống tạo năng lượng gấp đôi"
+      },
+      {
+        "narration": "Nhưng quy tắc vàng là bạn phải uống cà phê thật nhanh và bấm giờ báo thức đúng 20 phút.",
+        "search": "nguoi uong ly ca phe den o van phong hoat hinh 3d",
+        "caption": "Uống nhanh và đặt báo thức đúng 20 phút"
+      },
+      {
+        "narration": "Nếu ngủ quá 30 phút, cơ thể chìm vào ngủ sâu khiến bạn tỉnh dậy mệt mỏi và lờ đờ hơn.",
+        "search": "dong ho bao thuc reng chuong va nguoi tinh giac met moi hoat hinh 3d",
+        "caption": "Ngủ quá 30 phút khiến bạn mệt mỏi hơn"
+      },
+      {
+        "narration": "Đúng 20 phút là thời điểm não vừa dọn sạch rác thần kinh, còn caffeine chạm đỉnh hấp thụ.",
+        "search": "mo phang nao bo va dong dien phat sang hoat hinh 3d",
+        "caption": "20 phút là thời điểm caffeine chạm đỉnh"
+      },
+      {
+        "narration": "Hãy dùng một ly espresso hoặc cà phê đen ít đường để caffeine đi vào máu nhanh nhất.",
+        "search": "ly ca phe espresso nong tren ban lam viec hoat hinh 3d",
+        "caption": "Dùng espresso hoặc cà phê đen ít đường"
+      },
+      {
+        "narration": "Áp dụng ngay mẹo Coffee Nap này trưa nay để x3 năng lượng làm việc suốt cả chiều.",
+        "search": "nguoi lam viec van phong tinh tao nang luong vui ve hoat hinh 3d",
+        "caption": "Thử ngay Coffee Nap để x3 năng lượng"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T07:07:23.104013+00:00",
+    "updated_at": "2026-11-06T07:10:12.171287+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-06T07:08:00.005191+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "527 chars (cat 53 de vua 55s)",
+        "at": "2026-11-06T07:08:19.498147+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.9s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-11-06T07:08:41.285668+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T07:08:42.650341+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-06T07:09:00.304194+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-06T07:09:00.415446+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.9s 27144270 bytes",
+        "at": "2026-11-06T07:10:11.762166+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T07:10:12.171268+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/28645435/12441399_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/33563650/14269423_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34884520/14779529_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8325962/8325962-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727459/16727459-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8273572/8273572-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/10048559/10048559-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6930643/6930643-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/35713058/15135753_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7942935/7942935-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/19797283/19797283-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6170312/6170312-uhd_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "0c772ec6af",
     "kind": "short",
     "channel": "Channel2",
