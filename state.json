@@ -1,5 +1,167 @@
 [
   {
+    "id": "7d6473e6df",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật: Dán camera laptop vẫn không ngăn được hacker nghe lén",
+    "idea": {
+      "title": "Bí mật: Dán camera laptop vẫn không ngăn được hacker nghe lén",
+      "hook": "Bạn nghĩ dán kín camera laptop là an toàn tuyệt đối? Hacker thực ra không cần nhìn bạn, họ chỉ cần thứ này.",
+      "beats": [
+        "Hacker hiếm khi quan tâm đến hình ảnh webcam vì nó chiếm dung lượng dữ liệu lớn và dễ bị phát hiện.",
+        "Microphone tích hợp trên laptop luôn hoạt động âm thầm mà không hề có đèn LED báo hiệu như webcam.",
+        "Mã độc có thể bí mật ghi âm mọi cuộc trò chuyện riêng tư và thậm chí phân tích tiếng gõ bàn phím của bạn 24/7.",
+        "Chỉ dán camera là chưa đủ, bạn phải tắt quyền truy cập micro trong phần cài đặt quyền riêng tư của hệ điều hành."
+      ],
+      "keywords": [
+        "laptop webcam hack",
+        "cyber security awareness",
+        "laptop microphone spy",
+        "hacker typing code",
+        "privacy protection phone laptop"
+      ],
+      "tags": [
+        "#Channel3",
+        "#meomaytinh",
+        "#anmang",
+        "#congnghe",
+        "#suthatbimat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Dán kín camera laptop vẫn không giúp bạn an toàn.",
+        "search": "hoat hinh 3d dan bang keo camera laptop",
+        "caption": "Dán camera laptop vẫn bị nghe lén?"
+      },
+      {
+        "narration": "Đa số hacker thực ra chẳng hề quan tâm đến hình ảnh webcam của bạn.",
+        "search": "hoat hinh 3d camera laptop den do nhap nhay",
+        "caption": "Hacker không hề quan tâm hình ảnh webcam"
+      },
+      {
+        "narration": "Dữ liệu video ngốn dung lượng quá lớn và rất dễ bị hệ điều hành phát hiện.",
+        "search": "do hoa chuyen dong thanh dung luong du lieu may tinh",
+        "caption": "Video tốn dung lượng và dễ bị phát hiện"
+      },
+      {
+        "narration": "Thứ họ thực sự nhắm đến lại là chiếc micro tích hợp ngay bên cạnh.",
+        "search": "mo hinh 3d micro laptop song am thanh",
+        "caption": "Mục tiêu thực sự là micro tích hợp"
+      },
+      {
+        "narration": "Khác với webcam, micro laptop hoạt động âm thầm mà không hề có đèn báo hiệu.",
+        "search": "hoat hinh 3d micro may tinh khong den bao",
+        "caption": "Micro hoạt động âm thầm không đèn báo"
+      },
+      {
+        "narration": "Mã độc có thể lén ghi âm mọi cuộc trò chuyện riêng tư của bạn liên tục 24/7.",
+        "search": "nhan vat 3d noi chuyen canh laptop song am",
+        "caption": "Mã độc ghi âm trò chuyện riêng tư 24/7"
+      },
+      {
+        "narration": "Nguy hiểm hơn, AI hiện nay còn phân tích được tiếng gõ bàn phím để đọc mật khẩu.",
+        "search": "do hoa ban tay go ban phim may tinh ma doc",
+        "caption": "AI nghe tiếng gõ bàn phím dò mật khẩu"
+      },
+      {
+        "narration": "Hãy vào ngay phần cài đặt quyền riêng tư trên laptop để tắt quyền truy cập micro.",
+        "search": "hoat hinh 3d man hinh cai dat quyen rieng tu laptop tat micro",
+        "caption": "Tắt quyền truy cập micro trong cài đặt ngay"
+      },
+      {
+        "narration": "Bạn dán kín webcam nhưng hacker chưa từng cần nhìn thấy mặt bạn. Dung lượng video quá nặng khiến việc lén quay hình rất dễ bị phát hiện.",
+        "search": "hoat hinh 3d laptop bi dan bang keo den",
+        "caption": "Hacker khong can hinh anh webcam cua ban"
+      },
+      {
+        "narration": "Ngược lại, micro trên laptop không hề có đèn LED báo hiệu khi đang hoạt động. Hacker có thể âm thầm bật ghi âm mà bạn không hề hay biết.",
+        "search": "3d animation micro laptop phat song am thanh",
+        "caption": "Micro ghi am ngam khong co den bao"
+      },
+      {
+        "narration": "Dung lượng tệp âm thanh cực kỳ nhẹ, giúp mã độc dễ dàng gửi toàn bộ cuộc trò chuyện riêng tư của bạn về máy chủ hacker 24/7.",
+        "search": "motion graphics du lieu am thanh gui qua internet",
+        "caption": "Du lieu am thanh nhe va truyen 24/7"
+      },
+      {
+        "narration": "Nguy hiểm hơn, công nghệ AI hiện nay còn phân tích được tần số tiếng gõ bàn phím để đọc chính xác mật khẩu tài khoản của bạn.",
+        "search": "3d animation ban phim laptop va thuat toan ai",
+        "caption": "AI do mat khau qua tieng go phim"
+      },
+      {
+        "narration": "Để tự bảo vệ, hãy vào ngay phần Cài đặt quyền riêng tư trên máy tính và tắt triệt để quyền truy cập Micro của các ứng dụng không cần thiết.",
+        "search": "hoat hinh isometric cai dat bao mat laptop",
+        "caption": "Tat quyen micro trong cai dat privacy ngay"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T19:46:24.794583+00:00",
+    "updated_at": "2026-11-06T19:48:39.400566+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-06T19:46:54.173639+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "539 chars (cat 40 de vua 55s)",
+        "at": "2026-11-06T19:47:06.314465+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-06T19:47:14.559278+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T19:47:15.919354+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-06T19:47:35.890668+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-06T19:47:36.001293+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.9s 15917623 bytes",
+        "at": "2026-11-06T19:48:38.992921+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T19:48:39.400547+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7610984/7610984-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7126537/7126537-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/3832200/3832200-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7586635/7586635-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/7803275/7803275-hd_1080_1620_20fps.mp4",
+      "https://videos.pexels.com/video-files/6612143/6612143-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/32276633/13764932_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40547953/17324206_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/12130675/12130675-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40822583/17442390_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/35304590/14957716_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/19162269/19162269-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/34771082/14741664_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "61bf564741",
     "kind": "short",
     "channel": "Channel3",
