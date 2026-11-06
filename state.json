@@ -1,5 +1,161 @@
 [
   {
+    "id": "4523094de1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Mad Honey Wiped Out 3 Roman Squads",
+    "idea": {
+      "title": "How Mad Honey Wiped Out 3 Roman Squads",
+      "hook": "In 67 BC, Roman General Pompey’s soldiers found pots of sweet honey left along the road, unaware it was a deadly trap.",
+      "beats": [
+        "King Mithridates' retreat forces placed pots of toxic rhododendron honey along the advancing Roman army's path.",
+        "Hungry Roman legionnaires devoured the honeycomb and quickly lost control of their speech, balance, and senses.",
+        "While over 1,000 Roman troops lay paralyzed and vomiting on the ground, local enemy warriors ambushed and slaughtered them effortlessly.",
+        "This disaster became history's earliest recorded instance of biological war poison defeating a Roman legion."
+      ],
+      "keywords": [
+        "ancient roman soldiers illustration",
+        "oil painting battle historical",
+        "vintage map pontus black sea",
+        "ancient Greek Roman weapons artwork",
+        "historical parchment background texture"
+      ],
+      "tags": [
+        "human history",
+        "ancient rome",
+        "military history",
+        "weird history",
+        "ancient warfare"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Sweet honey once slaughtered over one thousand Roman soldiers.",
+        "search": "ancient roman soldiers oil painting battle",
+        "caption": "How sweet honey destroyed a Roman army."
+      },
+      {
+        "narration": "In 67 BC, Roman General Pompey led three cohorts deep into the hostile territory of Pontus.",
+        "search": "Pompey the Great bust statue sculpture",
+        "caption": "67 BC: General Pompey marches into Pontus."
+      },
+      {
+        "narration": "King Mithridates VI was retreating, but his local allies prepared an insidious biological trap.",
+        "search": "Mithridates VI Pontus coin portrait ancient silver",
+        "caption": "King Mithridates VI prepared an insidious trap."
+      },
+      {
+        "narration": "They collected honey made from local toxic rhododendron flowers and left jars along the mountain path.",
+        "search": "vintage map pontus black sea historical engraving",
+        "caption": "Toxic rhododendron honey was placed along the route."
+      },
+      {
+        "narration": "Exhausted and hungry, Pompey's advancing legionnaires discovered the sweet bounty and eagerly devoured it.",
+        "search": "ancient roman legionnaires marching historical oil painting",
+        "caption": "Exhausted legionnaires devoured the abandoned honey."
+      },
+      {
+        "narration": "Within minutes, neurotoxins in the mad honey caused severe delirium, vomiting, and complete loss of speech.",
+        "search": "ancient Greek Roman weapons artwork historical parchment",
+        "caption": "Neurotoxins rapidly paralyzed over 1,000 soldiers."
+      },
+      {
+        "narration": "Unable to stand or wield their weapons, over a thousand Roman troops collapsed helpless on the ground.",
+        "search": "fallen ancient roman army battle historical oil painting",
+        "caption": "Over 1,000 troops lay completely helpless."
+      },
+      {
+        "narration": "As the poisoned legionnaires lay incapacitated, enemy mountain warriors emerged from the ridge to strike.",
+        "search": "ancient mountain warriors battle oil painting historical",
+        "caption": "Enemy warriors struck as the poison took effect."
+      },
+      {
+        "narration": "The local Heptakometai tribesmen descended upon the helpless troops, slaughtering over one thousand Roman legionnaires without taking a single casualty.",
+        "search": "ancient roman battle oil painting",
+        "caption": "Tribesmen slaughtered over 1,000 paralyzed Roman soldiers with zero resistance."
+      },
+      {
+        "narration": "General Pompey's campaign was crippled, forced into retreat by a weapon made entirely of toxic nectar.",
+        "search": "Gnaeus Pompeius Magnus Roman bust statue",
+        "caption": "Pompey's campaign suffered a humiliating blow from toxic honey."
+      },
+      {
+        "narration": "Documented by Strabo, this 67 BC disaster stands as history's earliest recorded defeat of a Roman army by biological warfare.",
+        "search": "ancient parchment manuscript texture illustration",
+        "caption": "This 67 BC ambush became history's earliest recorded biological warfare victory."
+      },
+      {
+        "narration": "In 67 BC, Roman General Pompey encountered a deadly trap of sweet honey.",
+        "search": "ancient roman soldiers illustration",
+        "caption": "How honey wiped out three Roman squads"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T07:51:06.837925+00:00",
+    "updated_at": "2026-11-06T07:54:12.614618+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-06T07:51:32.190279+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "345 chars (cat 366 de vua 55s)",
+        "at": "2026-11-06T07:52:05.133448+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.7s en-US-GuyNeural 5 cau",
+        "at": "2026-11-06T07:52:10.481962+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T07:52:11.480320+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-06T07:53:27.167528+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T07:53:27.276049+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.7s 13447135 bytes",
+        "at": "2026-11-06T07:54:12.102495+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T07:54:12.614600+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35663053/pexels-photo-35663053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4044110/pexels-photo-4044110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8969168/pexels-photo-8969168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26792226/pexels-photo-26792226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11904829/pexels-photo-11904829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35552016/pexels-photo-35552016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22840949/pexels-photo-22840949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8968527/pexels-photo-8968527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15373004/pexels-photo-15373004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20392476/pexels-photo-20392476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "45e8219951",
     "kind": "short",
     "channel": "Channel3",
