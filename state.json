@@ -1,5 +1,162 @@
 [
   {
+    "id": "3c92a3d91b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a French King Was Killed by a Rogue Pig",
+    "idea": {
+      "title": "Why a French King Was Killed by a Rogue Pig",
+      "hook": "In 1131, the 16-year-old heir to the French throne was killed by a stray black pig, altering royal history forever.",
+      "beats": [
+        "Prince Philip of France was riding through Paris when a runaway pig dashed between his horse’s legs.",
+        "The startled horse tumbled, throwing Philip onto a pile of stone rubble and crushing his torso.",
+        "He died hours later, forcing King Louis VI to crown his unprepared younger son, Louis VII.",
+        "Louis VII’s disastrous marriage to Eleanor of Aquitaine later triggered centuries of bloody war with England."
+      ],
+      "keywords": [
+        "medieval paris painting",
+        "king louis vi portrait",
+        "french knight horse engraving",
+        "medieval street illustration",
+        "eleanor of aquitaine portrait"
+      ],
+      "tags": [
+        "history",
+        "medieval history",
+        "french monarchy",
+        "bizarre history",
+        "history documentary",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A single runaway pig destroyed the French monarchy.",
+        "search": "medieval street painting",
+        "caption": "A rogue pig altered European history forever."
+      },
+      {
+        "narration": "This forgotten livestock accident ignited centuries of bloody Anglo-French warfare.",
+        "search": "hundred years war battlefield oil painting",
+        "caption": "Centuries of war started with an accident."
+      },
+      {
+        "narration": "On October 13, 1131, sixteen-year-old Prince Philip rode through Paris.",
+        "search": "prince philip medieval knight engraving",
+        "caption": "October 1131: Prince Philip rides through Paris."
+      },
+      {
+        "narration": "As co-king alongside his father, King Louis VI, Philip was set to rule France.",
+        "search": "king louis vi of france portrait painting",
+        "caption": "Louis VI groomed his eldest son to rule."
+      },
+      {
+        "narration": "Suddenly, a stray black pig bolted directly between his horse's legs.",
+        "search": "medieval horse rearing engraving",
+        "caption": "A stray black pig dashed under the horse."
+      },
+      {
+        "narration": "The frightened stallion tripped, violently throwing the young prince to the cobbled street.",
+        "search": "medieval knight falling from horse painting",
+        "caption": "The horse tumbled, throwing Philip violently."
+      },
+      {
+        "narration": "The heavy horse crashed directly onto Philip's torso, crushing his ribs.",
+        "search": "medieval royal deathbed manuscript illustration",
+        "caption": "The heavy horse crushed the young prince."
+      },
+      {
+        "narration": "Philip died hours later, leaving King Louis the Sixth utterly devastated.",
+        "search": "king louis vi of france statue bust",
+        "caption": "Philip died, leaving his father without a trained heir."
+      },
+      {
+        "narration": "King Louis the Sixth rushed to crown his younger, unprepared son, who would become Louis the Seventh.",
+        "search": "king louis vi portrait painting",
+        "caption": "Crown passed to unprepared Louis VII"
+      },
+      {
+        "narration": "Louis the Seventh's disastrous marriage to Eleanor of Aquitaine later triggered centuries of bloody war with England.",
+        "search": "eleanor of aquitaine portrait manuscript",
+        "caption": "Disastrous marriage sparked centuries of war"
+      },
+      {
+        "narration": "A single runaway beast in the streets of medieval Paris permanently altered the fate of two nations.",
+        "search": "medieval street illustration manuscript",
+        "caption": "A rogue pig changed European history forever"
+      },
+      {
+        "narration": "In 1131, a stray pig killed a French king.",
+        "search": "medieval paris painting",
+        "caption": "How a rogue pig altered French history forever."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T23:52:50.960839+00:00",
+    "updated_at": "2026-11-06T23:56:03.814126+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-06T23:53:45.077523+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "388 chars (cat 235 de vua 55s)",
+        "at": "2026-11-06T23:54:00.130824+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.1s en-US-GuyNeural 7 cau",
+        "at": "2026-11-06T23:54:03.199749+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T23:54:04.210484+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-06T23:55:20.488042+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T23:55:20.579894+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.1s 19525893 bytes",
+        "at": "2026-11-06T23:56:03.412070+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T23:56:03.814106+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38202814/pexels-photo-38202814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412598/pexels-photo-29412598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17709922/pexels-photo-17709922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28408528/pexels-photo-28408528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14508484/pexels-photo-14508484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39487439/pexels-photo-39487439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38811785/pexels-photo-38811785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16177268/pexels-photo-16177268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6207364/pexels-photo-6207364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34144674/pexels-photo-34144674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40083946/pexels-photo-40083946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "094fc9ea60",
     "kind": "short",
     "channel": "Channel2",
