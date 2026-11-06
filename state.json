@@ -1,5 +1,161 @@
 [
   {
+    "id": "0c772ec6af",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman Consul Sacrificed Himself to the Gods",
+    "idea": {
+      "title": "Why a Roman Consul Sacrificed Himself to the Gods",
+      "hook": "In 340 BC, Roman consul Decius Mus performed a dark ritual, charging alone into thousands of enemies to guarantee Rome's victory.",
+      "beats": [
+        "Faced with a devastating battle against the Latins, Decius Mus invoked the ancient Roman ritual of devotio.",
+        "He solemnly bound his own soul to the gods of the underworld in exchange for the total destruction of the enemy.",
+        "Veiled in a black cloak, he charged at full speed into the densest enemy ranks completely alone.",
+        "His shocking sacrifice terrified the Latin army, inspiring Roman troops to rally and crush the enemy forces."
+      ],
+      "keywords": [
+        "Publius Decius Mus",
+        "ancient Rome battle painting",
+        "Roman consul bust",
+        "Latin War engraving",
+        "Roman legion statue"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#militaryhistory",
+        "#shorts",
+        "#romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 340 BC, one Roman consul doomed himself for victory.",
+        "search": "ancient Roman legion battle oil painting",
+        "caption": "In 340 BC, one Roman consul doomed himself for victory."
+      },
+      {
+        "narration": "During the Latin War, Rome faced total annihilation near Mount Vesuvius.",
+        "search": "ancient Latin War map illustration",
+        "caption": "Rome faced total annihilation against enemy Latin forces."
+      },
+      {
+        "narration": "Consul Publius Decius Mus watched the Roman army line begin to collapse.",
+        "search": "Publius Decius Mus Roman consul bust statue",
+        "caption": "Consul Publius Decius Mus watched his army line collapse."
+      },
+      {
+        "narration": "Desperate, he invoked devotio, a dark ritual of self-sacrifice.",
+        "search": "ancient Roman ritual priest sacrifice engraving",
+        "caption": "He invoked devotio, a dark ritual of self-sacrifice."
+      },
+      {
+        "narration": "The high priest dictated sacred curses binding Decius to underworld gods.",
+        "search": "ancient Roman pontifex priest toga illustration",
+        "caption": "Sacred curses bound his soul to underworld gods."
+      },
+      {
+        "narration": "Veiled in a dark cloak, Decius mounted his horse and charged alone.",
+        "search": "Publius Decius Mus battle charge oil painting",
+        "caption": "Veiled in dark robes, he charged enemy ranks alone."
+      },
+      {
+        "narration": "His suicidal charge struck terror into the enemy, breaking their morale.",
+        "search": "ancient Roman infantry combat battle engraving",
+        "caption": "His suicidal charge struck panic into enemy ranks."
+      },
+      {
+        "narration": "Inspired by his death, Roman troops rallied and annihilated the enemy.",
+        "search": "ancient Rome victory army battle oil painting",
+        "caption": "His supreme sacrifice secured Rome's decisive victory."
+      },
+      {
+        "narration": "The decisive Roman victory at the Battle of Vesuvius in 340 BC shattered the Latin League, forcing the defeated cities under permanent Roman dominion.",
+        "search": "Latin War ancient Rome map engraving",
+        "caption": "Rome crushed the Latin League in 340 BC."
+      },
+      {
+        "narration": "Decius Mus established a family tradition of ultimate loyalty, leading both his son and grandson to perform the exact same sacrifice in later wars.",
+        "search": "Publius Decius Mus roman consul bust statue descendants",
+        "caption": "His descendants repeated the sacrificial ritual in future wars."
+      },
+      {
+        "narration": "By trading one consul's life to the gods of the underworld for victory, Rome forged a terrifying culture of self-sacrifice that powered its rise to empire.",
+        "search": "ancient Roman legion triumph oil painting",
+        "caption": "One consul's sacrifice built the ultimate empire."
+      },
+      {
+        "narration": "One Roman general willingly doomed his soul to save Rome.",
+        "search": "publius decius mus roman consul bust statue",
+        "caption": "A general doomed his own soul for Rome"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T02:40:54.153039+00:00",
+    "updated_at": "2026-11-06T02:43:27.743797+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-06T02:41:16.942239+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "371 chars (cat 247 de vua 55s)",
+        "at": "2026-11-06T02:41:29.548760+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-06T02:41:33.169630+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T02:41:34.185546+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-06T02:42:38.833921+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T02:42:38.944317+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.4s 15922118 bytes",
+        "at": "2026-11-06T02:43:27.336439+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T02:43:27.743778+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7966865/pexels-photo-7966865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708772/pexels-photo-35708772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33354015/pexels-photo-33354015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10746515/pexels-photo-10746515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14988911/pexels-photo-14988911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13670862/pexels-photo-13670862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37890625/pexels-photo-37890625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839686/pexels-photo-35839686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23510532/pexels-photo-23510532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36512649/pexels-photo-36512649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708772/pexels-photo-35708772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d3223dd886",
     "kind": "short",
     "channel": "Channel3",
