@@ -1,5 +1,167 @@
 [
   {
+    "id": "61bf564741",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bàn tay bạn luôn lạnh ngắt mỗi khi lo lắng",
+    "idea": {
+      "title": "Lý do bàn tay bạn luôn lạnh ngắt mỗi khi lo lắng",
+      "hook": "Mỗi khi căng thẳng hay hồi hộp, bạn có nhận ra bàn tay mình tự nhiên lạnh ngắt như băng? Đó không phải do thời tiết, mà là não bạn đang âm thầm bật chế độ sinh tồn.",
+      "beats": [
+        "Khi lo lắng, não bộ kích hoạt phản ứng 'chiến hay chạy' cổ xưa để bảo vệ bạn.",
+        "Các mạch máu ở đầu ngón tay và chân lập tức co thắt lại để giảm nguy cơ mất máu nếu bị thương.",
+        "Lượng máu quý giá được dồn toàn bộ về các cơ bắp lớn và tim để chuẩn bị hành động khẩn cấp.",
+        "Kết quả là tay chân bạn bị cắt nguồn nhiệt tạm thời, tạo ra cảm giác lạnh buốt đột ngột."
+      ],
+      "keywords": [
+        "cold hands stress",
+        "human blood circulation",
+        "anxiety physical response",
+        "brain flight or fight",
+        "blood vessel constriction"
+      ],
+      "tags": [
+        "#Channel3",
+        "#MeoSuckhoe",
+        "#CoTheConNguoi",
+        "#TamLyHoc",
+        "#BiMatCoThe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bàn tay bạn lạnh ngắt khi lo lắng không do thời tiết.",
+        "search": "hoat hinh 3d ban tay bi dong bang",
+        "caption": "Tay lạnh ngắt không do thời tiết"
+      },
+      {
+        "narration": "Hiện tượng này diễn ra rất nhanh ngay cả khi bạn ngồi trong phòng oi nóng.",
+        "search": "hoat hinh 3d nguoi ngoi truoc may tinh lo sang",
+        "caption": "Xảy ra ngay trong phòng oi nóng"
+      },
+      {
+        "narration": "Bởi vì bộ não đang lầm tưởng bạn sắp đối mặt với nguy hiểm nghiêm trọng.",
+        "search": "hoat hinh 3d bo nao phat tin hieu khan cap",
+        "caption": "Bộ não kích hoạt chế độ sinh tồn"
+      },
+      {
+        "narration": "Lúc này, cơ thể tự động bật cơ chế sinh tồn cổ xưa mang tên chiến hay chạy.",
+        "search": "hoat hinh 3d tim dap nhanh va luong dien",
+        "caption": "Phản ứng chiến hay chạy"
+      },
+      {
+        "narration": "Các mạch máu li ti ở đầu ngón tay lập tức co thắt mạnh lại.",
+        "search": "hoat hinh 3d mach mau dau ngon tay siet chat",
+        "caption": "Mạch máu ngón tay co thắt lại"
+      },
+      {
+        "narration": "Mục đích chính là để giảm thiểu rủi ro mất máu nếu cơ thể bị thương.",
+        "search": "hoat hinh 3d giot mau va la chan bao ve",
+        "caption": "Ngăn ngừa mất máu khi tổn thương"
+      },
+      {
+        "narration": "Toàn bộ dòng máu ấm áp lập tức được ưu tiên dồn về tim và cơ bắp lớn.",
+        "search": "hoat hinh 3d dong mau chay manh ve tim",
+        "caption": "Máu ấm dồn toàn bộ về tim"
+      },
+      {
+        "narration": "Do bị ngắt nguồn cung cấp nhiệt tạm thời, bàn tay bạn sẽ lạnh buốt ngay lập tức.",
+        "search": "hoat hinh 3d dau ngon tay lanh ngat ha nhiet",
+        "caption": "Tay bị ngắt nguồn nhiệt tạm thời"
+      },
+      {
+        "narration": "Phản ứng này diễn ra cực nhanh, chỉ mất chưa đầy ba giây ngay khi não bạn cảm nhận được áp lực.",
+        "search": "hoat hinh 3d dong ho dem giay va nao bo phan ung nhanh",
+        "caption": "Kích hoạt phản ứng chỉ trong 3 giây"
+      },
+      {
+        "narration": "Không chỉ lạnh ngắt, lòng bàn tay còn hay bị rịn mồ hôi do tuyến mồ hôi bị kích thích cùng lúc.",
+        "search": "hoat hinh 3d ban tay do mo hoi va giot nuoc",
+        "caption": "Bàn tay vừa lạnh vừa rịn mồ hôi"
+      },
+      {
+        "narration": "Việc co thắt mạch máu ngón tay giúp giảm thiểu nguy cơ mất máu nếu bạn chẳng may bị thương.",
+        "search": "hoat hinh 3d mach mau co that trong co the nguoi",
+        "caption": "Mạch máu co lại để tránh mất máu"
+      },
+      {
+        "narration": "Đáng tiếc là bộ não không thể phân biệt giữa một buổi phỏng vấn xin việc và một mối nguy sinh tử.",
+        "search": "hoat hinh 3d phong van xin viec lo lang cang thang",
+        "caption": "Não nhầm buổi phỏng vấn với hiểm nguy"
+      },
+      {
+        "narration": "Vậy nên bàn tay lạnh ngắt không phải là bệnh, mà là bằng chứng cơ thể đang nỗ lực bảo vệ bạn.",
+        "search": "hoat hinh 3d la chan bao ve co the va trai tim",
+        "caption": "Bàn tay lạnh là cơ chế tự bảo vệ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T15:31:39.013876+00:00",
+    "updated_at": "2026-11-06T15:33:47.478604+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-06T15:32:03.676242+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "482 chars (cat 206 de vua 55s)",
+        "at": "2026-11-06T15:32:33.585112+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-06T15:32:43.960774+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T15:32:44.898128+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-06T15:32:59.781260+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-06T15:32:59.880387+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.7s 17610601 bytes",
+        "at": "2026-11-06T15:33:47.062647+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T15:33:47.478584+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8818510/8818510-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6195670/6195670-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15440319/15440319-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34638592/14681209_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8820508/8820508-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561466/16561466-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263456/8263456-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15440319/15440319-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35316387/14962339_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/3402187/3402187-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6324566/6324566-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7653232/7653232-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863506/15863506-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "a806c2b596",
     "kind": "short",
     "channel": "Channel3",
