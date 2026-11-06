@@ -1,4 +1,4 @@
-# Daily ping 05/11/2026
+# Daily ping 06/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -12,18 +12,14 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (3)
-- Bí mật: Cơ thể bạn đang âm thầm tự phát sáng trong đêm :: token refresh failed: 400 {
+## Fail (2)
+- Nghịch lý: Uống cà phê trước khi ngủ trưa giúp tỉnh gấp :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- Why a King Executed the Architect Who Built His Masterp :: token refresh failed: 400 {
+- Why a Roman Consul Sacrificed Himself to the Gods :: token refresh failed: 400 {
   "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
-}
-- Why Ivan the Terrible Blinded His Own Architects :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Token has been expired or revoked."
+  "error_description": "Bad Request"
 }
 
 ## Top tang truong
