@@ -1,5 +1,599 @@
 [
   {
+    "id": "b9eba861cf",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Royal Feast That Wiped Out Sweden's Elite: The Stockholm Bloodbath of 1520",
+    "idea": {
+      "title": "The Royal Feast That Wiped Out Sweden's Elite: The Stockholm Bloodbath of 1520",
+      "hook": "In November 1520, King Christian II invited Sweden's top nobility to a lavish three-day peace banquet in Stockholm—promising complete amnesty. But on the fourth day, the castle gates locked, the wine turned to blood, and Sweden's entire ruling class was marked for death.",
+      "beats": [
+        "Tension in the Kalmar Union: Decades of bitter conflict between Denmark's monarchy and Swedish nobles seeking independence.",
+        "King Christian II of Denmark launches a brutal military invasion of Sweden to force the rebellious nation back under his control.",
+        "The Siege of Stockholm ends after months of fighting, leading to a negotiated surrender and a sworn promise of full royal amnesty.",
+        "King Christian II crowns himself King of Sweden and invites the Swedish aristocracy, bishops, and burghers to a grand three-day reconciliation feast at Tre Kronor Castle.",
+        "Days of extravagant banqueting, music, and public celebration lull the Swedish rebels into a false sense of security.",
+        "The Trap Springs: On day four, the castle doors are bolted shut, and pro-Danish Archbishop Gustav Trolle presents a list of accused heretics.",
+        "The Heresy Loophole: By framing political treason as heresy against the Catholic Church, Christian II bypasses his own royal pardon.",
+        "A rushed, overnight kangaroo court finds over 80 prominent Swedish figures guilty of religious heresy without right to defense.",
+        "The Stockholm Bloodbath Begins: Rain pours on Stortorget square as 82 nobles, mayors, councilors, and bishops are led to the execution block.",
+        "Two days of public executions leave the city square swimming in blood, while victims' bodies are piled high and burned outside the walls.",
+        "Christian II earns the nickname 'Christian the Tyrant' across Sweden, believing he has permanently crushed all Swedish opposition.",
+        "The Ultimate Backfire: Outraged by the massacre, a surviving young nobleman named Gustav Vasa ignites a total war of liberation, permanently freeing Sweden and ending the Kalmar Union."
+      ],
+      "keywords": [
+        "Stockholm Bloodbath",
+        "King Christian II",
+        "Gustav Vasa",
+        "Swedish History",
+        "Kalmar Union",
+        "Royal Betrayal",
+        "Tre Kronor Castle",
+        "Medieval Executions",
+        "Scandinavian History",
+        "History Documentary"
+      ],
+      "tags": [
+        "stockholm bloodbath",
+        "sweden history",
+        "christian ii",
+        "gustav vasa",
+        "history documentary",
+        "royal betrayals",
+        "worst massacres in history",
+        "european history",
+        "kalmar union",
+        "dark history"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE DEADLY PEACE BANQUET"
+    },
+    "scenes": [
+      {
+        "narration": "A royal peace feast slaughtered Sweden's entire ruling class.",
+        "search": "stockholm bloodbath 1520 historical oil painting",
+        "caption": "A royal banquet executed an entire ruling elite."
+      },
+      {
+        "narration": "In November 1520, after decades of war within the Kalmar Union, King Christian II of Denmark invaded Sweden to crush its rebellious nobility.",
+        "search": "king christian ii of denmark portrait painting",
+        "caption": "King Christian II invaded Sweden in November 1520."
+      },
+      {
+        "narration": "Following a grueling siege at Stockholm, Swedish leaders surrendered after Christian II swore a binding royal oath promising full amnesty for past rebellions.",
+        "search": "tre kronor castle stockholm 16th century engraving map",
+        "caption": "Royal amnesty was promised after Stockholm's siege ended."
+      },
+      {
+        "narration": "Crowned King of Sweden, Christian II hosted a grand three-day reconciliation banquet at Tre Kronor Castle, lulling the Swedish aristocracy into absolute confidence.",
+        "search": "16th century royal banquet medieval oil painting",
+        "caption": "Three days of grand feasting masked the king's intentions."
+      },
+      {
+        "narration": "On the fourth day, castle gates locked behind the guests as Archbishop Gustav Trolle charged the Swedish nobles with religious heresy—a legal loophole bypassing the royal pardon.",
+        "search": "archbishop gustav trolle 16th century engraving",
+        "caption": "Heresy charges bypassed the king's official royal pardon."
+      },
+      {
+        "narration": "A swift overnight clerical trial declared over eighty noblemen, bishops, and burghers guilty without defense, leading them directly to the execution block at Stortorget square on November 8, 1520.",
+        "search": "stortorget stockholm bloodbath 1520 woodcut engraving",
+        "caption": "Over eighty leaders were condemned in an overnight trial."
+      },
+      {
+        "narration": "For two days, blood ran through the streets of Stockholm as eighty-two victims were executed, before their remains were burned outside the city walls.",
+        "search": "stockholm bloodbath execution 1520 old print engraving",
+        "caption": "Eighty-two Swedish nobles and leaders were publicly executed."
+      },
+      {
+        "narration": "Far from crushing resistance, the massacre turned Christian II into a infamous tyrant and inspired nobleman Gustav Vasa to spark the 1521 liberation war, permanently dissolving the Kalmar Union.",
+        "search": "king gustav vasa of sweden portrait painting",
+        "caption": "Gustav Vasa led the uprising that freed Sweden in 1521."
+      },
+      {
+        "narration": "One surviving noble destroyed the Kalmar Union. Following the 1520 Stockholm Bloodbath, Gustav Vasa escaped Danish executioners to rally a shattered country.",
+        "search": "Gustav Vasa portrait painting",
+        "caption": "One surviving noble destroyed the Kalmar Union."
+      },
+      {
+        "narration": "In December 1520, twenty-four-year-old Vasa fled through the freezing forests of Dalarna to evade King Christian II's search parties.",
+        "search": "16th century Dalarna Sweden winter landscape oil painting",
+        "caption": "Gustav Vasa escaped Danish patrols in December 1520."
+      },
+      {
+        "narration": "In January 1521, Vasa addressed the miners and peasantry of Mora, exposing Christian II's betrayal to build a rebel army.",
+        "search": "Gustav Vasa speaking to peasants Mora 1521 historical engraving",
+        "caption": "Vasa recruited peasant miners to fight Christian II."
+      },
+      {
+        "narration": "By April 1521, Swedish rebel forces routed the Danish army at the Battle of Brunnbäck Ferry, igniting uprisings across central Sweden.",
+        "search": "Battle of Brunnbäck Ferry 1521 map engraving",
+        "caption": "Rebel forces defeated Danish armies at Brunnbäck Ferry."
+      },
+      {
+        "narration": "To cut off Danish reinforcements in 1521, Vasa secured heavy naval warships and funding from the German city-state of Lübeck.",
+        "search": "16th century naval warship combat oil painting",
+        "caption": "Allied merchant fleets blockaded Danish supply lines to Stockholm."
+      },
+      {
+        "narration": "Swedish troops laid siege to Tre Kronor Castle in late 1521, trapping the remaining pro-Danish garrison inside Stockholm's walls.",
+        "search": "Tre Kronor Castle Stockholm 16th century map engraving",
+        "caption": "Swedish rebels besieged Tre Kronor Castle in late 1521."
+      },
+      {
+        "narration": "Facing financial ruin and rebellion at home, King Christian II was officially deposed by the Danish nobility in April 1523.",
+        "search": "King Christian II of Denmark portrait painting deposed",
+        "caption": "King Christian II was deposed by Denmark in 1523."
+      },
+      {
+        "narration": "On June 6, 1523, Gustav Vasa was crowned King of Sweden, permanently ending the Kalmar Union and establishing the modern Swedish state.",
+        "search": "Coronation of Gustav Vasa 1523 historical oil painting",
+        "caption": "Gustav Vasa was crowned King of Sweden on June 6, 1523."
+      },
+      {
+        "narration": "Did a single weekend of slaughter create modern Scandinavia?",
+        "search": "stockholm bloodbath 1520 massacre oil painting",
+        "caption": "Did a 1520 massacre accidentally create modern Sweden?"
+      },
+      {
+        "narration": "To pay back foreign debts in 1527, King Gustav Vasa confiscated all Catholic Church property across Sweden.",
+        "search": "gustav vasa portrait oil painting",
+        "caption": "Gustav Vasa seized Church lands to repay war debts."
+      },
+      {
+        "narration": "Archbishop Gustav Trolle, who drafted the 1520 execution list, fled Sweden and died in exile in 1535.",
+        "search": "gustav trolle archbishop portrait engraving",
+        "caption": "Archbishop Gustav Trolle died in exile in 1535."
+      },
+      {
+        "narration": "In November 1531, the exiled Christian II attempted a desperate naval invasion of Norway to reclaim power.",
+        "search": "16th century sailing ship naval battle oil painting",
+        "caption": "Christian II launched a failed naval invasion in 1531."
+      },
+      {
+        "narration": "Captured in 1532, the deposed monarch spent twenty-seven years isolated inside Sonderborg Castle until his death.",
+        "search": "sonderborg castle denmark engraving",
+        "caption": "Christian II spent 27 years imprisoned in Sonderborg Castle."
+      },
+      {
+        "narration": "The execution of Sweden's nobility destroyed all trust, triggering three centuries of brutal wars between Denmark and Sweden.",
+        "search": "sweden denmark battle 16th century oil painting",
+        "caption": "The massacre sparked three centuries of Scandinavian wars."
+      },
+      {
+        "narration": "Today at Stortorget square, ninety-two white stones built into a red facade commemorate the victims of November 1520.",
+        "search": "stortorget square stockholm red building historic",
+        "caption": "Ninety-two stones mark the victims of the 1520 massacre."
+      },
+      {
+        "narration": "King Christian II intended to break Swedish resistance forever, but his bloodshed forged the independent nation of Sweden.",
+        "search": "gustav vasa statue stockholm sculpture",
+        "caption": "The bloodbath ultimately forged an independent Swedish nation."
+      },
+      {
+        "narration": "On November 4, 1520, King Christian II was crowned King of Sweden at Storkyrkan Cathedral, promising perpetual peace across Scandinavia.",
+        "search": "king christian ii of denmark coronation portrait painting",
+        "caption": "November 4, 1520: King Christian II crowned in Stockholm."
+      },
+      {
+        "narration": "For three days, Swedish nobles feasted inside Tre Kronor Castle, entirely unaware that Archbishop Gustav Trolle had compiled a target list of alleged traitors.",
+        "search": "archbishop gustav trolle 16th century engraving presents",
+        "caption": "Archbishop Gustav Trolle presents list of high traitors."
+      },
+      {
+        "narration": "Christian II weaponized Catholic canon law, reclassifying political opposition as religious heresy to bypass his legally binding amnesty decree.",
+        "search": "tre kronor castle stockholm 16th century map engraving circumvent",
+        "caption": "Heresy charges circumvent royal oaths of amnesty."
+      },
+      {
+        "narration": "On November 7, heavy iron-reinforced doors slammed shut throughout the fortress, trapping Sweden's entire political elite inside.",
+        "search": "medieval castle heavy wooden door bolted iron hinges oil painting",
+        "caption": "November 7: Tre Kronor Castle doors locked behind guests."
+      },
+      {
+        "narration": "A rushed ecclesiastic tribunal convened that evening, sentencing over eighty Swedish lords and councilors to death before sunrise without right of appeal.",
+        "search": "16th century ecclesiastical trial kangaroo court woodcut",
+        "caption": "Rushed overnight trial condemns nobles without defense."
+      },
+      {
+        "narration": "At dawn on November 8, 1520, heavy autumn rain fell on Stortorget square as executioners prepared execution blocks and gallows.",
+        "search": "stortorget square stockholm 16th century woodcut",
+        "caption": "November 8, 1520: Execution blocks set at Stortorget."
+      },
+      {
+        "narration": "For forty-eight hours, eighty-two prominent bishops, mayors, and noblemen were systematically beheaded and hanged in public view.",
+        "search": "stockholm bloodbath 1520 massacre execution engraving",
+        "caption": "Eighty-two Swedish leaders executed over two days."
+      },
+      {
+        "narration": "While pyres of the executed burned outside the city gates, twenty-four-year-old nobleman Gustav Vasa escaped north to organize total rebellion.",
+        "search": "gustav vasa portrait painting 16th century",
+        "caption": "Young Gustav Vasa escapes to lead Swedish liberation."
+      },
+      {
+        "narration": "Can a king legally execute ninety guests after promising them absolute pardon?",
+        "search": "stockholm bloodbath 1520 painting engraving",
+        "caption": "A royal pardon turned into Sweden's deadliest execution."
+      },
+      {
+        "narration": "In late 1520, King Christian II of Denmark invaded Sweden to forcibly restore Danish dominance over the fractured Kalmar Union.",
+        "search": "king christian ii of denmark portrait oil painting",
+        "caption": "Denmark invaded Sweden in 1520 to enforce imperial rule."
+      },
+      {
+        "narration": "Following a bloody siege of Stockholm, Swedish leaders surrendered after Christian II signed a solemn oath of total royal amnesty.",
+        "search": "siege of stockholm castle 1520 manuscript engraving",
+        "caption": "Swedish nobles surrendered under a sworn promise of full amnesty."
+      },
+      {
+        "narration": "On November 4, 1520, the crowned king hosted Sweden's nobility at Tre Kronor Castle for three days of lavish banqueting.",
+        "search": "tre kronor castle stockholm old map engraving",
+        "caption": "A grand three-day banquet celebrated reconciliation at Tre Kronor Castle."
+      },
+      {
+        "narration": "On November 7, guards bolted the castle doors while Archbishop Gustav Trolle delivered a secret list accusing the guests of heresy.",
+        "search": "gustav trolle archbishop portrait oil painting",
+        "caption": "Castle doors locked as guests were charged with religious heresy."
+      },
+      {
+        "narration": "By categorizing political opposition as spiritual heresy against the Catholic Church, Christian II bypassed his own royal pardon overnight.",
+        "search": "medieval kangaroo court trial 16th century engraving",
+        "caption": "Treason framed as heresy nullified the king's royal pardon."
+      },
+      {
+        "narration": "On November 8, 1520, eighty-two nobles, bishops, and councilors were beheaded at Stortorget square before their bodies were burned outside Stockholm.",
+        "search": "stortorget square stockholm bloodbath 1520 execution engraving",
+        "caption": "Eighty-two leaders were executed in Stortorget square over two days."
+      },
+      {
+        "narration": "The massacre backfired when survivor Gustav Vasa launched a war of liberation, ending the Kalmar Union and crowning himself Swedish king in 1523.",
+        "search": "gustav vasa king of sweden portrait oil painting",
+        "caption": "Gustav Vasa freed Sweden in 1523, dissolving the Kalmar Union."
+      },
+      {
+        "narration": "A royal peace banquet in 1520 wiped out Sweden's entire ruling elite.",
+        "search": "stockholm bloodbath 1520 oil painting execution",
+        "caption": "A royal feast became Sweden's deadliest political massacre."
+      },
+      {
+        "narration": "For decades, the Scandinavian Kalmar Union fractured as Swedish nobles repeatedly resisted Danish monarchical control. In early 1520, King Christian II of Denmark launched a full military invasion to forcibly crush Swedish independence.",
+        "search": "king christian II of denmark portrait painting military",
+        "caption": "Denmark launched a military invasion to subjugate rebellious Sweden in 1520."
+      },
+      {
+        "narration": "Following a monthslong siege of Stockholm, Swedish regent Sten Sture died of battle wounds, forcing the capital to capitulate. King Christian II solemnly promised complete royal amnesty for all past rebellions in exchange for total submission.",
+        "search": "sten sture the younger portrait painting",
+        "caption": "King Christian II swore full amnesty to Swedish rebels upon surrender."
+      },
+      {
+        "narration": "On November 4, 1520, Christian II crowned himself King of Sweden and hosted a lavish three-day reconciliation banquet at Tre Kronor Castle. Swedish nobles, bishops, and councilors celebrated alongside Danish elites, convinced the civil war was finally over.",
+        "search": "tre kronor castle stockholm old engraving map",
+        "caption": "Swedish nobles attended a lavish three-day coronation banquet at Tre Kronor."
+      },
+      {
+        "narration": "On November 7, guards bolted the castle gates shut, trapping the guests inside as pro-Danish Archbishop Gustav Trolle presented a list of suspected traitors. By framing political treason as heresy against the Catholic Church, Christian II bypassed his own royal pardon.",
+        "search": "gustav trolle archbishop portrait painting",
+        "caption": "Archbishop Trolle used heresy charges to bypass royal promises of pardon."
+      },
+      {
+        "narration": "Over a single night, a rushed tribunal condemned over eighty prominent Swedish figures without giving them a defense. By dawn on November 8, 1520, the court declared every accused leader an unrepentant heretic marked for execution.",
+        "search": "medieval trial court catholic bishops manuscript illustration",
+        "caption": "An overnight ecclesiastical court sentenced over eighty Swedish leaders to death."
+      },
+      {
+        "narration": "Rain poured over Stortorget square as executioners systematically beheaded and hanged ninety-two Swedish aristocrats and public officials over two days. The victims' bodies were piled high in the city center before being burned outside Stockholm's walls.",
+        "search": "stortorget square stockholm 16th century engraving",
+        "caption": "Stortorget square ran red with blood during two days of executions."
+      },
+      {
+        "narration": "King Christian II believed he had permanently crushed Swedish opposition, earning the nickname 'Christian the Tyrant.' Instead, surviving nobleman Gustav Vasa mobilized a massive liberation war that destroyed the Kalmar Union and established Sweden as an independent kingdom.",
+        "search": "gustav vasa king of sweden portrait painting",
+        "caption": "Gustav Vasa liberated Sweden, ending the Kalmar Union forever."
+      },
+      {
+        "narration": "Ninety-two Swedish nobles entered a royal feast; none left alive. In November 1520, a promised amnesty concealed Scandinavia's most calculated massacre.",
+        "search": "tre kronor castle stockholm 16th century engraving",
+        "caption": "A three-day royal feast concealed Scandinavia's most ruthless execution plan."
+      },
+      {
+        "narration": "King Christian II of Denmark conquered Stockholm after months of siege, seeking to force Sweden back into the Kalmar Union. To end resistance, he issued a solemn royal decree guaranteeing complete amnesty to all rebellious aristocrats.",
+        "search": "king christian II of denmark portrait painting total",
+        "caption": "King Christian II promised total amnesty to Sweden's rebellious leaders."
+      },
+      {
+        "narration": "For three days, Sweden's bishops, mayors, and noblemen celebrated inside Tre Kronor Castle under royal hospitality. But on November 7, 1520, guards suddenly bolted every exit, trapping the aristocracy inside.",
+        "search": "renaissance royal feast banquet oil painting",
+        "caption": "On the fourth day, castle gates were locked shut."
+      },
+      {
+        "narration": "Pro-Danish Archbishop Gustav Trolle presented a prepared list of enemies, accusing the nobles of religious heresy against the Catholic Church. Because a king could pardon treason but not heresy, Christian II systematically bypassed his own oath.",
+        "search": "archbishop gustav trolle portrait painting",
+        "caption": "Religious heresy charges bypassed the king's promise of amnesty."
+      },
+      {
+        "narration": "An ecclesiastical tribunal convened overnight inside the locked castle, denying all accused figures any right to legal defense. By morning on November 8, over eighty prominent Swedish leaders were condemned to death.",
+        "search": "16th century tribunal court room oil painting",
+        "caption": "An overnight secret trial sentenced over eighty leaders to death."
+      },
+      {
+        "narration": "Rain poured over Stortorget square as executioners systematically beheaded and hanged Swedish aristocrats and public officials over two days. The cobblestones turned red as the city's leadership was systematically annihilated.",
+        "search": "stockholm bloodbath 1520 historical engraving",
+        "caption": "Ninety-two Swedish figures were executed in Stortorget square."
+      },
+      {
+        "narration": "The decapitated bodies were piled high in Stortorget before being dragged outside Stockholm's city walls and burned on massive pyres. King Christian II returned to Denmark convinced he had crushed Swedish independence forever, earning the title 'Christian the Tyrant.'",
+        "search": "stockholm stortorget square 16th century map engraving",
+        "caption": "Victims were burned outside Stockholm, earning Christian the title Tyrant."
+      },
+      {
+        "narration": "The massacre backfired completely when surviving nobleman Gustav Vasa mobilized a popular revolt against Danish rule. By 1523, Vasa liberated the country, destroyed the Kalmar Union, and established an independent Kingdom of Sweden.",
+        "search": "king gustav vasa of sweden portrait painting rebellion",
+        "caption": "Gustav Vasa led a rebellion that permanently freed Sweden in 1523."
+      },
+      {
+        "narration": "A three-day royal peace banquet ended in eighty executions.",
+        "search": "stockholm bloodbath 1520 history painting",
+        "caption": "Eighty Swedish leaders executed after a single royal feast in 1520."
+      },
+      {
+        "narration": "Decades of conflict over the Kalmar Union culminated when King Christian II of Denmark besieged Stockholm in 1520 to force Swedish submission.",
+        "search": "king christian ii of denmark portrait painting authority",
+        "caption": "King Christian II invaded Sweden in 1520 to enforce Danish authority."
+      },
+      {
+        "narration": "Seeking peace, Swedish nobles surrendered Stockholm Castle only after Christian II swore a solemn oath granting complete royal amnesty.",
+        "search": "tre kronor castle stockholm engraving",
+        "caption": "Swedish leaders surrendered after receiving a sworn promise of full amnesty."
+      },
+      {
+        "narration": "On November 4, 1520, Christian II crowned himself Swedish monarch and hosted a lavish three-day reconciliation banquet at Tre Kronor Castle.",
+        "search": "16th century royal banquet engraving",
+        "caption": "Three days of royal feasting masked the impending betrayal in Stockholm."
+      },
+      {
+        "narration": "On the fourth day, guards bolted the fortress gates as Archbishop Gustav Trolle charged eighty-two attendees with heresy against the Church.",
+        "search": "archbishop gustav trolle portrait engraving",
+        "caption": "Bolted castle doors revealed a charge of religious heresy against guests."
+      },
+      {
+        "narration": "By reclassifying political treason as ecclesiastical heresy, Christian II bypassed his own royal pardon and bypassed Swedish legal protections.",
+        "search": "medieval trial manuscript illumination",
+        "caption": "Framing treason as heresy voided Christian II's royal pledge of pardon."
+      },
+      {
+        "narration": "On November 8, 1520, rain poured over Stortorget square as eighty-two nobles, bishops, and burghers were publicly beheaded or hanged.",
+        "search": "stortorget stockholm bloodbath 1520 historical print",
+        "caption": "Eighty-two aristocrats and officials were executed in Stortorget square."
+      },
+      {
+        "narration": "Instead of securing Danish control, the bloodbath sparked a rebellion led by Gustav Vasa, establishing independent Sweden by 1523.",
+        "search": "king gustav vasa of sweden portrait painting destroying",
+        "caption": "Gustav Vasa liberated Sweden in 1523, destroying the Kalmar Union forever."
+      },
+      {
+        "narration": "A royal peace banquet ended with ninety decapitated aristocrats.",
+        "search": "stockholm bloodbath 1520 execution woodcut engraving",
+        "caption": "The 1520 feast that eliminated Sweden's ruling class."
+      },
+      {
+        "narration": "In late 1520, King Christian II of Denmark conquered Stockholm to crush Swedish nobles fighting to leave the Kalmar Union.",
+        "search": "King Christian II of Denmark portrait painting wide shot",
+        "caption": "King Christian II invaded Stockholm in late 1520."
+      },
+      {
+        "narration": "Seeking peace, Swedish aristocrats surrendered Tre Kronor Castle after Christian II solemnly swore full royal amnesty for past rebellions.",
+        "search": "Tre Kronor castle stockholm old map engraving secured",
+        "caption": "A sworn promise of amnesty secured Stockholm's surrender."
+      },
+      {
+        "narration": "On November 4, 1520, three days of grand banqueting began, lulling the Swedish elite into absolute security before castle doors locked tight.",
+        "search": "renaissance royal feast banquet oil painting celebration",
+        "caption": "Three days of celebration lulled nobles into false security."
+      },
+      {
+        "narration": "Pro-Danish Archbishop Gustav Trolle accused the guests of heresy against the Catholic Church, cleverly bypassing the king's political pardon.",
+        "search": "Archbishop Gustav Trolle portrait engraving christians",
+        "caption": "Heresy charges bypassed King Christian's royal amnesty."
+      },
+      {
+        "narration": "Over an overnight trial without defense counsel, more than eighty bishops, nobles, and councilors were condemned to death for heresy.",
+        "search": "medieval kangaroo court trial manuscript illustration",
+        "caption": "Over eighty figures were condemned in an overnight trial."
+      },
+      {
+        "narration": "Rain poured over Stortorget square on November 8, 1520, as executioners beheaded Swedish leaders and burned their corpses outside the city walls.",
+        "search": "Stortorget square Stockholm bloodbath execution historical engraving",
+        "caption": "Executions filled Stortorget square with blood for two days."
+      },
+      {
+        "narration": "The massacre backfired entirely when surviving noble Gustav Vasa launched a total war, driving Denmark out and establishing independent Sweden in 1523.",
+        "search": "King Gustav Vasa of Sweden portrait oil painting",
+        "caption": "Gustav Vasa liberated Sweden, destroying the Kalmar Union in 1523."
+      },
+      {
+        "narration": "How did a royal peace feast execute eighty-two nobles?",
+        "search": "stockholm bloodbath 1520 massacre engraving",
+        "caption": "A royal peace banquet became a bloodbath of eighty-two nobles."
+      },
+      {
+        "narration": "In late 1520, after decades of Kalmar Union conflict, King Christian II of Denmark conquered Stockholm and offered full amnesty to Swedish rebels.",
+        "search": "king christian ii of denmark portrait painting wide shot",
+        "caption": "King Christian II promised full amnesty to rebellious Swedish nobles."
+      },
+      {
+        "narration": "On November 4, 1520, Swedish aristocrats gathered at Tre Kronor Castle for three days of grand banquets celebrating Christian's coronation.",
+        "search": "tre kronor castle stockholm medieval illustration",
+        "caption": "Swedish elites celebrated for three days inside Tre Kronor Castle."
+      },
+      {
+        "narration": "On the fourth day, Christian bolted the castle gates and allowed pro-Danish Archbishop Gustav Trolle to accuse the nobility of religious heresy.",
+        "search": "archbishop gustav trolle oil painting",
+        "caption": "Heresy charges bypassed royal pardons to trap the Swedish aristocracy."
+      },
+      {
+        "narration": "Because political treason was covered by the royal pardon, framing opposition as heretics against the Church stripped them of all legal defense overnight.",
+        "search": "medieval papal trial heresy tribunal engraving",
+        "caption": "Overnight ecclesiastical trial condemned over eighty prominent leaders without defense."
+      },
+      {
+        "narration": "On November 8, 1520, rain poured over Stortorget square as executioners beheaded eighty-two nobles, mayors, and bishops before burning their corpses.",
+        "search": "stortorget stockholm execution 1520 historical print",
+        "caption": "Public beheading of Sweden's ruling class flooded Stortorget square."
+      },
+      {
+        "narration": "Believing he had crushed resistance, Christian the Tyrant instead provoked surviving young nobleman Gustav Vasa into launching a total war of liberation.",
+        "search": "gustav vasa portrait painting nobleman",
+        "caption": "Surviving nobleman Gustav Vasa rallied Sweden into total war."
+      },
+      {
+        "narration": "By 1523, Vasa drove Danish forces out of Stockholm, permanently dissolving the Kalmar Union and founding the modern Kingdom of Sweden.",
+        "search": "gustav vasa entry into stockholm 1523 oil painting",
+        "caption": "Sweden won permanent independence, dissolving the Kalmar Union in 1523."
+      },
+      {
+        "narration": "A royal peace feast annihilated Sweden's ruling class. In November 1520, eighty-two nobles entered Tre Kronor Castle and never walked out.",
+        "search": "stockholm bloodbath 1520 oil painting",
+        "caption": "A royal peace feast annihilated Sweden's ruling class in 1520."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T20:11:34.692167+00:00",
+    "updated_at": "2026-11-06T20:25:16.063909+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-06T20:14:35.614800+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2821 chars",
+        "at": "2026-11-06T20:14:52.986414+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "177.8s en-US-GuyNeural 30 cau",
+        "at": "2026-11-06T20:15:10.081230+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T20:15:15.035164+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-06T20:20:27.295196+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T20:20:27.403345+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 177.8s 137370119 bytes",
+        "at": "2026-11-06T20:25:15.563049+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-06T20:25:15.781032+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T20:25:16.063893+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32906559/pexels-photo-32906559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38217298/pexels-photo-38217298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29138612/pexels-photo-29138612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718769/pexels-photo-6718769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32986262/pexels-photo-32986262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32158615/pexels-photo-32158615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31540930/pexels-photo-31540930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18898359/pexels-photo-18898359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31496353/pexels-photo-31496353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35725436/pexels-photo-35725436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17010524/pexels-photo-17010524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38240228/pexels-photo-38240228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8798471/pexels-photo-8798471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39324951/pexels-photo-39324951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32245208/pexels-photo-32245208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30253453/pexels-photo-30253453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2030236/pexels-photo-2030236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30536684/pexels-photo-30536684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40322336/pexels-photo-40322336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1327437/pexels-photo-1327437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38301190/pexels-photo-38301190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35185615/pexels-photo-35185615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29138597/pexels-photo-29138597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32151571/pexels-photo-32151571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7219104/pexels-photo-7219104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37291023/pexels-photo-37291023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40352864/pexels-photo-40352864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18102145/pexels-photo-18102145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33934101/pexels-photo-33934101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125910/pexels-photo-38125910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7479038/pexels-photo-7479038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8191463/pexels-photo-8191463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9433548/pexels-photo-9433548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38301188/pexels-photo-38301188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/99562/texture-handwriting-sutterlin-vintage-99562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19391718/pexels-photo-19391718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7301923/pexels-photo-7301923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39386155/pexels-photo-39386155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29100228/pexels-photo-29100228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35577822/pexels-photo-35577822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1108528/pexels-photo-1108528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30866434/pexels-photo-30866434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6184422/pexels-photo-6184422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22483660/pexels-photo-22483660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12282053/pexels-photo-12282053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33881270/pexels-photo-33881270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34883334/pexels-photo-34883334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30489641/pexels-photo-30489641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5129555/pexels-photo-5129555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28911833/pexels-photo-28911833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8179165/pexels-photo-8179165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9202377/pexels-photo-9202377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14309127/pexels-photo-14309127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35549237/pexels-photo-35549237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29138602/pexels-photo-29138602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38095250/pexels-photo-38095250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28408519/pexels-photo-28408519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18898359/pexels-photo-18898359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33252156/pexels-photo-33252156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34452464/pexels-photo-34452464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40301295/pexels-photo-40301295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342496/pexels-photo-29342496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30158443/pexels-photo-30158443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3964362/pexels-photo-3964362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25038725/pexels-photo-25038725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35595355/pexels-photo-35595355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28252453/pexels-photo-28252453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718765/pexels-photo-6718765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10619926/pexels-photo-10619926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6077325/pexels-photo-6077325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37961602/pexels-photo-37961602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718454/pexels-photo-7718454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33754928/pexels-photo-33754928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11064649/pexels-photo-11064649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1006486/pexels-photo-1006486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20511250/pexels-photo-20511250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39221666/pexels-photo-39221666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29138596/pexels-photo-29138596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10284317/pexels-photo-10284317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10608332/pexels-photo-10608332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3352326/pexels-photo-3352326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7d6473e6df",
     "kind": "short",
     "channel": "Channel3",
