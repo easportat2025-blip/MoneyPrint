@@ -1,5 +1,167 @@
 [
   {
+    "id": "a806c2b596",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật: chụp ảnh quá nhiều đang âm thầm xóa ký ức của bạn",
+    "idea": {
+      "title": "Bí mật: chụp ảnh quá nhiều đang âm thầm xóa ký ức của bạn",
+      "hook": "Bạn có bao giờ chụp hàng trăm bức ảnh trong chuyến du lịch, nhưng sau đó lại chẳng nhớ rõ mình đã thực sự trải qua những gì?",
+      "beats": [
+        "Các nhà tâm lý gọi đây là 'Hiệu ứng suy giảm trí nhớ do chụp ảnh' (Photo-taking impairment effect).",
+        "Khi bạn bấm máy, bộ não lập tức ỉ ôi: 'Máy ảnh đã lưu giúp rồi, mình không cần ghi nhớ chi tiết nữa'.",
+        "Não bộ chủ động giảm bớt năng lượng xử lý và lưu trữ thông tin về khung cảnh đó.",
+        "Hệ quả là người chăm giơ máy chụp lại chính là người có ký ức mờ nhạt nhất về sự kiện."
+      ],
+      "keywords": [
+        "person taking photo smartphone",
+        "human brain animation neurons",
+        "memory concept blurred visuals",
+        "tourist taking photo camera",
+        "digital overload technology habit"
+      ],
+      "tags": [
+        "mẹo dùng điện thoại",
+        "bí mật bộ não",
+        "chụp ảnh",
+        "tâm lý học",
+        "mẹo cuộc sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chụp càng nhiều ảnh, trí nhớ của bạn càng giảm.",
+        "search": "hoat hinh 3d ban tay cam dien thoai chup anh lien tuc",
+        "caption": "Chụp nhiều ảnh làm giảm trí nhớ"
+      },
+      {
+        "narration": "Bạn chụp hàng trăm tấm hình du lịch nhưng sau đó lại chẳng nhớ rõ mình đã thấy gì.",
+        "search": "3d animation nhan vat hoat hinh xem dien thoai voi khung canh mo nhat",
+        "caption": "Chụp trăm tấm nhưng không nhớ rõ"
+      },
+      {
+        "narration": "Các nhà tâm lý gọi hiện tượng kỳ lạ này là Hiệu ứng suy giảm trí nhớ do chụp ảnh.",
+        "search": "3d motion graphics mo hinh nao bo phat sang dang quet du lieu",
+        "caption": "Hiệu ứng suy giảm trí nhớ do chụp ảnh"
+      },
+      {
+        "narration": "Khoảnh khắc bạn giơ máy bấm chụp, bộ nền lập tức đưa ra một quyết định ngầm.",
+        "search": "3d animation nguyen ly hoat dong cua mo hinh nao bo va chiec dien thoai",
+        "caption": "Bộ não tự động đưa ra quyết định ngầm"
+      },
+      {
+        "narration": "Nó tự bảo rằng máy ảnh đã lưu trữ thông tin rồi, nên không cần ghi nhớ nữa.",
+        "search": "isometric render hoat hinh 3d du lieu tu nao chuyen sang dien thoai",
+        "caption": "Não mặc định máy ảnh đã nhớ giúp"
+      },
+      {
+        "narration": "Ngay lập tức, não bộ chủ động cắt giảm năng lượng xử lý và lưu trữ thông tin.",
+        "search": "cartoony 3d animation day dien than kinh nao bo tat den giam nang luong",
+        "caption": "Não chủ động cắt giảm năng lượng ghi nhớ"
+      },
+      {
+        "narration": "Hệ quả là người chăm giơ máy chụp lại có ký ức mờ nhạt nhất về chuyến đi.",
+        "search": "3d animation nhan vat gio dien thoai chup va ky uc bien thanh suong mo",
+        "caption": "Người chụp nhiều có ký ức mờ nhất"
+      },
+      {
+        "narration": "Nhưng điều đáng sợ hơn là thói quen này đang làm thay đổi cách não bạn vận hành.",
+        "search": "explainer animation 3d ban tay luot man hinh dien thoai trong bong toai",
+        "caption": "Thói quen âm thầm thay đổi bộ não"
+      },
+      {
+        "narration": "Hiện tượng này gọi là trút tải trí nhớ, khi não coi chiếc điện thoại là một ổ cứng ngoài.",
+        "search": "hoat hinh 3d nao bo ket noi voi dien thoai smart phone",
+        "caption": "Brain treats phone as external memory"
+      },
+      {
+        "narration": "Thay vì cảm nhận không khí và âm thanh, bạn chỉ tập trung vào việc căn chỉnh khung hình.",
+        "search": "3d animation nguoi dung camera dien thoai canh zoom",
+        "caption": "Only focused on framing the shot"
+      },
+      {
+        "narration": "Ký ức chân thực dần bị thay thế bằng hàng nghìn bức ảnh vô hồn bạn hiếm khi xem lại.",
+        "search": "hoat hinh 3d thu vien anh dien thoai cuon lien tuc",
+        "caption": "Real memories replaced by digital photos"
+      },
+      {
+        "narration": "Càng sở hữu nhiều ảnh trong máy, trải nghiệm sống thực tế của bạn lại càng ít đi.",
+        "search": "hoat hinh isometric nguoi dung giua bien anh ky thuat so",
+        "caption": "More photos, less real life experience"
+      },
+      {
+        "narration": "Giải pháp đơn giản: hãy dành 10 giây nhìn bằng mắt thường trước khi bấm máy.",
+        "search": "hoat hinh 3d nguoi mien cuoi nhin canh vat khong dung dien thoai",
+        "caption": "Look with eyes 10 seconds before shooting"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T13:11:04.077817+00:00",
+    "updated_at": "2026-11-06T13:13:07.125077+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-06T13:11:35.973387+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "502 chars (cat 77 de vua 55s)",
+        "at": "2026-11-06T13:11:48.323258+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-06T13:11:56.775656+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T13:11:57.843908+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-06T13:12:13.198024+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-06T13:12:13.297297+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.6s 23496971 bytes",
+        "at": "2026-11-06T13:13:06.761358+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T13:13:07.125055+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8817001/8817001-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8151971/8151971-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39459371/16806701_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727470/16727470-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40049124/17095952_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8717400/8717400-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816949/8816949-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/17770571/17770571-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/39499521/16826874_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/4841983/4841983-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/31306814/13366587_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6665316/6665316-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "38f37e5941",
     "kind": "short",
     "channel": "Channel2",
