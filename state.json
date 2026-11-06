@@ -1,5 +1,161 @@
 [
   {
+    "id": "094fc9ea60",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Horrific Sacrifice Terrified an Invincible Army",
+    "idea": {
+      "title": "How 1 Horrific Sacrifice Terrified an Invincible Army",
+      "hook": "In 496 BC, King Goujian faced an unstoppable army—so he forced his front line to do something so terrifying, the enemy froze in horror.",
+      "beats": [
+        "The small kingdom of Yue was about to be obliterated by the massive army of Wu.",
+        "Instead of charging, King Goujian lined up hundreds of condemned convicts across the front line.",
+        "On his signal, every convict drew a blade and slit their own throat in total silence.",
+        "Traumatized and disoriented by the ghastly display, the opposing army broke formation and was easily slaughtered."
+      ],
+      "keywords": [
+        "ancient china warrior",
+        "battle of lishui",
+        "king goujian",
+        "ancient chinese army map",
+        "swordsmen battlefield"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#warhistory",
+        "#darkhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One unthinkable sacrifice destroyed an invincible ancient army.",
+        "search": "ancient chinese warrior ink painting portrait",
+        "caption": "One unthinkable sacrifice destroyed an invincible ancient army."
+      },
+      {
+        "narration": "In 496 BC, the small State of Yue faced complete destruction by the massive Kingdom of Wu.",
+        "search": "ancient chinese army map engraving",
+        "caption": "In 496 BC, Yue faced total annihilation by Wu."
+      },
+      {
+        "narration": "King Helü of Wu deployed thousands of veteran soldiers at the Battle of Lishui.",
+        "search": "ancient china battlefield swordsmen illustration",
+        "caption": "King Helü deployed thousands of veteran soldiers."
+      },
+      {
+        "narration": "Vastly outnumbered, King Goujian of Yue realized standard tactics would guarantee immediate defeat.",
+        "search": "king goujian portrait illustration ancient china",
+        "caption": "Outnumbered King Goujian faced certain defeat in open battle."
+      },
+      {
+        "narration": "Instead of ordering a charge, Goujian marched hundreds of condemned criminals to the front line.",
+        "search": "ancient chinese soldiers front line ink painting",
+        "caption": "Goujian lined hundreds of condemned prisoners at the front."
+      },
+      {
+        "narration": "As the Wu army watched in utter confusion, the prisoners raised their swords in unison.",
+        "search": "ancient bronze sword artifact china museum photograph",
+        "caption": "The front line raised their blades in utter silence."
+      },
+      {
+        "narration": "On command, every prisoner slit their own throat, falling dead in silence before the enemy ranks.",
+        "search": "ancient chinese war manuscript drawing battle",
+        "caption": "Hundreds sacrificed themselves simultaneously before the enemy."
+      },
+      {
+        "narration": "Paralyzed by psychological shock, the Wu army shattered their formation and fell to Goujian's surprise assault.",
+        "search": "battle of lishui ancient chinese army artwork",
+        "caption": "Stunned by horror, the Wu army was completely shattered."
+      },
+      {
+        "narration": "The 496 BC battle at Lishui shattered the invader's lines and left King Helü of Wu mortally wounded during the retreat.",
+        "search": "ancient china battle ink painting drawing",
+        "caption": "King Helü of Wu suffered a fatal wound during the retreat."
+      },
+      {
+        "narration": "King Goujian's ruthless psychological warfare secured an improbable triumph against an army that vastly outnumbered his own.",
+        "search": "king goujian of yue portrait painting",
+        "caption": "Psychological terror dismantled a superior military force."
+      },
+      {
+        "narration": "This horrific sacrifice saved the kingdom of Yue, proving that terror could instantly break an invincible empire.",
+        "search": "ancient china spring and autumn period map engraving",
+        "caption": "One grim sacrifice saved Yue and reshaped ancient history."
+      },
+      {
+        "narration": "An invincible army was defeated by a single terrifying sacrifice.",
+        "search": "ancient chinese battle oil painting",
+        "caption": "An army paralyzed by horror in 496 BC."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T22:16:15.246216+00:00",
+    "updated_at": "2026-11-06T22:18:52.746100+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-06T22:16:35.250234+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "411 chars (cat 256 de vua 55s)",
+        "at": "2026-11-06T22:16:46.146157+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.2s en-US-GuyNeural 7 cau",
+        "at": "2026-11-06T22:16:53.951237+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T22:16:54.905401+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-06T22:18:07.793181+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T22:18:07.899161+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.2s 17563457 bytes",
+        "at": "2026-11-06T22:18:52.324671+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T22:18:52.746081+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34165829/pexels-photo-34165829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37555249/pexels-photo-37555249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13030420/pexels-photo-13030420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40593434/pexels-photo-40593434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7610580/pexels-photo-7610580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40422230/pexels-photo-40422230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30150845/pexels-photo-30150845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30737854/pexels-photo-30737854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6593545/pexels-photo-6593545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29035980/pexels-photo-29035980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32748037/pexels-photo-32748037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15957753/pexels-photo-15957753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4cc3ffa554",
     "kind": "short",
     "channel": "Channel3",
