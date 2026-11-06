@@ -1,5 +1,167 @@
 [
   {
+    "id": "4cc3ffa554",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do chân bạn tê rần như kim châm khi ngồi lâu",
+    "idea": {
+      "title": "Bí mật lý do chân bạn tê rần như kim châm khi ngồi lâu",
+      "hook": "Bạn nghĩ chân bị tê rần vì máu không lưu thông? Sự thật là bạn đang âm thầm 'bóp cổ' dây thần kinh của chính mình.",
+      "beats": [
+        "Tư thế ngồi xổm hoặc đè chân khiến dây thần kinh bị chèn ép vật lý.",
+        "Tín hiệu điện giữa não và bàn chân bị gián đoạn hoàn toàn.",
+        "Khi bạn thả chân ra, hàng triệu xung thần kinh bùng nổ cùng lúc tạo cảm giác như kim châm.",
+        "Duy trì tư thế này liên tục có thể gây tổn thương sợi thần kinh ngoại biên."
+      ],
+      "keywords": [
+        "person sitting crossed legs",
+        "nerve axon impulse animation",
+        "tingling pin feeling graphic",
+        "human posture ergonomics",
+        "leg numbness concept"
+      ],
+      "tags": [
+        "sức khỏe",
+        "bí mật cơ thể",
+        "thói quen hàng ngày",
+        "khoa học đời sống",
+        "Channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chân tê không phải do thiếu máu. Bạn đang tự bóp cổ dây thần kinh của mình.",
+        "search": "hoat hinh 3d nguoi ngoi khoanh chan bi te chan",
+        "caption": "Tê chân không phải do thiếu máu"
+      },
+      {
+        "narration": "Khi bạn ngồi bắt chéo chân hoặc khoanh chân quá lâu, trọng lượng cơ thể đè trực tiếp lên đùi.",
+        "search": "mo phong 3d tu the ngoi bat cheo chan",
+        "caption": "Áp lực đè nén liên tục lên đùi"
+      },
+      {
+        "narration": "Dây thần kinh hông to và dây thần kinh mác bị ép chặt vào xương như ống nước bị gập.",
+        "search": "do hoa 3d day than kinh hong to bi chen ep",
+        "caption": "Dây thần kinh bị đè chặt vào xương"
+      },
+      {
+        "narration": "Sự chèn ép vật lý này làm các tín hiệu điện truyền từ não xuống chân bị chặn lại.",
+        "search": "hoat hinh xung dien than kinh bi giam doan",
+        "caption": "Tín hiệu thần kinh bị gián đoạn"
+      },
+      {
+        "narration": "Khi dòng truyền tải bị nghẽn, não bộ hoàn toàn mất kết nối cảm giác với vùng bàn chân.",
+        "search": "do hoa 3d nao bo mat ket noi voi ban chan",
+        "caption": "Não mất kết nối cảm giác bàn chân"
+      },
+      {
+        "narration": "Các sợi thần kinh rơi vào trạng thái tê liệt tạm thời do thiếu máu nuôi dưỡng cục bộ.",
+        "search": "mo phong 3d soi than kinh ngoai bien bi thieu oxy",
+        "caption": "Sợi thần kinh bị thiếu oxy tạm thời"
+      },
+      {
+        "narration": "Ngay khoảnh khắc bạn thay đổi tư thế, điểm thắt nghẽn được giải phóng đột ngột.",
+        "search": "hoat hinh 3d nguoi dung len duoi chan khoi ngoi",
+        "caption": "Thắt nút được giải phóng đột ngột"
+      },
+      {
+        "narration": "Hàng triệu xung điện thần kinh bị ứ đọng lập tức bùng nổ ồ ạt qua điểm bị kẹt.",
+        "search": "do hoa 3d luong xung dien bung no trong day than kinh",
+        "caption": "Hàng triệu xung điện bùng nổ cùng lúc"
+      },
+      {
+        "narration": "Cảm giác như hàng ngàn cây kim đâm vào da thịt thực chất là tiếng kêu cứu của hệ thần kinh.",
+        "search": "tingling pin feeling graphic motion graphics",
+        "caption": "Hàng ngàn mũi kim châm cứu ảo giác"
+      },
+      {
+        "narration": "Đó là lúc các dây thần kinh đang cố gắng kết nối lại tín hiệu với não bộ sau thời gian bị bóp nghẹt.",
+        "search": "nerve axon impulse animation loop animation",
+        "caption": "Tín hiệu thần kinh kết nối lại"
+      },
+      {
+        "narration": "Tuy nhiên, nếu tình trạng này diễn ra quá thường xuyên, lớp vỏ bọc bảo vệ sợi thần kinh sẽ bị tổn thương.",
+        "search": "human posture ergonomics isometric render",
+        "caption": "Vỏ bảo vệ thần kinh bị tổn thương"
+      },
+      {
+        "narration": "Sự chèn ép kéo dài có thể dẫn đến tê bì mãn tính và làm suy yếu khả năng vận động của bàn chân.",
+        "search": "person sitting crossed legs 3d animation",
+        "caption": "Nguy cơ tê bì và suy yếu vận động"
+      },
+      {
+        "narration": "Hãy thay đổi tư thế và đứng dậy đi lại mỗi ba mươi phút để giải cứu dây thần kinh của bạn.",
+        "search": "leg numbness concept explainer animation",
+        "caption": "Giải cứu dây thần kinh ngay lập tức"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T20:58:58.759284+00:00",
+    "updated_at": "2026-11-06T21:01:52.772763+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-06T20:59:59.336280+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "527 chars (cat 119 de vua 55s)",
+        "at": "2026-11-06T21:00:12.860255+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.3s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-06T21:00:22.590820+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T21:00:23.920912+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-06T21:00:43.088835+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-06T21:00:43.196182+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.3s 20278710 bytes",
+        "at": "2026-11-06T21:01:52.402184+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T21:01:52.772734+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/37340279/15815506_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/11760275/11760275-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/29058029/12560656_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6466605/6466605-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107090/13688557_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/36584917/15510775_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/39402054/16776819_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8321929/8321929-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819925/8819925-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39863062/17002350_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6799874/6799874-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8447426/8447426-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/9489489/9489489-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "b9eba861cf",
     "kind": "long",
     "channel": "seigh",
