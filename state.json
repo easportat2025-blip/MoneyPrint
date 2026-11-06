@@ -1,5 +1,161 @@
 [
   {
+    "id": "38f37e5941",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Sacred Chicken Disaster Destroyed Rome's Fleet",
+    "idea": {
+      "title": "How 1 Sacred Chicken Disaster Destroyed Rome's Fleet",
+      "hook": "In 249 BC, Roman Admiral Claudius Pulcher executed his own sacred chickens before battle—triggering Rome's most humiliating naval defeat in history.",
+      "beats": [
+        "Roman augurs warned Admiral Pulcher that the sacred chickens refused to eat, signaling a divine curse.",
+        "Furious at the delay, Pulcher yelled 'If they won't eat, let them drink!' and threw them into the sea.",
+        "The Carthaginian fleet ambushed the rattled Romans at Drepana, sinking 93 warships in hours.",
+        "Rome blamed the divine sacrilege for losing 20,000 men, putting Pulcher on trial for high treason."
+      ],
+      "keywords": [
+        "Roman warship painting",
+        "Ancient Carthage engraving",
+        "Roman bust Claudius",
+        "Punic war battle map",
+        "Ancient naval combat artwork"
+      ],
+      "tags": [
+        "#ancienthistory",
+        "#rome",
+        "#romanempire",
+        "#history",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did executing sacred chickens destroy Rome's fleet in 249 BC?",
+        "search": "Roman naval battle oil painting",
+        "caption": "Did sacred chickens destroy Rome's entire fleet in 249 BC?"
+      },
+      {
+        "narration": "In 249 BC, Consul Publius Claudius Pulcher led Rome's navy toward Drepana to strike Carthage.",
+        "search": "Publius Claudius Pulcher bust statue",
+        "caption": "Consul Claudius Pulcher targeted Carthaginians at Drepana in 249 BC."
+      },
+      {
+        "narration": "Before engaging, Roman military protocol required augurs to inspect sacred chickens for divine signs.",
+        "search": "Ancient Roman augur ritual engraving",
+        "caption": "Roman generals consulted sacred chickens for divine omens before battle."
+      },
+      {
+        "narration": "Offered grain aboard the flagship, the sacred birds refused to eat, signaling a curse.",
+        "search": "Ancient Roman altar ritual oil painting",
+        "caption": "The sacred chickens refused grain, signaling a disastrous divine omen."
+      },
+      {
+        "narration": "Enraged by the warning, Consul Pulcher hurled the chickens into the sea to drown.",
+        "search": "Ancient Roman warship deck illustration",
+        "caption": "Pulcher threw the sacred birds overboard into the sea."
+      },
+      {
+        "narration": "Terrified by this sacrilege, the superstitious Roman crew panicked and broke tactical formation.",
+        "search": "First Punic War battle map engraving",
+        "caption": "Rattled Roman sailors panicked, losing tactical formation near Drepana."
+      },
+      {
+        "narration": "Carthaginian Admiral Adherbal counterattacked immediately, trapping ninety-three Roman warships against the rocky coast.",
+        "search": "Ancient Carthage naval fleet battle painting",
+        "caption": "Carthaginian Admiral Adherbal trapped 93 Roman warships against shore."
+      },
+      {
+        "narration": "Rome lost twenty thousand men in hours, prompting high treason charges against Pulcher.",
+        "search": "Ancient Roman Senate trial engraving",
+        "caption": "Rome lost 20,000 men and tried Pulcher for high treason."
+      },
+      {
+        "narration": "Put on trial in 249 BC for impiety and treason, Claudius Pulcher escaped execution but was crippled by massive fines.",
+        "search": "roman marble bust statue close up",
+        "caption": "Pulcher faced treason charges and massive fines in 249 BC."
+      },
+      {
+        "narration": "The annihilation at Drepana stripped Rome of its naval dominance, delaying victory in the First Punic War by seven years.",
+        "search": "ancient punic war map engraving",
+        "caption": "The disaster stripped Rome of its naval power for years."
+      },
+      {
+        "narration": "From that day forward, Roman commanders strictly obeyed sacred omens, forever marked by the catastrophe off Drepana.",
+        "search": "ancient naval combat oil painting",
+        "caption": "Arrogance against sacred omens cost Rome ninety-three warships."
+      },
+      {
+        "narration": "Did sacred chickens really sink Rome's naval fleet?",
+        "search": "Ancient naval combat artwork oil painting",
+        "caption": "Did chickens destroy Rome's fleet?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-06T11:46:15.616004+00:00",
+    "updated_at": "2026-11-06T11:48:12.949571+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-06T11:46:42.454562+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "432 chars (cat 61 de vua 55s)",
+        "at": "2026-11-06T11:46:57.442994+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.7s en-US-GuyNeural 6 cau",
+        "at": "2026-11-06T11:47:00.818409+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-06T11:47:01.524485+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-06T11:47:38.759020+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-06T11:47:38.842104+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.7s 18969609 bytes",
+        "at": "2026-11-06T11:48:12.625028+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-06T11:48:12.949530+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20644995/pexels-photo-20644995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38788153/pexels-photo-38788153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19947330/pexels-photo-19947330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17571702/pexels-photo-17571702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37382583/pexels-photo-37382583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34216792/pexels-photo-34216792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16658375/pexels-photo-16658375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30508594/pexels-photo-30508594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32495092/pexels-photo-32495092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627842/pexels-photo-8627842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13834912/pexels-photo-13834912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1616165/pexels-photo-1616165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4523094de1",
     "kind": "short",
     "channel": "Channel2",
