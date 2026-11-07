@@ -1,5 +1,161 @@
 [
   {
+    "id": "b162d3e916",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a King Willed His Empire to Rome for Free",
+    "idea": {
+      "title": "Why a King Willed His Empire to Rome for Free",
+      "hook": "King Attalus III did the unthinkable on his deathbed: he gave his wealthy kingdom to Rome for free, but his peaceful gift triggered decades of Roman bloodshed.",
+      "beats": [
+        "In 133 BC, King Attalus III of Pergamon died without a direct heir and shocked the ancient world by willing his kingdom to the Roman Republic.",
+        "He hoped this desperate sacrifice would save his citizens from a brutal Roman conquest.",
+        "Instead, Roman politicians fought bitterly over the massive royal fortune.",
+        "Tiberius Gracchus tried using the wealth to aid poor citizens, sparking political assassinations that plunged Rome into civil war."
+      ],
+      "keywords": [
+        "attalus iii painting",
+        "ancient pergamon map",
+        "roman republic senate engraving",
+        "tiberius gracchus portrait",
+        "ancient throne illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#romanhistory",
+        "#documentary",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A dying king’s free gift destroyed the Roman Republic.",
+        "search": "ancient throne illustration gold crown",
+        "caption": "A king’s gift destroyed the Roman Republic."
+      },
+      {
+        "narration": "In 133 BC, the Kingdom of Pergamon was one of the wealthiest powers in the Mediterranean.",
+        "search": "ancient pergamon map engraving",
+        "caption": "133 BC: Pergamon was immensely wealthy."
+      },
+      {
+        "narration": "Facing relentless Roman expansion, King Attalus III knew his army could not withstand a siege.",
+        "search": "attalus iii coin head portrait",
+        "caption": "King Attalus III faced Roman conquest."
+      },
+      {
+        "narration": "To protect his citizens from slaughter, Attalus willed his entire empire to Rome on his deathbed.",
+        "search": "ancient royal parchment manuscript illustration",
+        "caption": "He willed his empire to Rome."
+      },
+      {
+        "narration": "The Roman Republic suddenly inherited vast gold reserves, igniting bitter greed among elite patricians.",
+        "search": "roman republic senate engraving",
+        "caption": "Vast royal wealth flooded into Rome."
+      },
+      {
+        "narration": "Tribune Tiberius Gracchus bypassed the Senate, proposing to distribute the royal fortune directly to poor citizens.",
+        "search": "tiberius gracchus portrait bust statue",
+        "caption": "Tiberius Gracchus claimed the royal treasure."
+      },
+      {
+        "narration": "Furious senators accused Gracchus of seeking royal power, causing tensions in the Forum to explode into violence.",
+        "search": "roman forum violence historical engraving",
+        "caption": "Outraged senators turned to violence."
+      },
+      {
+        "narration": "Gracchus was beaten to death, igniting a century of political assassinations that ultimately destroyed Rome's democracy.",
+        "search": "death of tiberius gracchus oil painting",
+        "caption": "His assassination began Rome's bloody downfall."
+      },
+      {
+        "narration": "By 129 BC, the Roman Republic crushed local rebellions and officially annexed Pergamon into the lucrative province of Asia.",
+        "search": "ancient pergamon map engraving became",
+        "caption": "Pergamon became Rome's wealthiest province in 129 BC."
+      },
+      {
+        "narration": "The endless influx of royal riches corrupted Roman politics, funding private armies and military dictatorships.",
+        "search": "roman republic senate engraving unprecedented",
+        "caption": "Unprecedented wealth fueled warlords and civil war."
+      },
+      {
+        "narration": "King Attalus III surrendered his kingdom to prevent a conquest, unwittingly handing Rome the wealth that destroyed its democracy.",
+        "search": "attalus iii painting",
+        "caption": "A peaceful gift became the catalyst for Rome's downfall."
+      },
+      {
+        "narration": "Why did a king hand Rome an empire for free?",
+        "search": "ancient throne illustration oil painting",
+        "caption": "A king gave Rome an entire empire for free."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T06:57:55.852469+00:00",
+    "updated_at": "2026-11-07T07:02:56.788395+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-07T06:59:58.297472+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "379 chars (cat 183 de vua 55s)",
+        "at": "2026-11-07T07:00:50.830998+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.5s en-US-GuyNeural 4 cau",
+        "at": "2026-11-07T07:00:52.964940+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T07:00:53.555832+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-07T07:02:30.317320+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T07:02:30.401916+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.5s 16206584 bytes",
+        "at": "2026-11-07T07:02:56.450253+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T07:02:56.788374+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39458140/pexels-photo-39458140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31438154/pexels-photo-31438154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40235928/pexels-photo-40235928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5986495/pexels-photo-5986495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33581849/pexels-photo-33581849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12184734/pexels-photo-12184734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19376017/pexels-photo-19376017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19203246/pexels-photo-19203246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39904265/pexels-photo-39904265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7219020/pexels-photo-7219020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5757771/pexels-photo-5757771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e18970c816",
     "kind": "short",
     "channel": "Channel3",
