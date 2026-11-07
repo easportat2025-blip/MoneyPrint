@@ -1,5 +1,161 @@
 [
   {
+    "id": "b1d071430b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How King John Lost His Entire Royal Gold in a Tide",
+    "idea": {
+      "title": "How King John Lost His Entire Royal Gold in a Tide",
+      "hook": "In 1216, King John of England attempted a shortcut across a dangerous bay, losing his entire royal treasury to the sea in minutes.",
+      "beats": [
+        "King John was retreating from rebel forces across a muddy tidal estuary known as The Wash.",
+        "Misjudging the incoming tide, his heavy baggage train sank into quicksand and rushing ocean water.",
+        "Crown jewels, gold coins, and ancient royal relics vanished into the muddy depths forever.",
+        "Heartbroken and ruined, King John died of dysentery just days later, leaving England in chaos."
+      ],
+      "keywords": [
+        "king john medieval portrait",
+        "treacherous tidal bay washed",
+        "medieval baggage train mud",
+        "ancient crown jewels gold",
+        "medieval king dying bed"
+      ],
+      "tags": [
+        "history",
+        "king john",
+        "british history",
+        "medieval history",
+        "lost treasure"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1216, England's entire royal treasure vanished underwater instantly.",
+        "search": "king john of england medieval manuscript portrait",
+        "caption": "England's entire royal treasure vanished underwater in 1216."
+      },
+      {
+        "narration": "King John faced a brutal rebellion by French forces and English barons across East Anglia.",
+        "search": "medieval battle royal barons manuscript illumination",
+        "caption": "King John fought rebellious barons across England in 1216."
+      },
+      {
+        "narration": "Seeking a fast retreat from Lynn to Lincoln, John chose a shortcut across the dangerous estuary known as The Wash.",
+        "search": "ancient map of lincolnshire the wash engraving",
+        "caption": "The king ordered a dangerous shortcut across The Wash estuary."
+      },
+      {
+        "narration": "On October 12, 1216, his heavily burdened baggage train attempted the crossing at low tide.",
+        "search": "medieval baggage wagon horse cart manuscript illustration",
+        "caption": "Heavy wagons loaded with royal treasure marched across the mud."
+      },
+      {
+        "narration": "Mid-crossing, the treacherous quicksand slowed the heavy iron-bound wagons to a complete crawl.",
+        "search": "medieval tidal bay estuary mud salt marsh drawing",
+        "caption": "Quicksand trapped the royal baggage wagons halfway across."
+      },
+      {
+        "narration": "The violent incoming tide rapidly surged into the bay, drowning horses and drivers in deep muddy water.",
+        "search": "treacherous ocean tide crashing waves painting",
+        "caption": "The rushing ocean tide swept over the entire royal column."
+      },
+      {
+        "narration": "The ancient crown jewels, royal regalia, and thousands of gold coins sank into the mud forever.",
+        "search": "medieval gold coins and crown jewels manuscript illustration",
+        "caption": "Crown jewels and gold coins vanished beneath the muddy sea."
+      },
+      {
+        "narration": "Devastated by the loss, King John contracted dysentery and died days later, leaving a ruined kingdom.",
+        "search": "king john of england tomb effigy statue portrait",
+        "caption": "King John died days later, leaving the lost crown unfound."
+      },
+      {
+        "narration": "In October 1216, nine-year-old Henry III was hastily crowned with a simple gold band, as the centuries-old royal regalia sat trapped under the sea.",
+        "search": "king henry iii coronation illuminated manuscript 13th century",
+        "caption": "Henry III was crowned without the lost royal regalia"
+      },
+      {
+        "narration": "Over eight centuries, shifting coastlines and deep mud covered the estuary, burying the lost baggage train under thirty feet of silt.",
+        "search": "the wash lincolnshire coastline map engraving 18th century",
+        "caption": "Centuries of shifting silt buried the wreckage under land"
+      },
+      {
+        "narration": "Today, King John's medieval fortune remains completely unrecovered, hidden somewhere beneath the fields of Lincolnshire as history's greatest tidal disaster.",
+        "search": "king john of england royal portrait painting",
+        "caption": "King John's multi-million dollar royal treasury remains undiscovered"
+      },
+      {
+        "narration": "In 1216, King John lost England's royal treasure in minutes.",
+        "search": "king john medieval portrait painting close up",
+        "caption": "In 1216, England's entire royal fortune vanished in minutes."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T10:31:35.949354+00:00",
+    "updated_at": "2026-11-07T10:33:38.376229+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-07T10:31:58.546654+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "421 chars (cat 203 de vua 55s)",
+        "at": "2026-11-07T10:32:09.874819+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.3s en-US-GuyNeural 4 cau",
+        "at": "2026-11-07T10:32:13.976805+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T10:32:15.070437+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-07T10:32:47.926239+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T10:32:48.041083+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.3s 17279429 bytes",
+        "at": "2026-11-07T10:33:37.918191+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T10:33:38.376209+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37046490/pexels-photo-37046490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20893105/pexels-photo-20893105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40539893/pexels-photo-40539893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39390952/pexels-photo-39390952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7499896/pexels-photo-7499896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38178101/pexels-photo-38178101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16975992/pexels-photo-16975992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39241256/pexels-photo-39241256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40792001/pexels-photo-40792001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17204380/pexels-photo-17204380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39738022/pexels-photo-39738022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3948710/pexels-photo-3948710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b162d3e916",
     "kind": "short",
     "channel": "Channel2",
