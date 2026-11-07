@@ -1,5 +1,166 @@
 [
   {
+    "id": "59207a6a84",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do não bạn tự xóa sạch giấc mơ sau 5 phút",
+    "idea": {
+      "title": "Bí mật lý do não bạn tự xóa sạch giấc mơ sau 5 phút",
+      "hook": "Bạn vừa trải qua một giấc mơ kịch tính, nhưng vừa ngồi dậy 5 phút là quên sạch không dấu vết? Đó không phải do bạn nhớ kém, mà là não bạn đang cố tình làm vậy!",
+      "beats": [
+        "Khi bạn ngủ, vùng hải mã phụ trách lưu trữ ký ức dài hạn tạm thời ngừng liên lạc với vỏ não.",
+        "Lúc thức dậy, sự tăng đột ngột của chất dẫn truyền Noradrenaline đè nén các dấu vết ký ức còn sót lại.",
+        "Não chủ động phân loại giấc mơ là dữ liệu rác để giải phóng dung lượng cho các thông tin quan trọng trong ngày."
+      ],
+      "keywords": [
+        "brain neuron firing animation",
+        "waking up in bed morning",
+        "memory erasing concept space visual",
+        "sleeping person silhouette dreaming",
+        "abstract digital data disintegrating"
+      ],
+      "tags": [
+        "#channel3",
+        "#giaithichkhoahoc",
+        "#bimabcothe",
+        "#giacngu",
+        "#kienthuckylam"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao tỉnh dậy 5 phút là quên sạch giấc mơ?",
+        "search": "3d animation nguoi nam tren giuong buoi sang",
+        "caption": "Giấc mơ biến mất chỉ sau 5 phút thức dậy"
+      },
+      {
+        "narration": "Đó không phải do bạn nhớ kém, mà là do não chủ động.",
+        "search": "motion graphics te bao nao phat sang",
+        "caption": "Không phải do trí nhớ bạn kém đâu"
+      },
+      {
+        "narration": "Khi bạn ngủ say, vùng hải mã lưu trữ ký ức tạm thời ngừng liên lạc.",
+        "search": "loop animation bo nao ngu hoat dong",
+        "caption": "Vùng hải mã tạm thời cắt đứt liên lạc"
+      },
+      {
+        "narration": "Nó ngắt kết nối hoàn toàn với phần vỏ não nhận thức.",
+        "search": "isometric render te bao than kinh ngat ket noi",
+        "caption": "Ngừng kết nối hoàn toàn với vỏ não"
+      },
+      {
+        "narration": "Đến lúc thức dậy, chất dẫn truyền Noradrenaline bỗng tăng vọt đột ngột.",
+        "search": "explainer animation hoa chat nao bo tiet ra",
+        "caption": "Noradrenaline tăng vọt khi vừa tỉnh giấc"
+      },
+      {
+        "narration": "Chất này hoạt động như một lực ép đè nén mọi dấu vết còn sót lại.",
+        "search": "3d animation ky úc tan bien thanh khoi",
+        "caption": "Đè nén và xóa sạch các dấu vết sót lại"
+      },
+      {
+        "narration": "Não coi giấc mơ chỉ là dữ liệu rác không cần thiết.",
+        "search": "motion graphics du lieu rac may tinh bien mat",
+        "caption": "Não xem giấc mơ là dữ liệu rác"
+      },
+      {
+        "narration": "Hành động này giúp giải phóng dung lượng cho ngày mới.",
+        "search": "cartoony 3d bo nao don sach thong tin",
+        "caption": "Giải phóng dung lượng cho thông tin quan trọng"
+      },
+      {
+        "narration": "Khi bạn ngủ, vùng hải mã phụ trách lưu trữ ký ức tạm thời ngắt kết nối với vỏ não.",
+        "search": "3d animation brain neuron firing animation",
+        "caption": "Vùng hải mã ngắt kết nối khi ngủ"
+      },
+      {
+        "narration": "Lúc bạn vừa thức dậy, chất dẫn truyền Noradrenaline bỗng tăng vọt trong đầu.",
+        "search": "motion graphics waking up in bed morning",
+        "caption": "Noradrenaline tăng vọt khi thức dậy"
+      },
+      {
+        "narration": "Chất này hoạt động như một cục tẩy, quét sạch mọi dấu vết còn sót lại của giấc mơ.",
+        "search": "memory erasing concept space visual",
+        "caption": "Cục tẩy hóa học quét sạch ký ức"
+      },
+      {
+        "narration": "Não chủ động phân loại giấc mơ là dữ liệu rác để giải phóng dung lượng thần kinh.",
+        "search": "sleeping person silhouette dreaming",
+        "caption": "Giấc mơ bị loại bỏ như dữ liệu rác"
+      },
+      {
+        "narration": "Đó là cách não dọn dẹp bộ nhớ mỗi sáng để nhường chỗ cho hàng triệu thông tin mới.",
+        "search": "abstract digital data disintegrating",
+        "caption": "Giải phóng dung lượng cho ngày mới"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T19:31:49.338033+00:00",
+    "updated_at": "2026-11-07T19:34:54.106666+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-07T19:32:54.413900+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "513 chars (cat 63 de vua 55s)",
+        "at": "2026-11-07T19:33:26.590703+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.7s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-11-07T19:33:40.646905+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T19:33:41.583195+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-07T19:33:58.450393+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-07T19:33:58.554609+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.7s 33619101 bytes",
+        "at": "2026-11-07T19:34:53.666639+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T19:34:54.106644+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6475620/6475620-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39322562/16732233_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/31524919/13437760_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/16561471/16561471-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107043/13687942_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/18018810/18018810-hd_1080_1920_15fps.mp4",
+      "https://videos.pexels.com/video-files/39687794/16922280_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029664/16029664-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35638268/15103505_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7592103/7592103-uhd_1440_2496_30fps.mp4",
+      "https://videos.pexels.com/video-files/7296057/7296057-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/6753387/6753387-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34578211/14652363_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "27214bba83",
     "kind": "long",
     "channel": "seigh",
