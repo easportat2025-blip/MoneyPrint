@@ -1,5 +1,169 @@
 [
   {
+    "id": "e18970c816",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Cái giá đáng sợ khi cắm sạc điện thoại tại cổng USB công cộng",
+    "idea": {
+      "title": "Cái giá đáng sợ khi cắm sạc điện thoại tại cổng USB công cộng",
+      "hook": "Mỗi khi bạn vô tư cắm dây sạc vào các cổng USB miễn phí ở sân bay hay quán cà phê, bạn có thể đang mở cửa cho kẻ gian lấy sạch tiền trong tài khoản.",
+      "beats": [
+        "Cáp USB không chỉ truyền điện mà còn tự động kết nối đường truyền dữ liệu giữa hai thiết bị.",
+        "Tội phạm mạng cài cắm linh kiện ẩn bên trong cổng sạc công cộng (thủ thuật Juice Jacking).",
+        "Ngay khi cắm dây, phần mềm độc hại tự động tải về để đánh cắp mật khẩu, ảnh riêng tư và ứng dụng ngân hàng.",
+        "Điện thoại thường không hiện cảnh báo vì cổng sạc công cộng giả lập kết nối an toàn.",
+        "Giải pháp: Luôn dùng củ sạc riêng cắm vào ổ điện AC hoặc sử dụng đầu chuyển đổi Data Blocker."
+      ],
+      "keywords": [
+        "public usb charging station",
+        "hacker smartphone security",
+        "airport charging port",
+        "cyber crime data thief",
+        "data blocker adapter"
+      ],
+      "tags": [
+        "meo dung dien thoai",
+        "cybersecurity",
+        "cong sac cong cong",
+        "channel3",
+        "tin hoc",
+        "kienthucxahoi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cắm sạc công cộng có thể khiến bạn mất sạch tiền.",
+        "search": "hoat hinh 3d cong usb phat sang nguy hiem",
+        "caption": "Cắm sạc công cộng có thể mất sạch tiền"
+      },
+      {
+        "narration": "Dây sạc USB bạn dùng hằng ngày không chỉ dẫn điện mà còn tự động kết nối luồng truyền dữ liệu.",
+        "search": "3d motion graphics soi cap usb truyen dong dien va du lieu",
+        "caption": "Cáp USB vừa truyền điện vừa mở luồng dữ liệu"
+      },
+      {
+        "narration": "Tội phạm mạng lén cài thêm vi mạch tí hon bên trong các cổng sạc ở sân bay hay quán cà phê.",
+        "search": "hoat hinh 3d cong sac san bay bi cai chip an",
+        "caption": "Kẻ gian cài vi mạch ẩn vào cổng sạc công cộng"
+      },
+      {
+        "narration": "Chiêu trò này gọi là Juice Jacking, biến cổng sạc thông thường thành thiết bị đọc lén dữ liệu.",
+        "search": "isometric render dien thoai bi ket noi thiet bi hack an",
+        "caption": "Mánh khóe Juice Jacking biến cổng sạc thành bẫy"
+      },
+      {
+        "narration": "Ngay khoảnh khắc cắm dây, phần mềm độc hại sẽ tự động tải thẳng vào bộ nhớ điện thoại.",
+        "search": "hoat hinh 3d ma doc tu dong tai vao dien thoai",
+        "caption": "Phần mềm độc hại tự động xâm nhập khi cắm dây"
+      },
+      {
+        "narration": "Chỉ vài giây sau, mật khẩu, ảnh riêng tư và ứng dụng ngân hàng của bạn đều bị chiếm đoạt.",
+        "search": "3d animation hacker lay cap mat khau va mat ma ngan hang",
+        "caption": "Mật khẩu và ứng dụng ngân hàng bị đánh cắp"
+      },
+      {
+        "narration": "Điện thoại thường không hiện cảnh báo vì cổng sạc giả mạo đã tạo kết nối an toàn giả.",
+        "search": "hoat hinh 3d man hinh dien thoai khong hien canh bao",
+        "caption": "Điện thoại hoàn toàn không xuất hiện cảnh báo"
+      },
+      {
+        "narration": "Hãy luôn dùng củ sạc riêng cắm vào ổ điện hoặc trang bị thêm đầu chuyển Data Blocker.",
+        "search": "3d motion graphics cu sac tuong va dau chuyen data blocker",
+        "caption": "Dùng củ sạc riêng hoặc đầu chuyển Data Blocker"
+      },
+      {
+        "narration": "Cắm sạc USB miễn phí có thể làm mất sạch tiền trong tài khoản.",
+        "search": "hoat hinh 3d dien thoai cam sac usb va bieu tuong tien",
+        "caption": "Cắm sạc USB công cộng làm mất sạch tiền?"
+      },
+      {
+        "narration": "Dây cáp USB không chỉ truyền điện mà còn tự động mở đường truyền dữ liệu giữa hai thiết bị.",
+        "search": "hoat hinh 3d day cap usb chay luong du lieu",
+        "caption": "Cáp USB vừa truyền điện vừa mở đường truyền dữ liệu"
+      },
+      {
+        "narration": "Tội phạm mạng lén cài vi mạch ẩn bên trong cổng sạc công cộng qua thủ thuật Juice Jacking.",
+        "search": "hoat hinh isometric hacker cai vi mach vao cong sac",
+        "caption": "Hacker giấu vi mạch độc hại vào cổng USB công cộng"
+      },
+      {
+        "narration": "Mã độc tự động tải về đánh cắp mật khẩu ngân hàng mà điện thoại không hề hiển thị cảnh báo.",
+        "search": "3d motion graphics dien thoai bi lay mat khau ngan hang",
+        "caption": "Mã độc tự lấy mật khẩu ngân hàng mà không báo"
+      },
+      {
+        "narration": "Để an toàn, luôn dùng củ sạc riêng cắm ổ điện tường hoặc dùng đầu chuyển Data Blocker.",
+        "search": "hoat hinh 3d o cich dien tuong va dau chuyen data blocker",
+        "caption": "Dùng củ sạc riêng hoặc đầu chuyển Data Blocker"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T06:20:14.736706+00:00",
+    "updated_at": "2026-11-07T06:23:12.797680+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-07T06:21:09.601061+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "533 chars (cat 53 de vua 55s)",
+        "at": "2026-11-07T06:21:42.135521+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-07T06:21:49.410568+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T06:21:50.615484+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-07T06:22:05.955865+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-07T06:22:06.073688+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.5s 24629984 bytes",
+        "at": "2026-11-07T06:23:12.310836+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T06:23:12.797664+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/36460608/15460519_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7033629/7033629-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/38410498/16310019_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/5083553/5083553-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/5925288/5925288-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7985889/7985889-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029663/16029663-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8817011/8817011-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/28941585/12524226_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/5377685/5377685-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/32365211/13807587_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/16456768/16456768-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "9923ff0348",
     "kind": "short",
     "channel": "Channel2",
