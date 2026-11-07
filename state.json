@@ -1,5 +1,167 @@
 [
   {
+    "id": "ecc0b8e220",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm khi bẻ khớp ngón tay âm thầm bào mòn khớp",
+    "idea": {
+      "title": "Sai lầm khi bẻ khớp ngón tay âm thầm bào mòn khớp",
+      "hook": "Tiếng lách tách sảng khoái khi bạn bẻ ngón tay thực ra không phải do xương kêu, mà là một quả bom hơi nhỏ đang phát nổ bên trong cơ thể bạn.",
+      "beats": [
+        "Giải thích hiện tượng bong bóng khí nitơ trong dịch khớp bị ép vỡ đột ngột khi bạn kéo giãn các đốt xương.",
+        "Sự thật về việc thói quen này không gây viêm khớp như lời đồn, nhưng làm giảm lực nắm của bàn tay theo thời gian.",
+        "Hình ảnh mô phỏng 3D hoạt động của các ổ khớp bị áp lực liên tục và cách cơ thể cố gắng thích nghi.",
+        "Lời khuyên thay thế bằng các bài tập giãn cơ nhẹ nhàng giúp giải tỏa căng thẳng khớp an toàn hơn."
+      ],
+      "keywords": [
+        "joint anatomy 3d",
+        "synovial fluid bubbles",
+        "finger cracking science",
+        "hand skeleton motion",
+        "cartilage pressure animation"
+      ],
+      "tags": [
+        "sức khỏe",
+        "cơ thể người",
+        "khoa học vui",
+        "thói quen",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tiếng bẻ ngón tay thực ra là vụ nổ.",
+        "search": "ban tay 3d am bam ngon tay hoat hoa",
+        "caption": "Tiếng bẻ ngón tay thực chất là một vụ nổ."
+      },
+      {
+        "narration": "Khi bạn kéo giãn các đốt xương, áp suất trong dịch khớp giảm xuống cực thấp.",
+        "search": "o khop ban tay 3d bao khop chat loong hoat hoa",
+        "caption": "Áp suất bên trong ổ khớp giảm đột ngột."
+      },
+      {
+        "narration": "Khí nitơ tích tụ lập tức bong vỡ ra tạo nên tiếng lách tách sảng khoái.",
+        "search": "bong bong khi nito vo trong chat loong 3d hoat hoa",
+        "caption": "Bong bóng khí nitơ vỡ tan tạo tiếng động."
+      },
+      {
+        "narration": "Nhiều người sợ bị viêm khớp nhưng nghiên cứu chứng minh thói quen này không gây viêm.",
+        "search": "mo hinh xuong ban tay 3d va sun khop",
+        "caption": "Bẻ ngón tay không trực tiếp gây viêm khớp."
+      },
+      {
+        "narration": "Tác hại thực sự nằm ở việc các dây chằng quanh khớp bị bóp nghẹt liên tục.",
+        "search": "luc nam ban tay do voi may do hoat hoa 3d",
+        "caption": "Dây chằng quanh khớp bị nén ép liên tục."
+      },
+      {
+        "narration": "Áp lực này âm thầm làm suy giảm tới 25% lực nắm của bàn tay.",
+        "search": "lop sun khop ngon tay 3d bi bao mon hoat hoa",
+        "caption": "Lực nắm bàn tay suy giảm rõ rệt."
+      },
+      {
+        "narration": "Mô mềm xung quanh khớp sẽ dần phì đại khiến ngón tay thô to bất thường.",
+        "search": "ngon tay bi sung mo mem hoat hoa 3d isometric",
+        "caption": "Mô mềm phì đại làm ngón tay thô to."
+      },
+      {
+        "narration": "Thay vì bẻ khớp, hãy duỗi thẳng và vuốt nhẹ ngón tay để giải tỏa căng thẳng an toàn.",
+        "search": "bai tap gian ngon tay nhe ngang hoat hoa 3d",
+        "caption": "Vuốt duỗi nhẹ nhàng giúp bảo vệ khớp."
+      },
+      {
+        "narration": "Áp lực từ tiếng bẻ khớp lên tới 100 megapascal, tương đương áp suất ở đáy đại dương đè trực tiếp lên sụn.",
+        "search": "hoat hinh 3d mo phong ap luc mo mem sun khop ngon tay",
+        "caption": "Áp lực bẻ khớp tương đương đáy đại dương"
+      },
+      {
+        "narration": "Bong bóng khí nổ liên tục khiến bao khớp bị giãn rộng, làm suy giảm đến 25% lực bóp bàn tay.",
+        "search": "hoat hinh 3d mo phong bong bong khi nitor tan vo trong dich khop",
+        "caption": "Lực nắm bàn tay suy giảm đến 25 phần trăm"
+      },
+      {
+        "narration": "Các dây chằng xung quanh đốt xương bị vi tổn thương lặp đi lặp lại, tự chữa lành bằng cách bồi đắp mô xơ.",
+        "search": "hoat hinh 3d day chang ngon tay bi keo cang va ton thuong",
+        "caption": "Dây chằng bị tổn thương tạo thành mô xơ"
+      },
+      {
+        "narration": "Lớp mô xơ dày lên làm các khớp ngón tay bị phì đại thô to, làm mất đi sự linh hoạt vốn có.",
+        "search": "hoat hinh 3d khac hoa khop ngon tay bi bien dang phi dai",
+        "caption": "Ngón tay phì đại làm giảm sự linh hoạt"
+      },
+      {
+        "narration": "Thay vì bẻ, hãy xòe rộng bàn tay và vuốt nhẹ từng ngón trong 5 giây để giải tỏa áp lực khớp an toàn.",
+        "search": "hoat hinh 3d dong tac xoe tay va vuot ngon tay thu gian",
+        "caption": "Xòe và vuốt ngón tay 5 giây để bảo vệ khớp"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T11:24:03.428511+00:00",
+    "updated_at": "2026-11-07T11:25:48.167369+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-07T11:24:26.813322+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars",
+        "at": "2026-11-07T11:24:40.391989+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.7s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-07T11:24:47.410059+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T11:24:48.272240+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-07T11:25:05.838073+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-07T11:25:05.924715+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.8s 20323348 bytes",
+        "at": "2026-11-07T11:25:47.794175+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T11:25:48.167345+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/28923586/12518192_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/10210122/10210122-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/36217512/15358751_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28122532/12305228_1440_2562_60fps.mp4",
+      "https://videos.pexels.com/video-files/32324541/13787984_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7924518/7924518-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6090866/6090866-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/36641400/15534066_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7744230/7744230-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8426130/8426130-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8817002/8817002-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819586/8819586-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8820503/8820503-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "b1d071430b",
     "kind": "short",
     "channel": "Channel2",
