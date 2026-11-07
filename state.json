@@ -1,5 +1,161 @@
 [
   {
+    "id": "2ed86daf51",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why China's Only Empress Left Her Tombstone Blank",
+    "idea": {
+      "title": "Why China's Only Empress Left Her Tombstone Blank",
+      "hook": "Empress Wu Zetian conquered China's imperial throne through ruthless bloodshed, yet before her death, she ordered her massive royal tombstone to be left completely blank.",
+      "beats": [
+        "Wu Zetian rose from a low-ranking concubine to become China's first and only female Emperor.",
+        "She erected a towering 98-ton stele at her Qianling Mausoleum to mark her resting place.",
+        "Defying imperial tradition, she ordered that not a single word be carved onto the monument.",
+        "Historians believe she secretly left her legacy unwritten, forcing her bitter rivals and future generations to judge her reign themselves."
+      ],
+      "keywords": [
+        "Wu Zetian portrait",
+        "Qianling Mausoleum stele",
+        "ancient China map",
+        "Tang dynasty artwork",
+        "Chinese emperor engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientchina",
+        "#wuzetian",
+        "#documentary",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "China's only female emperor left her tombstone completely blank.",
+        "search": "Qianling Mausoleum blank stele photograph",
+        "caption": "China's only female emperor left her tombstone blank."
+      },
+      {
+        "narration": "In 705 AD, Empress Wu Zetian died after ruling Tang Dynasty China with absolute power.",
+        "search": "ancient China map Tang dynasty artwork",
+        "caption": "Wu Zetian ruled Tang Dynasty China until 705 AD."
+      },
+      {
+        "narration": "She had risen from a low-ranking concubine to seize the imperial throne through calculated intrigue.",
+        "search": "Wu Zetian portrait silk painting",
+        "caption": "From concubine to supreme ruler of China."
+      },
+      {
+        "narration": "At her resting place in the Qianling Mausoleum, she erected a towering 98-ton stone monument.",
+        "search": "Qianling Mausoleum stone monument photo",
+        "caption": "A towering 98-ton monument erected at her mausoleum."
+      },
+      {
+        "narration": "Imperial tradition demanded thousands of carved characters praising the ruler's achievements.",
+        "search": "Tang dynasty Chinese calligraphy engraving stone tablet",
+        "caption": "Imperial tradition demanded carved praises of the ruler."
+      },
+      {
+        "narration": "Yet Wu Zetian ordered that not a single word be carved onto her giant stele.",
+        "search": "unmarked ancient Chinese stone stele sculpture",
+        "caption": "She ordered not a single word to be carved."
+      },
+      {
+        "narration": "Her bloody purges had created ruthless enemies who sought to erase her legacy from history.",
+        "search": "Tang dynasty warrior stone statue relief",
+        "caption": "Decades of bloody purges left behind bitter enemies."
+      },
+      {
+        "narration": "Historians debated whether she hid a secret message or surrendered to her rivals' judgment.",
+        "search": "ancient Chinese scholar ink painting manuscript",
+        "caption": "Did she surrender her legacy to her rivals?"
+      },
+      {
+        "narration": "Before her death in 705 AD, Empress Wu Zetian chose absolute silence over traditional imperial propaganda.",
+        "search": "qianling mausoleum wordless stele stone monument photograph",
+        "caption": "Wu Zetian chose absolute silence over traditional royal propaganda."
+      },
+      {
+        "narration": "Had she inscribed her own praises, incoming Tang Dynasty rivals would have carved away every word to erase her memory.",
+        "search": "tang dynasty emperor portrait painting",
+        "caption": "Inscribing her deeds would invite future emperors to erase them."
+      },
+      {
+        "narration": "By leaving the tablet completely blank, Wu Zetian forced history to speak for her, ensuring her legacy could never be forgotten.",
+        "search": "empress wu zetian portrait painting",
+        "caption": "Her blank tombstone guaranteed her legendary reign would live forever."
+      },
+      {
+        "narration": "China’s only female emperor left her massive tombstone blank.",
+        "search": "Qianling Mausoleum Wordless Stele stone monument photo",
+        "caption": "China's only empress left her tombstone completely blank."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T21:02:12.448456+00:00",
+    "updated_at": "2026-11-07T21:04:21.437488+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-07T21:02:34.407740+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "367 chars (cat 238 de vua 55s)",
+        "at": "2026-11-07T21:02:46.052089+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-07T21:02:49.591761+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T21:02:50.585316+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-07T21:03:35.081330+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T21:03:35.195052+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.6s 17231644 bytes",
+        "at": "2026-11-07T21:04:21.022787+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T21:04:21.437471+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38975021/pexels-photo-38975021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34922800/pexels-photo-34922800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35835975/pexels-photo-35835975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7870806/pexels-photo-7870806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17774493/pexels-photo-17774493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34081556/pexels-photo-34081556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33890165/pexels-photo-33890165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5955738/pexels-photo-5955738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34788344/pexels-photo-34788344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30211495/pexels-photo-30211495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37613623/pexels-photo-37613623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20176184/pexels-photo-20176184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "59207a6a84",
     "kind": "short",
     "channel": "Channel3",
