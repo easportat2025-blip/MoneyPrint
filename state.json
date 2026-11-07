@@ -1,5 +1,161 @@
 [
   {
+    "id": "31b0eac7b9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Mongol General Trapped Europe’s Elite Knights",
+    "idea": {
+      "title": "How 1 Mongol General Trapped Europe’s Elite Knights",
+      "hook": "In 1241, Mongol general Subutai used a fake retreat to lure 30,000 European knights into a deadly swamp, destroying them in hours.",
+      "beats": [
+        "European heavy cavalry believed the Mongol forces were fleeing in panic.",
+        "Subutai deployed a dense smoke screen using burning damp grass to split the army.",
+        "Mongol horse archers surrounded the blinded, heavily armored knights.",
+        "Duke Henry II was killed on the field, halting Europe's crusade instantly."
+      ],
+      "keywords": [
+        "mongol warrior",
+        "medieval knights painting",
+        "subutai general",
+        "battle of liegnitz map",
+        "ancient military armor"
+      ],
+      "tags": [
+        "#history",
+        "#mongolempire",
+        "#medievalhistory",
+        "#tactics",
+        "#historybuff"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Mongol tactic destroyed Europe's elite knights in hours.",
+        "search": "medieval knights battle oil painting",
+        "caption": "How 30,000 elite knights were trapped."
+      },
+      {
+        "narration": "In April 1241, Duke Henry the Pious assembled thirty thousand heavily armored Crusaders near Liegnitz.",
+        "search": "duke henry ii pious portrait painting",
+        "caption": "April 1241: Duke Henry II gathers 30,000 knights."
+      },
+      {
+        "narration": "They faced General Subutai, the legendary commander of the Mongol Empire who had never lost a campaign.",
+        "search": "subutai mongol general portrait painting",
+        "caption": "Mongol General Subutai had never lost a battle."
+      },
+      {
+        "narration": "When the Mongol vanguard suddenly turned and fled, the European cavalry charged, believing victory was instant.",
+        "search": "mongol horse archers feigned retreat manuscript",
+        "caption": "The Mongols staged a sudden fake retreat."
+      },
+      {
+        "narration": "Subutai ignited damp grass, casting a dense screen of smoke that separated the knights from their infantry.",
+        "search": "battle of liegnitz smoke screen map engraving",
+        "caption": "Dense smoke split the knights from their foot soldiers."
+      },
+      {
+        "narration": "Blinded and weighed down by heavy iron, the trapped knights were surrounded by thousands of archers.",
+        "search": "medieval steel knight armor museum artifact",
+        "caption": "Blinded knights were surrounded by horse archers."
+      },
+      {
+        "narration": "Duke Henry the Second was cut down attempting to break out, halting the regional crusade.",
+        "search": "medieval battle corpse killed knight oil painting",
+        "caption": "Duke Henry II was killed on the field."
+      },
+      {
+        "narration": "Subutai wiped out Central Europe's military elite in a single afternoon, leaving the kingdoms defenseless.",
+        "search": "mongol empire conquest map engraving",
+        "caption": "Subutai destroyed Europe's crusade in hours."
+      },
+      {
+        "narration": "Terror swept across Europe as news spread of thirty thousand knights falling at Liegnitz in April 1241.",
+        "search": "battle of liegnitz 1241 medieval manuscript illustration",
+        "caption": "News of the catastrophic defeat at Liegnitz triggered nationwide panic."
+      },
+      {
+        "narration": "With regional defenses obliterated, Subutai prepared to push his vanguard directly into the Holy Roman Empire.",
+        "search": "holy roman empire medieval map engraving",
+        "caption": "Defenseless kingdoms braced for a full Mongol invasion of Western Europe."
+      },
+      {
+        "narration": "Only the sudden death of Great Khan Ögedei forced Subutai's retreat, saving Europe from total collapse.",
+        "search": "subutai mongol warrior portrait painting",
+        "caption": "The Great Khan's death alone halted Subutai's invincible European campaign."
+      },
+      {
+        "narration": "One Mongol general annihilated Europe's elite knights in hours.",
+        "search": "mongol warrior horse archer oil painting",
+        "caption": "One general destroyed 30,000 elite European knights."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T23:12:51.975038+00:00",
+    "updated_at": "2026-11-07T23:15:03.668893+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-07T23:13:19.626814+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "413 chars (cat 227 de vua 55s)",
+        "at": "2026-11-07T23:13:37.059148+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.6s en-US-GuyNeural 5 cau",
+        "at": "2026-11-07T23:13:40.516578+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T23:13:41.154555+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-07T23:14:33.951477+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T23:14:34.033577+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.6s 14733015 bytes",
+        "at": "2026-11-07T23:15:03.315451+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T23:15:03.668869+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8911512/pexels-photo-8911512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14546036/pexels-photo-14546036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35895048/pexels-photo-35895048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19582198/pexels-photo-19582198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2678301/pexels-photo-2678301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32863711/pexels-photo-32863711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13979555/pexels-photo-13979555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828638/pexels-photo-8828638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14998151/pexels-photo-14998151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40154912/pexels-photo-40154912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39406502/pexels-photo-39406502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39630016/pexels-photo-39630016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2ed86daf51",
     "kind": "short",
     "channel": "Channel2",
