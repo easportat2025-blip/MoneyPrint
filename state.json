@@ -1,5 +1,600 @@
 [
   {
+    "id": "27214bba83",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Philip II Wept Over the Army He Exterminated",
+    "idea": {
+      "title": "Why Philip II Wept Over the Army He Exterminated",
+      "hook": "When King Philip II destroyed ancient Greece's most invincible unit, he didn't celebrate—he broke down in tears.",
+      "beats": [
+        "In 338 BC at the Battle of Chaeronea, King Philip II of Macedon achieved total victory over the combined forces of Athens and Thebes, cementing his rule over Greece.",
+        "Walking the bloody battlefield after the slaughter, Philip encountered a pile of 300 fallen soldiers lying dead in exact paired formation, having refused to yield a single foot of ground.",
+        "These men belonged to the Sacred Band of Thebes: an elite strike force of 150 devoted warrior couples who had remained undefeated for nearly four decades.",
+        "Formed in 378 BC, the Sacred Band was built on the philosophy that brothers-in-arms bound by deep affection would fight to the death rather than dishonor one another.",
+        "Decades earlier, the Sacred Band had shattered the myth of Spartan invincibility at the Battle of Leuctra in 371 BC, establishing Thebes as the dominant power in Greece.",
+        "Irony of history: As a young prince, Philip II had been held hostage in Thebes, where he personally studied Theban military tactics and watched the Sacred Band train.",
+        "Philip used those years to revolutionize warfare, inventing the 18-foot Macedonian sarissa pike and building a terrifyingly disciplined military machine.",
+        "At Chaeronea, Philip deployed a masterstroke tactic: feigning a retreat to draw out the Athenian line while opening a fatal gap in the Greek ranks.",
+        "An 18-year-old Alexander the Great charged into the gap with the Macedonian cavalry, completely isolating the Sacred Band on the Greek flank.",
+        "Outranged by 18-foot pikes and encircled on all sides, the 300 warriors of the Sacred Band refused surrender, fighting until every single man was slain.",
+        "Standing before the fallen 300, Philip II wept openly and proclaimed a curse on anyone who dared question the honor or virtue of such brave men.",
+        "Philip granted the slain warriors full military honors and commissioned the Lion of Chaeronea—a massive stone monument that still guards their mass grave today.",
+        "The destruction of the Sacred Band signaled the death of independent Greek city-states and birthed the empire that Alexander the Great would soon take to the ends of the earth."
+      ],
+      "keywords": [
+        "Philip II of Macedon",
+        "Sacred Band of Thebes",
+        "Battle of Chaeronea",
+        "Alexander the Great",
+        "Ancient Greece history",
+        "Macedonian Phalanx",
+        "Sarissa pike",
+        "Ancient Greek warfare",
+        "Epaminondas",
+        "Lion of Chaeronea"
+      ],
+      "tags": [
+        "ancient history",
+        "history documentary",
+        "battle of chaeronea",
+        "philip of macedon",
+        "sacred band of thebes",
+        "alexander the great",
+        "military history",
+        "ancient warfare",
+        "greek history",
+        "ancient tactics"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE KING WEPT FOR HIS ENEMY"
+    },
+    "scenes": [
+      {
+        "narration": "A conqueror wept over the army he destroyed. In 338 BC at Chaeronea, victory brought King Philip II only tears.",
+        "search": "king philip ii of macedon marble bust statue",
+        "caption": "A conqueror wept over his greatest victory."
+      },
+      {
+        "narration": "The fallen men belonged to the Sacred Band of Thebes, an elite unit of 150 warrior couples. Formed in 378 BC, their sacred bond meant no soldier would abandon his partner in battle.",
+        "search": "ancient greek hoplite warriors sacred band of thebes illustration",
+        "caption": "300 elite lovers bound by oath."
+      },
+      {
+        "narration": "Decades earlier at the Battle of Leuctra in 371 BC, this band had shattered Spartan invincibility under the general Epaminondas. Yet during those years, a young captive Macedonian prince was quietly studying their tactics.",
+        "search": "battle of leuctra epaminondas oil painting",
+        "caption": "The defeat of invincible Sparta."
+      },
+      {
+        "narration": "That hostage was Philip II, who returned to Macedon and engineered the eighteen-foot sarissa pike. He built a disciplined military machine designed to surpass the tactical systems of old Greece.",
+        "search": "macedonian phalanx sarissa pike warfare illustration",
+        "caption": "The 18-foot sarissa revolution."
+      },
+      {
+        "narration": "At the Battle of Chaeronea in 338 BC, Philip feigned a retreat, drawing out the Athenian line. The deceptive retreat opened a fatal gap in the Greek formation right beside the motionless Theban infantry.",
+        "search": "battle of chaeronea ancient greece battle map engraving",
+        "caption": "A deadly tactical trap opens."
+      },
+      {
+        "narration": "An eighteen-year-old Alexander the Great led the heavy cavalry straight into the opening, surrounding the Sacred Band. Outranged by massive pikes and completely encircled, all three hundred warriors refused to yield.",
+        "search": "alexander the great mosaic bust detail",
+        "caption": "Alexander breaches the Greek line."
+      },
+      {
+        "narration": "Surveying the battlefield, Philip found all three hundred men lying dead in matched pairs where they stood. Overcome with sorrow for the warriors he had admired since youth, he cursed anyone who doubted their honor.",
+        "search": "philip ii of macedon ancient coin portrait close up",
+        "caption": "Undefeated in spirit, slain to the last."
+      },
+      {
+        "narration": "Philip granted the fallen full military honors and erected the monumental Lion of Chaeronea over their grave. Their total destruction ended the era of independent Greek city-states and birthed Alexander's empire.",
+        "search": "lion of chaeronea ancient stone monument sculpture photograph",
+        "caption": "The monument guarding Greece's last heroes."
+      },
+      {
+        "narration": "In 378 BC, the city of Thebes created an elite unit of three hundred hoplites known as the Sacred Band, consisting of one hundred fifty devoted pairs of warrior lovers.",
+        "search": "sacred band of thebes ancient greek warriors oil painting",
+        "caption": "378 BC: Thebes forms the elite 300-man Sacred Band."
+      },
+      {
+        "narration": "At the Battle of Leuctra in 371 BC, Theban commander Epaminondas used the Sacred Band to crush the invincible Spartan army, establishing Theban dominance over Greece.",
+        "search": "epaminondas battle of leuctra oil painting",
+        "caption": "371 BC: Epaminondas and the Sacred Band crush Sparta."
+      },
+      {
+        "narration": "During his youth, Prince Philip II of Macedon was held as a political hostage in Thebes, where he spent three years studying Theban tactical innovations.",
+        "search": "philip ii of macedon marble bust statue",
+        "caption": "Young Philip II studied Theban military tactics while captive."
+      },
+      {
+        "narration": "Upon taking the Macedonian throne, Philip re-engineered warfare by equipping his infantry with the eighteen-foot sarissa pike, outranging standard Greek spears.",
+        "search": "macedonian sarissa phalanx infantry historical illustration",
+        "caption": "Philip invents the 18-foot sarissa pike phalanx."
+      },
+      {
+        "narration": "At the Battle of Chaeronea in 338 BC, Philip executed a feigned retreat on his right wing, luring the Athenian force out of formation.",
+        "search": "battle of chaeronea ancient greece oil painting",
+        "caption": "338 BC: Philip feigns retreat to tear open the Greek line."
+      },
+      {
+        "narration": "An eighteen-year-old Alexander led the Macedonian heavy cavalry into the resulting gap, completely surrounding the isolated Sacred Band.",
+        "search": "alexander the great battle mosaic detail",
+        "caption": "18-year-old Alexander charges the cavalry into the gap."
+      },
+      {
+        "narration": "Unable to penetrate the eighteen-foot pikes and encircled on all sides, all three hundred members of the Sacred Band refused surrender and were slain to the last man.",
+        "search": "ancient greek fallen soldiers battle engraving",
+        "caption": "Surrounded and outranged, all 300 Sacred Band soldiers perish."
+      },
+      {
+        "narration": "Walking among the dead arranged in matched pairs, Philip II wept openly over their bodies and erected the colossal stone Lion of Chaeronea over their mass grave.",
+        "search": "lion of chaeronea stone monument photograph",
+        "caption": "Philip weeping over the slain erects the Lion of Chaeronea."
+      },
+      {
+        "narration": "Why did King Philip II weep for his enemies? In 338 BC, Macedon destroyed classical Greek freedom forever.",
+        "search": "king philip ii of macedon bust statue",
+        "caption": "Why did King Philip II weep for his enemies?"
+      },
+      {
+        "narration": "Decades before Chaeronea, in 368 BC, a young Prince Philip was held as a political hostage in Thebes.",
+        "search": "ancient thebes greece map engraving",
+        "caption": "Young Philip held hostage in Thebes, 368 BC"
+      },
+      {
+        "narration": "There, Philip studied under General Epaminondas, observing the tactics of the elite Sacred Band of Thebes.",
+        "search": "epaminondas oil painting",
+        "caption": "General Epaminondas trained the elite Sacred Band"
+      },
+      {
+        "narration": "Formed in 378 BC by Gorgidas, the Sacred Band comprised one hundred fifty pairs of devoted battle partners.",
+        "search": "ancient greek hoplites battle oil painting",
+        "caption": "150 warrior pairs bound by absolute devotion"
+      },
+      {
+        "narration": "At the Battle of Leuctra in 371 BC, this unit permanently shattered the myth of Spartan invincibility.",
+        "search": "battle of leuctra oil painting",
+        "caption": "Leuctra 371 BC: Spartan invincibility destroyed"
+      },
+      {
+        "narration": "Returning home, Philip revolutionized warfare by inventing the eighteen-foot sarissa pike for the Macedonian phalanx.",
+        "search": "macedonian phalanx sarissa pike illustration",
+        "caption": "Philip creates the 18-foot sarissa phalanx"
+      },
+      {
+        "narration": "When Philip faced his former hosts at Chaeronea in 338 BC, his new tactics overwhelmed traditional hoplites.",
+        "search": "battle of chaeronea 338 bc engraving",
+        "caption": "Student against master at Chaeronea, 338 BC"
+      },
+      {
+        "narration": "Philip's decisive victory destroyed independent Greek city-states, paving the way for Alexander the Great's empire.",
+        "search": "alexander the great bust statue",
+        "caption": "The fall of Greece created Alexander's empire"
+      },
+      {
+        "narration": "In August 338 BC at Chaeronea, Philip II executed a masterstroke of deceit, ordering his right flank to feign retreat and lure the Athenian forces out of formation.",
+        "search": "battle of chaeronea 338 bc tactics map engraving",
+        "caption": "August 338 BC: Philip II feigns retreat at Chaeronea."
+      },
+      {
+        "narration": "As the overconfident Athenians rushed forward to pursue, a fatal gap opened between their ranks and the allied Theban infantry on the left flank.",
+        "search": "ancient greek hoplites phalanx fighting classical oil painting",
+        "caption": "A fatal break opens in the allied Greek line."
+      },
+      {
+        "narration": "Eighteen-year-old Prince Alexander seized the moment, leading the elite Macedonian Companion cavalry directly into the breach to encircle the Thebans.",
+        "search": "Alexander the Great bust statue marble close up",
+        "caption": "Eighteen-year-old Alexander charges the opened gap."
+      },
+      {
+        "narration": "Completely surrounded and facing eighteen-foot Macedonian sarissas, the three hundred warriors of the Sacred Band of Thebes refused to retreat or surrender.",
+        "search": "macedonian phalanx sarissa pike warfare illustration warriors",
+        "caption": "The 300 Sacred Band warriors refuse to yield."
+      },
+      {
+        "narration": "Fighting shoulder-to-shoulder until their final breaths, every single pair of warrior lovers fell together where they stood, refusing to yield a foot of ground.",
+        "search": "ancient greek battle carnage fallen soldiers oil painting",
+        "caption": "All 300 warriors perish together on the battlefield."
+      },
+      {
+        "narration": "Surveying the bloody field after the battle, Philip II stopped before the pile of three hundred slain companions and broke into open tears.",
+        "search": "King Philip II of Macedon coin portrait close up",
+        "caption": "King Philip II weeps over the fallen enemy elite."
+      },
+      {
+        "narration": "Moved by their tragic valor, Philip declared a curse upon anyone who doubted the virtue of the fallen men and ordered full military honors for their burial.",
+        "search": "ancient greek funeral pyre burial rites engraving",
+        "caption": "Philip curses anyone who questions their honor."
+      },
+      {
+        "narration": "Today, the massive stone Lion of Chaeronea still stands over their mass grave, marking both the peak of ancient devotion and the birth of Alexander's world empire.",
+        "search": "Lion of Chaeronea stone monument statue photo",
+        "caption": "The Lion of Chaeronea still guards their grave."
+      },
+      {
+        "narration": "A teenage hostage created the army that destroyed his captors.",
+        "search": "philip ii of macedon bust statue ancient greek sculpture",
+        "caption": "A teenage hostage turned against his captors."
+      },
+      {
+        "narration": "In 368 BC, a fifteen-year-old Prince Philip of Macedon was taken to Thebes as a political hostage for three years.",
+        "search": "ancient thebes greece ruin map engraving",
+        "caption": "Prince Philip was held hostage in Thebes in 368 BC."
+      },
+      {
+        "narration": "Living under the care of statesman Pammenes, Philip closely observed general Epaminondas train the elite Sacred Band of Thebes.",
+        "search": "epaminondas ancient greek general bust sculpture",
+        "caption": "Philip studied the tactics of general Epaminondas."
+      },
+      {
+        "narration": "At the Battle of Leuctra in 371 BC, Epaminondas had used massed shock tactics to crush Sparta, proving traditional phalanxes could be defeated.",
+        "search": "battle of leuctra ancient greek warfare illustration",
+        "caption": "Thebes destroyed Spartan invincibility at Leuctra in 371 BC."
+      },
+      {
+        "narration": "Upon returning to Macedon in 359 BC, Philip revolutionized warfare by equipping his infantry with the eighteen-foot sarissa pike.",
+        "search": "macedonian sarissa phalanx ancient warrior illustration",
+        "caption": "Philip invented the eighteen-foot sarissa pike in 359 BC."
+      },
+      {
+        "narration": "By August 338 BC, Philip returned to central Greece as king, facing his former hosts at the Battle of Chaeronea.",
+        "search": "battle of chaeronea macedonian cavalry oil painting",
+        "caption": "Philip confronted his former mentors at Chaeronea in 338 BC."
+      },
+      {
+        "narration": "When Philip ordered a tactical retreat, the Athenian line broke formation, allowing eighteen-year-old Alexander to charge the exposed flank.",
+        "search": "alexander the great cavalry charge mosaic detail",
+        "caption": "Alexander charged the gap left by feigned retreat."
+      },
+      {
+        "narration": "Recognizing the tactical genius he had absorbed in his youth, Philip wept before the three hundred fallen warriors who refused to yield.",
+        "search": "lion of chaeronea stone monument ancient grave photo",
+        "caption": "Philip wept for the fallen mentors he defeated."
+      },
+      {
+        "narration": "In 378 BC, the military commander Gorgidas formed the Sacred Band of Thebes, selecting three hundred elite soldiers united by unbreakable personal bonds.",
+        "search": "ancient Greek warrior relief sculpture",
+        "caption": "378 BC: Thebes creates the Sacred Band"
+      },
+      {
+        "narration": "Led by General Epaminondas at the Battle of Leuctra in 371 BC, this force shattered the centuries-old legend of Spartan military invincibility.",
+        "search": "battle of leuctra oil painting shattered",
+        "caption": "371 BC: Spartan invincibility shattered at Leuctra"
+      },
+      {
+        "narration": "As a teenage royal hostage in Thebes between 368 and 365 BC, Philip studied Epaminondas' tactics firsthand alongside the Sacred Band.",
+        "search": "ancient thebes ruins engraving",
+        "caption": "368 BC: Prince Philip imprisoned in Thebes"
+      },
+      {
+        "narration": "Philip adapted their intense discipline to invent the eighteen-foot sarissa pike, creating a Macedonian phalanx capable of outranging traditional hoplites.",
+        "search": "macedonian sarissa phalanx illustration",
+        "caption": "Philip invents the 18-foot sarissa pike"
+      },
+      {
+        "narration": "When the two tactical systems met at Chaeronea in August 338 BC, Philip’s feigned retreat drew the Athenians away, isolating the Theban flank.",
+        "search": "battle of chaeronea map engraving",
+        "caption": "August 338 BC: Tactical trap at Chaeronea"
+      },
+      {
+        "narration": "Eighteen-year-old Prince Alexander spearheaded the cavalry assault through the broken gap, completely surrounding the three hundred Theban warriors.",
+        "search": "alexander the great mosaic detail",
+        "caption": "Alexander encircles the 300 Theban elite"
+      },
+      {
+        "narration": "Outranged by sarissa pikes and attacked from all sides, every single member of the Sacred Band refused to surrender and died where he stood.",
+        "search": "ancient greek battle carnage oil painting",
+        "caption": "Sacred Band fights to total annihilation"
+      },
+      {
+        "narration": "Surveying the dead, Philip wept openly, declaring a curse upon anyone who doubted the virtue of the warriors over whom he built the stone Lion of Chaeronea.",
+        "search": "lion of chaeronea stone statue",
+        "caption": "Lion of Chaeronea marks their mass grave"
+      },
+      {
+        "narration": "Following the destruction of the Sacred Band at Chaeronea in 338 BC, King Philip II imposed harsh penalties on Thebes while treating Athens with unexpected leniency.",
+        "search": "battle of chaeronea aftermath ancient greek map engraving",
+        "caption": "Thebes punished severely after 338 BC victory"
+      },
+      {
+        "narration": "Rather than desecrating his fiercest opponents, Philip II ordered that all three hundred fallen warriors of the Sacred Band receive a dignified communal burial on the battlefield.",
+        "search": "ancient greek soldier burial relief sculpture",
+        "caption": "Sacred Band granted full military honors"
+      },
+      {
+        "narration": "Over their collective mass grave, the conquerors erected a massive marble monument known as the Lion of Chaeronea to eternally commemorate their valor.",
+        "search": "lion of chaeronea ancient marble statue photography",
+        "caption": "Lion of Chaeronea guards mass grave"
+      },
+      {
+        "narration": "When archaeologists excavated the site near Chaeronea in 1879, they uncovered two hundred and fifty-four skeletons laid out in seven neat rows.",
+        "search": "lion of chaeronea excavation 1879 archival drawing",
+        "caption": "1879 excavation reveals 254 skeletons"
+      },
+      {
+        "narration": "The fallen warriors bore devastating wounds inflicted by eighteen-foot Macedonian sarissa pikes, proving the lethal power of Philip's tactical innovations.",
+        "search": "macedonian phalanx greek hoplite battle oil painting",
+        "caption": "Sarissa pikes proved fatal at Chaeronea"
+      },
+      {
+        "narration": "The victory at Chaeronea established the League of Corinth, forging the unified army that eighteen-year-old Alexander would inherit two years later.",
+        "search": "alexander the great bust statue inherits",
+        "caption": "Alexander inherits unstoppable military machine"
+      },
+      {
+        "narration": "The total annihilation of the Sacred Band marked the end of independent Greek city-states, permanently shifting authority from local poleis to imperial dynasts.",
+        "search": "ancient greek city states ruined acropolis oil painting",
+        "caption": "Demise of independent Greek city-states"
+      },
+      {
+        "narration": "Philip II wept because he recognized that in destroying the Sacred Band, he had obliterated the supreme ideal of Greek martial virtue he had revered since youth.",
+        "search": "philip ii of macedon portrait statue",
+        "caption": "Tears for destroyed martial virtue"
+      },
+      {
+        "narration": "In September 338 BC, King Philip II shocked his commanders by refusing to sack the defeated city of Thebes out of respect for its fallen elite.",
+        "search": "ancient Greek city ruins Thebes engraving",
+        "caption": "Philip II spared defeated Thebes after the Battle of Chaeronea in 338 BC."
+      },
+      {
+        "narration": "Instead of leaving the fallen Sacred Band to decompose, Philip ordered his engineers to construct a solemn communal grave on the battlefield of Chaeronea.",
+        "search": "ancient Greek grave stele relief sculpture",
+        "caption": "Macedonian engineers constructed a communal burial mound for the fallen 300."
+      },
+      {
+        "narration": "At the Congress of Corinth in 337 BC, Philip utilized his decisive victory to establish the League of Corinth, uniting all major Greek city-states except Sparta.",
+        "search": "ancient Greek assembly council historical illustration",
+        "caption": "The League of Corinth united Greek city-states under Macedonian rule in 337 BC."
+      },
+      {
+        "narration": "Philip planned to unleash his revolutionized sarissa phalanx alongside allied Greek infantry for an ambitious invasion of the Persian Empire.",
+        "search": "Achaemenid Persian empire old map engraving",
+        "caption": "Philip targeted the Persian Empire using tactics forged against Greek armies."
+      },
+      {
+        "narration": "Eighteen-year-old Prince Alexander had commanded the decisive companion cavalry charge that broke the Greek line and encircled the Sacred Band.",
+        "search": "Alexander the Great bust statue marble",
+        "caption": "Eighteen-year-old Alexander commanded the fatal cavalry charge at Chaeronea."
+      },
+      {
+        "narration": "In October 336 BC, before his Persian campaign could launch, Philip II was assassinated at Aegae by his bodyguard Pausanias of Orestis.",
+        "search": "Philip II of Macedon bust statue relief",
+        "caption": "King Philip II was assassinated in 336 BC at Aegae."
+      },
+      {
+        "narration": "The nineteen-year-old Alexander inherited an invincible army—a military machine his father had spent decades perfecting after studying Theban tactics.",
+        "search": "Macedonian phalanx warfare historical illustration",
+        "caption": "Alexander inherited the military machine Philip forged from Theban tactics."
+      },
+      {
+        "narration": "Over the mass grave of the 300 slain warriors, the Macedonians erected the Lion of Chaeronea, a twenty-foot stone monument guarding their memory.",
+        "search": "Lion of Chaeronea stone monument sculpture photograph",
+        "caption": "The Lion of Chaeronea was erected over the grave of the 300."
+      },
+      {
+        "narration": "A victorious king wept over the army he destroyed.",
+        "search": "battle of chaeronea 338 bc oil painting",
+        "caption": "A victorious king wept over the enemies he destroyed."
+      },
+      {
+        "narration": "At the Battle of Chaeronea in 338 BC, Philip II of Macedon confronted the allied Greek forces of Athens and Thebes.",
+        "search": "ancient greek hoplites battle relief sculpture",
+        "caption": "Macedon clashed with Athens and Thebes in 338 BC."
+      },
+      {
+        "narration": "Formed in 378 BC, the Sacred Band of Thebes had broken Spartan invincibility at the Battle of Leuctra in 371 BC.",
+        "search": "battle of leuctra 371 bc oil painting",
+        "caption": "The Sacred Band defeated Sparta at Leuctra in 371 BC."
+      },
+      {
+        "narration": "Years earlier as a hostage in Thebes, Prince Philip II studied the tactics of the Sacred Band firsthand.",
+        "search": "philip ii of macedon marble bust statue handheld",
+        "caption": "Young Philip II studied Theban tactics as a hostage."
+      },
+      {
+        "narration": "Armed with eighteen-foot sarissa pikes, Philip executed a feigned retreat at Chaeronea to fracture the Greek line.",
+        "search": "macedonian phalanx sarissa pikes ancient engraving",
+        "caption": "Philip used eighteen-foot pikes to break the line."
+      },
+      {
+        "narration": "An eighteen-year-old Alexander the Great charged into the opening with cavalry, completely surrounding the Thebans.",
+        "search": "alexander the great mosaic bust",
+        "caption": "Eighteen-year-old Alexander led the decisive cavalry charge."
+      },
+      {
+        "narration": "Encircled on all sides, all three hundred warriors of the Sacred Band refused surrender and died where they stood.",
+        "search": "ancient greek soldiers battlefield fallen painting",
+        "caption": "All three hundred Sacred Band warriors fought to the death."
+      },
+      {
+        "narration": "Standing before the fallen three hundred, Philip II wept openly and commissioned the stone Lion of Chaeronea over their mass grave.",
+        "search": "lion of chaeronea ancient stone monument photograph",
+        "caption": "Philip built the Lion of Chaeronea over their grave."
+      },
+      {
+        "narration": "In 338 BC, King Philip II wept over three hundred enemy corpses instead of celebrating his ultimate triumph.",
+        "search": "philip ii of macedon marble bust statue close up",
+        "caption": "Philip II wept over the enemies he destroyed."
+      },
+      {
+        "narration": "At the Battle of Chaeronea, the Macedonian monarch faced the Sacred Band of Thebes, an elite unit of one hundred fifty warrior couples established in 378 BC.",
+        "search": "ancient thebes greece map engraving deployed",
+        "caption": "Thebes deployed 150 devoted warrior couples in 378 BC."
+      },
+      {
+        "narration": "Under the commander Epaminondas, this legendary force shattered Spartan invincibility at Leuctra in 371 BC, dominating Greek warfare for decades.",
+        "search": "epaminondas ancient Greek general marble bust statue",
+        "caption": "The Sacred Band destroyed Sparta at Leuctra in 371 BC."
+      },
+      {
+        "narration": "As a young prince held hostage in Thebes, Philip studied their tactical doctrine to develop his revolutionary eighteen-foot sarissa pike.",
+        "search": "macedonian phalanx sarissa pike warfare illustration invent",
+        "caption": "Philip studied Theban tactics to invent the sarissa pike."
+      },
+      {
+        "narration": "During the battle at Chaeronea, Philip executed a feigned retreat while his eighteen-year-old son Alexander led a cavalry charge into the fractured Greek line.",
+        "search": "alexander the great mosaic portrait detail",
+        "caption": "Alexander charged the gap created by Philip's feigned retreat."
+      },
+      {
+        "narration": "Encircled and outranged by Macedonian pikes, all three hundred warriors of the Sacred Band refused to retreat, fighting to the death in paired formations.",
+        "search": "battle of chaeronea ancient fight oil painting",
+        "caption": "All 300 Sacred Band warriors fought to the death."
+      },
+      {
+        "narration": "Surveying the battlefield, Philip II wept openly before the fallen couples and cursed anyone who dared slander their honor.",
+        "search": "ancient Greek battle aftermath corpses oil painting",
+        "caption": "Philip II wept openly and defended their fallen honor."
+      },
+      {
+        "narration": "Philip buried the band with full honors beneath the massive Lion of Chaeronea, marking the end of independent Greek city-states and the dawn of Alexander's global empire.",
+        "search": "lion of chaeronea stone monument Greece photograph",
+        "caption": "The Lion of Chaeronea marks the birth of Alexander's empire."
+      },
+      {
+        "narration": "Why did King Philip II weep over his slaughtered enemies?",
+        "search": "Philip II of Macedon marble bust statue",
+        "caption": "Why King Philip II Wept Over His Dead Enemies"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T18:26:19.240103+00:00",
+    "updated_at": "2026-11-07T18:41:22.293279+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-07T18:29:24.162944+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3549 chars",
+        "at": "2026-11-07T18:30:31.515011+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "218.0s en-US-GuyNeural 36 cau",
+        "at": "2026-11-07T18:30:42.967130+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T18:30:49.466467+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-07T18:35:45.326667+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T18:35:45.443970+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 218.0s 157652244 bytes",
+        "at": "2026-11-07T18:41:21.687131+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-11-07T18:41:21.953572+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T18:41:22.293260+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6162205/pexels-photo-6162205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28300995/pexels-photo-28300995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251946/pexels-photo-31251946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31270106/pexels-photo-31270106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40363871/pexels-photo-40363871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9891032/pexels-photo-9891032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123614/pexels-photo-30123614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37747416/pexels-photo-37747416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348158/pexels-photo-8348158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11483444/pexels-photo-11483444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39483723/pexels-photo-39483723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38626823/pexels-photo-38626823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3947611/pexels-photo-3947611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38328300/pexels-photo-38328300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12698057/pexels-photo-12698057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17052351/pexels-photo-17052351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1107574/pexels-photo-1107574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1546249/pexels-photo-1546249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15481475/pexels-photo-15481475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1152830/pexels-photo-1152830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33620995/pexels-photo-33620995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32820471/pexels-photo-32820471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9215642/pexels-photo-9215642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31389286/pexels-photo-31389286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2167395/pexels-photo-2167395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31733505/pexels-photo-31733505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4823073/pexels-photo-4823073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15522683/pexels-photo-15522683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35417017/pexels-photo-35417017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19995021/pexels-photo-19995021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11850291/pexels-photo-11850291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33807015/pexels-photo-33807015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11856445/pexels-photo-11856445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/163467/war-desert-guns-gunshow-163467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31081287/pexels-photo-31081287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327478/pexels-photo-35327478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6788312/pexels-photo-6788312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16731749/pexels-photo-16731749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34649502/pexels-photo-34649502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109067/pexels-photo-6109067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31266746/pexels-photo-31266746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34205383/pexels-photo-34205383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4905089/pexels-photo-4905089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353847/pexels-photo-38353847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16153570/pexels-photo-16153570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28883753/pexels-photo-28883753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31389286/pexels-photo-31389286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30862532/pexels-photo-30862532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27022769/pexels-photo-27022769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9377411/pexels-photo-9377411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16153570/pexels-photo-16153570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30028492/pexels-photo-30028492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19910692/pexels-photo-19910692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20528178/pexels-photo-20528178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11097766/pexels-photo-11097766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31497115/pexels-photo-31497115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38118653/pexels-photo-38118653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760091/pexels-photo-7760091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714846/pexels-photo-6714846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40318417/pexels-photo-40318417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38872389/pexels-photo-38872389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35654920/pexels-photo-35654920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1546249/pexels-photo-1546249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35312847/pexels-photo-35312847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14648910/pexels-photo-14648910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20975810/pexels-photo-20975810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353794/pexels-photo-38353794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16316993/pexels-photo-16316993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944767/pexels-photo-37944767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14198945/pexels-photo-14198945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21357966/pexels-photo-21357966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19825314/pexels-photo-19825314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6788313/pexels-photo-6788313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16153570/pexels-photo-16153570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36678226/pexels-photo-36678226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30284413/pexels-photo-30284413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a9d0226276",
     "kind": "short",
     "channel": "Channel3",
