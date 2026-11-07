@@ -1,4 +1,4 @@
-# Daily ping 06/11/2026
+# Daily ping 07/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -13,11 +13,11 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Nghịch lý: Uống cà phê trước khi ngủ trưa giúp tỉnh gấp :: token refresh failed: 400 {
+- Cái giá đáng sợ khi cắm sạc điện thoại tại cổng USB côn :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- Why a Roman Consul Sacrificed Himself to the Gods :: token refresh failed: 400 {
+- The Brutal Day 700 Roman Warriors Lost Their Sight :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
