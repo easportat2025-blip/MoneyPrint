@@ -1,5 +1,161 @@
 [
   {
+    "id": "9923ff0348",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Brutal Day 700 Roman Warriors Lost Their Sight",
+    "idea": {
+      "title": "The Brutal Day 700 Roman Warriors Lost Their Sight",
+      "hook": "In 636 AD, the Byzantine Empire lost its wealthiest province in a single afternoon because of one terrifying volley of arrows.",
+      "beats": [
+        "Emperor Heraclius sent over 100,000 legionnaires to halt the rapid expansion of the Arab army at the Yarmouk River.",
+        "During a fierce standoff, Arab archers unleashed a disciplined, synchronized barrage targeted strictly at the faces of Roman soldiers.",
+        "In seconds, over 700 elite Roman warriors were struck in the eyes, triggering instant mass panic across the army.",
+        "The day entered history as the 'Day of the Lost Eyes', breaking Roman morale and ending 700 years of empire rule in Syria."
+      ],
+      "keywords": [
+        "byzantine empire battle",
+        "roman army engraving",
+        "ancient battle painting",
+        "middle east historical map",
+        "ancient archers illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#militaryhistory",
+        "#byzantine",
+        "#historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One arrow volley blinded seven hundred Roman soldiers instantly.",
+        "search": "byzantine roman legionnaires battle ancient oil painting",
+        "caption": "700 Roman warriors blinded in seconds."
+      },
+      {
+        "narration": "In August 636 AD, the Byzantine Empire lost its richest province in a single afternoon.",
+        "search": "middle east historical map 7th century manuscript",
+        "caption": "August 636 AD: Syria lost forever."
+      },
+      {
+        "narration": "Emperor Heraclius dispatched over one hundred thousand elite legionnaires to crush the expanding Arab forces.",
+        "search": "emperor heraclius byzantine coin portrait",
+        "caption": "Emperor Heraclius sends 100,000 legionnaires."
+      },
+      {
+        "narration": "The two massive armies massed along the steep ravines of the Yarmouk River.",
+        "search": "yarmouk river valley steep ravines landscape photograph",
+        "caption": "The deadly terrain at Yarmouk."
+      },
+      {
+        "narration": "For five grueling days, heavy Roman infantry battered the Arab defensive lines without breaking them.",
+        "search": "roman army formation battle engraving",
+        "caption": "Five days of relentless heavy infantry clash."
+      },
+      {
+        "narration": "Seeing his lines falter, the Arab commander ordered a precise, terrifying tactical shift.",
+        "search": "ancient arab archers battle illustration drawing",
+        "caption": "A deadly order given to archers."
+      },
+      {
+        "narration": "Muslim archers stepped forward and aimed strictly at the exposed eyes of the armored legionnaires.",
+        "search": "ancient archers aiming bows line art drawing",
+        "caption": "Aiming exclusively for the eyes."
+      },
+      {
+        "narration": "A synchronized wave of thousands of arrows blotted out the sun over the Roman ranks.",
+        "search": "ancient war volley arrows dark sky painting",
+        "caption": "Thousands of arrows blot out the sun."
+      },
+      {
+        "narration": "In seconds, over 700 elite Roman warriors were struck directly in the face, triggering instant mass panic across the army.",
+        "search": "roman army engraving battle chaos",
+        "caption": "Over 700 elite soldiers blinded in seconds."
+      },
+      {
+        "narration": "Emperor Heraclius watched his massive imperial force collapse from the Yarmouk River gorge in 636 AD.",
+        "search": "Emperor Heraclius coin portrait",
+        "caption": "Emperor Heraclius loses his richest province."
+      },
+      {
+        "narration": "The Day of the Lost Eyes broke Roman morale forever, ending seven centuries of imperial rule in Syria.",
+        "search": "middle east historical map vintage",
+        "caption": "End of 700 years of Roman rule."
+      },
+      {
+        "narration": "In 636 AD, the Byzantine Empire lost its wealthiest province in a single afternoon.",
+        "search": "middle east historical map parchment",
+        "caption": "The Fall of Roman Syria"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-07T02:08:48.752736+00:00",
+    "updated_at": "2026-11-07T02:12:15.450962+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-07T02:09:55.829143+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 281 de vua 55s)",
+        "at": "2026-11-07T02:10:12.090577+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.6s en-US-GuyNeural 6 cau",
+        "at": "2026-11-07T02:10:16.403901+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-07T02:10:17.457274+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-07T02:11:29.376892+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-07T02:11:29.488261+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.6s 15052040 bytes",
+        "at": "2026-11-07T02:12:15.035531+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-07T02:12:15.450937+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28040972/pexels-photo-28040972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20624926/pexels-photo-20624926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10710540/pexels-photo-10710540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18970638/pexels-photo-18970638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267447/pexels-photo-9267447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11135842/pexels-photo-11135842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18278541/pexels-photo-18278541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20585066/pexels-photo-20585066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5257329/pexels-photo-5257329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828442/pexels-photo-8828442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828590/pexels-photo-8828590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3c92a3d91b",
     "kind": "short",
     "channel": "Channel2",
