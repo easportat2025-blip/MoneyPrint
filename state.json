@@ -1,5 +1,167 @@
 [
   {
+    "id": "a47c9d9b2c",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao pin điện thoại tuột không phanh khi trời lạnh?",
+    "idea": {
+      "title": "Tại sao pin điện thoại tuột không phanh khi trời lạnh?",
+      "hook": "Bạn vừa bước ra đường trời lạnh, điện thoại đang 50% pin bất ngờ sập nguồn tối om? Không phải máy bạn bị hỏng đâu.",
+      "beats": [
+        "Pin Lithium-ion hoạt động nhờ các ion dịch chuyển giữa hai cực qua dung dịch điện phân.",
+        "Khi nhiệt độ hạ thấp, dung dịch bị đặc lại khiến các ion di chuyển chậm như kẹt xe.",
+        "Điện trở nội tăng vọt làm mạch quản lý pin hiểu lầm rằng dung lượng đã cạn kiệt.",
+        "Chỉ cần bạn sưởi ấm máy trong túi áo vài phút, các ion sẽ linh hoạt trở lại và phần trăm pin tự hồi phục."
+      ],
+      "keywords": [
+        "smartphone battery cold weather",
+        "snow lithium ion battery",
+        "frozen phone screen",
+        "winter cold temperature",
+        "battery drain graphic"
+      ],
+      "tags": [
+        "meo dien thoai",
+        "cong nghe",
+        "meo vat cuoc song",
+        "khoa hoc thu vi",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao 50% pin lại sập nguồn khi gặp lạnh?",
+        "search": "dien thoai bi tat nguon khi troi lanh 3d animation",
+        "caption": "50% pin sập nguồn khi gặp lạnh?"
+      },
+      {
+        "narration": "Nhiều người tưởng máy bị chai pin nặng hoặc vi mạch bị hỏng.",
+        "search": "bieu tuong pin dien thoai bao do 3d animation",
+        "caption": "Pin bị chai hay điện thoại bị hỏng?"
+      },
+      {
+        "narration": "Thật ra, bên trong viên pin lithium-ion luôn có một dòng chảy năng lượng.",
+        "search": "mo hinh 3d pin lithium ion dien thoai",
+        "caption": "Dòng chảy năng lượng bên trong pin"
+      },
+      {
+        "narration": "Các hạt ion điện tích phải di chuyển liên tục qua dung dịch điện phân giữa hai cực.",
+        "search": "cac hat ion di chuyen trong pin 3d animation",
+        "caption": "Ion di chuyển qua dung dịch điện phân"
+      },
+      {
+        "narration": "Nhưng khi nhiệt độ hạ thấp, lớp dung dịch này bắt đầu bị sánh đặc lại.",
+        "search": "dung dich trong pin bi dong bang 3d animation",
+        "caption": "Dung dịch điện phân bị đặc lại"
+      },
+      {
+        "narration": "Hàng triệu ion bị cản trở, di chuyển chậm chạp giống như bị kẹt xe.",
+        "search": "ket xe giao thong mo phong 3d animation",
+        "caption": "Ion bị di chuyển chậm như kẹt xe"
+      },
+      {
+        "narration": "Sự đình trệ này khiến điện trở bên trong viên pin tăng vọt đột ngột.",
+        "search": "bieu do dien tro tang cao dien thoai 3d",
+        "caption": "Điện trở nội tăng vọt đột ngột"
+      },
+      {
+        "narration": "Mạch quản lý pin lập tức hiểu nhầm rằng dung lượng đã cạn kiệt.",
+        "search": "chip quan ly pin dien thoai nhap nhay canh bao 3d",
+        "caption": "Mạch quản lý nhận diện sai dung lượng"
+      },
+      {
+        "narration": "Để bảo vệ linh kiện khỏi sụt áp đột ngột, mạch điện tử lập tức ngắt nguồn và buộc điện thoại sập máy.",
+        "search": "dien thoai bi tat nguon dot ngot 3d animation",
+        "caption": "Máy tự ngắt nguồn để bảo vệ linh kiện"
+      },
+      {
+        "narration": "Nhiều người tưởng máy hỏng nên cố cắm sạc dự phòng ngoài trời lạnh, điều này rất dễ làm hỏng viên pin vĩnh viễn.",
+        "search": "cam sac du phong dien thoai ngoai troi tuyet isometric render",
+        "caption": "Cắm sạc lúc pin đang lạnh dễ gây chai pin"
+      },
+      {
+        "narration": "Thực tế, năng lượng hoá học tích trữ bên trong viên pin vẫn chưa hề mất đi một phần trăm nào.",
+        "search": "bieu do dung luong pin dien thoai 3d motion graphics",
+        "caption": "Năng lượng thật sự trong pin chưa hề mất"
+      },
+      {
+        "narration": "Chỉ cần đút điện thoại vào túi áo vài phút, dung dịch điện phân ấm lên giúp các ion di chuyển linh hoạt trở lại.",
+        "search": "nhieu ion di chuyen nhanh trong vien pin 3d animation",
+        "caption": "Sưởi ấm túi áo giúp ion hoạt động lại"
+      },
+      {
+        "narration": "Khi bật máy lên, dung lượng pin sẽ tự hồi phục về mức ban đầu mà bạn không cần cắm sạc.",
+        "search": "man hinh dien thoai hien phan tram pin tang vung vut 3d render",
+        "caption": "Pin tự khôi phục dung lượng khi ấm lên"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T19:50:49.130372+00:00",
+    "updated_at": "2026-11-08T19:52:58.695507+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-08T19:51:13.552822+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "445 chars (cat 165 de vua 55s)",
+        "at": "2026-11-08T19:51:23.895277+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.4s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-08T19:51:31.930928+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T19:51:33.058334+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-08T19:51:57.205108+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-08T19:51:57.319273+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.5s 31507968 bytes",
+        "at": "2026-11-08T19:52:58.230682+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T19:52:58.695489+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34759846/14736412_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439756/15439756-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/30728528/13145293_1440_2160_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39078266/16628565_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/37669830/15969747_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7985874/7985874-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6754831/6754831-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39241964/16699311_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28925193/12518736_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34745912/14729784_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456768/16456768-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "cc2e19b1e9",
     "kind": "long",
     "channel": "seigh",
