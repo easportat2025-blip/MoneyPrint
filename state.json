@@ -1,5 +1,167 @@
 [
   {
+    "id": "224c0bbd91",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bạn nghe thấy tiếng tim đập ở tai khi nằm nghiêng",
+    "idea": {
+      "title": "Lý do bạn nghe thấy tiếng tim đập ở tai khi nằm nghiêng",
+      "hook": "Đêm khuya thanh vắng, vừa áp tai xuống gối thì bạn bỗng nghe thấy tiếng thình thịch ngay sát màng nhĩ?",
+      "beats": [
+        "Đây không phải hiện tượng tâm thần hay ma quái mà gọi là ù tai theo nhịp (pulsatile tinnitus).",
+        "Khi bạn nằm nghiêng áp tai vào gối, các động mạch nhỏ vùng cổ và tai bị chèn ép nhẹ làm dòng máu chảy xiết hơn.",
+        "Chiếc gối đóng vai trò như một bộ khuếch đại âm thanh, dội ngược tiếng đập của dòng máu trực tiếp vào màng nhĩ.",
+        "Hiện tượng này hoàn toàn vô hại và thường xuất hiện khi bạn mệt mỏi hoặc vừa vận động xong."
+      ],
+      "keywords": [
+        "sleeping on pillow",
+        "pulsatile tinnitus",
+        "ear anatomy",
+        "blood flow artery",
+        "night bedroom"
+      ],
+      "tags": [
+        "#chann3l",
+        "#khoahoc",
+        "#suckhoe",
+        "#bihiemcothe",
+        "#meovat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Áp tai xuống gối liền nghe tiếng tim đập?",
+        "search": "nguoi nam tren giuong ban dem hoat hinh 3d",
+        "caption": "Áp tai xuống gối nghe tiếng tim đập?"
+      },
+      {
+        "narration": "Nhiều người hoảng sợ nghĩ mình bị hiện tượng tâm thần hoặc bệnh tim.",
+        "search": "nhip tim dap nhanh tren man hinh do hoat hinh 3d",
+        "caption": "Hoảng sợ lo lắng về bệnh lý nguy hiểm"
+      },
+      {
+        "narration": "Tiếng thình thịch này thực chất trùng khớp hoàn toàn với nhịp tim của bạn.",
+        "search": "qua tim dang dap theo nhip hoat hinh 3d",
+        "caption": "Âm thanh đập trùng khớp nhịp tim"
+      },
+      {
+        "narration": "Y học gọi đây là chứng ù tai theo nhịp xuất phát từ mạch máu.",
+        "search": "mo hinh tai va mang nhi hoat hinh 3d",
+        "caption": "Chứng ù tai theo nhịp mạch máu"
+      },
+      {
+        "narration": "Khi bạn nằm nghiêng, vùng cổ và đầu chịu một lực chèn ép nhẹ.",
+        "search": "dau nguoi goi dau len goi hoat hinh 3d",
+        "caption": "Lực chèn ép vùng cổ khi nằm nghiêng"
+      },
+      {
+        "narration": "Các động mạch nhỏ gần tai bị hẹp lại làm dòng máu chảy xiết hơn.",
+        "search": "dong mau chay qua dong mach hoat hinh 3d",
+        "caption": "Dòng máu chảy xiết qua mạch máu hẹp"
+      },
+      {
+        "narration": "Lúc này chiếc gối đóng vai trò như một bộ khuếch đại âm thanh.",
+        "search": "chiec goi loai mem hoat hinh 3d",
+        "caption": "Chiếc gối trở thành bộ khuếch đại"
+      },
+      {
+        "narration": "Âm thanh dòng máu dội thẳng vào màng nhĩ tạo ra tiếng đập rõ mùng một.",
+        "search": "song am thanh truyen vao mang nhi hoat hinh 3d",
+        "caption": "Tiếng máu chảy dội thẳng vào màng nhĩ"
+      },
+      {
+        "narration": "Hiện tượng này thường xuất hiện rõ nhất khi cơ thể bạn mệt mỏi, căng thẳng hoặc vừa vận động xong.",
+        "search": "hoat hinh 3d tim dap nhanh nguoi nam tren giuong",
+        "caption": "Xuất hiện rõ khi mệt mỏi hoặc căng thẳng"
+      },
+      {
+        "narration": "Khi nhịp tim tăng, áp lực đẩy máu qua các mạch bị chèn ép vùng cổ càng mạnh, khiến tiếng động rõ hơn.",
+        "search": "3d motion graphics mach mau co va tim dap",
+        "caption": "Nhịp tim tăng làm dòng máu chảy xiết hơn"
+      },
+      {
+        "narration": "Nhiều người giật mình lo sợ đây là dấu hiệu của bệnh lý tim mạch hay tổn thương não.",
+        "search": "hoat hinh 3d mo phong nao va mach mau dau",
+        "caption": "Dấu hiệu nguy hiểm hay hiện tượng sinh lý?"
+      },
+      {
+        "narration": "Tuy nhiên, 99% trường hợp nghe thấy tiếng tim ở tai khi nằm nghiêng là hoàn toàn lành tính.",
+        "search": "3d render lo tai va tam lot goi hoat hinh",
+        "caption": "Hiện tượng hoàn toàn lành tính và vô hại"
+      },
+      {
+        "narration": "Bạn chỉ cần nhích đầu khỏi gối hoặc đổi tư thế nằm, âm thanh này sẽ lập tức biến mất.",
+        "search": "hoat hinh 3d nguoi do vi tri tren giuong ngu ngon",
+        "caption": "Đổi tư thế nằm tiếng đập sẽ biến mất ngay"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T14:41:03.537220+00:00",
+    "updated_at": "2026-11-08T14:43:29.441989+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-08T14:41:27.194245+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "487 chars (cat 157 de vua 55s)",
+        "at": "2026-11-08T14:41:36.910678+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.5s vi-VN-HoaiMyNeural 6 cau",
+        "at": "2026-11-08T14:42:30.449521+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T14:42:31.233764+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-08T14:42:51.593669+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-08T14:42:51.675116+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.5s 20694899 bytes",
+        "at": "2026-11-08T14:43:29.067751+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T14:43:29.441968+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7280531/7280531-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8263459/8263459-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15462803/15462803-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7296053/7296053-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464972/13417844_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/38859324/16518766_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/7988634/7988634-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16727477/16727477-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6568125/6568125-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16456785/16456785-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5999370/5999370-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15915221/15915221-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10473217/10473217-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "e5ad211198",
     "kind": "short",
     "channel": "Channel3",
