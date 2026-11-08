@@ -1,5 +1,164 @@
 [
   {
+    "id": "b429ba41fd",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 36 Men Conquered 50 Kingdoms for China",
+    "idea": {
+      "title": "How 36 Men Conquered 50 Kingdoms for China",
+      "hook": "In 73 AD, a Chinese diplomat was trapped with only 36 men, so he executed a brutal gamble that bought an empire 50 kingdoms.",
+      "beats": [
+        "General Ban Chao was dispatched to the Silk Road with just 36 diplomats and soldiers to secure trade routes.",
+        "Upon arriving in the kingdom of Shanshan, he discovered a massive rival Xiongnu embassy had arrived to turn the king against China.",
+        "Realizing they faced execution, Ban Chao launched a surprise night assault on the Xiongnu camp with his 36 men.",
+        "They set fire to the enemy tents, killed all 30 rival ambassadors, and presented their severed heads to the local king.",
+        "Terrified by China's ruthless audacity, 50 neighboring city-states surrendered to Han rule without China sending a single main army."
+      ],
+      "keywords": [
+        "Han Dynasty map",
+        "ancient Chinese general portrait",
+        "Silk Road historical painting",
+        "ancient battle engraving",
+        "Chinese emperor bust"
+      ],
+      "tags": [
+        "history",
+        "ancientchina",
+        "handynasty",
+        "banchao",
+        "militarystrategy",
+        "documentary",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Thirty-six men conquered fifty kingdoms without a single army.",
+        "search": "Han Dynasty map historical painting",
+        "caption": "36 men conquered 50 kingdoms without an army."
+      },
+      {
+        "narration": "In 73 AD, Emperor Ming of Han sought control over the lucrative Silk Road trade routes.",
+        "search": "Chinese emperor bust statue",
+        "caption": "73 AD: Han Emperor Ming targets the Silk Road."
+      },
+      {
+        "narration": "He dispatched diplomat Ban Chao with a escort of just thirty-six soldiers into the Western Regions.",
+        "search": "ancient Chinese general portrait painting",
+        "caption": "Ban Chao was sent with only 36 men."
+      },
+      {
+        "narration": "Upon reaching the kingdom of Shanshan, Ban Chao was initially welcomed with grand diplomatic honors.",
+        "search": "Silk Road historical painting",
+        "caption": "Arrival at the kingdom of Shanshan."
+      },
+      {
+        "narration": "The king suddenly turned hostile after a massive rival Xiongnu embassy arrived to demand Han blood.",
+        "search": "ancient battle engraving warrior",
+        "caption": "Rival Xiongnu envoys demanded their execution."
+      },
+      {
+        "narration": "Trapped far behind enemy lines, Ban Chao realized death was imminent if his men remained passive.",
+        "search": "ancient Chinese soldier manuscript painting",
+        "caption": "Trapped deep behind enemy lines."
+      },
+      {
+        "narration": "Gathering his thirty-six men, Ban Chao planned a desperate night attack against one hundred enemy troops.",
+        "search": "ancient Chinese night camp painting",
+        "caption": "A suicidal night raid proposed."
+      },
+      {
+        "narration": "Under cover of darkness, the tiny unit advanced toward the heavily guarded Xiongnu encampment.",
+        "search": "ancient army camp fire painting",
+        "caption": "Striking the enemy under darkness."
+      },
+      {
+        "narration": "In 73 AD, setting fire to the encampment, Ban Chao's men slaughtered all thirty Xiongnu delegates in the night chaos.",
+        "search": "ancient Chinese battle historical painting night attack",
+        "caption": "Ban Chao's 36 men executed the entire rival embassy."
+      },
+      {
+        "narration": "The next morning, Ban Chao presented the severed heads to the King of Shanshan, forcing his immediate submission to China.",
+        "search": "Ban Chao portrait historical painting",
+        "caption": "The King of Shanshan immediately pledged loyalty to China."
+      },
+      {
+        "narration": "Stunned by this ruthless gamble, over fifty neighboring Silk Road kingdoms surrendered to Han rule without a single main imperial army marching.",
+        "search": "Han dynasty empire map historical engraving",
+        "caption": "50 kingdoms submitted to Han rule through one gamble."
+      },
+      {
+        "narration": "In 73 AD, thirty-six men secured fifty kingdoms for China.",
+        "search": "Han Dynasty map old manuscript",
+        "caption": "36 men claimed 50 kingdoms for China."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T07:05:25.741212+00:00",
+    "updated_at": "2026-11-08T07:08:40.730916+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-08T07:06:06.895936+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "348 chars (cat 393 de vua 55s)",
+        "at": "2026-11-08T07:06:39.259077+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.7s en-US-GuyNeural 4 cau",
+        "at": "2026-11-08T07:06:42.690707+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T07:06:43.652150+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-08T07:07:59.683964+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T07:07:59.795652+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.7s 11863209 bytes",
+        "at": "2026-11-08T07:08:40.300283+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T07:08:40.730893+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34671966/pexels-photo-34671966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8193089/pexels-photo-8193089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34263103/pexels-photo-34263103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15288334/pexels-photo-15288334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31756891/pexels-photo-31756891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9337515/pexels-photo-9337515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21404983/pexels-photo-21404983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28909677/pexels-photo-28909677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7692223/pexels-photo-7692223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11463922/pexels-photo-11463922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37655840/pexels-photo-37655840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22775409/pexels-photo-22775409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2647b6f8b6",
     "kind": "short",
     "channel": "Channel3",
