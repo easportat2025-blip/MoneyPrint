@@ -1,5 +1,161 @@
 [
   {
+    "id": "f88d347923",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome’s Emperor Charged His Own City to Watch Him Fight",
+    "idea": {
+      "title": "Why Rome’s Emperor Charged His Own City to Watch Him Fight",
+      "hook": "When Emperor Commodus stepped into the Colosseum to slaughter helpless gladiators, he forced the Roman treasury to pay him a massive fortune for every single appearance.",
+      "beats": [
+        "Commodus believed he was the physical reincarnation of Hercules and renamed Rome after himself.",
+        "He fought hundreds of staged gladiatorial bouts against tethered animals and disabled opponents.",
+        "For every fight, he billed the Roman senate one million sesterces, nearly bankrupting the empire.",
+        "Outraged by his greed and madness, his inner circle poisoned his wine and had a wrestler strangle him."
+      ],
+      "keywords": [
+        "Roman Emperor Commodus bust",
+        "Roman Colosseum gladiators painting",
+        "Ancient Rome marble bust",
+        "Roman senate historical engraving",
+        "Classic emperor portrait oil painting"
+      ],
+      "tags": [
+        "ancient history",
+        "roman empire",
+        "emperor commodus",
+        "history documentaries",
+        "history facts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome’s emperor billed his treasury millions to fight gladiators.",
+        "search": "Roman Emperor Commodus marble bust statue",
+        "caption": "Emperor Commodus billed Rome millions for gladiator fights."
+      },
+      {
+        "narration": "In 180 AD, Emperor Commodus took full control of the Roman Empire, abandoning his father’s disciplined reign.",
+        "search": "Ancient Rome map historical engraving",
+        "caption": "Commodus took power over Rome in 180 AD."
+      },
+      {
+        "narration": "Claiming to be the divine reincarnation of Hercules, he officially renamed Rome after himself in 190 AD.",
+        "search": "Commodus as Hercules marble bust sculpture",
+        "caption": "Commodus claimed to be Hercules and renamed Rome."
+      },
+      {
+        "narration": "Obsessed with public combat, he stepped into the Roman Colosseum to perform before thousands of citizens.",
+        "search": "Roman Colosseum gladiators painting",
+        "caption": "The emperor stepped into the Colosseum as a combatant."
+      },
+      {
+        "narration": "He staged hundreds of one-sided bouts, fighting tethered wild beasts and disabled opponents who stood no chance.",
+        "search": "Gladiator arena combat ancient roman painting",
+        "caption": "He fought staged battles against tethered beasts and disabled men."
+      },
+      {
+        "narration": "For every appearance, Commodus forced the Roman senate to pay him one million sesterces from state funds.",
+        "search": "Roman senate historical engraving",
+        "caption": "Commodus demanded one million sesterces per gladiator fight."
+      },
+      {
+        "narration": "This relentless extortion crippled the imperial treasury, sparking widespread fury among senators and military commanders.",
+        "search": "Roman empire treasury gold coins collection",
+        "caption": "His extreme extortion nearly bankrupted the Roman treasury."
+      },
+      {
+        "narration": "By December 192 AD, his closest advisors realized the emperor's madness threatened the entire state.",
+        "search": "Classic emperor portrait oil painting",
+        "caption": "Advisors plotted to stop the emperor in 192 AD."
+      },
+      {
+        "narration": "On New Year's Eve in 192 AD, his mistress Marcia secretly spiked Commodus's wine with lethal poison.",
+        "search": "Roman Emperor Commodus bust statue",
+        "caption": "In 192 AD, Commodus’s inner circle plotted his assassination."
+      },
+      {
+        "narration": "When the emperor vomited the toxin, conspirators dispatched his personal wrestling partner, Narcissus, to strangle him in his bath.",
+        "search": "ancient Roman bath historical engraving",
+        "caption": "A wrestler named Narcissus strangled the emperor in his bath."
+      },
+      {
+        "narration": "Commodus died at age thirty-one, terminating his ruinous arena fees and leaving Rome bankrupt and unstable.",
+        "search": "Roman Colosseum gladiators painting death",
+        "caption": "His death ended Rome's most expensive arena spectacle."
+      },
+      {
+        "narration": "Why did a Roman emperor bill millions to fight?",
+        "search": "Emperor Commodus marble bust statue close up",
+        "caption": "Why did an emperor charge millions to fight?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T23:16:23.429735+00:00",
+    "updated_at": "2026-11-08T23:18:48.099526+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-08T23:16:47.415610+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "416 chars (cat 157 de vua 55s)",
+        "at": "2026-11-08T23:17:01.745620+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-08T23:17:06.711357+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T23:17:07.443175+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-08T23:18:15.256511+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T23:18:15.343869+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.2s 15622141 bytes",
+        "at": "2026-11-08T23:18:47.766504+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T23:18:48.099501+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15253810/pexels-photo-15253810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38552380/pexels-photo-38552380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27678953/pexels-photo-27678953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13092365/pexels-photo-13092365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29054872/pexels-photo-29054872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34144455/pexels-photo-34144455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10379149/pexels-photo-10379149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11003040/pexels-photo-11003040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13020686/pexels-photo-13020686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36586095/pexels-photo-36586095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12863230/pexels-photo-12863230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "36e536d1ab",
     "kind": "short",
     "channel": "Channel2",
