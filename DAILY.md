@@ -1,4 +1,4 @@
-# Daily ping 07/11/2026
+# Daily ping 08/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -13,11 +13,11 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Cái giá đáng sợ khi cắm sạc điện thoại tại cổng USB côn :: token refresh failed: 400 {
+- Tại sao tay bạn đổ mồ hôi mỗi khi nhìn xuống từ độ cao? :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Brutal Day 700 Roman Warriors Lost Their Sight :: token refresh failed: 400 {
+- How 1 Princess Erased a City for a Single Arrow :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
