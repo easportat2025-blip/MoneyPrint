@@ -1,5 +1,161 @@
 [
   {
+    "id": "4613d61062",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Princess Erased a City for a Single Arrow",
+    "idea": {
+      "title": "How 1 Princess Erased a City for a Single Arrow",
+      "hook": "When a Persian prince killed Genghis Khan’s son-in-law with an arrow, the Mongol princess didn't just weep—she ordered every living soul in the city slaughtered.",
+      "beats": [
+        "In 1221, Prince Tokuchar, son-in-law of Genghis Khan, was slain during the siege of Nishapur.",
+        "His grief-stricken widow, Princess Papi, demanded absolute revenge with zero survivors allowed.",
+        "Mongol forces breached the walls and massacred an estimated 1.7 million citizens over 10 days.",
+        "To ensure no one feigned death, she ordered her troops to sever every head and stack them into gruesome pyramids."
+      ],
+      "keywords": [
+        "Genghis Khan",
+        "Mongol empire siege",
+        "Nishapur ancient city",
+        "Persian battle painting",
+        "medieval warrior portrait"
+      ],
+      "tags": [
+        "history",
+        "genghis khan",
+        "mongol empire",
+        "ancient history",
+        "history documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can a single arrow erase a million people?",
+        "search": "13th century medieval battle arrow manuscript illustration",
+        "caption": "Can one arrow erase a million lives?"
+      },
+      {
+        "narration": "In April 1221, the Persian cultural hub of Nishapur faced the expanding Mongol Empire.",
+        "search": "ancient nishapur persia map engraving 13th century",
+        "caption": "Nishapur, Persia, April 1221"
+      },
+      {
+        "narration": "Leading the siege was Prince Tokuchar, son-in-law to Genghis Khan himself.",
+        "search": "genghis khan portrait painting artwork",
+        "caption": "Prince Tokuchar, son-in-law of Genghis Khan"
+      },
+      {
+        "narration": "During the assault, an archer on the city walls struck Prince Tokuchar dead.",
+        "search": "mongol empire siege Persian fortress medieval manuscript",
+        "caption": "A fatal Persian arrow strikes Tokuchar"
+      },
+      {
+        "narration": "His grieving widow, the daughter of Genghis Khan, demanded total revenge with zero survivors allowed.",
+        "search": "mongol princess portrait illustration manuscript",
+        "caption": "The Princess demands absolute retribution"
+      },
+      {
+        "narration": "Genghis Khan dispatched his son Tolui with fifty thousand soldiers to execute her decree.",
+        "search": "mongol cavalry attack historical oil painting",
+        "caption": "50,000 warriors sent to avenge Tokuchar"
+      },
+      {
+        "narration": "Mongol forces breached Nishapur's defenses, slaughtering the population over ten brutal days.",
+        "search": "medieval city siege battle painting destruction",
+        "caption": "Nishapur breaches: 10 days of destruction"
+      },
+      {
+        "narration": "To ensure no inhabitant feigned death, the princess issued one final, gruesome command.",
+        "search": "ancient persian city ruins historical engraving",
+        "caption": "A horrific final order for Nishapur"
+      },
+      {
+        "narration": "In April 1221, Princess Papi ordered her soldiers to sever the head of every single corpse in Nishapur.",
+        "search": "Persian battle painting medieval manuscript",
+        "caption": "Every head severed to prevent feigned deaths."
+      },
+      {
+        "narration": "The decapitated skulls were systematically stacked into massive, towering pyramids outside the ruined walls.",
+        "search": "Nishapur ancient city ruins engraving",
+        "caption": "Skulls stacked into towering pyramids outside walls."
+      },
+      {
+        "narration": "An estimated one point seven million lives were erased in ten days, forever destroying a crown jewel of the Mongol empire siege.",
+        "search": "Genghis Khan medieval warrior portrait",
+        "caption": "1.7 million erased for a single fatal arrow."
+      },
+      {
+        "narration": "One stray arrow once wiped an entire metropolis off the map.",
+        "search": "Genghis Khan Persian miniature painting",
+        "caption": "One arrow destroyed an entire city."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T01:40:45.773294+00:00",
+    "updated_at": "2026-11-08T01:44:04.642009+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-08T01:41:29.502425+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "384 chars (cat 418 de vua 55s)",
+        "at": "2026-11-08T01:42:01.551683+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-08T01:42:05.303026+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T01:42:06.379584+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-08T01:43:07.157461+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T01:43:07.265548+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.5s 16138131 bytes",
+        "at": "2026-11-08T01:44:04.206555+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T01:44:04.641989+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36844718/pexels-photo-36844718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20585311/pexels-photo-20585311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9775911/pexels-photo-9775911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15834047/pexels-photo-15834047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13968557/pexels-photo-13968557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17191634/pexels-photo-17191634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35452997/pexels-photo-35452997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21430831/pexels-photo-21430831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16785551/pexels-photo-16785551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9201631/pexels-photo-9201631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15581085/pexels-photo-15581085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6466769/pexels-photo-6466769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "31b0eac7b9",
     "kind": "short",
     "channel": "Channel2",
