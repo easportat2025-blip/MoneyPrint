@@ -1,5 +1,163 @@
 [
   {
+    "id": "36e536d1ab",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Arrow Marked with King Philip's Name",
+    "idea": {
+      "title": "The Arrow Marked with King Philip's Name",
+      "hook": "In 354 BC, an enemy archer shot an arrow directly into King Philip's eye—with his name already written on it.",
+      "beats": [
+        "During the Siege of Methone, an archer named Aster aimed at Philip II of Macedon.",
+        "Aster inscribed the arrow with the words: 'To Philip's right eye.'",
+        "The arrow struck Philip, blinding his right eye instantly and permanently.",
+        "Philip survived the wound and shot an arrow back: 'If Philip takes Methone, Aster will hang.'",
+        "When the city fell, Philip kept his grim promise and executed the archer."
+      ],
+      "keywords": [
+        "Philip II Macedon portrait",
+        "ancient archer engraving",
+        "Siege of Methone map",
+        "Macedonian soldier bust",
+        "ancient siege warfare painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#philipofmacedon",
+        "#warhistory",
+        "#documentary",
+        "#ancientwars"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An archer shot a king with a labeled arrow.",
+        "search": "Philip II Macedon bust statue",
+        "caption": "An archer marked an arrow with a king's name."
+      },
+      {
+        "narration": "In 354 BC, Philip II of Macedon laid siege to the city of Methone.",
+        "search": "Siege of Methone map engraving",
+        "caption": "In 354 BC, Philip II besieged Methone."
+      },
+      {
+        "narration": "Defending the walls was a skilled marksman named Aster.",
+        "search": "ancient Greek archer engraving",
+        "caption": "A marksman named Aster targeted the Macedonian ruler."
+      },
+      {
+        "narration": "Before taking aim, Aster carved a precise message directly onto his wooden shaft.",
+        "search": "ancient arrow illustration",
+        "caption": "Aster carved a message into his arrow."
+      },
+      {
+        "narration": "The inscription declared: To Philip's right eye.",
+        "search": "ancient siege warfare oil painting",
+        "caption": "The arrow read: To Philip's right eye."
+      },
+      {
+        "narration": "Loose from the fort walls, the shaft pierced the battlefield straight toward the monarch.",
+        "search": "Macedonian soldier bust statue",
+        "caption": "The arrow flew directly toward King Philip."
+      },
+      {
+        "narration": "The projectile struck Philip, blinding his right eye permanently.",
+        "search": "Philip II Macedon portrait painting",
+        "caption": "Philip was blinded in his right eye."
+      },
+      {
+        "narration": "Surviving the gruesome wound, Philip immediately demanded a bow to send a reply.",
+        "search": "ancient Greek battle scene painting",
+        "caption": "King Philip prepared his retaliation."
+      },
+      {
+        "narration": "Philip launched an arrow back over the walls of Methone with a written message: if the city fell, Aster would be hanged.",
+        "search": "ancient archer siege warfare oil painting",
+        "caption": "Philip fired a message of retaliation over the city walls."
+      },
+      {
+        "narration": "When Methone capitulated in 354 BC, the Macedonian army captured the fortress and located the defiant archer.",
+        "search": "Siege of Methone map engraving surrendered",
+        "caption": "In 354 BC, Methone surrendered to the Macedonian forces."
+      },
+      {
+        "narration": "Philip executed Aster as promised, wearing his blinding scar through the conquests that laid the groundwork for Alexander the Great.",
+        "search": "Philip II Macedon marble bust statue",
+        "caption": "Philip bore the scar while uniting Greece for Alexander."
+      },
+      {
+        "narration": "An arrow bearing the king's name found its mark.",
+        "search": "ancient archer engraving",
+        "caption": "An arrow inscribed with the king's name."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T21:19:48.030392+00:00",
+    "updated_at": "2026-11-08T21:23:28.480901+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-08T21:20:42.617159+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "434 chars (cat 210 de vua 55s)",
+        "at": "2026-11-08T21:21:15.029339+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.0s en-US-GuyNeural 6 cau",
+        "at": "2026-11-08T21:21:19.209308+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T21:21:20.318453+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-08T21:22:35.055668+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T21:22:35.169527+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.0s 17727537 bytes",
+        "at": "2026-11-08T21:23:27.984110+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T21:23:28.480884+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10540795/pexels-photo-10540795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20233772/pexels-photo-20233772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10180434/pexels-photo-10180434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18278540/pexels-photo-18278540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142320/pexels-photo-19142320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37987658/pexels-photo-37987658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19443344/pexels-photo-19443344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31476388/pexels-photo-31476388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36846148/pexels-photo-36846148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627842/pexels-photo-8627842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12379867/pexels-photo-12379867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16505146/pexels-photo-16505146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a47c9d9b2c",
     "kind": "short",
     "channel": "Channel3",
