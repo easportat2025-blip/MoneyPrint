@@ -1,5 +1,167 @@
 [
   {
+    "id": "2c88d99d43",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật: Vì sao bạn lại run lập cập dù cơ thể đang sốt cao?",
+    "idea": {
+      "title": "Bí mật: Vì sao bạn lại run lập cập dù cơ thể đang sốt cao?",
+      "hook": "Thật kỳ lạ khi nhiệt độ cơ thể bạn đang nóng như hòn than, nhưng bạn lại cảm thấy lạnh buốt và run rẩy dưới ba lớp chăn dày?",
+      "beats": [
+        "Vùng dưới đồi trong não đóng vai trò như một bộ nhiệt kế nội bộ của cơ thể.",
+        "Khi bị vi khuẩn tấn công, não chủ động cài đặt lại nhiệt độ mục tiêu lên mức cao hơn để tiêu diệt mầm bệnh.",
+        "Lúc này, nhiệt độ thực tế của bạn thấp hơn mức cài đặt mới, khiến não lầm tưởng bạn đang ở trong môi trường băng giá.",
+        "Các cơ bắp lập tức co bóp liên tục tạo ra phản xạ run rẩy nhằm sinh nhiệt nhanh nhất có thể."
+      ],
+      "keywords": [
+        "fever shivering human body",
+        "fever temperature thermal brain",
+        "muscle spasm body heat",
+        "sick person under blanket",
+        "human brain medical 3d animation"
+      ],
+      "tags": [
+        "tại sao bị sốt lại run",
+        "cơ chế bị sốt",
+        "sức khỏe con người",
+        "mẹo chữa sốt",
+        "bí mật cơ thể"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vì sao sốt 40 độ bạn lại thấy lạnh buốt?",
+        "search": "nguoi sot trum chan run 3d animation",
+        "caption": "Sốt 40 độ nhưng lại lạnh buốt?"
+      },
+      {
+        "narration": "Dù đắp nhiều lớp chăn dày, toàn thân bạn vẫn co quắp và run rẩy.",
+        "search": "nguoi nam tren giuong rung roi 3d",
+        "caption": "Đắp chăn dày vẫn run lập cập"
+      },
+      {
+        "narration": "Hiện tượng kỳ lạ này bắt nguồn từ một cơ chế đánh lừa của bộ não.",
+        "search": "nao bo phat sang tin hieu 3d animation",
+        "caption": "Cơ chế đánh lừa của bộ não"
+      },
+      {
+        "narration": "Sâu trong brain có vùng dưới đồi, đóng vai trò như một bộ nhiệt kế tự động.",
+        "search": "mo hinh nao vung duoi doi 3d graphic",
+        "caption": "Bộ nhiệt kế tự động trong não"
+      },
+      {
+        "narration": "Mặc định, bộ nhiệt kế này luôn giữ cơ thể ở ngưỡng 37 độ C.",
+        "search": "dong ho nhiet do 37 do c 3d",
+        "caption": "Giữ cơ thể luôn ở 37 độ C"
+      },
+      {
+        "narration": "Tuy nhiên, khi virus xâm nhập, các tế bào bạch cầu bắt đầu phát tín hiệu cấp cứu.",
+        "search": "te bao bach cau tan cong virus 3d animation",
+        "caption": "Tế bào miễn dịch phát tín hiệu khẩn"
+      },
+      {
+        "narration": "Nhận thấy nguy hiểm, não lập tức vặn nút cài đặt nhiệt độ lên mức 39 hay 40 độ.",
+        "search": "bang dieu khien tang nhiet do cao 3d",
+        "caption": "Não tăng nhiệt độ mục tiêu"
+      },
+      {
+        "narration": "Chính lúc này, một sự chênh lệch nguy hiểm xuất hiện bên trong cơ thể bạn.",
+        "search": "co the con nguoi bien doi nhiet 3d animation",
+        "caption": "Mất cân bằng nhiệt độ bùng nổ"
+      },
+      {
+        "narration": "Nhiệt độ thực tế lúc này mới 37 độ, nhưng bộ não lại lầm tưởng bạn đang mắc kẹt trong băng giá.",
+        "search": "3d animation human brain thermal sensor freeze temperature",
+        "caption": "Não lầm tưởng cơ thể đang đóng băng"
+      },
+      {
+        "narration": "Để cứu bạn khỏi cơn lạnh giả tạo, não phát tín hiệu khẩn cấp bắt toàn bộ hệ cơ hoạt động hết công suất.",
+        "search": "3d animation nerve electrical impulses to body isometric render",
+        "caption": "Báo động khẩn cấp gửi tới hệ cơ"
+      },
+      {
+        "narration": "Hàng triệu sợi cơ lập tức co rút liên tục với tốc độ cao, tạo ra phản xạ run rẩy dữ dội để sinh nhiệt.",
+        "search": "muscle spasm body heat 3d medical animation loop",
+        "caption": "Cơ bắp co bóp liên tục sinh nhiệt"
+      },
+      {
+        "narration": "Càng đắp chăn dày, nhiệt độ do cơ bắp tỏa ra càng bị giữ lại, đẩy thân nhiệt tăng vọt.",
+        "search": "sick person under blanket shivering bedside cartoony 3d",
+        "caption": "Run rẩy và đắp chăn làm tăng nhiệt độ"
+      },
+      {
+        "narration": "Chỉ khi thân nhiệt thực tế chạm mốc 39 độ của não, cơn run mới dừng lại và nhường chỗ cho cảm giác nóng rát.",
+        "search": "fever temperature thermal brain 3d animation glowing red body",
+        "caption": "Cơn run dừng lại khi đạt đỉnh sốt"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T18:10:22.013643+00:00",
+    "updated_at": "2026-11-08T18:12:38.939720+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-08T18:10:46.934284+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "528 chars (cat 139 de vua 55s)",
+        "at": "2026-11-08T18:10:58.021424+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.4s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-08T18:11:23.465029+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T18:11:24.667864+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-08T18:11:40.347557+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-08T18:11:40.455599+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.4s 24513235 bytes",
+        "at": "2026-11-08T18:12:38.525444+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T18:12:38.939702+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8816951/8816951-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/34708324/14711537_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863500/15863500-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283219/15283219-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39390562/16770399_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39481048/16816866_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7988161/7988161-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/35063107/14852708_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069863/18069863-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34969782/14813396_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8375708/8375708-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439746/15439746-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "224c0bbd91",
     "kind": "short",
     "channel": "Channel3",
