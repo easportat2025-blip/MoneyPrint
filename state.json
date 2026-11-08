@@ -1,5 +1,162 @@
 [
   {
+    "id": "9700fe12ef",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why China’s Emperor Executed His Favorite Consort",
+    "idea": {
+      "title": "Why China’s Emperor Executed His Favorite Consort",
+      "hook": "In 756 AD, Emperor Xuanzong ordered the execution of his beloved consort Yang Guifei—not for treason, but to appease his own mutinous army.",
+      "beats": [
+        "Yang Guifei was recognized as the most favored imperial consort in Tang history.",
+        "When General An Lushan rebelled, mutinous imperial guards refused to march against the rebels.",
+        "The soldiers blamed Yang's corrupt family for the empire's collapse and demanded her death.",
+        "Xuanzong wept bitterly but was forced to hand her a silk scarf to hang herself.",
+        "Her sacrifice saved the Emperor's life, but he spent his remaining years haunted by grief."
+      ],
+      "keywords": [
+        "Tang dynasty painting",
+        "Emperor Xuanzong portrait",
+        "Yang Guifei artwork",
+        "ancient Chinese battle map",
+        "Imperial Guard engraving"
+      ],
+      "tags": [
+        "chinese history",
+        "tang dynasty",
+        "an lushan rebellion",
+        "history documentary",
+        "channel2 history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did China's most powerful emperor execute his true love?",
+        "search": "Emperor Xuanzong portrait painting Tang dynasty",
+        "caption": "Why did an emperor execute his favorite consort?"
+      },
+      {
+        "narration": "In 756 AD, the tragic execution of Consort Yang Guifei marked the turning point of the Tang dynasty.",
+        "search": "Yang Guifei artwork Tang dynasty silk painting",
+        "caption": "756 AD: A turning point for the Tang empire."
+      },
+      {
+        "narration": "For years, Emperor Xuanzong showered Yang Guifei with extraordinary favor, granting her relatives vast imperial influence.",
+        "search": "Tang dynasty court royal figures painting",
+        "caption": "Yang Guifei enjoyed unprecedented imperial influence."
+      },
+      {
+        "narration": "That stability vanished in 755 AD when General An Lushan launched a catastrophic rebellion against the throne.",
+        "search": "ancient Chinese battle map engraving Tang dynasty",
+        "caption": "General An Lushan launched a catastrophic rebellion in 755 AD."
+      },
+      {
+        "narration": "Fleeing the capital, the imperial court reached Mawei Station, where exhausted guards suddenly refused to march further.",
+        "search": "ancient Chinese soldiers cavalry painting Tang era",
+        "caption": "Exhausted imperial guards mutinied at Mawei Station."
+      },
+      {
+        "narration": "The troops accused Yang Guifei's cousin, Chancellor Yang Guozhong, of corruption and executed him on the spot.",
+        "search": "Tang dynasty Chinese official portrait painting",
+        "caption": "Rebellious guards executed Chancellor Yang Guozhong."
+      },
+      {
+        "narration": "Still unsatisfied, the mutineers surrounded Emperor Xuanzong and demanded the consort's death to prevent future vengeance.",
+        "search": "ancient Chinese warrior portrait painting Tang era",
+        "caption": "Mutineers demanded Consort Yang Guifei's death."
+      },
+      {
+        "narration": "Facing total mutiny, Xuanzong succumbed to pressure and presented Yang Guifei with a white silk scarf.",
+        "search": "white silk fabric detail Tang dynasty artwork",
+        "caption": "Xuanzong surrendered a silk scarf for her execution."
+      },
+      {
+        "narration": "In 756 AD at Mawei Station, Yang Guifei submitted to her fate and hanged herself with the white silk scarf inside a shrine.",
+        "search": "Tang dynasty style silk painting Yang Guifei artwork",
+        "caption": "Yang Guifei was executed at Mawei Station in 756 AD"
+      },
+      {
+        "narration": "Satisfied by her death, the mutinous Imperial Guard restored order, allowing Emperor Xuanzong to safely flee south to Chengdu.",
+        "search": "ancient Chinese battle map Tang dynasty engraving",
+        "caption": "Her sacrifice pacified the guards, enabling Xuanzong's escape"
+      },
+      {
+        "narration": "Though Xuanzong survived the rebellion, he spent his remaining years abdicated and consumed by grief over the consort he sacrificed for his throne.",
+        "search": "Emperor Xuanzong portrait painting Tang dynasty historical artwork",
+        "caption": "Xuanzong spent his final years haunted by her tragedy"
+      },
+      {
+        "narration": "In 756 AD, China's emperor executed his favorite consort.",
+        "search": "Emperor Xuanzong portrait Tang dynasty painting",
+        "caption": "In 756 AD, an emperor executed his true love."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T10:39:38.413232+00:00",
+    "updated_at": "2026-11-08T10:42:08.140884+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-08T10:40:16.316551+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "346 chars (cat 329 de vua 55s)",
+        "at": "2026-11-08T10:40:28.055386+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.0s en-US-GuyNeural 4 cau",
+        "at": "2026-11-08T10:40:31.287990+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T10:40:32.225583+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-08T10:41:23.157782+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T10:41:23.276164+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.0s 14448519 bytes",
+        "at": "2026-11-08T10:42:07.726264+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T10:42:08.140866+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30243197/pexels-photo-30243197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32562650/pexels-photo-32562650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39116611/pexels-photo-39116611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36508379/pexels-photo-36508379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37670365/pexels-photo-37670365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30552668/pexels-photo-30552668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237297/pexels-photo-38237297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35993311/pexels-photo-35993311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37613606/pexels-photo-37613606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31382415/pexels-photo-31382415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2240137/pexels-photo-2240137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38186473/pexels-photo-38186473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b429ba41fd",
     "kind": "short",
     "channel": "Channel2",
