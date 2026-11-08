@@ -1,5 +1,599 @@
 [
   {
+    "id": "cc2e19b1e9",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Genghis Khan Executed the Generals Who Betrayed His Enemy",
+    "idea": {
+      "title": "Why Genghis Khan Executed the Generals Who Betrayed His Enemy",
+      "hook": "When two generals betrayed their commander to win Genghis Khan's favor, the Great Khan gave them an unthinkable reward: immediate execution.",
+      "beats": [
+        "The Bond of Anda: Temüjin and Jamukha exchange vows of blood brotherhood on the Mongolian steppe, promising lifelong loyalty.",
+        "The Fracture: As both leaders gain followers, differing philosophies on meritocracy versus aristocratic lineage drive them into open war.",
+        "Years of Warfare: Jamukha becomes the rival Gurkhan, uniting opposing tribes against Genghis Khan in a bitter struggle for the steppe.",
+        "The Collapse of Jamukha's Alliance: Genghis Khan's tactical brilliance and growing momentum systematically dismantle his rival's army.",
+        "Fleeing into the Wilderness: Reduced to an outlaw, Jamukha hides in the mountains with only a small band of remaining followers.",
+        "The Treason: Seeking favor with the rising conqueror, Jamukha's own generals overpower their leader, bind him, and drag him to Genghis Khan.",
+        "Expecting Riches: The traitors present Jamukha to the Great Khan, fully expecting royal titles, gold, and elevated positions in the new empire.",
+        "The Khan's Disgust: Genghis Khan views loyalty to one's chosen master as the ultimate virtue, regardless of whether that master is friend or foe.",
+        "The Final Verdict: Genghis Khan declares that men who turn on their rightful lord can never be trusted by anyone and orders their immediate execution.",
+        "The Offer of Reconciliation: With the traitors dead, Genghis Khan offers to restore Jamukha as his brother and rule the steppe side-by-side.",
+        "Jamukha's Refusal: Realizing there can only be one Khan, Jamukha requests a noble execution without the shedding of blood to preserve his soul.",
+        "The Legacy of Honor: How Genghis Khan's ruthless enforcement of absolute loyalty laid the foundation for the largest contiguous land empire in history."
+      ],
+      "keywords": [
+        "Genghis Khan",
+        "Jamukha",
+        "Mongol Empire",
+        "Mongolian History",
+        "Steppe Warfare",
+        "Ancient History",
+        "Blood Brothers",
+        "Military History",
+        "Historical Betrayals",
+        "Great Khan"
+      ],
+      "tags": [
+        "#GenghisKhan",
+        "#MongolEmpire",
+        "#HistoryDocumentary",
+        "#Jamukha",
+        "#AncientHistory",
+        "#MilitaryHistory",
+        "#MongolianHistory",
+        "#HistoricalFigures",
+        "#NomadicWarriors",
+        "#AncientEmpires"
+      ],
+      "kind": "long",
+      "thumbnail_text": "NO MERCY FOR TRAITORS"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Genghis Khan execute generals who delivered his enemy?",
+        "search": "genghis khan portrait painting artwork",
+        "caption": "Traitors expected rewards, but met immediate execution instead."
+      },
+      {
+        "narration": "In 1172 on the Mongolian steppe, young Temüjin and Jamukha swore the sacred vow of anda, pledging eternal blood brotherhood.",
+        "search": "mongol empire steppe warriors manuscript illumination",
+        "caption": "In 1172, Temüjin and Jamukha swore eternal blood brotherhood."
+      },
+      {
+        "narration": "By 1201, differing visions over aristocratic privilege versus military meritocracy ignited a decade-long war between the two former brothers.",
+        "search": "ancient mongolian cavalry battle oil painting",
+        "caption": "Ideological rift sparked a decade of brutal steppe warfare."
+      },
+      {
+        "narration": "After suffering catastrophic losses in 1205, Jamukha fled into the Tannu-Ola mountains with a small band of remaining followers.",
+        "search": "mongol warrior in snow mountains artwork engraving",
+        "caption": "In 1205, defeated Jamukha fled into frozen mountain ranges."
+      },
+      {
+        "narration": "Seeking wealth and status under the rising conqueror, Jamukha's own commanders ambushed their leader, bound him, and dragged him to Temüjin's camp.",
+        "search": "bound captive prisoner ancient manuscript miniature",
+        "caption": "Trusted generals bound Jamukha to trade him for riches."
+      },
+      {
+        "narration": "Expecting lavish titles and gold, the turncoat generals presented their prisoner, but Temüjin viewed betrayal of one's lord as an unpardonable sin.",
+        "search": "genghis khan throne room historical painting",
+        "caption": "Temüjin despised men who turned on their rightful commander."
+      },
+      {
+        "narration": "Temüjin ordered the immediate execution of the traitors before granting Jamukha a noble, bloodless execution by breaking his spine in 1206.",
+        "search": "ancient mongol execution illustration artwork",
+        "caption": "Traitors were executed; Jamukha received a noble bloodless death."
+      },
+      {
+        "narration": "By demanding absolute loyalty above political gain, Genghis Khan forged a disciplined military machine that established the largest contiguous land empire in history.",
+        "search": "mongol empire map engraving historical",
+        "caption": "Uncompromising code of loyalty built history's largest contiguous empire."
+      },
+      {
+        "narration": "In 1172 near the Onon River, young Temüjin and Jamukha swore the sacred vow of anda, exchanging sheep knuckle-bones and horses to bind their blood brotherhood.",
+        "search": "temujin and jamukha blood brothers medieval illustration",
+        "caption": "In 1172, Temüjin and Jamukha swore the sacred oath of anda."
+      },
+      {
+        "narration": "In 12th-century Mongolia, steppe politics were dominated by noble clans who routinely betrayed their leaders for personal gain and immediate plunder.",
+        "search": "12th century mongolian steppe warriors medieval manuscript illumination",
+        "caption": "Nomadic steppe warfare was rife with shifting tribal betrayals."
+      },
+      {
+        "narration": "When Temüjin was proclaimed ruler of the Khamag Mongol in 1189, Jamukha rallied traditional aristocrats who rejected Temüjin's system of promotion by merit.",
+        "search": "temujin genghis khan coronation 1189 persian miniature painting",
+        "caption": "Temüjin's rise in 1189 challenged traditional aristocratic steppe hierarchies."
+      },
+      {
+        "narration": "Following the Battle of Dalan Balzhut in 1187, Jamukha executed captured rivals by boiling them in seventy large cauldrons, deepening the blood feud between the former brothers.",
+        "search": "battle of dalan balzhut medieval mongol warfare illustration",
+        "caption": "Jamukha's brutal victory at Dalan Balzhut escalated the rivalry."
+      },
+      {
+        "narration": "Recognizing that betrayal destabilized entire nations, Temüjin formulated strict legal principles later compiled in the Great Yassa code to enforce absolute military discipline.",
+        "search": "great yassa code genghis khan law manuscript painting",
+        "caption": "Temüjin created strict legal codes punishing military treason with death."
+      },
+      {
+        "narration": "During campaigns against the Naimans and Keraites between 1201 and 1205, defecting commanders frequently attempted to buy favor by surrendering their captured chiefs.",
+        "search": "mongol warfare 13th century battle scene historical painting",
+        "caption": "Defecting commanders routinely sought rewards by surrendering their leaders."
+      },
+      {
+        "narration": "When Jamukha was forced into hiding in the Burkhan Khaldun mountains in 1205, five of his own officers bound him and delivered him to Temüjin's camp.",
+        "search": "burkhan khaldun mountains mongolia historic landscape painting",
+        "caption": "In 1205, Jamukha's lieutenants bound and betrayed their fugitive lord."
+      },
+      {
+        "narration": "By ordering the instant execution of Jamukha's captors in 1206, Genghis Khan established a precedent that loyalty to one's commander superseded political allegiance.",
+        "search": "genghis khan court portrait painting 13th century",
+        "caption": "Executing the traitors established absolute loyalty as empire law."
+      },
+      {
+        "narration": "Following the execution of the traitors in 1206, Temüjin turned to his bound rival and offered to restore their childhood oath of blood brotherhood.",
+        "search": "Genghis Khan and Jamukha Mongol manuscript miniature painting",
+        "caption": "Temüjin offers reconciliation to his captured blood brother in 1206."
+      },
+      {
+        "narration": "Decades earlier, around 1172, the two young leaders had exchanged knuckle-bones and swore eternal fealty as anda on the banks of the Onon River.",
+        "search": "Mongolian steppe Onon River landscape oil painting",
+        "caption": "The early blood oath sworn on the Onon River around 1172."
+      },
+      {
+        "narration": "Yet Jamukha recognized that two paramount rulers could not coexist across the unified Mongolian steppe without sparking renewed bloodshed.",
+        "search": "Mongol warriors cavalry battle 13th century illustration",
+        "caption": "Jamukha foresees permanent strife if two rival leaders survive."
+      },
+      {
+        "narration": "Declining the offer of co-rule, Jamukha insisted that his death was necessary to allow Genghis Khan to rule without internal rebellion.",
+        "search": "Mongol chieftain tent yurt medieval engraving",
+        "caption": "Jamukha refuses the throne to ensure a unified Mongol empire."
+      },
+      {
+        "narration": "He requested a noble execution without the shedding of blood, believing that intact bones would preserve his spirit in the afterlife.",
+        "search": "Mongolian shaman ritual ancient illustration",
+        "caption": "Requesting a bloodless death to preserve the spirit according to custom."
+      },
+      {
+        "narration": "In late 1206, Temüjin honored his rival's final wish, executing Jamukha by breaking his spine and according him full aristocratic burial rites.",
+        "search": "Mongol burial mound kurgan medieval manuscript",
+        "caption": "Jamukha is executed without bloodshed in 1206 with royal honors."
+      },
+      {
+        "narration": "The death of Jamukha removed the last aristocratic claimant to power, allowing the 1206 Kurultai to proclaim Temüjin as Genghis Khan.",
+        "search": "Kurultai Genghis Khan assembly Persian miniature painting",
+        "caption": "The 1206 Kurultai officially proclaims Temüjin as Genghis Khan."
+      },
+      {
+        "narration": "By punishing treason against enemies and rewarding absolute fealty, Genghis Khan forged a meritocratic army bound by unyielding personal loyalty.",
+        "search": "Mongol army cavalry march medieval map manuscript",
+        "caption": "Strict codes of loyalty forge the ultimate steppe army."
+      },
+      {
+        "narration": "In 1205, five generals delivered Genghis Khan's deadliest enemy in chains expecting instant wealth, yet all five were executed on the spot.",
+        "search": "genghis khan portrait medieval chinese silk painting",
+        "caption": "Traitors expect rewards but face immediate execution in 1205."
+      },
+      {
+        "narration": "Following his defeat at the Battle of Chakirmaut in 1204, the rival leader Jamukha fled into the Tannu-Ola mountains with only a handful of loyalists.",
+        "search": "mongolian steppe landscape 13th century historical painting",
+        "caption": "Jamukha flees into the Tannu-Ola mountains after defeat in 1204."
+      },
+      {
+        "narration": "Desperate and starving, Jamukha's remaining lieutenants turned on their commander, binding his hands to barter for their own survival.",
+        "search": "medieval mongol warriors binding captive manuscript illumination",
+        "caption": "Five lieutenants ambush and bind Jamukha in the wilderness."
+      },
+      {
+        "narration": "The five officers dragged Jamukha into Temüjin's royal tent, demanding titles, pasture lands, and gold in exchange for their captive.",
+        "search": "mongol khan tent yurt medieval manuscript illustration",
+        "caption": "Traitors present Jamukha to Temüjin expecting wealth and rank."
+      },
+      {
+        "narration": "Genghis Khan revolted at their treachery, declaring that men who lay hands on their rightful master can never be trusted by any ruler.",
+        "search": "genghis khan throne medieval Persian miniature painting",
+        "caption": "Genghis Khan rejects treason against any sovereign lord."
+      },
+      {
+        "narration": "Before Jamukha's eyes, the Great Khan ordered guards to execute all five betrayers, reaffirming that fealty transcended war.",
+        "search": "medieval execution scene illuminated manuscript drawing",
+        "caption": "All five traitors executed immediately by the Khan's order."
+      },
+      {
+        "narration": "Freeing his former blood brother, Temüjin offered reconciliation, but Jamukha requested a bloodless execution to die with dignity in 1206.",
+        "search": "jamukha and temujin blood brothers medieval manuscript painting",
+        "caption": "Jamukha requests a noble bloodless execution in 1206."
+      },
+      {
+        "narration": "By prioritizing absolute loyalty over political expediency, Genghis Khan codified strict legal codes that unified the Mongol tribes into history's largest contiguous empire.",
+        "search": "mongol empire map 13th century historical engraving",
+        "caption": "Strict loyalty laws lay the foundation for the Mongol Empire."
+      },
+      {
+        "narration": "Following Jamukha's execution in 1206, Genghis Khan formally codified the Yassa legal system, making treason against any commander a crime punishable strictly by death.",
+        "search": "genghis khan mongol legal code yassa manuscript painting",
+        "caption": "The Yassa Code Codified Absolute Loyalty Under Penalty of Death"
+      },
+      {
+        "narration": "Instead of rewarding turncoats, the Khan actively recruited enemy soldiers who fought bravely for their fallen commanders, such as the archer Jebe.",
+        "search": "jebe archer warrior mongol miniature painting",
+        "caption": "Enemy Soldiers Displaying Loyalty Were Recruited Over Traitors"
+      },
+      {
+        "narration": "When the Mongol army invaded Western Xia in 1209, local fortress commanders who offered to surrender by betraying their king were executed on the spot.",
+        "search": "western xia fortress siege ancient chinese engraving",
+        "caption": "Fortress Traitors Executed Instantly During Western Xia Campaign"
+      },
+      {
+        "narration": "During the 1211 invasion of the Jurchen Jin dynasty, Emperor Wanyan Yongji attempted to bribe Mongol generals with gold, but none defected.",
+        "search": "jurchen jin dynasty emperor portrait painting",
+        "caption": "Jin Dynasty Emperor Failed to Bribe Mongol Generals"
+      },
+      {
+        "narration": "The principle was tested further in 1219, when Governor Inalchuq of Otrar seized a Mongol trade caravan, breaking diplomatic oaths of safe passage.",
+        "search": "otr ar fortress silk road trade caravan illustration",
+        "caption": "Governor Inalchuq Violates Diplomatic Oaths in 1219"
+      },
+      {
+        "narration": "Shah Muhammad II of the Khwarezmian Empire escalated the crisis by executing Genghis Khan's ambassadors, treating diplomatic honor with total contempt.",
+        "search": "shah muhammad khwarezm persian miniature painting",
+        "caption": "Khwarezmian Shah Executes Mongol Ambassadors"
+      },
+      {
+        "narration": "Driven by his unyielding stance on honor, Genghis Khan launched a full-scale invasion of Central Asia to hunt down every official responsible for the betrayal.",
+        "search": "mongol cavalry army invasion manuscript illustration",
+        "caption": "Genghis Khan Launches Invasion Over Violated Oaths"
+      },
+      {
+        "narration": "As Khwarezmian cities fell, defecting generals who turned on Shah Muhammad II to save themselves were executed by the Khan's vanguard for their betrayal.",
+        "search": "mongol siege of samarkand Persian miniature painting",
+        "caption": "Defecting Khwarezmian Officers Executed for Betraying Their Sovereign"
+      },
+      {
+        "narration": "Long before the conquest of Khwarezm, Temüjin and Jamukha pledged the sacred vow of anda on the Mongolian steppe in 1172.",
+        "search": "mongol steppe landscape manuscript illustration",
+        "caption": "Temüjin and Jamukha swore blood brotherhood on the steppe in 1172."
+      },
+      {
+        "narration": "As their clans grew, Jamukha favored traditional aristocratic lineage, while Temüjin promoted commanders solely on merit and loyalty.",
+        "search": "mongol warriors cavalry 13th century miniature painting",
+        "caption": "Differing views on meritocracy and noble lineage shattered their brotherhood."
+      },
+      {
+        "narration": "In 1201, rival steppe tribes elected Jamukha as Gurkhan, igniting years of bitter conflict for control of Mongolia.",
+        "search": "jamukha mongol leader manuscript illustration",
+        "caption": "Jamukha was declared Gurkhan in 1201, igniting open civil war."
+      },
+      {
+        "narration": "Despite early defeats, Temüjin reorganized his forces into disciplined decimal units, systematically breaking Jamukha's military coalition.",
+        "search": "mongol army battle 13th century miniature painting",
+        "caption": "Reorganized military structure systematically dismantled Jamukha's allied forces."
+      },
+      {
+        "narration": "By 1205, Jamukha's army had shattered completely, forcing the fallen leader into hiding in the Tannu-Ola mountains.",
+        "search": "mongolian mountain landscape old map engraving",
+        "caption": "By 1205, Jamukha fled into the mountains with only five loyalists."
+      },
+      {
+        "narration": "Seeking royal favor, Jamukha's remaining five lieutenants ambushed their commander, bound him in chains, and marched to Temüjin's camp.",
+        "search": "bound captive mongol prisoner manuscript illustration",
+        "caption": "Five lieutenants bound Jamukha and delivered him to Temüjin's camp."
+      },
+      {
+        "narration": "The defecting generals presented Jamukha to the conqueror, expecting titles, gold, and elevated ranks in the newly unified nation.",
+        "search": "genghis khan court throne room miniature painting",
+        "caption": "The defecting officers demanded titles and gold for turning in Jamukha."
+      },
+      {
+        "narration": "Instead of offering rewards, Temüjin expressed absolute disgust, declaring that men who betray their own leader could never be trusted.",
+        "search": "genghis khan portrait painting",
+        "caption": "Temüjin condemned the traitors, declaring unfaithful men could never be trusted."
+      },
+      {
+        "narration": "In 1206, Temüjin ordered that the defecting officers who betrayed Jamukha be executed immediately before the assembled warriors.",
+        "search": "mongol executioners manuscript illustration",
+        "caption": "Temüjin orders the immediate execution of the traitorous officers in 1206."
+      },
+      {
+        "narration": "The punishment was carried out on the spot, establishing that treason against a recognized lord carried an absolute death sentence under Mongol law.",
+        "search": "mongolian army camp engraving",
+        "caption": "Treason against a recognized ruler carried an immediate death sentence."
+      },
+      {
+        "narration": "With the traitors dead, Temüjin ordered Jamukha's bonds severed, recalling their early oath of blood brotherhood along the Onon River.",
+        "search": "temujin and jamukha blood brothers painting",
+        "caption": "Temüjin frees Jamukha, recalling their youthful oath of blood brotherhood."
+      },
+      {
+        "narration": "Temüjin offered to forgive past battle conflicts and reinstate Jamukha as his chief commander across the unified steppe tribes.",
+        "search": "genghis khan enthroned manuscript illustration",
+        "caption": "Temüjin offers Jamukha joint leadership over the newly unified nation."
+      },
+      {
+        "narration": "Sharing supreme power posed severe political risks, as steppe tradition required a single ruler to prevent future tribal fragmentation.",
+        "search": "mongol tribal assembly manuscript miniature",
+        "caption": "Steppe political tradition required a single sovereign ruler."
+      },
+      {
+        "narration": "Jamukha understood that years of bitter warfare made lasting trust impossible between two former rivals for the throne.",
+        "search": "jamukha warrior portrait illustration",
+        "caption": "Jamukha recognized that deep-seated rivalries could never be fully erased."
+      },
+      {
+        "narration": "Jamukha rejected the offer of reconciliation, remarking that just as there was one sun in the sky, there could only be one Khan.",
+        "search": "mongolian steppe camp old engraving",
+        "caption": "Jamukha declines the offer, stating the steppe needed a single Khan."
+      },
+      {
+        "narration": "To preserve his eternal soul according to Mongol tradition, Jamukha requested a noble death executed without the shedding of royal blood.",
+        "search": "mongol noble ritual painting",
+        "caption": "Jamukha requests a bloodless execution to preserve his eternal soul."
+      },
+      {
+        "narration": "In 1206 AD, Temüjin honored Jamukha's final request by ordering his execution without shedding royal blood, breaking his spine according to Mongol tradition.",
+        "search": "medieval mongol warriors execution manuscript illustration",
+        "caption": "Jamukha was executed without blood shedding according to steppe custom"
+      },
+      {
+        "narration": "Jamukha was buried with high honors as a noble warrior, but Temüjin immediately turned his attention back to the two generals who had betrayed him.",
+        "search": "mongol khagan seated on throne medieval miniature painting",
+        "caption": "Temüjin turned his judgment toward the traitorous generals"
+      },
+      {
+        "narration": "Temüjin declared that men who abandoned their rightful lord for personal gain could never be trusted to serve any leader faithfully.",
+        "search": "mongol empire court trial historical artwork illustration",
+        "caption": "Traitors to their own lord were deemed permanently untrustworthy"
+      },
+      {
+        "narration": "The two generals were executed publicly before the assembled tribes, signaling that betrayal would yield death rather than reward under Temüjin's rule.",
+        "search": "ancient steppe warriors standing in formation historical painting",
+        "caption": "The public executions established an uncompromising standard of loyalty"
+      },
+      {
+        "narration": "This principle was later codified into the Yassa, the Mongol legal code, which treated treason against a commander as a top-tier capital offense.",
+        "search": "mongol yassa law document manuscript illumination",
+        "caption": "The Yassa legal code mandated death for treason against commanders"
+      },
+      {
+        "narration": "By executing traitors and rewarding enemy soldiers who fought bravely for their original lords, Temüjin reshaped the military culture of the steppe.",
+        "search": "mongol cavalry charging battle scene medieval illustration",
+        "caption": "Military culture shifted from opportunism to absolute battlefield fidelity"
+      },
+      {
+        "narration": "At the Kurultai assembly of 1206 AD, Temüjin was officially proclaimed Genghis Khan, supreme ruler of a newly unified nomadic nation.",
+        "search": "kurultai assembly genghis khan imperial tent manuscript painting",
+        "caption": "In 1206 AD Temüjin was proclaimed Genghis Khan"
+      },
+      {
+        "narration": "With internal rivals eliminated and absolute loyalty enforced, the Mongol nation prepared to expand beyond the steppe against neighboring empires.",
+        "search": "great wall of china ancient map engraving",
+        "caption": "The unified Mongol state turned its attention to surrounding foreign powers"
+      },
+      {
+        "narration": "By 1205 AD, defeated and abandoned by his tribal confederacy, Jamukha fled into the Tannu Ola mountains as an outlaw.",
+        "search": "mongol warrior mountains manuscript illustration",
+        "caption": "Jamukha fled into the mountains as an outlaw in 1205 AD"
+      },
+      {
+        "narration": "Desperate to earn favor with the rising empire, five of Jamukha's remaining officers seized their commander while he slept.",
+        "search": "medieval mongol warriors binding prisoner manuscript illustration",
+        "caption": "Five officers betrayed Jamukha to win favor with Genghis Khan"
+      },
+      {
+        "narration": "The traitors dragged their bound leader across the steppe to the royal camp of Genghis Khan.",
+        "search": "13th century mongol royal camp manuscript illustration",
+        "caption": "Traitors brought the captive Jamukha to Genghis Khan's camp"
+      },
+      {
+        "narration": "Presenting Jamukha as a trophy, the five generals openly demanded gold, high military ranks, and land grants.",
+        "search": "mongol generals presenting gifts manuscript illustration",
+        "caption": "The betrayers expected wealth and rank for delivering Jamukha"
+      },
+      {
+        "narration": "Genghis Khan maintained a strict moral code where unyielding loyalty to one's chosen lord was the supreme virtue.",
+        "search": "genghis khan sitting on throne painting illustration",
+        "caption": "Genghis Khan valued absolute loyalty above all political gain"
+      },
+      {
+        "narration": "Declaring that men who turn on their rightful leader could never be trusted, Genghis Khan ordered the immediate execution of all five traitors.",
+        "search": "medieval execution mongol warriors manuscript illustration",
+        "caption": "Genghis Khan ordered the immediate execution of the traitors"
+      },
+      {
+        "narration": "With the betrayers executed, Genghis Khan personally cut Jamukha's bonds and offered to renew their childhood vow of blood brotherhood.",
+        "search": "two mongol leaders meeting historical painting illustration",
+        "caption": "Genghis Khan offered to restore his blood brotherhood with Jamukha"
+      },
+      {
+        "narration": "Jamukha recognized that two powerful leaders could not coexist on the steppe without triggering renewed civil war.",
+        "search": "jamukha mongol leader portrait illustration",
+        "caption": "Jamukha understood two Khans could not rule together"
+      },
+      {
+        "narration": "In 1206, Jamukha refused Temüjin's offer of reconciliation, asking instead for a noble execution without the shedding of blood so his spirit could rest.",
+        "search": "jamukha and genghis khan historical illustration painting",
+        "caption": "In 1206, Jamukha requested a noble, bloodless execution from Temüjin."
+      },
+      {
+        "narration": "Honoring his blood brother's final wish, Genghis Khan ordered Jamukha executed by breaking his spine, granting him a sacred burial reserved for high nobility.",
+        "search": "mongol warrior burial site ancient illustration manuscript",
+        "caption": "Jamukha was granted an honorable execution reserved for steppe nobility."
+      },
+      {
+        "narration": "With Jamukha's death, the rival confederations of the Mongolian steppe were unified under one supreme ruler, proclaimed as Genghis Khan at the 1206 Kurultai.",
+        "search": "genghis khan kurultai assembly medieval manuscript illustration",
+        "caption": "The 1206 Kurultai proclaimed Temüjin as Genghis Khan, sole ruler."
+      },
+      {
+        "narration": "Genghis Khan codified the Yassa legal system, establishing that personal merit and absolute loyalty superseded noble lineage or tribal faction.",
+        "search": "mongol empire law code yassa medieval manuscript page",
+        "caption": "The Yassa law code prioritized absolute loyalty over noble lineage."
+      },
+      {
+        "narration": "By executing generals who betrayed their own leaders, Genghis Khan sent an undeniable warning across Eurasia: treachery would never buy favor in his court.",
+        "search": "mongol empire military campaign 13th century oil painting",
+        "caption": "Traitors to any lord faced execution under Genghis Khan's code."
+      },
+      {
+        "narration": "Bound by unwavering discipline and shared purpose, the Mongol armies built the largest contiguous land empire in human history, stretching from Eastern Europe to the Sea of Japan.",
+        "search": "mongol empire map 13th century historical engraving armies",
+        "caption": "The Mongol armies created history's largest contiguous land empire."
+      },
+      {
+        "narration": "Modern historians recognize that Genghis Khan's ruthless elimination of opportunists created a military machine based on structural trust rather than deceit.",
+        "search": "genghis khan equestrian monument photo modern mongolia",
+        "caption": "Strategic execution of traitors forged an empire built on trust."
+      },
+      {
+        "narration": "The execution of Jamukha's betrayers was not mere vengeance, but the founding paradox of an empire: total destruction for traitors, ultimate honor for the loyal.",
+        "search": "genghis khan portrait painting Yuan dynasty silk scroll",
+        "caption": "Total destruction for traitors, ultimate honor for the loyal."
+      },
+      {
+        "narration": "Genghis Khan executed generals who betrayed his deadliest enemy.",
+        "search": "genghis khan portrait painting 13th century",
+        "caption": "Executing Traitors Who Brought Him Victory"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-08T18:36:54.792513+00:00",
+    "updated_at": "2026-11-08T18:50:30.629799+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-08T18:39:28.367998+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3197 chars",
+        "at": "2026-11-08T18:39:46.569305+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "196.3s en-US-GuyNeural 32 cau",
+        "at": "2026-11-08T18:40:18.560858+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-08T18:40:24.919382+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-08T18:43:49.489920+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-08T18:43:49.602464+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 196.3s 144246845 bytes",
+        "at": "2026-11-08T18:50:30.134901+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-11-08T18:50:30.360341+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-08T18:50:30.629777+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30510085/pexels-photo-30510085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9476852/pexels-photo-9476852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1546249/pexels-photo-1546249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36880663/pexels-photo-36880663.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16471970/pexels-photo-16471970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29872085/pexels-photo-29872085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251079/pexels-photo-31251079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494911/pexels-photo-9494911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26923425/pexels-photo-26923425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30876954/pexels-photo-30876954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33231045/pexels-photo-33231045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32283258/pexels-photo-32283258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34343011/pexels-photo-34343011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5030528/pexels-photo-5030528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9801140/pexels-photo-9801140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33528709/pexels-photo-33528709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32915594/pexels-photo-32915594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2407409/pexels-photo-2407409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268901/pexels-photo-9268901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18601782/pexels-photo-18601782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9467575/pexels-photo-9467575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34489194/pexels-photo-34489194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28433951/pexels-photo-28433951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27905048/pexels-photo-27905048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478267/pexels-photo-9478267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35497984/pexels-photo-35497984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32757128/pexels-photo-32757128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32755612/pexels-photo-32755612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16386337/pexels-photo-16386337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5845925/pexels-photo-5845925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34343011/pexels-photo-34343011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828430/pexels-photo-8828430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478290/pexels-photo-9478290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34675074/pexels-photo-34675074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35268679/pexels-photo-35268679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18509383/pexels-photo-18509383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20605720/pexels-photo-20605720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35087826/pexels-photo-35087826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14742525/pexels-photo-14742525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16796308/pexels-photo-16796308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4403669/pexels-photo-4403669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33714328/pexels-photo-33714328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9479406/pexels-photo-9479406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5257358/pexels-photo-5257358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14720497/pexels-photo-14720497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26743057/pexels-photo-26743057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38948167/pexels-photo-38948167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588758/pexels-photo-4588758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33858009/pexels-photo-33858009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31427427/pexels-photo-31427427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13047290/pexels-photo-13047290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19374508/pexels-photo-19374508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/771326/pexels-photo-771326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33716688/pexels-photo-33716688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35497976/pexels-photo-35497976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30734381/pexels-photo-30734381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37082106/pexels-photo-37082106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28999560/pexels-photo-28999560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37726665/pexels-photo-37726665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29696934/pexels-photo-29696934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28915399/pexels-photo-28915399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33674489/pexels-photo-33674489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19031655/pexels-photo-19031655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4326852/pexels-photo-4326852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37539478/pexels-photo-37539478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9466559/pexels-photo-9466559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6332412/pexels-photo-6332412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6576286/pexels-photo-6576286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14468417/pexels-photo-14468417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9247666/pexels-photo-9247666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12397968/pexels-photo-12397968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40161241/pexels-photo-40161241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416950/pexels-photo-18416950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35031603/pexels-photo-35031603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269082/pexels-photo-9269082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634898/pexels-photo-7634898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11171580/pexels-photo-11171580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5992915/pexels-photo-5992915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5602536/pexels-photo-5602536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2c88d99d43",
     "kind": "short",
     "channel": "Channel3",
