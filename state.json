@@ -1,5 +1,167 @@
 [
   {
+    "id": "3a32e4c4e6",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "sự thật phũ phàng về nước ngọt không đường đang lừa não bạn",
+    "idea": {
+      "title": "sự thật phũ phàng về nước ngọt không đường đang lừa não bạn",
+      "hook": "Bạn nghĩ uống nước ngọt 0 calo là cứu rỗi vòng eo, nhưng thực chất não bạn đang bị một cú lừa ngoạn mục.",
+      "beats": [
+        "Vị giác nhận diện đường hóa học và báo tín hiệu cho não chuẩn bị đón năng lượng.",
+        "Tuyến tụy lập tức tiết ra insulin nhưng hoàn toàn không tìm thấy đường thật trong máu.",
+        "Não rơi vào trạng thái hoảng loạn vì thiếu hụt năng lượng giả định, kích hoạt cơn thèm tinh bột dữ dội sau đó.",
+        "Hậu quả là bạn ăn nhiều hơn ở bữa tiếp theo, khiến nỗ lực giảm cân đổ sông đổ bể."
+      ],
+      "keywords": [
+        "diet soda brain",
+        "artificial sweetener mechanism",
+        "insulin response sugar substitute",
+        "weight loss paradox animation",
+        "brain sugar trick"
+      ],
+      "tags": [
+        "suckhoechuyensau",
+        "kenh3",
+        "kienthuc",
+        "khoahoc",
+        "sukhoa"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nước ngọt 0 calo đang làm bạn béo lên.",
+        "search": "hoat hinh 3d lon nuoc ngot va mo hinh nao bo",
+        "caption": "Nước ngọt 0 calo làm bạn béo hơn?"
+      },
+      {
+        "narration": "Ngay khi nhấp một ngụm, vị giác lập tức báo về vị ngọt rất đậm.",
+        "search": "hoat hinh 3d luoi nguoi dang nem vi ngoat",
+        "caption": "Vị giác nhận diện vị ngọt đậm"
+      },
+      {
+        "narration": "Não bộ tiếp nhận tín hiệu và chuẩn bị sẵn sàng nạp lượng calo lớn.",
+        "search": "hoat hinh 3d duong truyen tin hieu than kinh nao",
+        "caption": "Não chuẩn bị nạp calo"
+      },
+      {
+        "narration": "Lập tức, tuyến tụy bơm hormone insulin vào mạch máu theo đúng quy trình.",
+        "search": "hoat hinh 3d tuyen tuy tiet ra insulin",
+        "caption": "Tuyến tụy lập tức tiết insulin"
+      },
+      {
+        "narration": "Insulin di chuyển khắp cơ thể để tìm đường xử lý năng lượng.",
+        "search": "hoat hinh 3d phan tu insulin di chuyen trong mach mau",
+        "caption": "Insulin truy tìm lượng đường"
+      },
+      {
+        "narration": "Thế nhưng, hoàn toàn không có một phân tử đường thật nào xuất hiện.",
+        "search": "hoat hinh 3d dong mach mau trong rong khong co duong",
+        "caption": "Không hề có đường thật trong máu"
+      },
+      {
+        "narration": "Insulin dư thừa làm sụt giảm đường huyết, khiến não bộ bị hoảng loạn.",
+        "search": "hoat hinh 3d nao bo phat sang bao dong",
+        "caption": "Lượng đường sụt giảm, não hoảng loạn"
+      },
+      {
+        "narration": "Não phản ứng bằng cách phát tín hiệu thèm tinh bột cực kỳ dữ dội.",
+        "search": "hoat hinh 3d dia thuc an tinh bot va banh ngoat",
+        "caption": "Kích hoạt cơn thèm ăn dữ dội"
+      },
+      {
+        "narration": "Cơn thèm tinh bột khiến bạn vô thức ăn nhiều hơn hẳn ở bữa ăn tiếp theo.",
+        "search": "hoat hinh 3d nguoi an nhieu pizza va hamburger",
+        "caption": "Cơn thèm khiến bạn ăn bù gấp đôi"
+      },
+      {
+        "narration": "Lượng calo dư thừa nạp vào này cao gấp nhiều lần con số 0 calo bạn vừa tiết kiệm.",
+        "search": "hoat hinh 3d can thuc an va con so calo nhap nhay",
+        "caption": "Calo nạp thêm dư thừa gấp nhiều lần"
+      },
+      {
+        "narration": "Tệ hơn, insulin tiết ra vô ích liên tục làm cơ thể dễ rơi vào trạng thái kháng insulin.",
+        "search": "hoat hinh 3d te bao va phan tu insulin di chuyen",
+        "caption": "Tiết insulin vô ích gây kháng insulin"
+      },
+      {
+        "narration": "Vòng eo không những không nhỏ đi mà nỗ lực giảm cân của bạn còn đổ sông đổ bể.",
+        "search": "hoat hinh 3d nguoi do vong eo va ngoi khoc",
+        "caption": "Nỗ lực giảm cân hoàn toàn tan biến"
+      },
+      {
+        "narration": "Muốn giảm cân thật sự, hãy dừng lừa gạt bộ não và quay về với nước lọc tinh khiết.",
+        "search": "hoat hinh 3d ly nuoc loc tinh khiet va giot nuoc",
+        "caption": "Nước lọc mới là giải pháp cứu vòng eo"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T18:05:49.792766+00:00",
+    "updated_at": "2026-11-09T18:09:08.765756+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-09T18:06:53.828266+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "505 chars (cat 55 de vua 55s)",
+        "at": "2026-11-09T18:07:16.579407+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-09T18:07:34.318733+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T18:07:35.580568+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-09T18:08:01.908287+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-09T18:08:02.029555+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.1s 18371994 bytes",
+        "at": "2026-11-09T18:09:08.315810+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T18:09:08.765738+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/15863502/15863502-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7180705/7180705-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39713969/16932566_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15863504/15863504-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283174/15283174-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40600775/17345177_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263456/8263456-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7033628/7033628-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/11131968/11131968-hd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/35322498/14965410_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6942242/6942242-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6221340/6221340-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8676982/8676982-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "232182f68f",
     "kind": "short",
     "channel": "Channel3",
