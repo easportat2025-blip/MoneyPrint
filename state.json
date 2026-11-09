@@ -1,5 +1,599 @@
 [
   {
+    "id": "52546989c2",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 35mph Sticky Tsunami: The Untold Story of the Great Boston Molasses Flood",
+    "idea": {
+      "title": "The 35mph Sticky Tsunami: The Untold Story of the Great Boston Molasses Flood",
+      "hook": "In January 1919, a massive industrial tank ruptured in Boston's North End, unleashing a 25-foot wave of scalding molasses at 35 mph that flattened an entire city district and trapped dozens in a suffocating nightmare.",
+      "beats": [
+        "Boston, January 15, 1919: An unseasonably warm 40-degree winter day sets the stage for disaster in the densely populated North End.",
+        "The United States Industrial Alcohol Company constructs a massive, 50-foot-tall steel storage tank to store fermenting molasses for World War I munitions.",
+        "Rushed construction and corporate negligence leave the tank structurally unsound, leaking continuously while managers paint it brown to disguise the flaws.",
+        "At 12:40 PM, sound rivets shoot out like machine-gun fire as 2.3 million gallons of dense syrup rip the steel structure apart.",
+        "A 25-foot-tall brown wave surges through Commercial Street at 35 miles per hour, packing thousands of tons of pressure.",
+        "The violent displacement of air creates a blast wave that knocks down buildings and lifts house foundations before the liquid even touches them.",
+        "The wall of molasses snaps the heavy iron supports of an elevated railway station and crushes a nearby firehouse into splinters.",
+        "As the hot syrup contacts the cold winter air, it rapidly thickens into a concrete-like glue, trapping victims and draft horses underwater.",
+        "Brave rescue workers, including US Navy midshipmen and local residents, wade through waist-deep sludge, fighting against time as victims drown and suffocate.",
+        "The tragic toll reaches 21 dead and over 150 injured, while a sweet, suffocating odor lingers over Boston for decades.",
+        "The USIA attempts to blame Italian anarchists and dynamic bombers to escape accountability, triggering public fury.",
+        "A historic 6-year legal battle featuring 1,000 witnesses results in a landmark victory against corporate negligence, reshaping modern civil engineering regulations."
+      ],
+      "keywords": [
+        "Great Molasses Flood",
+        "Boston history",
+        "1919 disaster",
+        "Industrial accidents",
+        "Corporate negligence",
+        "American history documentary",
+        "Strange disasters",
+        "USIA lawsuit",
+        "Boston North End",
+        "Historical tragedy"
+      ],
+      "tags": [
+        "#BostonHistory",
+        "#MolassesFlood",
+        "#HistoryDocumentary",
+        "#IndustrialDisaster",
+        "#AmericanHistory",
+        "#1919",
+        "#TrueHistory",
+        "#StrangeHistory",
+        "#Documentary",
+        "#HistoricTragedy"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE 35 MPH STICKY TSUNAMI"
+    },
+    "scenes": [
+      {
+        "narration": "Can a wave of industrial syrup kill twenty-one people?",
+        "search": "1919 Boston molasses flood aftermath archival photograph",
+        "caption": "A 35 mph wave of molasses devastated Boston in 1919."
+      },
+      {
+        "narration": "On January 15, 1919, an unseasonably warm forty-degree winter day set the stage for disaster in Boston's densely populated North End.",
+        "search": "Boston North End 1910s commercial street archival photograph",
+        "caption": "Boston North End, January 15, 1919."
+      },
+      {
+        "narration": "Rushed by the United States Industrial Alcohol Company to process World War I munitions, managers painted the fifty-foot steel tank brown to hide severe structural leaks.",
+        "search": "1910s industrial steel storage tank archival photograph",
+        "caption": "Corporate negligence left a 50-foot steel tank structurally flawed."
+      },
+      {
+        "narration": "At 12:40 PM, rivets sheared off like gunfire as two point three million gallons of scalding molasses tore the steel structure apart.",
+        "search": "Destroyed industrial wreckage 1919 Boston archival photograph",
+        "caption": "2.3 million gallons of molasses burst through steel walls."
+      },
+      {
+        "narration": "A violent air blast flattened buildings and snapped elevated railway supports before a twenty-five-foot wall of dense liquid even touched them.",
+        "search": "Collapsed elevated railway Boston molasses flood archival photograph",
+        "caption": "A blast wave flattened structures before the viscous liquid hit."
+      },
+      {
+        "narration": "When hot syrup met cold winter air, it rapidly hardened into a cement-like glue, trapping victims and draft horses underwater.",
+        "search": "Boston molasses disaster rescue operation archival photograph",
+        "caption": "The cooling syrup rapidly hardened into a suffocating trap."
+      },
+      {
+        "narration": "The catastrophe left twenty-one dead and over one hundred fifty injured, prompting company officials to blame Italian anarchists for the destruction.",
+        "search": "1919 newspaper front page Boston molasses explosion headline",
+        "caption": "Executives blamed anarchists to escape legal accountability."
+      },
+      {
+        "narration": "A landmark six-year legal battle featuring one thousand witnesses defeated the corporation, permanently reshaping modern civil engineering regulations.",
+        "search": "1920s American court room legal trial archival photograph",
+        "caption": "The landmark legal battle reshaped American civil engineering laws."
+      },
+      {
+        "narration": "Corporate greed built a fifty-foot bomb in Boston. In 1915, industrial demand for war munitions drove unprecedented commercial haste.",
+        "search": "1915 Boston waterfront industrial docks archival photograph",
+        "caption": "Boston harbor industrial waterfront in 1915"
+      },
+      {
+        "narration": "The United States Industrial Alcohol Company needed massive storage to refine imported molasses into ethanol for artillery shells.",
+        "search": "1910s industrial alcohol distillery exterior photograph",
+        "caption": "Industrial ethanol production for World War I munitions"
+      },
+      {
+        "narration": "Company treasurer Arthur Jell directed construction in Boston's North End without consulting a qualified civil engineer.",
+        "search": "1910s corporate business executive portrait archival photograph",
+        "caption": "USIA treasurer Arthur Jell oversaw tank construction"
+      },
+      {
+        "narration": "Rushed to complete the structure before Prohibition passed, workers assembled thin steel plates secured by undersized rivets.",
+        "search": "1910s steel riveting industrial construction vintage photograph",
+        "caption": "Defective steel rivets and thin wall plates"
+      },
+      {
+        "narration": "When the giant vessel began weeping raw syrup from every seam, corporate management ordered the exterior painted brown to camouflage leaks.",
+        "search": "1910s large industrial storage vessel tank photograph",
+        "caption": "Storage tank painted brown to conceal leaking syrup"
+      },
+      {
+        "narration": "Throughout 1918, residents of the densely populated North End reported loud metallic groans echoing through their tenement homes.",
+        "search": "1910s Boston North End crowded tenement street photograph",
+        "caption": "North End neighborhood surrounding the steel structure"
+      },
+      {
+        "narration": "On January 15, 1919, an unseasonable forty-degree temperature spike caused the dense syrup inside to ferment, building immense gas pressure.",
+        "search": "1919 Boston winter street scene archival photograph",
+        "caption": "Unseasonable temperature spike on January 15 1919"
+      },
+      {
+        "narration": "At 12:40 PM, the compromised steel plates reached their ultimate breaking point, unleashing a historic wave of destruction.",
+        "search": "1919 Boston molasses flood disaster aftermath photograph",
+        "caption": "Structural failure triggered immediate urban devastation"
+      },
+      {
+        "narration": "At precisely 12:40 PM, rivets holding the fifty-foot steel tank sheared off in rapid succession, sounding like machine-gun fire across Boston's North End.",
+        "search": "1919 archival photograph destroyed industrial steel tank debris Boston",
+        "caption": "12:40 PM: Rivets shear off like rapid machine-gun fire"
+      },
+      {
+        "narration": "Before the liquid even touched the streets, the massive displacement of compressed air created a blast wave that lifted house foundations off the ground.",
+        "search": "1919 archival photograph Boston North End damaged wooden house foundations",
+        "caption": "A violent air shockwave lifts buildings off foundations"
+      },
+      {
+        "narration": "A twenty-five-foot wave containing two point three million gallons of dense syrup surged down Commercial Street at thirty-five miles per hour.",
+        "search": "1919 archival photograph Commercial Street Boston disaster wreckage molasses flood",
+        "caption": "2.3 million gallons surge down Commercial Street at 35 mph"
+      },
+      {
+        "narration": "The immense weight snapped heavy iron girders on the Atlantic Avenue Elevated railway and crushed Boston Engine 31 firehouse into splinters.",
+        "search": "1919 archival photograph collapsed elevated railway iron girders Boston disaster",
+        "caption": "Heavy iron railway girders and firehouse crushed to splinters"
+      },
+      {
+        "narration": "As the scalding syrup contacted the forty-degree winter air, it rapidly cooled into a thick, cement-like glue that pinned victims under wreckage.",
+        "search": "1919 archival photograph Boston molasses disaster debris thick sludge streets",
+        "caption": "Rapidly cooling syrup thickens into a suffocating, cement-like glue"
+      },
+      {
+        "narration": "Over one hundred US Navy midshipmen from the USS Nantucket rushed into waist-deep sludge, fighting to free citizens and horses suffocating beneath the mass.",
+        "search": "1919 archival photograph rescue workers wading through Boston molasses flood sludge",
+        "caption": "Navy midshipmen wade through waist-deep sludge to rescue victims"
+      },
+      {
+        "narration": "The catastrophic rupture claimed twenty-one lives and injured over one hundred fifty people, leaving a sweet, suffocating odor over Boston for decades.",
+        "search": "1919 newspaper front page headline Boston molasses tank explosion disaster",
+        "caption": "21 dead, 150 injured as a suffocating odor lingers for years"
+      },
+      {
+        "narration": "To escape legal liability, executives at United States Industrial Alcohol falsely claimed Italian anarchists dynamited the steel structure.",
+        "search": "1919 archival photograph United States Industrial Alcohol Boston office exterior",
+        "caption": "USIA blames Italian anarchists to evade corporate accountability"
+      },
+      {
+        "narration": "In 1920, the Massachusetts Superior Court consolidated 119 lawsuits against the company and appointed Colonel Hugh W. Ogden as an independent auditor to determine liability.",
+        "search": "1920s court trial archival photograph",
+        "caption": "119 lawsuits consolidated under auditor Hugh W. Ogden in 1920."
+      },
+      {
+        "narration": "Defense attorneys paraded explosives experts to argue that political extremists had targeted the industrial plant during a period of nationwide labor unrest.",
+        "search": "1919 newspaper headline anarchist bomb archival photograph",
+        "caption": "Company attorneys claimed anarchist bombers caused the disaster."
+      },
+      {
+        "narration": "Metallurgical experts tested surviving fragments of five-eighths-inch steel plates, proving the tank wall was far too thin to hold 26 million pounds of liquid.",
+        "search": "1919 molasses tank steel debris archival photograph",
+        "caption": "Metallurgical testing proved steel walls were dangerously thin."
+      },
+      {
+        "narration": "Over one thousand witnesses testified across six years, revealing that plant manager Arthur Jell had skipped basic safety tests and ordered the tank painted brown to hide leaks.",
+        "search": "Arthur Jell portrait photograph",
+        "caption": "Plant manager Arthur Jell bypassed safety tests and disguised leaks."
+      },
+      {
+        "narration": "Auditor Ogden rejected every corporate defense claim, finding that the United States Industrial Alcohol Company had acted with reckless disregard for public safety.",
+        "search": "Colonel Hugh W Ogden portrait photograph",
+        "caption": "Auditor Ogden found the corporation guilty of reckless negligence."
+      },
+      {
+        "narration": "In April 1925, Ogden ordered the company to pay six hundred twenty-eight thousand dollars in damages—equivalent to over ten million dollars today.",
+        "search": "1925 courtroom legal settlement archival photograph",
+        "caption": "Company ordered to pay $628,000 in historic legal settlement."
+      },
+      {
+        "narration": "The ruling marked the first time an American court held a corporation strictly accountable for structural engineering failures on a massive public scale.",
+        "search": "1920s civil engineering blueprint archival document",
+        "caption": "First major ruling holding corporations accountable for engineering failures."
+      },
+      {
+        "narration": "State legislatures across the United States subsequently mandated certified engineering stamps and formal safety inspections for all public infrastructure projects.",
+        "search": "1920s construction site safety inspection archival photograph",
+        "caption": "Disaster forced mandatory engineering stamps and structural inspections nationwide."
+      },
+      {
+        "narration": "Industrial Alcohol auditor Hugh W. Ogden spent years sifting through expert testimony to disprove the corporation's anarchist sabotage defense.",
+        "search": "1920s courtroom legal trial archival photograph",
+        "caption": "Auditor Hugh W. Ogden investigated corporate sabotage claims"
+      },
+      {
+        "narration": "Metallurgical analysis by MIT professor George F. Swain revealed the tank steel was half as thick as safety regulations required.",
+        "search": "1919 damaged industrial steel tank wreckage archival photograph",
+        "caption": "Metallurgical tests proved steel walls were dangerously thin"
+      },
+      {
+        "narration": "Firefighters washed the North End with saltwater for months, yet the viscous syrup clung stubbornly to cobblestones and buildings.",
+        "search": "1919 Boston fire department street cleanup archival photograph",
+        "caption": "Saltwater cleanup failed to clear molasses from streets"
+      },
+      {
+        "narration": "Over two million gallons of dense syrup poured into Boston Harbor, turning the coastal water brown through the summer of 1919.",
+        "search": "1919 Boston harbor docks vintage archival photograph",
+        "caption": "Molasses stained Boston Harbor waters throughout 1919"
+      },
+      {
+        "narration": "For decades after the disaster, local residents reported that hot summer days still brought out the faint scent of fermenting sugar.",
+        "search": "1920s Boston North End street scene archival photograph",
+        "caption": "Residents reported smelling molasses on warm days for decades"
+      },
+      {
+        "narration": "The disaster compelled Massachusetts to pass the nation's first mandatory engineering certification laws for all private industrial projects.",
+        "search": "1920s architectural engineering blueprint vintage document",
+        "caption": "Massachusetts enacted nation's first mandatory engineering certification laws"
+      },
+      {
+        "narration": "A modest plaque in Boston's North End now marks the location where twenty-one people lost their lives on January 15, 1919.",
+        "search": "Boston North End Commercial Street historic site archival photograph",
+        "caption": "Memorial plaque honors 21 victims of 1919 tragedy"
+      },
+      {
+        "narration": "The Boston Molasses Flood permanently reshaped American civil law, transforming corporate oversight from an afterthought into a legal obligation.",
+        "search": "1919 Boston Great Molasses Flood damage archival photograph",
+        "caption": "The 1919 disaster permanently altered corporate accountability"
+      },
+      {
+        "narration": "Could millions of gallons of syrup outrun a train?",
+        "search": "1919 Boston North End street archival photograph",
+        "caption": "A deadly industrial hazard hiding in plain sight"
+      },
+      {
+        "narration": "In 1915, United States Industrial Alcohol treasurer Arthur Jell oversaw construction of the fifty-foot steel tank on Boston's Commercial Street.",
+        "search": "Arthur Jell USIA executive archival photograph",
+        "caption": "Corporate rush to supply World War I munitions"
+      },
+      {
+        "narration": "Executive Arthur Jell skipped standard safety tests, ignoring workers who reported syrup leaking through rivets whenever the tank was filled.",
+        "search": "1915 industrial steel tank construction archival photograph",
+        "caption": "Safety tests skipped to meet aggressive production deadlines"
+      },
+      {
+        "narration": "Rather than repairing the dangerously thin steel walls, company managers ordered the tank painted dark brown to conceal continuous leaking.",
+        "search": "Boston Commercial Street industrial waterfront 1910s archival photograph",
+        "caption": "Managers painted the structure brown to hide constant leaks"
+      },
+      {
+        "narration": "On January 15, 1919, an unseasonably warm temperature of forty degrees caused internal gas pressure to skyrocket inside the sealed container.",
+        "search": "Boston harbor winter ice 1919 archival photograph",
+        "caption": "Unseasonable warmth triggered rapid internal gas expansion"
+      },
+      {
+        "narration": "At 12:40 PM, steel rivets sheared off like machine-gun fire, unleashing a twenty-five-foot high wall of molasses at thirty-five miles per hour.",
+        "search": "Boston molasses flood ruptured tank wreckage 1919 archival photograph",
+        "caption": "A twenty-five foot high wave moving at thirty-five mph"
+      },
+      {
+        "narration": "The extreme kinetic force tore apart an elevated railway line and flattened Boston Engine 31 firehouse, trapping firefighters under heavy debris.",
+        "search": "Boston molasses flood destroyed elevated railway structure 1919 archival photograph",
+        "caption": "Structural impact destroyed railway lines and city buildings"
+      },
+      {
+        "narration": "As the scalding fluid met winter air, it rapidly thickened into glue-like sludge, suffocating trapped victims before rescuers could reach them.",
+        "search": "Boston molasses flood rescue workers sludge 1919 archival photograph",
+        "caption": "Cooling molasses hardened into a suffocating trap for victims"
+      },
+      {
+        "narration": "Navy midshipmen and Boston police waded waist-deep into the hardening sludge, fighting to free trapped victims before the syrup suffocated them.",
+        "search": "1919 Boston Great Molasses Flood rescue operations archival photograph",
+        "caption": "Rescuers wade through waist-deep sludge in Boston, 1919."
+      },
+      {
+        "narration": "Rescuers worked for days through the cooling wreckage, using heavy steam hoses to melt the sticky mass off victims and draft horses.",
+        "search": "1919 Boston Molasses Flood cleanup workers archival photograph",
+        "caption": "Steam hoses melt hardened molasses off disaster victims."
+      },
+      {
+        "narration": "The disaster claimed twenty-one lives and injured over one hundred fifty people, leaving Boston's North End buried beneath thousands of tons of residue.",
+        "search": "Boston North End destruction 1919 disaster archival photograph",
+        "caption": "Twenty-one people died in the North End disaster."
+      },
+      {
+        "narration": "Desperate to avoid financial liability, the United States Industrial Alcohol Company publicly blamed Italian anarchists for bombing the tank.",
+        "search": "1919 newspaper headline anarchist bomb allegation archival photograph",
+        "caption": "USIA blamed Italian anarchists to evade financial liability."
+      },
+      {
+        "narration": "State auditor Hugh W. Ogden oversaw a massive legal inquiry, gathering testimony from nearly one thousand witnesses over six years.",
+        "search": "Hugh W Ogden auditor Boston 1919 archival photograph",
+        "caption": "Auditor Hugh W. Ogden interviewed one thousand witnesses."
+      },
+      {
+        "narration": "Metallurgical testing introduced during trial proved the tank steel was half as thick as safety codes required to save corporate expenses.",
+        "search": "Broken steel tank rivets 1919 molasses flood archival photograph",
+        "caption": "Metallurgical tests exposed severe structural and steel defects."
+      },
+      {
+        "narration": "In 1925, Ogden ruled the corporation fully responsible, ordering USIA to pay three hundred thousand dollars in civil damages to victims.",
+        "search": "1925 Boston court ruling newspaper front page archival photograph",
+        "caption": "USIA forced to pay 300,000 dollars in damages."
+      },
+      {
+        "narration": "The landmark ruling established mandatory engineering oversight and architectural permit laws, reshaping civil infrastructure regulations across the United States.",
+        "search": "1920s American industrial engineering blueprint document archival photograph",
+        "caption": "The landmark legal ruling created modern civil engineering regulations."
+      },
+      {
+        "narration": "Could a twenty-five-foot wave of molasses destroy a city?",
+        "search": "1919 boston molasses flood wreckage archival photo",
+        "caption": "A 35 mph tsunami of molasses shattered Boston's North End in 1919."
+      },
+      {
+        "narration": "On January 15, 1919, fifty-foot steel walls collapsed, sending two million gallons of boiling syrup through Boston's North End.",
+        "search": "1919 boston molasses flood damaged elevated railway archival photo",
+        "caption": "Over two million gallons of dense syrup swept away entire buildings."
+      },
+      {
+        "narration": "As cold winter air hit the boiling liquid, it hardened into a sticky trap that stifled rescue efforts for weeks.",
+        "search": "1919 boston molasses flood rescue workers sludge archival photo",
+        "caption": "Cold winter temperatures turned the liquid syrup into a suffocating trap."
+      },
+      {
+        "narration": "Seeking to escape financial liability, the United States Industrial Alcohol Company claimed Italian anarchists dynamited the facility.",
+        "search": "1910s american newspaper arson anarchist headlines archival scan",
+        "caption": "Corporate executives blamed anarchist bombers to avoid financial liability for structural failure."
+      },
+      {
+        "narration": "Court auditor Hugh W. Ogden spent six years examining over one thousand witnesses and metallurgical reports of the tank's thin steel.",
+        "search": "1920s american courtroom legal proceeding archival photo",
+        "caption": "Auditor Hugh W. Ogden reviewed six years of testimony and metallurgical evidence."
+      },
+      {
+        "narration": "Investigators discovered the tank was never filled with water to test its integrity and was painted brown simply to hide leaks.",
+        "search": "1919 industrial steel storage tank blueprint diagram archival document",
+        "caption": "Negligence revealed: the fifty-foot tank was painted brown to disguise active leaks."
+      },
+      {
+        "narration": "In 1925, Ogden ruled the corporation guilty, awarding victims three hundred thousand dollars in historic civil damages.",
+        "search": "1920s Boston Herald newspaper headline victory archival photo",
+        "caption": "The 1925 landmark ruling held corporate negligence directly responsible for disaster."
+      },
+      {
+        "narration": "This catastrophe established modern engineering certification laws across America, leaving a legacy still smelled in Boston decades later.",
+        "search": "1920s civil engineering blueprints architectural seal vintage photo",
+        "caption": "The tragedy reshaped American building codes and industrial engineering standards forever."
+      },
+      {
+        "narration": "In 1919, a thirty-five mile per hour wall of molasses killed twenty-one people in Boston.",
+        "search": "1919 Boston molasses flood damaged street archival photograph",
+        "caption": "1919 Boston Molasses Disaster"
+      },
+      {
+        "narration": "On January 15, 1919, an unseasonably warm forty-degree afternoon set the stage in Boston's North End.",
+        "search": "1910s Boston North End street archival photograph",
+        "caption": "January 15 1919 North End"
+      },
+      {
+        "narration": "The United States Industrial Alcohol Company had rushed construction on a massive fifty-foot steel storage tank.",
+        "search": "1919 Boston molasses tank wreckage archival photograph",
+        "caption": "US Industrial Alcohol Tank"
+      },
+      {
+        "narration": "Corporate managers ignored continuous structural leaks, ordering the failing cylinder painted brown to disguise its defects.",
+        "search": "1910s industrial steel tank construction archival photograph",
+        "caption": "Corporate Negligence Disguised Leaks"
+      },
+      {
+        "narration": "At 12:40 PM, rivets shot out like gunfire as two point three million gallons exploded onto Commercial Street.",
+        "search": "1919 Boston molasses flood destroyed elevated railway archival photograph",
+        "caption": "2.3 Million Gallon Rupture"
+      },
+      {
+        "narration": "A twenty-five-foot wave crushed an elevated railway station and rapidly cooled into suffocating, concrete-hard glue.",
+        "search": "1919 Boston molasses flood crushed buildings archival photograph",
+        "caption": "25-Foot Wave At 35 MPH"
+      },
+      {
+        "narration": "Rescue workers waded through waist-deep sludge as company lawyers falsely blamed Italian anarchists for a bomb attack.",
+        "search": "1919 Boston rescue workers wreckage archival photograph",
+        "caption": "Blaming Italian Anarchists"
+      },
+      {
+        "narration": "In 1925, legal auditor Hugh Ogden ruled against the corporation, establishing America's first modern civil engineering regulations.",
+        "search": "1920s courtroom trial legal archive photograph",
+        "caption": "Historic Precedent For Safety Laws"
+      },
+      {
+        "narration": "The court ordered United States Industrial Alcohol to pay six hundred thousand dollars in damages—equivalent to over nine million dollars today—to the victims and their families.",
+        "search": "1920s legal document lawsuit archival photo",
+        "caption": "USIA ordered to pay $600,000 in victim restitution."
+      },
+      {
+        "narration": "State legislatures across America quickly mandated that certified professional engineers must inspect and sign off on all major industrial structural plans.",
+        "search": "1920s blueprint architectural plan archival photo",
+        "caption": "Structural safety inspections became mandatory across the United States."
+      },
+      {
+        "narration": "It took thousands of cleanup workers over six months using salt water, lime, and scrapers to scrub the hardened syrup from Boston's harbor and streets.",
+        "search": "1919 Boston molasses flood cleanup workers archival photo",
+        "caption": "Months of intense scrubbing were required to clear the streets."
+      },
+      {
+        "narration": "For decades afterward, residents claimed that on hot summer days, the sweet, heavy scent of molasses still rose from the cobblestones of the North End.",
+        "search": "Boston North End street historic 1920s archival photo",
+        "caption": "The scent of sweet syrup lingered in Boston for decades."
+      },
+      {
+        "narration": "Today, a modest brass plaque in Puopolo Park marks the site where twenty-one citizens lost their lives to a thirty-five-mile-per-hour wall of syrup.",
+        "search": "Boston North End Commercial Street modern archival photo",
+        "caption": "A modest plaque now marks the site of the tragedy."
+      },
+      {
+        "narration": "What began as a bizarre disaster transformed American corporate liability laws, ensuring public safety outweighed corporate profits.",
+        "search": "1919 Boston Herald newspaper front page disaster archival photo",
+        "caption": "The disaster reshaped American corporate liability laws forever."
+      },
+      {
+        "narration": "Behind every safety code enforced today lies the tragic memory of January 15, 1919, when negligence turned an ordinary afternoon into a nightmare.",
+        "search": "1919 Boston molasses flood wrecked buildings archival photo",
+        "caption": "Modern safety standards were forged in the 1919 tragedy."
+      },
+      {
+        "narration": "The deadly wave of 1919 proved that even the sweetest substance can turn fatal when greed crushes structural integrity.",
+        "search": "Boston North End waterfront harbor historical map 1919",
+        "caption": "Negligence transformed sweet molasses into Boston's deadliest wave."
+      },
+      {
+        "narration": "Can two million gallons of syrup destroy an entire city?",
+        "search": "1919 archival photograph ruined city street boston damage",
+        "caption": "Can two million gallons of syrup destroy a city?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T23:14:43.664530+00:00",
+    "updated_at": "2026-11-09T23:29:03.804514+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-09T23:17:22.486663+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3208 chars",
+        "at": "2026-11-09T23:17:41.572199+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "195.4s en-US-GuyNeural 31 cau",
+        "at": "2026-11-09T23:17:57.161830+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T23:18:03.785922+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-09T23:22:23.153460+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-09T23:22:23.266446+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 195.5s 148265205 bytes",
+        "at": "2026-11-09T23:29:03.262855+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-09T23:29:03.492403+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T23:29:03.804491+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14000786/pexels-photo-14000786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15553391/pexels-photo-15553391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17816971/pexels-photo-17816971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36747984/pexels-photo-36747984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15766578/pexels-photo-15766578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36398109/pexels-photo-36398109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1369476/pexels-photo-1369476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37726678/pexels-photo-37726678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12020666/pexels-photo-12020666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17003636/pexels-photo-17003636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8353836/pexels-photo-8353836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39984412/pexels-photo-39984412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17765433/pexels-photo-17765433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20143833/pexels-photo-20143833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36784138/pexels-photo-36784138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33438435/pexels-photo-33438435.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12444964/pexels-photo-12444964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20884440/pexels-photo-20884440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35531302/pexels-photo-35531302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15808827/pexels-photo-15808827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16105723/pexels-photo-16105723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36213646/pexels-photo-36213646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15360542/pexels-photo-15360542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28670815/pexels-photo-28670815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34093239/pexels-photo-34093239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21627/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36397807/pexels-photo-36397807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19971310/pexels-photo-19971310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7468218/pexels-photo-7468218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37726668/pexels-photo-37726668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8470057/pexels-photo-8470057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15063590/pexels-photo-15063590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34817109/pexels-photo-34817109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12112279/pexels-photo-12112279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9501138/pexels-photo-9501138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17152459/pexels-photo-17152459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8155/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6615190/pexels-photo-6615190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4645400/pexels-photo-4645400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28447775/pexels-photo-28447775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38602697/pexels-photo-38602697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4276743/pexels-photo-4276743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2760286/pexels-photo-2760286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39137789/pexels-photo-39137789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37596067/pexels-photo-37596067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11849420/pexels-photo-11849420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12725672/pexels-photo-12725672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16105746/pexels-photo-16105746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36072012/pexels-photo-36072012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38609789/pexels-photo-38609789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12402062/pexels-photo-12402062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30474412/pexels-photo-30474412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19428273/pexels-photo-19428273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29334435/pexels-photo-29334435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17314093/pexels-photo-17314093.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4458210/pexels-photo-4458210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28447757/pexels-photo-28447757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29864743/pexels-photo-29864743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28447788/pexels-photo-28447788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4485492/pexels-photo-4485492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17630959/pexels-photo-17630959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17937099/pexels-photo-17937099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3953481/pexels-photo-3953481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8482646/pexels-photo-8482646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11849379/pexels-photo-11849379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31112671/pexels-photo-31112671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11846494/pexels-photo-11846494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31616703/pexels-photo-31616703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39457988/pexels-photo-39457988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35302181/pexels-photo-35302181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5812107/pexels-photo-5812107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34817115/pexels-photo-34817115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8371705/pexels-photo-8371705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7937319/pexels-photo-7937319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37322729/pexels-photo-37322729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18425705/pexels-photo-18425705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5441395/pexels-photo-5441395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1809342/pexels-photo-1809342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14000743/pexels-photo-14000743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37361154/pexels-photo-37361154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c367eddd31",
     "kind": "short",
     "channel": "Channel3",
