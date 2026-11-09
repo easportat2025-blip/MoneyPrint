@@ -1,5 +1,161 @@
 [
   {
+    "id": "b239b4fbcc",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome’s Greatest Emperor Was Terrified of Water",
+    "idea": {
+      "title": "Why Rome’s Greatest Emperor Was Terrified of Water",
+      "hook": "Emperor Heraclius shattered the Persian Empire, but returned home with a terrifying mental condition that paralyzed his entire army.",
+      "beats": [
+        "In 628 AD, Heraclius won Rome's ultimate war against Persia, reclaiming the True Cross.",
+        "During his victory march, he developed severe hydrophobia, panicking near any open water.",
+        "Trapped at the Bosphorus strait, he refused to cross the sea to enter his own capital.",
+        "Engineers had to build a miles-long floating bridge lined with dirt walls to hide the water from his sight."
+      ],
+      "keywords": [
+        "emperor heraclius portrait",
+        "byzantine emperor painting",
+        "bosphorus ancient map",
+        "roman army bridge",
+        "constantinople engraving"
+      ],
+      "tags": [
+        "#history",
+        "#byzantine",
+        "#ancientrome",
+        "#heraclius",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome's greatest conqueror was paralyzed by open water.",
+        "search": "byzantine emperor heraclius mosaic portrait",
+        "caption": "Rome's greatest conqueror was terrified of water"
+      },
+      {
+        "narration": "In 628 AD, Byzantine Emperor Heraclius crushed the Sasanian Persian Empire after decades of warfare.",
+        "search": "byzantine emperor heraclius gold coin",
+        "caption": "In 628 AD, Heraclius crushed Persia"
+      },
+      {
+        "narration": "He reclaimed the True Cross and secured total victory, marching his army back toward Constantinople.",
+        "search": "true cross Jerusalem medieval manuscript miniature",
+        "caption": "Reclaiming Christianity's most sacred relic"
+      },
+      {
+        "narration": "But reaching the shore of the Bosphorus strait, the victorious ruler suddenly stopped.",
+        "search": "bosphorus strait ancient map engraving",
+        "caption": "A victorious army halted at the shore"
+      },
+      {
+        "narration": "Heraclius had developed severe hydrophobia, suffering violent panic attacks at the sight of sea water.",
+        "search": "sea storm medieval illuminated manuscript",
+        "caption": "Severe hydrophobia paralyzed the emperor"
+      },
+      {
+        "narration": "For months, the emperor of Rome remained stranded, refusing to board any ship to enter his capital.",
+        "search": "constantinople ancient city walls engraving",
+        "caption": "Stranded outside his own capital city"
+      },
+      {
+        "narration": "His entire imperial army and court stood halted on the Asian side of the water.",
+        "search": "byzantine army soldiers painting",
+        "caption": "An entire empire held hostage by fear"
+      },
+      {
+        "narration": "To move their monarch across the sea, imperial engineers devised an unprecedented plan.",
+        "search": "roman military pontoon bridge engraving",
+        "caption": "Imperial engineers devised a bizarre solution"
+      },
+      {
+        "narration": "In 628 AD, engineers constructed a miles-long floating bridge across the Bosphorus strait.",
+        "search": "roman army bridge oil painting",
+        "caption": "Engineers built a massive floating bridge across the strait."
+      },
+      {
+        "narration": "Workers lined the entire wooden pathway with thick dirt walls to completely block his view.",
+        "search": "bosphorus ancient map engraving",
+        "caption": "Dirt walls lined the bridge to block his view."
+      },
+      {
+        "narration": "By hiding the waves, the emperor finally crossed into Constantinople, concealing a lifelong psychological defeat.",
+        "search": "constantinople engraving",
+        "caption": "Heraclius crossed the hidden sea into Constantinople."
+      },
+      {
+        "narration": "Why was Rome's greatest conqueror terrified of water?",
+        "search": "emperor heraclius portrait painting",
+        "caption": "Why Rome's greatest conqueror feared water"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T07:49:10.205248+00:00",
+    "updated_at": "2026-11-09T07:52:14.572776+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-09T07:49:53.966706+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "380 chars (cat 311 de vua 55s)",
+        "at": "2026-11-09T07:50:26.075272+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-09T07:50:28.172826+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T07:50:28.797077+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-09T07:51:44.304699+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-09T07:51:44.404178+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.7s 15398867 bytes",
+        "at": "2026-11-09T07:52:14.189284+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T07:52:14.572752+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18596235/pexels-photo-18596235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7367861/pexels-photo-7367861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39023529/pexels-photo-39023529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39316786/pexels-photo-39316786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7126191/pexels-photo-7126191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20465648/pexels-photo-20465648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15957199/pexels-photo-15957199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17436098/pexels-photo-17436098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19310520/pexels-photo-19310520.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21753195/pexels-photo-21753195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38120238/pexels-photo-38120238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39321044/pexels-photo-39321044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d7cd9b8824",
     "kind": "short",
     "channel": "Channel3",
