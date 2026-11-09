@@ -1,5 +1,167 @@
 [
   {
+    "id": "8e5d66004d",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bạn giật hẫng người khi bước hụt bậc cầu thang",
+    "idea": {
+      "title": "Lý do bạn giật hẫng người khi bước hụt bậc cầu thang",
+      "hook": "Đã bao giờ bạn bước xuống cầu thang và giật thót người vì tưởng còn một bậc nữa? Não bạn vừa gặp một lỗi dự đoán cực nghiêm trọng.",
+      "beats": [
+        "Cơ thể duy trì nhận thức không gian nhờ hệ thống 'cảm giác sâu' (Proprioception) phối hợp với não bộ.",
+        "Khi đi cầu thang, não tự động lập trình trước nhịp độ và khoảng cách của từng bước chân dựa vào bộ nhớ vận động.",
+        "Nếu tính toán sai dù chỉ vài centimet, cơ bắp hụt hẫng vì không nhận được lực phản hồi như dự kiến.",
+        "Cảm giác hoảng hốt bộc phát ngay lập tức do tuyến thượng thận giải phóng cortisol để chuẩn bị cho cú ngã giả định."
+      ],
+      "keywords": [
+        "walking down stairs slow motion",
+        "brain neural signals animation",
+        "shocked person face close up",
+        "human nervous system diagram",
+        "foot stepping gravity fall"
+      ],
+      "tags": [
+        "#channel3",
+        "#khoahoc",
+        "#suthattobl",
+        "#giaimahanhvi",
+        "#kienthucnobl"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đã bao giờ bạn bước xuống cầu thang và giật thót người vì tưởng còn một bậc nữa?",
+        "search": "shocked person face close up 3d animation",
+        "caption": "Giật mình hụt bậc cầu thang vì sao?"
+      },
+      {
+        "narration": "Não bạn vừa gặp một lỗi dự đoán cực kỳ nghiêm trọng trong tích tắc.",
+        "search": "brain neural signals animation motion graphics",
+        "caption": "Lỗi dự đoán từ não bộ"
+      },
+      {
+        "narration": "Cơ thể duy trì nhận thức không gian nhờ hệ thống cảm giác sâu phối hợp với não bộ.",
+        "search": "human nervous system diagram 3d render",
+        "caption": "Hệ thống cảm giác sâu của cơ thể"
+      },
+      {
+        "narration": "Khi đi cầu thang, não tự động lập trình trước nhịp độ và khoảng cách của từng bước chân.",
+        "search": "walking down stairs slow motion 3d animation",
+        "caption": "Não lập trình sẵn từng bước chân"
+      },
+      {
+        "narration": "Não dựa hoàn toàn vào bộ nhớ vận động được tích lũy qua hàng triệu bước đi trước đó.",
+        "search": "memory brain activity loop animation",
+        "caption": "Bộ nhớ vận động hoạt động"
+      },
+      {
+        "narration": "Nếu tính toán sai dù chỉ vài centimet, cơ bắp sẽ rơi vào trạng thái hoang mang.",
+        "search": "foot stepping gravity fall isometric render",
+        "caption": "Sai lệch dù chỉ vài centimet"
+      },
+      {
+        "narration": "Cơ bắp hụt hẫng ngay lập tức vì không nhận được lực phản hồi như dự kiến từ mặt bậc.",
+        "search": "leg muscle contraction explainer animation",
+        "caption": "Cơ bắp mất lực phản hồi"
+      },
+      {
+        "narration": "Cảm giác hoảng hốt bộc phát do tuyến thượng thận giải phóng hormone chuẩn bị cho cú ngã.",
+        "search": "adrenal gland hormone release animation",
+        "caption": "Tuyến thượng thận phản ứng khẩn cấp"
+      },
+      {
+        "narration": "Cơ bắp hụt hẫng ngay lập tức vì không nhận được lực phản hồi như dự kiến từ mặt bậc.",
+        "search": "3d animation leg muscles stepping down losing balance",
+        "caption": "Cơ bắp hụt hẫng vì không có lực đỡ"
+      },
+      {
+        "narration": "Cảm giác hoảng hốt bộc phát do tuyến thượng thận giải phóng hormone chuẩn bị cho cú ngã.",
+        "search": "human nervous system diagram adrenaline rush animation",
+        "caption": "Tuyến thượng thận giải phóng hormone hoảng hốt"
+      },
+      {
+        "narration": "Khoảnh khắc hụt chân kích hoạt hệ thống tiền đình ở tai trong kiểm soát thăng bằng lập tức.",
+        "search": "inner ear vestibular system balance 3d animation",
+        "caption": "Tai trong kích hoạt hệ thống thăng bằng"
+      },
+      {
+        "narration": "Não bộ phải lập tức sửa lỗi dự đoán trong vòng chưa đầy không phẩy hai giây để cứu bạn.",
+        "search": "brain neural signals fast reaction motion graphics",
+        "caption": "Não sửa lỗi dự đoán trong chớp mắt"
+      },
+      {
+        "narration": "Đó là cách cơ thể tự bảo vệ trước khi bạn kịp nhận ra mình đang bước hụt bậc.",
+        "search": "shocked person face close up everyday life 3d",
+        "caption": "Cơ chế tự bảo vệ kỳ diệu của cơ thể"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T23:49:41.757526+00:00",
+    "updated_at": "2026-11-09T23:52:45.174620+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-09T23:50:46.953089+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 53 de vua 55s)",
+        "at": "2026-11-09T23:51:03.627272+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-09T23:51:21.891442+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T23:51:23.210838+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-09T23:51:32.918026+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-09T23:51:33.033273+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.8s 27029556 bytes",
+        "at": "2026-11-09T23:52:44.777787+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T23:52:45.174599+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8627749/8627749-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35288066/14949944_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069233/18069233-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/5950723/5950723-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39890047/17014352_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9704641/9704641-uhd_1440_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35585537/15079521_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7479149/7479149-hd_1080_1620_21fps.mp4",
+      "https://videos.pexels.com/video-files/7477183/7477183-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/30862941/13198039_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/35163081/14895117_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28483048/12394978_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7331801/7331801-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "52546989c2",
     "kind": "long",
     "channel": "seigh",
