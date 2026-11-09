@@ -1,5 +1,162 @@
 [
   {
+    "id": "610b506b1e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 White Deer Saved a Roman Rebel",
+    "idea": {
+      "title": "How 1 White Deer Saved a Roman Rebel",
+      "hook": "Roman general Quintus Sertorius convinced an entire army that a pet fawn gave him prophecies from the gods.",
+      "beats": [
+        "Sertorius was outlawed by Rome and fled to Hispania with a small rebel force.",
+        "A local hunter gifted him a rare white fawn, which Sertorius tamed completely.",
+        "He claimed the fawn was a gift from Diana that revealed enemy tactics to him in secret.",
+        "When the fawn briefly vanished before a major battle, Sertorius staged its return as a divine omen.",
+        "His superstitious troops fought with fanatical zeal, allowing a rogue exile to defy Rome's grandest legions for eight years."
+      ],
+      "keywords": [
+        "roman general portrait",
+        "white deer historical engraving",
+        "ancient hispania map",
+        "roman battle painting",
+        "quintus sertorius bust"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#romanhistory",
+        "#untoldhistory",
+        "#historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A white deer once saved a rogue Roman general.",
+        "search": "quintus sertorius bust statue",
+        "caption": "A white deer saved a rogue Roman general."
+      },
+      {
+        "narration": "In 80 BC, outlawed Roman general Quintus Sertorius fled to Hispania with a small rebel force.",
+        "search": "ancient hispania map engraving",
+        "caption": "80 BC: Sertorius fled outlawed to Hispania."
+      },
+      {
+        "narration": "Facing Rome's overwhelming legions, Sertorius desperately needed a way to command absolute loyalty from native tribes.",
+        "search": "roman army legion battle oil painting",
+        "caption": "Outnumbered, Sertorius needed a psychological edge."
+      },
+      {
+        "narration": "A local hunter brought him an exceptionally rare white fawn, which Sertorius carefully tamed.",
+        "search": "white deer albino historical engraving",
+        "caption": "A rare white fawn was gifted to Sertorius."
+      },
+      {
+        "narration": "He convinced his superstitious troops that the goddess Diana spoke through the fawn to reveal enemy tactics.",
+        "search": "goddess diana marble statue close up",
+        "caption": "He claimed the fawn delivered divine military secrets."
+      },
+      {
+        "narration": "Just before a critical battle, the fawn vanished into the wild, threatening to break his army's morale.",
+        "search": "ancient forest misty woodcut engraving",
+        "caption": "Before battle, the sacred fawn suddenly vanished."
+      },
+      {
+        "narration": "After scouts secretly recaptured the animal, Sertorius staged its dramatic reappearance during a public assembly.",
+        "search": "roman general speaking to soldiers oil painting",
+        "caption": "Sertorius staged the fawn's miraculous return."
+      },
+      {
+        "narration": "Driven by fanatical zeal, his forces defeated Rome's top commanders, holding Hispania for eight full years.",
+        "search": "roman victory military parade relief sculpture",
+        "caption": "Fanatical belief let a rebel defy Rome for 8 years."
+      },
+      {
+        "narration": "In 72 BC, unable to defeat Sertorius on the battlefield, Rome bribed his own officers to assassinate him at a banquet.",
+        "search": "roman assassination betrayal oil painting",
+        "caption": "In 72 BC, internal treason accomplished what Rome's armies could not."
+      },
+      {
+        "narration": "Without Sertorius and his prophetic white deer to rally them, the rebel forces collapsed almost immediately against General Pompey.",
+        "search": "pompey the great marble bust statue",
+        "caption": "Without their leader and his sacred fawn, the rebellion collapsed."
+      },
+      {
+        "narration": "Through psychological warfare and a single tamed fawn, one outlawed general had defied the Roman Republic for eight years.",
+        "search": "quintus sertorius bust statue portrait",
+        "caption": "One tamed white deer held the Roman Republic at bay for eight years."
+      },
+      {
+        "narration": "A single white fawn defeated Rome’s mighty legions.",
+        "search": "roman battle oil painting antique",
+        "caption": "A white deer defeated Rome's mightiest legions."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T11:56:24.931844+00:00",
+    "updated_at": "2026-11-09T11:59:00.696042+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-09T11:57:16.433263+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "351 chars (cat 291 de vua 55s)",
+        "at": "2026-11-09T11:57:34.413458+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-09T11:57:36.556726+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T11:57:37.138538+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-09T11:58:34.820219+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-09T11:58:34.891474+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.6s 12758805 bytes",
+        "at": "2026-11-09T11:59:00.353344+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T11:59:00.696020+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592174/pexels-photo-39592174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16470355/pexels-photo-16470355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5839149/pexels-photo-5839149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22121867/pexels-photo-22121867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12274738/pexels-photo-12274738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36095777/pexels-photo-36095777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20699635/pexels-photo-20699635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33785369/pexels-photo-33785369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779792/pexels-photo-13779792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34344655/pexels-photo-34344655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b239b4fbcc",
     "kind": "short",
     "channel": "Channel2",
