@@ -1,5 +1,167 @@
 [
   {
+    "id": "d7cd9b8824",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật lý do bạn luôn cảm thấy có người nhìn lén trong bóng tối",
+    "idea": {
+      "title": "Bí mật lý do bạn luôn cảm thấy có người nhìn lén trong bóng tối",
+      "hook": "Bạn có bao giờ cảm thấy ai đó đang nhìn chằm chằm sau lưng khi vừa tắt đèn, dù biết rõ phòng hoàn toàn trống rỗng?",
+      "beats": [
+        "Hiện tượng này gọi là 'Cảm giác có mặt' (Sense of Presence), do thùy đỉnh não bộ điều khiển.",
+        "Khi thiếu ánh sáng, mắt không gửi đủ dữ liệu, não lập tức 'điền vào chỗ trống' bằng những kịch bản xấu nhất.",
+        "Vùng hạch hạnh nhân bật chế độ cảnh giác cao độ, biến mọi tiếng động nhỏ thành dấu hiệu có kẻ săn mồi.",
+        "Đây là cơ chế sinh tồn nguyên thủy giúp tổ tiên loài người không bị thú dữ tấn công trong đêm tối."
+      ],
+      "keywords": [
+        "dark room shadow",
+        "scared person night",
+        "human brain animation",
+        "creepy silhouette background",
+        "looking over shoulder shadow"
+      ],
+      "tags": [
+        "#bimat",
+        "#suckhoe",
+        "#naobo",
+        "#giaitich",
+        "#kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vừa tắt đèn, bạn thấy có ai đó đang nhìn mình?",
+        "search": "hoat hinh 3d nguoi dung trong phong toi tat den",
+        "caption": "Vừa tắt đèn, ai đang nhìn chằm chằm bạn?"
+      },
+      {
+        "narration": "Căn phòng hoàn toàn trống rỗng, nhưng sống lưng bạn lại lạnh ngắt như có ai đứng ngay sau.",
+        "search": "3d animation nguoi quay dau lai nhin bong den sau lung",
+        "caption": "Căn phòng trống rỗng nhưng sống lưng vẫn lạnh ngắt."
+      },
+      {
+        "narration": "Đây là hiện tượng Cảm giác có mặt, được điều khiển trực tiếp bởi thùy đỉnh não bộ.",
+        "search": "mo hinh 3d bo nao nguoi phat sang thuy dinh motion graphics",
+        "caption": "Hiện tượng Cảm giác có mặt do thùy đỉnh điều khiển."
+      },
+      {
+        "narration": "Khi ánh sáng đột ngột biến mất, đôi mắt lập tức bị gián đoạn dữ liệu hình ảnh.",
+        "search": "hoat hinh 3d con mat nham lai trong do mat tin hieu",
+        "caption": "Bóng tối làm mắt mất đi dữ liệu hình ảnh."
+      },
+      {
+        "narration": "Không chấp nhận khoảng trống thông tin, não bộ tự động tưởng tượng ra kịch bản đáng sợ nhất.",
+        "search": "3d animation bong den hinh nguoi xuat hien trong goc phong",
+        "caption": "Não tự điền vào chỗ trống bằng kịch bản tồi tệ."
+      },
+      {
+        "narration": "Ngay lập tức, vùng hạch hạnh nhân kích hoạt chế độ báo động đỏ cho toàn cơ thể.",
+        "search": "3d render hach hanh nhan amygdala trong nao phat sang do",
+        "caption": "Hạch hạnh nhân bật báo động đỏ khẩn cấp."
+      },
+      {
+        "narration": "Nó phóng đại một tiếng sột soạt nhỏ nhất thành dấu hiệu của kẻ săn mồi đang áp sát.",
+        "search": "hoat hinh 3d nguoi giot minh khi nghe tieng dong dem toi",
+        "caption": "Biến tiếng động nhỏ thành kẻ săn mồi nguy hiểm."
+      },
+      {
+        "narration": "Thực chất, đây là cơ chế sinh tồn nguyên thủy giúp tổ tiên loài người sống sót trong đêm tối.",
+        "search": "3d animation nguoi thoi nguyen thuy ngoi ben dong lua dem",
+        "caption": "Cơ chế sinh tồn giúp tổ tiên sống sót trong đêm."
+      },
+      {
+        "narration": "Dù đang nằm trong phòng ngủ an toàn, bộ não vẫn xử lý bóng tối như một khu rừng đầy nguy hiểm.",
+        "search": "hoat hinh 3d nguoi nam tren giuong trong phong toi",
+        "caption": "Não vẫn tưởng bạn đang ở giữa rừng hoang"
+      },
+      {
+        "narration": "Khi thiếu tín hiệu hình ảnh rõ ràng, vỏ não tự vẽ ra các bóng đen để giữ bạn ở trạng thái đề phòng.",
+        "search": "mo phong 3d thuy nao va cac luong tin hieu phat sang",
+        "caption": "Vỏ nào tự vẽ ra bóng đen bí ẩn"
+      },
+      {
+        "narration": "Nhịp tim tăng nhanh và cảm giác nổi da gà chỉ là do luồng Adrenaline phóng thích nhầm thời điểm.",
+        "search": "do hoa dong tim dap nhanh va hormone trong co the",
+        "caption": "Tim đập nhanh do Adrenaline kích hoạt nhầm"
+      },
+      {
+        "narration": "Chỉ cần bạn bật sáng màn hình điện thoại, bộ não sẽ lập tức tắt bỏ kịch bản đe dọa này.",
+        "search": "hoat hinh 3d tay bat man hinh dien thoai trong toi",
+        "caption": "Bật sáng màn hình sẽ dập tắt ảo giác"
+      },
+      {
+        "narration": "Bạn không hề bị ma ám, đó chỉ là cơ chế bảo vệ quá mức của bộ não để giữ bạn sống sót.",
+        "search": "hoat hinh 3d bo nao mim cuoi om trai tim bao ve",
+        "caption": "Bộ brain chỉ đang cố bảo vệ bạn quá mức"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-09T06:58:22.298267+00:00",
+    "updated_at": "2026-11-09T07:00:18.855290+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-09T06:58:47.907753+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "501 chars (cat 126 de vua 55s)",
+        "at": "2026-11-09T06:59:02.270615+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.7s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-09T06:59:09.622038+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-09T06:59:10.633362+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-09T06:59:24.567812+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-09T06:59:24.669863+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.8s 20999533 bytes",
+        "at": "2026-11-09T07:00:18.437104+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-09T07:00:18.855266+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6498987/6498987-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6389829/6389829-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39253607/16701195_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/29765785/12791465_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283135/15283135-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263456/8263456-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029654/16029654-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7614173/7614173-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/31488691/13426132_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8460291/8460291-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/8819434/8819434-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863506/15863506-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "afeb7a02ba",
     "kind": "short",
     "channel": "Channel2",
