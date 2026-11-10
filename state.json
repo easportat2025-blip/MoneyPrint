@@ -1,5 +1,162 @@
 [
   {
+    "id": "3f30db2148",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman General Stripped a Traitor and Gave Children Whips",
+    "idea": {
+      "title": "Why a Roman General Stripped a Traitor and Gave Children Whips",
+      "hook": "In 394 BC, Roman General Camillus was offered total victory through a vile betrayal—until he turned the traitor over to his own young students.",
+      "beats": [
+        "A treacherous schoolmaster secretly leads the noble children of besieged Falerii directly into the Roman military camp.",
+        "He offers them as hostages to General Camillus, promising the city will surrender to save their kids.",
+        "Disgusted by the dishonorable act, Camillus refuses to wage war against innocent children.",
+        "He orders his legionnaires to strip the teacher naked and hand leather switches to the boys.",
+        "The children whip their treasonous master all the way back into the city, inspiring Falerii to surrender peacefully out of respect."
+      ],
+      "keywords": [
+        "roman general bust",
+        "ancient engraving schoolmaster",
+        "roman legion siege map",
+        "roman army portrait",
+        "ancient battle oil painting"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "camillus",
+        "documentary",
+        "romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman general arm schoolboys against their teacher?",
+        "search": "camillus roman general bust statue close up",
+        "caption": "Why did a Roman general arm schoolboys against their teacher?"
+      },
+      {
+        "narration": "In 394 BC, Roman commander Marcus Furius Camillus marched his legions to besiege the fortified city of Falerii.",
+        "search": "roman legion siege ancient battle oil painting",
+        "caption": "In 394 BC, Rome besieged the fortified city of Falerii."
+      },
+      {
+        "narration": "The Faliscan defenders held firm behind impenetrable stone walls, threatening a drawn-out and costly conflict.",
+        "search": "ancient falerii roman map engraving",
+        "caption": "Impenetrable walls threatened a long, costly siege."
+      },
+      {
+        "narration": "A trusted Faliscan schoolmaster devised a sinister plot, leading the city's noble children beyond the protective gates.",
+        "search": "ancient schoolmaster children historical engraving",
+        "caption": "A schoolmaster led the city noble children outside the gates."
+      },
+      {
+        "narration": "Under the pretense of a morning walk, he marched the unsuspecting boys directly into the Roman military encampment.",
+        "search": "roman military camp tents ancient battle painting",
+        "caption": "He marched the boys straight into the Roman military camp."
+      },
+      {
+        "narration": "The master offered the noble hostages to Camillus, claiming their capture would force Falerii to surrender.",
+        "search": "roman army general portrait oil painting",
+        "caption": "The traitor offered the children as leverage for victory."
+      },
+      {
+        "narration": "Accepting the hostages promised an instant conquest without risking a single Roman life.",
+        "search": "roman soldiers armor helmets historical painting",
+        "caption": "Victory was offered, but at the cost of honor."
+      },
+      {
+        "narration": "Instead of celebrating the easy triumph, General Camillus was disgusted by the schoolmaster's vile betrayal.",
+        "search": "marcus furius camillus portrait painting",
+        "caption": "General Camillus revolted at the schoolmaster vile betrayal."
+      },
+      {
+        "narration": "Declaring that Rome waged war through honor rather than against innocent children, Camillus ordered his soldiers to strip the treacherous schoolmaster naked.",
+        "search": "marcus furius camillus roman general bust statue",
+        "caption": "Camillus refused the dishonorable victory and stripped the traitor."
+      },
+      {
+        "narration": "He handed leather switches to the boys, who whipped their disgraced master all the way back to the city gates of Falerii.",
+        "search": "ancient engraving schoolmaster punished boys rome",
+        "caption": "The children whipped their treasonous master back to Falerii."
+      },
+      {
+        "narration": "Deeply moved by this act of justice, the citizens of Falerii surrendered peacefully in 394 BC, securing Rome a triumph won purely by honor.",
+        "search": "roman legion siege map ancient falerii engraving",
+        "caption": "Honor conquered Falerii when force could not in 394 BC."
+      },
+      {
+        "narration": "In 394 BC, Roman General Camillus faced a deeply besieged Falerii.",
+        "search": "ancient roman legion siege map",
+        "caption": "The Siege of Falerii, 394 BC"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T02:29:54.644314+00:00",
+    "updated_at": "2026-11-10T02:32:28.247501+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T02:30:21.900070+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "364 chars (cat 216 de vua 55s)",
+        "at": "2026-11-10T02:30:34.159195+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.3s en-US-GuyNeural 5 cau",
+        "at": "2026-11-10T02:30:37.304259+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T02:30:38.349436+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T02:31:39.675187+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T02:31:39.803426+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 15548252 bytes",
+        "at": "2026-11-10T02:32:27.779894+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T02:32:28.247479+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6714856/pexels-photo-6714856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35552016/pexels-photo-35552016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39625363/pexels-photo-39625363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37265961/pexels-photo-37265961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269367/pexels-photo-9269367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3389707/pexels-photo-3389707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5353141/pexels-photo-5353141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30748898/pexels-photo-30748898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38250768/pexels-photo-38250768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38182794/pexels-photo-38182794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35472287/pexels-photo-35472287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "66fa927903",
     "kind": "short",
     "channel": "Channel2",
