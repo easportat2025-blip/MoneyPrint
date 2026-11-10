@@ -1,5 +1,161 @@
 [
   {
+    "id": "73c819ab37",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Ivan The Terrible Blinded The Architects Of St. Basil's",
+    "idea": {
+      "title": "Why Ivan The Terrible Blinded The Architects Of St. Basil's",
+      "hook": "Ivan the Terrible admired a cathedral so breathtaking that he ordered the architects blinded so they could never build its equal again.",
+      "beats": [
+        "Tsar Ivan IV commissioned the construction of St. Basil's Cathedral to commemorate a brutal military victory over the Khanate of Kazan.",
+        "When the magnificent colorful structure was finally completed, it surpassed every architectural wonder in medieval Russia.",
+        "Consumed by a paranoid desire for absolute uniqueness, the Tsar wanted to ensure no other kingdom could ever possess such beauty.",
+        "He ordered the master builders permanently blinded, sacrificing human eyes to guarantee his monument remained unrivaled in history."
+      ],
+      "keywords": [
+        "ivan the terrible",
+        "st basils cathedral",
+        "russian tsar portrait",
+        "medieval architecture painting",
+        "historical engraving"
+      ],
+      "tags": [
+        "History",
+        "Documentary",
+        "IvanTheTerrible",
+        "Shorts",
+        "Russia"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did Ivan the Terrible blind the creators of St. Basil's?",
+        "search": "ivan the terrible portrait oil painting",
+        "caption": "Did Ivan the Terrible blind his architects?"
+      },
+      {
+        "narration": "In 1552, Tsar Ivan IV conquered the Khanate of Kazan after a brutal campaign.",
+        "search": "siege of kazan 1552 historical painting",
+        "caption": "1552: Ivan IV conquers Kazan"
+      },
+      {
+        "narration": "To commemorate this victory, he ordered a magnificent cathedral built in Moscow's Red Square.",
+        "search": "st basils cathedral red square 19th century painting",
+        "caption": "A monument built for absolute victory"
+      },
+      {
+        "narration": "Master builders Barma and Postnik Yakovlev spent six years constructing the architectural marvel.",
+        "search": "medieval russian architects building cathedral manuscript illustration",
+        "caption": "Architects Postnik and Barma design the cathedral"
+      },
+      {
+        "narration": "Completed in 1561, its colorful domes surpassed every structure in medieval Russia.",
+        "search": "saint basils cathedral color engraving 16th century",
+        "caption": "Completed 1561: Unmatched medieval beauty"
+      },
+      {
+        "narration": "Mesmerized by its beauty, Tsar Ivan summoned the chief architects to his throne room.",
+        "search": "tsar ivan iv sitting on throne oil painting",
+        "caption": "The Tsar summons the master builders"
+      },
+      {
+        "narration": "He asked if they could ever design an even grander cathedral for another ruler.",
+        "search": "ivan the terrible medieval court engraving",
+        "caption": "Could you ever build something grander?"
+      },
+      {
+        "narration": "When the architects proudly answered yes, the Tsar's pride turned into dark obsession.",
+        "search": "ivan the terrible sinister portrait oil painting",
+        "caption": "A proud answer sparks deadly paranoia"
+      },
+      {
+        "narration": "Determined that no rival monarch could ever commission equal magnificence, Tsar Ivan IV issued a horrifying decree.",
+        "search": "ivan the terrible tsar portrait painting",
+        "caption": "Ivan IV decreed no ruler would ever match Moscow's cathedral."
+      },
+      {
+        "narration": "In 1561, the master builders had their eyes permanently destroyed so they could never duplicate their architectural masterpiece.",
+        "search": "st basils cathedral historical engraving",
+        "caption": "In 1561, the architects were blinded to protect the design."
+      },
+      {
+        "narration": "Though modern historians debate the legend, St. Basil's Cathedral remains an unrivaled symbol of beauty born from terror.",
+        "search": "saint basils cathedral moscow oil painting",
+        "caption": "St. Basil's stands as an eternal monument to artistic tyranny."
+      },
+      {
+        "narration": "Did Ivan the Terrible blind his architects for creating perfection?",
+        "search": "ivan the terrible portrait painting",
+        "caption": "Did Tsar Ivan blind his own architects?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T04:21:00.218534+00:00",
+    "updated_at": "2026-11-10T04:23:46.645605+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T04:21:27.200812+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "350 chars (cat 276 de vua 55s)",
+        "at": "2026-11-10T04:21:47.252061+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 6 cau",
+        "at": "2026-11-10T04:21:50.648113+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T04:21:51.752776+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T04:22:49.810325+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T04:22:49.925388+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 13604764 bytes",
+        "at": "2026-11-10T04:23:46.260574+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T04:23:46.645585+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909116/pexels-photo-13909116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10589400/pexels-photo-10589400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17316077/pexels-photo-17316077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25956237/pexels-photo-25956237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34407017/pexels-photo-34407017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9294476/pexels-photo-9294476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40012718/pexels-photo-40012718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33989453/pexels-photo-33989453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36324936/pexels-photo-36324936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7957315/pexels-photo-7957315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16849481/pexels-photo-16849481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36324933/pexels-photo-36324933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3f30db2148",
     "kind": "short",
     "channel": "Channel2",
