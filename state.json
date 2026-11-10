@@ -1,5 +1,161 @@
 [
   {
+    "id": "f7568dd2fb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Spartan king chose death over dinner",
+    "idea": {
+      "title": "Why a Spartan king chose death over dinner",
+      "hook": "When a proud Spartan king was invited to a lavish foreign feast, he looked at the golden dishes, flatly refused to eat, and chose a lonely death instead.",
+      "beats": [
+        "The legendary austerity and iron code of the ancient Spartan warrior elite.",
+        "The political trap disguised as a diplomatic dinner by a foreign rival.",
+        "The moment the king realized the ultimate insult hidden within the hospitality.",
+        "The uncompromising final choice that shocked the ancient Mediterranean world."
+      ],
+      "keywords": [
+        "spartan warrior bust",
+        "ancient greek pottery",
+        "classical sculpture portrait",
+        "greek history engraving",
+        "ancient army painting"
+      ],
+      "tags": [
+        "sparta",
+        "greekhistory",
+        "warriors",
+        "historydocumentary",
+        "curiosity"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Spartan king choose starvation over a foreign feast?",
+        "search": "spartan warrior bust museum display",
+        "caption": "A Spartan king chose death over a foreign feast."
+      },
+      {
+        "narration": "The Spartan elite lived by an iron code of austerity and rejection of luxury.",
+        "search": "ancient greek pottery red figure kylix showing warriors",
+        "caption": "Spartan warriors lived by an iron code of austerity."
+      },
+      {
+        "narration": "In the fourth century BCE, diplomatic tensions ran high across the Greek city-states.",
+        "search": "ancient greek history engraving of city state council",
+        "caption": "Diplomatic tensions tested the Greek city-states."
+      },
+      {
+        "narration": "A Persian satrap invited King Cleombrotus the Second to a lavish banquet.",
+        "search": "classical sculpture portrait of ancient greek monarch",
+        "caption": "A foreign rival hosted a lavish diplomatic banquet."
+      },
+      {
+        "narration": "Golden dishes and exotic delicacies filled the grand dining hall.",
+        "search": "ancient army painting of royal persian feast court",
+        "caption": "Golden dishes and exotic delicacies filled the hall."
+      },
+      {
+        "narration": "Cleombrotus inspected the foreign table settings with deep suspicion.",
+        "search": "spartan king bronze statue close up face",
+        "caption": "The king inspected the foreign table settings."
+      },
+      {
+        "narration": "He recognized the hospitality as a subtle political trap meant to weaken Spartan resolve.",
+        "search": "ancient greek scroll manuscript illumination historical scene",
+        "caption": "The banquet was a subtle political trap."
+      },
+      {
+        "narration": "Rather than compromise his honor, the king pushed the golden plates away.",
+        "search": "ancient greek coin profile portrait silver tetradrachm",
+        "caption": "The king refused to compromise his iron honor."
+      },
+      {
+        "narration": "In 361 BC, King Agesilaus II abandoned the lavish Egyptian feast, ordering his men to consume only basic Spartan rations.",
+        "search": "king agesilaus classical sculpture portrait marble bust",
+        "caption": "In 361 BC, Agesilaus rejected luxury to protect Spartan honor."
+      },
+      {
+        "narration": "Exhausted by the harsh return journey, the eighty-year-old monarch died on the Libyan coast without ever compromising his oath.",
+        "search": "greek history engraving ancient spartan king death",
+        "caption": "The eighty-year-old king died along the coast, unbowed by wealth."
+      },
+      {
+        "narration": "By choosing a lonely death over a gilded dinner, the king ensured Spartan austerity stood uncorrupted by foreign gold.",
+        "search": "ancient army painting spartan phalanx warriors",
+        "caption": "A king who chose death over dinner preserved Sparta's immortal code."
+      },
+      {
+        "narration": "Why did a Spartan king choose starvation over luxury?",
+        "search": "spartan warrior bust classical sculpture portrait",
+        "caption": "Why a Spartan King Chose Death Over Dinner"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T22:29:28.761109+00:00",
+    "updated_at": "2026-11-10T22:32:16.646344+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T22:30:25.485953+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "424 chars (cat 161 de vua 55s)",
+        "at": "2026-11-10T22:30:50.226381+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 5 cau",
+        "at": "2026-11-10T22:30:53.854769+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T22:30:54.766258+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T22:31:35.338669+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T22:31:35.449332+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.7s 12342455 bytes",
+        "at": "2026-11-10T22:32:16.233607+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T22:32:16.646326+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5095372/pexels-photo-5095372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14950665/pexels-photo-14950665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37607840/pexels-photo-37607840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21378353/pexels-photo-21378353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28434005/pexels-photo-28434005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12272855/pexels-photo-12272855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8957699/pexels-photo-8957699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8443455/pexels-photo-8443455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6229045/pexels-photo-6229045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40909240/pexels-photo-40909240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28844770/pexels-photo-28844770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714859/pexels-photo-6714859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "92ef1942a0",
     "kind": "short",
     "channel": "Channel3",
