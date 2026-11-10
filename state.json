@@ -1,5 +1,161 @@
 [
   {
+    "id": "a65c5a8c7a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a Roman General Voluntarily Returned to Be Tortured",
+    "idea": {
+      "title": "Why a Roman General Voluntarily Returned to Be Tortured",
+      "hook": "When Marcus Atilius Regulus was released on parole to negotiate a Roman surrender, he urged Rome to keep fighting—then voluntarily walked back into enemy hands to be executed.",
+      "beats": [
+        "Captured by Carthage during the First Punic War, General Regulus was sent to Rome to negotiate a peace deal.",
+        "Instead of begging for his life, he shocked the Roman Senate by fiercely arguing against surrender, calling Carthage exhausted.",
+        "Bound by a sacred oath to return if negotiations failed, Regulus ignored his weeping family and voluntarily boarded a ship back to Africa.",
+        "True to their promise of vengeance, Carthaginian soldiers locked the honorable general inside a spiked wooden barrel until he died."
+      ],
+      "keywords": [
+        "Marcus Atilius Regulus",
+        "Roman Senate engraving",
+        "First Punic War painting",
+        "Ancient Carthage historical map",
+        "Roman military general portrait"
+      ],
+      "tags": [
+        "ancientrome",
+        "romanhistory",
+        "historydocumentary",
+        "punicwars",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 250 BC, Marcus Regulus willingly chose brutal execution.",
+        "search": "marcus atilius regulus portrait oil painting",
+        "caption": "A Roman general chose torture over dishonor."
+      },
+      {
+        "narration": "During the First Punic War in 255 BC, Roman Consul Marcus Atilius Regulus led an invasion of North Africa.",
+        "search": "first punic war naval battle oil painting",
+        "caption": "Rome invaded North Africa in 255 BC."
+      },
+      {
+        "narration": "Near Carthage, Spartan mercenary Xanthippus trapped the Roman legions, capturing Regulus alongside thousands of his troops.",
+        "search": "ancient carthage historical map engraving",
+        "caption": "Carthaginian forces captured General Regulus."
+      },
+      {
+        "narration": "For five years, Regulus remained imprisoned in Africa while the conflict devastated Carthaginian trade routes.",
+        "search": "ancient roman general bust statue",
+        "caption": "Regulus spent five years in enemy captivity."
+      },
+      {
+        "narration": "In 250 BC, growing economic strain forced Carthage to release Regulus on parole to negotiate a peace treaty in Rome.",
+        "search": "roman senate meeting oil painting",
+        "caption": "Carthage sent Regulus to negotiate a surrender."
+      },
+      {
+        "narration": "Before leaving Africa, Carthaginian officials forced Regulus to swear a sacred oath: return to prison if negotiations failed.",
+        "search": "ancient carthage harbor oil painting",
+        "caption": "He swore a sacred oath to return if negotiations failed."
+      },
+      {
+        "narration": "Standing before the Roman Senate, Regulus did not beg for peace; instead, he fiercely advocated for continuing the war.",
+        "search": "roman senators debating engraving",
+        "caption": "Regulus urged the Roman Senate to keep fighting."
+      },
+      {
+        "narration": "He argued that Carthage was exhausted, convincing the senators to reject the very treaty he was sent to deliver.",
+        "search": "marcus atilius regulus senate speech painting",
+        "caption": "He convinced Rome to reject the peace treaty."
+      },
+      {
+        "narration": "Bound by his sacred oath, in 250 BC General Regulus ignored the desperate pleas of his family and Senate, voluntarily boarding a ship back to Africa.",
+        "search": "Marcus Atilius Regulus departing Rome oil painting",
+        "caption": "Bound by sacred oath, Regulus rejected all pleas to stay."
+      },
+      {
+        "narration": "True to their promise of vengeance, Carthaginian soldiers locked the honorable general inside a spiked wooden barrel until he died.",
+        "search": "Regulus torture Carthage historical engraving",
+        "caption": "Carthaginians executed the general inside a spiked wooden barrel."
+      },
+      {
+        "narration": "By choosing brutal execution over broken honor, Regulus became Rome's ultimate symbol of civic virtue and eternal sacrifice.",
+        "search": "Marcus Atilius Regulus marble bust statue",
+        "caption": "His ultimate sacrifice made Regulus Rome's greatest icon of honor."
+      },
+      {
+        "narration": "Why did a Roman general voluntarily return to his torturers?",
+        "search": "Marcus Atilius Regulus portrait oil painting",
+        "caption": "A Roman general chose torture over breaking his word."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T08:10:28.669098+00:00",
+    "updated_at": "2026-11-10T08:14:27.625402+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T08:11:34.054298+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "378 chars (cat 284 de vua 55s)",
+        "at": "2026-11-10T08:12:08.194751+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.9s en-US-GuyNeural 7 cau",
+        "at": "2026-11-10T08:12:12.689487+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T08:12:13.614694+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T08:13:49.251335+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T08:13:49.349464+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.9s 17048101 bytes",
+        "at": "2026-11-10T08:14:27.191482+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T08:14:27.625380+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909116/pexels-photo-13909116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8943321/pexels-photo-8943321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36927595/pexels-photo-36927595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397756/pexels-photo-16397756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8381869/pexels-photo-8381869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14576880/pexels-photo-14576880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16470342/pexels-photo-16470342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39987714/pexels-photo-39987714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12184734/pexels-photo-12184734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8382808/pexels-photo-8382808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "58de050496",
     "kind": "short",
     "channel": "Channel3",
