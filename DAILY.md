@@ -1,4 +1,4 @@
-# Daily ping 09/11/2026
+# Daily ping 10/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -12,12 +12,20 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (2)
-- Bí mật lý do bạn luôn cảm thấy có người nhìn lén trong  :: token refresh failed: 400 {
+## Fail (4)
+- Sai lầm lau màn hình laptop bằng nước lau kính ai cũng  :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- Why King Croesus Accidentally Destroyed His Own Empire :: token refresh failed: 400 {
+- Why Ivan The Terrible Blinded The Architects Of St. Bas :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- Why a Roman General Stripped a Traitor and Gave Childre :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- How Ancient Romans Turned Bees Into Deadly Weapons :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
