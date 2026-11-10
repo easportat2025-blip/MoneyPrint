@@ -1,5 +1,167 @@
 [
   {
+    "id": "92ef1942a0",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do ăn dứa lại khiến lưỡi bạn có cảm giác bị rát?",
+    "idea": {
+      "title": "Lý do ăn dứa lại khiến lưỡi bạn có cảm giác bị rát?",
+      "hook": "Mỗi khi bạn ăn dứa, trái dứa thực ra cũng đang âm thầm ăn ngược lại lưỡi của bạn.",
+      "beats": [
+        "Dứa chứa bromelain, một tập hợp enzyme có khả năng phân giải protein trong mô tế bào.",
+        "Khi tiếp xúc với khoang miệng, bromelain bắt đầu tiêu hóa các tế bào niêm mạc lưỡi, gây cảm giác châm chích.",
+        "Cảm giác rát chỉ kết thúc khi axit dạ dày tiêu hủy enzyme này ngay sau khi bạn nuốt.",
+        "Mô lưỡi sẽ tự tái tạo hoàn toàn chỉ sau vài giờ nhờ khả năng hồi phục siêu tốc."
+      ],
+      "keywords": [
+        "pineapple eating close up",
+        "bromelain enzyme concept",
+        "human tongue macro",
+        "acidic fruit tasting",
+        "biology animation cell"
+      ],
+      "tags": [
+        "tại sao ăn dứa bị rát lưỡi",
+        "bí mật quả dứa",
+        "kiến thức sinh học",
+        "mẹo ăn dứa không rát",
+        "sự thật thú vị"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Mỗi khi bạn ăn dứa, trái dứa thực ra cũng đang âm thầm ăn ngược lại lưỡi của bạn.",
+        "search": "3d animation lat cat qua dua tuoi ngon",
+        "caption": "Dứa thực ra đang ăn ngược lại lưỡi bạn"
+      },
+      {
+        "narration": "Trong dứa chứa một loại enzyme đặc biệt mang tên bromelain có khả năng phá hủy protein cực mạnh.",
+        "search": "motion graphics cau truc phan tu enzyme protein",
+        "caption": "Chứa enzyme bromelain phân giải protein"
+      },
+      {
+        "narration": "Khi bạn cắn miếng dứa tươi, hàng triệu phân tử này lập tức tấn công lớp mô sống trong khoang miệng.",
+        "search": "explainer animation te bao niem mac luoi bi tan cong",
+        "caption": "Tấn công trực tiếp lớp tế bào niêm mạc"
+      },
+      {
+        "narration": "Chúng bắt đầu quá trình tiêu hóa chính các tế bào thịt lưỡi của bạn giống như đang mềm hóa thịt bò.",
+        "search": "isometric render qua trinh tieu hoa protein thit",
+        "caption": "Tiêu hóa tế bào thịt lưỡi"
+      },
+      {
+        "narration": "Đó là lý do bạn cảm thấy châm chích, đau rát và đôi khi hơi tê tê ở đầu lưỡi.",
+        "search": "cartoony 3d nguoi bi dau rat luoi khi an hoa qua",
+        "caption": "Gây cảm giác châm chích và đau rát"
+      },
+      {
+        "narration": "Cơn ác mộng này chỉ dừng lại khi bạn nuốt xuống và axit trong dạ dày tiêu hủy hoàn toàn enzyme.",
+        "search": "3d animation axit da dày tieu hoa thuc an",
+        "caption": "Axit dạ dày tiêu hủy enzyme"
+      },
+      {
+        "narration": "Tuy nhiên bạn đừng quá hoảng sợ vì lớp mô lưỡi có khả năng phục hồi thuộc hàng siêu tốc.",
+        "search": "motion graphics te bao phuc hồi nhanh chong",
+        "caption": "Mô lưỡi có khả năng hồi phục siêu tốc"
+      },
+      {
+        "narration": "Chỉ sau vài giờ ngắn ngủi, toàn bộ tổn thương sẽ được tái tạo hoàn toàn như chưa từng có chuyện gì xảy ra.",
+        "search": "isometric render qua trinh tai tao te bao da",
+        "caption": "Tái tạo hoàn toàn chỉ sau vài giờ"
+      },
+      {
+        "narration": "Nếu muốn thưởng thức dứa mà không bị rát, cách đơn giản nhất là ngâm dứa vào nước muối ấm hoặc nấu chín.",
+        "search": "3d animation cooking pineapple slices pan",
+        "caption": "Ngâm nước muối hoặc nấu chín giúp triệt tiêu enzyme"
+      },
+      {
+        "narration": "Nhiệt độ cao và muối sẽ làm biến tính, làm phá hủy hoàn toàn cấu trúc hoạt động của enzyme bromelain.",
+        "search": "explainer animation protein molecule breaking structure",
+        "caption": "Nhiệt độ làm phá hủy hoàn toàn cấu trúc enzyme"
+      },
+      {
+        "narration": "Bạn cũng có thể ăn dứa kèm sữa chua, enzyme sẽ bận rộn tiêu hóa protein của sữa thay vì lưỡi bạn.",
+        "search": "cartoony 3d pineapple with yogurt bowl",
+        "caption": "Ăn dứa cùng sữa chua giúp bảo vệ lưỡi"
+      },
+      {
+        "narration": "Chính nhờ khả năng tiêu hủy protein này mà dứa luôn là gia vị tự nhiên giúp làm mềm thịt nhanh nhất.",
+        "search": "motion graphics raw meat tenderizing pineapple animation",
+        "caption": "Enzyme trong dứa giúp làm mềm các loại thịt"
+      },
+      {
+        "narration": "Lần tới khi cảm thấy rát lưỡi, hãy nhớ rằng bạn vừa thắng một trận chiến sinh học nhỏ với quả dứa.",
+        "search": "isometric render human character eating fruit face reaction",
+        "caption": "Bạn vừa trải qua cuộc chiến sinh học với quả dứa"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T21:23:19.625884+00:00",
+    "updated_at": "2026-11-10T21:26:18.900101+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-10T21:24:18.222033+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "457 chars (cat 249 de vua 55s)",
+        "at": "2026-11-10T21:24:52.175153+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-10T21:25:01.385655+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T21:25:02.502857+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-10T21:25:19.925034+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-10T21:25:20.043454+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.7s 21067365 bytes",
+        "at": "2026-11-10T21:26:18.443411+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T21:26:18.900078+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/40403081/17263995_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/17555904/17555904-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6324573/6324573-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/9669110/9669110-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40381854/17253823_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39481916/16817859_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10556550/10556550-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6615312/6615312-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/11580342/11580342-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34993466/14825555_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7930776/7930776-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/34228456/14506646_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8724215/8724215-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "b4be341028",
     "kind": "long",
     "channel": "seigh",
