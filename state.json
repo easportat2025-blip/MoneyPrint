@@ -1,5 +1,162 @@
 [
   {
+    "id": "526ccffc54",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why Rome's Poison King Couldn't Kill Himself",
+    "idea": {
+      "title": "Why Rome's Poison King Couldn't Kill Himself",
+      "hook": "Mithridates VI spent decades taking micro-doses of lethal toxins to become immune, but when Roman legions breached his walls, his life-saving secret became his worst regret.",
+      "beats": [
+        "Mithridates VI, King of Pontus, lived in constant terror of assassination by poison.",
+        "He concocted 'Mithridatum', ingesting daily micro-doses of toxins to build complete immunity.",
+        "When Rome defeated his army, Mithridates chose death over being paraded in gold chains.",
+        "He drank a massive vial of lethal poison, but his immune body completely resisted it.",
+        "In tragic irony, he had to beg a Celtic mercenary to run him through with a sword."
+      ],
+      "keywords": [
+        "Mithridates VI",
+        "ancient Rome battle",
+        "poison potion portrait",
+        "ancient Pontus kingdom map",
+        "gladiator sword execution"
+      ],
+      "tags": [
+        "#History",
+        "#AncientRome",
+        "#Mithridates",
+        "#Documentary",
+        "#Channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "History's most poison-immune king couldn't kill himself.",
+        "search": "mithridates vi coin bust ancient engraving",
+        "caption": "The king who couldn't die by poison"
+      },
+      {
+        "narration": "In 63 BC, Roman expansion directly threatened the Black Sea Kingdom of Pontus.",
+        "search": "ancient pontus kingdom map engraving",
+        "caption": "63 BC: Kingdom of Pontus under siege"
+      },
+      {
+        "narration": "King Mithridates VI lived in constant terror of assassination by rival poisoners.",
+        "search": "mithridates vi bust statue illustration",
+        "caption": "Mithridates VI feared deadly poisonings"
+      },
+      {
+        "narration": "To survive, he formulated Mithridatum, swallowing daily micro-doses of deadly toxins.",
+        "search": "ancient poison bottle potion oil painting",
+        "caption": "Daily micro-doses of lethal poison"
+      },
+      {
+        "narration": "Over decades, his metabolic tolerance grew until no known venom could harm him.",
+        "search": "ancient rome battle legionaries oil painting",
+        "caption": "Decades of chemical immunity built"
+      },
+      {
+        "narration": "When Roman general Pompey breached his citadel, Mithridates refused capture.",
+        "search": "pompey the great bust statue",
+        "caption": "Pompey the Great breaches the walls"
+      },
+      {
+        "narration": "Desperate to avoid humiliation, he drained a massive vial of concentrated poison.",
+        "search": "ancient king drinking cup oil painting",
+        "caption": "A massive vial of deadly poison"
+      },
+      {
+        "narration": "The potion instantly killed those beside him, yet Mithridates remained completely unharmed.",
+        "search": "gladiator sword execution ancient engraving",
+        "caption": "The lethal toxin failed to work"
+      },
+      {
+        "narration": "In 63 BC, as Roman forces stormed his fortress at Panticapaeum, Mithridates realized his life's greatest achievement was now his ultimate trap.",
+        "search": "mithridates vi marble bust statue museum",
+        "caption": "Trapped by his own immunity in 63 BC."
+      },
+      {
+        "narration": "Unable to die by toxin, the king commanded his Celtic mercenary, Bituitus, to run him through with a sword.",
+        "search": "celtic warrior sword battle oil painting",
+        "caption": "Executed by sword when poison failed."
+      },
+      {
+        "narration": "Rome's immortal king died by cold steel, leaving behind the term mithridatismus for history's most tragic medical irony.",
+        "search": "mithridates vi pontus silver coin portrait",
+        "caption": "The Poison King undone by self-preservation."
+      },
+      {
+        "narration": "Why couldn't history's most paranoid king poison himself?",
+        "search": "ancient king bust statue illustration",
+        "caption": "The mystery of Rome's invincible enemy"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T11:35:29.784816+00:00",
+    "updated_at": "2026-11-10T11:38:19.225397+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T11:35:55.724110+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "429 chars (cat 183 de vua 55s)",
+        "at": "2026-11-10T11:36:19.253444+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.5s en-US-GuyNeural 6 cau",
+        "at": "2026-11-10T11:36:22.185969+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T11:36:23.301833+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T11:37:25.232601+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T11:37:25.355053+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.5s 16084591 bytes",
+        "at": "2026-11-10T11:38:18.773857+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T11:38:19.225380+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14383919/pexels-photo-14383919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40651522/pexels-photo-40651522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13670353/pexels-photo-13670353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14642017/pexels-photo-14642017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125831/pexels-photo-38125831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319285/pexels-photo-29319285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18888506/pexels-photo-18888506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9126250/pexels-photo-9126250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29123524/pexels-photo-29123524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39562304/pexels-photo-39562304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5871319/pexels-photo-5871319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14256263/pexels-photo-14256263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a65c5a8c7a",
     "kind": "short",
     "channel": "Channel2",
