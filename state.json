@@ -1,5 +1,167 @@
 [
   {
+    "id": "58de050496",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sai lầm lau màn hình laptop bằng nước lau kính ai cũng mắc",
+    "idea": {
+      "title": "Sai lầm lau màn hình laptop bằng nước lau kính ai cũng mắc",
+      "hook": "Chiếc màn hình laptop đắt tiền của bạn đang bị bào mòn mỗi ngày chỉ vì một chai nước lau kính thông thường mà bạn vô tư dùng.",
+      "beats": [
+        "Nước lau kính chứa Ammonia và cồn nồng độ cao, hai chất tẩy rửa chuyên dụng cho kính cường lực công nghiệp.",
+        "Màn hình laptop được phủ các màng siêu mỏng như lớp chống lóa (anti-glare) và lớp kháng dầu.",
+        "Hóa chất mạnh trong nước lau kính sẽ hòa tan màng phủ này, tạo ra các vết loang lổ mờ đục vĩnh viễn không thể phục hồi.",
+        "Cách vệ sinh an toàn duy nhất: Sử dụng khăn vi sợi (microfiber) hơi ẩm nước lọc để lau nhẹ nhàng."
+      ],
+      "keywords": [
+        "cleaning laptop screen",
+        "chemical spray bottle",
+        "microfiber cloth wiping",
+        "damaged display screen",
+        "technology repair close up"
+      ],
+      "tags": [
+        "chamsocmaytinh",
+        "meomaytinh",
+        "congnghe",
+        "sai lam thuong ngay",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nước lau kính đang âm thầm phá hủy màn hình laptop.",
+        "search": "3d animation xit nuoc lau kinh len man hinh laptop",
+        "caption": "Nước lau kính đang phá hủy màn hình laptop của bạn!"
+      },
+      {
+        "narration": "Bạn nghĩ chai nước xịt kính giúp màn hình sạch bóng? Thực tế hoàn toàn ngược lại.",
+        "search": "motion graphics chai xit hoa chat va man hinh",
+        "caption": "Chai xịt lau kính không dành cho màn hình máy tính"
+      },
+      {
+        "narration": "Dung dịch lau kính chứa Ammonia và cồn nồng độ cao, chỉ dành cho kính công nghiệp.",
+        "search": "3d animation phan tu ammonia va con",
+        "caption": "Nước lau kính chứa Ammonia và cồn nồng độ cao"
+      },
+      {
+        "narration": "Trong khi đó, màn hình laptop được phủ các màng cực mỏng chống lóa và kháng dầu.",
+        "search": "isometric render cac lop phu bao ve man hinh",
+        "caption": "Màn hình laptop có các lớp phủ bảo vệ siêu mỏng"
+      },
+      {
+        "narration": "Hóa chất tẩy rửa mạnh sẽ lập tức hòa tan và ăn mòn các lớp màng mỏng này.",
+        "search": "explainer animation hoa chat an mon lop phu man hinh",
+        "caption": "Hóa chất mạnh làm hòa tan lớp màng bảo vệ"
+      },
+      {
+        "narration": "Hậu quả là bề mặt xuất hiện các vết loang lổ mờ đục vĩnh viễn không thể sửa.",
+        "search": "cartoony 3d man hinh laptop bi bong trok loang lo",
+        "caption": "Màn hình bị loang lổ mờ đục vĩnh viễn"
+      },
+      {
+        "narration": "Càng cố xịt và lau mạnh, bạn càng đẩy nhanh tốc độ hỏng của màn hình.",
+        "search": "3d animation ban tay co xat man hinh laptop",
+        "caption": "Càng lau nước xịt kính màn hình càng hỏng nặng"
+      },
+      {
+        "narration": "Cách duy nhất là dùng khăn vi sợi microfiber hơi ẩm nước lọc để lau nhẹ nhàng.",
+        "search": "motion graphics khan microfiber lau sach man hinh",
+        "caption": "Dùng khăn microfiber ẩm nước lọc lau nhẹ nhàng"
+      },
+      {
+        "narration": "Chưa hết, khi xịt trực tiếp, chất lỏng dễ dàng chảy xuống khe viền và làm chập các mạch điện bên dưới.",
+        "search": "chai xit dung dich nuoc lau kinh vao man hinh laptop 3d animation",
+        "caption": "Xịt trực tiếp làm đọng nước gây chập mạch"
+      },
+      {
+        "narration": "Chỉ sau một thời gian ngắn, màn hình sẽ xuất hiện sọc ngang dọc hoặc đốm đen lan rộng không thể phục hồi.",
+        "search": "man hinh laptop bi soc ngang doc hu hong display 3d render",
+        "caption": "Xuất hiện sọc màn hình và đốm đen vĩnh viễn"
+      },
+      {
+        "narration": "Bạn có thể phải tốn từ 2 đến 5 triệu đồng thay màn hình mới chỉ vì một chai nước lau kính vài chục ngàn.",
+        "search": "vi tien va hoa don chi phi sua may tinh 3d render",
+        "caption": "Tốn hàng triệu đồng thay màn hình mới"
+      },
+      {
+        "narration": "Hãy thay đổi ngay: xịt một lượng nhỏ nước lọc tinh khiết lên khăn vi sợi microfiber, tuyệt đối không xịt lên màn hình.",
+        "search": "khan microfiber lau nhe man hinh laptop 3d animation",
+        "caption": "Xịt nước lọc lên khăn microfiber mềm"
+      },
+      {
+        "narration": "Lau nhẹ nhàng theo một chiều duy nhất, màn hình laptop của bạn sẽ luôn sạch bóng và bền bỉ suốt nhiều năm.",
+        "search": "man hinh laptop sach bong nhu moi 3d isometric render",
+        "caption": "Lau một chiều giúp màn hình bền như mới"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T07:38:47.537257+00:00",
+    "updated_at": "2026-11-10T07:41:57.355775+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-10T07:40:02.267866+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "516 chars (cat 48 de vua 55s)",
+        "at": "2026-11-10T07:40:30.611375+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.1s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-10T07:40:45.612236+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T07:40:46.676258+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-10T07:41:04.274474+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-10T07:41:04.376230+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.1s 25195314 bytes",
+        "at": "2026-11-10T07:41:56.967652+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T07:41:57.355754+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/40822589/17442350_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39897023/17019170_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10994874/10994874-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703850/15987400_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/33258811/14169584_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/31830902/13560775_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/40624759/17355621_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/6956372/6956372-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7680121/7680121-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283167/15283167-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8135716/8135716-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "73c819ab37",
     "kind": "short",
     "channel": "Channel2",
