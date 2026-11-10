@@ -1,5 +1,162 @@
 [
   {
+    "id": "66fa927903",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Ancient Romans Turned Bees Into Deadly Weapons",
+    "idea": {
+      "title": "How Ancient Romans Turned Bees Into Deadly Weapons",
+      "hook": "When Roman legions tunneled into a Pontic fortress in 71 BC, they were met by a horrifying biological surprise.",
+      "beats": [
+        "General Lucullus ordered Roman engineers to dig massive subterranean tunnels under the walls of Themiscyra.",
+        "The city's defenders discovered the mines and dug counter-tunnels directly into the Roman breach.",
+        "Instead of sending soldiers, the defenders released hives of wild bees and furious bears into the pitch-black tunnels.",
+        "Trapped underground in tight armor, hundreds of Roman legionnaires were stung relentlessly and forced into panic.",
+        "The bizarre tactical defeat forced Rome to rewrite its rules for subterranean siege warfare."
+      ],
+      "keywords": [
+        "ancient roman army",
+        "siege warfare engraving",
+        "wild bees swarm",
+        "pontic war map",
+        "lucullus portrait"
+      ],
+      "tags": [
+        "ancient history",
+        "roman empire",
+        "military history",
+        "weird history",
+        "documentary short"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 71 BC, wild bees defeated Rome's invincible legions.",
+        "search": "ancient roman legionnaires battle engraving",
+        "caption": "In 71 BC, wild bees defeated Rome's invincible legions."
+      },
+      {
+        "narration": "During the Third Mithridatic War, General Lucius Licinius Lucullus marched his army to besiege the Pontic fortress of Themiscyra.",
+        "search": "lucius licinius lucullus bust statue",
+        "caption": "General Lucullus besieged the Pontic fortress of Themiscyra in 71 BC."
+      },
+      {
+        "narration": "Unable to breach the city's massive stone walls, Roman engineers dug huge subterranean tunnels directly beneath the fortifications.",
+        "search": "ancient roman siege warfare subterranean mine engraving",
+        "caption": "Roman engineers dug tunnels beneath the fortress walls."
+      },
+      {
+        "narration": "Defenders inside the city heard the underground digging and excavated counter-tunnels to breach the incoming Roman shafts.",
+        "search": "ancient pontic empire map engraving",
+        "caption": "Defenders excavated counter-tunnels to intercept Roman miners."
+      },
+      {
+        "narration": "Instead of sending infantry into the cramped breach, the defenders gathered active hives of wild honeybees and furious bears.",
+        "search": "swarming wild bees ancient illustration",
+        "caption": "Defenders gathered active hives of wild honeybees."
+      },
+      {
+        "narration": "The defenders dropped the swarms directly into the subterranean shafts, flooding the pitch-black tunnels with thousands of stinging insects.",
+        "search": "ancient roman armor subterranean tunnel illustration",
+        "caption": "Wild bee swarms flooded the narrow pitch-black tunnels."
+      },
+      {
+        "narration": "Trapped underground in heavy iron armor, Roman soldiers broke formation in total dark panic as relentless stings overwhelmed them.",
+        "search": "roman army retreat ancient military engraving",
+        "caption": "Trapped legionnaires panicked under relentless subterranean attacks."
+      },
+      {
+        "narration": "The embarrassing defeat halted the subterranean assault and forced Rome to permanently alter its manual for subterranean siege warfare.",
+        "search": "ancient roman tactical warfare manuscript illustration",
+        "caption": "The defeat forced Rome to rewrite its subterranean siege rules."
+      },
+      {
+        "narration": "General Lucullus was forced to abandon the subterranean mines of Themiscyra entirely as stung legionnaires retreated in chaos.",
+        "search": "lucius licinius lucullus marble bust statue roman",
+        "caption": "General Lucullus abandoned the subterranean mines following the chaotic Roman retreat."
+      },
+      {
+        "narration": "The Pontic defenders proved that simple biological hazards could completely neutralize Rome's vastly superior engineering and heavy armor underground.",
+        "search": "ancient roman siege tunnel military engraving",
+        "caption": "Simple biological hazards completely neutralized Rome's superior siege engineering underground."
+      },
+      {
+        "narration": "The disaster at Themiscyra in 71 BC stands as one of history's most bizarre tactical defeats, proving how wild bees repelled Rome's invincible army.",
+        "search": "third mithridatic war pontus ancient map engraving",
+        "caption": "The 71 BC disaster proved wild bees could defeat Rome's invincible army."
+      },
+      {
+        "narration": "In 71 BC, an entire Roman legion was routed by bees.",
+        "search": "roman soldier armor ancient engraving",
+        "caption": "In 71 BC, wild bees defeated Roman legions underground."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-10T00:49:31.984415+00:00",
+    "updated_at": "2026-11-10T00:52:00.145387+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-10T00:49:52.364452+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "406 chars (cat 176 de vua 55s)",
+        "at": "2026-11-10T00:50:05.789739+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-10T00:50:10.693884+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-10T00:50:11.850035+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-10T00:51:08.646781+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-10T00:51:08.777546+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.9s 14290227 bytes",
+        "at": "2026-11-10T00:51:59.609180+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-10T00:52:00.145363+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10035812/pexels-photo-10035812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39970502/pexels-photo-39970502.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32868414/pexels-photo-32868414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11953348/pexels-photo-11953348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28520847/pexels-photo-28520847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40537546/pexels-photo-40537546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39728381/pexels-photo-39728381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927910/pexels-photo-29927910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8e5d66004d",
     "kind": "short",
     "channel": "Channel3",
