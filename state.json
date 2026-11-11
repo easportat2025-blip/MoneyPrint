@@ -1,5 +1,599 @@
 [
   {
+    "id": "18aabded17",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Richest Roman Died the Most Brutal Death",
+    "idea": {
+      "title": "The Richest Roman Died the Most Brutal Death",
+      "hook": "Marcus Crassus invaded Parthia to outshine Julius Caesar, but his reckless ambition led to a defeat so brutal that his enemies poured molten gold down his throat.",
+      "beats": [
+        "Marcus Licinius Crassus amasses unimaginable wealth during Sulla's proscriptions, inventing aggressive real estate tactics and a private fire brigade.",
+        "Despite controlling Rome's finances and co-ruling in the First Triumvirate, Crassus is plagued by insecurity over the legendary military achievements of Pompey and Julius Caesar.",
+        "Obsessed with winning equal military prestige, Crassus secures a governorship in Syria and targets the wealthy, distant Parthian Empire for an unprovoked invasion.",
+        "Ignoring severe atmospheric omens, opposition from Roman tribunes, and warnings from Armenian allies, Crassus marches seven heavy legions directly into the arid desert.",
+        "Parthian General Surena prepares a devastating counter-strategy, using fast, maneuverable horse archers backed by heavily armored cataphracts.",
+        "At the Battle of Carrhae, Roman legions lock into defensive testudo formations, expecting the enemy to run out of arrows, but camel trains continuously resupply the Parthians.",
+        "Crassus orders his brave young son Publius to lead a cavalry counterattack, which ends in Publius' death and his severed head being displayed on a spear to the Romans.",
+        "Surrounded, dehydrated, and mentally crushed, the Roman lines collapse into chaotic retreat as night falls over the desert waste.",
+        "Surena invites Crassus to a fraudulent peace parley, where a struggle breaks out and the Roman commander is violently killed.",
+        "Ancient historian Cassius Dio records that the Parthians poured molten gold down Crassus' throat to mock his lifelong, unquenchable greed.",
+        "Crassus' severed head is delivered to Parthian King Orodes II and used as a macabre prop during a performance of Euripides' play 'The Bacchae'.",
+        "The destruction of Crassus' army shatters the First Triumvirate, directly accelerating the fall of the Roman Republic into civil war between Caesar and Pompey."
+      ],
+      "keywords": [
+        "Marcus Licinius Crassus",
+        "Battle of Carrhae",
+        "Ancient Rome",
+        "Parthian Empire",
+        "Julius Caesar",
+        "Roman History Documentary",
+        "Molten Gold Death",
+        "First Triumvirate",
+        "Roman Military Disasters",
+        "General Surena"
+      ],
+      "tags": [
+        "Ancient Rome",
+        "Crassus",
+        "Battle of Carrhae",
+        "Roman Empire",
+        "History Documentary",
+        "Julius Caesar",
+        "Parthia",
+        "Ancient Warfare",
+        "Worst Way To Die",
+        "Roman History"
+      ],
+      "kind": "long",
+      "thumbnail_text": "RICHEST ROMAN'S BRUTAL END"
+    },
+    "scenes": [
+      {
+        "narration": "Ancient Rome's wealthiest man suffered history's most gruesome execution.",
+        "search": "marcus licinius crassus bust statue marble portrait",
+        "caption": "Rome's richest man met the ultimate brutal end."
+      },
+      {
+        "narration": "In 53 BC, Marcus Licinius Crassus amassed staggering wealth through Roman real estate and proscriptions, yet envied the military victories of Julius Caesar and Pompey.",
+        "search": "first triumvirate julius caesar pompey crassus oil painting",
+        "caption": "Immense wealth failed to buy supreme military glory."
+      },
+      {
+        "narration": "Desperate for warlord prestige, Crassus secured Syria's governorship and marched seven heavy legions into the arid deserts of the Parthian Empire, ignoring dark omens and allied warnings.",
+        "search": "roman legion marching desert ancient illustration",
+        "caption": "Seven legions marched blindly into hostile desert wastes."
+      },
+      {
+        "narration": "At the Battle of Carrhae, Parthian General Surena surrounded the locked Roman testudo formations, using endless supply camels to replenish thousands of horse archers.",
+        "search": "battle of carrhae parthian cataphracts illustration engraving",
+        "caption": "Endless arrow volleys shattered the famed Roman testudo."
+      },
+      {
+        "narration": "When Crassus sent his son Publius to counterattack, Parthian cavalry decapitated the young commander and displayed his head on a spear to the despairing legionnaires.",
+        "search": "ancient roman cavalry fight battle painting",
+        "caption": "A son's tragic death broke Roman morale completely."
+      },
+      {
+        "narration": "Trapped and forced into a botched peace negotiation, Crassus was killed, after which Parthians poured molten gold down his throat to mock his insatiable greed.",
+        "search": "molten gold poured down throat historical engraving artwork",
+        "caption": "Molten gold punished a lifetime of unquenchable greed."
+      },
+      {
+        "narration": "The severed head of Rome's richest citizen was delivered to King Orodes II, who used it as a gruesome prop during a royal theatrical performance of Euripides' The Bacchae.",
+        "search": "parthian king orodes ii ancient coin portrait",
+        "caption": "A Roman triumvir's head became a tragic theater prop."
+      },
+      {
+        "narration": "The total annihilation of twenty thousand Romans at Carrhae destroyed the First Triumvirate, directly accelerating the bloody civil war between Caesar and Pompey that broke the Roman Republic.",
+        "search": "assassination of julius caesar roman republic civil war oil painting",
+        "caption": "Carrhae's disaster triggered the fall of the Roman Republic."
+      },
+      {
+        "narration": "In 82 BC, Marcus Licinius Crassus amassed his initial fortune by buying the seized property of outlawed citizens during Sulla's bloody proscriptions.",
+        "search": "sulla proscriptions roman republic oil painting",
+        "caption": "Crassus profited immensely from Sulla's political executions in 82 BC."
+      },
+      {
+        "narration": "He created Rome's first private fire brigade, buying burning real estate for dirt cheap before allowing his five hundred trained slaves to put out the flames.",
+        "search": "ancient rome city fire vintage engraving",
+        "caption": "He bought burning Roman buildings cheaply using his private slave brigade."
+      },
+      {
+        "narration": "Despite amassing over two hundred million sesterces, Crassus was tortured by envy over the glorious military victories of Pompey and Julius Caesar.",
+        "search": "pompey the great marble bust statue photo",
+        "caption": "Envy of Pompey and Caesar drove Crassus toward military conquest."
+      },
+      {
+        "narration": "In 54 BC, Crassus secured the governorship of Syria, targeting the wealthy Parthian Empire for an unprovoked invasion to secure military glory.",
+        "search": "ancient syria roman province historical map engraving",
+        "caption": "In 54 BC, Crassus targeted Parthia to win military prestige."
+      },
+      {
+        "narration": "Roman tribunes declared the war illegal, while King Artavasdes of Armenia explicitly warned Crassus against marching across the open desert terrain.",
+        "search": "ancient armenian king manuscript illumination illustration",
+        "caption": "Allied kings warned Crassus against invading through open desert terrain."
+      },
+      {
+        "narration": "Disregarding severe weather omens and strategic counsel, Crassus led seven heavy legions into the waterless plains of Mesopotamia in 53 BC.",
+        "search": "roman legions marching in desert oil painting",
+        "caption": "In 53 BC, Crassus marched seven legions directly into Mesopotamia."
+      },
+      {
+        "narration": "Waiting in the sands was Parthian commander Surena, who deployed deadly horse archers backed by heavily armored cataphract cavalry.",
+        "search": "parthian cataphract cavalry illustration",
+        "caption": "General Surena deployed armored cataphracts and deadly horse archers."
+      },
+      {
+        "narration": "The Romans formed a defensive testudo expecting arrows to run out, unaware that a massive camel train was resupplying the Parthian archers continuously.",
+        "search": "battle of carrhae roman testudo oil painting",
+        "caption": "Camel trains continuously resupplied thousands of Parthian horse archers."
+      },
+      {
+        "narration": "Under a non-stop rain of arrows in 53 BC, Roman shield walls began to fracture, forcing Marcus Crassus into a desperate tactical gamble.",
+        "search": "roman testudo formation under attack ancient oil painting",
+        "caption": "Crassus forces attempt desperate tactical gamble"
+      },
+      {
+        "narration": "Crassus ordered his young son, Publius Licinius Crassus, to lead thirteen hundred elite Gallic cavalrymen into a direct countercharge.",
+        "search": "publius licinius crassus roman cavalry charge historical painting",
+        "caption": "Publius Crassus leads elite cavalry countercharge"
+      },
+      {
+        "narration": "Parthian forces feigned a panic retreat, luring Publius far from the main army before surrounding and slaughtering his entire vanguard.",
+        "search": "parthian horse archers ambush roman cavalry engraving",
+        "caption": "Parthians bait and surround the Roman vanguard"
+      },
+      {
+        "narration": "Psychological warfare shattered Roman morale when Parthian riders returned, carrying the severed head of Publius aloft on a spear.",
+        "search": "battle of carrhae severe desert defeat ancient painting",
+        "caption": "Severed head of Publius displayed to legionaries"
+      },
+      {
+        "narration": "Nightfall brought no relief as dehydrated and broken legions broke formation, abandoning thousands of wounded in a chaotic retreat.",
+        "search": "roman army chaotic retreat desert ancient map engraving",
+        "caption": "Dehydrated legions collapse into night retreat"
+      },
+      {
+        "narration": "General Surena invited Marcus Crassus to a peace parley near Carrhae, where violence erupted and the Roman triumvir was killed.",
+        "search": "death of marcus licinius crassus 53 bc historical engraving",
+        "caption": "Marcus Crassus slain during fraudulent truce parley"
+      },
+      {
+        "narration": "Historian Cassius Dio recorded that the Parthians executed final mockery by pouring molten gold down Crassus' throat to punish his greed.",
+        "search": "molten gold poured down throat ancient historical engraving",
+        "caption": "Molten gold poured down Crassus throat in death"
+      },
+      {
+        "narration": "Crassus' head was used as a stage prop in the Parthian court, while his death dissolved the First Triumvirate and ignited Caesar's civil war.",
+        "search": "julius caesar pompey triumvirate ancient roman oil painting",
+        "caption": "Triumvirate collapse triggers Roman Civil War"
+      },
+      {
+        "narration": "In 82 BC, Marcus Licinius Crassus amassed Rome's greatest fortune by operating a private fire brigade that bought burning properties at bargain prices.",
+        "search": "marcus licinius crassus marble bust statue high resolution museum photograph",
+        "caption": "Crassus built Rome's largest fortune using private fire brigades."
+      },
+      {
+        "narration": "Though he financed Julius Caesar and formed the First Triumvirate in 60 BC, Crassus remained desperate to match Pompey's legendary military triumphs.",
+        "search": "pompey the great ancient marble bust sculpture close up",
+        "caption": "Political rivalry with Pompey fueled Crassus' ultimate obsession."
+      },
+      {
+        "narration": "In 54 BC, Crassus assumed the governorship of Syria and launched an unprovoked invasion against the wealthy Parthian Empire, ignoring dark omens.",
+        "search": "ancient roman empire map middle east Syria parthia 18th century engraving",
+        "caption": "Crassus launched an unprovoked invasion into Parthian territory."
+      },
+      {
+        "narration": "Moving forty thousand legionnaires into the arid plains of Carrhae in 53 BC, the Romans were caught entirely off guard by General Surena's swift cavalry.",
+        "search": "battle of carrhae ancient roman legionnaires desert warfare oil painting",
+        "caption": "Forty thousand Roman soldiers marched directly into an ambush."
+      },
+      {
+        "narration": "Surena utilized one thousand camels to endlessly resupply his composite horse archers, neutralizing the classic Roman testudo shield formation.",
+        "search": "parthian horse archer ancient relief sculpture artifact detail",
+        "caption": "Camel supply lines provided infinite arrows for Parthian archers."
+      },
+      {
+        "narration": "The breaking point arrived when Parthian horsemen decapitated Crassus' son Publius and paraded his severed head on a lance before the horrified legions.",
+        "search": "ancient roman cavalry battle defeat historic 19th century oil painting",
+        "caption": "Publius Crassus was slain, his head displayed to Roman lines."
+      },
+      {
+        "narration": "After Crassus was murdered during fake peace talks, historian Cassius Dio recorded that Parthians poured molten gold down his throat to mock his greed.",
+        "search": "death of crassus molten gold execution historical engraving illustration",
+        "caption": "Molten gold was poured down Crassus' throat after death."
+      },
+      {
+        "narration": "The catastrophe at Carrhae wiped out twenty thousand legionnaires and destroyed the First Triumvirate, plunging Rome into civil war by 49 BC.",
+        "search": "julius caesar crossing the rubicon river historic oil painting",
+        "caption": "The disaster shattered political balance, launching Rome into civil war."
+      },
+      {
+        "narration": "Rome's wealthiest man suffered ancient history's most brutal death.",
+        "search": "Marcus Licinius Crassus marble bust statue",
+        "caption": "Rome's richest man met ancient history's most brutal end."
+      },
+      {
+        "narration": "Marcus Licinius Crassus amassed vast fortunes through Sulla's proscriptions and private fire brigades, yet deeply envied the military glory of Julius Caesar and Pompey.",
+        "search": "ancient Roman forum historical oil painting",
+        "caption": "Unimaginable wealth could not buy military glory in Rome."
+      },
+      {
+        "narration": "In 54 BC, Crassus assumed governorship of Syria and launched an unprovoked invasion of the Parthian Empire to win equal renown.",
+        "search": "ancient Roman empire map 1st century BC engraving",
+        "caption": "An unprovoked invasion driven by reckless political ambition."
+      },
+      {
+        "narration": "Ignoring severe warnings and atmospheric omens, Crassus marched seven heavy Roman legions directly into the arid Mesopotamian desert.",
+        "search": "Roman legionaries marching in desert historical illustration",
+        "caption": "Seven legions marched into the arid Mesopotamian wilderness."
+      },
+      {
+        "narration": "At the Battle of Carrhae in 53 BC, Parthian General Surena trapped the Romans with endless archer volleys continuously resupplied by camels.",
+        "search": "Battle of Carrhae Roman vs Parthian historical oil painting",
+        "caption": "Endless rain of arrows shattered the heavy Roman testudo."
+      },
+      {
+        "narration": "Crassus watched his son Publius fall in a failed cavalry charge before Parthian troops displayed the young commander's severed head on a spear.",
+        "search": "ancient Roman cavalry battle artwork engraving",
+        "caption": "A tragic slaughter shattered Roman morale before nightfall."
+      },
+      {
+        "narration": "Lured into a fraudulent peace parley, Crassus was killed, and Parthians poured molten gold down his throat to mock his insatiable greed.",
+        "search": "molten gold poured down throat historical illustration",
+        "caption": "Molten gold was poured down his throat in mockery."
+      },
+      {
+        "narration": "Crassus' severed head became a prop for King Orodes II, and his army's destruction shattered the Triumvirate, driving Rome into civil war by 49 BC.",
+        "search": "Julius Caesar marble bust statue ancient Rome",
+        "caption": "The defeat at Carrhae plunged Rome into devastating civil war."
+      },
+      {
+        "narration": "News of the annihilation at Carrhae sent shockwaves through Rome, where the loss of seven legionary eagles was viewed as a profound religious and military humiliation.",
+        "search": "roman aquila legionary eagle standard bronze statue artwork",
+        "caption": "Seven legionary eagles captured at Carrhae humiliated Rome's military pride."
+      },
+      {
+        "narration": "Without Crassus to balance power in Rome, Pompey aligned with the Senate's conservative faction in 52 BC, systematically isolating Julius Caesar in Gaul.",
+        "search": "pompey the great bust marble statue close up portrait",
+        "caption": "Pompey aligned with conservative senators, isolating Caesar in Gaul."
+      },
+      {
+        "narration": "By 50 BC, the Roman Senate formally ordered Caesar to disband his legions and return to Rome as a private citizen subject to legal prosecution.",
+        "search": "julius caesar marble bust portrait ancient rome statue",
+        "caption": "The Senate demanded Caesar surrender his command in 50 BC."
+      },
+      {
+        "narration": "Refusing to surrender his power, Caesar marched the Thirteenth Legion across the Rubicon in January 49 BC, plunging the Republic into civil war.",
+        "search": "caesar crossing the rubicon oil painting historical artwork",
+        "caption": "Caesar crossed the Rubicon in 49 BC, triggering civil war."
+      },
+      {
+        "narration": "Roman legions that had guarded the frontiers were redirected inward, devastating provinces across Hispania, Greece, and North Africa.",
+        "search": "ancient roman civil war legionaries fighting battle engraving",
+        "caption": "Civil war pulled legions from frontiers to battle each other."
+      },
+      {
+        "narration": "Following his defeat at Pharsalus in 48 BC, Pompey fled to Egypt, where he was betrayed and assassinated on the beach at Pelusium.",
+        "search": "death of pompey the great historical oil painting artwork",
+        "caption": "Pompey met his own violent end in Egypt in 48 BC."
+      },
+      {
+        "narration": "Emboldened by the massacre of Crassus' army, the Parthian Empire launched a major invasion of Roman Syria and Anatolia in 40 BC.",
+        "search": "parthian empire map historical engraving ancient near east",
+        "caption": "Parthia invaded Syria in 40 BC, expanding their territory westward."
+      },
+      {
+        "narration": "Mark Antony launched a massive campaign to avenge Carrhae in 36 BC, only to lose twenty thousand men during a disastrous retreat through Media.",
+        "search": "mark antony roman general marble bust statue portrait",
+        "caption": "Mark Antony's 36 BC Parthian invasion ended in another disastrous retreat."
+      },
+      {
+        "narration": "Beyond the massacre of twenty thousand legionaries, the Parthians captured the sacred legionary eagles of Crassus's lost divisions.",
+        "search": "Roman eagle standard aquila bronze artifact museum photograph",
+        "caption": "The captured Roman legionary eagles caused profound national shame in Rome."
+      },
+      {
+        "narration": "For decades, Roman political rhetoric and poetry were dominated by a single obsession: reclaiming the lost military honors from Parthia.",
+        "search": "Ancient Roman forum ruins archaeological site photograph",
+        "caption": "Roman culture remained fixated on avenging the disaster at Carrhae."
+      },
+      {
+        "narration": "In 20 BC, Augustus Caesar avoided another military nightmare by negotiating a treaty with King Phraates IV to return the eagles.",
+        "search": "Emperor Augustus marble bust statue statue close up",
+        "caption": "Augustus negotiated with Parthia to recover Crassus's lost standards in 20 BC."
+      },
+      {
+        "narration": "Roman mints immediately struck silver denarii depicting a kneeling Parthian handing back the lost legionary eagle.",
+        "search": "Ancient Roman coin denarius Augustus parthia silver museum photo",
+        "caption": "Coins celebrated the peaceful return of the long-lost Roman standards."
+      },
+      {
+        "narration": "The iconic statue of Augustus at Prima Porta prominently features the Parthian king returning Crassus's standard carved onto its marble cuirass.",
+        "search": "Prima Porta Augustus breastplate detail marble sculpture photograph",
+        "caption": "Augustus's famous statue depicted the return of the Carrhae eagle standards."
+      },
+      {
+        "narration": "Carrhae forced Rome to restructure its military, integrating heavier cavalry and specialized archers to counter eastern warfare.",
+        "search": "Ancient Roman relief cavalry battle marble carving",
+        "caption": "The catastrophic defeat forced Rome to revolutionize its military tactics."
+      },
+      {
+        "narration": "Historians like Cassius Dio ensured that the image of molten gold poured down Crassus's throat endured as history's ultimate symbol of greed.",
+        "search": "Cassius Dio ancient manuscript illustration page",
+        "caption": "Cassius Dio preserved the grim legend of Crassus's golden execution."
+      },
+      {
+        "narration": "Marcus Licinius Crassus amassed the greatest fortune in Rome, yet his desperate pursuit of military glory cost him his son, his army, and his life.",
+        "search": "Marcus Licinius Crassus marble bust statue portrait",
+        "caption": "Crassus's pursuit of unearned glory brought down himself and the Republic."
+      },
+      {
+        "narration": "In 53 BC, Rome's richest man marched seven legions into the desert, seeking military glory he could never buy.",
+        "search": "marcus licinius crassus marble bust",
+        "caption": "Rome's wealthiest man trades gold for military glory in 53 BC"
+      },
+      {
+        "narration": "Amassing unmatched wealth through aggressive real estate schemes, Marcus Licinius Crassus still envied the conquest records of Julius Caesar and Pompey.",
+        "search": "ancient rome forum classical painting",
+        "caption": "Wealth could not purchase the battlefield renown of Caesar or Pompey"
+      },
+      {
+        "narration": "In 54 BC, Crassus assumed the governorship of Syria and launched an unprovoked invasion against the Parthian Empire, ignoring Armenian tactical warnings.",
+        "search": "parthian empire ancient map engraving",
+        "caption": "54 BC invasion of Parthia ignored crucial warnings from allies"
+      },
+      {
+        "narration": "At the Battle of Carrhae in 53 BC, Parthian General Surena surrounded the Romans with horse archers continuously resupplied by thousands of pack camels.",
+        "search": "battle of carrhae roman legions illustration",
+        "caption": "Parthian horse archers trap seven Roman legions in arid desert"
+      },
+      {
+        "narration": "When a cavalry counterattack failed, Crassus watched his son Publius perish before the Roman lines completely fractured into chaos.",
+        "search": "ancient battle desert oil painting",
+        "caption": "Publius dies in battle as Roman lines collapse into retreat"
+      },
+      {
+        "narration": "Lured into a fraudulent peace parley by General Surena, Crassus was cut down during a violent struggle on the sand.",
+        "search": "ancient parthian soldier relief carving",
+        "caption": "Fake peace negotiations end in the violent death of Crassus"
+      },
+      {
+        "narration": "Historian Cassius Dio recorded that the Parthians poured molten gold down Crassus's throat, sending his severed head to King Orodes II as a theater prop.",
+        "search": "cassius dio ancient manuscript illustration",
+        "caption": "Molten gold poured down his throat as punishment for greed"
+      },
+      {
+        "narration": "The disastrous defeat at Carrhae shattered the First Triumvirate, directly accelerating the downfall of the Roman Republic into civil war.",
+        "search": "julius caesar marble bust statue",
+        "caption": "Death of Crassus shattered Triumvirate, accelerating Roman Republic's collapse"
+      },
+      {
+        "narration": "Rome's wealthiest man suffered history's most brutal execution.",
+        "search": "marcus licinius crassus marble bust statue close up",
+        "caption": "Rome's Richest Man Met History's Brutal Fate"
+      },
+      {
+        "narration": "In 82 BC, Marcus Licinius Crassus amassed unprecedented riches during Sulla's proscriptions, but desperate vanity left him craving military glory.",
+        "search": "ancient roman forum architecture painting",
+        "caption": "Unmatched Wealth Couldn't Buy Military Glory"
+      },
+      {
+        "narration": "Demanding equal prestige to Pompey and Julius Caesar, Crassus assumed governorship of Syria in 54 BC and marched seven legions into Parthia.",
+        "search": "ancient parthia roman border map engraving",
+        "caption": "An Unprovoked March Into Desert Territory"
+      },
+      {
+        "narration": "At the Battle of Carrhae in 53 BC, Parthian General Surena deployed armored cataphracts and endless camel trains supplying thousands of horse archers.",
+        "search": "battle of carrhae parthian cataphracts painting",
+        "caption": "Seven Roman Legions Trapped In Desert Heat"
+      },
+      {
+        "narration": "Trapped in tight defensive squares, Roman soldiers watched Crassus's son Publius fall in battle before his severed head was paraded on a Parthian spear.",
+        "search": "roman legions desert retreat battle oil painting",
+        "caption": "Horrific Loss Shatters Roman Morale"
+      },
+      {
+        "narration": "Captured during a treacherous peace negotiation, Crassus was killed and had molten gold poured down his throat to mock his life of greed.",
+        "search": "molten gold executed punishment ancient engraving",
+        "caption": "Execution By Molten Gold Mocked Endless Greed"
+      },
+      {
+        "narration": "Parthian King Orodes II received the severed head of Crassus, presenting it on stage during a performance of Euripides' play The Bacchae.",
+        "search": "parthian king orodes ii silver coin face",
+        "caption": "Severed Head Used As A Macabre Stage Prop"
+      },
+      {
+        "narration": "The destruction of forty thousand Roman troops at Carrhae shattered the First Triumvirate, directly igniting the civil war that destroyed the Roman Republic.",
+        "search": "julius caesar Roman republic historical painting",
+        "caption": "The Collapse Of The Roman Republic"
+      },
+      {
+        "narration": "The capture of seven Roman legionary eagles at Carrhae in 53 BC inflicted an unprecedented military shame upon the Republic.",
+        "search": "roman eagle standard aquila bronze statue artifact",
+        "caption": "The loss of Rome's legionary eagles humiliated the entire Republic."
+      },
+      {
+        "narration": "In 49 BC, four years after Crassus' death destroyed the triumvirate balance, Julius Caesar crossed the Rubicon into civil war.",
+        "search": "julius caesar crossing the rubicon river oil painting",
+        "caption": "Without Crassus balancing power, Rome descended into catastrophic civil war."
+      },
+      {
+        "narration": "Pompey the Great met total defeat at Pharsalus in 48 BC and was assassinated, leaving Caesar supreme master of Rome.",
+        "search": "pompey the great marble bust statue portrait",
+        "caption": "Caesar defeated Pompey, claiming absolute control over the fallen Republic."
+      },
+      {
+        "narration": "In 20 BC, Emperor Augustus used diplomacy to recover Crassus' captured legionary standards from Parthian custody.",
+        "search": "augustus caesar prima porta marble statue",
+        "caption": "Augustus negotiated the return of Crassus' lost legionary standards."
+      },
+      {
+        "narration": "The catastrophe at Carrhae fixed the Euphrates River as a permanent boundary between the Roman Empire and Persia.",
+        "search": "euphrates river mesopotamia ancient map engraving",
+        "caption": "Carrhae permanently halted Rome's expansion into the eastern world."
+      },
+      {
+        "narration": "Ancient historians Plutarch and Cassius Dio framed Crassus' downfall as history's definitive lesson on unbridled political vanity.",
+        "search": "plutarch philosopher marble bust statue",
+        "caption": "Historians preserved Crassus' defeat as an enduring warning of hubris."
+      },
+      {
+        "narration": "The grim account of molten gold poured down Crassus' throat became humanity's most famous warning against avarice.",
+        "search": "molten gold poured into throat antique engraving",
+        "caption": "Molten gold down the throat became antiquity's ultimate symbol of greed."
+      },
+      {
+        "narration": "Marcus Licinius Crassus built the greatest fortune in Roman history, only to spend it purchasing his own brutal destruction.",
+        "search": "marcus licinius crassus marble bust statue portrait timelapse",
+        "caption": "The richest man in Rome bought history's most brutal death."
+      },
+      {
+        "narration": "The richest man in Rome met history's most agonizing execution. In 53 BC, Marcus Licinius Crassus led seven legions to catastrophic destruction.",
+        "search": "Marcus Licinius Crassus marble bust statue portrait",
+        "caption": "The Richest Roman Met History's Most Agonizing Execution"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T21:01:01.735055+00:00",
+    "updated_at": "2026-11-11T21:20:59.501738+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-11T21:04:17.029441+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3556 chars",
+        "at": "2026-11-11T21:04:51.622225+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "215.0s en-US-GuyNeural 33 cau",
+        "at": "2026-11-11T21:05:17.879228+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T21:05:20.955935+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-11T21:17:31.765874+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T21:17:31.766623+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 215.0s 145584100 bytes",
+        "at": "2026-11-11T21:20:59.385238+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-11T21:20:59.387460+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T21:20:59.501732+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/460736/pexels-photo-460736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38317489/pexels-photo-38317489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8474984/pexels-photo-8474984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5858019/pexels-photo-5858019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10108130/pexels-photo-10108130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20849160/pexels-photo-20849160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14766457/pexels-photo-14766457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809326/pexels-photo-19809326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9704108/pexels-photo-9704108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35667690/pexels-photo-35667690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162186/pexels-photo-6162186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34063802/pexels-photo-34063802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342503/pexels-photo-29342503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397772/pexels-photo-16397772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38051881/pexels-photo-38051881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143361/pexels-photo-38143361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709017/pexels-photo-35709017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36937819/pexels-photo-36937819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736361/pexels-photo-30736361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32289533/pexels-photo-32289533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17914636/pexels-photo-17914636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33421060/pexels-photo-33421060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20742976/pexels-photo-20742976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19455916/pexels-photo-19455916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4170174/pexels-photo-4170174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35976200/pexels-photo-35976200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125778/pexels-photo-38125778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11106057/pexels-photo-11106057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269150/pexels-photo-9269150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30836332/pexels-photo-30836332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34614/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8396074/pexels-photo-8396074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33595404/pexels-photo-33595404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243711/pexels-photo-13243711.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10658135/pexels-photo-10658135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736362/pexels-photo-30736362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39441319/pexels-photo-39441319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37520869/pexels-photo-37520869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37504165/pexels-photo-37504165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36261389/pexels-photo-36261389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7337507/pexels-photo-7337507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1546249/pexels-photo-1546249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/289831/pexels-photo-289831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7512535/pexels-photo-7512535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37998605/pexels-photo-37998605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27631750/pexels-photo-27631750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806580/pexels-photo-38806580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27817108/pexels-photo-27817108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30267276/pexels-photo-30267276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15954089/pexels-photo-15954089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16382009/pexels-photo-16382009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13971716/pexels-photo-13971716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4102579/pexels-photo-4102579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714846/pexels-photo-6714846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7821820/pexels-photo-7821820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29807592/pexels-photo-29807592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30509000/pexels-photo-30509000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31452324/pexels-photo-31452324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412595/pexels-photo-29412595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27221822/pexels-photo-27221822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2355408/pexels-photo-2355408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37645335/pexels-photo-37645335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4890544/pexels-photo-4890544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29547179/pexels-photo-29547179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494936/pexels-photo-9494936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37731869/pexels-photo-37731869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718454/pexels-photo-7718454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610629/pexels-photo-20610629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6595971/pexels-photo-6595971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38002571/pexels-photo-38002571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708866/pexels-photo-35708866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109101/pexels-photo-6109101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15826835/pexels-photo-15826835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861815/pexels-photo-37861815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29416015/pexels-photo-29416015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2350683/pexels-photo-2350683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6804260/pexels-photo-6804260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130609/pexels-photo-11130609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1033142/pexels-photo-1033142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "75ac1ed92a",
     "kind": "short",
     "channel": "Channel3",
