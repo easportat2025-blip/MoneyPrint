@@ -1,5 +1,161 @@
 [
   {
+    "id": "d2055f4562",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 1 Secret Slave Message Destroyed Xerxes’ Fleet",
+    "idea": {
+      "title": "How 1 Secret Slave Message Destroyed Xerxes’ Fleet",
+      "hook": "In 480 BC, Persian King Xerxes burned Athens, but a single secret note from a Greek slave lured his invincible fleet into a total nightmare.",
+      "beats": [
+        "Greek commander Themistocles sent his trusted slave Sicinnus to Xerxes, pretending the Greeks were turning traitor.",
+        "Sicinnus convinced Xerxes that the panicked Greek navy was attempting to escape through the narrow strait of Salamis.",
+        "Eager for a quick victory, Xerxes rushed over 1,000 massive warships into the cramped, rocky waters.",
+        "The agile Greek triremes trapped and ambushed the jammed Persian ships, destroying over 200 vessels and saving Greece."
+      ],
+      "keywords": [
+        "king xerxes",
+        "battle of salamis",
+        "ancient greek trireme",
+        "themistocles portrait",
+        "persian empire map"
+      ],
+      "tags": [
+        "History",
+        "AncientGreece",
+        "PersianEmpire",
+        "MilitaryStrategy",
+        "Shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A slave's secret note destroyed the world's largest empire.",
+        "search": "ancient Persian empire map engraving",
+        "caption": "A slave's secret message ruined an empire."
+      },
+      {
+        "narration": "In 480 BC, Western democracy faced total extinction as Persian King Xerxes burned Athens to ash.",
+        "search": "King Xerxes relief sculpture ancient Persia",
+        "caption": "480 BC: King Xerxes burned Athens to ash."
+      },
+      {
+        "narration": "The Persian empire commanded over 1,000 massive warships, cornering the helpless Greek forces.",
+        "search": "battle of salamis ancient greek naval illustration",
+        "caption": "1,000 Persian warships cornered the Greeks."
+      },
+      {
+        "narration": "Athenian general Themistocles knew direct battle meant annihilation, so he hatched a desperate trick.",
+        "search": "Themistocles bust statue close up",
+        "caption": "General Themistocles hatched a desperate trick."
+      },
+      {
+        "narration": "In secret, he dispatched his trusted slave Sicinnus across the water directly into enemy lines.",
+        "search": "ancient greek servant oil painting",
+        "caption": "A trusted slave crossed into enemy territory."
+      },
+      {
+        "narration": "Sicinnus convinced Xerxes that panic-stricken Greeks were turning traitor and escaping through the narrow strait.",
+        "search": "strait of salamis greece antique map engraving",
+        "caption": "Sicinnus claimed the Greeks were fleeing."
+      },
+      {
+        "narration": "Eager for total victory, King Xerxes took the bait and ordered his navy into pursuit.",
+        "search": "ancient imperial throne Persian king illustration",
+        "caption": "Xerxes took the bait and advanced."
+      },
+      {
+        "narration": "Over 1,000 colossal Persian warships crammed into the narrow, rocky waters, jamming together helplessly.",
+        "search": "ancient Greek trireme warship illustration",
+        "caption": "Persian ships jammed into rocky, narrow waters."
+      },
+      {
+        "narration": "In 480 BC, agile Greek triremes charged into the chaos, ramming heavy bronze beaks directly into the trapped Persian hulls.",
+        "search": "battle of salamis ancient greek navy combat oil painting",
+        "caption": "Agile Greek triremes rammed the trapped Persian ships"
+      },
+      {
+        "narration": "More than two hundred Persian vessels sank into the strait, forcing King Xerxes to watch his invincible armada crumble from a hilltop throne.",
+        "search": "king xerxes observing battle of salamis classical painting",
+        "caption": "Over 200 ships sank while Xerxes watched in horror"
+      },
+      {
+        "narration": "Sicinnus' fake message shattered Persian dominance, saving ancient Greece and preserving the foundation of Western civilization.",
+        "search": "ancient greece victory relief sculpture engraving",
+        "caption": "A single secret note saved ancient Greece"
+      },
+      {
+        "narration": "A slave's secret message destroyed King Xerxes' invincible fleet.",
+        "search": "battle of salamis oil painting ancient naval battle",
+        "caption": "A slave's secret note destroyed Xerxes' fleet."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T11:18:42.220721+00:00",
+    "updated_at": "2026-11-11T11:20:46.337968+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-11T11:18:59.973406+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "417 chars (cat 266 de vua 55s)",
+        "at": "2026-11-11T11:19:12.932282+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.1s en-US-GuyNeural 5 cau",
+        "at": "2026-11-11T11:19:16.995398+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T11:19:18.082942+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-11T11:19:54.552235+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T11:19:54.678544+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 15203185 bytes",
+        "at": "2026-11-11T11:20:45.894568+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T11:20:46.337950+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33163977/pexels-photo-33163977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31386558/pexels-photo-31386558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36237506/pexels-photo-36237506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162751/pexels-photo-6162751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14680508/pexels-photo-14680508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38003826/pexels-photo-38003826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458160/pexels-photo-39458160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34538939/pexels-photo-34538939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484119/pexels-photo-16484119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18631363/pexels-photo-18631363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37787338/pexels-photo-37787338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8189080/pexels-photo-8189080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "92a86f23da",
     "kind": "short",
     "channel": "Channel2",
