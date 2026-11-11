@@ -1,5 +1,167 @@
 [
   {
+    "id": "91eb67b17d",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do răng bạn có cảm giác nổi sạn khi ăn rau bina?",
+    "idea": {
+      "title": "Lý do răng bạn có cảm giác nổi sạn khi ăn rau bina?",
+      "hook": "Bạn đã bao giờ ăn rau bina hay uống trà chát và cảm thấy răng mình lập tức bị bọc một lớp sạn sần sùi?",
+      "beats": [
+        "Axit oxalic tự nhiên trong rau bina kết hợp trực tiếp với canxi có trong nước bọt.",
+        "Phản ứng này tạo ra các hạt tinh thể canxi oxalat siêu nhỏ, hoàn toàn không tan trong nước.",
+        "Các tinh thể này bám kín lên men răng, tạo ra cảm giác thô ráp tột độ vô cùng khó chịu.",
+        "Thực chất, đây chính là cơ chế tự vệ hóa học giúp thực vật đe dọa các loài động vật ăn lá."
+      ],
+      "keywords": [
+        "spinach macro view",
+        "human teeth closeup",
+        "saliva chemical reaction",
+        "plant microscopic structure",
+        "eating healthy salad"
+      ],
+      "tags": [
+        "#suckhoe",
+        "#khoahoc",
+        "#giaithich",
+        "#meohay",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao ăn rau bina khiến răng lập tức nổi sạn?",
+        "search": "rau bina xanh tuoi hoat hoa 3d",
+        "caption": "Tại sao ăn rau bina khiến răng nổi sạn?"
+      },
+      {
+        "narration": "Chỉ sau vài miếng nhai, một cảm giác thô ráp phủ kín bề mặt răng cực kỳ khó chịu.",
+        "search": "nguoi an xalat rau bina hoat hoa 3d",
+        "caption": "Cảm giác sần sùi bám chặt mặt răng"
+      },
+      {
+        "narration": "Kẻ chủ mưu đằng sau hiện tượng này là axit oxalic, một hợp chất tự nhiên trong lá.",
+        "search": "phuc tap hoa hoc axit trong la cay 3d",
+        "caption": "Axit oxalic có sẵn trong lá rau bina"
+      },
+      {
+        "narration": "Ngay khi bạn nhai, axit oxalic giải phóng và hòa lẫn trực tiếp vào nước bọt.",
+        "search": "nuoc bot mieng va thuc an hoat hoa",
+        "caption": "Axit hòa lẫn với nước bọt trong miệng"
+      },
+      {
+        "narration": "Trong nước bọt lại chứa sẵn lượng lớn ion canxi, châm ngòi cho phản ứng hóa học.",
+        "search": "ion canxi va phan ung hoa hoc 3d",
+        "caption": "Canxi trong nước bọt phản ứng lập tức"
+      },
+      {
+        "narration": "Sự kết hợp này tạo ra vô số tinh thể canxi oxalat siêu nhỏ, hoàn toàn không tan.",
+        "search": "tinh the hoa hoc hien vi 3d render",
+        "caption": "Tinh thể canxi oxalat không tan hình thành"
+      },
+      {
+        "narration": "Hàng triệu hạt tinh thể này bám chặt lên men răng, tạo cảm giác sạn như giấy nhám.",
+        "search": "bemat men rang duoi hien vi hoat hoa 3d",
+        "caption": "Hạt tinh thể bao phủ men răng"
+      },
+      {
+        "narration": "Thực chất, đây là vũ khí hóa học giúp thực vật đe dọa các loài động vật ăn lá.",
+        "search": "la cay bao ve co che tu ve 3d",
+        "caption": "Cơ chế tự vệ hóa học của thực vật"
+      },
+      {
+        "narration": "Dù lớp tinh thể này vô hại với men răng, chúng vẫn khiến lưỡi và nướu bị nhạy cảm tạm thời.",
+        "search": "3d animation quai ham va men rang phat sang",
+        "caption": "Tinh thể oxalat không thể làm hỏng men răng"
+      },
+      {
+        "narration": "Sai lầm lớn nhất là vội đánh răng ngay, vì ma sát từ hạt tinh thể sẽ bào mòn lớp men bảo vệ.",
+        "search": "explainer animation ban chai danh rang va men rang",
+        "caption": "Đánh răng ngay sẽ vô tình làm mòn men răng"
+      },
+      {
+        "narration": "Cách xử lý triệt để vô cùng đơn giản mà không phải ai cũng biết.",
+        "search": "motion graphics mon salad rau bina tuoi",
+        "caption": "Mẹo đơn giản loại bỏ triệt để cảm giác rít"
+      },
+      {
+        "narration": "Hãy vắt vài giọt chanh hoặc chế biến cùng phô mai để canxi tự do trung hòa axit ngay trên đĩa.",
+        "search": "isometric render pho mai va qua chanh mien 3d",
+        "caption": "Vắt chanh hoặc thêm phô mai để trung hòa"
+      },
+      {
+        "narration": "Lớp sạn rít sẽ biến mất hoàn toàn, giúp bạn ăn rau bina ngon lành mà không lo hại răng.",
+        "search": "cartoony 3d nhan vat cuoi tuoi an rau",
+        "caption": "Răng sạch mịn hoàn toàn khi ăn rau bina"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T06:52:53.814361+00:00",
+    "updated_at": "2026-11-11T06:55:55.574887+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-11T06:53:40.407702+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "540 chars (cat 257 de vua 55s)",
+        "at": "2026-11-11T06:54:13.028101+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.5s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-11T06:54:39.583954+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T06:54:40.711927+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-11T06:54:55.026959+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-11T06:54:55.130288+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.6s 27564099 bytes",
+        "at": "2026-11-11T06:55:55.119086+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T06:55:55.574848+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/29151073/12591617_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6939333/6939333-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8348424/8348424-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6366608/6366608-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/12108434/12108434-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/34868658/14775801_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6528838/6528838-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34123257/14469349_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34637502/14680773_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34388803/14568079_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/31560809/13450681_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7583534/7583534-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439758/15439758-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "4395d2dcb7",
     "kind": "short",
     "channel": "Channel2",
