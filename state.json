@@ -1,5 +1,161 @@
 [
   {
+    "id": "c24acbaa0f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Drank Poison for Immortality",
+    "idea": {
+      "title": "The Emperor Who Drank Poison for Immortality",
+      "hook": "Emperor Qin Shi Huang drank liquid mercury every single day to live forever, but his quest for eternal life led to a horrific, unexpected death.",
+      "beats": [
+        "Qin Shi Huang unified China, built the Great Wall, and feared death above all else.",
+        "Alchemists promised him an elixir of immortality made of toxic quicksilver.",
+        "The daily mercury intake slowly destroyed his mind, driving him into insane paranoia.",
+        "He died at age 49 in total secrecy, his rotting corpse hidden in a cart of decaying fish."
+      ],
+      "keywords": [
+        "Qin Shi Huang portrait",
+        "Terracotta Army bust",
+        "ancient china map",
+        "alchemy potion engraving",
+        "chinese emperor painting"
+      ],
+      "tags": [
+        "#History",
+        "#AncientChina",
+        "#HistoryShorts",
+        "#QinShiHuang",
+        "#CrazyHistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "China's first emperor drank poison every day to live forever.",
+        "search": "Qin Shi Huang portrait painting ancient chinese scroll",
+        "caption": "China's first emperor drank poison daily to achieve eternal life."
+      },
+      {
+        "narration": "In 221 BC, Emperor Qin Shi Huang unified China and built the Great Wall, yet harbored an absolute terror of death.",
+        "search": "ancient china map engraving qin dynasty 221 bc",
+        "caption": "In 221 BC, Qin Shi Huang unified China but feared death above all."
+      },
+      {
+        "narration": "Court alchemists convinced the ruler that liquid mercury, known as quicksilver, possessed divine properties capable of granting immortality.",
+        "search": "chinese alchemy potion engraving ancient manuscript",
+        "caption": "Alchemists promised him liquid mercury was an elixir of eternal youth."
+      },
+      {
+        "narration": "He ordered continuous doses of mercury-infused pills and wines, consuming the lethal heavy metal every single day.",
+        "search": "ancient chinese jade cup artifact museum display",
+        "caption": "The emperor ingested toxic mercury concoctions daily for years."
+      },
+      {
+        "narration": "As mercury systematically damaged his nervous system, the emperor descended into violent paranoia, constantly fleeing imaginary assassins.",
+        "search": "chinese emperor painting imperial palace court throne room",
+        "caption": "Mercury poisoning shattered his mind, driving him into severe paranoia."
+      },
+      {
+        "narration": "Desperate for protection in the afterlife, Qin Shi Huang mandated the construction of a giant subterranean tomb defended by clay warriors.",
+        "search": "Terracotta Army bust statue xi an china terracotta warrior close up",
+        "caption": "He commissioned a massive tomb guarded by thousands of clay soldiers."
+      },
+      {
+        "narration": "In 210 BC, while touring his eastern empire, forty-nine-year-old Qin Shi Huang collapsed and suffered a agonizing death.",
+        "search": "ancient chinese royal carriage wooden artifact museum",
+        "caption": "In 210 BC, Qin Shi Huang died of mercury poisoning at age 49."
+      },
+      {
+        "narration": "Fearing immediate chaos, court advisors concealed the monarch's death while the imperial convoy traveled back to the capital.",
+        "search": "ancient chinese scroll painting imperial procession march",
+        "caption": "Advisors hid the emperor's sudden death to prevent instant civil war."
+      },
+      {
+        "narration": "To cover the stench of the emperor's decomposing body during the sweltering summer heat, officials ordered carts of rotting fish to travel beside his imperial carriage.",
+        "search": "ancient chinese imperial carriage painting",
+        "caption": "Rotting fish carts masked the stench of the emperor's body."
+      },
+      {
+        "narration": "Qin Shi Huang was interred within a colossal underground tomb guarded by the Terracotta Army, surrounded by vast simulated rivers of liquid mercury.",
+        "search": "terracotta army clay warriors close up",
+        "caption": "Buried with thousands of clay warriors and rivers of mercury."
+      },
+      {
+        "narration": "The potion promised to grant eternal life poisoned Qin Shi Huang at age forty-nine, destroying his mind and causing his empire to collapse three years later.",
+        "search": "Qin Shi Huang portrait painting",
+        "caption": "The immortal elixir killed the emperor and destroyed his empire."
+      },
+      {
+        "narration": "China's first emperor drank poison daily to live forever.",
+        "search": "Qin Shi Huang portrait painting chinese emperor",
+        "caption": "China's first emperor drank poison to live forever."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T23:37:54.169075+00:00",
+    "updated_at": "2026-11-11T23:42:26.931044+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-11T23:40:34.692566+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "414 chars (cat 209 de vua 55s)",
+        "at": "2026-11-11T23:41:02.353156+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 6 cau",
+        "at": "2026-11-11T23:41:05.383102+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T23:41:06.152253+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-11T23:41:46.645167+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T23:41:46.646442+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 16807144 bytes",
+        "at": "2026-11-11T23:42:26.794991+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T23:42:26.931037+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39041245/pexels-photo-39041245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33494425/pexels-photo-33494425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7213912/pexels-photo-7213912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35379074/pexels-photo-35379074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33971828/pexels-photo-33971828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28844757/pexels-photo-28844757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8971026/pexels-photo-8971026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27514719/pexels-photo-27514719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31572700/pexels-photo-31572700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27505967/pexels-photo-27505967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5512795/pexels-photo-5512795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37555255/pexels-photo-37555255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9dce7b8792",
     "kind": "short",
     "channel": "Channel3",
