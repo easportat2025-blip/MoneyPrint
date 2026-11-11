@@ -1,5 +1,162 @@
 [
   {
+    "id": "e11dd10c8c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Boy's Toy Exposed Rome's Deadliest Secret",
+    "idea": {
+      "title": "How a Boy's Toy Exposed Rome's Deadliest Secret",
+      "hook": "When a young slave boy picked up Emperor Domitian’s private tablet, he thought it was just a drawing slate—unwittingly signing the tyrant’s death warrant.",
+      "beats": [
+        "Emperor Domitian maintained a secret hit list of officials he planned to execute.",
+        "He hid the wooden tablet under his pillow, where a court boy found it while playing.",
+        "The child carried it into the palace, handing it directly to Empress Domitia.",
+        "Seeing her own name at the top of the list, she united the doomed guards to strike first.",
+        "Domitian was assassinated in his bedchamber before sunrise, destroyed by his own secret."
+      ],
+      "keywords": [
+        "Emperor Domitian bust",
+        "Ancient Rome wooden tablet",
+        "Roman Empress portrait",
+        "Palace assassination painting",
+        "Roman empire map"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historyfacts",
+        "#romanemperor",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A boy’s toy doomed Rome’s emperor in 96 AD.",
+        "search": "roman emperor domitian bust statue marble portrait close up",
+        "caption": "A child's toy brought down an emperor in 96 AD."
+      },
+      {
+        "narration": "In 96 AD, Emperor Domitian ruled the Roman Empire through absolute terror and relentless purges.",
+        "search": "ancient roman empire map engraving 1st century",
+        "caption": "Rome ruled by terror under Emperor Domitian in 96 AD."
+      },
+      {
+        "narration": "Deep inside the palace, Domitian maintained a secret wooden tablet listing officials marked for execution.",
+        "search": "ancient roman wooden wax writing tablet artifact museum",
+        "caption": "A secret tablet listed target names for imperial execution."
+      },
+      {
+        "narration": "To protect his deadliest secret, the emperor hid the hit list beneath his bedchamber pillow.",
+        "search": "ancient roman palace bedroom fresco painting detail",
+        "caption": "The fatal hit list was hidden beneath his pillow."
+      },
+      {
+        "narration": "Unaware of its contents, a young court boy stumbled upon the tablet while playing inside the room.",
+        "search": "ancient roman slave boy illustration drawing",
+        "caption": "A playing court boy found the hidden wooden slate."
+      },
+      {
+        "narration": "Mistaking it for a slate to draw on, the child carried it directly to Empress Domitia Longina.",
+        "search": "empress domitia longina marble bust statue portrait",
+        "caption": "The slate was handed directly to Empress Domitia Longina."
+      },
+      {
+        "narration": "Opening the wooden tablet, Empress Domitia discovered her own name written at the top of the execution list.",
+        "search": "ancient roman empress portrait oil painting artwork",
+        "caption": "Domitia saw her own name atop the kill list."
+      },
+      {
+        "narration": "Realizing execution was imminent, Domitia immediately summoned the high-ranking palace guards who shared her fate.",
+        "search": "roman praetorian guard marble relief carving ancient",
+        "caption": "Marked officials united in a secret plot to survive."
+      },
+      {
+        "narration": "On September 18, 96 AD, Empress Domitia and the marked conspirators secretly disarmed Domitian’s bedchamber dagger.",
+        "search": "roman emperor bedroom classical oil painting",
+        "caption": "In September 96 AD, conspirators disarmed the Emperor's secret blade"
+      },
+      {
+        "narration": "Chamberlain Stephanus concealed a knife in his arm bandages, ambushing the forty-four-year-old emperor inside his quarters.",
+        "search": "assassination of emperor domitian history engraving",
+        "caption": "Chamberlain Stephanus struck the tyrant inside his private bedchamber"
+      },
+      {
+        "narration": "Domitian’s death collapsed the Flavian dynasty in 96 AD, triggered entirely by a child playing with a wooden tablet.",
+        "search": "ancient roman wooden wax tablet artifact",
+        "caption": "A child's innocent play ended Rome's most feared reign"
+      },
+      {
+        "narration": "A boy's toy exposed Rome's deadliest imperial secret in 96 AD.",
+        "search": "Emperor Domitian bust statue",
+        "caption": "A child's innocent discovery doomed a Roman emperor."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T00:19:07.870139+00:00",
+    "updated_at": "2026-11-11T00:22:27.064057+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-11T00:19:34.512487+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "423 chars (cat 263 de vua 55s)",
+        "at": "2026-11-11T00:20:18.947430+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.7s en-US-GuyNeural 5 cau",
+        "at": "2026-11-11T00:20:22.822872+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T00:20:23.730649+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-11T00:21:44.830749+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T00:21:44.950139+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.7s 17809271 bytes",
+        "at": "2026-11-11T00:22:26.572256+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T00:22:27.064037+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38317274/pexels-photo-38317274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726182/pexels-photo-23726182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21550406/pexels-photo-21550406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19132522/pexels-photo-19132522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5012329/pexels-photo-5012329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966889/pexels-photo-37966889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35416356/pexels-photo-35416356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14237573/pexels-photo-14237573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581676/pexels-photo-35581676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39544426/pexels-photo-39544426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "f7568dd2fb",
     "kind": "short",
     "channel": "Channel2",
