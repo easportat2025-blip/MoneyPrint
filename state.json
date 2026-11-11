@@ -1,5 +1,160 @@
 [
   {
+    "id": "4395d2dcb7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why an Emperor Stood Barefoot in Snow for 3 Days",
+    "idea": {
+      "title": "Why an Emperor Stood Barefoot in Snow for 3 Days",
+      "hook": "In 1077, Holy Roman Emperor Henry IV walked barefoot through the freezing Alps to beg a Pope for mercy—only to turn around and invade Rome years later.",
+      "beats": [
+        "Pope Gregory VII excommunicated Emperor Henry IV, stripping away his royal authority and inciting rebellion.",
+        "To save his crown, Henry walked across the icy Alps wearing only a coarse wool blanket.",
+        "He knelt outside Canossa Castle in deep snow for three days until the Pope was forced to pardon him.",
+        "Once his throne was secure, Henry raised a massive army, marched into Italy, and drove the Pope into exile."
+      ],
+      "keywords": [
+        "Henry IV Holy Roman Emperor painting",
+        "Pope Gregory VII portrait",
+        "Road to Canossa historical illustration",
+        "Medieval Europe castle engraving",
+        "Vatican historical archive map"
+      ],
+      "tags": [
+        "#history",
+        "#medievalhistory",
+        "#romanempire",
+        "#historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a medieval emperor freeze barefoot in snow?",
+        "search": "Emperor Henry IV at Canossa historical oil painting",
+        "caption": "An Emperor Kneeling in the Snow"
+      },
+      {
+        "narration": "In 1077, this humiliating surrender shook Europe and redefined the boundaries of royal power.",
+        "search": "Medieval Europe political map 11th century manuscript illustration",
+        "caption": "1077: The Ultimate Medieval Power Struggle"
+      },
+      {
+        "narration": "The conflict began when Pope Gregory VII challenged Emperor Henry IV over who could appoint church officials.",
+        "search": "Pope Gregory VII portrait painting historical artwork",
+        "caption": "Pope Gregory VII Challenges Royal Authority"
+      },
+      {
+        "narration": "Furious, Henry declared the Pope deposed, prompting Gregory to excommunicate the monarch and encourage rebellion.",
+        "search": "Pope Gregory VII excommunicating Henry IV medieval engraving",
+        "caption": "Excommunicated and Stripped of Divine Right"
+      },
+      {
+        "narration": "Facing total ruin, twenty-six-year-old Henry made a desperate, perilous winter trek across the freezing Alps.",
+        "search": "Crossing the Alps winter mountains historical painting",
+        "caption": "Crossing the Freezing Alps in Winter"
+      },
+      {
+        "narration": "Stripped of his royal robes and wearing coarse wool, Henry arrived at the gates of Canossa Castle.",
+        "search": "Canossa castle medieval fortress historical illustration",
+        "caption": "Barefoot Penance at Canossa Castle"
+      },
+      {
+        "narration": "For three agonizing days, the ruler stood shivering barefoot in deep snow, begging for mercy.",
+        "search": "Emperor Henry IV barefoot in snow painting",
+        "caption": "Three Days Barefoot in Sub-Zero Snow"
+      },
+      {
+        "narration": "Unable to refuse a penitent Christian under church law, Gregory reluctantly lifted the excommunication.",
+        "search": "Pope Gregory VII granting absolution historical painting",
+        "caption": "The Absolution That Restored a Crown"
+      },
+      {
+        "narration": "With his imperial authority restored in 1077, Henry IV spent the next three years ruthlessly crushing his political rivals across Germany.",
+        "search": "emperor henry iv medieval manuscript illumination",
+        "caption": "Henry crushed his rivals to secure his throne"
+      },
+      {
+        "narration": "In 1081, the emperor marched a massive army across the Alps into Italy, laying siege to Rome and forcing Pope Gregory VII to flee.",
+        "search": "siege of rome 1081 medieval engraving",
+        "caption": "In 1081, Henry marched a massive army into Rome"
+      },
+      {
+        "narration": "Henry installed his own pope and drove Gregory VII into exile until his death in 1085, revealing his three days in the snow as a calculated political trap.",
+        "search": "pope gregory vii exile historical oil painting",
+        "caption": "The emperor's three days in snow was a calculated trap"
+      },
+      {
+        "narration": "Why did an emperor stand barefoot in the freezing snow for three days?",
+        "search": "Henry IV Holy Roman Emperor painting",
+        "caption": "An emperor begs in the freezing snow."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T02:03:01.993966+00:00",
+    "updated_at": "2026-11-11T02:05:48.750967+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-11T02:03:35.738684+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "416 chars (cat 200 de vua 55s)",
+        "at": "2026-11-11T02:03:57.946833+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.7s en-US-GuyNeural 6 cau",
+        "at": "2026-11-11T02:04:02.935263+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T02:04:03.920024+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-11T02:05:03.521908+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T02:05:03.640546+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.7s 18493721 bytes",
+        "at": "2026-11-11T02:05:48.348772+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T02:05:48.750947+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17824770/pexels-photo-17824770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828595/pexels-photo-8828595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35727974/pexels-photo-35727974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35532401/pexels-photo-35532401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31917050/pexels-photo-31917050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38136274/pexels-photo-38136274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40006848/pexels-photo-40006848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33375208/pexels-photo-33375208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15254988/pexels-photo-15254988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30117464/pexels-photo-30117464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33866922/pexels-photo-33866922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36559701/pexels-photo-36559701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e11dd10c8c",
     "kind": "short",
     "channel": "Channel2",
