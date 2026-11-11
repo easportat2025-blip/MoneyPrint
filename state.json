@@ -1,5 +1,161 @@
 [
   {
+    "id": "92a86f23da",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Why a King Rode Off a Cliff in the Dark",
+    "idea": {
+      "title": "Why a King Rode Off a Cliff in the Dark",
+      "hook": "In 1286, King Alexander III of Scotland rode headfirst into a pitch-black storm against his advisors' desperate warnings, triggering a 200-year war.",
+      "beats": [
+        "Desperate to produce a royal male heir, Alexander insisted on reaching his new bride's castle during a ferocious night storm.",
+        "His guides urged him to halt, but he pressed forward along the treacherous coastal cliffs of Fife.",
+        "In the blinding darkness, his horse lost its footing, sending the king tumbling off a 50-foot embankment.",
+        "His sudden death left a 3-year-old female heir, plunging Scotland into centuries of bloody wars with England."
+      ],
+      "keywords": [
+        "Alexander III Scotland portrait",
+        "medieval storm cliff painting",
+        "medieval horse night art",
+        "Scotland historical map",
+        "royal crown engraving"
+      ],
+      "tags": [
+        "history",
+        "scotland",
+        "royalhistory",
+        "documentary",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One midnight ride caused two centuries of bloody war.",
+        "search": "Alexander III Scotland portrait painting",
+        "caption": "One midnight ride caused 200 years of war"
+      },
+      {
+        "narration": "On March 19, 1286, King Alexander III celebrated his birthday in Edinburgh before departing into a violent blizzard.",
+        "search": "Edinburgh castle medieval engraving",
+        "caption": "March 19, 1286: Departure into a storm"
+      },
+      {
+        "narration": "Desperate to secure a royal male heir, the monarch insisted on reaching his new queen in Fife.",
+        "search": "medieval royal crown engraving",
+        "caption": "A desperate quest for a male heir"
+      },
+      {
+        "narration": "Ferrymen and royal guides begged Alexander to halt, warning that the ferocious gale made travel lethal.",
+        "search": "ferocious sea storm medieval painting",
+        "caption": "Advisors begged the king to stay"
+      },
+      {
+        "narration": "Ignoring every warning, the king pressed forward along the pitch-black coastal paths of Kinghorn.",
+        "search": "medieval knight horse night painting",
+        "caption": "Riding blind along treacherous coastal cliffs"
+      },
+      {
+        "narration": "In the blinding storm, Alexander became separated from his escort near the rocky shores of the Firth of Forth.",
+        "search": "Scotland historical map 13th century engraving",
+        "caption": "Separated from his guides in darkness"
+      },
+      {
+        "narration": "His horse lost its footing on the muddy slope, sending the king tumbling off a fifty-foot embankment.",
+        "search": "coastal cliff oil painting",
+        "caption": "A fatal plunge down the embankment"
+      },
+      {
+        "narration": "Found dead at dawn, Alexander left only a three-year-old heir, triggering the catastrophic Wars of Scottish Independence.",
+        "search": "Margaret Maid of Norway manuscript illustration",
+        "caption": "A dead king and an empty throne"
+      },
+      {
+        "narration": "In 1290, Alexander's infant heir Margaret died before reaching the shore, leaving the Scottish crown completely vacant.",
+        "search": "medieval scotland throne royal crown engraving",
+        "caption": "The last heir died in 1290, leaving a vacant throne."
+      },
+      {
+        "narration": "King Edward I of England immediately invaded, igniting two centuries of bloody conflict known as the Wars of Scottish Independence.",
+        "search": "king edward I england manuscript painting",
+        "caption": "Edward I invaded, triggering 200 years of war."
+      },
+      {
+        "narration": "A single reckless decision to ride through a storm in 1286 ended Scotland's golden age and altered British history forever.",
+        "search": "king alexander iii scotland oil painting",
+        "caption": "One midnight ride destroyed a kingdom's golden age."
+      },
+      {
+        "narration": "One night in 1286 destroyed Scotland for two centuries.",
+        "search": "medieval crown of scotland engraving",
+        "caption": "One night in 1286 destroyed Scotland for 200 years"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-11T07:39:53.396536+00:00",
+    "updated_at": "2026-11-11T07:42:22.841208+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-11T07:40:22.046980+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "407 chars (cat 190 de vua 55s)",
+        "at": "2026-11-11T07:40:50.585648+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-11T07:40:53.876084+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-11T07:40:54.781057+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-11T07:41:40.238097+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-11T07:41:40.359287+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.9s 17671034 bytes",
+        "at": "2026-11-11T07:42:22.441822+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-11T07:42:22.841186+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40181437/pexels-photo-40181437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36943976/pexels-photo-36943976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40007206/pexels-photo-40007206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9076557/pexels-photo-9076557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28838133/pexels-photo-28838133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40535063/pexels-photo-40535063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38333069/pexels-photo-38333069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29753419/pexels-photo-29753419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8674795/pexels-photo-8674795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18192507/pexels-photo-18192507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13834912/pexels-photo-13834912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6691525/pexels-photo-6691525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "91eb67b17d",
     "kind": "short",
     "channel": "Channel3",
