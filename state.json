@@ -1,5 +1,162 @@
 [
   {
+    "id": "037b63d9e7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Princess Olga’s Revenge Destroyed an Entire Tribe",
+    "idea": {
+      "title": "Princess Olga’s Revenge Destroyed an Entire Tribe",
+      "hook": "When the Drevlians murdered her husband, Princess Olga pretended to accept their marriage proposal—only to bury their ambassadors alive.",
+      "beats": [
+        "In 945 AD, the Drevlian tribe killed Prince Igor and sent emissaries to marry his widow, Olga.",
+        "Olga welcomed the envoys, convinced them to be carried in a boat, and dumped them into a trench to be buried alive.",
+        "She then lured the tribe's noblemen into a bathhouse and burned them inside.",
+        "At a feast in her husband's honor, her troops slaughtered 5,000 intoxicated Drevlians.",
+        "She finally burned their capital using pigeons with lit sulphur attached to their feet, wiping the tribe from history."
+      ],
+      "keywords": [
+        "princess olga portrait",
+        "medieval kievan rus map",
+        "ancient city burning engraving",
+        "slavic warriors oil painting",
+        "medieval widow portrait"
+      ],
+      "tags": [
+        "history",
+        "historyfacts",
+        "medievalhistory",
+        "kievanrus",
+        "storytime"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One widow erased an entire ancient tribe from history.",
+        "search": "princess olga kievan rus portrait painting",
+        "caption": "One widow erased an entire tribe from history."
+      },
+      {
+        "narration": "In 945 AD, the Drevlian tribe murdered Prince Igor of Kievan Rus and demanded his throne.",
+        "search": "slavic warriors medieval battlefield oil painting",
+        "caption": "In 945 AD, Prince Igor of Kievan Rus was murdered."
+      },
+      {
+        "narration": "To solidify power, the Drevlians dispatched twenty emissaries to force Princess Olga into marriage.",
+        "search": "medieval kievan rus map engraving",
+        "caption": "The Drevlians demanded Princess Olga marry their prince."
+      },
+      {
+        "narration": "Olga feigned honor, insisting the envoys be carried to her court inside their own wooden boat.",
+        "search": "medieval slavic wooden boat illustration manuscript",
+        "caption": "Olga feigned acceptance and offered an unusual honor."
+      },
+      {
+        "narration": "Instead of a royal welcome, her guards dropped the vessel into a trench and buried them alive.",
+        "search": "ancient execution burial engraving black and white",
+        "caption": "The envoys were dumped into a trench and buried alive."
+      },
+      {
+        "narration": "Unaware of their fate, the Drevlian chieftain sent his highest-ranking noblemen to negotiate the wedding terms.",
+        "search": "slavic noblemen medieval manuscript illumination",
+        "caption": "A second group of noblemen was lured into Kiev."
+      },
+      {
+        "narration": "Olga locked the nobles inside a bathhouse and burned it to the ground.",
+        "search": "medieval bathhouse burning woodcut engraving",
+        "caption": "Olga trapped and burned the noblemen inside a bathhouse."
+      },
+      {
+        "narration": "She then marched into Drevlian territory under the guise of a funeral feast for her slain husband.",
+        "search": "medieval banquet feast oil painting historical",
+        "caption": "Olga invited 5,000 Drevlians to a funeral feast."
+      },
+      {
+        "narration": "After intoxicating the Drevlians during the memorial feast in 945 AD, Olga ordered her soldiers to slaughter five thousand unarmed warriors.",
+        "search": "medieval battle slavic warriors oil painting",
+        "caption": "5,000 Drevlians slaughtered at the feast"
+      },
+      {
+        "narration": "In 946 AD, she demanded three birds from every house in their capital, releasing them with burning sulfur bound to their feet.",
+        "search": "ancient city burning engraving",
+        "caption": "Flaming birds destroyed the Drevlian capital"
+      },
+      {
+        "narration": "The resulting inferno erased the Drevlians from history, consolidating Princess Olga's absolute rule over Kievan Rus.",
+        "search": "princess olga kievan rus portrait painting annihilated",
+        "caption": "Olga annihilated her enemies and secured Rus"
+      },
+      {
+        "narration": "How did one grieving widow obliterate an entire empire?",
+        "search": "princess olga portrait oil painting",
+        "caption": "One widow erased an empire from history"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T08:07:23.095263+00:00",
+    "updated_at": "2026-11-12T08:12:30.958038+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-12T08:08:47.867475+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "344 chars (cat 300 de vua 55s)",
+        "at": "2026-11-12T08:09:01.662399+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.2s en-US-GuyNeural 4 cau",
+        "at": "2026-11-12T08:09:08.307449+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T08:09:09.024150+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-12T08:11:49.053533+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T08:11:49.055560+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.2s 11120000 bytes",
+        "at": "2026-11-12T08:12:30.884511+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T08:12:30.958030+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37979129/pexels-photo-37979129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268685/pexels-photo-9268685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22775407/pexels-photo-22775407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7931169/pexels-photo-7931169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11803918/pexels-photo-11803918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33418311/pexels-photo-33418311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7148625/pexels-photo-7148625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8179153/pexels-photo-8179153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26178753/pexels-photo-26178753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39592171/pexels-photo-39592171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6778733/pexels-photo-6778733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320566/pexels-photo-15320566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0125c96dcf",
     "kind": "short",
     "channel": "Channel3",
