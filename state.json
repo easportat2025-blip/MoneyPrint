@@ -1,5 +1,600 @@
 [
   {
+    "id": "bd64478a22",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Mutilated Emperor Who Came Back For Blood: Justinian II",
+    "idea": {
+      "title": "The Mutilated Emperor Who Came Back For Blood: Justinian II",
+      "hook": "In 695 AD, Emperor Justinian II had his nose cut off to permanently banish him from power, but he returned with a solid gold nose and slaughtered every traitor in Constantinople.",
+      "beats": [
+        "Introduction: The iron rule of young Justinian II and the growing conspiracy among Constantinople's political elite.",
+        "The Coup of 695 AD: General Leontios overthrows Justinian and subjects him to rhinotomy—slitting his nose to visually disqualify him from the throne forever.",
+        "Exile in Crimea: Stripped of his birthright, Justinian is banished to the remote outpost of Cherson, where he secretly plots his return.",
+        "The Assassination Plot: Word reaches Justinian that assassins are coming; he kills the conspirators with his own hands and escapes into the night.",
+        "The Khazar Alliance: Fleeing across the Black Sea, Justinian wins the favor of the Khazar Khagan and marries the ruler's sister.",
+        "Double Betrayal: When the Khazars attempt to sell him back to Constantinople, Justinian escapes again across the stormy ocean in a small boat.",
+        "The Bulgarian Army: Justinian strikes a deal with Khan Tervel of Bulgaria, trading royal titles and gold for a massive army of 15,000 horsemen.",
+        "Besieging Constantinople: Arriving at the formidable Theodosian Walls in 705 AD, Justinian finds the city guarded by a new usurper, Tiberios III.",
+        "The Aqueduct Infiltration: Unable to breach the giant walls, Justinian and a small squad crawl through a filthy, abandoned water conduit under the fortress.",
+        "Seizing the Palace: Striking from within, Justinian opens the gates, catches the city off-guard, and reclaims the throne in a bloodless night coup.",
+        "The Reign of the Golden Nose: Wearing a crafted solid gold replacement nose, Justinian embarks on a brutal campaign of public revenge.",
+        "Execution in the Hippodrome: Tiberios and Leontios are dragged before the crowds, used as human footstools by Justinian, and publicly beheaded.",
+        "Legacy of Blood: How Justinian II's bloody second reign shattered Byzantine stability and immortalized him as one of history's most vengeful rulers."
+      ],
+      "keywords": [
+        "Justinian II",
+        "Byzantine Empire",
+        "Roman Empire history",
+        "Rhinotomy",
+        "Constantinople history",
+        "History documentary",
+        "Emperor revenge",
+        "Bulgarian Empire",
+        "Byzantine Emperor",
+        "Ancient History"
+      ],
+      "tags": [
+        "justinian ii",
+        "byzantine empire",
+        "ancient history documentary",
+        "mutilated emperor",
+        "roman history",
+        "golden nose emperor",
+        "historical revenge",
+        "constantinople",
+        "untold history",
+        "byzantine emperors"
+      ],
+      "kind": "long",
+      "thumbnail_text": "MUTILATED EMPEROR RETURNS"
+    },
+    "scenes": [
+      {
+        "narration": "Can a mutilated emperor without a nose reclaim Rome's throne?",
+        "search": "Justinian II gold coin close up portrait byzantine emperor",
+        "caption": "Can a mutilated emperor reclaim Rome's throne?"
+      },
+      {
+        "narration": "In 695 AD, General Leontios overthrew the tyrant Justinian II in Constantinople and cut off his nose to disqualify him forever from ruling.",
+        "search": "Constantinople Theodosian walls historical map engraving",
+        "caption": "In 695 AD, Emperor Justinian II was overthrown and mutilated."
+      },
+      {
+        "narration": "Exiled to Crimea, Justinian killed two assassins sent by Constantinople with his bare hands before fleeing across the Black Sea.",
+        "search": "Black Sea Crimean coast old map engraving",
+        "caption": "Justinian survived assassination and fled across the Black Sea."
+      },
+      {
+        "narration": "After marrying the Khazar Khagan's sister, Justinian survived a second betrayal by enduring a violent sea storm in a small boat.",
+        "search": "Medieval ship in storm illustration manuscript",
+        "caption": "Surviving sea storms and Khazar betrayals to reach allies."
+      },
+      {
+        "narration": "In 705 AD, Khan Tervel of the Bulgarian Empire granted Justinian fifteen thousand horsemen in exchange for royal titles and gold tribute.",
+        "search": "Khan Tervel of Bulgaria medieval manuscript painting",
+        "caption": "Khan Tervel provided fifteen thousand Bulgarian horsemen."
+      },
+      {
+        "narration": "Confronting Constantinople's massive Theodosian Walls, Justinian led a daring squad through a filthy abandoned aqueduct beneath the fortress.",
+        "search": "Roman aqueduct ruins historical engraving",
+        "caption": "Infiltrating Constantinople through an abandoned underground aqueduct."
+      },
+      {
+        "narration": "Emerging inside the imperial palace, Justinian seized the city overnight and fitted himself with a replacement nose of solid gold.",
+        "search": "Byzantine emperor Justinian II gold solidus coin close up",
+        "caption": "Justinian reclaimed the throne wearing a solid gold nose."
+      },
+      {
+        "narration": "Before thousands in the Hippodrome, Emperor Justinian II used usurpers Leontios and Tiberios III as human footstools before their execution in 705 AD.",
+        "search": "Hippodrome of Constantinople historical reconstruction illustration",
+        "caption": "Usurpers Leontios and Tiberios III publicly executed in 705 AD."
+      },
+      {
+        "narration": "Following his public triumph in 705 AD, Justinian II launched a systematic purge across Constantinople, executing hundreds of senators and military commanders suspected of treason.",
+        "search": "Byzantine nobles illuminated manuscript 8th century",
+        "caption": "Justinian II purges the Byzantine political elite in 705 AD"
+      },
+      {
+        "narration": "Despite owing his restoration to Khan Tervel, Justinian marched an army into Bulgaria in 708 AD to reclaim ceded territory, resulting in a disastrous defeat at Anchialus.",
+        "search": "Battle of Anchialus 708 AD map engraving",
+        "caption": "Justinian II turns on his former ally Khan Tervel in 708 AD"
+      },
+      {
+        "narration": "Seeking retribution against every region that had opposed his first reign, Justinian dispatched a punitive fleet to sack Ravenna in 709 AD, blinding its archbishop and executing its leaders.",
+        "search": "Ravenna mosaic 6th century Byzantine artwork",
+        "caption": "Imperial forces sack Ravenna under imperial orders in 709 AD"
+      },
+      {
+        "narration": "In 711 AD, Justinian ordered a massive naval expedition to Crimea with strict commands to destroy Cherson, the city where he had been imprisoned in exile.",
+        "search": "Chersonesus ancient ruins Crimea photograph",
+        "caption": "A penal expedition targets Cherson for total destruction in 711 AD"
+      },
+      {
+        "narration": "Horrified by the brutal atrocities committed against civilians, the imperial fleet in Cherson mutinied and proclaimed the exiled general Philippikos Bardanes as emperor.",
+        "search": "Philippikos Bardanes Byzantine coin face",
+        "caption": "Exiled general Philippikos Bardanes is proclaimed emperor in 711 AD"
+      },
+      {
+        "narration": "As Philippikos marched on Constantinople in late 711 AD, Justinian II was abandoned by his troops and captured outside the capital city.",
+        "search": "Justinian II coin portrait gold solidus",
+        "caption": "Rebel forces capture Justinian II outside Constantinople in 711 AD"
+      },
+      {
+        "narration": "On December 11, 711 AD, general Elias beheaded Justinian II, while imperial officers executed his six-year-old son Tiberios, ending the Heraclian dynasty.",
+        "search": "Byzantine emperor execution manuscript miniature",
+        "caption": "Justinian II and his young heir executed in December 711 AD"
+      },
+      {
+        "narration": "Justinian II's violent second reign shattered imperial stability, plunging the Byzantine Empire into the devastating period known as the Twenty Years' Anarchy.",
+        "search": "Theodosian walls Constantinople old engraving",
+        "caption": "The fall of Justinian II triggers the Twenty Years' Anarchy"
+      },
+      {
+        "narration": "Can a mutilated ruler reclaim his empire with gold?",
+        "search": "Justinian II Byzantine coin portrait engraving",
+        "caption": "A disfigured emperor sought absolute vengeance against his empire."
+      },
+      {
+        "narration": "In 695 AD, political rivals in Constantinople subjected twenty-seven-year-old Emperor Justinian II to rhinotomy, cutting off his nose to disqualify him from ruling.",
+        "search": "Byzantine emperor Leontios coin portrait engraving",
+        "caption": "In 695 AD, conspirators severed Emperor Justinian II's nose."
+      },
+      {
+        "narration": "Exiled to the remote Crimean fortress of Cherson, the disfigured former emperor secretly spent years plotting his return while evading imperial assassins.",
+        "search": "ancient Chersonesus Crimea fortress map engraving",
+        "caption": "Banishment to Crimea failed to break his imperial resolve."
+      },
+      {
+        "narration": "After surviving an ambush by killing two imperial agents in 703 AD, Justinian fled across the Black Sea to forge an alliance with Khan Tervel of Bulgaria.",
+        "search": "Khan Tervel Bulgarian cavalry manuscript painting",
+        "caption": "Justinian secured fifteen thousand Bulgarian horsemen for his march."
+      },
+      {
+        "narration": "In 705 AD, Justinian arrived outside Constantinople's impenetrable Theodosian Walls, where the usurper Tiberios III mocked his disfigured face from the ramparts.",
+        "search": "Theodosian Walls Constantinople fortress engraving",
+        "caption": "The impenetrable walls of Constantinople blocked his path."
+      },
+      {
+        "narration": "Under cover of darkness, Justinian led a small detachment through an unmapped, abandoned sewage aqueduct directly beneath the city fortifications.",
+        "search": "ancient Byzantine aqueduct tunnel stone engraving",
+        "caption": "Infiltrating the capital through a forgotten underground aqueduct."
+      },
+      {
+        "narration": "Reclaiming the palace without a battle, the emperor donned a crafted solid gold nose and ordered the immediate arrest of every noble who betrayed him.",
+        "search": "Justinian II gold nose Byzantine illustration",
+        "caption": "Justinian reclaimed the throne wearing a solid gold nose."
+      },
+      {
+        "narration": "At the Hippodrome in 705 AD, Justinian used his fallen rivals Leontios and Tiberios III as human footstools before having them publicly executed.",
+        "search": "Hippodrome Constantinople public execution engraving",
+        "caption": "Public executions in the Hippodrome sealed his bloodthirsty legacy."
+      },
+      {
+        "narration": "Following his 705 AD restoration, Justinian II launched an unprecedented purge across Constantinople, blinding Patriarch Kallinikos I and executing dozens of elite senators.",
+        "search": "Byzantine emperor Justinian II coin face close up",
+        "caption": "Justinian II purged Constantinople's political and religious elite in 705 AD."
+      },
+      {
+        "narration": "In 708 AD, despite Khan Tervel's crucial support in retaking the throne, Justinian marched his army into Bulgaria, only to be crushed at the Battle of Anchialus.",
+        "search": "Battle of Anchialus 708 AD medieval manuscript illumination",
+        "caption": "Justinian attacked his former ally Khan Tervel at Anchialus in 708 AD."
+      },
+      {
+        "narration": "Driven by personal vengeance, Justinian dispatched a massive naval fleet to Crimean Cherson in 710 AD with orders to execute the city's entire leadership.",
+        "search": "Crimean peninsula ancient map engraving",
+        "caption": "In 710 AD, Justinian sent a punitive fleet to raze Crimean Cherson."
+      },
+      {
+        "narration": "When a devastating storm destroyed the returning imperial fleet, the surviving troops in Cherson revolted and proclaimed General Philippikos Bardanes as emperor.",
+        "search": "Byzantine warship storm Black Sea oil painting",
+        "caption": "A Black Sea storm destroyed Justinian's fleet, sparking army rebellion."
+      },
+      {
+        "narration": "Backed by Khazar forces, Philippikos sailed directly for Constantinople in late 711 AD while Justinian was away gathering loyalist troops in Armenia.",
+        "search": "Philippikos Bardanes Byzantine coin portrait",
+        "caption": "Rebel Emperor Philippikos Bardanes marched on Constantinople in 711 AD."
+      },
+      {
+        "narration": "Abandoned by his remaining forces outside the capital, Justinian II was captured near Damatrys in December 711 AD by rebel officer Elias.",
+        "search": "Byzantine soldier arresting emperor historical manuscript illumination",
+        "caption": "Captured by rebels in December 711 AD near Damatrys."
+      },
+      {
+        "narration": "Justinian II was beheaded on the spot, and his six-year-old son Tiberios was dragged from sanctuary at the Church of St. Mary and executed, ending the Heraclian dynasty.",
+        "search": "Heraclian dynasty genealogy chart manuscript engraving",
+        "caption": "Justinian II and his son were executed in 711 AD, ending his dynasty."
+      },
+      {
+        "narration": "Justinian II's blood-soaked decade of vengeance destabilized the Byzantine Empire for generations, leaving behind the gruesome legacy of the golden-nosed emperor who tore his realm apart for revenge.",
+        "search": "Walls of Constantinople Theodosian walls historical oil painting",
+        "caption": "The golden-nosed emperor left a legacy of unprecedented imperial bloodshed."
+      },
+      {
+        "narration": "Can a mutilated emperor reclaim a lost empire? In 695 AD, Byzantine elites mutilated Justinian II to destroy his birthright.",
+        "search": "justinian II byzantine gold coin portrait",
+        "caption": "Can a mutilated emperor reclaim his lost empire?"
+      },
+      {
+        "narration": "General Leontios subjected Justinian to rhinotomy—cutting off his nose to visually disqualify him from ever holding power again.",
+        "search": "byzantine manuscript illumination medieval executioner",
+        "caption": "General Leontios ordered the public rhinotomy of Justinian II."
+      },
+      {
+        "narration": "Banished to Crimea's remote outpost of Cherson, the disfigured ex-ruler refused exile and forged a secret pact with the Khazar Khagan.",
+        "search": "chersonesus crimea ancient ruins old engraving",
+        "caption": "Exiled to Crimea, Justinian II forged a Khazar alliance."
+      },
+      {
+        "narration": "When assassins targeted him in 704 AD, Justinian strangled the killers himself and escaped across the stormy Black Sea in a small boat.",
+        "search": "black sea storm vintage oil painting",
+        "caption": "Justinian strangled assassins before escaping across the storm-tossed sea."
+      },
+      {
+        "narration": "In 705 AD, Justinian offered gold and royal titles to Khan Tervel of Bulgaria in exchange for 15,000 horsemen to march on Constantinople.",
+        "search": "theodosian walls constantinople 19th century engraving",
+        "caption": "Khan Tervel supplied 15,000 Bulgarian cavalry for the siege."
+      },
+      {
+        "narration": "Blocked by the massive Theodosian Walls under usurper Tiberios III, Justinian crawled through a filthy, abandoned water aqueduct to enter the city.",
+        "search": "aqueduct of valens constantinople historical sketch",
+        "caption": "Justinian infiltrated Constantinople through an abandoned subterranean aqueduct."
+      },
+      {
+        "narration": "Reclaiming the throne with a solid gold nose, Justinian used Leontios and Tiberios III as human footstools in the Hippodrome before beheading them.",
+        "search": "hippodrome constantinople byzantine crowd old engraving",
+        "caption": "Justinian used captured usurpers as footstools before public execution."
+      },
+      {
+        "narration": "Justinian II reigned until his assassination in 711 AD, leaving a gruesome legacy as history's most vengeful emperor.",
+        "search": "byzantine emperor marble bust statue photo",
+        "caption": "Justinian II remains history's most vengeful golden-nosed emperor."
+      },
+      {
+        "narration": "A mutilated emperor returned with a gold nose for blood.",
+        "search": "justinian ii byzantine emperor portrait painting",
+        "caption": "A mutilated emperor returned with a gold nose for vengeance."
+      },
+      {
+        "narration": "In 695 AD, growing resentment among Constantinople's aristocracy led General Leontios to stage a violent coup against young Justinian II.",
+        "search": "byzantine empire constantinople 7th century map engraving",
+        "caption": "In 695 AD, General Leontios staged a coup in Constantinople."
+      },
+      {
+        "narration": "To permanently disqualify him from imperial power, rebels cut off Justinian's nose before exiling him to remote Crimea.",
+        "search": "rhinotomy punishment middle ages manuscript illustration",
+        "caption": "Rebels cut off Justinian's nose and exiled him to Crimea."
+      },
+      {
+        "narration": "Learning that imperial assassins were dispatched to murder him in 704 AD, Justinian killed the conspirators himself and fled across the sea.",
+        "search": "black sea storm wooden ship oil painting",
+        "caption": "Justinian killed his assassins and fled across the Black Sea."
+      },
+      {
+        "narration": "After forging an alliance with the Khazar Khagan, Justinian survived a second betrayal by sailing through a violent tempest in a small boat.",
+        "search": "khazar warrior medieval manuscript illustration",
+        "caption": "Surviving double betrayal, Justinian braved a deadly ocean storm."
+      },
+      {
+        "narration": "In 705 AD, Justinian secured fifteen thousand horsemen from Khan Tervel of Bulgaria in exchange for royal titles and gold.",
+        "search": "bulgarian cavalry medieval manuscript illustration",
+        "caption": "Khan Tervel provided 15,000 horsemen to invade Constantinople."
+      },
+      {
+        "narration": "Blocked by the impenetrable Theodosian Walls, Justinian led a small team through a filthy, abandoned water aqueduct directly into the city.",
+        "search": "theodosian walls constantinople aqueduct engraving",
+        "caption": "Justinian crawled through an abandoned aqueduct into the city."
+      },
+      {
+        "narration": "Fitted with a solid gold nose, Justinian reclaimed his throne, used his usurpers as footstools, and ruled until his assassination in 711 AD.",
+        "search": "justinian ii gold coin face close up",
+        "caption": "Justinian wore a golden nose and slaughtered his enemies."
+      },
+      {
+        "narration": "In 705 AD, Emperor Justinian II stood before the formidable Theodosian Walls of Constantinople, demanding his stolen throne back from the usurper Tiberios III.",
+        "search": "medieval constantinople theodosian walls oil painting",
+        "caption": "Standing before the impenetrable walls of Constantinople."
+      },
+      {
+        "narration": "Unable to breach the massive stone fortifications by force, Justinian and a small squad crawled through a filthy, abandoned water conduit running beneath the city.",
+        "search": "dark medieval underground tunnel stone masonry photograph",
+        "caption": "Crawling through a filthy subterranean water conduit."
+      },
+      {
+        "narration": "Emerging from the shadows within the capital, Justinian's men seized the imperial palace by surprise, opening the gates for his Khazar and Bulgarian allies in a bloodless night coup.",
+        "search": "byzantine palace throne room gold mosaic art",
+        "caption": "Seizing the imperial palace in a midnight coup."
+      },
+      {
+        "narration": "Fitted with a crafted solid gold replacement nose to hide his brutal disfigurement, the returning emperor immediately prepared for a reign of merciless vengeance.",
+        "search": "byzantine emperor gold coin profile portrait",
+        "caption": "The return of the golden-nosed emperor."
+      },
+      {
+        "narration": "In 705 AD, the deposed usurpers Leontios and Tiberios III were dragged in chains before the roaring crowds inside the Hippodrome of Constantinople.",
+        "search": "constantinople hippodrome ancient ruins engraving",
+        "caption": "Usurpers dragged in chains to the Hippodrome."
+      },
+      {
+        "narration": "Justinian placed his feet upon the necks of his captured rivals as the stadium cheered, before ordering their immediate public execution.",
+        "search": "medieval execution public square oil painting",
+        "caption": "Public execution of the defeated usurpers."
+      },
+      {
+        "narration": "The emperor's unquenchable bloodlust sparked a wave of terror across the Byzantine Empire, purging political opponents and executing whole cities suspected of disloyalty.",
+        "search": "medieval torture chamber dark historical illustration",
+        "caption": "A reign of terror sweeps across the empire."
+      },
+      {
+        "narration": "Justinian II's violent second reign shattered Byzantine stability, cementing his legacy in 711 AD as one of history's most vengeful and feared monarchs.",
+        "search": "byzantine emperor statue marble bust antiquity",
+        "caption": "Legacy of the most vengeful Byzantine ruler."
+      },
+      {
+        "narration": "In 711 AD, the terror of Justinian's golden nose finally united the Byzantine elite against their paranoid monarch.",
+        "search": "Byzantine emperor 8th century manuscript illustration",
+        "caption": "The Empire turns against Justinian II once more"
+      },
+      {
+        "narration": "General Philippikos Bardanes launched a rebellion from the Crimea, cutting off the emperor's supply lines to Constantinople.",
+        "search": "medieval Byzantine fortress stone wall engraving",
+        "caption": "A new rebellion brews in the Crimea"
+      },
+      {
+        "narration": "As the rebel fleet closed in on the capital, Justinian found himself trapped in the Blachernae Palace with few loyal guards left.",
+        "search": "ancient Constantinople palace ruins oil painting",
+        "caption": "Trapped inside the imperial palace in 711 AD"
+      },
+      {
+        "narration": "Deserted by his terrified army, the emperor was captured outside the city walls before he could flee across the sea.",
+        "search": "medieval soldiers capturing a king historical painting",
+        "caption": "Justinian captured outside Constantinople's walls"
+      },
+      {
+        "narration": "On the orders of Philippikos Bardanes, Justinian was beheaded on the roadside in December of 711 AD.",
+        "search": "medieval executioner sword oil painting",
+        "caption": "The final execution of Justinian II"
+      },
+      {
+        "narration": "The usurper then hunted down Justinian's six-year-old son Tiberios, ending the Heraclian dynasty in a church sanctuary.",
+        "search": "ancient church interior altar medieval art",
+        "caption": "The slaughter of the Heraclian dynasty heirs"
+      },
+      {
+        "narration": "The severed golden nose and the mutilated corpse became dark symbols of absolute vengeance and imperial instability.",
+        "search": "cracked ancient marble bust sculpture detail",
+        "caption": "The tragic end of a mutilated emperor"
+      },
+      {
+        "narration": "Justinian II's bloody saga forever proved that supreme power bought with extreme violence always ends in ruin.",
+        "search": "dark medieval battlefield oil painting",
+        "caption": "The bloody legacy of Justinian II's reign"
+      },
+      {
+        "narration": "In 695 AD, Byzantine Emperor Justinian II faced a brutal punishment when general Leontios ordered a rhinotomy, slicing off the emperor's nose to permanently disqualify him from the throne.",
+        "search": "Byzantine emperor rhinotomy medieval manuscript illustration",
+        "caption": "A brutal mutilation meant to banish an emperor forever."
+      },
+      {
+        "narration": "Banished to the remote Black Sea outpost of Cherson, the deposed ruler secretly plotted his revenge while awaiting executioners sent by the new regime.",
+        "search": "medieval Crimean fortress stone ruins aerial view",
+        "caption": "Exiled to the freezing edge of the civilized world."
+      },
+      {
+        "narration": "When assassins finally arrived in 705 AD, Justinian personally overpowered the conspirators before escaping across the treacherous sea into the arms of the Khazars.",
+        "search": "stormy black sea dark waves dramatic oil painting",
+        "caption": "Surviving assassination to launch an impossible escape."
+      },
+      {
+        "narration": "Trading alliances and royal marriage for survival, Justinian fled double-crossing Khazar guards in a tiny boat through a violent tempest.",
+        "search": "ancient wooden boat sailing stormy ocean historical painting",
+        "caption": "Fleeing double betrayal across the treacherous waves."
+      },
+      {
+        "narration": "Striking a desperate bargain with Khan Tervel of Bulgaria, Justinian secured a massive cavalry of 15,000 fierce horsemen to march on Constantinople.",
+        "search": "medieval bulgarian horsemen cavalry battle oil painting",
+        "caption": "An army of fifteen thousand horsemen bought with gold."
+      },
+      {
+        "narration": "Arriving at the towering Theodosian Walls in 705 AD, the exiled emperor found the ancient fortifications completely impenetrable to standard siege tactics.",
+        "search": "theodosian walls constantinople ancient stone fortification ruins",
+        "caption": "The impenetrable stone walls guarded by a new usurper."
+      },
+      {
+        "narration": "Refusing to retreat, Justinian and a small squad crawled through a filthy, abandoned water conduit running directly underneath the mighty imperial fortress.",
+        "search": "dark medieval stone aqueduct tunnel interior torchlight",
+        "caption": "Infiltrating the guarded city through a filthy water conduit."
+      },
+      {
+        "narration": "Emerging within the palace in a silent night coup, Justinian seized control of the capital without a single drop of his own army's blood being spilled.",
+        "search": "byzantine palace throne room golden mosaics interior art",
+        "caption": "Reclaiming the imperial throne from the inside out."
+      },
+      {
+        "narration": "In 705 AD, wearing a freshly crafted solid gold replacement nose, Justinian reclaimed the imperial throne.",
+        "search": "Justinian II gold solidus coin close up",
+        "caption": "The Emperor returns with a golden nose."
+      },
+      {
+        "narration": "Vengeance was swift as rival emperors Tiberios III and Leontios were dragged in chains to the Hippodrome.",
+        "search": "Byzantine Hippodrome chariot race ancient illustration",
+        "caption": "Public humiliation in the Constantinople Hippodrome."
+      },
+      {
+        "narration": "Placing his feet upon the necks of the captive usurpers, Justinian watched the executioner's blade fall.",
+        "search": "medieval executioner sword execution painting",
+        "caption": "Brutal public execution of the usurpers."
+      },
+      {
+        "narration": "Every political opponent who had mocked his mutilation in 695 AD faced systematic extermination.",
+        "search": "dark ages medieval torture chamber engraving",
+        "caption": "Systematic purge of Constantinople's political elite."
+      },
+      {
+        "narration": "Yet this reign of terror fractured the fragile stability of the Byzantine Empire beyond repair.",
+        "search": "burning ancient roman city siege artwork",
+        "caption": "Fractured stability of the Byzantine Empire."
+      },
+      {
+        "narration": "By 711 AD, a fresh rebellion in Crimea finally ended the bloody dynasty of the Rhinometritos once and for all.",
+        "search": "byzantine soldier armor spear manuscript illumination",
+        "caption": "The final rebellion against Justinian II."
+      },
+      {
+        "narration": "Justinian's severed nose could not stop destiny, proving that political vengeance knows no bounds.",
+        "search": "ancient roman emperor marble bust profile view",
+        "caption": "Vengeance knows no bounds in ancient empires."
+      },
+      {
+        "narration": "The mutilated emperor had clawed his way back from the abyss, bathing Constantinople in blood and gold.",
+        "search": "constantinople walls siege medieval oil painting",
+        "caption": "The legacy of history's most vengeful ruler."
+      },
+      {
+        "narration": "In 695 AD, a mutilated emperor reclaimed his throne with a gold nose. Justinian II survived facial disfigurement to execute every conspirator who betrayed him in Constantinople.",
+        "search": "Justinian II Byzantine gold coin museum photograph",
+        "caption": "The Mutilated Emperor's Revenge (695 AD)"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T21:24:43.633932+00:00",
+    "updated_at": "2026-11-12T21:46:19.048095+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-12T21:34:10.122963+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2367 chars",
+        "at": "2026-11-12T21:34:42.729289+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "146.4s en-US-GuyNeural 17 cau",
+        "at": "2026-11-12T21:35:00.647024+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T21:35:03.810821+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-12T21:42:43.253905+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T21:42:43.256821+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 146.4s 137839044 bytes",
+        "at": "2026-11-12T21:46:18.932304+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-11-12T21:46:18.938609+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T21:46:19.048085+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18366223/pexels-photo-18366223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33867343/pexels-photo-33867343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9175112/pexels-photo-9175112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39321045/pexels-photo-39321045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348232/pexels-photo-8348232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17070795/pexels-photo-17070795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40154931/pexels-photo-40154931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18646389/pexels-photo-18646389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32449826/pexels-photo-32449826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37945750/pexels-photo-37945750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32371728/pexels-photo-32371728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10259190/pexels-photo-10259190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9316983/pexels-photo-9316983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5466803/pexels-photo-5466803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9775984/pexels-photo-9775984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36714676/pexels-photo-36714676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32021183/pexels-photo-32021183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29110760/pexels-photo-29110760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31026622/pexels-photo-31026622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269153/pexels-photo-9269153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40354961/pexels-photo-40354961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39199772/pexels-photo-39199772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32371725/pexels-photo-32371725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33540688/pexels-photo-33540688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10663137/pexels-photo-10663137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342496/pexels-photo-29342496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37512465/pexels-photo-37512465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588842/pexels-photo-4588842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18435152/pexels-photo-18435152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143372/pexels-photo-38143372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38374178/pexels-photo-38374178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36186017/pexels-photo-36186017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7267537/pexels-photo-7267537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12347306/pexels-photo-12347306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6422078/pexels-photo-6422078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18155102/pexels-photo-18155102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36714673/pexels-photo-36714673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30059214/pexels-photo-30059214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10860991/pexels-photo-10860991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35624259/pexels-photo-35624259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34987695/pexels-photo-34987695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40504867/pexels-photo-40504867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19481486/pexels-photo-19481486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32757128/pexels-photo-32757128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35689882/pexels-photo-35689882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10585827/pexels-photo-10585827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8442351/pexels-photo-8442351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27304997/pexels-photo-27304997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18928150/pexels-photo-18928150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37386821/pexels-photo-37386821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123614/pexels-photo-30123614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33807015/pexels-photo-33807015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20827921/pexels-photo-20827921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2823465/pexels-photo-2823465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21370816/pexels-photo-21370816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8659937/pexels-photo-8659937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32486139/pexels-photo-32486139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38713197/pexels-photo-38713197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36532721/pexels-photo-36532721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33548606/pexels-photo-33548606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9921334/pexels-photo-9921334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40951555/pexels-photo-40951555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4762169/pexels-photo-4762169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8349023/pexels-photo-8349023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27821457/pexels-photo-27821457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1536304/pexels-photo-1536304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14767418/pexels-photo-14767418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269132/pexels-photo-9269132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38783281/pexels-photo-38783281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/60611/vaulted-cellar-tunnel-arches-keller-60611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24734798/pexels-photo-24734798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20979877/pexels-photo-20979877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10954170/pexels-photo-10954170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/161936/knight-armor-helmet-weapons-161936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11110912/pexels-photo-11110912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34565902/pexels-photo-34565902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38575030/pexels-photo-38575030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29925980/pexels-photo-29925980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9806620/pexels-photo-9806620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e6ad3f23ca",
     "kind": "short",
     "channel": "Channel3",
