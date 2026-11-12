@@ -1,5 +1,162 @@
 [
   {
+    "id": "30f7daaed7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Undefeated King Killed by a Roof Tile",
+    "idea": {
+      "title": "The Undefeated King Killed by a Roof Tile",
+      "hook": "King Pyrrhus defeated Rome's finest armies, but an elderly woman with a single roof tile ended his legendary reign in absolute irony.",
+      "beats": [
+        "Pyrrhus defeated Rome twice, but lost so many men it created the term 'Pyrrhic victory'.",
+        "Obsessed with conquest, he stormed the city of Argos, engaging in frantic street combat.",
+        "An elderly woman watched from her rooftop as Pyrrhus cornered her young son below.",
+        "In desperation, she ripped off a heavy tile and threw it, striking Pyrrhus directly on the neck.",
+        "Paralyzed by the unexpected blow, the king was quickly finished off by an enemy soldier."
+      ],
+      "keywords": [
+        "King Pyrrhus portrait",
+        "Ancient Greek battle engraving",
+        "Roman legion illustration",
+        "Argos ancient city map",
+        "Greek hoplite bust"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#weirdhistory",
+        "#militaryhistory",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "History's deadliest king was killed by a roof tile.",
+        "search": "King Pyrrhus marble bust statue",
+        "caption": "Killed by a single roof tile."
+      },
+      {
+        "narration": "In 279 BC, King Pyrrhus of Epirus defeated Rome's finest legions, but lost most of his army in the process.",
+        "search": "ancient roman legion battle engraving",
+        "caption": "Crushed Rome at a devastating cost."
+      },
+      {
+        "narration": "His ruinous triumphs were so costly they created the legendary term Pyrrhic victory.",
+        "search": "ancient greek battle classical painting",
+        "caption": "The origin of a Pyrrhic victory."
+      },
+      {
+        "narration": "Driven by obsession with conquest, Pyrrhus stormed the city of Argos in 272 BC.",
+        "search": "ancient city of argos map engraving",
+        "caption": "Argos, 272 BC."
+      },
+      {
+        "narration": "Trapped inside narrow alleyways alongside war elephants, the king fought in chaotic hand-to-hand combat.",
+        "search": "ancient greek hoplite armor illustration",
+        "caption": "Trapped in chaotic street combat."
+      },
+      {
+        "narration": "During the melee, Pyrrhus wounded a young Argive soldier, unaware of who watched from above.",
+        "search": "ancient greek soldier bust statue",
+        "caption": "Cornered on the battlefield below."
+      },
+      {
+        "narration": "High on a rooftop, the soldier's elderly mother saw her son facing imminent death.",
+        "search": "ancient greek terracotta roof tile artifact",
+        "caption": "A mother watches from the roof."
+      },
+      {
+        "narration": "In desperation, she ripped a heavy clay tile from the roof and hurled it at the king.",
+        "search": "ancient greek city relief carving",
+        "caption": "Targeting the king from above."
+      },
+      {
+        "narration": "The heavy tile struck Pyrrhus directly on his unprotected neck, fracturing his spine and knocking the king senseless to the ground.",
+        "search": "death of king pyrrhus ancient engraving",
+        "caption": "The heavy tile struck Pyrrhus directly on his neck."
+      },
+      {
+        "narration": "Lying paralyzed in the streets of Argos in 272 BC, the undefeated commander was quickly beheaded by an Argive soldier.",
+        "search": "ancient greek battle street argos illustration",
+        "caption": "In 272 BC, an enemy soldier executed the helpless king."
+      },
+      {
+        "narration": "The military genius who humbled Rome's greatest legions fell not to an empire, but to an anonymous mother protecting her son.",
+        "search": "king pyrrhus bust statue",
+        "caption": "The undefeated conqueror was brought down by an old woman's tile."
+      },
+      {
+        "narration": "A single roof tile killed Rome's greatest ancient enemy.",
+        "search": "King Pyrrhus bust statue",
+        "caption": "A single roof tile killed Rome's greatest ancient enemy."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T11:36:49.783115+00:00",
+    "updated_at": "2026-11-12T11:39:13.228069+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-12T11:37:49.884372+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "380 chars (cat 291 de vua 55s)",
+        "at": "2026-11-12T11:37:59.595230+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.6s en-US-GuyNeural 6 cau",
+        "at": "2026-11-12T11:38:04.569588+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T11:38:05.253262+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-12T11:38:33.661805+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T11:38:33.663725+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.6s 14359902 bytes",
+        "at": "2026-11-12T11:39:13.109059+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T11:39:13.228062+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33785364/pexels-photo-33785364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731096/pexels-photo-11731096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110981/pexels-photo-16110981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36107327/pexels-photo-36107327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22303976/pexels-photo-22303976.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16272966/pexels-photo-16272966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731100/pexels-photo-11731100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24782872/pexels-photo-24782872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32231907/pexels-photo-32231907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110948/pexels-photo-16110948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37727418/pexels-photo-37727418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16092094/pexels-photo-16092094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "037b63d9e7",
     "kind": "short",
     "channel": "Channel2",
