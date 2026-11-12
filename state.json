@@ -1,5 +1,163 @@
 [
   {
+    "id": "b0da981247",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Blinded 15,000 Soldiers",
+    "idea": {
+      "title": "The Emperor Who Blinded 15,000 Soldiers",
+      "hook": "Emperor Basil II captured 15,000 enemy soldiers, blinded almost every single man, and sent them home—causing their king to drop dead from sheer shock.",
+      "beats": [
+        "In 1014, Byzantine Emperor Basil II crushed the Bulgarian army at the Battle of Kleidion.",
+        "Instead of executing his prisoners, he ordered 99 out of every 100 soldiers to be blinded.",
+        "The 100th man was left with one eye to lead the blind army back to their homeland.",
+        "When Bulgarian Tsar Samuil saw his mutilated army returning, he suffered a heart attack and died.",
+        "The brutal move shattered Bulgarian morale completely, earning Basil the terrifying title 'The Bulgar-Slayer'."
+      ],
+      "keywords": [
+        "Basil II Byzantine painting",
+        "Battle of Kleidion illustration",
+        "Byzantine Empire historical map",
+        "Bulgarian Tsar portrait engraving",
+        "Medieval battle artwork public domain"
+      ],
+      "tags": [
+        "history",
+        "byzantineempire",
+        "ancienthistory",
+        "documentary",
+        "historyfacts",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1014, one cruel act destroyed an empire forever.",
+        "search": "Byzantine Empire historical map manuscript",
+        "caption": "The most ruthless act in medieval history"
+      },
+      {
+        "narration": "For decades, the Bulgarian Empire under Tsar Samuil fiercely resisted Byzantine expansion across the Balkans.",
+        "search": "Bulgarian Tsar Samuil portrait engraving",
+        "caption": "Tsar Samuil defied Byzantine conquest"
+      },
+      {
+        "narration": "On July 29, 1014, Emperor Basil II trapped the Bulgarian army at the Battle of Kleidion.",
+        "search": "Basil II Byzantine illuminated manuscript portrait",
+        "caption": "July 29, 1014: Battle of Kleidion"
+      },
+      {
+        "narration": "After taking fifteen thousand prisoners, Basil II chose a punishment far worse than execution.",
+        "search": "Battle of Kleidion medieval manuscript illustration",
+        "caption": "15,000 Bulgarian soldiers captured alive"
+      },
+      {
+        "narration": "He ordered ninety-nine out of every hundred captured soldiers to be blinded.",
+        "search": "Byzantine soldiers medieval miniature painting",
+        "caption": "99 out of 100 soldiers blinded"
+      },
+      {
+        "narration": "Every hundredth soldier was left with a single eye to lead ninety-nine blind comrades home.",
+        "search": "Medieval march soldiers artwork manuscript",
+        "caption": "One single eye to lead ninety-nine men"
+      },
+      {
+        "narration": "When the thousands of mutilated troops arrived home, Tsar Samuil collapsed from shock and died.",
+        "search": "Tsar Samuil death historical illustration",
+        "caption": "Tsar Samuil died from utter horror"
+      },
+      {
+        "narration": "The psychological terror crippled Bulgaria, earning the emperor his title: Basil the Bulgar-Slayer.",
+        "search": "Emperor Basil II Bulgar Slayer coin engraving",
+        "caption": "Basil II became known as the Bulgar-Slayer"
+      },
+      {
+        "narration": "Following Tsar Samuil's death in 1014, Bulgarian resistance collapsed, allowing Basil II to completely annex the realm by 1018.",
+        "search": "Byzantine Empire territorial map 11th century historical map",
+        "caption": "By 1018, the First Bulgarian Empire was completely annexed."
+      },
+      {
+        "narration": "Basil II ruled for nearly fifty years, securing Byzantine borders to their greatest extent since the fall of Western Rome.",
+        "search": "Emperor Basil II Psalter portrait miniature illuminated manuscript",
+        "caption": "Basil II expanded Byzantium to peak medieval power."
+      },
+      {
+        "narration": "By choosing psychological terror over execution, a single calculated atrocity erased an entire enemy empire for over four centuries.",
+        "search": "Battle of Kleidion Basil II medieval artwork public domain",
+        "caption": "One act of extreme cruelty erased an entire empire."
+      },
+      {
+        "narration": "Can fifteen thousand blinded soldiers kill their own king?",
+        "search": "Emperor Basil II Byzantine illumination manuscript detail",
+        "caption": "Can 15,000 blinded soldiers kill a king?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T03:12:52.393311+00:00",
+    "updated_at": "2026-11-12T03:14:56.450803+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-12T03:13:14.885059+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "428 chars (cat 139 de vua 55s)",
+        "at": "2026-11-12T03:13:24.751670+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.5s en-US-GuyNeural 6 cau",
+        "at": "2026-11-12T03:13:27.872902+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T03:13:28.579035+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-12T03:14:14.225377+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T03:14:14.227016+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.5s 19593463 bytes",
+        "at": "2026-11-12T03:14:56.370850+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T03:14:56.450796+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/28608363/pexels-photo-28608363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31386557/pexels-photo-31386557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13208790/pexels-photo-13208790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039703/pexels-photo-12039703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34706127/pexels-photo-34706127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563554/pexels-photo-16563554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39521834/pexels-photo-39521834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28892477/pexels-photo-28892477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27742707/pexels-photo-27742707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076979/pexels-photo-16076979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16785551/pexels-photo-16785551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25478159/pexels-photo-25478159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6895503a49",
     "kind": "short",
     "channel": "Channel2",
