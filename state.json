@@ -1,5 +1,166 @@
 [
   {
+    "id": "e6ad3f23ca",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Vũ trụ đang lừa mắt bạn: Tại sao bạn nhìn thấy quá khứ?",
+    "idea": {
+      "title": "Vũ trụ đang lừa mắt bạn: Tại sao bạn nhìn thấy quá khứ?",
+      "hook": "Thứ bạn đang nhìn ngay lúc này thực ra không tồn tại ở hiện tại — bạn đang nhìn trộm quá khứ mà không hề hay biết.",
+      "beats": [
+        "Ánh sáng cần thời gian để di chuyển từ vật thể đến mắt bạn, nghĩa là ngay cả màn hình điện thoại bạn đang xem cũng là hình ảnh của vài nano-giây trước.",
+        "Khi bạn nhìn các ngôi sao trên bầu trời đêm, bạn thực sự đang nhìn vào lịch sử hàng triệu năm trước của vũ trụ.",
+        "Bộ não con người luôn phải dịch ngược thời gian để tạo ra cảm giác 'hiện tại' mà bạn trải nghiệm mỗi giây."
+      ],
+      "keywords": [
+        "deep space stars timelapse",
+        "speed of light concept",
+        "galaxy rotating cosmic",
+        "universe abstract animation",
+        "time dilation visual"
+      ],
+      "tags": [
+        "khamphavuquyu",
+        "khoahoc",
+        "vutru",
+        "suthatthuvi",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Thứ bạn nhìn ngay lúc này thực ra không tồn tại ở hiện tại.",
+        "search": "3d animation tay cam dien thoai man hinh sang",
+        "caption": "Bạn đang nhìn trộm quá khứ"
+      },
+      {
+        "narration": "Ánh sáng cần thời gian để di chuyển từ màn hình đến mắt bạn.",
+        "search": "motion graphics tia sang chieu vao mat nguoi",
+        "caption": "Ánh sáng cần có thời gian di chuyển"
+      },
+      {
+        "narration": "Ngay cả chiếc điện thoại trên tay bạn cũng là hình ảnh của vài nano-giây trước.",
+        "search": "isometric render man hinh dien thoai va dong ho dem gio",
+        "caption": "Điện thoại bạn thấy là quá khùi"
+      },
+      {
+        "narration": "Khi nhìn vào gương phòng tắm, bạn thấy chính mình của phần nghìn giây trước.",
+        "search": "3d animation nguoi nhin vao guong phong tam",
+        "caption": "Gương phản chiếu quá khứ nhỏ nhoi"
+      },
+      {
+        "narration": "Bộ não con người phải liên tục dịch ngược thời gian để tạo ra cảm giác hiện tại.",
+        "search": "explainer animation nao bo xu ly tin hieu anh sang",
+        "caption": "Bộ não dịch chuyển thời gian"
+      },
+      {
+        "narration": "Từng giọt cà phê bạn đang uống thực ra đã rơi xuống từ một khoảnh khắc đã qua.",
+        "search": "loop animation giot nuoc ca phe roi xuong coc",
+        "caption": "Khoảnh khắc cà phê đã trôi qua"
+      },
+      {
+        "narration": "Ngay cả ngón tay bạn gõ phím cũng đi trước cảm giác chạm một khoảng thời gian cực nhỏ.",
+        "search": "cartoony 3d ban tay go phim may tinh xach tay",
+        "caption": "Ngón tay đi trước cảm giác"
+      },
+      {
+        "narration": "Khoảng trễ này diễn ra liên tục khiến bạn tưởng mình đang sống ở thời điểm hiện tại.",
+        "search": "3d animation dong ho chay nguoc va nao bo",
+        "caption": "Độ trễ tạo ra hiện tại giả lập"
+      },
+      {
+        "narration": "Thậm chí âm thanh bạn nghe thấy khi xem video này cũng đến tai bạn sau khi loa điện thoại đã phát ra.",
+        "search": "3d animation smartphone speaker sound wave motion graphics",
+        "caption": "Âm thanh điện thoại đến tai bạn bị trễ"
+      },
+      {
+        "narration": "Ánh sáng từ màn hình máy tính cần vài nano giây để chạm tới võng mạc của bạn.",
+        "search": "explainer animation human eye looking at laptop screen close up",
+        "caption": "Màn hình bạn đang xem là quá khứ vài nano giây"
+      },
+      {
+        "narration": "Khoảng cách càng xa, độ trễ càng lớn và những gì bạn thấy càng lùi sâu về quá khứ.",
+        "search": "isometric render person looking out window city buildings",
+        "caption": "Khoảng cách càng lớn độ trễ càng tăng"
+      },
+      {
+        "narration": "Thực tế, giác quan của bạn bị giam giữ trong quá khứ mà không có cách nào thoát ra.",
+        "search": "loop animation human brain glowing neural network pulse",
+        "caption": "Giác quan luôn bị giam giữ trong quá khứ"
+      },
+      {
+        "narration": "Vì vậy, cái gọi là 'thực tại' thực chất chỉ là một bản chiếu chậm được bộ phim não bộ dựng lại.",
+        "search": "cartoony 3d clock ticking fast modern minimalist room",
+        "caption": "Hiện tại chỉ là quá khứ do não bộ dựng lại"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T20:36:20.767464+00:00",
+    "updated_at": "2026-11-12T20:40:32.240645+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-12T20:38:47.491417+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars (cat 113 de vua 55s)",
+        "at": "2026-11-12T20:39:23.588948+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.4s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-11-12T20:39:37.509026+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T20:39:38.108220+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-12T20:39:52.569458+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-12T20:39:52.571051+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.5s 32052692 bytes",
+        "at": "2026-11-12T20:40:32.099192+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T20:40:32.240640+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819437/8819437-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39619754/16888224_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069164/18069164-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/36726052/15564855_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107031/13687907_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16655800/16655800-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39686974/16921758_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283236/15283236-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283234/15283234-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36171729/15339475_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7578625/uhd_25fps.mp4",
+      "https://videos.pexels.com/video-files/17144481/17144481-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7034335/7034335-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "39a5ea79b8",
     "kind": "short",
     "channel": "Channel3",
