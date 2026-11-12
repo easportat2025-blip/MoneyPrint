@@ -1,5 +1,161 @@
 [
   {
+    "id": "95dba6ad5d",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Believed He Was Made of Glass",
+    "idea": {
+      "title": "The King Who Believed He Was Made of Glass",
+      "hook": "In 1392, King Charles VI of France made a terrifying mistake: he suddenly believed his body was made of fragile glass, leading to a bizarre royal nightmare no one expected.",
+      "beats": [
+        "King Charles VI suffered a sudden mental breakdown, refusing to let anyone touch his delicate body.",
+        "He wore reinforced iron rods sewn into his clothing to prevent himself from shattering upon impact.",
+        "Royal doctors tried bizarre medieval remedies while rival nobles exploited his delusion to seize political power.",
+        "His tragic mental illness paralyzed the monarchy and plunged France into chaos during the Hundred Years' War."
+      ],
+      "keywords": [
+        "King Charles VI France portrait",
+        "medieval French court engraving",
+        "medieval physician painting",
+        "Hundred Years War historical map",
+        "gothic royal castle illustration"
+      ],
+      "tags": [
+        "#history",
+        "#medievalhistory",
+        "#weirdhistory",
+        "#france",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1392, France's king believed his body was glass.",
+        "search": "King Charles VI France portrait painting",
+        "caption": "1392: The king who believed he was glass"
+      },
+      {
+        "narration": "During the Hundred Years' War, King Charles VI suddenly suffered a terrifying mental collapse while riding into battle.",
+        "search": "Hundred Years War battle medieval illumination manuscript",
+        "caption": "A sudden collapse during the Hundred Years' War"
+      },
+      {
+        "narration": "He refused to let anyone touch him, terrified that a single strike would shatter his limbs into pieces.",
+        "search": "medieval royal court miniature illumination",
+        "caption": "He feared a single touch would shatter him"
+      },
+      {
+        "narration": "To protect his fragile body, Charles had iron rods secretly sewn into his clothing.",
+        "search": "medieval royal garments suit of armor historical engraving",
+        "caption": "Iron rods sewn into royal garments"
+      },
+      {
+        "narration": "Desperate medieval physicians attempted bizarre remedies, but the delusion only grew stronger.",
+        "search": "medieval physician painting 14th century",
+        "caption": "Bizarre remedies failed to cure the king"
+      },
+      {
+        "narration": "As the monarch hid behind palace walls, rival dukes exploited his state to seize political power.",
+        "search": "gothic royal castle illustration engraving",
+        "caption": "Rival nobles fought for control of France"
+      },
+      {
+        "narration": "With Charles unable to rule, the internal power struggle paralyzed the French monarchy at a critical moment.",
+        "search": "Hundred Years War historical map engraving",
+        "caption": "Internal chaos paralyzed the French monarchy"
+      },
+      {
+        "narration": "The Glass King's thirty-year breakdown devastated France, plunging the kingdom into decades of civil war.",
+        "search": "medieval French court engraving",
+        "caption": "A thirty-year delusion that fractured a kingdom"
+      },
+      {
+        "narration": "Exploiting France's fractured leadership, King Henry V of England invaded in 1415, inflicting a catastrophic defeat at the Battle of Agincourt.",
+        "search": "battle of agincourt 1415 medieval illumination painting",
+        "caption": "Henry V invaded in 1415, crippling France at Agincourt."
+      },
+      {
+        "narration": "By 1420, the incapacitated Charles VI signed the Treaty of Troyes, disinheriting his own heir and surrendering the French throne to England.",
+        "search": "treaty of troyes 1420 historical document engraving",
+        "caption": "In 1420, Charles VI disinherited his son and surrendered the crown."
+      },
+      {
+        "narration": "When Charles VI died in 1422, his thirty-year psychological collapse had shattered a kingdom, leaving behind history's most famous case of the glass delusion.",
+        "search": "king charles vi france portrait painting leaving",
+        "caption": "Charles VI died in 1422, leaving a legacy shattered like glass."
+      },
+      {
+        "narration": "In 1392, King Charles VI of France believed he was made of glass.",
+        "search": "King Charles VI France portrait oil painting",
+        "caption": "King Charles VI believed he was made of glass."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T22:50:35.219302+00:00",
+    "updated_at": "2026-11-12T22:58:28.279027+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-12T22:55:48.780260+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "408 chars (cat 158 de vua 55s)",
+        "at": "2026-11-12T22:56:20.788640+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.9s en-US-GuyNeural 4 cau",
+        "at": "2026-11-12T22:56:25.551038+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T22:56:26.359955+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-12T22:57:39.280462+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T22:57:39.284132+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 16695711 bytes",
+        "at": "2026-11-12T22:58:28.186248+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T22:58:28.279019+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14449294/pexels-photo-14449294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30560588/pexels-photo-30560588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31594883/pexels-photo-31594883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350032/pexels-photo-31350032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9432873/pexels-photo-9432873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20988763/pexels-photo-20988763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627842/pexels-photo-8627842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31483210/pexels-photo-31483210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31453461/pexels-photo-31453461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38373935/pexels-photo-38373935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27799460/pexels-photo-27799460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397756/pexels-photo-16397756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4377f7bb32",
     "kind": "short",
     "channel": "Channel3",
