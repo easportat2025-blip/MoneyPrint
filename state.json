@@ -1,5 +1,166 @@
 [
   {
+    "id": "4377f7bb32",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bật quạt trong phòng trống chỉ tốn tiền điện thừa?",
+    "idea": {
+      "title": "Tại sao bật quạt trong phòng trống chỉ tốn tiền điện thừa?",
+      "hook": "Bạn có biết quạt máy thực ra không hề làm giảm dù chỉ một độ C nào trong phòng của bạn?",
+      "beats": [
+        "Quạt không làm mát không khí, nó chỉ tạo ra luồng gió giúp tốc độ mồ hôi bay hơi trên da bạn nhanh hơn.",
+        "Động cơ quạt khi hoạt động còn tỏa ra một lượng nhiệt nhỏ, khiến phòng kín thực chất nóng lên.",
+        "Việc bật quạt khi không có người trong phòng chỉ làm lãng phí điện năng mà không có bất kỳ tác dụng làm mát nào."
+      ],
+      "keywords": [
+        "electric fan airflow",
+        "empty room interior",
+        "thermodynamic heat concept",
+        "sweat evaporation skin",
+        "energy waste electricity"
+      ],
+      "tags": [
+        "meosong",
+        "meodien",
+        "khoahocdoisong",
+        "thietbidien",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Quạt máy không hề giảm độ C nào trong phòng.",
+        "search": "quat dien dang quay 3d animation",
+        "caption": "Quạt máy không làm giảm độ C nào trong phòng!"
+      },
+      {
+        "narration": "Bạn bật quạt nấc lớn nhất và nghĩ không khí đang lạnh đi?",
+        "search": "nguoi dung truoc quat gio isometric animation",
+        "caption": "Bật quạt nấc lớn không làm không khí lạnh đi."
+      },
+      {
+        "narration": "Sự thật là quạt điện hoàn toàn không có khả năng hạ nhiệt độ môi trường.",
+        "search": "nhiet do ke va quat may 3d render",
+        "caption": "Quạt không có chức năng hạ nhiệt như điều hòa."
+      },
+      {
+        "narration": "Luồng gió từ cánh quạt chỉ làm tăng tốc độ bay hơi của mồ hôi.",
+        "search": "mo hoi bay hoi tren da 3d motion graphics",
+        "caption": "Gió quạt chỉ đẩy nhanh sự bay hơi mồ hôi."
+      },
+      {
+        "narration": "Chính quá trình bay hơi này mới tạo ra cảm giác mát mẻ cho cơ thể.",
+        "search": "co the nguoi va luong gio 3d explainer",
+        "caption": "Cảm giác mát lạnh thực chất là từ mồ hôi."
+      },
+      {
+        "narration": "Thậm chí, động cơ điện khi quay còn tỏa ra nhiệt lượng liên tục.",
+        "search": "dong co quat may toa nhiet red glow animation",
+        "caption": "Động cơ quạt khi chạy liên tục tỏa nhiệt."
+      },
+      {
+        "narration": "Trong căn phòng kín không người, quạt chạy chỉ khiến không khí nóng thêm.",
+        "search": "phong ngu trong rong quat quay isometric 3d",
+        "caption": "Phòng kín trống người thực ra đang nóng lên."
+      },
+      {
+        "narration": "Vì vậy, bật quạt trong phòng trống chỉ tốn tiền điện một cách lãng phí.",
+        "search": "dong tien dien lang phi 3d icon loop",
+        "caption": "Bật quạt phòng trống chỉ tốn tiền điện thừa!"
+      },
+      {
+        "narration": "Cánh quạt quay chỉ làm di chuyển các phân tử không khí xung quanh chứ không hề làm giảm nhiệt độ của chúng.",
+        "search": "3d animation quat dien quay luon khong khi isometric",
+        "caption": "Quạt chỉ di chuyển không khí, không hạ nhiệt độ"
+      },
+      {
+        "narration": "Bạn cảm thấy mát vì luồng gió giúp mồ hôi trên da bay hơi nhanh hơn, rút bớt nhiệt lượng cơ thể.",
+        "search": "3d animation mo hoi bay hoi tren da nguoi",
+        "caption": "Gió giúp mồ hôi trên da bay hơi nhanh hơn"
+      },
+      {
+        "narration": "Ngược lại, động cơ quạt khi hoạt động sẽ tỏa ra nhiệt lượng, khiến phòng kín dần nóng lên.",
+        "search": "3d animation dong co quat dien toa nhiet red glow",
+        "caption": "Động cơ quạt tỏa nhiệt làm phòng nóng lên"
+      },
+      {
+        "narration": "Khi không có người, quạt không có mồ hôi để làm bay hơi mà chỉ liên tục nạp thêm nhiệt vào phòng.",
+        "search": "3d animation phong trong quat quay dong tien lãng phi",
+        "caption": "Bật quạt phòng trống là trả tiền làm nóng phòng"
+      },
+      {
+        "narration": "Tắt quạt ngay khi bước ra khỏi phòng là cách đơn giản nhất để tiết kiệm điện và giảm nhiệt tích tụ.",
+        "search": "3d animation tay bam cong tac tat quat dien",
+        "caption": "Tắt quạt khi rời phòng để tiết kiệm điện"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T21:52:58.925236+00:00",
+    "updated_at": "2026-11-12T21:58:57.868472+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-12T21:57:22.023141+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "485 chars (cat 164 de vua 55s)",
+        "at": "2026-11-12T21:57:54.151093+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.3s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-12T21:58:03.390174+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T21:58:03.957414+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-12T21:58:18.189897+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-12T21:58:18.192355+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.3s 19821984 bytes",
+        "at": "2026-11-12T21:58:57.734961+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T21:58:57.868466+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/15439758/15439758-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40418318/17272103_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029653/16029653-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283233/15283233-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107057/13687887_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/5981845/5981845-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/35965997/15248187_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029664/16029664-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8817004/8817004-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/20699001/20699001-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439742/15439742-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8516590/8516590-uhd_1440_2732_24fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "bd64478a22",
     "kind": "long",
     "channel": "seigh",
