@@ -1,5 +1,161 @@
 [
   {
+    "id": "6895503a49",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Poisoned Himself Every Day",
+    "idea": {
+      "title": "The King Who Poisoned Himself Every Day",
+      "hook": "King Mithridates spent decades drinking poison to build immunity, but when Romans invaded, his secret weapon led to a devastating mistake.",
+      "beats": [
+        "Fearing assassination, Mithridates VI consumed daily micro-doses of deadly toxins until he became immune.",
+        "When Roman legions finally breached his fortress, he resolved to die rather than be captured as a trophy.",
+        "He swallowed a massive dose of lethal poison, only to realize his body was completely unaffected by it.",
+        "Unable to poison himself, the desperate king had to beg his own soldier to stab him to death."
+      ],
+      "keywords": [
+        "Mithridates ancient bust",
+        "Roman battle painting",
+        "ancient poison vial",
+        "Pontus kingdom map",
+        "classical suicide engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#mithridates",
+        "#historyfacts",
+        "#ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Drinking daily poison saved King Mithridates VI—until it backfired.",
+        "search": "Mithridates VI ancient bust statue close up",
+        "caption": "The king immune to deadly poison"
+      },
+      {
+        "narration": "In 120 BC, young Mithridates took the throne of Pontus amid constant palace assassination plots.",
+        "search": "Kingdom of Pontus ancient map engraving",
+        "caption": "120 BC: A young king surrounded by assassins"
+      },
+      {
+        "narration": "To protect himself, he ingested micro-doses of deadly toxins every day to build resistance.",
+        "search": "ancient Greek poison vial glass bottle artifacts",
+        "caption": "Daily micro-doses built total chemical immunity"
+      },
+      {
+        "narration": "For decades, his immunity kept him alive while he fought three devastating wars against Rome.",
+        "search": "Roman legion battle oil painting",
+        "caption": "Decades of war against Roman legions"
+      },
+      {
+        "narration": "By 63 BC, Roman general Pompey shattered his forces and trapped the king inside his fortress.",
+        "search": "Roman army siege of ancient fortress oil painting",
+        "caption": "63 BC: Trapped inside a falling fortress"
+      },
+      {
+        "narration": "Refusing to be paraded in Rome as a trophy, Mithridates drew his lethal poison vial.",
+        "search": "classical suicide engraving ancient king",
+        "caption": "Choosing suicide over Roman captivity"
+      },
+      {
+        "narration": "He swallowed a massive dose, but his decades of built-up tolerance made the toxin useless.",
+        "search": "ancient king drinking goblet oil painting",
+        "caption": "The deadly toxin had no effect"
+      },
+      {
+        "narration": "Unable to poison himself, the desperate monarch was forced to beg his bodyguard to sword him.",
+        "search": "ancient soldier stabbing king historical illustration",
+        "caption": "Forced to beg for a blade"
+      },
+      {
+        "narration": "In 63 BC, a Celtic mercenary named Bituitus finally struck down Mithridates VI with a sword at the fallen king's desperate request.",
+        "search": "death of mithridates classical oil painting",
+        "caption": "In 63 BC, a mercenary's sword ended Mithridates' life."
+      },
+      {
+        "narration": "Roman general Pompey the Great annexed Pontus, securing complete victory over Rome's most formidable Eastern rival.",
+        "search": "pompey the great marble bust statue portrait",
+        "caption": "Pompey annexed Pontus, ending decades of war with Rome."
+      },
+      {
+        "narration": "The king's obsession left an unexpected legacy: the practice of gradually ingesting toxins to build immunity is called mithridatism to this day.",
+        "search": "ancient poison vial glass artifact museum",
+        "caption": "His failed secret weapon created the scientific term mithridatism."
+      },
+      {
+        "narration": "A king's ultimate defense became his fatal curse.",
+        "search": "ancient poison bottle engraving",
+        "caption": "A king's ultimate defense became his fatal curse"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-12T01:44:01.089189+00:00",
+    "updated_at": "2026-11-12T01:46:34.322742+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-12T01:44:41.020185+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "377 chars (cat 207 de vua 55s)",
+        "at": "2026-11-12T01:44:55.794314+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.7s en-US-GuyNeural 5 cau",
+        "at": "2026-11-12T01:44:58.570041+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-12T01:44:59.327280+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-12T01:45:47.378369+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-12T01:45:47.381577+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.8s 13774301 bytes",
+        "at": "2026-11-12T01:46:34.244562+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-12T01:46:34.322735+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6711450/pexels-photo-6711450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34393243/pexels-photo-34393243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20346376/pexels-photo-20346376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30564504/pexels-photo-30564504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38151740/pexels-photo-38151740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2402924/pexels-photo-2402924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/896999/pexels-photo-896999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35248149/pexels-photo-35248149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588835/pexels-photo-4588835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29948228/pexels-photo-29948228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33393560/pexels-photo-33393560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110960/pexels-photo-16110960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c24acbaa0f",
     "kind": "short",
     "channel": "Channel2",
