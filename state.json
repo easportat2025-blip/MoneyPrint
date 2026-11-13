@@ -1,5 +1,162 @@
 [
   {
+    "id": "4601ac1ef8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Blinded Her Son for Power",
+    "idea": {
+      "title": "The Empress Who Blinded Her Son for Power",
+      "hook": "When Empress Irene blinded her own son to seize the Byzantine throne, no one expected the shocking betrayal that ended in her exile.",
+      "beats": [
+        "Empress Irene rules as regent, but her son Constantine VI demands his rightful throne upon turning of age.",
+        "Driven by ambition, Irene orders her loyal guards to gouge out her son's eyes in the imperial chamber.",
+        "Constantine dies from his wounds, leaving Irene as the sole female emperor of the Byzantine Realm.",
+        "The Pope refuses to recognize a woman ruler and crowns Charlemagne instead, stripping Byzantium of western authority.",
+        "Irene is overthrown by her own finance minister and exiled to a barren island, dying in complete isolation."
+      ],
+      "keywords": [
+        "Empress Irene portrait",
+        "Byzantine empire painting",
+        "Constantinople old map",
+        "medieval emperor bust",
+        "Charlemagne coronation engraving"
+      ],
+      "tags": [
+        "History",
+        "ByzantineEmpire",
+        "AncientHistory",
+        "EmpressIrene",
+        "RomanHistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 797 AD, an empress blinded her son for power.",
+        "search": "empress irene mosaic portrait byzantine art",
+        "caption": "A mother blinded her son for the throne"
+      },
+      {
+        "narration": "This act of ruthless ambition permanently fractured the Eastern Roman Empire.",
+        "search": "byzantine empire painting medieval battlefield",
+        "caption": "A single act reshaped medieval Europe forever"
+      },
+      {
+        "narration": "In Constantinople, Empress Irene took control as regent when her young son, Constantine VI, was a child.",
+        "search": "constantinople old map engraving byzantine",
+        "caption": "Empress Irene assumed power as regent in Constantinople"
+      },
+      {
+        "narration": "When Constantine came of age in 790 AD, he demanded his throne, igniting a fierce struggle against his mother.",
+        "search": "constantine vi byzantine coin gold solidus",
+        "caption": "Constantine VI demanded his rightful imperial throne"
+      },
+      {
+        "narration": "Refusing to yield, Irene ordered loyal guards to seize her son in 797 AD and gouge out his eyes.",
+        "search": "byzantine manuscript illumination medieval royal court",
+        "caption": "Irene ordered her guards to blind Constantine VI"
+      },
+      {
+        "narration": "Constantine died from his severe wounds, leaving Irene to declare herself sole ruler of Byzantium.",
+        "search": "medieval emperor bust marble sculpture",
+        "caption": "Irene became the first sole female Byzantine emperor"
+      },
+      {
+        "narration": "Pope Leo III refused to recognize a female ruler on the Roman throne, considering the seat vacant.",
+        "search": "charlemagne coronation engraving medieval artwork",
+        "caption": "The Pope rejected a female Byzantine ruler"
+      },
+      {
+        "narration": "In 800 AD, the Pope crowned Charlemagne as Holy Roman Emperor, stripping Byzantium of western authority.",
+        "search": "charlemagne emperor portrait oil painting",
+        "caption": "Charlemagne's coronation shattered Byzantine Western authority"
+      },
+      {
+        "narration": "In 802 AD, her own finance minister Nikephoros launched a palace coup, overthrowing Irene while she was weakened by illness.",
+        "search": "byzantine court palace engraving",
+        "caption": "In 802 AD, her finance minister launched a palace coup."
+      },
+      {
+        "narration": "Stripped of imperial authority, Irene was banished to the island of Lesbos, where she died in complete isolation in 803 AD.",
+        "search": "medieval island monastery painting",
+        "caption": "Exiled to Lesbos, Irene died in total isolation in 803 AD."
+      },
+      {
+        "narration": "By blinding her own son for absolute control, Irene permanently severed Western Europe from Byzantium and destroyed her own dynasty.",
+        "search": "Empress Irene coin portrait",
+        "caption": "Her ruthless ambition permanently shattered the Roman world."
+      },
+      {
+        "narration": "A mother blinded her own son to rule Byzantium.",
+        "search": "Empress Irene portrait mosaic byzantine empire",
+        "caption": "A mother blinded her son to rule an empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T00:49:17.133142+00:00",
+    "updated_at": "2026-11-13T00:55:06.905110+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-13T00:49:37.344111+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "381 chars (cat 146 de vua 55s)",
+        "at": "2026-11-13T00:49:48.793909+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.0s en-US-GuyNeural 5 cau",
+        "at": "2026-11-13T00:49:53.124811+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T00:49:53.616899+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-13T00:54:37.497794+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T00:54:37.500158+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.1s 20646726 bytes",
+        "at": "2026-11-13T00:55:06.779765+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T00:55:06.905105+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37966900/pexels-photo-37966900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36963697/pexels-photo-36963697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34556246/pexels-photo-34556246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35347636/pexels-photo-35347636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27327992/pexels-photo-27327992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37978063/pexels-photo-37978063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18596235/pexels-photo-18596235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397736/pexels-photo-16397736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18938481/pexels-photo-18938481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34678594/pexels-photo-34678594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18535186/pexels-photo-18535186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944675/pexels-photo-37944675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "95dba6ad5d",
     "kind": "short",
     "channel": "Channel2",
