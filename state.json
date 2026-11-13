@@ -1,5 +1,162 @@
 [
   {
+    "id": "17d0f7ddaf",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Viking Lord Killed by a Dead Man's Tooth",
+    "idea": {
+      "title": "The Viking Lord Killed by a Dead Man's Tooth",
+      "hook": "In 892, Earl Sigurd decapitated his rival in victory, but a shocking twist of fate turned his greatest triumph into his fatal regret.",
+      "beats": [
+        "Earl Sigurd defeated his rival, Máel Brigte, in a brutal battle in Scotland.",
+        "To display his victory, he strapped Brigte’s severed head to his horse's saddle.",
+        "As Sigurd galloped home, Brigte’s protruding bucktooth grazed his bare leg.",
+        "The small scratch became infected with deadly bacteria, causing severe fever.",
+        "Sigurd died days later, proving his enemy got the ultimate revenge from beyond the grave."
+      ],
+      "keywords": [
+        "viking warrior painting",
+        "medieval battle engraving",
+        "ancient skull severed head",
+        "scotland historical map",
+        "viking earl portrait"
+      ],
+      "tags": [
+        "history",
+        "vikings",
+        "historydocumentary",
+        "weirdhistory",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 892, a dead man killed a Viking lord.",
+        "search": "viking warrior portrait oil painting",
+        "caption": "A dead man killed a Viking lord in 892."
+      },
+      {
+        "narration": "Sigurd Eysteinsson, the Norse Earl of Orkney, expanded his territory across northern Scotland through fierce conquest.",
+        "search": "scotland historical map engraving",
+        "caption": "Earl Sigurd expanded his territory across Scotland."
+      },
+      {
+        "narration": "In 892 AD, Sigurd challenged the Pictish leader Máel Brigte to a forty-man battle to settle their conflict.",
+        "search": "medieval battle engraving manuscript",
+        "caption": "Sigurd challenged Pictish leader Máel Brigte in 892."
+      },
+      {
+        "narration": "Sigurd betrayed the agreement by bringing eighty warriors instead of forty, easily overwhelming the outnumbered Picts.",
+        "search": "viking warriors longship painting",
+        "caption": "Sigurd brought double the agreed warriors to battle."
+      },
+      {
+        "narration": "After decapitating Máel Brigte, Sigurd tied his defeated rival's severed head to his saddle as a bloody trophy.",
+        "search": "ancient skull severed head illustration",
+        "caption": "Sigurd tied his rival's severed head to his saddle."
+      },
+      {
+        "narration": "As Sigurd galloped home, Máel Brigte's protruding bucktooth continuously scraped against the Viking earl's bare calf.",
+        "search": "medieval horse rider engraving",
+        "caption": "Máel Brigte's bucktooth scratched Sigurd's leg."
+      },
+      {
+        "narration": "The tiny scratch became deeply infected, allowing lethal bacteria to spread rapidly throughout Sigurd's body.",
+        "search": "medieval doctor medical manuscript painting",
+        "caption": "Lethal bacteria infected the scratch on Sigurd's calf."
+      },
+      {
+        "narration": "A severe fever set in within days, killing Earl Sigurd and granting his slain enemy revenge from beyond the grave.",
+        "search": "viking burial tomb oil painting",
+        "caption": "Sigurd died days later from the fatal infection."
+      },
+      {
+        "narration": "In 892, Earl Sigurd succumbed to fatal sepsis, dying just miles from the Scottish battlefield where he claimed victory.",
+        "search": "medieval battle engraving scotland",
+        "caption": "Earl Sigurd died from infection in 892."
+      },
+      {
+        "narration": "Máel Brigte's severed head, specifically his protruding bucktooth, delivered a deadly infection long after his own execution.",
+        "search": "ancient skull severed head illustration claimed",
+        "caption": "Máel Brigte claimed revenge from beyond the grave."
+      },
+      {
+        "narration": "Sigurd the Mighty remains the only Viking conqueror in history killed by the tooth of his dead rival.",
+        "search": "viking earl portrait oil painting",
+        "caption": "The only Viking warlord slain by a dead tooth."
+      },
+      {
+        "narration": "A dead enemy once killed a ruthless Viking conqueror.",
+        "search": "viking warrior painting artwork",
+        "caption": "A slain enemy killed a fearsome Viking lord."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T22:48:15.227491+00:00",
+    "updated_at": "2026-11-13T22:52:12.455718+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-13T22:49:21.817719+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "386 chars (cat 200 de vua 55s)",
+        "at": "2026-11-13T22:49:42.568860+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.5s en-US-GuyNeural 6 cau",
+        "at": "2026-11-13T22:49:45.071989+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T22:49:45.955653+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-13T22:51:23.918511+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T22:51:23.925467+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.5s 14195659 bytes",
+        "at": "2026-11-13T22:52:12.275742+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T22:52:12.455708+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30835422/pexels-photo-30835422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30247330/pexels-photo-30247330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29182967/pexels-photo-29182967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8976091/pexels-photo-8976091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14942907/pexels-photo-14942907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269143/pexels-photo-9269143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5998442/pexels-photo-5998442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8943321/pexels-photo-8943321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17886407/pexels-photo-17886407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5898800/pexels-photo-5898800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588832/pexels-photo-4588832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386121/pexels-photo-38386121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "44d376502a",
     "kind": "short",
     "channel": "Channel3",
