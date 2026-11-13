@@ -1,5 +1,166 @@
 [
   {
+    "id": "44d376502a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Mắt bạn thực sự nhìn thấy gì trong không gian sâu?",
+    "idea": {
+      "title": "Mắt bạn thực sự nhìn thấy gì trong không gian sâu?",
+      "hook": "Nếu bạn nhìn thẳng vào khoảng tối của vũ trụ, bạn không nhìn thấy tương lai, bạn đang nhìn thấy bóng ma của 13 tỷ năm trước.",
+      "beats": [
+        "Ánh sáng từ các ngôi sao xa xôi mất hàng triệu năm để chạm tới mắt bạn, biến mỗi đêm trời sao thành một chuyến du hành thời gian ngược quá khứ.",
+        "Kính viễn vọng James Webb không chụp ảnh hiện tại, nó chụp lại tàn tích ánh sáng của những thiên hà đã chết từ lâu.",
+        "Cơ chế xử lý hình ảnh của não bộ con người bị đánh lừa bởi thời gian di chuyển của photon, khiến chúng ta nghĩ mình đang chứng kiến hiện tại."
+      ],
+      "keywords": [
+        "deep space stars",
+        "galaxy cluster hubble",
+        "james webb nebula",
+        "cosmic background radiation",
+        "speed of light space"
+      ],
+      "tags": [
+        "vũ trụ",
+        "thien van hoc",
+        "khoa học",
+        "channel3",
+        "hỏi đáp"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Chớp mắt một cái, bạn đã nhìn thấy quá khứ của chính mình.",
+        "search": "3d animation eye blinking close up motion graphics",
+        "caption": "Chớp mắt nhìn thấy quá khứ?"
+      },
+      {
+        "narration": "Ánh sáng từ màn hình điện thoại bạn đang cầm thực ra mất bao lâu để tới mắt?",
+        "search": "isometric render person holding smartphone in dark room",
+        "caption": "Ánh sáng điện thoại đi bao lâu?"
+      },
+      {
+        "narration": "Thực tế, các photon phải vượt qua khoảng cách vật lý nhỏ xíu trước võng mạc.",
+        "search": "explainer animation photon particles hitting human retina eye",
+        "caption": "Photon chạm võng mạc thế nào?"
+      },
+      {
+        "narration": "Bộ não con người cần tới một phần mười giây để xử lý hình ảnh đó thành nhận thức.",
+        "search": "cartoony 3d brain processing visual signal animation",
+        "caption": "Não mất bao lâu xử lý ảnh?"
+      },
+      {
+        "narration": "Điều đó có nghĩa là bạn không bao giờ nhìn thấy thực tại ngay lúc này.",
+        "search": "loop animation clock ticking backward fast motion graphics",
+        "caption": "Bạn không bao giờ thấy hiện tại"
+      },
+      {
+        "narration": "Mọi thứ bạn tưởng đang diễn ra trước mắt thực chất đã là lịch sử vài mili-giây trước.",
+        "search": "3d animation person looking in mirror delayed reflection",
+        "caption": "Mọi thứ trước mắt là quá khứ"
+      },
+      {
+        "narration": "Khoảng trễ này quá nhỏ để giác quan thông thường nhận ra trong đời sống hàng ngày.",
+        "search": "motion graphics digital timeline lag glitch effect",
+        "caption": "Khoảng trễ quá nhỏ khó nhận ra"
+      },
+      {
+        "narration": "Nhưng nó chứng minh đôi mắt bạn thực chất là một cỗ máy thời gian mini.",
+        "search": "isometric render tiny time machine clock gear inside human head",
+        "caption": "Mắt là cỗ máy thời gian"
+      },
+      {
+        "narration": "Ngay cả khi bạn nhìn vào màn hình điện thoại cách mắt vài centimet, ánh sáng vẫn mất khoảng 0,3 nanogiây để chạm tới võng mạc.",
+        "search": "hoat hinh 3d mat nguoi nhin man hinh dien thoai phat sang",
+        "caption": "Nhìn điện thoại cũng là nhìn vào quá khứ"
+      },
+      {
+        "narration": "Chưa kể, não bộ cần thêm 80 mili-giây để xử lý tín hiệu điện từ dây thần kinh thị giác thành hình ảnh hoàn chỉnh.",
+        "search": "hoat hinh 3d tin hieu dien chay trong nao bo con nguoi",
+        "caption": "Não mất 80 miligiây để xử lý hình ảnh"
+      },
+      {
+        "narration": "Để bạn không cảm thấy hình ảnh bị giật lag, não bộ phải tự động dự đoán và lấp đầy các khoảng trống thời gian này.",
+        "search": "hoat hinh 3d ban tay cham vao mat ho nuoc tao gon song",
+        "caption": "Não tự chỉnh sửa hình ảnh thời gian thực"
+      },
+      {
+        "narration": "Điều đó có nghĩa là khái niệm hiện tại mà bạn đang cảm nhận thực chất là một bản ghi lại đã qua xử lý.",
+        "search": "hoat hinh 3d dong ho cat chay nguoc thoi gian",
+        "caption": "Hiện tại bạn thấy thực ra đã trải qua"
+      },
+      {
+        "narration": "Mắt bạn chưa từng nhìn thấy hiện tại, bạn chỉ đang sống trong một ảo giác chậm 80 mili-giây do chính bộ não tạo ra.",
+        "search": "hoat hinh 3d con nguoi nhin vao guong phan chieu",
+        "caption": "Bạn luôn sống chậm 80 miligiây so với thực tế"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T21:29:27.781001+00:00",
+    "updated_at": "2026-11-13T21:32:43.116376+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-13T21:30:28.922121+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "539 chars (cat 144 de vua 55s)",
+        "at": "2026-11-13T21:31:01.074408+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.1s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-13T21:31:21.278831+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T21:31:22.358321+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-13T21:31:36.919388+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-13T21:31:36.925866+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.1s 22403239 bytes",
+        "at": "2026-11-13T21:32:43.010481+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T21:32:43.116364+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7299471/7299471-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/27380944/12130209_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/36293232/15390508_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/8819491/8819491-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/9666934/9666934-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6445999/6445999-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39425812/16788568_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34536746/14633520_1440_2560_50fps.mp4",
+      "https://videos.pexels.com/video-files/18069863/18069863-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/28913059/12514227_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/40991873/17534623_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34094905/14460734_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40911931/17490169_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "6051fc6d3f",
     "kind": "long",
     "channel": "seigh",
