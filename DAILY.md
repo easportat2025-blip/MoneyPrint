@@ -1,4 +1,4 @@
-# Daily ping 12/11/2026
+# Daily ping 13/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Lý do uống cà phê ngay khi ngủ dậy làm bạn mệt hơn :: token refresh failed: 400 {
+- Thói Quen Nín Hắt Hơi Đang Âm Thầm Đe Dọa Tính Mạng Bạn :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Emperor Who Blinded 15,000 Soldiers :: token refresh failed: 400 {
+- The Dead Pope Put On Trial For Treason :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The King Who Poisoned Himself Every Day :: token refresh failed: 400 {
+- The Empress Who Blinded Her Son for Power :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
