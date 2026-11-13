@@ -1,5 +1,597 @@
 [
   {
+    "id": "6051fc6d3f",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Became a Footstool: Rome's Ultimate Humiliation",
+    "idea": {
+      "title": "The Emperor Who Became a Footstool: Rome's Ultimate Humiliation",
+      "hook": "In 260 AD, Emperor Valerian marched east to secure the borders of the mighty Roman Empire. Instead of victory, he suffered a fate worse than death—becoming the living footstool of Persian King Shapur I and a stuffed trophy displayed for decades.",
+      "beats": [
+        "Introduction: The year 260 AD and the unprecedented crisis threatening to tear the Roman Empire apart.",
+        "Context: The Crisis of the Third Century—plagues, hyperinflation, border invasions, and a crumbling imperial military.",
+        "The Rise of the Sassanids: Shapur I of Persia emerges as Rome's most dangerous eastern adversary.",
+        "Valerian's Campaign: Emperor Valerian marches east to save the city of Edessa, but his army is devastated by disease.",
+        "The Fatal Mistake: Trapped and desperate, Valerian attempts to negotiate a peace treaty with Shapur in person.",
+        "The Ambush: Shapur breaks protocol, ambushing Valerian's party and taking the Roman Emperor alive.",
+        "A Living Footstool: Shapur forces the captured emperor to kneel as a human step to help him mount his warhorse.",
+        "Propaganda in Stone: Shapur orders giant rock reliefs carved at Naqsh-e Rostam, immortalizing Rome's subjugation.",
+        "Rome's Shattered Pride: The political fallout in Rome, leading to the breakaway Gallic and Palmyrene empires.",
+        "The Dark End: Valerian dies in captivity, but his suffering does not end with his last breath.",
+        "Flayed and Stuffed: Shapur orders Valerian's skin flayed, dyed imperial red, stuffed with straw, and displayed in a Persian temple.",
+        "Conclusion: How Valerian's horrific demise marked the absolute lowest point of Roman history and transformed ancient diplomacy."
+      ],
+      "keywords": [
+        "Roman Empire",
+        "Emperor Valerian",
+        "Shapur I",
+        "Persian Empire",
+        "Crisis of the Third Century",
+        "Battle of Edessa",
+        "Sassanid Empire",
+        "Ancient History Documentary",
+        "Roman Warfare",
+        "Naqsh-e Rostam"
+      ],
+      "tags": [
+        "#ancientrome",
+        "#historydocumentary",
+        "#romanempire",
+        "#persianempire",
+        "#valerian",
+        "#shapur",
+        "#ancienthistory",
+        "#historymysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "ROME'S GREATEST HUMILIATION"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman emperor was once turned into a living footstool.",
+        "search": "roman emperor bust statue museum marble close up",
+        "caption": "Rome’s greatest emperor became a king's living footstool."
+      },
+      {
+        "narration": "In 260 AD, the Roman Empire faced total collapse during the Crisis of the Third Century, battered by plague, inflation, and relentless barbarian invasions.",
+        "search": "third century roman empire map engraving ancient",
+        "caption": "In 260 AD, the Roman Empire teetered on complete collapse."
+      },
+      {
+        "narration": "King Shapur I of the Sassanid Empire seized on Roman weakness, carving a trail of devastation through the eastern imperial provinces.",
+        "search": "shapur i sassanid king rock relief naqsh-e rostam carving",
+        "caption": "King Shapur I posed the ultimate threat to Eastern Rome."
+      },
+      {
+        "narration": "Emperor Valerian marched east with 70,000 legionaries to defend the city of Edessa, but a deadly epidemic severely crippled his army.",
+        "search": "emperor valerian roman coin profile portrait",
+        "caption": "Emperor Valerian marched east to save the besieged city."
+      },
+      {
+        "narration": "Desperate to save his starving troops, Valerian personally met Shapur for peace talks in 260 AD, only to be ambushed and taken prisoner alive.",
+        "search": "battle of edessa roman empire illustration",
+        "caption": "Trapped in battle, Emperor Valerian was taken prisoner alive."
+      },
+      {
+        "narration": "Shapur humiliated the captured emperor daily, forcing Valerian to kneel on all fours as a human footstool for mounting his warhorse.",
+        "search": "shapur i valerian naqsh-e rostam rock relief engraving",
+        "caption": "Valerian was forced to serve as a human step."
+      },
+      {
+        "narration": "Following Valerian's death in captivity, Persian guards flayed his skin, dyed it red, and stuffed it with straw as a temple trophy.",
+        "search": "ancient persian temple ruins oil painting historical",
+        "caption": "Rome's ruler was flayed and displayed as a trophy."
+      },
+      {
+        "narration": "The unprecedented capture of a living emperor shattered Roman prestige, triggering a decade of fragmenting empires and forever altering ancient diplomacy.",
+        "search": "gallic empire roman coin bronze ancient museum",
+        "caption": "Valerian's horrific defeat marked Rome's most devastating humiliation."
+      },
+      {
+        "narration": "News of Valerian's capture sent shockwaves through Rome, prompting his son and co-emperor Gallienus to assume sole control amidst immediate rebellions.",
+        "search": "emperor gallienus marble bust statue roman portrait",
+        "caption": "Gallienus inherits a fractured empire in 260 AD"
+      },
+      {
+        "narration": "General Postumus seized advantage of the chaos in 260 AD, breaking away the western provinces to declare a separate Gallic Empire.",
+        "search": "postumus roman coin portrait silver antoninianus",
+        "caption": "The western provinces form the breakaway Gallic Empire"
+      },
+      {
+        "narration": "In the East, Odaenathus of Palmyra stepped into the power vacuum, mounting a counter-offensive to defend Roman territory from further Sassanid incursions.",
+        "search": "odaenathus palmyra relief carving stone sculpture",
+        "caption": "Odaenathus of Palmyra steps up to defend Roman East"
+      },
+      {
+        "narration": "To ensure Rome never forgot their defeat, Shapur I commissioned massive rock reliefs carved into the cliffs of Naqsh-e Rostam.",
+        "search": "naqsh-e rostam shapur I triumph rock relief carving",
+        "caption": "Shapur I carved his victory into cliff faces"
+      },
+      {
+        "narration": "The monument depicted Valerian kneeling in submission while Philip the Arab offered tribute, cementing Sassanid dominance in stone.",
+        "search": "shapur valerian rock relief detail naqsh-e rostam",
+        "caption": "Reliefs show Roman emperors submitting to Sassanid power"
+      },
+      {
+        "narration": "Deprived of eastern revenue and facing hyperinflation, the central Roman state nearly collapsed as silver coins lost over ninety percent of their precious metal content.",
+        "search": "crisis third century debased roman silver coin set",
+        "caption": "Hyperinflation and currency debasement devastate Roman economy"
+      },
+      {
+        "narration": "Sassanid heavy cavalry, known as cataphracts, demonstrated that Roman legions were no longer invincible on the open battlefield.",
+        "search": "sassanid cataphract armor illustration ancient persia",
+        "caption": "Heavy cataphract cavalry shattered traditional Roman infantry formations (illustration)"
+      },
+      {
+        "narration": "Though Valerian remained a stuffed trophy in Bishapur for decades, his humiliating fall forced Rome to completely reengineer its military and political architecture.",
+        "search": "ancient bishapur temple ruins iran sassanid site",
+        "caption": "Rome overhauled its entire military system after 260 AD"
+      },
+      {
+        "narration": "No Roman emperor had ever been captured alive before 260 AD.",
+        "search": "emperor valerian roman coin portrait",
+        "caption": "In 260 AD, a living Roman Emperor was captured."
+      },
+      {
+        "narration": "During the Crisis of the Third Century, economic inflation and continuous civil wars left Rome's eastern borders exposed to foreign aggression.",
+        "search": "roman empire crisis map 3rd century engraving",
+        "caption": "Severe crisis eroded Roman military power across the empire."
+      },
+      {
+        "narration": "Emperor Valerian led sixty thousand legionaries east to break the Sassanid siege at Edessa.",
+        "search": "battle of edessa Roman legion illustration",
+        "caption": "Emperor Valerian marched east to save the city of Edessa."
+      },
+      {
+        "narration": "Before major combat began, a catastrophic outbreak of disease crippled the Roman ranks, leaving them surrounded by Persian forces.",
+        "search": "roman soldiers dying sick manuscript painting",
+        "caption": "A devastating outbreak of disease crippled the Roman legion."
+      },
+      {
+        "narration": "Attempting to negotiate a surrender, Valerian agreed to a personal meeting with King Shapur the First, who ambushed and shackled him.",
+        "search": "shapur i sassanid king statue bust",
+        "caption": "King Shapur I broke protocol and took Valerian captive."
+      },
+      {
+        "narration": "King Shapur forced the captive emperor onto his hands and knees to serve as a human step stool whenever mounting his warhorse.",
+        "search": "shapur i and valerian naqsh-e rostam relief carving",
+        "caption": "Valerian was forced to serve as a royal step stool."
+      },
+      {
+        "narration": "When Valerian died in captivity, Sassanid guards flayed his skin, dyed it red, and hung the straw-stuffed hide inside a Persian temple.",
+        "search": "ancient Persian fire temple oil painting",
+        "caption": "Valerian's flayed skin was displayed inside a Persian temple."
+      },
+      {
+        "narration": "The unprecedented capture of an emperor shattered Rome's aura of invincibility, triggering the immediate breakaway of the Gallic and Palmyrene empires.",
+        "search": "palmyrene empire queen zenobia statue bust",
+        "caption": "Rome's ultimate humiliation triggered the collapse of imperial unity."
+      },
+      {
+        "narration": "Shapur I did not stop at capturing Valerian; in 260 AD, Sassanid armies swept into Syria and Cilicia, sacking thirty major Roman cities.",
+        "search": "shapur I rock relief victory naqsh-e rostam carving",
+        "caption": "Sassanid forces devastated Roman Syria and Cilicia in 260 AD."
+      },
+      {
+        "narration": "In Rome, Emperor Gallienus faced a devastating choice: march east to avenge his father or defend the Rhine from invading Germanic tribes.",
+        "search": "emperor gallienus bust statue roman museum",
+        "caption": "Emperor Gallienus prioritized border defense over rescuing his captured father."
+      },
+      {
+        "narration": "Paralyzed by endless usurpers, Gallienus officially declared Valerian divinized, attempting to politically erase the living emperor's captivity.",
+        "search": "roman coin Emperor Gallienus silver antoninianus",
+        "caption": "Rome declared Valerian divine to politically mask his humiliating captivity."
+      },
+      {
+        "narration": "With imperial troops absent, King Odaenathus of Palmyra raised a private Syrian army to halt Shapur’s advancing Persian legionaries.",
+        "search": "king odaenathus palmyra relief carving illustration",
+        "caption": "Odaenathus of Palmyra mobilized local forces against the Persian invasion."
+      },
+      {
+        "narration": "In 261 AD, Odaenathus ambushed Shapur’s retreat across the Euphrates River, recapturing much of the stolen Roman treasury.",
+        "search": "euphrates river syria historical landscape engraving",
+        "caption": "Palmyrene forces ambushed King Shapur I along the Euphrates River."
+      },
+      {
+        "narration": "Odaenathus's victory created a semi-independent superpower, leaving Rome fractured between Postumus’s Gallic Empire and Zenobia’s expanding Palmyrene Kingdom.",
+        "search": "crisis of the third century map engraving roman empire",
+        "caption": "The Roman Empire shattered into three separate, warring geopolitical factions."
+      },
+      {
+        "narration": "Deep inside the Sassanid capital of Ctesiphon, Valerian’s tanned, straw-filled skin remained on open display as a stark warning to future Roman envoys.",
+        "search": "ctesiphon arch ruins ancient persia photograph",
+        "caption": "Valerian's flayed skin was displayed in Ctesiphon for decades."
+      },
+      {
+        "narration": "Emperor Aurelian eventually reunited the fractured realm in 274 AD, but the myth of Roman invincibility died permanently in the Persian dust.",
+        "search": "emperor aurelian marble bust statue portrait",
+        "caption": "Aurelian reunited Rome in 274 AD, restoring fragile imperial authority."
+      },
+      {
+        "narration": "Beyond the immediate political collapse, Valerian’s defeat exposed a critical flaw in Rome’s legionary tactics when facing heavy Sassanid cataphract cavalry.",
+        "search": "sassanid cataphract cavalry illustration",
+        "caption": "Heavy cataphracts exposed fatal flaws in Roman infantry tactics."
+      },
+      {
+        "narration": "To fund emergency troop recruitment, the imperial mints drastically debased the silver antoninianus, sparking hyperinflation across the Mediterranean.",
+        "search": "ancient roman coin antoninianus silver coin",
+        "caption": "Imperial currency debasement triggered economic collapse following Valerian's capture."
+      },
+      {
+        "narration": "Persian King Shapur I carved his triumph into history, commissioning the famous trilingual inscription at Ka'ba-ye Zartosht listing three humiliated Roman emperors.",
+        "search": "kaba-ye zartosht sassanid inscription photograph",
+        "caption": "Shapur inscribed his victories over three Roman emperors in stone."
+      },
+      {
+        "narration": "With Rome incapable of projecting force in Syria, Odaenathus of Palmyra mobilized local forces to launch a counter-attack against Shapur’s victorious armies.",
+        "search": "odaenathus palmyra bust statue",
+        "caption": "Odaenathus of Palmyra stepped into the power vacuum left by Rome."
+      },
+      {
+        "narration": "Terrified by the sudden vulnerability of the empire, cities across Europe began frantically erecting stone defensive walls for the first time in centuries.",
+        "search": "aurelian walls rome ancient fortification photograph",
+        "caption": "Fear of invasion forced Roman cities to construct massive defensive walls."
+      },
+      {
+        "narration": "Early Christian writers like Lactantius framed Valerian's flaying as direct divine punishment for his severe anti-Christian persecution decree of 257 AD.",
+        "search": "lactantius christian scholar manuscript engraving",
+        "caption": "Christian chroniclers viewed Valerian's horrific death as divine retribution."
+      },
+      {
+        "narration": "Shapur put thousands of captured Roman legionaries to work, forcing skilled engineers to construct the massive Band-e Kaisar dam in modern Iran.",
+        "search": "band-e kaisar shushtar historical bridge photograph",
+        "caption": "Roman prisoners were forced to construct Persian engineering marvels."
+      },
+      {
+        "narration": "For over a century, Roman emperors lived under the shadow of Valerian's fate, knowing that a single misstep in the East meant eternal ignominy.",
+        "search": "roman emperor bust sculpture marble",
+        "caption": "Valerian's fate cast a century-long shadow over Roman diplomacy."
+      },
+      {
+        "narration": "Did Persian King Shapur I keep the captured Roman emperor alive merely to mock him, or as a living warning to all of Western civilization?",
+        "search": "ancient persian rock relief shapur i sculpture photograph",
+        "caption": "A captive emperor transformed into an instrument of royal propaganda."
+      },
+      {
+        "narration": "At Naqsh-e Rostam, Shapur commissioned colossal rock reliefs depicting Valerian begging for mercy on his knees beneath the Persian king's warhorse.",
+        "search": "naqsh-e rostam rock relief shapur valerian carving photograph",
+        "caption": "Carved in stone: Rome's supreme ruler kneeling before Persia."
+      },
+      {
+        "narration": "In 260 AD, news of the capture shattered Rome's authority, causing the empire to instantly fracture into rival realms under Postumus and Zenobia.",
+        "search": "roman emperor gallienus marble bust statue",
+        "caption": "Valerian's son inherited a shattered empire collapsing on three fronts."
+      },
+      {
+        "narration": "Whenever Shapur mounted his horse, imperial protocols dictated that the former ruler of sixty million Romans served as his physical footstool.",
+        "search": "sassanid king horseback silver plate artifact",
+        "caption": "Ancient silver dishes depicted Sassanid kings asserting absolute military dominance."
+      },
+      {
+        "narration": "Christian historian Lactantius recorded that Valerian suffered years of daily torment, his royal pride systematically stripped away in full view of the Persian court.",
+        "search": "lactantius medieval manuscript illumination",
+        "caption": "Early historians recorded the harrowing rituals of Valerian's prolonged captivity."
+      },
+      {
+        "narration": "When Valerian finally succumbed to old age and agony in Persian captivity, his tormenters refused to grant him a burial.",
+        "search": "ancient persian royal palace court ruins photograph",
+        "caption": "Imperial captivity ended in death, but his humiliation was far from over."
+      },
+      {
+        "narration": "On Shapur's command, artisans flayed the emperor's skin, dyed it royal red, and stuffed the hide with straw to preserve his form.",
+        "search": "ancient roman imperial red silk artifact",
+        "caption": "The emperor's skin was preserved and displayed in a Persian sanctuary."
+      },
+      {
+        "narration": "For generations, visiting Roman envoys were escorted past Valerian's stuffed corpse, a stark reminder of what happened to Rome's supreme leader.",
+        "search": "ancient persian fire temple ruins photograph",
+        "caption": "Valerian's preserved hide remained a diplomatic weapon for over a century."
+      },
+      {
+        "narration": "In 260 AD, news of Valerian’s capture reached Rome, leaving his son and co-emperor Gallienus to govern an empire crumbling on every front.",
+        "search": "emperor gallienus roman coin portrait",
+        "caption": "Rome trembles as news of Valerian's fate reaches the capital."
+      },
+      {
+        "narration": "Unable to launch a rescue campaign, Gallienus officially declared his father a god, a cynical move that alienated the Roman public and military.",
+        "search": "ancient roman marble relief senate sculpture",
+        "caption": "Gallienus deifies his father rather than mounting a rescue."
+      },
+      {
+        "narration": "Sensing Rome’s utter helplessness, military commanders across the provinces revolted, sparking dozens of bloody civil wars.",
+        "search": "third century roman legion battle oil painting",
+        "caption": "Provincial commanders revolt across the fractured Roman empire."
+      },
+      {
+        "narration": "General Postumus broke away entirely in 260 AD, establishing the independent Gallic Empire across Gaul, Britannia, and Hispania.",
+        "search": "emperor postumus roman coin silver",
+        "caption": "Postumus seizes northern provinces, creating the Gallic Empire."
+      },
+      {
+        "narration": "In the East, the merchant city of Palmyra under King Odaenathus stepped forward to defend the frontier against further Persian advances.",
+        "search": "ancient palmyra ruins syria 19th century photograph",
+        "caption": "Palmyra steps into the vacuum left by Rome's defeat."
+      },
+      {
+        "narration": "Odaenathus ambushed Shapur’s returning forces near the Euphrates River, seizing Persia’s plunder and capturing King Shapur’s royal court.",
+        "search": "battle of euphrates sassanid roman oil painting",
+        "caption": "Palmyrene forces ambush Shapur along the Euphrates River."
+      },
+      {
+        "narration": "By 265 AD, the once unified Roman realm was fragmented into three competing states, teetering on complete extinction.",
+        "search": "ancient roman empire map vintage engraving",
+        "caption": "The Roman Empire splits into three separate hostile realms."
+      },
+      {
+        "narration": "As Germanic tribes crossed the Danube and Persian armies reorganized, Rome faced total annihilation, setting the stage for its final desperate struggle.",
+        "search": "barbarian invasion of rome oil painting",
+        "caption": "Invading tribes threaten Rome with total structural collapse."
+      },
+      {
+        "narration": "In Bishapur and Naqsh-e Rostam, King Shapur I ensured Valerian's humiliation was carved directly into mountain cliff faces for eternity.",
+        "search": "shapur i naqsh-e rostam rock relief carving photograph",
+        "caption": "Carving Rome's Defeat in Stone"
+      },
+      {
+        "narration": "Whenever Shapur I mounted his royal steed, he forced the chained Emperor Valerian to drop to all fours as his personal footstool.",
+        "search": "shapur i valerian ancient persian rock relief detail illustration",
+        "caption": "A Living Footstool for the King"
+      },
+      {
+        "narration": "In Rome, Valerian’s son Emperor Gallienus launched no rescue mission, forced instead to battle continuous Germanic invasions along the Rhine.",
+        "search": "emperor gallienus roman marble bust statue",
+        "caption": "Gallienus Abandons His Father"
+      },
+      {
+        "narration": "Over seventy thousand captured Roman legionaries were forced into slave labor, constructing the massive Band-e Kaisar dam in Persian territory.",
+        "search": "band-e kaisar shushtar arch bridge ancient masonry photograph",
+        "caption": "Roman Prisoners Built Persian Infrastructure"
+      },
+      {
+        "narration": "After years of public mockery and severe confinement, the elderly Valerian died in Sassanid captivity around 264 AD.",
+        "search": "ancient roman emperor captive in chains oil painting",
+        "caption": "Death in Persian Captivity"
+      },
+      {
+        "narration": "Rather than granting his imperial prisoner a royal burial, Shapur I ordered Valerian’s corpse to be flayed.",
+        "search": "sassanid royal palace ctesiphon reconstruction architectural drawing",
+        "caption": "The Macabre Aftermath of Death"
+      },
+      {
+        "narration": "The emperor's skin was dyed vermilion, stuffed with straw, and hung inside a Persian temple as a warning to foreign ambassadors.",
+        "search": "ancient zoroastrian fire temple ruins photograph",
+        "caption": "Displayed as an Imperial Trophy"
+      },
+      {
+        "narration": "For decades, Roman envoys visiting the Sassanid court were compelled to inspect the stuffed skin of their former ruler before negotiations began.",
+        "search": "roman empire ambassadors meeting persians history oil painting",
+        "caption": "Decades of Unchecked Humiliation"
+      },
+      {
+        "narration": "No Roman emperor had ever surrendered alive until 260 AD. Valerian's capture immediately shattered the empire into three competing realms.",
+        "search": "roman empire 3rd century crisis map illustration",
+        "caption": "No Roman emperor had ever surrendered alive until 260 AD."
+      },
+      {
+        "narration": "In Rome, Valerian’s son Gallienus faced widespread rebellions and invasions along the northern borders. Abandoning any hope of rescue, Gallienus declared his captured father a god to consolidate his own shaky reign.",
+        "search": "emperor gallienus marble bust statue",
+        "caption": "Gallienus declared his captured father a god to secure his throne."
+      },
+      {
+        "narration": "Seeing imperial authority collapse, General Postumus revolted in 260 AD and formed the breakaway Gallic Empire. Rome lost control of Gaul, Britannia, and Hispania in a matter of months.",
+        "search": "postumus roman silver coin portrait",
+        "caption": "General Postumus carved away Gaul and Britannia from central Roman control."
+      },
+      {
+        "narration": "In the East, King Odaenathus of Palmyra assumed command of Rome's defenseless eastern provinces. Following his death, Queen Zenobia expanded the territory, establishing a sovereign Palmyrene Empire.",
+        "search": "queen zenobia oil painting portrait",
+        "caption": "Queen Zenobia seized eastern Roman provinces to build the Palmyrene Empire."
+      },
+      {
+        "narration": "To ensure Persian dominance was recorded for eternity, Shapur I commissioned massive cliff carvings at Naqsh-e Rostam. The reliefs depict Valerian kneeling in perpetual bondage beneath Shapur’s warhorse.",
+        "search": "naqsh-e rostam shapur rock relief photo",
+        "caption": "Massive cliff carvings immortalized Valerian kneeling before the Persian king."
+      },
+      {
+        "narration": "It took a decade of chaos before Emperor Aurelian assumed power in 270 AD with a desperate mandate to reunite the empire. Through relentless campaigning, Aurelian crushed the Palmyrene and Gallic breakaway states.",
+        "search": "emperor aurelian marble bust statue",
+        "caption": "Emperor Aurelian spent his reign reuniting the shattered Roman world."
+      },
+      {
+        "narration": "Although Aurelian restored Roman borders, the disaster at Edessa permanently transformed ancient geopolitics. The Sassanid Empire established itself as Rome’s equal rival, ending centuries of unchecked Roman hegemony.",
+        "search": "roman sassanid battle oil painting",
+        "caption": "The disaster permanently established Persia as an equal rival to Rome."
+      },
+      {
+        "narration": "Valerian remained the only Roman emperor ever taken alive by a foreign enemy. His horrific end as a human footstool served as an enduring warning of imperial vulnerability.",
+        "search": "valerian kneeling shapur relief carving photo",
+        "caption": "Valerian remains the only Roman emperor captured alive by foreign enemies."
+      },
+      {
+        "narration": "In 260 AD, Rome's ruler became a living footstool.",
+        "search": "Emperor Valerian Roman coin",
+        "caption": "260 AD: Rome's ultimate humiliation"
+      },
+      {
+        "narration": "During the Crisis of the Third Century, plagues and border invasions pushed Emperor Valerian to defend Edessa in modern Turkey.",
+        "search": "ancient roman map engraving middle east edessa",
+        "caption": "Crisis of the Third Century destabilizes Rome"
+      },
+      {
+        "narration": "Facing catastrophic outbreaks within his ranks, Valerian made the fatal choice to negotiate peace in person with Persian King Shapur I.",
+        "search": "Shapur I Sassanid king bust statue",
+        "caption": "Valerian meets Shapur I for peace talks"
+      },
+      {
+        "narration": "Violating ancient diplomatic custom, Sassanid soldiers ambushed the Roman imperial entourage and dragged Valerian away in chains.",
+        "search": "battle of edessa roman empire history illustration",
+        "caption": "Emperor Valerian captured alive in 260 AD"
+      },
+      {
+        "narration": "King Shapur subjected the captive emperor to daily public degradation, forcing Valerian onto his hands and knees as a mounting step.",
+        "search": "Naqsh-e Rostam relief carving Shapur Valerian",
+        "caption": "Shapur I uses Valerian as a footstool"
+      },
+      {
+        "narration": "To cement this imperial dominance in stone, Persian stonemasons carved giant rock reliefs at Naqsh-e Rostam depicting Rome's submission.",
+        "search": "Naqsh-e Rostam rock relief ancient Persia photo",
+        "caption": "Immense rock reliefs carved at Naqsh-e Rostam"
+      },
+      {
+        "narration": "When Valerian died in captivity, Persian guards flayed his skin, dyed it imperial red, and displayed his stuffed hide inside a temple.",
+        "search": "ancient Persian temple ruins engraving",
+        "caption": "Valerian flayed and displayed as a trophy"
+      },
+      {
+        "narration": "Valerian's brutal fate shattered Rome's myth of invincibility, cementing Persia as an equal rival and permanently altering ancient diplomacy.",
+        "search": "Roman Empire imperial bust statue",
+        "caption": "The disaster that reshaped ancient imperial power"
+      },
+      {
+        "narration": "In 260 AD, Rome's emperor became a Persian footstool.",
+        "search": "shapur I roman emperor valerian naqsh-e rostam relief carving",
+        "caption": "Rome's ultimate humiliation occurred in 260 AD."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T20:43:38.726125+00:00",
+    "updated_at": "2026-11-13T20:59:21.669016+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-13T20:47:50.033127+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2445 chars",
+        "at": "2026-11-13T20:48:11.895904+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "154.1s en-US-GuyNeural 25 cau",
+        "at": "2026-11-13T20:48:28.540259+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T20:48:32.629409+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-13T20:54:54.519166+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T20:54:54.524928+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 154.1s 132353134 bytes",
+        "at": "2026-11-13T20:59:21.533714+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-11-13T20:59:21.547160+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T20:59:21.669007+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/11850293/pexels-photo-11850293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26975953/pexels-photo-26975953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5668222/pexels-photo-5668222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927968/pexels-photo-29927968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7186544/pexels-photo-7186544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40877634/pexels-photo-40877634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760105/pexels-photo-7760105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30726162/pexels-photo-30726162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10819062/pexels-photo-10819062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096150/pexels-photo-37096150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11731106/pexels-photo-11731106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760089/pexels-photo-7760089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34789942/pexels-photo-34789942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34579084/pexels-photo-34579084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732742/pexels-photo-34732742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760103/pexels-photo-7760103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9898339/pexels-photo-9898339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494904/pexels-photo-9494904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125823/pexels-photo-38125823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29153740/pexels-photo-29153740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33845791/pexels-photo-33845791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30308435/pexels-photo-30308435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7321295/pexels-photo-7321295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15071216/pexels-photo-15071216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14255789/pexels-photo-14255789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11001099/pexels-photo-11001099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9648153/pexels-photo-9648153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38472511/pexels-photo-38472511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38288431/pexels-photo-38288431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35417014/pexels-photo-35417014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33713589/pexels-photo-33713589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162205/pexels-photo-6162205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6920322/pexels-photo-6920322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19047968/pexels-photo-19047968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11489985/pexels-photo-11489985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15094180/pexels-photo-15094180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11475477/pexels-photo-11475477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8957700/pexels-photo-8957700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10634687/pexels-photo-10634687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760100/pexels-photo-7760100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20039699/pexels-photo-20039699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28677027/pexels-photo-28677027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39796759/pexels-photo-39796759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34772856/pexels-photo-34772856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806584/pexels-photo-38806584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5076556/pexels-photo-5076556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37520853/pexels-photo-37520853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35766661/pexels-photo-35766661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397773/pexels-photo-16397773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20979926/pexels-photo-20979926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36756153/pexels-photo-36756153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6486619/pexels-photo-6486619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37843997/pexels-photo-37843997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6432802/pexels-photo-6432802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8719167/pexels-photo-8719167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5624531/pexels-photo-5624531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838611/pexels-photo-20838611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40773815/pexels-photo-40773815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9930707/pexels-photo-9930707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20272083/pexels-photo-20272083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13507814/pexels-photo-13507814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35663051/pexels-photo-35663051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37436921/pexels-photo-37436921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10386004/pexels-photo-10386004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40981269/pexels-photo-40981269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14638945/pexels-photo-14638945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20858636/pexels-photo-20858636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32990232/pexels-photo-32990232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143378/pexels-photo-38143378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10961488/pexels-photo-10961488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32486063/pexels-photo-32486063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35357119/pexels-photo-35357119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7227365/pexels-photo-7227365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31452323/pexels-photo-31452323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34219155/pexels-photo-34219155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760178/pexels-photo-7760178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12740233/pexels-photo-12740233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32573366/pexels-photo-32573366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30024951/pexels-photo-30024951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d402e683ec",
     "kind": "short",
     "channel": "Channel3",
