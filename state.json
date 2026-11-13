@@ -1,5 +1,161 @@
 [
   {
+    "id": "a1740ee3c5",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Genghis Khan Used His Daughters to Rule Asia",
+    "idea": {
+      "title": "How Genghis Khan Used His Daughters to Rule Asia",
+      "hook": "Genghis Khan married his daughters to allied kings, only to secretly send those husbands to die on the front lines in an ultimate act of cold betrayal.",
+      "beats": [
+        "Genghis Khan married his daughters to foreign kings, forcing the rulers to dismiss all their other wives.",
+        "He assigned his new sons-in-law to command the front lines of dangerous Mongol military campaigns.",
+        "When the kings invariably died in battle, his daughters inherited their thrones and entire kingdoms.",
+        "These widow daughters formed a loyal shield around the Mongol heartland while Genghis expanded his empire."
+      ],
+      "keywords": [
+        "Genghis Khan portrait",
+        "Mongol empire map",
+        "ancient Mongolian princess",
+        "medieval battle painting",
+        "Eurasia map antique"
+      ],
+      "tags": [
+        "Genghis Khan",
+        "Mongol Empire",
+        "Ancient History",
+        "History Documentaries",
+        "Shorts History"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Genghis Khan used his daughters as the ultimate weapons of empire.",
+        "search": "Genghis Khan portrait painting",
+        "caption": "How Genghis Khan ruled through his daughters"
+      },
+      {
+        "narration": "In the early thirteenth century across Eurasia, the Mongol ruler forged alliances through strategic marriages.",
+        "search": "Eurasia map antique engraving",
+        "caption": "Strategic alliances across the thirteenth-century empire"
+      },
+      {
+        "narration": "He required each foreign king who married a Mongol princess to dismiss his other wives immediately.",
+        "search": "medieval manuscript illustration of royal wedding",
+        "caption": "Kings were forced to dismiss all other wives"
+      },
+      {
+        "narration": "Genghis Khan then assigned these new sons-in-law to command the deadliest front lines.",
+        "search": "medieval battle painting with mounted archers",
+        "caption": "Sons-in-law commanded the deadliest front lines"
+      },
+      {
+        "narration": "When the husbands invariably died in combat, the daughters secured absolute control.",
+        "search": "ancient Mongolian princess illustration",
+        "caption": "Widowed daughters inherited the conquered kingdoms"
+      },
+      {
+        "narration": "These ruling women managed vital communication lines and protected imperial trade routes.",
+        "search": "Mongol empire map parchment",
+        "caption": "Widow daughters formed an impenetrable defensive shield"
+      },
+      {
+        "narration": "Their strategic governance solidified Mongol dominance from the steppes to foreign capitals.",
+        "search": "ancient fortress ruins Mongolia oil painting",
+        "caption": "Securing the heartland while the empire expanded"
+      },
+      {
+        "narration": "This lethal matrimonial strategy allowed Genghis Khan to outlive and outmaneuver every rival.",
+        "search": "Genghis Khan statue monument photography",
+        "caption": "The lethal matrimonial strategy of the Great Khan"
+      },
+      {
+        "narration": "In the thirteenth century across Eurasia, these widowed queens inherited vast frontier kingdoms.",
+        "search": "Eurasia map antique manuscript",
+        "caption": "Widow queens inherit strategic frontier kingdoms."
+      },
+      {
+        "narration": "They secured the Mongol heartland against external invasions while fathers and husbands fell in battle.",
+        "search": "medieval battle painting oil",
+        "caption": "A loyal shield protecting the Mongol heartland."
+      },
+      {
+        "narration": "Genghis Khan outmaneuvered every rival ruler by turning royal marriages into lethal geopolitical traps.",
+        "search": "Genghis Khan portrait painting ultimate",
+        "caption": "The ultimate betrayal that built an empire."
+      },
+      {
+        "narration": "Genghis Khan used deadly matrimonial traps to conquer all of Asia.",
+        "search": "Genghis Khan portrait miniature manuscript painting",
+        "caption": "How Genghis Khan ruled through his daughters"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T07:43:48.750105+00:00",
+    "updated_at": "2026-11-13T07:47:47.243713+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-13T07:45:35.158841+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "384 chars (cat 205 de vua 55s)",
+        "at": "2026-11-13T07:45:58.033847+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.8s en-US-GuyNeural 4 cau",
+        "at": "2026-11-13T07:46:01.356241+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T07:46:01.822282+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-13T07:47:19.283565+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T07:47:19.286217+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.8s 15317619 bytes",
+        "at": "2026-11-13T07:47:47.110336+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T07:47:47.243707+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6466766/pexels-photo-6466766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828392/pexels-photo-8828392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13207104/pexels-photo-13207104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736365/pexels-photo-30736365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9466057/pexels-photo-9466057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627841/pexels-photo-8627841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9950462/pexels-photo-9950462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35418024/pexels-photo-35418024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20423458/pexels-photo-20423458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142320/pexels-photo-19142320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35895048/pexels-photo-35895048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12494796/pexels-photo-12494796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dd5d205612",
     "kind": "short",
     "channel": "Channel3",
