@@ -1,5 +1,167 @@
 [
   {
+    "id": "d402e683ec",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bí mật nhiệt độ phòng giúp cơ thể tự đốt mỡ khi ngủ",
+    "idea": {
+      "title": "Bí mật nhiệt độ phòng giúp cơ thể tự đốt mỡ khi ngủ",
+      "hook": "Sự thật ít ai biết: Bạn có thể đốt nhiều calo hơn mỗi đêm chỉ bằng cách hạ nhiệt độ máy lạnh xuống một chút.",
+      "beats": [
+        "Khi ngủ trong phòng mát (khoảng 19°C), cơ thể buộc phải kích hoạt mỡ nâu (brown fat) để duy trì thân nhiệt.",
+        "Mỡ nâu là loại mỡ tốt, chuyên đốt cháy calo và mỡ trắng thừa để tạo ra nhiệt lượng.",
+        "Nghiên cứu cho thấy ngủ trong môi trường lạnh giúp cải thiện độ nhạy insulin và tăng tốc độ trao đổi chất.",
+        "Nhiệt độ phòng thấp còn kích thích não tiết ra melatonin, giúp bạn đi vào giấc ngủ nhanh và sâu hơn."
+      ],
+      "keywords": [
+        "sleeping person bedroom",
+        "air conditioner cold room",
+        "brown fat cells science",
+        "deep sleep brain wave",
+        "thermometer temperature drop"
+      ],
+      "tags": [
+        "nhiet do phong ngu",
+        "giam can khi ngu",
+        "bi mat co the",
+        "meo ngu ngon",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ ở 19 độ C giúp giảm cân nhanh hơn?",
+        "search": "3d animation nguoi nam ngu tren giuong dong ho dem giay",
+        "caption": "Ngủ 19 độ C giúp đốt mỡ tự nhiên?"
+      },
+      {
+        "narration": "Khi hạ nhiệt độ máy lạnh xuống mức mát lạnh, cơ thể bạn lập tức kích hoạt một cơ chế sinh tồn ẩn giấu.",
+        "search": "isometric render may lanh dieu hoa thoi khi lanh 3d",
+        "caption": "Nhiệt độ thấp kích hoạt cơ chế sinh tồn bí mật"
+      },
+      {
+        "narration": "Thay vì tích tụ như mỡ trắng thông thường, cơ thể bắt đầu bật công tắc của loại mỡ đặc biệt gọi là mỡ nâu.",
+        "search": "3d animation te bao mo nau chuyen hoa nang luong",
+        "caption": "Công tắc mỡ nâu được kích hoạt khi lạnh"
+      },
+      {
+        "narration": "Mỡ nâu đóng vai trò như một lò sưởi sinh học, liên tục đốt cháy mỡ thừa dư thừa để giữ ấm cho cơ thể suốt đêm.",
+        "search": "motion graphics lo suoi sinh hoc dot chay calo 3d",
+        "caption": "Mỡ nâu đốt cháy mỡ thừa để tạo nhiệt lượng"
+      },
+      {
+        "narration": "Các nghiên cứu chỉ ra rằng ngủ trong phòng lạnh giúp tăng tốc độ trao đổi chất lên đáng kể chỉ sau vài tuần.",
+        "search": "3d explainer animation bieu do trao doi chat va calo",
+        "caption": "Tăng tốc trao đổi chất khi ngủ trong môi trường lạnh"
+      },
+      {
+        "narration": "Đồng thời, độ nhạy insulin được cải thiện rõ rệt, giúp kiểm soát lượng đường trong máu tốt hơn ngay cả khi bạn đang ngủ.",
+        "search": "3d animation phan tu insulin va duong trong mat mau",
+        "caption": "Cải thiện độ nhạy insulin và kiểm soát đường huyết"
+      },
+      {
+        "narration": "Không chỉ đốt mỡ, không khí mát mẻ còn kích thích não bộ giải phóng hormone melatonin mạnh mẽ hơn.",
+        "search": "3d animation nao bo tiet hormone melatonin dem",
+        "caption": "Không khí mát kích thích não tiết ra melatonin"
+      },
+      {
+        "narration": "Nhờ đó, bạn chìm vào giấc ngủ sâu hơn, giúp quá trình phục hồi và tự đốt calo diễn ra tối đa.",
+        "search": "cartoony 3d song nao giac ngu sau deep sleep",
+        "caption": "Giấc ngủ sâu giúp tối ưu hóa quá trình đốt calo"
+      },
+      {
+        "narration": "Môi trường mát còn giúp tăng độ nhạy insulin, kích thích cơ thể xử lý đường hiệu quả hơn và hạn chế tích mỡ.",
+        "search": "hoat hinh 3d mach mau va phan tu duong insulin",
+        "caption": "Tăng độ nhạy insulin, hạn chế tích mỡ thừa"
+      },
+      {
+        "narration": "Tuy nhiên nếu chỉnh điều hòa quá lạnh dưới 16 độ, cơ thể sẽ bị căng thẳng và tiết ra hormone cortisol gây tích mỡ.",
+        "search": "hoat hinh 3d nguoi nam run co quap vi lanh trong phong",
+        "caption": "Quá lạnh dưới 16 độ làm kích thích cortisol"
+      },
+      {
+        "narration": "Nhiệt độ vàng được các chuyên gia giấc ngủ khuyến nghị là trong khoảng 18 đến 20 độ C.",
+        "search": "hoat hinh 3d chiec dieu hoa hien thi 19 do C",
+        "caption": "Nhiệt độ lý tưởng: 18 đến 20 độ C"
+      },
+      {
+        "narration": "Bạn nên kết hợp đắp một chiếc chăn mỏng để vừa giữ ấm phần thân, vừa tận hưởng không khí mát lành.",
+        "search": "hoat hinh 3d nguoi dap chan mong miem cuoi ngu ngoi",
+        "caption": "Đắp chăn mỏng giữ ấm để ngủ sâu hơn"
+      },
+      {
+        "narration": "Chỉ cần hạ nhẹ điều hòa tối nay, bạn đã biến 8 tiếng ngủ thành cỗ máy tự đốt mỡ tự nhiên.",
+        "search": "hoat hinh 3d dong ho sinh hoc va bieu tuong dot calo",
+        "caption": "Tự đốt mỡ mỗi đêm chỉ nhờ giảm nhiệt độ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T20:10:49.877388+00:00",
+    "updated_at": "2026-11-13T20:14:08.283856+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-13T20:11:42.699309+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "515 chars (cat 127 de vua 55s)",
+        "at": "2026-11-13T20:12:23.325666+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.7s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-13T20:12:35.831361+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T20:12:36.890457+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-13T20:12:53.456369+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-13T20:12:53.461369+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.7s 33058662 bytes",
+        "at": "2026-11-13T20:14:08.192410+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T20:14:08.283843+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/16561460/16561460-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439745/15439745-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456781/16456781-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34638592/14681209_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324572/13788017_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16029657/16029657-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9488249/9488249-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15863499/15863499-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39242897/16699423_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28924818/12518566_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/5863152/5863152-hd_1080_1920_29fps.mp4",
+      "https://videos.pexels.com/video-files/39624694/16890878_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40911927/17490157_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "a2011ff944",
     "kind": "short",
     "channel": "Channel3",
