@@ -1,5 +1,161 @@
 [
   {
+    "id": "af9744a24b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Killed by a Lying Secretary",
+    "idea": {
+      "title": "The Roman Emperor Killed by a Lying Secretary",
+      "hook": "Emperor Aurelian saved Rome from collapse, but a single panic-driven lie from his secretary led to his sudden murder.",
+      "beats": [
+        "Aurelian caught his secretary lying and threatened him with severe punishment.",
+        "Terrified, the secretary forged a fake execution list naming Aurelian's top army generals.",
+        "Believing Aurelian planned to execute them all, the loyal generals struck first and assassinated him.",
+        "Only after his death did the officers discover the document was fake, weeping bitterly over their tragic mistake."
+      ],
+      "keywords": [
+        "emperor aurelian painting",
+        "roman army ancient engraving",
+        "roman empire vintage map",
+        "ancient portrait oil painting",
+        "assassination historical art"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "aurelian",
+        "romanemperor",
+        "historydocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A forged list destroyed Rome's greatest emperor in 275 AD.",
+        "search": "emperor aurelian portrait oil painting",
+        "caption": "A forged list destroyed Rome's greatest emperor in 275 AD."
+      },
+      {
+        "narration": "By 275 AD, Emperor Aurelian had re-unified a fractured Roman Empire through sheer military strength.",
+        "search": "roman empire vintage map engraving 3rd century",
+        "caption": "Aurelian re-unified the collapsing Roman Empire by 275 AD."
+      },
+      {
+        "narration": "Known for uncompromising discipline, Aurelian routinely executed corrupt court officials without mercy.",
+        "search": "ancient portrait oil painting Roman emperor bust statue",
+        "caption": "Aurelian enforced brutal anti-corruption laws across Rome."
+      },
+      {
+        "narration": "While preparing a campaign in Thrace, Aurelian caught his chief secretary, Eros, lying about a minor administrative matter.",
+        "search": "roman scribe writing scroll manuscript illustration",
+        "caption": "Secretary Eros was caught telling a lie to the emperor."
+      },
+      {
+        "narration": "Knowing Aurelian never pardoned deceitful staff, Eros panicked, expecting immediate torture and execution.",
+        "search": "ancient roman court historical painting dark tone",
+        "caption": "Fearing brutal execution, the secretary panicked."
+      },
+      {
+        "narration": "Eros forged Aurelian's exact handwriting onto an official imperial execution roster.",
+        "search": "ancient parchment manuscript scroll writing detail photo",
+        "caption": "Eros forged the emperor's handwriting on a death scroll."
+      },
+      {
+        "narration": "He filled the fake condemned list with the names of Rome's top military commanders.",
+        "search": "roman army ancient engraving generals commanders",
+        "caption": "The forged list condemned top army generals to death."
+      },
+      {
+        "narration": "Eros rushed to the unsuspecting generals, claiming Aurelian secretly ordered their immediate execution.",
+        "search": "assassination historical art ancient rome soldiers drama",
+        "caption": "Eros warned the generals of their fake execution orders."
+      },
+      {
+        "narration": "Terrified for their lives, high-ranking army officers ambushed Emperor Aurelian at Caenophrurium in 275 AD, striking him down before he could defend himself.",
+        "search": "assassination of aurelian roman emperor oil painting",
+        "caption": "In 275 AD, panicked generals ambushed Emperor Aurelian."
+      },
+      {
+        "narration": "Upon inspecting the official records immediately after the murder, the commanders realized with horror that the execution list was a complete forgery.",
+        "search": "roman army generals ancient engraving",
+        "caption": "The officers soon discovered the execution list was entirely forged."
+      },
+      {
+        "narration": "The remorseful generals executed the lying secretary Eros, leaving Rome to mourn the emperor who saved the empire only to fall to a single panic-driven lie.",
+        "search": "emperor aurelian statue bust marble sculpture",
+        "caption": "Rome's greatest restorer was undone by a secretary's desperate lie."
+      },
+      {
+        "narration": "In 275 AD, a single forged document brought down Rome's greatest restorer.",
+        "search": "emperor aurelian bust statue ancient Roman sculpture",
+        "caption": "A single lie killed Rome's greatest restorer in 275 AD."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T11:21:41.992830+00:00",
+    "updated_at": "2026-11-13T11:24:57.788822+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-13T11:22:18.286554+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "335 chars (cat 277 de vua 55s)",
+        "at": "2026-11-13T11:23:15.862839+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.6s en-US-GuyNeural 5 cau",
+        "at": "2026-11-13T11:23:20.472633+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T11:23:21.231169+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-13T11:24:12.964418+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T11:24:12.968826+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.6s 13049401 bytes",
+        "at": "2026-11-13T11:24:57.614676+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T11:24:57.788814+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/19940743/pexels-photo-19940743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26976077/pexels-photo-26976077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18525362/pexels-photo-18525362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29300336/pexels-photo-29300336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32549848/pexels-photo-32549848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38813316/pexels-photo-38813316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33645345/pexels-photo-33645345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405771/pexels-photo-37405771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708773/pexels-photo-35708773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2755811/pexels-photo-2755811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12379867/pexels-photo-12379867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698400/pexels-photo-8698400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a1740ee3c5",
     "kind": "short",
     "channel": "Channel2",
