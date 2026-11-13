@@ -1,5 +1,161 @@
 [
   {
+    "id": "a42ce18cb8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Dead Pope Put On Trial For Treason",
+    "idea": {
+      "title": "The Dead Pope Put On Trial For Treason",
+      "hook": "In 897 AD, Pope Stephen VI exhumed his rival's rotting corpse, dressed it in sacred robes, and put a dead man on trial for treason.",
+      "beats": [
+        "Pope Stephen VI harbored an intense hatred for his predecessor, Pope Formosus.",
+        "The seven-month-old corpse was propped up on a throne while a young deacon was forced to speak on its behalf.",
+        "After being found guilty, the corpse had its holy fingers chopped off and was dragged through Rome's streets.",
+        "Public horror at this grotesque betrayal sparked a revolt, leading to Stephen VI being imprisoned and strangled to death."
+      ],
+      "keywords": [
+        "Cadaver Synod painting",
+        "Pope Formosus trial portrait",
+        "Medieval Rome engraving",
+        "Pope Stephen VI portrait",
+        "Vatican history artwork"
+      ],
+      "tags": [
+        "#history",
+        "#medieval",
+        "#vatican",
+        "#historyfacts",
+        "#darkhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 897 AD, a dead Pope stood trial for treason.",
+        "search": "Cadaver Synod Jean Paul Laurens oil painting",
+        "caption": "A dead Pope was tried for treason in 897 AD"
+      },
+      {
+        "narration": "Ninth-century Rome was torn apart by brutal political factions fighting for control of the Vatican.",
+        "search": "Medieval Rome map engraving",
+        "caption": "Ninth-century Rome was consumed by political warfare"
+      },
+      {
+        "narration": "Pope Stephen VI harbored an obsessive hatred for his deceased predecessor, Pope Formosus.",
+        "search": "Pope Stephen VI portrait engraving",
+        "caption": "Pope Stephen VI hated his predecessor"
+      },
+      {
+        "narration": "Seven months after Formosus was buried, Stephen ordered guards to exhume the rotting corpse.",
+        "search": "Medieval tomb exhumation manuscript miniature",
+        "caption": "The seven-month-old corpse was dug up"
+      },
+      {
+        "narration": "The decaying body was dressed in official papal robes and propped onto a throne inside the church.",
+        "search": "Pope Formosus trial portrait painting",
+        "caption": "The corpse was dressed in sacred robes"
+      },
+      {
+        "narration": "A young deacon was forced to stand beside the corpse and speak on its behalf during questioning.",
+        "search": "Cadaver Synod trial deacon historical painting",
+        "caption": "A young deacon answered for the dead man"
+      },
+      {
+        "narration": "After Stephen screamed accusations at the silent corpse, the Synod declared the dead pope guilty.",
+        "search": "Vatican history artwork council painting",
+        "caption": "The dead pope was declared guilty"
+      },
+      {
+        "narration": "Executioners immediately chopped off the three sacred blessing fingers from the corpse's right hand.",
+        "search": "Medieval executioner engraving",
+        "caption": "His sacred blessing fingers were severed"
+      },
+      {
+        "narration": "The stripped remains of Pope Formosus were dragged through the streets of Rome and cast into the Tiber River in 897 AD.",
+        "search": "cadaver synod formosus body dragged tiber painting",
+        "caption": "Formosus' corpse was dragged through Rome and thrown into the Tiber."
+      },
+      {
+        "narration": "Public horror over this grotesque trial ignited a violent Roman revolt against Pope Stephen VI later that year.",
+        "search": "medieval rome riot revolt historic engraving",
+        "caption": "Outraged citizens revolted against Pope Stephen VI in August 897."
+      },
+      {
+        "narration": "Stripped of power, Pope Stephen VI was imprisoned and strangled to death, cementing the trial as Rome's most infamous atrocity.",
+        "search": "pope stephen vi portrait painting",
+        "caption": "Stephen VI was imprisoned and strangled, ending the gruesome saga."
+      },
+      {
+        "narration": "In 897 AD, Rome put a corpse on trial.",
+        "search": "Cadaver Synod Jean Paul Laurens oil painting",
+        "caption": "In 897 AD, Rome tried a dead man."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-13T02:49:29.275786+00:00",
+    "updated_at": "2026-11-13T02:51:40.537354+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-13T02:49:49.633199+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "380 chars (cat 275 de vua 55s)",
+        "at": "2026-11-13T02:50:00.170707+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-13T02:50:03.714713+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-13T02:50:04.618049+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-13T02:50:43.654512+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-13T02:50:43.658402+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.5s 19009558 bytes",
+        "at": "2026-11-13T02:51:40.480268+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-13T02:51:40.537346+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34902536/pexels-photo-34902536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35839556/pexels-photo-35839556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37425942/pexels-photo-37425942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30499662/pexels-photo-30499662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33866922/pexels-photo-33866922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19341845/pexels-photo-19341845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319296/pexels-photo-29319296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39654369/pexels-photo-39654369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19156339/pexels-photo-19156339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125779/pexels-photo-38125779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38407780/pexels-photo-38407780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320568/pexels-photo-15320568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4601ac1ef8",
     "kind": "short",
     "channel": "Channel2",
