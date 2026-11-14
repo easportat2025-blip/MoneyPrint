@@ -1,4 +1,4 @@
-# Daily ping 13/11/2026
+# Daily ping 14/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Thói Quen Nín Hắt Hơi Đang Âm Thầm Đe Dọa Tính Mạng Bạn :: token refresh failed: 400 {
+- Tại sao bật điều hòa 26 độ ban đêm vẫn làm bạn tỉnh giấ :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Dead Pope Put On Trial For Treason :: token refresh failed: 400 {
+- The King Who Destroyed His Own Empire By Mistake :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Empress Who Blinded Her Son for Power :: token refresh failed: 400 {
+- The Persian King Who Defeated Egypt with Cats :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
