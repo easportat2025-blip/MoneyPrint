@@ -1,5 +1,161 @@
 [
   {
+    "id": "5e4345674f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Persian King Who Defeated Egypt with Cats",
+    "idea": {
+      "title": "The Persian King Who Defeated Egypt with Cats",
+      "hook": "King Cambyses II knew Egyptians worshipped cats, so he used their sacred pets as living shields to conquer an empire.",
+      "beats": [
+        "In 525 BC, the Persian Army confronted the Egyptian forces at the Battle of Pelusium.",
+        "Cambyses II ordered his soldiers to paint cats on their shields and herd live animals toward the front lines.",
+        "Devout Egyptian archers refused to shoot arrows, terrified of harming sacred creatures.",
+        "The Egyptian lines collapsed without firing a single effective volley, handing Persia complete victory."
+      ],
+      "keywords": [
+        "Cambyses II",
+        "Battle of Pelusium",
+        "ancient Egypt battle",
+        "Persian Empire portrait",
+        "ancient cat artwork"
+      ],
+      "tags": [
+        "#history",
+        "#ancientegypt",
+        "#persianempire",
+        "#catshistory",
+        "#weirdhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A king conquered Egypt using sacred cats.",
+        "search": "ancient egypt feline goddess bastet bronze statue",
+        "caption": "Conquered by sacred cats"
+      },
+      {
+        "narration": "In 525 BC, the Persian Empire launched a massive invasion against the Nile Kingdom.",
+        "search": "ancient egyptian battle relief carving",
+        "caption": "525 BC: Persian invasion of Egypt"
+      },
+      {
+        "narration": "At Pelusium, the gateway to Egypt, Pharaoh Psamtik III assembled his elite archers.",
+        "search": "ancient egyptian archers wall painting illustration",
+        "caption": "Egyptian archers defend Pelusium"
+      },
+      {
+        "narration": "Persian ruler Cambyses II realized Egyptians viewed cats as divine embodiments of Bastet.",
+        "search": "cambyses ii persian king relief sculpture",
+        "caption": "Cambyses II exploits Egyptian faith"
+      },
+      {
+        "narration": "He ordered his soldiers to paint cats on their shields and herd live animals forward.",
+        "search": "ancient persian soldiers spear oil painting",
+        "caption": "Cats painted on battle shields"
+      },
+      {
+        "narration": "Under Egyptian law, harming a sacred cat carried an immediate penalty of death.",
+        "search": "ancient egyptian cat artwork fresco painting",
+        "caption": "Harming a cat meant execution"
+      },
+      {
+        "narration": "Terrified of committing sacrilege, the Egyptian defenders refused to shoot their arrows.",
+        "search": "battle of pelusium 525 bc historical engraving",
+        "caption": "Archers refuse to fire"
+      },
+      {
+        "narration": "The Egyptian front collapsed completely, surrendering the entire empire to Persian rule.",
+        "search": "persian empire map 500 bc historical engraving",
+        "caption": "Persia conquers Egypt"
+      },
+      {
+        "narration": "Following the rout at Pelusium in 525 BC, Cambyses II captured Memphis, ending over two millennia of native Egyptian sovereignty.",
+        "search": "pharaoh psamtik iii ancient egyptian relief carving",
+        "caption": "525 BC: Over two millennia of Egyptian sovereignty ended."
+      },
+      {
+        "narration": "Greek historian Polyaenus recorded that Cambyses further humiliated surrendering generals by hurling live cats directly at their feet.",
+        "search": "ancient egyptian cat goddess bastet bronze statue close up",
+        "caption": "Sacred devotion became Egypt's ultimate strategic vulnerability."
+      },
+      {
+        "narration": "By turning religious reverence into a tactical weapon, Cambyses II conquered the wealthiest civilization of the ancient world in a single battle.",
+        "search": "king cambyses ii achaemenid persian empire relief carving",
+        "caption": "Psychological warfare changed ancient history forever."
+      },
+      {
+        "narration": "In 525 BC, cats brought down ancient Egypt.",
+        "search": "ancient Egyptian cat statue relief engraving",
+        "caption": "How cats conquered ancient Egypt in 525 BC."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T00:32:41.968112+00:00",
+    "updated_at": "2026-11-14T00:36:15.824618+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-14T00:33:49.342419+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "373 chars (cat 227 de vua 55s)",
+        "at": "2026-11-14T00:34:23.578611+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-14T00:34:28.059934+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T00:34:28.702962+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-14T00:35:36.178622+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T00:35:36.184348+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.4s 19060612 bytes",
+        "at": "2026-11-14T00:36:15.676560+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T00:36:15.824609+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40948251/pexels-photo-40948251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29712184/pexels-photo-29712184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15131515/pexels-photo-15131515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37953228/pexels-photo-37953228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28536852/pexels-photo-28536852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34275836/pexels-photo-34275836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27112676/pexels-photo-27112676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37998608/pexels-photo-37998608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36324214/pexels-photo-36324214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18886544/pexels-photo-18886544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33158650/pexels-photo-33158650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40651523/pexels-photo-40651523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "17d0f7ddaf",
     "kind": "short",
     "channel": "Channel2",
