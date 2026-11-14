@@ -1,5 +1,162 @@
 [
   {
+    "id": "988de120b7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Declared War on the Ocean",
+    "idea": {
+      "title": "The Roman Emperor Who Declared War on the Ocean",
+      "hook": "Emperor Caligula marched 200,000 Roman legionnaires to the sea, only to commit a bizarre act of madness that shocked the ancient world.",
+      "beats": [
+        "In 40 AD, Caligula marched his elite legions to the shores of Northern Gaul for an intended invasion of Britain.",
+        "Instead of setting sail, he suddenly ordered his bewildered soldiers to form battle lines facing the ocean waves.",
+        "Legionnaires were commanded to attack the water with spears and gather seashells as plunder from the sea god Neptune.",
+        "While Caligula claimed a glorious victory over the ocean, the humiliating stunt shattered his army's respect and hastened his assassination."
+      ],
+      "keywords": [
+        "Caligula bust",
+        "Roman legionnaires painting",
+        "Ancient Roman map",
+        "English channel coast engraving",
+        "Roman army battle drawing"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#caligula",
+        "#romanemperor",
+        "#weirdhistory",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman emperor declare war on the ocean?",
+        "search": "Caligula marble bust statue close up",
+        "caption": "Why did a Roman emperor declare war on the ocean?"
+      },
+      {
+        "narration": "In 40 AD, Emperor Caligula marched 200,000 Roman legionnaires toward the English Channel.",
+        "search": "Ancient Roman map empire engraving",
+        "caption": "In 40 AD, Caligula marched 200,000 soldiers to Northern Gaul."
+      },
+      {
+        "narration": "The elite legions expected a massive military invasion of Britain across the stormy waters.",
+        "search": "English channel coast sea cliffs engraving",
+        "caption": "The legions prepared for an invasion of Britain."
+      },
+      {
+        "narration": "Instead of launching warships, Caligula halted his vast army along the shore of Northern Gaul.",
+        "search": "Roman legionnaires standing on beach painting",
+        "caption": "The invasion suddenly stopped at the coastline."
+      },
+      {
+        "narration": "The emperor drew his sword and commanded the bewildered soldiers to draw battle lines facing the water.",
+        "search": "Roman emperor armor military speech painting",
+        "caption": "Caligula ordered soldiers to face the open ocean."
+      },
+      {
+        "narration": "Caligula ordered his men to stab the waves with spears and hurl javelins into the sea.",
+        "search": "Roman army battle beach drawing",
+        "caption": "Legionnaires attacked the ocean waves with spears."
+      },
+      {
+        "narration": "He then demanded the soldiers collect seashells from the tide as plunder stolen from Neptune.",
+        "search": "Roman soldiers gathering seashells beach illustration",
+        "caption": "Soldiers gathered seashells as spoils of war."
+      },
+      {
+        "narration": "Caligula declared absolute victory over the sea, but his humiliated army began plotting treason.",
+        "search": "Roman gladius sword armor oil painting",
+        "caption": "The humiliated army secretly plotted the emperor downfall."
+      },
+      {
+        "narration": "Upon returning to Rome in late 40 AD, Caligula demanded a lavish triumph for defeating the ocean, further infuriating the senate.",
+        "search": "Roman emperor triumph procession detailed engraving",
+        "caption": "Caligula demanded a lavish triumph for defeating the sea."
+      },
+      {
+        "narration": "In January 41 AD, disgusted by his tyrannical madness, officers of the Praetorian Guard assassinated the twenty-eight-year-old emperor.",
+        "search": "Assassination of Caligula historical oil painting",
+        "caption": "In January 41 AD, the Praetorian Guard assassinated Caligula."
+      },
+      {
+        "narration": "His bizarre war on Neptune shattered Roman respect forever, turning a planned invasion into history's most infamous military farce.",
+        "search": "Roman emperor Caligula bronze coin portrait face",
+        "caption": "The ocean war destroyed his authority and sealed his legacy."
+      },
+      {
+        "narration": "In 41 AD, Emperor Caligula was assassinated after a series of bizarre military decisions.",
+        "search": "assassination of caligula roman imperial guard oil painting",
+        "caption": "In 41 AD, Emperor Caligula met a violent end."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T23:29:31.659071+00:00",
+    "updated_at": "2026-11-14T23:31:18.190066+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-14T23:29:54.226301+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "431 chars (cat 144 de vua 55s)",
+        "at": "2026-11-14T23:30:04.613492+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.0s en-US-GuyNeural 5 cau",
+        "at": "2026-11-14T23:30:07.858758+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T23:30:08.456897+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-14T23:30:40.907340+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T23:30:40.917589+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 16157478 bytes",
+        "at": "2026-11-14T23:31:18.030669+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T23:31:18.190056+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6711454/pexels-photo-6711454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31233734/pexels-photo-31233734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2308888/pexels-photo-2308888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125787/pexels-photo-38125787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22883086/pexels-photo-22883086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28179454/pexels-photo-28179454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39462368/pexels-photo-39462368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7229896/pexels-photo-7229896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41010641/pexels-photo-41010641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16960922/pexels-photo-16960922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7067077/pexels-photo-7067077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7947144/pexels-photo-7947144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3a048689aa",
     "kind": "short",
     "channel": "Channel2",
