@@ -1,5 +1,167 @@
 [
   {
+    "id": "4c28b31a5b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do tắt ứng dụng ngầm thực ra làm điện thoại tốn pin hơn",
+    "idea": {
+      "title": "Lý do tắt ứng dụng ngầm thực ra làm điện thoại tốn pin hơn",
+      "hook": "Hầu như ai cũng có thói quen vuốt tắt sạch ứng dụng ngầm để tiết kiệm pin, nhưng các kỹ sư công nghệ cảnh báo thói quen này đang bí mật rút cạn pin điện thoại của bạn nhanh hơn.",
+      "beats": [
+        "Khi bạn thoát ra ngoài, hệ điều hành sẽ tự động đóng đóng băng ứng dụng trong RAM chứ không hề chạy ngầm tốn năng lượng.",
+        "Mỗi lần bạn vuốt tắt rồi mở lại từ đầu, CPU buộc phải khởi động toàn bộ dữ liệu, tiêu tốn năng lượng gấp nhiều lần.",
+        "Hành động vuốt tắt liên tục làm tăng chu kỳ xử lý chip, khiến điện thoại nóng hơn và giảm tuổi thọ pin nhanh hơn.",
+        "Bạn chỉ nên tắt ứng dụng khi nó bị lỗi treo máy hoặc ngốn pin bất thường trong phần cài đặt."
+      ],
+      "keywords": [
+        "smartphone user swiping screen",
+        "mobile app interface animation",
+        "battery drain icon digital",
+        "microchip processor close up",
+        "person using phone at night"
+      ],
+      "tags": [
+        "#shorts",
+        "#meodienthoai",
+        "#congnghe",
+        "#channel3",
+        "#meovat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Vuốt tắt ứng dụng ngầm khiến điện thoại tốn pin gấp đôi.",
+        "search": "3d animation nguoii dung vuot tat ung dung tren smartphone",
+        "caption": "Vuốt tắt ứng dụng làm tốn pin gấp đôi"
+      },
+      {
+        "narration": "Hầu như ai cũng tin rằng dọn sạch các ứng dụng sẽ giúp máy tiết kiệm pin hơn.",
+        "search": "3d animation giao dien smartphone voi nhieu icon ung dung",
+        "caption": "Thói quen dọn sạch ứng dụng ngầm mỗi ngày"
+      },
+      {
+        "narration": "Nhưng sự thật là các ứng dụng vừa thoát ra đã được hệ điều hành đóng đóng băng.",
+        "search": "3d animation bieu tuong dong bang ung dung trong ram",
+        "caption": "Ứng dụng ngầm thực chất đã bị đóng băng"
+      },
+      {
+        "narration": "Khi ở trong trạng thái ngủ đông trên RAM, chúng không hề tiêu thụ điện năng.",
+        "search": "motion graphics bieu do dung luong ram dien thoai",
+        "caption": "RAM giữ ứng dụng ở trạng thái ngủ đông"
+      },
+      {
+        "narration": "Ngược lại, khi bạn vuốt tắt, toàn bộ dữ liệu ứng dụng bị xóa khỏi bộ nhớ tạm.",
+        "search": "isometric render chip xu ly dien thoai dang chay",
+        "caption": "Vuốt tắt làm xóa sạch dữ liệu bộ nhớ tạm"
+      },
+      {
+        "narration": "Mỗi lần mở lại, CPU buộc phải nạp lại dữ liệu từ đầu, ngốn nhiều năng lượng hơn.",
+        "search": "cartoony 3d vi xu ly dien thoai phat sang qua tai",
+        "caption": "CPU tốn gấp đôi năng lượng để khởi động lại"
+      },
+      {
+        "narration": "Hành động vuốt tắt liên tục khiến chip xử lý quá tải, làm máy nóng và chai pin.",
+        "search": "3d animation pin dien thoai bi sut giam va phat nong",
+        "caption": "Điện thoại nóng lên và chai pin nhanh hơn"
+      },
+      {
+        "narration": "Bạn chỉ nên tắt ứng dụng khi nó bị lỗi treo máy hoặc ngốn pin bất thường.",
+        "search": "3d animation man hinh cai dat pin va ung dung dien thoai",
+        "caption": "Chỉ nên tắt khi ứng dụng bị lỗi hoặc treo"
+      },
+      {
+        "narration": "Nếu việc vuốt tắt có hại, tại sao các nhà sản xuất lại tạo ra giao diện vuốt ứng dụng này?",
+        "search": "hoat hinh 3d man hinh dien thoai vuot ung dung swipe up animation",
+        "caption": "Tại sao nhà sản xuất lại tạo tính năng vuốt?"
+      },
+      {
+        "narration": "Cả Apple và Google đều xác nhận: thao tác này chỉ thiết kế cho ứng dụng bị treo, không phải để tiết kiệm pin.",
+        "search": "hoat hinh 3d bieu tuong apple google logo thiet ke",
+        "caption": "Chỉ dùng khi ứng dụng bị lỗi hoặc treo máy"
+      },
+      {
+        "narration": "Thủ phạm thực sự rút cạn pin của bạn là độ sáng màn hình, định vị GPS và tính năng làm mới ứng dụng nền.",
+        "search": "hoat hinh 3d bieu tuong dinh vi gps do sang man hinh pin dien thoai",
+        "caption": "Thủ phạm thực sự rút cạn pin điện thoại"
+      },
+      {
+        "narration": "Ứng dụng đã đóng băng trong bộ nhớ RAM tiêu tốn 0% năng lượng, tốt hơn nhiều việc ép máy khởi động lại.",
+        "search": "hoat hinh 3d bo nho ram chip xu ly dien thoai chay muot",
+        "caption": "Ứng dụng đóng đóng băng tốn 0% năng lượng"
+      },
+      {
+        "narration": "Hãy bỏ ngay thói quen vuốt tắt liên tục. Để nguyên ứng dụng trong RAM giúp máy mượt hơn và pin bền hơn rõ rệt.",
+        "search": "hoat hinh 3d cuc pin dien thoai xanh dung luong 100 phan tram",
+        "caption": "Bỏ thói quen vuốt tắt để pin bền hơn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T14:41:35.725591+00:00",
+    "updated_at": "2026-11-14T14:44:21.662282+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-14T14:42:23.383188+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "491 chars (cat 123 de vua 55s)",
+        "at": "2026-11-14T14:42:59.068664+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.4s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-14T14:43:29.755855+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T14:43:30.313517+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-14T14:43:44.264110+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-14T14:43:44.269671+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.5s 26081049 bytes",
+        "at": "2026-11-14T14:44:21.520304+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T14:44:21.662274+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819432/8819432-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40326823/17229750_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/8816979/8816979-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39893739/17017616_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31442860/13410479_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8816987/8816987-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39892711/17017296_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029659/16029659-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816947/8816947-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7076542/7076542-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/8819485/8819485-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16727477/16727477-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727473/16727473-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "d870ffe683",
     "kind": "short",
     "channel": "Channel3",
