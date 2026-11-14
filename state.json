@@ -1,5 +1,161 @@
 [
   {
+    "id": "884b0b32e9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Swallowed a Pearl Worth a Kingdom",
+    "idea": {
+      "title": "The Queen Who Swallowed a Pearl Worth a Kingdom",
+      "hook": "Cleopatra made a staggering bet with Mark Antony that she could throw the most expensive dinner in history—then dissolved a priceless pearl in vinegar and drank it.",
+      "beats": [
+        "Introduction of the high-stakes wager between Cleopatra and Mark Antony in Alexandria.",
+        "The description of the two giant, priceless pearl earrings worn by the Egyptian queen.",
+        "Cleopatra removing one pearl, dropping it into a cup of strong vinegar, and watching it dissolve.",
+        "Drinking the mixture to win the bet, leaving Mark Antony's second pearl untouched as a symbol of ultimate wealth."
+      ],
+      "keywords": [
+        "Cleopatra portrait",
+        "Ancient Rome painting",
+        "Egyptian queen art",
+        "Mark Antony engraving",
+        "Ancient banquet bust"
+      ],
+      "tags": [
+        "history",
+        "cleopatra",
+        "ancientrome",
+        "historyshorts",
+        "egypt"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Could one queen destroy a kingdom's fortune in a single gulp?",
+        "search": "Cleopatra portrait oil painting",
+        "caption": "Destroying a kingdom's fortune in a single gulp."
+      },
+      {
+        "narration": "In 41 BC, Queen Cleopatra VII wagered ten million sesterces on a single banquet in Alexandria.",
+        "search": "Alexandria Egypt ancient map engraving",
+        "caption": "In 41 BC, Cleopatra wagered ten million sesterces."
+      },
+      {
+        "narration": "Roman general Mark Antony believed no Egyptian feast could exceed the lavish extravagance of Rome.",
+        "search": "Mark Antony bust statue close up",
+        "caption": "Mark Antony believed Roman luxury could never be beaten."
+      },
+      {
+        "narration": "To win the bet, Cleopatra had to spend a sum equal to the revenue of entire provinces.",
+        "search": "Ancient Rome feast oil painting",
+        "caption": "The wager equaled the annual revenue of entire provinces."
+      },
+      {
+        "narration": "She wore the two largest natural pearls in recorded history, valued as priceless royal heirlooms.",
+        "search": "Ancient gold pearl earring artifact museum",
+        "caption": "She wore the two largest pearls in recorded history."
+      },
+      {
+        "narration": "When the final course arrived looking ordinary, Antony claimed immediate victory over the queen.",
+        "search": "Roman banquet painting detail",
+        "caption": "Antony declared victory when the feast appeared ordinary."
+      },
+      {
+        "narration": "Cleopatra calmly ordered her servant to place a vessel of strong vinegar on the table.",
+        "search": "Ancient Greek terracotta vessel museum photo",
+        "caption": "Cleopatra ordered a vessel of strong vinegar to the table."
+      },
+      {
+        "narration": "Removing one of her priceless pearl earrings, she dropped the jewel directly into the acid.",
+        "search": "Pearl dropping into liquid close up painting",
+        "caption": "She dropped the priceless pearl directly into the acid."
+      },
+      {
+        "narration": "As calcium carbonate reacted with acetic acid, the massive pearl completely dissolved into the liquid.",
+        "search": "Roman banquet bust marble sculpture",
+        "caption": "The priceless pearl dissolves in acid"
+      },
+      {
+        "narration": "In 41 BC in Alexandria, Queen Cleopatra won her staggering wager against Mark Antony by drinking the entire potion.",
+        "search": "Cleopatra portrait oil painting winning",
+        "caption": "Winning history's most expensive dinner bet"
+      },
+      {
+        "narration": "The remaining earring was later split in half to adorn the statue of Venus in Rome, cementing her unmatched legend.",
+        "search": "Mark Antony engraving ancient roman art",
+        "caption": "A legacy of ultimate wealth and power"
+      },
+      {
+        "narration": "She drank a kingdom in a single glass of wine.",
+        "search": "Cleopatra portrait painting",
+        "caption": "Drinking a kingdom."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T07:30:12.820907+00:00",
+    "updated_at": "2026-11-14T07:33:55.144086+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-14T07:31:52.016676+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "351 chars (cat 284 de vua 55s)",
+        "at": "2026-11-14T07:32:24.026439+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.3s en-US-GuyNeural 4 cau",
+        "at": "2026-11-14T07:32:27.990955+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T07:32:28.455284+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-14T07:33:27.850929+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T07:33:27.855076+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.3s 14848095 bytes",
+        "at": "2026-11-14T07:33:55.028701+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T07:33:55.144076+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36453719/pexels-photo-36453719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36221974/pexels-photo-36221974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13778880/pexels-photo-13778880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38963126/pexels-photo-38963126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10287306/pexels-photo-10287306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38259388/pexels-photo-38259388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40194521/pexels-photo-40194521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3705931/pexels-photo-3705931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25461450/pexels-photo-25461450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35844840/pexels-photo-35844840.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11618467/pexels-photo-11618467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14630184/pexels-photo-14630184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e8d20ef0f7",
     "kind": "short",
     "channel": "Channel3",
