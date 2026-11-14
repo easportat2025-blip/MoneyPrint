@@ -1,5 +1,161 @@
 [
   {
+    "id": "3a048689aa",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Russian Tsar Who Accidentally Ended His Dynasty",
+    "idea": {
+      "title": "The Russian Tsar Who Accidentally Ended His Dynasty",
+      "hook": "In 1581, Tsar Ivan the Terrible struck his own pregnant daughter-in-law, and when his son intervened, Ivan committed a fatal mistake he regretted forever.",
+      "beats": [
+        "Tsar Ivan physically assaulted his daughter-in-law over her attire inside the palace.",
+        "His eldest son and heir, Ivan Ivanovich, rushed in to defend his pregnant wife.",
+        "In a blind rage, the Tsar struck his son in the temple with a heavy iron-pointed staff.",
+        "The heir died days later, leaving no strong successor and plunging Russia into the Time of Troubles."
+      ],
+      "keywords": [
+        "Ivan the Terrible portrait",
+        "Ivan the Terrible and His Son painting",
+        "16th century russian tsardom map",
+        "kremlin palace historical art",
+        "tsar ivan historical engraving"
+      ],
+      "tags": [
+        "history",
+        "historydocumentary",
+        "ivantheterrible",
+        "russianhistory",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One royal argument ended Russia’s oldest dynasty forever.",
+        "search": "Ivan the Terrible portrait oil painting",
+        "caption": "One argument ended Russia’s oldest royal dynasty forever."
+      },
+      {
+        "narration": "In November 1581, Tsar Ivan IV committed a fatal mistake inside the Moscow Kremlin.",
+        "search": "kremlin palace moscow 16th century engraving",
+        "caption": "November 1581: A fatal strike inside the Moscow Kremlin."
+      },
+      {
+        "narration": "The Rurik dynasty had ruled Russia for over seven hundred years, expanding the empire.",
+        "search": "16th century russian tsardom map engraving",
+        "caption": "The Rurik dynasty had ruled Russia for 700 years."
+      },
+      {
+        "narration": "The Tsar confronted his pregnant daughter-in-law, Yelena Sheremeteva, physically assaulting her inside the palace.",
+        "search": "kremlin palace historical art painting",
+        "caption": "Tsar Ivan confronted his pregnant daughter-in-law over attire."
+      },
+      {
+        "narration": "Hearing her cries, his eldest son and heir, Tsarevich Ivan Ivanovich, rushed to her defense.",
+        "search": "tsarevich ivan ivanovich portrait painting",
+        "caption": "His heir, Tsarevich Ivan, rushed in to defend his wife."
+      },
+      {
+        "narration": "In a fit of rage, Tsar Ivan struck his heir in the temple with an iron-pointed staff.",
+        "search": "Ivan the Terrible and His Son painting",
+        "caption": "In a blind rage, Tsar Ivan struck his son with an iron staff."
+      },
+      {
+        "narration": "The twenty-seven-year-old heir died four days later, leaving no strong successor to the throne.",
+        "search": "tsar ivan historical engraving",
+        "caption": "Tsarevich Ivan died four days later on November 19."
+      },
+      {
+        "narration": "This single fatal blow collapsed the dynasty, plunging Russia directly into the catastrophic Time of Troubles.",
+        "search": "time of troubles russia historical oil painting",
+        "caption": "The accidental murder plunged Russia into the Time of Troubles."
+      },
+      {
+        "narration": "In November 1581, Tsar Ivan IV collapsed in remorse beside his dying son, tormented by the destruction of his own bloodline.",
+        "search": "Ivan the Terrible and His Son painting realized",
+        "caption": "Tsar Ivan IV realized he destroyed his own line"
+      },
+      {
+        "narration": "With the capable heir dead, the throne fell to the unfit Feodor I, whose death in 1598 officially ended the seven-century Rurik dynasty.",
+        "search": "Tsar Feodor I portrait painting",
+        "caption": "Feodor I's death in 1598 ended the 700-year Rurik dynasty"
+      },
+      {
+        "narration": "A single fit of rage with an iron staff destroyed an empire, plunging Russia into fifteen years of famine and total collapse.",
+        "search": "16th century russian tsardom map engraving angry",
+        "caption": "One angry stroke plunged Russia into fifteen years of chaos"
+      },
+      {
+        "narration": "A single tragic temper ruined a 700-year Russian dynasty.",
+        "search": "16th century russian tsardom map engraving",
+        "caption": "One sudden strike ended a 700-year royal lineage."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T21:40:15.491773+00:00",
+    "updated_at": "2026-11-14T21:46:17.743658+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-14T21:41:50.086022+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "382 chars (cat 253 de vua 55s)",
+        "at": "2026-11-14T21:43:06.482055+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.2s en-US-GuyNeural 6 cau",
+        "at": "2026-11-14T21:43:13.492584+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T21:43:14.246408+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-14T21:45:36.908687+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T21:45:36.916164+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.2s 13461849 bytes",
+        "at": "2026-11-14T21:46:17.618723+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T21:46:17.743646+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14748221/pexels-photo-14748221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8568725/pexels-photo-8568725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36403025/pexels-photo-36403025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8618286/pexels-photo-8618286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36007914/pexels-photo-36007914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14680508/pexels-photo-14680508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33349942/pexels-photo-33349942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8830536/pexels-photo-8830536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37310408/pexels-photo-37310408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320602/pexels-photo-15320602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22763847/pexels-photo-22763847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "14049e8c96",
     "kind": "short",
     "channel": "Channel3",
