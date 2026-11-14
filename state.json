@@ -1,5 +1,167 @@
 [
   {
+    "id": "14049e8c96",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về khoảnh khắc bạn rơi tự do trong giấc ngủ",
+    "idea": {
+      "title": "Sự thật về khoảnh khắc bạn rơi tự do trong giấc ngủ",
+      "hook": "Bạn nghĩ mình vừa hụt chân ngã từ trên cao xuống khi đang ngủ? Sự thật là não bạn vừa tưởng bạn đang chết.",
+      "beats": [
+        "Giải thích hiện tượng Hypnic Jerk (cú giật cơ khi ngủ) diễn ra khi nào.",
+        "Khi cơ bắp thả lỏng quá nhanh, não bộ hiểu nhầm rằng tim bạn đang ngừng đập.",
+        "Não lập tức gửi một luồng điện khẩn cấp để 'khởi động lại' cơ thể và cứu sống bạn.",
+        "Đó là lý do bạn giật mình tỉnh giấc với nhịp tim đập loạn xạ."
+      ],
+      "keywords": [
+        "sleeping astronaut floating",
+        "deep space nebula",
+        "brain neural network glowing",
+        "falling through space animation",
+        "dark void cosmos"
+      ],
+      "tags": [
+        "Channel3",
+        "giacngu",
+        "khohocvui",
+        "cothenguoi",
+        "kienthucthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cú giật nảy người khi ngủ không phải là một giấc mơ ngẫu nhiên.",
+        "search": "3d animation nguoi dang nam ngu tren giuong giat minh",
+        "caption": "Giật nảy người khi ngủ không phải giấc mơ"
+      },
+      {
+        "narration": "Hiện tượng này gọi là Hypnic Jerk, xuất hiện ngay lúc bạn sắp chìm vào giấc ngủ sâu.",
+        "search": "motion graphics dong ho sinh hoc co the dang ngu",
+        "caption": "Hiện tượng giật cơ Hypnic Jerk khi chìm vào giấc ngủ"
+      },
+      {
+        "narration": "Lúc này, nhịp thở bắt đầu chậm lại và các nhóm cơ thả lỏng đột ngột.",
+        "search": "3d animation mo phong co bap va nhip tim giam",
+        "caption": "Nhịp thở chậm lại và cơ bắp thả lỏng đột ngột"
+      },
+      {
+        "narration": "Nếu tốc độ thả lỏng diễn ra quá nhanh, bộ não lập tức kích hoạt báo động.",
+        "search": "3d animation nao bo phat sang tin hieu bao dong",
+        "caption": "Não bộ rơi vào trạng thái báo động đỏ"
+      },
+      {
+        "narration": "Vùng não trung khu hiểu nhầm rằng tim bạn vừa ngừng đập hoặc bạn đang ngã.",
+        "search": "explainer animation tin hieu than ky phat ra tu nao",
+        "caption": "Não hiểu nhầm cơ thể đang ngừng đập"
+      },
+      {
+        "narration": "Để giải cứu cơ thể, bộ não liền bắn ra một luồng điện thần kinh cực mạnh.",
+        "search": "motion graphics luong dien chay qua he than ky",
+        "caption": "Phóng luồng điện thần kinh khẩn cấp để cứu sống"
+      },
+      {
+        "narration": "Xung điện này ép toàn bộ cơ bắp co rút tức thì, tạo cảm giác rơi tự do.",
+        "search": "3d render mo phong luong dien kich hoat co bap",
+        "caption": "Ép cơ bắp co rút tạo cảm giác rơi tự do"
+      },
+      {
+        "narration": "Bạn bừng tỉnh với tim đập liên hồi—đó là cú khởi động lại khẩn cấp từ bộ brain.",
+        "search": "3d animation nguoi bieu cam tinh giac tim dap nhanh",
+        "caption": "Cú khởi động lại khẩn cấp để bảo vệ bạn"
+      },
+      {
+        "narration": "Xung điện này ép toàn bộ cơ bắp co rút tức thì, tạo cảm giác rơi tự do.",
+        "search": "3d animation nguoi giat minh tren giuong ngu",
+        "caption": "Cơ bắp co rút đột ngột"
+      },
+      {
+        "narration": "Bạn bừng tỉnh với tim đập liên hồi—đó là cú khởi động lại khẩn cấp từ bộ não.",
+        "search": "motion graphics nhip tim tang vot khi tinh giac",
+        "caption": "Tim đập loạn xạ"
+      },
+      {
+        "narration": "Thực chất, cơ chế sinh tồn cổ xưa này cứu bạn khỏi việc chìm vào giấc ngủ quá nhanh.",
+        "search": "isometric render bo nao hoat dong ve đêm",
+        "caption": "Cơ chế sinh tồn cổ xưa"
+      },
+      {
+        "narration": "Nó xuất hiện nhiều hơn khi bạn căng thẳng, uống cà phê quá đà hoặc kiệt sức.",
+        "search": "explainer animation tach ca phe va nguoi met moi",
+        "caption": "Do căng thẳng hoặc cà phê"
+      },
+      {
+        "narration": "Lần tới khi hụt chân ngã, hãy cảm ơn bộ não vì đã cứu mạng bạn kịp lúc.",
+        "search": "3d animation nguoi mim cười an tam tren giuong",
+        "caption": "Bộ não vừa cứu bạn"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T20:00:13.127208+00:00",
+    "updated_at": "2026-11-14T20:03:11.291594+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-14T20:01:00.633229+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "450 chars (cat 181 de vua 55s)",
+        "at": "2026-11-14T20:01:32.947725+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.9s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-14T20:01:43.458416+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T20:01:44.416890+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-14T20:02:05.523040+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-14T20:02:05.531539+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 29354932 bytes",
+        "at": "2026-11-14T20:03:11.184872+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T20:03:11.291581+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39047840/16615673_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39105222/16638005_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16029655/16029655-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34637502/14680773_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464970/13417790_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39253607/16701195_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39299211/16722241_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283134/15283134-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7641369/7641369-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39628788/16893016_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/11326208/11326208-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/32653813/13922573_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/38853666/16516078_1440_2560_60fps.mp4"
+    ]
+  },
+  {
     "id": "dadb980935",
     "kind": "long",
     "channel": "seigh",
