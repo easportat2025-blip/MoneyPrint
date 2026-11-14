@@ -1,5 +1,161 @@
 [
   {
+    "id": "bb1748f577",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Horrifying Funeral of William the Conqueror",
+    "idea": {
+      "title": "The Horrifying Funeral of William the Conqueror",
+      "hook": "When King William the Conqueror died in 1087, his dead body exploded during his own funeral, terrifying every noble in the church.",
+      "beats": [
+        "King William grew so severely obese late in life that his corpse could not fit inside his stone sarcophagus.",
+        "Gravediggers tried to force the king's swollen body into the grave, accidentally puncturing his bloated abdomen.",
+        "The corpse burst open, filling the sacred church with an unbearable stench that sent mourners screaming into the streets.",
+        "Terrified priests rushed through the remaining burial prayers in record time just to escape the horrifying scene."
+      ],
+      "keywords": [
+        "William the Conqueror portrait",
+        "medieval church engraving",
+        "11th century knight illustration",
+        "Norman conquest map",
+        "medieval sarcophagus painting"
+      ],
+      "tags": [
+        "history",
+        "history documentary",
+        "william the conqueror",
+        "weird history",
+        "medieval history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1087, King William the Conqueror exploded at his funeral.",
+        "search": "William the Conqueror portrait illuminated manuscript",
+        "caption": "In 1087, King William the Conqueror exploded at his funeral."
+      },
+      {
+        "narration": "The tyrant who reshaped medieval Europe suffered the most disastrous burial in royal history.",
+        "search": "Norman conquest map engraving 11th century",
+        "caption": "The conqueror of England met a humiliating end."
+      },
+      {
+        "narration": "On September 9, 1087, sixty-year-old William died from riding injuries while struggling with severe obesity.",
+        "search": "medieval deathbed King William oil painting",
+        "caption": "William died in Rouen on September 9, 1087."
+      },
+      {
+        "narration": "Summer heat and transport delays to Caen caused intense gas buildup inside his decomposing body.",
+        "search": "11th century Norman knights transport manuscript illustration",
+        "caption": "Decomposing in late summer heat, gas trapped inside."
+      },
+      {
+        "narration": "Inside the Abbaye aux Hommes, gravediggers discovered the corpse had swollen wider than the stone sarcophagus.",
+        "search": "medieval church Abbaye aux Hommes interior engraving",
+        "caption": "The corpse was far too large for the stone sarcophagus."
+      },
+      {
+        "narration": "Desperate to finish the service, attendants violently forced the immense body down into the tomb.",
+        "search": "medieval stone sarcophagus tomb painting",
+        "caption": "Gravediggers forcibly shoved the swollen king into the narrow tomb."
+      },
+      {
+        "narration": "The extreme pressure ruptured William's bloated abdominal wall, tearing his stomach wide open.",
+        "search": "medieval funeral ceremony church engraving",
+        "caption": "The corpse ruptured under pressure, tearing his abdomen open."
+      },
+      {
+        "narration": "A cloud of unbearable putrid gases burst into the sanctuary, sickening the assembled nobility.",
+        "search": "terrified medieval monks fleeing church engraving",
+        "caption": "A cloud of foul gas overwhelmed the sacred church."
+      },
+      {
+        "narration": "Disgusted nobles and panicked mourners fled into the streets of Caen, abandoning the sacred abbey in total chaos.",
+        "search": "medieval crowd fleeing church manuscript illumination",
+        "caption": "Disgusted mourners fled into the streets of Caen"
+      },
+      {
+        "narration": "Burning incense frantically, the terrified clergy rushed through the remaining burial rites in record time to cover the ruptured corpse.",
+        "search": "medieval priests burning incense at altar manuscript illumination",
+        "caption": "Clergy rushed through prayers to seal the grave"
+      },
+      {
+        "narration": "The mighty monarch who conquered England in 1066 was thus hastily interred, ending his legendary reign with history's most disastrous funeral.",
+        "search": "tomb of william the conqueror caen France engraving",
+        "caption": "The Conqueror’s reign ended in a horrifying disaster"
+      },
+      {
+        "narration": "After ruling England for twenty-one years, the monarch died in Normandy following a fatal riding accident.",
+        "search": "Norman conquest map medieval manuscript",
+        "caption": "The Norman king died in Normandy after a riding accident."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T10:45:05.609699+00:00",
+    "updated_at": "2026-11-14T10:47:04.753444+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-14T10:45:26.399231+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "410 chars (cat 190 de vua 55s)",
+        "at": "2026-11-14T10:45:41.508591+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-14T10:45:45.037486+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T10:45:45.831297+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-14T10:46:17.185219+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T10:46:17.192324+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.4s 15853735 bytes",
+        "at": "2026-11-14T10:47:04.643276+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T10:47:04.753436+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18062023/pexels-photo-18062023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7634704/pexels-photo-7634704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16762334/pexels-photo-16762334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30415057/pexels-photo-30415057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24061700/pexels-photo-24061700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29712186/pexels-photo-29712186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8719170/pexels-photo-8719170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29879106/pexels-photo-29879106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35867837/pexels-photo-35867837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10628182/pexels-photo-10628182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34511125/pexels-photo-34511125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25955419/pexels-photo-25955419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "884b0b32e9",
     "kind": "short",
     "channel": "Channel2",
