@@ -1,5 +1,167 @@
 [
   {
+    "id": "d870ffe683",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao uống nước đá khi trời nóng lại khiến bạn nóng hơn?",
+    "idea": {
+      "title": "Tại sao uống nước đá khi trời nóng lại khiến bạn nóng hơn?",
+      "hook": "Mỗi khi đi nắng về, bạn vội uống ngay một ly nước đá mát lạnh? Sự thật là hành động này đang âm thầm khiến cơ thể bạn nóng hơn đấy.",
+      "beats": [
+        "Nước lạnh làm co các mạch máu trong dạ dày và dưới da một cách đột ngột, giảm khả năng tỏa nhiệt.",
+        "Não bộ bị đánh lừa là môi trường xung quanh đang lạnh, nên ra lệnh giảm tiết mồ hôi.",
+        "Nhiệt độ bên trong cơ thể thực chất bị giữ lại thay vì được thoát ra ngoài qua da.",
+        "Uống nước ấm nhẹ lại giúp kích thích hệ thống tự làm mát của cơ thể hoạt động hiệu quả hơn."
+      ],
+      "keywords": [
+        "drinking ice water",
+        "hot summer sweating",
+        "human blood vessels animation",
+        "cooling down body",
+        "glass of cold water"
+      ],
+      "tags": [
+        "#Channel3",
+        "#CoTheConNguoi",
+        "#MeoSucKhoe",
+        "#KhoaHocCuocSong",
+        "#ThoiQuetHangNgay"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Uống nước đá khi trời nóng lại khiến cơ thể nóng hơn.",
+        "search": "3d animation nguoi uong nuoc da mua he",
+        "caption": "Uống nước đá làm cơ thể nóng hơn?"
+      },
+      {
+        "narration": "Vừa đi nắng về, cảm giác mát lạnh làm bạn tưởng mình đang hạ nhiệt nhanh chóng.",
+        "search": "motion graphics ly nuoc da mat lanh isometric",
+        "caption": "Cảm giác mát lạnh chỉ là tạm thời"
+      },
+      {
+        "narration": "Nhưng khi nước lạnh vào dạ dày, phản ứng tự vệ của cơ thể lập tức kích hoạt.",
+        "search": "3d explainer animation da day va nuoc lanh",
+        "caption": "Cơ thể kích hoạt phản ứng tự vệ"
+      },
+      {
+        "narration": "Các mạch máu dưới da bị co thắt đột ngột làm cản trở lưu thông.",
+        "search": "hoat hinh 3d mach mau co lai",
+        "caption": "Mạch máu co thắt đột ngột"
+      },
+      {
+        "narration": "Mạch máu co lại khiến khả năng tỏa nhiệt tự nhiên qua da giảm đi đáng kể.",
+        "search": "3d animation nhiet do co the giu lai qua da",
+        "caption": "Nhiệt lượng không thể thoát ra ngoài"
+      },
+      {
+        "narration": "Đồng thời, não bộ nhận tín hiệu lạnh liền lầm tưởng môi trường xung quanh đã mát.",
+        "search": "cartoony 3d nao bo phat tin hieu hoat hoa",
+        "caption": "Não bộ bị đánh lừa về nhiệt độ"
+      },
+      {
+        "narration": "Nó lập tức ra lệnh giảm tiết mồ hôi, khóa chặt nhiệt thừa bên trong.",
+        "search": "motion graphics mo hoi tren da va tuyen mo hoi",
+        "caption": "Giảm tiết mồ hôi làm nhiệt bị giữ lại"
+      },
+      {
+        "narration": "Vì vậy, uống nước ấm nhẹ mới giúp kích thích cơ thể tự làm mát hiệu quả.",
+        "search": "3d animation uong nuoc am lam mat co the",
+        "caption": "Nước ấm nhẹ giúp cơ thể tự làm mát"
+      },
+      {
+        "narration": "Mồ hôi ngừng tiết khiến toàn bộ nhiệt thừa bị giữ chặt lại bên trong các cơ quan nội tạng.",
+        "search": "hoat hinh 3d co the nguoi toa nhiet mau do",
+        "caption": "Nhiệt độ nội tạng bị bẫy lại bên trong"
+      },
+      {
+        "narration": "Trong khi đó, sự bốc hơi mồ hôi trên da mới chính là máy điều hòa tự nhiên mạnh nhất của bạn.",
+        "search": "do hoa dong giot mo hoi boc hoi tren da",
+        "caption": "Mồ hôi bốc hơi là cơ chế hạ nhiệt chính"
+      },
+      {
+        "narration": "Uống nước ấm nhẹ hoặc nước nhiệt độ phòng giúp các thụ thể kích hoạt tuyến mồ hôi hoạt động đúng cách.",
+        "search": "hoat hinh 3d ly nuoc am va tuyen mo hoi",
+        "caption": "Nước mát vừa kích hoạt làm mát tự nhiên"
+      },
+      {
+        "narration": "Mạch máu dưới da không bị co thắt, giúp dòng máu liên tục mang nhiệt thừa thoát ra ngoài.",
+        "search": "mo phong 3d mach mau gian no",
+        "caption": "Mạch máu lưu thông đưa nhiệt ra ngoài da"
+      },
+      {
+        "narration": "Lần tới đi nắng về, hãy bỏ qua ly nước đá và chọn nước mát vừa để hạ nhiệt nhanh gấp đôi!",
+        "search": "hoat hinh 3d nguoi uong ly nuoc nhiet do phong",
+        "caption": "Uống nước nhiệt độ phòng để hạ nhiệt đúng cách"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T11:51:09.978576+00:00",
+    "updated_at": "2026-11-14T11:53:29.863662+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-14T11:51:30.679006+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "540 chars",
+        "at": "2026-11-14T11:51:42.970234+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.0s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-14T11:52:12.170382+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T11:52:13.095183+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-14T11:52:31.145850+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-14T11:52:31.151738+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.1s 23083711 bytes",
+        "at": "2026-11-14T11:53:29.758413+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T11:53:29.863656+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/35841417/15198434_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8676906/8676906-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818510/8818510-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283133/15283133-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324605/13788044_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39481916/16817859_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283166/15283166-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9756613/9756613-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/35062890/14852660_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35318439/14963250_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7876219/7876219-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39625194/16891140_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6187065/6187065-uhd_1440_2732_30fps.mp4"
+    ]
+  },
+  {
     "id": "bb1748f577",
     "kind": "short",
     "channel": "Channel2",
