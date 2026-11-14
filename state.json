@@ -1,5 +1,599 @@
 [
   {
+    "id": "dadb980935",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Mad King Who Slaughtered His Own Guests: The Sture Murders of 1567",
+    "idea": {
+      "title": "The Mad King Who Slaughtered His Own Guests: The Sture Murders of 1567",
+      "hook": "King Eric XIV committed an unthinkable betrayal inside his own dungeon, slaying his most loyal nobles in a violent delusion he would forever regret.",
+      "beats": [
+        "In the 1560s, King Eric XIV of Sweden ruled as a brilliant but deeply unstable monarch, obsessed with astrology and plagued by violent paranoia during the Nordic Seven Years' War.",
+        "Eric became convinced that Sweden's premier aristocratic family, the influential Stures, was conspiring to overthrow him and steal the Swedish crown.",
+        "In May 1567, without concrete evidence, Eric fabricated high treason charges, arresting Lord Svante Sture, his son Nils Sture, and several prominent nobles.",
+        "The prisoners were locked inside the dungeons of Uppsala Castle while a puppet court was set up to rubber-stamp their executions.",
+        "On May 24, King Eric arrived at Uppsala Castle in a volatile emotional state, oscillating wildly between extreme guilt and explosive suspicion.",
+        "Eric entered the cell of the young Nils Sture and made a desperate plea for reconciliation, but a sudden hallucinatory rage took hold of the king.",
+        "Driven by psychotic frenzy, Eric drew his dagger and personally stabbed Nils Sture, ignoring the young noble's pleas for mercy.",
+        "The king burst out into the hallway and ordered his guards to execute the rest of the imprisoned Sture family and their allies on the spot.",
+        "Five high-ranking nobles, including Lord Svante Sture, were brutally butchered in their cells within minutes under direct royal command.",
+        "Horrified by his own actions, Eric fled Uppsala Castle into the surrounding countryside, wandering incognito in the woods for days in utter madness.",
+        "Days later, search parties found the king in a barn, exhausted, incoherent, and consumed by crippling remorse and delusions.",
+        "The Sture Murders shattered Eric's political legitimacy, uniting the Swedish nobility and his half-brothers in a fierce rebellion that dethroned him shortly after."
+      ],
+      "keywords": [
+        "King Eric XIV",
+        "Sture Murders",
+        "Swedish History",
+        "Mad Kings in History",
+        "Uppsala Castle",
+        "Royal Betrayal",
+        "16th Century Monarchs",
+        "Vasa Dynasty",
+        "Royal Scandals",
+        "Medieval Madness"
+      ],
+      "tags": [
+        "History Documentary",
+        "Eric XIV Sweden",
+        "Sture Murders 1567",
+        "Royal Scandals",
+        "Mad Monarchs",
+        "Swedish Monarchs",
+        "Uppsala Castle Murder",
+        "Vasa Dynasty",
+        "True History Stories",
+        "European Royalty"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE KING'S BLOODY BETRAYAL"
+    },
+    "scenes": [
+      {
+        "narration": "A Swedish king slaughtered his own most loyal nobles in a single night of terror.",
+        "search": "King Eric XIV portrait oil painting 16th century",
+        "caption": "A brilliant monarch consumed by violent paranoia."
+      },
+      {
+        "narration": "In the 1560s, King Eric XIV of Sweden ruled as a deeply unstable monarch during the Nordic Seven Years War.",
+        "search": "Uppsala Castle Sweden medieval architecture wood engraving",
+        "caption": "Ruling Sweden amid the Nordic Seven Years War."
+      },
+      {
+        "narration": "Eric became convinced that the premier aristocratic family, the Stures, was conspiring to steal his crown.",
+        "search": "Renaissance Swedish nobleman portrait oil painting",
+        "caption": "Fearing a conspiracy by the influential Sture family."
+      },
+      {
+        "narration": "In May 1567, without concrete evidence, Eric fabricated high treason charges against Lord Svante Sture and his kin.",
+        "search": "16th century European dungeon interior oil painting",
+        "caption": "Arresting Sweden's leading nobles without concrete evidence."
+      },
+      {
+        "narration": "The prisoners were locked inside the dungeons of Uppsala Castle while a puppet court was set up.",
+        "search": "medieval court trial judge manuscript illustration",
+        "caption": "A puppet court rubber-stamping treason charges."
+      },
+      {
+        "narration": "On May 24, 1567, King Eric arrived at Uppsala Castle in a volatile emotional state.",
+        "search": "Renaissance king royal robes portrait painting",
+        "caption": "Eric arriving at Uppsala Castle on May 24, 1567."
+      },
+      {
+        "narration": "Eric entered the cell of the young Nils Sture and made a desperate plea for reconciliation.",
+        "search": "medieval prison cell dark shadows oil painting",
+        "caption": "Confronting Nils Sture inside his castle cell."
+      },
+      {
+        "narration": "A sudden hallucinatory rage took hold of the king, and he drew his dagger to strike.",
+        "search": "16th century dagger weapon antique steel photograph",
+        "caption": "A sudden hallucinatory rage sparking sudden violence."
+      },
+      {
+        "narration": "Driven by a sudden psychotic frenzy inside Uppsala Castle on May 24, 1567, King Eric personally stabbed Nils Sture.",
+        "search": "King Eric XIV oil painting Renaissance portrait",
+        "caption": "The king draws his dagger in the cell"
+      },
+      {
+        "narration": "Ignoring the young noble's pleas for mercy, the Swedish monarch lost all remaining grip on reality.",
+        "search": "16th century Uppsala Castle interior medieval dungeon engraving",
+        "caption": "A desperate plea ignored in the shadows"
+      },
+      {
+        "narration": "Eric burst out into the damp stone hallway and commanded his guards to execute the remaining prisoners.",
+        "search": "Tudor executioner guard renaissance historical reenactment still",
+        "caption": "Guards summoned to the royal dungeon"
+      },
+      {
+        "narration": "Five high-ranking Swedish nobles, including Lord Svante Sture, were brutally butchered in their cells within minutes.",
+        "search": "Renaissance murder crime scene historical illustration art",
+        "caption": "Five high-ranking nobles slaughtered instantly"
+      },
+      {
+        "narration": "Operating under direct royal command, the executioners left a trail of blood beneath the fortress arches.",
+        "search": "16th century Swedish nobleman portrait oil painting",
+        "caption": "Direct royal command carried out in blood"
+      },
+      {
+        "narration": "Horrified by the immediate magnitude of his own actions, Eric fled the fortress into the wilderness.",
+        "search": "dark Nordic pine forest 16th century landscape oil painting",
+        "caption": "The king flees into the dark wilderness"
+      },
+      {
+        "narration": "The unstable monarch wandered incognito through the surrounding countryside, entirely consumed by madness.",
+        "search": "medieval fugitive hiding in woods historical art print",
+        "caption": "Wandering incognito through the forest"
+      },
+      {
+        "narration": "Days later, royal search parties finally located the missing king hiding inside a remote agricultural barn.",
+        "search": "16th century Swedish peasant barn interior historical painting",
+        "caption": "Discovered hiding inside a remote barn"
+      },
+      {
+        "narration": "In late May 1567, royal guards escorted the unhinged King Eric XIV back to Stockholm, where he remained in a near-catatonic state for months.",
+        "search": "16th century royal procession horse carriage Sweden oil painting",
+        "caption": "King Eric XIV returned to Stockholm in a catatonic state."
+      },
+      {
+        "narration": "With the king incapacitated by psychosis, the Swedish Privy Council assumed de facto rule, attempting to conceal the royal bloodbath from foreign powers.",
+        "search": "16th century council of nobles meeting room interior oil painting",
+        "caption": "The Privy Council struggled to cover up the royal massacre."
+      },
+      {
+        "narration": "Upon regaining lucid consciousness in early 1568, Eric issued desperate royal decrees claiming the Sture murders were an act of self-defense against imminent treason.",
+        "search": "King Eric XIV of Sweden royal decree manuscript document 16th century",
+        "caption": "Eric attempted to legally justify the brutal prison executions."
+      },
+      {
+        "narration": "Outraged by the murder of their kin, the surviving Swedish nobility secretly aligned with Eric’s ambitious half-brother, Duke John of Finland.",
+        "search": "John III of Sweden portrait painting 16th century",
+        "caption": "Duke John forged a secret alliance with outraged Swedish aristocrats."
+      },
+      {
+        "narration": "In July 1568, Duke John and his brother Duke Charles raised a massive rebel army, marching directly toward Uppsala and Stockholm to dethrone the king.",
+        "search": "16th century cavalry army battle marching engraving",
+        "caption": "Rebel forces launched an armed uprising against the monarch."
+      },
+      {
+        "narration": "As rebel armies besieged Stockholm Castle in September 1568, King Eric's own royal guards abandoned their posts and opened the gates to the insurgents.",
+        "search": "Stockholm castle 16th century siege map engraving",
+        "caption": "Royal guards abandoned King Eric during the siege of Stockholm."
+      },
+      {
+        "narration": "Stripped of his royal crown by the Riksdag of the Estates, Eric was imprisoned in various fortresses across Sweden for nearly a decade.",
+        "search": "16th century stone dungeon castle interior oil painting",
+        "caption": "The Riksdag officially dethroned Eric XIV in late 1568."
+      },
+      {
+        "narration": "In February 1577, the deposed King Eric died suddenly in Örbyhus Castle, with modern forensic tests confirming he was lethally poisoned with arsenic inside his pea soup.",
+        "search": "Orbyhus castle Sweden exterior historical engraving",
+        "caption": "Modern forensics confirmed Eric XIV was assassinated with arsenic."
+      },
+      {
+        "narration": "Did Sweden's monarch slaughter his noble guests in 1567?",
+        "search": "king eric xiv sweden oil painting",
+        "caption": "The 1567 Royal Dungeon Massacre"
+      },
+      {
+        "narration": "In May 1567, during the Nordic Seven Years' War, King Eric XIV of Sweden became consumed by severe paranoia regarding the influential Sture family.",
+        "search": "nordic seven years war 16th century battle engraving",
+        "caption": "Paranoia in the Vasa Dynasty"
+      },
+      {
+        "narration": "Without concrete evidence of treason, King Eric ordered the immediate arrest of Lord Svante Sture and his son Nils Sture, locking them inside Uppsala Castle.",
+        "search": "uppsala castle sweden 16th century map engraving",
+        "caption": "Arrest of the Sture Nobility"
+      },
+      {
+        "narration": "On May 24, 1567, King Eric entered the dungeon cell of young Nils Sture in a state of extreme emotional instability.",
+        "search": "nils sture 16th century portrait painting",
+        "caption": "Tension inside Uppsala Dungeon"
+      },
+      {
+        "narration": "Overcome by a sudden psychotic delusion, King Eric drew his dagger and personally stabbed the imprisoned Nils Sture.",
+        "search": "sture murders uppsala castle historic oil painting",
+        "caption": "The Royal Dagger Attack"
+      },
+      {
+        "narration": "The king then ordered his guards into the corridor to immediately execute five remaining noble prisoners, including Lord Svante Sture.",
+        "search": "svante sture 16th century portrait painting",
+        "caption": "Execution of the High Nobles"
+      },
+      {
+        "narration": "Horrified by his own actions, Eric fled Uppsala Castle into the surrounding woodland, where guards discovered him days later in a state of complete breakdown.",
+        "search": "king eric xiv in the forest historic oil painting",
+        "caption": "Royal Madness and Remorse"
+      },
+      {
+        "narration": "The Sture Murders permanently destroyed King Eric XIV's legitimacy, prompting the Swedish nobility to unite and dethrone him in 1568.",
+        "search": "king john iii of sweden portrait oil painting",
+        "caption": "The Collapse of Royal Legitimacy"
+      },
+      {
+        "narration": "In the wake of the 1567 slaughter at Uppsala Castle, the Vasa dynasty faced an unprecedented legitimacy crisis. King Eric XIV lost all command over the Swedish Riksdag as the aristocracy mobilized for open rebellion.",
+        "search": "King Eric XIV oil painting portrait 16th century",
+        "caption": "The Vasa dynasty faces total collapse after the murders."
+      },
+      {
+        "narration": "Armed factions led by Eric's half-brothers, Duke John and Duke Karl, surrounded Stockholm to depose the mentally unstable monarch. By September 1568, the rebellious forces breached the royal capital.",
+        "search": "Uppsala Castle 16th century old engraving Sweden",
+        "caption": "Rebel dukes besiege the royal capital of Stockholm."
+      },
+      {
+        "narration": "Captured by his own relatives, Eric XIV was formally deposed and imprisoned within the very fortresses where he once ruled as an absolute sovereign. The fallen king traded his crown for decades of isolated captivity.",
+        "search": "medieval prison dungeon iron bars historical photo reconstruction",
+        "caption": "Eric XIV is imprisoned by his own family."
+      },
+      {
+        "narration": "During his long imprisonment, Eric endured shifting conditions of confinement across multiple Swedish castles, plagued by paranoia and fear of assassination. His brother John III maintained strict custody to prevent any royalist restoration.",
+        "search": "Gripsholms slott interior historic castle room Sweden",
+        "caption": "The fallen king spends years in harsh confinement."
+      },
+      {
+        "narration": "Historical records suggest Eric XIV died in February 1577 at Örbyhus Castle under highly suspicious circumstances, allegedly poisoned by a bowl of pea soup laced with arsenic. His death removed the final threat to John III's reign.",
+        "search": "16th century pewter bowl and spoon still life painting",
+        "caption": "Eric dies in captivity under mysterious circumstances."
+      },
+      {
+        "narration": "Posthumous medical examinations of Eric's exhumed remains centuries later revealed high concentrations of mercury, supporting historical accounts of his severe mental instability and chronic poisoning.",
+        "search": "human skull archaeological excavation artifact museum display",
+        "caption": "Forensic analysis reveals mercury poisoning in Eric's remains."
+      },
+      {
+        "narration": "The Sture Murders left a permanent dark stain on the history of the House of Vasa, demonstrating the catastrophic dangers of unchecked royal paranoia and autocratic rule in early modern Europe.",
+        "search": "Renaissance royal court interior oil painting Netherlands",
+        "caption": "The dark legacy of the House of Vasa."
+      },
+      {
+        "narration": "Today, the tragic events of May 1567 remain a stark historical warning about the destructive intersection of absolute power, mental illness, and political betrayal in 16th-century Scandinavia.",
+        "search": "historic Uppsala Cathedral exterior medieval architecture Sweden",
+        "caption": "The enduring historical warning of Uppsala Castle."
+      },
+      {
+        "narration": "In May 1567, King Eric XIV slaughtered his own guests. Driven by severe paranoia during the Nordic Seven Years' War, the Swedish monarch turned violently against his premier aristocratic family.",
+        "search": "Uppsala Castle 16th century engraving",
+        "caption": "May 1567: Royal Betrayal at Uppsala Castle"
+      },
+      {
+        "narration": "Obsessed with astrological omens, King Eric XIV became convinced that the influential Sture family was actively conspiring to usurp the Swedish crown. Without presenting concrete evidence, he ordered the immediate arrest of the family leadership for high treason.",
+        "search": "King Eric XIV of Sweden portrait oil painting",
+        "caption": "Paranoia and Astrology in 16th-Century Sweden"
+      },
+      {
+        "narration": "By mid-May 1567, royal soldiers imprisoned Lord Svante Sture, his son Nils Sture, and several allied nobles in the dungeons of Uppsala Castle. The king established a puppet court intended to rubber-stamp their immediate executions.",
+        "search": "Svante Sture Swedish noble oil painting",
+        "caption": "Lord Svante Sture Arrested for High Treason"
+      },
+      {
+        "narration": "On May 24, 1567, King Eric arrived at Uppsala Castle in a highly unstable mental state, oscillating between deep guilt and sudden rage. Seeking an impromptu confrontation, the monarch personally walked into the cell of young Nils Sture.",
+        "search": "Nils Sture Swedish nobleman portrait painting",
+        "caption": "May 24, 1567: King Eric Reaches Uppsala"
+      },
+      {
+        "narration": "Overcome by a sudden psychotic hallucination, King Eric drew his personal dagger and repeatedly stabbed the bound Nils Sture. Ignoring the young noble's pleas for mercy, the king left his captive bleeding on the dungeon floor.",
+        "search": "Sture Murders Uppsala Castle 1567 historical illustration",
+        "caption": "King Eric Stabs Nils Sture in Cell"
+      },
+      {
+        "narration": "Bursting into the corridor, the king commanded his guards to execute the rest of the noble prisoners without delay. Within minutes, five prominent aristocrats, including Lord Svante Sture, were slaughtered inside their prison chambers.",
+        "search": "Uppsala Castle dungeon 16th century engraving",
+        "caption": "Five High Nobles Butchered Under Royal Command"
+      },
+      {
+        "narration": "Overwhelmed by remorse and madness, King Eric fled the castle on foot and vanished into the surrounding Swedish countryside. Days later, search parties discovered the monarch hiding in a barn, incoherent and wandering in peasant attire.",
+        "search": "King Eric XIV flight in forest historical painting",
+        "caption": "The King Flees into the Woods in Madness"
+      },
+      {
+        "narration": "The brutal atrocity at Uppsala Castle permanently destroyed King Eric's political legitimacy, sparking a massive noble uprising led by his half-brother, Duke John. By 1568, the Swedish Estates formally deposed Eric XIV, ending his tumultuous reign.",
+        "search": "King John III of Sweden portrait oil painting deposes",
+        "caption": "1568: Swedish Nobility Deposes King Eric XIV"
+      },
+      {
+        "narration": "In the wake of his deposition in 1568, the former King Eric XIV was imprisoned across various Swedish fortresses. His unstable mental state continued to concern the new Vasa rulers.",
+        "search": "King Eric XIV imprisoned portrait oil painting",
+        "caption": "Deposed King Eric XIV imprisoned in Swedish fortresses"
+      },
+      {
+        "narration": "By February 1577, Eric was held captive at Örbyhus Castle under the strict guard of his half-brother, King John III. The Swedish court lived in constant fear of an Eric restoration.",
+        "search": "Orbyhus Castle medieval fortress exterior engraving",
+        "caption": "Eric XIV imprisoned at Örbyhus Castle in 1577"
+      },
+      {
+        "narration": "On February 26, 1577, Eric died suddenly in his royal prison cell after eating a final, fateful meal. Contemporary accounts strongly pointed to arsenic poisoning served in his pea soup.",
+        "search": "16th century Renaissance banquet table oil painting",
+        "caption": "Eric XIV dies suddenly after a poisoned meal"
+      },
+      {
+        "narration": "The assassination order originated directly from King John III and the privy council, who viewed the captive monarch as a permanent threat to the crown.",
+        "search": "King John III of Sweden portrait oil painting orders",
+        "caption": "King John III orders the elimination of his brother"
+      },
+      {
+        "narration": "The tragic downfall of Eric XIV effectively concluded a turbulent chapter of the Vasa dynasty. Sweden's aristocracy reasserted firm control over the nation's governance.",
+        "search": "House of Vasa royal coat of arms heraldry manuscript",
+        "caption": "The Vasa dynasty and Swedish aristocratic power"
+      },
+      {
+        "narration": "Centuries later, forensic examinations of Eric's exhumed remains confirmed lethal traces of arsenic. Modern science verified the dark rumors of royal fratricide.",
+        "search": "16th century human skull forensic anthropology museum display",
+        "caption": "Forensic tests confirm arsenic poisoning in Eric's bones"
+      },
+      {
+        "narration": "The Sture Murders and Eric's tragic demise remain one of the most chilling episodes in Scandinavian monarchy. A brilliant intellect was utterly consumed by destructive paranoia.",
+        "search": "Uppsala Castle medieval courtyard historical architecture photo",
+        "caption": "Uppsala Castle witness to a brutal royal tragedy"
+      },
+      {
+        "narration": "From paranoid delusions to the bloody dungeon floor, Eric XIV's legacy endures as a stark warning against unchecked royal tyranny.",
+        "search": "16th century Swedish royal crown and scepter artifacts",
+        "caption": "The dark legacy of Sweden's paranoid Renaissance king"
+      },
+      {
+        "narration": "Did paranoid King Eric XIV murder his own guests in 1567?",
+        "search": "King Eric XIV of Sweden oil painting portrait",
+        "caption": "King Eric XIV slaughtered five innocent nobles in 1567."
+      },
+      {
+        "narration": "During the Nordic Seven Years' War in May 1567, King Eric XIV locked the influential Sture family inside Uppsala Castle on fabricated charges.",
+        "search": "Uppsala Castle Sweden 16th century engraving",
+        "caption": "Uppsala Castle held high-ranking nobles under fabricated treason charges."
+      },
+      {
+        "narration": "Plagued by severe psychological instability, the monarch believed his closest aristocrats were orchestrating an immediate coup against the Vasa dynasty.",
+        "search": "Svante Sture Swedish nobleman oil painting portrait",
+        "caption": "Paranoia convinced King Eric that the Sture family plotted a coup."
+      },
+      {
+        "narration": "On May 24, 1567, Eric entered the underground cell of young Nils Sture and drew his dagger, plunging it into the bound prisoner.",
+        "search": "Nils Sture Swedish aristocrat historic oil painting",
+        "caption": "On May 24, 1567, King Eric personally stabbed young Nils Sture."
+      },
+      {
+        "narration": "Immediately after the stabbing, Eric ordered royal guards to slaughter Lord Svante Sture and four other imprisoned nobles inside their cells.",
+        "search": "16th century dungeon cell execution historical engraving",
+        "caption": "Five high-ranking Swedish aristocrats were butchered in Uppsala Castle's dungeon."
+      },
+      {
+        "narration": "Overcome by psychotic remorse, the king fled into the surrounding countryside, wandering incognito in the forest for three days.",
+        "search": "16th century Scandinavian forest landscape oil painting",
+        "caption": "King Eric fled into the wilderness, suffering from severe psychotic breakdown."
+      },
+      {
+        "narration": "The brutal massacre stripped Eric XIV of all aristocratic support, prompting his half-brothers Duke John and Duke Charles to initiate a full rebellion.",
+        "search": "King John III of Sweden portrait oil painting triggered",
+        "caption": "The Sture Murders triggered a noble rebellion led by Duke John."
+      },
+      {
+        "narration": "In September 1568, the rebel army deposed Eric XIV, locking the former monarch in solitary confinement until his death in 1577.",
+        "search": "Swedish Royal Vasa dynasty coat of arms historical engraving",
+        "caption": "Eric XIV was dethroned in 1568, ending his disastrous reign."
+      },
+      {
+        "narration": "For centuries, historians debated whether the imprisoned King Eric XIV died of natural causes or target execution in February 1577.",
+        "search": "King Eric XIV of Sweden portrait oil painting mystery",
+        "caption": "Mystery surrounding the death of King Eric XIV in 1577"
+      },
+      {
+        "narration": "Official state documents from 1575 reveal King John III explicitly authorized guards to murder his imprisoned brother if an escape was attempted.",
+        "search": "King John III of Sweden portrait oil painting 16th century",
+        "caption": "Secret royal decree authorizing the execution of Eric XIV"
+      },
+      {
+        "narration": "When Swedish scientists exhumed Eric's remains from Västerås Cathedral in 1958, chemical analysis exposed lethal quantities of arsenic.",
+        "search": "Vasteras Cathedral interior historical photograph 19th century",
+        "caption": "1958 exhumation confirms fatal arsenic poisoning inside royal tomb"
+      },
+      {
+        "narration": "Forensic evidence confirmed the arsenic was administered shortly before his death on February 26, 1577, validating long-standing murder claims.",
+        "search": "16th century Swedish castle dungeon oil painting",
+        "caption": "Forensics prove arsenic was administered days before death"
+      },
+      {
+        "narration": "Following the 1567 atrocity, the surviving Sture family preserved the bloodstained clothing worn by Nils and Svante Sture inside Uppsala Cathedral.",
+        "search": "Uppsala Cathedral Sweden exterior 19th century engraving",
+        "caption": "Bloodstained garments of the murdered Stures kept as relics"
+      },
+      {
+        "narration": "To appease the enraged nobility, King John III signed a charter in 1569 that expanded the aristocracy's legal powers against royal overreach.",
+        "search": "Swedish noble charter 16th century manuscript engraving",
+        "caption": "1569 charter granting vast political power to Swedish nobles"
+      },
+      {
+        "narration": "Modern psychiatric evaluations assess Eric XIV's violent delusions as one of early Europe's most clearly documented cases of severe schizophrenia.",
+        "search": "Eric XIV in prison painting oil canvas",
+        "caption": "Psychiatric study of King Eric's severe mental breakdown"
+      },
+      {
+        "narration": "The Sture Murders of May 24, 1567 remain a definitive tragedy of royal paranoia, forever altering Sweden's Vasa dynasty.",
+        "search": "Sture Murders historical oil painting Uppsala Castle",
+        "caption": "The 1567 Sture Murders altered Swedish royal history forever"
+      },
+      {
+        "narration": "In the dense forests surrounding Uppsala, search parties hunted for the fugitive monarch.",
+        "search": "Swedish 16th century forest oil painting landscape",
+        "caption": "Fugitive monarch hunted in the dark forests"
+      },
+      {
+        "narration": "Days after the massacre, peasants discovered King Eric hiding inside a humble grain barn.",
+        "search": "Renaissance barn interior historical illustration wood engraving",
+        "caption": "King Eric discovered hiding in a barn"
+      },
+      {
+        "narration": "The monarch was found utterly incoherent, stripped of his royal garments, and weeping uncontrollably.",
+        "search": "Mad king mourning historical oil portrait painting",
+        "caption": "Consumed by crippling remorse and delusions"
+      },
+      {
+        "narration": "The Sture Murders permanently destroyed Eric XIV's political legitimacy across the Swedish realm.",
+        "search": "16th century Swedish noble council meeting manuscript",
+        "caption": "Bloodbath shatters royal legitimacy in Sweden"
+      },
+      {
+        "narration": "Enraged by the royal betrayal, the Swedish nobility and Eric's half-brothers formed a fierce rebellion.",
+        "search": "Medieval armor rebellion uprising battle oil painting",
+        "caption": "Swedish nobility unites in armed rebellion"
+      },
+      {
+        "narration": "Outnumbered and broken, King Eric was officially dethroned by his brother John III in 1568.",
+        "search": "King John III of Sweden renaissance portrait painting",
+        "caption": "Eric XIV dethroned by his own brother"
+      },
+      {
+        "narration": "The paranoid king spent his final years imprisoned in various castles across Sweden before dying in 1577.",
+        "search": "Drip poisoned pea soup historical painting legend",
+        "caption": "Imprisoned for life after a royal reign of terror"
+      },
+      {
+        "narration": "A brilliant crown lost to violent delusion, forever sealing the dark legacy of the Sture Murders.",
+        "search": "Uppsala Castle medieval fortress exterior oil painting",
+        "caption": "The tragic legacy of Sweden's mad king"
+      },
+      {
+        "narration": "In 1567, King Eric XIV slaughtered his noble guests.",
+        "search": "king eric xiv of sweden portrait oil painting",
+        "caption": "The Sture Murders of 1567"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-14T18:56:14.675595+00:00",
+    "updated_at": "2026-11-14T19:11:04.078924+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-14T19:01:25.958830+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "1943 chars",
+        "at": "2026-11-14T19:01:44.825537+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "122.6s en-US-GuyNeural 21 cau",
+        "at": "2026-11-14T19:02:09.825162+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-14T19:02:12.189768+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-14T19:08:17.443471+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-14T19:08:17.449591+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 122.6s 119689351 bytes",
+        "at": "2026-11-14T19:11:03.970805+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-11-14T19:11:03.983393+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-14T19:11:04.078914+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14300522/pexels-photo-14300522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38188662/pexels-photo-38188662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397793/pexels-photo-16397793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19968241/pexels-photo-19968241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37730973/pexels-photo-37730973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40894606/pexels-photo-40894606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10473675/pexels-photo-10473675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/350784/pexels-photo-350784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205367/pexels-photo-39205367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28959925/pexels-photo-28959925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31846017/pexels-photo-31846017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39332607/pexels-photo-39332607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6715285/pexels-photo-6715285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33469494/pexels-photo-33469494.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20042194/pexels-photo-20042194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35549786/pexels-photo-35549786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18966616/pexels-photo-18966616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38535825/pexels-photo-38535825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27409011/pexels-photo-27409011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11369621/pexels-photo-11369621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35386752/pexels-photo-35386752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5129555/pexels-photo-5129555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37125205/pexels-photo-37125205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15635123/pexels-photo-15635123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32906559/pexels-photo-32906559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268735/pexels-photo-9268735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39413433/pexels-photo-39413433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14558310/pexels-photo-14558310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38321467/pexels-photo-38321467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40305639/pexels-photo-40305639.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36374762/pexels-photo-36374762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30489691/pexels-photo-30489691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397769/pexels-photo-16397769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37318231/pexels-photo-37318231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5369188/pexels-photo-5369188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31488428/pexels-photo-31488428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/951334/pexels-photo-951334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19090762/pexels-photo-19090762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13532997/pexels-photo-13532997.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37953021/pexels-photo-37953021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32245208/pexels-photo-32245208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6109065/pexels-photo-6109065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588833/pexels-photo-4588833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251944/pexels-photo-31251944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40282699/pexels-photo-40282699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12661290/pexels-photo-12661290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12588484/pexels-photo-12588484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5466866/pexels-photo-5466866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34421644/pexels-photo-34421644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760262/pexels-photo-7760262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38371547/pexels-photo-38371547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3795023/pexels-photo-3795023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12675369/pexels-photo-12675369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17868412/pexels-photo-17868412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37247272/pexels-photo-37247272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11755815/pexels-photo-11755815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205319/pexels-photo-39205319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33386460/pexels-photo-33386460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885621/pexels-photo-7885621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29960174/pexels-photo-29960174.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1309902/pexels-photo-1309902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29093577/pexels-photo-29093577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30536684/pexels-photo-30536684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/303331/pexels-photo-303331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397758/pexels-photo-16397758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7718456/pexels-photo-7718456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38268822/pexels-photo-38268822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32082656/pexels-photo-32082656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38955404/pexels-photo-38955404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38478677/pexels-photo-38478677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397831/pexels-photo-16397831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31052376/pexels-photo-31052376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4504332/pexels-photo-4504332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7788725/pexels-photo-7788725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728545/pexels-photo-6728545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39382018/pexels-photo-39382018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2046779/pexels-photo-2046779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18820281/pexels-photo-18820281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11325184/pexels-photo-11325184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30194369/pexels-photo-30194369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588831/pexels-photo-4588831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6d2630b4a8",
     "kind": "short",
     "channel": "Channel3",
