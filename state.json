@@ -1,5 +1,161 @@
 [
   {
+    "id": "6d0bf3c8ba",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Gave His Kingdom Away to Rome",
+    "idea": {
+      "title": "The King Who Gave His Kingdom Away to Rome",
+      "hook": "King Attalus III made a shocking decision on his deathbed: he left his entire empire and wealth directly to the Roman Republic in his will.",
+      "beats": [
+        "Attalus III of Pergamon was obsessed with botany and medicine, despising the brutal political games of ruling.",
+        "Fearing an inevitable Roman conquest or bloody civil war after his death, he drafted an unprecedented legal document in 133 BC.",
+        "He officially bequeathed his entire royal domain, treasure reserves, and sovereign cities directly to the Roman Senate.",
+        "Rome eagerly accepted the bequest, expanding its power instantly across Asia Minor and causing massive political turmoil in the Senate."
+      ],
+      "keywords": [
+        "Attalus III portrait engraving",
+        "ancient Pergamon map",
+        "Roman senate painting",
+        "ancient Greek coin bust",
+        "Roman republic empire map"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historyfacts",
+        "#pergamon",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A dying king handed his entire empire to Rome.",
+        "search": "ancient Greek coin bust Attalus III silver tetradrachm",
+        "caption": "A dying king handed his entire empire to Rome."
+      },
+      {
+        "narration": "In 133 BC, King Attalus the Third ruled Pergamon, a wealthy Hellenistic state in modern Turkey.",
+        "search": "ancient Pergamon map engraving 18th century",
+        "caption": "In 133 BC, Attalus III ruled the wealthy kingdom of Pergamon."
+      },
+      {
+        "narration": "Disgusted by court politics, Attalus ignored ruling to spend his life studying botany and poison.",
+        "search": "ancient Greek physician medicine manuscript illustration",
+        "caption": "Attalus ignored politics to study poisonous plants and medicine."
+      },
+      {
+        "narration": "Roman expansion was crushing surrounding nations, threatening Pergamon with inevitable war.",
+        "search": "Roman republic empire map historic engraving",
+        "caption": "Roman expansion threatened to conquer all of Asia Minor."
+      },
+      {
+        "narration": "To prevent a bloody conquest, the childless monarch drafted an unprecedented royal testament.",
+        "search": "ancient royal parchment scroll legal document illustration",
+        "caption": "In 133 BC, Attalus drafted an unprecedented final royal will."
+      },
+      {
+        "narration": "He officially bequeathed his royal domain, sovereign cities, and vast treasury directly to Rome.",
+        "search": "Roman senate painting historic oil painting",
+        "caption": "He left his kingdom, cities, and treasure to Rome."
+      },
+      {
+        "narration": "In Rome, Tribune Tiberius Gracchus seized the fortune for public land reforms, sparking fatal riots.",
+        "search": "Tiberius Gracchus Roman tribune bust statue",
+        "caption": "The massive wealth triggered violent political chaos inside Rome."
+      },
+      {
+        "narration": "The peaceful gift formed the Roman province of Asia, funding Rome's rise to absolute global dominance.",
+        "search": "Roman empire expansion Asia Minor map illustration",
+        "caption": "Pergamon's surrender transformed Rome into an unstoppable global empire."
+      },
+      {
+        "narration": "The immense gold brought from Pergamon corrupted Roman politics forever, transforming democratic debate into bloody political violence.",
+        "search": "ancient roman senate turmoil oil painting",
+        "caption": "Pergamon wealth corrupted Roman politics into fatal conflict"
+      },
+      {
+        "narration": "A royal pretender named Aristonicus launched a rebellion in 131 BC, but Roman legions brutally crushed the uprising to secure Asia.",
+        "search": "ancient asia minor map engraving",
+        "caption": "Rebellions were crushed to solidify Roman control"
+      },
+      {
+        "narration": "By surrendering his throne in 133 BC, Attalus III traded his kingdom's freedom to build the ultimate financial engine of the Roman Empire.",
+        "search": "attalus iii coin bust ancient greek",
+        "caption": "One king's final gift permanently funded the Roman Empire"
+      },
+      {
+        "narration": "A dying king gave his empire to Rome.",
+        "search": "ancient Pergamon map engraving",
+        "caption": "A King Willed His Empire To Rome"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T07:43:08.289156+00:00",
+    "updated_at": "2026-11-15T07:45:02.810191+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-15T07:43:37.606855+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "338 chars (cat 309 de vua 55s)",
+        "at": "2026-11-15T07:43:54.167978+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-15T07:43:56.163302+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T07:43:56.648710+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-15T07:44:37.380028+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T07:44:37.385807+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.6s 13668324 bytes",
+        "at": "2026-11-15T07:45:02.712239+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T07:45:02.810185+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/11003040/pexels-photo-11003040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32256516/pexels-photo-32256516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4989147/pexels-photo-4989147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30208661/pexels-photo-30208661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4913340/pexels-photo-4913340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39504011/pexels-photo-39504011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39671761/pexels-photo-39671761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33039807/pexels-photo-33039807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844006/pexels-photo-37844006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7907896/pexels-photo-7907896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "09229c416b",
     "kind": "short",
     "channel": "Channel3",
