@@ -1,5 +1,161 @@
 [
   {
+    "id": "52c7c8227a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Lost England’s Royal Treasure in a Swamp",
+    "idea": {
+      "title": "The King Who Lost England’s Royal Treasure in a Swamp",
+      "hook": "King John lost England's entire royal treasury in a muddy swamp—and died days later in total regret.",
+      "beats": [
+        "In 1216, King John attempted a risky shortcut across the treacherous mudflats of The Wash.",
+        "Misjudging the rapid rising tide, his entire baggage train carrying the Crown Jewels was swallowed by quicksand.",
+        "Devastated by the tragic loss of gold, regalia, and sacred relics, John fell gravely ill with dysentery.",
+        "He died just days later in agony, leaving a bankrupt kingdom to his nine-year-old son."
+      ],
+      "keywords": [
+        "king john portrait",
+        "medieval royal treasury illustration",
+        "the wash estuary map",
+        "medieval king dying painting",
+        "crown jewels oil painting"
+      ],
+      "tags": [
+        "king john",
+        "lost treasure",
+        "medieval history",
+        "british monarchy",
+        "history documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "England's entire crown treasury vanished into quicksand in 1216.",
+        "search": "medieval crown jewels oil painting",
+        "caption": "England's crown treasury vanished into quicksand in 1216."
+      },
+      {
+        "narration": "King John lost gold, sacred relics, and royal regalia without fighting a single battle.",
+        "search": "king john portrait painting",
+        "caption": "King John lost sacred relics and regalia without a battle."
+      },
+      {
+        "narration": "In October 1216, the king marched his army across the treacherous mudflats of The Wash estuary.",
+        "search": "the wash estuary map engraving",
+        "caption": "In October 1216, John crossed the treacherous Wash estuary."
+      },
+      {
+        "narration": "Attempting a dangerous shortcut, John misjudged the rapid speed of the incoming North Sea tide.",
+        "search": "medieval army marching manuscript illustration",
+        "caption": "Taking a shortcut, John misjudged the rapid North Sea tide."
+      },
+      {
+        "narration": "Rushing water swept across the salt marshes, trapping heavy royal supply wagons in deep quicksand.",
+        "search": "medieval royal baggage train swamp illustration",
+        "caption": "Rising waters trapped heavy royal supply wagons in quicksand."
+      },
+      {
+        "narration": "The entire baggage train was swallowed whole, sinking tons of royal gold beneath the silt.",
+        "search": "medieval royal treasury illustration",
+        "caption": "Tons of gold and royal regalia sank beneath the mud."
+      },
+      {
+        "narration": "Overwhelmed by the ruinous loss, King John contracted severe dysentery just hours after reaching land.",
+        "search": "king john sick in bed medieval manuscript",
+        "caption": "Overwhelmed by loss, King John contracted fatal dysentery."
+      },
+      {
+        "narration": "Days later, the fifty-year-old monarch died in agony at Newark Castle, leaving a bankrupt realm.",
+        "search": "medieval king dying painting",
+        "caption": "King John died days later, leaving England completely bankrupt."
+      },
+      {
+        "narration": "In October 1216, nine-year-old King Henry III was crowned with a simple gold band, as the authentic Crown Jewels lay trapped beneath the tide.",
+        "search": "king henry iii portrait painting",
+        "caption": "Nine-year-old Henry III was crowned without England's royal jewels."
+      },
+      {
+        "narration": "Generations of antiquarians and modern treasure hunters have scoured the Lincolnshire silt, seeking millions in lost medieval gold and sacred relics.",
+        "search": "medieval gold chest oil painting",
+        "caption": "Searchers have hunted the lost treasury across Lincolnshire for centuries."
+      },
+      {
+        "narration": "To this day, King John’s colossal fortune remains buried beneath the swamp—a priceless kingdom lost to a single rising tide.",
+        "search": "the wash estuary map engraving greatest",
+        "caption": "England’s greatest royal treasure remains buried beneath the mud forever."
+      },
+      {
+        "narration": "In 1216, England’s royal crown jewels vanished overnight.",
+        "search": "medieval crown jewels gold treasure oil painting",
+        "caption": "In 1216, England's entire royal treasury vanished."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T23:38:22.278234+00:00",
+    "updated_at": "2026-11-15T23:40:25.774750+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-15T23:38:54.730985+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "392 chars (cat 241 de vua 55s)",
+        "at": "2026-11-15T23:39:11.239347+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.4s en-US-GuyNeural 4 cau",
+        "at": "2026-11-15T23:39:14.692394+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T23:39:15.149328+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-15T23:39:57.926518+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T23:39:57.937626+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.5s 15232174 bytes",
+        "at": "2026-11-15T23:40:25.657872+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T23:40:25.774734+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15711384/pexels-photo-15711384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9432767/pexels-photo-9432767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19390849/pexels-photo-19390849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37177698/pexels-photo-37177698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8489177/pexels-photo-8489177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9432769/pexels-photo-9432769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8088593/pexels-photo-8088593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25746323/pexels-photo-25746323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14127856/pexels-photo-14127856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15288356/pexels-photo-15288356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11169208/pexels-photo-11169208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37212606/pexels-photo-37212606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c3a49fa7b2",
     "kind": "short",
     "channel": "Channel2",
