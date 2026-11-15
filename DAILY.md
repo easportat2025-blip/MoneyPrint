@@ -1,4 +1,4 @@
-# Daily ping 14/11/2026
+# Daily ping 15/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -8,16 +8,12 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (3)
-- Tại sao bật điều hòa 26 độ ban đêm vẫn làm bạn tỉnh giấ :: token refresh failed: 400 {
+## Fail (2)
+- Lý do bật Chế độ tối ban ngày đang âm thầm làm mỏi mắt  :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The King Who Destroyed His Own Empire By Mistake :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Bad Request"
-}
-- The Persian King Who Defeated Egypt with Cats :: token refresh failed: 400 {
+- The Empress Who Sacrificed Her Baby for Power :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
