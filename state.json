@@ -1,5 +1,599 @@
 [
   {
+    "id": "5fd0b9b839",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Slept on Charcoal to Destroy an Empire",
+    "idea": {
+      "title": "The King Who Slept on Charcoal to Destroy an Empire",
+      "hook": "In 493 BC, King Goujian surrendered his throne, became a literal servant to his enemy, and licked bitter animal bile every night for ten years just to take his revenge.",
+      "beats": [
+        "The blood feud: An introduction to the brutal conflict between the southern Chinese states of Wu and Yue during the Spring and Autumn period.",
+        "The Battle of Kuaiji (494 BC): King Goujian suffers a catastrophic defeat against King Fuchai of Wu and is forced to offer unconditional surrender.",
+        "Years of absolute humiliation: Goujian is forced to live in a stone hut, clean stables, and serve as Fuchai's personal servant to preserve his surviving people.",
+        "Calculated subservience: Goujian deliberately acts completely broken, even tasting Fuchai's waste during an illness to prove total loyalty, ignoring warnings from Wu advisor Wu Zixu.",
+        "The deceive and release: Fooled by Goujian's extreme devotion, King Fuchai pardons him and permits his return to rule the puppet state of Yue.",
+        "The vow of bitterness (Wòxīnchángdǎn): Back home, Goujian rejects luxury, sleeps on coarse brushwood, and hangs a bitter gall bladder above his bed to taste every day as a reminder of his shame.",
+        "Rebuilding from the ashes: Goujian secretly implements radical agricultural reforms, encourages population growth, and works the fields alongside his peasantry.",
+        "Psychological sabotage: Yue sends massive tributes of luxury items, grand timber projects, and the legendary beauty Xi Shi to corrupt Fuchai and distract Wu's court.",
+        "Eliminating the threat: Goujian's operatives engineer the downfall of Wu Zixu, Wu's most capable general, leading to his forced suicide by Fuchai.",
+        "The initial strike (482 BC): When Fuchai marches his main armies north for political hegemony, Goujian launches a sudden ambush on Wu's undefended home capital.",
+        "The siege of Wu (478–473 BC): Yue initiates a relentless, multi-year total war campaign, systematically crushing Wu's remaining military power.",
+        "Total annihilation: Refusing Fuchai's desperate pleas for peace, Goujian forces Fuchai's suicide, completely annexing Wu and erasing it from history as the ultimate Hegemon."
+      ],
+      "keywords": [
+        "Ancient China history",
+        "King Goujian",
+        "King Fuchai",
+        "State of Wu",
+        "State of Yue",
+        "Spring and Autumn Period",
+        "Battle of Kuaiji",
+        "Xi Shi",
+        "Woxin Changdan",
+        "Ancient military strategy"
+      ],
+      "tags": [
+        "#history",
+        "#ancientchina",
+        "#documentary",
+        "#kinggoujian",
+        "#militaryhistory",
+        "#chinesehistory",
+        "#ancientempires",
+        "#warfare",
+        "#revenge",
+        "#historicalfigures"
+      ],
+      "kind": "long",
+      "thumbnail_text": "10 YEARS OF BITTER REVENGE"
+    },
+    "scenes": [
+      {
+        "narration": "He licked bitter bile daily to erase an empire. In 493 BC, King Goujian of Yue surrendered his throne and accepted absolute slavery, initiating ancient history's most ruthless long-game revenge.",
+        "search": "ancient Chinese bronze sword King Goujian museum artifact",
+        "caption": "A defeated king spent ten years plotting ultimate revenge."
+      },
+      {
+        "narration": "During China's Spring and Autumn Period, the southern states of Wu and Yue fought a brutal war for supremacy. At the Battle of Kuaiji in 494 BC, King Fuchai of Wu crushed Yue's army, trapping Goujian with only five thousand surviving soldiers.",
+        "search": "ancient Chinese war battle illustration ink painting",
+        "caption": "Battle of Kuaiji 494 BC: Yue forces totally crushed."
+      },
+      {
+        "narration": "To save his remaining people from massacre, Goujian offered unconditional surrender and agreed to become Fuchai's personal servant. Stripped of his royal title, the fallen king was forced to clean horse stables in the Wu capital under constant insult.",
+        "search": "ancient Chinese servants ink painting illustration",
+        "caption": "King Goujian reduced to a royal horse groom."
+      },
+      {
+        "narration": "Goujian engineered a desperate act of total submission, even tasting King Fuchai's excrement during an illness to diagnose his health and prove loyalty. Fooled by this broken persona, Fuchai pardoned him in 490 BC against the warnings of general Wu Zixu.",
+        "search": "King Fuchai of Wu ancient Chinese portrait painting",
+        "caption": "Fuchai fell for Goujian's calculated acts of submission."
+      },
+      {
+        "narration": "Back in Yue, Goujian slept on harsh firewood and hung a bitter animal gall bladder above his bed to taste every morning. Through this discipline, known as Woxin Changdan, he secretly rebuilt his army and reformed agriculture while working the fields himself.",
+        "search": "ancient Chinese bamboo slips manuscript text illustration",
+        "caption": "Woxin Changdan: Sleeping on brushwood and tasting gall."
+      },
+      {
+        "narration": "Goujian launched psychological warfare by sending massive timber tributes and the famed beauty Xi Shi to corrupt Fuchai's court. Through bribed ministers, Goujian framed the brilliant military strategist Wu Zixu, forcing Fuchai to execute his own general in 484 BC.",
+        "search": "Xi Shi ancient Chinese court portrait painting",
+        "caption": "Xi Shi sent to distract Fuchai while Wu Zixu was eliminated."
+      },
+      {
+        "narration": "In 482 BC, when King Fuchai marched his main army north to assert dominance over central China, Goujian launched a surprise strike on Wu's undefended capital. Yue then waged a relentless siege from 478 to 473 BC, completely breaking Wu's military power.",
+        "search": "ancient Chinese city wall siege ink painting illustration",
+        "caption": "Yue strikes the undefended capital while Fuchai is away."
+      },
+      {
+        "narration": "Cornered in 473 BC, King Fuchai begged for terms, but Goujian refused all mercy, driving Fuchai to cover his face and commit suicide in shame. Goujian annexed the entire state of Wu, erasing his rival from history as the ultimate Hegemon.",
+        "search": "ancient Chinese state map Spring and Autumn period engraving",
+        "caption": "State of Wu erased; Goujian becomes the ultimate Hegemon."
+      },
+      {
+        "narration": "In 494 BC, King Fuchai of Wu shattered the forces of Yue at the Battle of Kuaiji, forcing King Goujian into an absolute, unconditional surrender.",
+        "search": "battle of kuaiji ancient china ink painting",
+        "caption": "Battle of Kuaiji 494 BC"
+      },
+      {
+        "narration": "Instead of executing his defeated enemy, Fuchai stripped Goujian of his royal garments and forced him to live in a stone hut, cleaning imperial stables as a common slave.",
+        "search": "ancient chinese king servant horse stables painting",
+        "caption": "Goujian Enslaved in Wu 494 BC"
+      },
+      {
+        "narration": "To convince his captor that his spirit was utterly broken, Goujian performed humiliating acts of feigned loyalty, ignoring the urgent execution warnings of Wu advisor Wu Zixu.",
+        "search": "king fuchai of wu ancient chinese manuscript portrait",
+        "caption": "Feigned Loyalty and Deception"
+      },
+      {
+        "narration": "Fooled by this total submission, Fuchai released Goujian in 490 BC, unaware that back home, Goujian slept on harsh brushwood and tasted bitter gall daily to maintain his vow of revenge.",
+        "search": "king goujian sleeping on brushwood ink painting",
+        "caption": "Woxin Changdan 490 BC"
+      },
+      {
+        "narration": "Goujian secretly sent massive timber projects and the legendary beauty Xi Shi to corrupt Fuchai, while his operatives engineered the disgraced suicide of Wu Zixu.",
+        "search": "beauty xi shi ancient chinese silk painting portrait",
+        "caption": "Xi Shi Sent to Corrupt Wu"
+      },
+      {
+        "narration": "In 482 BC, when King Fuchai marched his main army north to Huangchi to claim dominance over central China, Goujian launched a devastating surprise attack on Wu's undefended capital.",
+        "search": "ancient chinese warship fleet ink drawing map",
+        "caption": "Surprise Strike 482 BC"
+      },
+      {
+        "narration": "Between 478 and 473 BC, Yue forces executed a relentless siege against Wu, systematically destroying its remaining military power and cutting off all supplies.",
+        "search": "ancient chinese city walls siege manuscript drawing",
+        "caption": "Siege of Wu Capital 478 BC"
+      },
+      {
+        "narration": "Refusing Fuchai's desperate pleas for peace in 473 BC, Goujian forced his former master to commit suicide and fully annexed Wu, becoming the final Hegemon of the Spring and Autumn period.",
+        "search": "king goujian portrait ancient chinese painting",
+        "caption": "Fall of Wu 473 BC"
+      },
+      {
+        "narration": "Victory did not bring peace, as King Goujian immediately turned his deadly paranoia against the very ministers who saved him.",
+        "search": "ancient Chinese silk painting king on throne crown historical",
+        "caption": "Goujian turned his paranoia against his own loyal ministers."
+      },
+      {
+        "narration": "In 473 BC, chief advisor Fan Li recognized Goujian's treacherous nature and fled the state of Yue, abandoning all titles to survive.",
+        "search": "Fan Li ancient Chinese painting portrait portraiture",
+        "caption": "Chief advisor Fan Li fled Yue immediately after the victory."
+      },
+      {
+        "narration": "Chancellor Wen Zhong ignored Fan Li's warnings, prompting King Goujian to force his suicide in 472 BC using a ritual blade.",
+        "search": "ancient Chinese bronze sword artifact museum museum photograph",
+        "caption": "Chancellor Wen Zhong was forced into suicide in 472 BC."
+      },
+      {
+        "narration": "The fate of Xi Shi, the legendary beauty sent to corrupt Wu, vanished from historical records after 473 BC amidst rumors of execution.",
+        "search": "Xi Shi ancient Chinese painting beauty traditional art",
+        "caption": "The legendary beauty Xi Shi disappeared from historical records entirely."
+      },
+      {
+        "narration": "Seeking supreme dominance, Goujian relocated the capital of Yue north to Langya in 468 BC to dominate the Zhou court states.",
+        "search": "ancient Chinese map spring and autumn period historical engraving",
+        "caption": "Goujian relocated the capital north to Langya in 468 BC."
+      },
+      {
+        "narration": "Following Goujian's death in 464 BC, the State of Yue fractured under succession crises, ultimately falling to the State of Chu in 306 BC.",
+        "search": "ancient Chinese battle ink painting war soldiers",
+        "caption": "Internal succession crises destroyed Yue by 306 BC."
+      },
+      {
+        "narration": "In December 1965, archaeologists unburied the Sword of Goujian in Hubei, finding its wooden scabbard preserved its razor edge for 2,400 years.",
+        "search": "Sword of Goujian museum photograph ancient Chinese artifact",
+        "caption": "The Sword of Goujian was excavated completely untarnished in 1965."
+      },
+      {
+        "narration": "Goujian's extreme sacrifice birthed the enduring Chinese chengyu Woxin Changdan, symbolizing ultimate patience and calculated retribution across human history.",
+        "search": "ancient Chinese calligraphy manuscript silk scroll historical",
+        "caption": "Woxin Changdan remains history's ultimate idiom for calculated revenge."
+      },
+      {
+        "narration": "A humiliated king licked animal bile to destroy an empire.",
+        "search": "ancient chinese king bowing in humiliation ink painting",
+        "caption": "A Defeated King's Bitter Secret"
+      },
+      {
+        "narration": "In 494 BC, the southern states of Wu and Yue clashed at the Battle of Kuaiji for regional hegemony.",
+        "search": "ancient chinese war spring and autumn period ink painting",
+        "caption": "The Battle of Kuaiji (494 BC)"
+      },
+      {
+        "narration": "After suffering catastrophic defeat, King Goujian of Yue surrendered unconditionally in 493 BC to King Fuchai of Wu.",
+        "search": "King Fuchai of Wu portrait painting",
+        "caption": "Unconditional Surrender (493 BC)"
+      },
+      {
+        "narration": "Goujian cleaned stables and even tasted Fuchai's waste during an illness to prove total, unbroken submission.",
+        "search": "ancient chinese royal stables stone hut illustration",
+        "caption": "Calculated Subservience in Captivity"
+      },
+      {
+        "narration": "Pardoned and returned home, Goujian slept on coarse brushwood and tasted bitter gall daily while secretly reforming his state.",
+        "search": "King Goujian portrait ink painting",
+        "caption": "The Vow of Bitterness: Woxin Changdan"
+      },
+      {
+        "narration": "Yue sent the legendary beauty Xi Shi to corrupt Fuchai while operatives engineered the forced suicide of general Wu Zixu.",
+        "search": "Xi Shi Chinese beauty silk painting",
+        "caption": "Psychological Sabotage and Betrayal"
+      },
+      {
+        "narration": "When Fuchai marched his main army north in 482 BC, Goujian launched a surprise invasion on the undefended capital of Wu.",
+        "search": "ancient china city siege war engraving",
+        "caption": "The Undefended Capital Struck (482 BC)"
+      },
+      {
+        "narration": "By 473 BC, Goujian starved Wu into submission, forced Fuchai to commit suicide, and completely erased the state from history.",
+        "search": "spring and autumn period map engraving",
+        "caption": "Total Annihilation of Wu (473 BC)"
+      },
+      {
+        "narration": "A humiliated king swallowed animal bile to destroy an empire.",
+        "search": "king goujian ancient china portrait ink painting",
+        "caption": "A king who swallowed bile for absolute revenge"
+      },
+      {
+        "narration": "In 494 BC, King Goujian of Yue suffered a crushing defeat against King Fuchai of Wu at the Battle of Kuaiji.",
+        "search": "battle of kuaiji spring autumn period silk painting",
+        "caption": "The defeat of Yue at Kuaiji in 494 BC"
+      },
+      {
+        "narration": "Stripped of royal status, Goujian spent three years living in a stone hut as Fuchai's personal stable boy.",
+        "search": "king fuchai state of wu ancient chinese portrait painting",
+        "caption": "Goujian forced into absolute servitude under Fuchai"
+      },
+      {
+        "narration": "To prove total submission, Goujian performed extreme acts of loyalty while minister Wu Zixu warned Fuchai of the trap.",
+        "search": "wu zixu ancient chinese minister portrait engraving",
+        "caption": "Wu Zixu warned Fuchai of Goujian's dangerous deception"
+      },
+      {
+        "narration": "Pardoned in 490 BC, Goujian returned home, slept on coarse brushwood, and tasted a bitter gallbladder daily to maintain his hatred.",
+        "search": "woxin changdan king goujian sleeping brushwood classical Chinese painting",
+        "caption": "Goujian tasted gall daily to fuel his vengeance"
+      },
+      {
+        "narration": "Yue secretly dispatched massive timber projects and the beauty Xi Shi to corrupt Fuchai, eventually forcing Wu Zixu to commit suicide.",
+        "search": "xi shi spring and autumn period Chinese silk painting",
+        "caption": "Xi Shi sent to corrupt the court of Wu"
+      },
+      {
+        "narration": "When Fuchai marched his main army north in 482 BC, Goujian launched a devastating surprise invasion on the undefended capital of Wu.",
+        "search": "ancient chinese military war spring autumn period manuscript painting",
+        "caption": "Yue strikes the undefended capital of Wu in 482 BC"
+      },
+      {
+        "narration": "By 473 BC, Goujian starved Wu into submission, forced Fuchai to commit suicide, and completely erased the state from history.",
+        "search": "ancient Chinese bronze vessel artifact photo",
+        "caption": "The total destruction of Wu and Goujian's rise to Hegemon"
+      },
+      {
+        "narration": "Beyond agricultural growth, King Goujian initiated a covert intelligence operation aimed directly at King Fuchai's inner court. He dispatched minister Wen Zhong to bribe key corrupt officials in Wu, ensuring Yue's rearmament remained undetected.",
+        "search": "ancient china silk painting minister offering tribute corrupt court",
+        "caption": "Goujian bribed key ministers in Wu to conceal his secret rearmament."
+      },
+      {
+        "narration": "In 490 BC, Goujian selected Xi Shi, renowned as one of the most beautiful women in Chinese history, and sent her as a diplomatic gift to Fuchai. Fuchai became utterly enamored with her, neglecting state affairs to construct lavish palaces for her pleasure.",
+        "search": "xi shi ancient chinese silk painting beautiful woman court",
+        "caption": "Xi Shi was sent to distract King Fuchai from state governance."
+      },
+      {
+        "narration": "Yue also gifted Wu enormous logs of rare timber, coaxing King Fuchai into wasteful construction projects that drained the treasury of Wu. Thousands of Wu laborers were diverted from military defense to build the extravagant Guanwa Palace.",
+        "search": "ancient china palace construction ink painting workmen timber",
+        "caption": "Massive construction projects severely drained Wu's treasury and labor force."
+      },
+      {
+        "narration": "General Wu Zixu repeatedly warned King Fuchai that Goujian was a sleeping tiger preparing to strike. However, the corrupted minister Bo Pi slandered Wu Zixu, convincing Fuchai that the old general was plotting treason.",
+        "search": "wu zixu ancient chinese portrait painting general warrior",
+        "caption": "General Wu Zixu warned Fuchai of Goujian's growing threat."
+      },
+      {
+        "narration": "In 484 BC, King Fuchai sent a sword to Wu Zixu, ordering his execution. Before committing suicide, Wu Zixu requested that his eyes be gouged out and placed above the capital gates so he could watch Yue conquer Wu.",
+        "search": "ancient chinese sword illustration bronze war weapon",
+        "caption": "In 484 BC, Fuchai forced General Wu Zixu to commit suicide."
+      },
+      {
+        "narration": "With Wu Zixu eliminated, Goujian accelerated Yue's military training, equipping 50,000 highly disciplined infantrymen with advanced bronze swords and crossbows. Every soldier was trained to fight with fanatical loyalty to their king.",
+        "search": "eastern zhou dynasty bronze sword artifact close up museum",
+        "caption": "Goujian secretly trained fifty thousand elite soldiers armed with advanced bronze weapons."
+      },
+      {
+        "narration": "Ignorant of the danger, King Fuchai marched his elite northern forces to the Hegemon Conference at Huangchi in 482 BC to claim supreme dominance over Central China. He left his capital defenseless, protected only by old men and young boys.",
+        "search": "spring and autumn period map engraving ancient china states",
+        "caption": "In 482 BC, Fuchai marched his army north, leaving his capital unguarded."
+      },
+      {
+        "narration": "Goujian seized this exact moment to unleash his long-awaited retribution, launching a swift two-pronged invasion directly into the heart of Wu. The undefended capital fell, and Fuchai's heir was killed in battle before reinforcements could return.",
+        "search": "ancient china battle ink painting soldiers spears infantry chaos",
+        "caption": "Goujian launched a sudden invasion, capturing Wu's capital and slaying the prince."
+      },
+      {
+        "narration": "Upon learning of his capital's invasion during the 482 BC Huangchi conference, King Fuchai executed seven envoys to hide the catastrophic news until he secured his Hegemon title.",
+        "search": "king fuchai portrait painting",
+        "caption": "Fuchai conceals capital invasion at Huangchi conference, 482 BC"
+      },
+      {
+        "narration": "Returning south with an exhausted army, Fuchai was forced to negotiate a costly temporary truce with Goujian, buying brief survival for Wu.",
+        "search": "ancient chinese army march manuscript drawing",
+        "caption": "Wu negotiates temporary truce with Yue forces, 482 BC"
+      },
+      {
+        "narration": "Between 481 BC and 479 BC, severe crop failures crippled Wu's remaining population, while Yue's granaries flourished from Goujian's earlier agricultural reforms.",
+        "search": "ancient chinese famine landscape ink wash painting",
+        "caption": "Famine devastates State of Wu while Yue prospers, 480 BC"
+      },
+      {
+        "narration": "Goujian launched a full-scale invasion in 478 BC, annihilating Wu's primary field army at the Battle of Luze along the lake defense lines.",
+        "search": "ancient chinese army combat battle scene silk painting",
+        "caption": "Yue army destroys Wu military at Battle of Luze, 478 BC"
+      },
+      {
+        "narration": "Pushed back to the capital city of Gusu in 475 BC, King Fuchai retreated behind massive walls as Yue forces initiated a multi-year siege.",
+        "search": "ancient chinese walled city siege old engraving",
+        "caption": "Yue forces surround Wu capital Gusu in 475 BC"
+      },
+      {
+        "narration": "After three years of starvational siege, Gusu fell in 473 BC, and King Fuchai offered unconditional surrender to become Goujian's vassal.",
+        "search": "king goujian portrait painting",
+        "caption": "Fuchai offers unconditional surrender to King Goujian, 473 BC"
+      },
+      {
+        "narration": "Recalling his decade of charcoal sleeping and bile tasting, Goujian rejected the surrender and offered Fuchai exile to isolated Yongdong Island.",
+        "search": "ancient chinese island landscape ink painting",
+        "caption": "Goujian denies Fuchai mercy, offering only island exile"
+      },
+      {
+        "narration": "Unable to endure the disgrace, King Fuchai covered his face in shame and committed suicide in 473 BC, allowing Goujian to annex Wu completely.",
+        "search": "ancient chinese king suicide historical illustration",
+        "caption": "King Fuchai commits suicide, ending State of Wu, 473 BC"
+      },
+      {
+        "narration": "A disgraced servant king annihilated ancient China's greatest empire.",
+        "search": "King Goujian ancient Chinese ink painting scroll portrait",
+        "caption": "King Goujian transformed humiliating defeat into absolute hegemony over ancient China"
+      },
+      {
+        "narration": "In 473 BC, following the complete collapse of Wu, King Goujian annexed its territories and marched north to Xuzhou.",
+        "search": "Spring and Autumn period ancient Chinese bronze sword artifact",
+        "caption": "In 473 BC, Yue annexed Wu territory and expanded northward to Xuzhou"
+      },
+      {
+        "narration": "King Yuan of Zhou officially recognized Goujian as the Ba, or supreme Hegemon, granting him authority over rival southern states.",
+        "search": "Zhou dynasty ritual bronze vessel ink rubbing illustration",
+        "caption": "Zhou rulers officially named Goujian the supreme Hegemon of southern China"
+      },
+      {
+        "narration": "Recognizing that Goujian could share hardship but not peace, chief strategist Fan Li immediately abandoned his titles and fled into obscurity.",
+        "search": "Fan Li ancient Chinese scholar ink painting portrait",
+        "caption": "Strategist Fan Li foresaw danger and fled Goujian's newly established court"
+      },
+      {
+        "narration": "Minister Wen Zhong remained in Yue, only for Goujian to force his suicide in 472 BC using the exact sword Fuchai had sent to Wu Zixu.",
+        "search": "Ancient Chinese bronze sword spring and autumn period museum",
+        "caption": "Minister Wen Zhong was forced into suicide by Goujian in 472 BC"
+      },
+      {
+        "narration": "Decades of relentless discipline had warped Yue's ruler, transforming a vengeful survivor into a paranoid and uncompromising tyrant.",
+        "search": "Ancient Chinese palace hall stone relief engraving",
+        "caption": "Decades of hardship turned Goujian into a ruthless and paranoid monarch"
+      },
+      {
+        "narration": "Goujian’s ordeal birthed the famous Chinese idiom Woxin Changdan, meaning to endure extreme hardship to achieve ultimate retribution.",
+        "search": "Woxin Changdan ancient Chinese calligraphy ink scroll manuscript",
+        "caption": "Goujian's bitter ordeal birthed the timeless Chinese idiom Woxin Changdan"
+      },
+      {
+        "narration": "In 1965, archaeologists unburied the untarnished Sword of Goujian, proving the lethal legacy of history's most patient conqueror.",
+        "search": "Sword of Goujian ancient Chinese bronze weapon photograph museum artifact",
+        "caption": "The untarnished Sword of Goujian remains history's greatest testament to strategic patience"
+      },
+      {
+        "narration": "A king ate animal bile daily to erase an empire.",
+        "search": "ancient chinese ink painting king goujian portrait",
+        "caption": "A king endured ten years of humiliation for ultimate retribution."
+      },
+      {
+        "narration": "In 494 BC, during China's Spring and Autumn period, King Goujian of Yue suffered a catastrophic defeat against King Fuchai of Wu at Kuaiji.",
+        "search": "ancient chinese battle map engraving spring and autumn period",
+        "caption": "In 494 BC, King Fuchai crushed Yue at Kuaiji."
+      },
+      {
+        "narration": "Surrendering unconditionally, Goujian spent three years as Fuchai's stable groom, even tasting Fuchai's bodily waste during an illness to feign complete loyalty.",
+        "search": "ancient chinese stone hut illustration spring and autumn period",
+        "caption": "Goujian served as a groom to feign total submission."
+      },
+      {
+        "narration": "Convinced his rival was broken, Fuchai released Goujian in 490 BC, unaware that Goujian slept on brushwood and licked gall bladders nightly to fuel revenge.",
+        "search": "ancient chinese ink painting woxin changdan goujian gall bladder",
+        "caption": "Goujian slept on brushwood and tasted bitter gall."
+      },
+      {
+        "narration": "To corrupt Wu from within, Yue sent luxury timber, massive bribes, and the legendary beauty Xi Shi, prompting Fuchai to force strategist Wu Zixu's suicide in 484 BC.",
+        "search": "ancient chinese painting legendary beauty xi shi portrait",
+        "caption": "Yue sent luxury and Xi Shi to corrupt Wu's court."
+      },
+      {
+        "narration": "While Goujian secretly trained peasants and boosted grain production, Fuchai marched his elite armies north in 482 BC, leaving his capital wide open to attack.",
+        "search": "ancient chinese bronze spearhead artifact museum photograph",
+        "caption": "In 482 BC, Yue launched a surprise attack on Wu."
+      },
+      {
+        "narration": "Between 478 and 473 BC, Goujian executed a relentless siege, starving the state of Wu and obliterating its military capabilities.",
+        "search": "ancient chinese city wall fortress line drawing map",
+        "caption": "A multi-year siege systematically crushed the state of Wu."
+      },
+      {
+        "narration": "In 473 BC, King Fuchai committed suicide as Yue annexed Wu, immortalizing Goujian's vengeful legacy through the unblemished Sword of Goujian.",
+        "search": "sword of goujian museum artifact photograph hubei provincial museum",
+        "caption": "Goujian annexed Wu in 473 BC as Hegemon."
+      },
+      {
+        "narration": "Following the fall of Wu in 473 BC, King Goujian assembled the northern lords at Xu Zhou, officially recognized by the Zhou King as the final Hegemon of the Spring and Autumn Period.",
+        "search": "ancient Chinese ink painting of king on throne receiving vassals",
+        "caption": "King Goujian proclaimed supreme Hegemon of China in 473 BC."
+      },
+      {
+        "narration": "Driven by paranoia after his victory, Goujian turned on his own inner circle, forcing strategist Wen Zhong to commit suicide with the very sword used against Wu.",
+        "search": "ancient Chinese silk painting depicting royal advisor execution court",
+        "caption": "Goujian purged his closest advisors after securing absolute power."
+      },
+      {
+        "narration": "In 1965, archaeologists unearthing a tomb in Hubei discovered the intact Sword of Goujian, its bronze blade untarnished after two thousand four hundred years underground.",
+        "search": "museum photograph of the ancient bronze Sword of King Goujian",
+        "caption": "The non-tarnished 2,400-year-old Sword of Goujian discovered in 1965."
+      },
+      {
+        "narration": "Goujian’s ordeal popularized the Chinese idiom Woxin Changdan, meaning to sleep on brushwood and taste gall, symbolizing ultimate patience for retribution.",
+        "search": "traditional Chinese calligraphy artwork of four character idiom Woxin Changdan",
+        "caption": "The idiom Woxin Changdan became the universal symbol of patience."
+      },
+      {
+        "narration": "The total annexation of Wu by Yue permanently altered eastern China's geopolitical landscape, accelerating the transition into the bloodier Warring States Period.",
+        "search": "antique engraved historical map of ancient China warring states period",
+        "caption": "Yue's total conquest of Wu reshaped ancient Chinese borders."
+      },
+      {
+        "narration": "Goujian's calculated submission established an enduring military paradigm in East Asia—enduring temporary disgrace to build absolute offensive strength.",
+        "search": "ancient Chinese bamboo scroll manuscript of Sun Tzu Art of War",
+        "caption": "Goujian proved strategic submission could defeat superior military forces."
+      },
+      {
+        "narration": "The royal captive who cleaned stables in 493 BC transformed two decades of personal agony into the complete destruction of his rival empire.",
+        "search": "Qing dynasty Chinese painting depicting King Goujian tasting gall bladder",
+        "caption": "Twenty years of humiliation fueled the complete destruction of Wu."
+      },
+      {
+        "narration": "By trading short-term pride for long-term annihilation, Goujian erased the State of Wu from existence and left behind history's ultimate masterclass in revenge.",
+        "search": "museum display artifact ancient Chinese bronze ritual vessel Yue state",
+        "caption": "Goujian erased an empire to complete history's greatest revenge."
+      },
+      {
+        "narration": "Can a slave king destroy an empire using bitter bile? In 493 BC, King Goujian surrendered his throne to his bitter enemy.",
+        "search": "King Goujian ancient Chinese ink painting portrait",
+        "caption": "Can a slave king destroy an empire with decade-long revenge?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T19:31:05.696202+00:00",
+    "updated_at": "2026-11-15T19:41:56.769686+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-15T19:33:19.153536+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2576 chars",
+        "at": "2026-11-15T19:33:34.242876+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "164.0s en-US-GuyNeural 25 cau",
+        "at": "2026-11-15T19:33:58.711491+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T19:34:03.227064+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-15T19:37:20.095091+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T19:37:20.113631+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 164.0s 116695535 bytes",
+        "at": "2026-11-15T19:41:56.657295+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-11-15T19:41:56.678904+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T19:41:56.769677+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16153606/pexels-photo-16153606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627038/pexels-photo-8627038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7115506/pexels-photo-7115506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29047510/pexels-photo-29047510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6391528/pexels-photo-6391528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29903499/pexels-photo-29903499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6213051/pexels-photo-6213051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6564828/pexels-photo-6564828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10526897/pexels-photo-10526897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40093428/pexels-photo-40093428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33528709/pexels-photo-33528709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9479400/pexels-photo-9479400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32991059/pexels-photo-32991059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36171312/pexels-photo-36171312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34727970/pexels-photo-34727970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35030732/pexels-photo-35030732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24836793/pexels-photo-24836793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35653440/pexels-photo-35653440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37731862/pexels-photo-37731862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35347718/pexels-photo-35347718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6175101/pexels-photo-6175101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36300907/pexels-photo-36300907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350048/pexels-photo-31350048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30918012/pexels-photo-30918012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6026345/pexels-photo-6026345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6156193/pexels-photo-6156193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36163423/pexels-photo-36163423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39468938/pexels-photo-39468938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8843702/pexels-photo-8843702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9479392/pexels-photo-9479392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34945071/pexels-photo-34945071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494914/pexels-photo-9494914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7859558/pexels-photo-7859558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478267/pexels-photo-9478267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31378411/pexels-photo-31378411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35157065/pexels-photo-35157065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6026342/pexels-photo-6026342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40112166/pexels-photo-40112166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32142489/pexels-photo-32142489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29241246/pexels-photo-29241246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16866302/pexels-photo-16866302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10524410/pexels-photo-10524410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35867595/pexels-photo-35867595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34608506/pexels-photo-34608506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5971335/pexels-photo-5971335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12321159/pexels-photo-12321159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10738303/pexels-photo-10738303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30519894/pexels-photo-30519894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11770961/pexels-photo-11770961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40422229/pexels-photo-40422229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7261290/pexels-photo-7261290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/163347/war-desert-guns-gunshow-163347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12051034/pexels-photo-12051034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34619014/pexels-photo-34619014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28957227/pexels-photo-28957227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34004807/pexels-photo-34004807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8844029/pexels-photo-8844029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30630425/pexels-photo-30630425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/381651/pexels-photo-381651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6305827/pexels-photo-6305827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/963625/pexels-photo-963625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35158397/pexels-photo-35158397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9276214/pexels-photo-9276214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350049/pexels-photo-31350049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8627037/pexels-photo-8627037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29818065/pexels-photo-29818065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15997690/pexels-photo-15997690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478289/pexels-photo-9478289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21862236/pexels-photo-21862236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36766417/pexels-photo-36766417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39293292/pexels-photo-39293292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40487496/pexels-photo-40487496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2147872/pexels-photo-2147872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38652679/pexels-photo-38652679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33889077/pexels-photo-33889077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6686698/pexels-photo-6686698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36088598/pexels-photo-36088598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6061756/pexels-photo-6061756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7470329/pexels-photo-7470329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15168065/pexels-photo-15168065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9478265/pexels-photo-9478265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dcf318c351",
     "kind": "short",
     "channel": "Channel3",
