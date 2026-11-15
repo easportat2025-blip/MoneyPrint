@@ -1,5 +1,167 @@
 [
   {
+    "id": "b0effec2ec",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đóng kín cửa phòng ngủ đang âm thầm làm bạn mệt mỏi?",
+    "idea": {
+      "title": "Tại sao đóng kín cửa phòng ngủ đang âm thầm làm bạn mệt mỏi?",
+      "hook": "Bạn thức dậy uể uể dù đã ngủ đủ 8 tiếng? Sự thật là căn phòng đóng kín đang vô tình vây hãm bộ não của bạn cả đêm.",
+      "beats": [
+        "Khi ngủ trong phòng kín không thông gió, nồng độ CO2 bạn thở ra tích tụ tăng gấp 3 đến 4 lần bình thường.",
+        "Não bộ phải hoạt động trong môi trường thiếu oxy, làm giảm thời lượng của giai đoạn ngủ sâu REM.",
+        "Nghiên cứu cho thấy CO2 tích tụ khiến bạn thức dậy với cảm giác đau đầu, nặng đầu và giảm khả năng tập trung.",
+        "Chỉ cần hé cửa phòng vài centimet hoặc dùng quạt thông gió, chất lượng giấc ngủ sẽ cải thiện rõ rệt."
+      ],
+      "keywords": [
+        "bedroom dark window",
+        "person sleeping tired",
+        "co2 air quality meter",
+        "opening window morning",
+        "fresh air breeze animation"
+      ],
+      "tags": [
+        "suckhoe",
+        "meogiacngu",
+        "khoahoc",
+        "chamsocsuckhoe",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ngủ đủ 8 tiếng nhưng vẫn thức dậy mệt mỏi?",
+        "search": "hoat hinh 3d nguoi nam tren giuong met moi dong ho bao thuc",
+        "caption": "Ngủ đủ 8 tiếng vẫn mệt mỏi?"
+      },
+      {
+        "narration": "Thủ phạm không phải do bạn thiếu ngủ, mà là căn phòng đóng kín cửa cả đêm.",
+        "search": "hoat hinh 3d cua phong ngu dong kin trong dem",
+        "caption": "Căn phòng đóng kín đang bẫy bạn"
+      },
+      {
+        "narration": "Khi cửa đóng chặt, khí CO2 bạn thở ra sẽ tích tụ tăng gấp 3 đến 4 lần bình thường.",
+        "search": "hoat hinh 3d thiet bi do khi co2 tang cao trong phong",
+        "caption": "CO2 tích tụ tăng gấp 3-4 lần"
+      },
+      {
+        "narration": "Càng về sáng, không khí ngột ngạt khiến bộ não rơi vào trạng thái thiếu oxy kéo dài.",
+        "search": "hoat hinh 3d mo hinh nao bo thieu oxy khi ngu",
+        "caption": "Bộ não liên tục thiếu oxy cả đêm"
+      },
+      {
+        "narration": "Thiếu oxy làm bóp nghẹt giai đoạn ngủ sâu REM, nơi cơ thể tự phục hồi năng lượng.",
+        "search": "hoat hinh 3d bieu do giai doan giac ngu rem giam",
+        "caption": "Giảm thời lượng ngủ sâu REM"
+      },
+      {
+        "narration": "Kết quả là bạn thức dậy với cảm giác nặng đầu, đau đầu và giảm khả năng tập trung.",
+        "search": "hoat hinh 3d nguoi thuc day om dau nang dau",
+        "caption": "Đau đầu và mất tập trung buổi sáng"
+      },
+      {
+        "narration": "Bạn không cần mua nệm đắt tiền hay dùng thuốc ngủ để khắc phục tình trạng này.",
+        "search": "hoat hinh 3d hop thuoc va chiec giuong ngu",
+        "caption": "Không cần thuốc hay nệm đắt tiền"
+      },
+      {
+        "narration": "Chỉ cần hé cửa vài centimet hoặc bật quạt thông gió, chất lượng giấc ngủ sẽ cải thiện ngay.",
+        "search": "hoat hinh 3d he mo cua so gio mat vao phong",
+        "caption": "Hé mở cửa phòng để ngủ ngon hơn"
+      },
+      {
+        "narration": "Khi không khí được lưu thông, nồng độ CO2 sẽ nhanh chóng giảm xuống dưới ngưỡng an toàn 1.000 ppm.",
+        "search": "3d animation air circulation bedroom window airflow loop",
+        "caption": "Không khí lưu thông giúp giảm CO2 về mức an toàn"
+      },
+      {
+        "narration": "Cung cấp đủ oxy giúp nhịp tim ổn định và kéo dài thời lượng của giai đoạn ngủ sâu REM.",
+        "search": "3d animation human brain sleeping deep sleep REM visual",
+        "caption": "Đủ oxy giúp duy trì giấc ngủ sâu REM lâu hơn"
+      },
+      {
+        "narration": "Nếu sợ tiếng ồn hoặc muỗi, bạn chỉ cần hé cửa vài centimet kết hợp dùng quạt tuần hoàn nhẹ.",
+        "search": "3d animation bedroom door slightly open fan breeze isometric",
+        "caption": "Chỉ cần hé cửa vài centimet kết hợp quạt nhẹ"
+      },
+      {
+        "narration": "Thay đổi nhỏ này ngăn căn phòng của bạn biến thành một chiếc hộp thiếu oxy suốt 8 tiếng.",
+        "search": "3d animation closed bedroom box dark co2 accumulated graphic",
+        "caption": "Tránh biến phòng ngủ thành hộp kín thiếu oxy"
+      },
+      {
+        "narration": "Hãy thử mở hé cửa ngay tối nay để cảm nhận cảm giác tỉnh táo tràn đầy năng lượng vào sáng mai.",
+        "search": "3d animation person wake up energetic morning window sun loop",
+        "caption": "Thử mở hé cửa tối nay để sáng mai tỉnh táo"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T12:21:49.080550+00:00",
+    "updated_at": "2026-11-15T12:24:54.395298+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-15T12:22:32.393719+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "520 chars",
+        "at": "2026-11-15T12:22:40.218172+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "36.7s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-11-15T12:23:19.918636+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T12:23:21.125899+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-15T12:23:38.866656+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-15T12:23:38.876447+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 36.7s 27750205 bytes",
+        "at": "2026-11-15T12:24:54.287569+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T12:24:54.395287+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9615642/9615642-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/4562492/4562492-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8322202/8322202-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7010562/7010562-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/32324554/13787994_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283171/15283171-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456774/16456774-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40449005/17284616_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40397784/17261400_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6753388/6753388-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/10240699/10240699-uhd_1644_3840_30fps.mp4",
+      "https://videos.pexels.com/video-files/36725595/15564763_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6446189/6446189-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "1834507318",
     "kind": "short",
     "channel": "Channel2",
