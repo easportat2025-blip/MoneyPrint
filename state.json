@@ -1,5 +1,167 @@
 [
   {
+    "id": "8783160d30",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do để chuông báo thức quá to đang âm thầm làm bạn mệt mỏi",
+    "idea": {
+      "title": "Lý do để chuông báo thức quá to đang âm thầm làm bạn mệt mỏi",
+      "hook": "Nhiều người cài tiếng báo thức thật to để dễ thức dậy, nhưng đây thực ra lại là lý do khiến bạn cảm thấy mệt mỏi và kiệt sức suốt cả ngày.",
+      "beats": [
+        "Âm thanh giật mình kích hoạt phản ứng chiến đấu hoặc bỏ chạy (fight or flight) ngay khi bạn vừa tỉnh giấc.",
+        "Cơ thể giải phóng một lượng lớn cortisol và adrenaline đột ngột khi tim đang ở trạng thái nghỉ ngơi.",
+        "Huyết áp tăng vọt và nhịp tim tăng nhanh khiến não bộ bị sốc thay vì tỉnh táo tự nhiên.",
+        "Thay vào đó, hãy sử dụng âm thanh tăng dần hoặc báo thức bằng ánh sáng để chuyển trạng thái ngủ mượt mà hơn."
+      ],
+      "keywords": [
+        "alarm clock sound",
+        "waking up tired",
+        "stressed person morning",
+        "heart rate pulse",
+        "sunrise alarm light"
+      ],
+      "tags": [
+        "baothuc",
+        "suckhoe",
+        "meosong",
+        "giacngu",
+        "thoiquen"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tiếng báo thức quá to đang tàn phá năng lượng của bạn.",
+        "search": "3d animation dien thoai keu chuong bao thuc phong ngu",
+        "caption": "Báo thức quá to làm bạn kiệt sức cả ngày"
+      },
+      {
+        "narration": "Mỗi sáng khi tiếng chuông dồn dập vang lên, não bộ lập tức rơi vào trạng thái hoảng loạn.",
+        "search": "3d animation nao bo giat minh giang hoa hoang loan",
+        "caption": "Não rơi vào trạng thái hoảng loạn khi tỉnh giấc"
+      },
+      {
+        "narration": "Cơ thể lầm tưởng đây là hiểm họa và kích hoạt ngay phản ứng chiến đấu hoặc bỏ chạy.",
+        "search": "motion graphics phan ung fight or flight tim dap",
+        "caption": "Cơ thể kích hoạt phản ứng fight or flight"
+      },
+      {
+        "narration": "Khi tim đang nghỉ ngơi, một lượng lớn cortisol và adrenaline bất ngờ bị bơm vào máu.",
+        "search": "3d animation tuyen thuong than tiet cortisol va adrenaline",
+        "caption": "Hóc môn căng thẳng tăng vọt đột ngột"
+      },
+      {
+        "narration": "Huyết áp tăng vọt trong vài giây làm mạch máu căng thẳng và nhịp tim đập dồn dập.",
+        "search": "3d animation do huyet ap va mach mau co thap",
+        "caption": "Huyết áp tăng vọt làm cơ thể bị sốc"
+      },
+      {
+        "narration": "Thay vì tỉnh táo, não bộ bị sốc năng lượng dẫn đến cảm giác kiệt sức suốt cả ngày.",
+        "search": "3d animation nguoi uai oi mệt moi thuc giac tren giuong",
+        "caption": "Sốc năng lượng gây mệt mỏi kéo dài"
+      },
+      {
+        "narration": "Để bảo vệ trái tim, bạn cần ngưng ngay việc dọa nạt cơ thể mỗi buổi sáng.",
+        "search": "3d animation ngon tay thay doi cai dat chuong bao thuc",
+        "caption": "Ngừng dọa nạt cơ thể vào mỗi buổi sáng"
+      },
+      {
+        "narration": "Hãy chuyển sang âm thanh tăng dần hoặc đèn báo thức bình minh để thong thả tỉnh giấc.",
+        "search": "3d animation den bao thuc anh sang binh minh diu nhe",
+        "caption": "Dùng âm thanh tăng dần hoặc đèn báo thức bình minh"
+      },
+      {
+        "narration": "Dù ngủ đủ 8 tiếng, bạn vẫn mệt mỏi cả ngày chỉ vì một tiếng chuông báo thức quá giật mình.",
+        "search": "hoat hinh 3d nguoi nam tren giuong met moi dong ho bao thuc",
+        "caption": "Ngủ đủ 8 tiếng vẫn mệt vì chuông báo thức"
+      },
+      {
+        "narration": "Âm thanh đột ngột bắt cơ thể tiết ra adrenaline khi tim đang ở nhịp nghỉ ngơi thấp nhất.",
+        "search": "hoat hinh 3d mo hinh trai tim dap nhanh adrenaline",
+        "caption": "Tim bị sốc do adrenaline tăng đột ngột"
+      },
+      {
+        "narration": "Cú sốc buổi sáng này đưa não vào trạng thái báo động, gây ra sương mờ não kéo dài nhiều giờ.",
+        "search": "hoat hinh 3d bo nao bi suong mo met moi sang som",
+        "caption": "Trạng thái hoảng sợ kéo dài nhiều giờ"
+      },
+      {
+        "narration": "Đổi sang tiếng nhạc tăng dần hoặc ánh sáng giả lập bình minh để cơ thể tỉnh giấc tự nhiên.",
+        "search": "hoat hinh 3d den bao thuc anh sang binh minh phong ngu",
+        "caption": "Dùng ánh sáng bình minh để tỉnh giấc tự nhiên"
+      },
+      {
+        "narration": "Tắt ngay âm thanh chói tai để bảo vệ trái tim và bắt đầu ngày mới tràn đầy năng lượng.",
+        "search": "hoat hinh 3d nguoi thuc giay vuon hai tay nang luong vui ve",
+        "caption": "Đổi chuông ngay để tràn đầy năng lượng"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T20:28:19.286910+00:00",
+    "updated_at": "2026-11-15T20:30:38.943551+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-15T20:28:38.965398+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "524 chars",
+        "at": "2026-11-15T20:28:47.983512+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-15T20:29:20.770072+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T20:29:21.641378+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-15T20:29:41.763821+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-15T20:29:41.772545+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.5s 35873788 bytes",
+        "at": "2026-11-15T20:30:38.803521+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T20:30:38.943543+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39890257/17014830_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/27808228/12229207_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8469964/8469964-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8818316/8818316-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/37703803/15987322_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8057866/8057866-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816907/8816907-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39295496/16720868_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5700089/5700089-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/13831879/13831879-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35063152/14852728_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40187078/17167471_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8817000/8817000-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "5fd0b9b839",
     "kind": "long",
     "channel": "seigh",
