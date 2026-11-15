@@ -1,5 +1,162 @@
 [
   {
+    "id": "1834507318",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Army That Accidentally Destroyed Itself",
+    "idea": {
+      "title": "The Army That Accidentally Destroyed Itself",
+      "hook": "In 1788, the Austrian Army attacked its own troops over barrels of alcohol, losing 1,200 men before the enemy even arrived.",
+      "beats": [
+        "Austrian hussars bought schnapps from local merchants and refused to share with the advancing infantry.",
+        "A heated argument turned violent, and a nervous soldier fired a warning shot in the dark.",
+        "Panicked soldiers shouted 'Turks!', while officers yelled 'Halt!' in German, which troops mistook for 'Allah!'",
+        "Artillery commanders panicked and opened fire into the darkness, shelling their own retreating ranks.",
+        "The Ottoman army arrived two days later to find thousands of dead Austrian soldiers and captured the city without a fight."
+      ],
+      "keywords": [
+        "austrian army battle painting",
+        "18th century military engraving",
+        "ottoman empire warfare map",
+        "historical battle chaos portrait",
+        "vintage european military map 1700s"
+      ],
+      "tags": [
+        "#history",
+        "#documentary",
+        "#militaryhistory",
+        "#bizarrehistory",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An army lost twelve hundred men without fighting.",
+        "search": "18th century military engraving battle chaos",
+        "caption": "1,200 casualties before the enemy arrived"
+      },
+      {
+        "narration": "In September 1788, over one hundred thousand Austrian soldiers assembled near Karánsebes to face the Ottoman Empire.",
+        "search": "vintage european military map 1700s habsburg empire",
+        "caption": "September 1788: Karánsebes campaign begins"
+      },
+      {
+        "narration": "A vanguard of Austrian hussars crossed the Timiș River to scout for incoming Ottoman forces.",
+        "search": "austrian hussars cavalry 18th century oil painting",
+        "caption": "Hussar cavalry scouts cross the river"
+      },
+      {
+        "narration": "Finding no enemy troops, the hussars purchased barrels of schnapps and refused to share with arriving infantry.",
+        "search": "18th century tavern barrel alcohol oil painting",
+        "caption": "Cavalry refuse to share alcohol with infantry"
+      },
+      {
+        "narration": "Heated arguments escalated into a physical brawl until a nervous soldier fired a shot into the darkness.",
+        "search": "18th century night duel musket firing engraving",
+        "caption": "A single warning shot triggers terror"
+      },
+      {
+        "narration": "In total darkness, panicked infantrymen misheard the gunshot and shouted that the Turks were attacking.",
+        "search": "historical battle chaos portrait 18th century soldier panic",
+        "caption": "Soldiers panic over a false Ottoman ambush"
+      },
+      {
+        "narration": "German-speaking officers yelled 'Halt!', but multi-ethnic troops misheard the command as 'Allah!'.",
+        "search": "habsburg officers military uniform 18th century painting portrait",
+        "caption": "Language barrier turns orders into panic"
+      },
+      {
+        "narration": "Believing the camp was overrun, Austrian artillery commanders trained their cannons on their own retreating ranks.",
+        "search": "18th century artillery cannon night shelling engraving",
+        "caption": "Cannons open fire into their own ranks"
+      },
+      {
+        "narration": "In the pitch-black chaos near Karánsebes in September 1788, thousands of Austrian soldiers fired blindly into the night, convinced the enemy had surrounded them.",
+        "search": "18th century military engraving night battle chaos",
+        "caption": "Panicked regiments fired into the dark against their own comrades."
+      },
+      {
+        "narration": "The army completely shattered, leaving over twelve hundred soldiers dead or wounded before Emperor Joseph II ordered a full retreat.",
+        "search": "austrian army battle painting 1700s retreat",
+        "caption": "Over 1,200 casualties were inflicted entirely by friendly fire."
+      },
+      {
+        "narration": "Two days later, Grand Vizier Koca Yusuf Pasha led the Ottoman army into Karánsebes and captured the city without firing a single shot.",
+        "search": "ottoman empire army oil painting 18th century",
+        "caption": "The Ottomans claimed victory over an army that defeated itself."
+      },
+      {
+        "narration": "In 1788, twelve hundred soldiers died fighting their own army.",
+        "search": "18th century military engraving battle chaos",
+        "caption": "1,200 soldiers died fighting their own army in 1788"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T11:20:23.352495+00:00",
+    "updated_at": "2026-11-15T11:22:35.893336+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-15T11:20:52.379692+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "412 chars (cat 253 de vua 55s)",
+        "at": "2026-11-15T11:21:12.412612+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.8s en-US-GuyNeural 6 cau",
+        "at": "2026-11-15T11:21:17.166681+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T11:21:17.818888+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-15T11:21:59.422705+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T11:21:59.429921+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.8s 12985610 bytes",
+        "at": "2026-11-15T11:22:35.800272+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T11:22:35.893325+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/18326501/pexels-photo-18326501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25913220/pexels-photo-25913220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6728542/pexels-photo-6728542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37036273/pexels-photo-37036273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563579/pexels-photo-16563579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18339471/pexels-photo-18339471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718575/pexels-photo-6718575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40561132/pexels-photo-40561132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11429041/pexels-photo-11429041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326132/pexels-photo-18326132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30489623/pexels-photo-30489623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350037/pexels-photo-31350037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6d0bf3c8ba",
     "kind": "short",
     "channel": "Channel2",
