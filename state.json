@@ -1,5 +1,161 @@
 [
   {
+    "id": "c3a49fa7b2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Byzantine Emperor Buried Alive by His Wife",
+    "idea": {
+      "title": "The Byzantine Emperor Buried Alive by His Wife",
+      "hook": "Emperor Zeno woke up inside his own tomb screaming for help, but his vengeful wife refused to open the doors.",
+      "beats": [
+        "Byzantine Emperor Zeno suffered from a medical trance condition causing severe unresponsiveness.",
+        "Believing he was dead, Empress Ariadne quickly buried him inside a sealed stone sarcophagus.",
+        "Guards later heard loud screaming and pounding coming from inside the imperial tomb.",
+        "Ariadne forbade anyone from opening it until three days later, ensuring his demise."
+      ],
+      "keywords": [
+        "Byzantine emperor portrait",
+        "ancient sarcophagus engraving",
+        "Empress Ariadne illustration",
+        "Byzantine empire map",
+        "medieval tomb painting"
+      ],
+      "tags": [
+        "#history",
+        "#byzantine",
+        "#ancientrome",
+        "#darkhistory",
+        "#weirdhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Byzantine emperor was buried alive by his wife.",
+        "search": "Byzantine emperor Zeno coin face close up",
+        "caption": "Buried alive by his own empress"
+      },
+      {
+        "narration": "In 491 AD, Emperor Zeno ruled the Eastern Roman Empire from Constantinople amidst constant political conspiracy.",
+        "search": "Byzantine empire map 5th century engraving",
+        "caption": "Constantinople, 491 AD"
+      },
+      {
+        "narration": "Zeno suffered from severe cataleptic episodes, a medical condition causing trances that mimicked death.",
+        "search": "Emperor Zeno bust statue illustration",
+        "caption": "Medical trances that mimicked death"
+      },
+      {
+        "narration": "His wife, Empress Ariadne, held immense power and sought to secure her lineage with a new consort.",
+        "search": "Empress Ariadne Byzantine coin portrait",
+        "caption": "Empress Ariadne's ruthless ambitions"
+      },
+      {
+        "narration": "On April 9, 491 AD, Emperor Zeno collapsed after an illness and became completely unresponsive.",
+        "search": "medieval manuscript illumination royal illness",
+        "caption": "April 9, 491 AD collapse"
+      },
+      {
+        "narration": "Before physicians could verify his heartbeat, Ariadne rushed him to the Church of the Holy Apostles.",
+        "search": "ancient sarcophagus engraving marble tomb",
+        "caption": "Expedited royal burial rites"
+      },
+      {
+        "narration": "Heavy stone slabs were sealed over the sarcophagus while Zeno remained trapped inside, unconscious but alive.",
+        "search": "Byzantine Church of Holy Apostles historical drawing",
+        "caption": "Sealed alive inside stone tomb"
+      },
+      {
+        "narration": "Hours after the funeral ended, palace guards near the imperial mausoleum heard desperate pounding from within.",
+        "search": "medieval tomb painting subterranean crypt guard",
+        "caption": "Terrified screams from the mausoleum"
+      },
+      {
+        "narration": "When terrified guards reported the screams to Empress Ariadne in 491 AD, she strictly forbade anyone from opening the imperial vault.",
+        "search": "Empress Ariadne Byzantine mosaic portrait",
+        "caption": "Empress Ariadne strictly forbade anyone from opening the imperial vault."
+      },
+      {
+        "narration": "For three days, Emperor Zeno remained trapped in total darkness while Ariadne rushed to marry her favored political successor, Anastasius.",
+        "search": "byzantine empire 5th century map engraving",
+        "caption": "Zeno remained trapped while Ariadne secured her marriage to Anastasius."
+      },
+      {
+        "narration": "When the sarcophagus was finally opened, inspectors found Zeno dead from suffocation, having devoured his own flesh and leather boots in desperation.",
+        "search": "ancient marble sarcophagus engraving",
+        "caption": "Inspectors confirmed Emperor Zeno woke up inside his sealed tomb."
+      },
+      {
+        "narration": "In 491 AD, a Byzantine emperor was buried alive.",
+        "search": "Emperor Zeno coin mosaic portrait",
+        "caption": "In 491 AD, an emperor was buried alive."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T21:59:31.849321+00:00",
+    "updated_at": "2026-11-15T22:01:11.341014+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-15T21:59:50.172478+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "395 chars (cat 253 de vua 55s)",
+        "at": "2026-11-15T22:00:08.138731+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.3s en-US-GuyNeural 5 cau",
+        "at": "2026-11-15T22:00:12.588814+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T22:00:13.099485+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-15T22:00:41.935316+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T22:00:41.945419+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 21507001 bytes",
+        "at": "2026-11-15T22:01:11.207482+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T22:01:11.341007+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15762847/pexels-photo-15762847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30528543/pexels-photo-30528543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3214599/pexels-photo-3214599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13136097/pexels-photo-13136097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076982/pexels-photo-16076982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32878813/pexels-photo-32878813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18252674/pexels-photo-18252674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18934669/pexels-photo-18934669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40843082/pexels-photo-40843082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25068285/pexels-photo-25068285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14299569/pexels-photo-14299569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8264909/pexels-photo-8264909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8783160d30",
     "kind": "short",
     "channel": "Channel3",
