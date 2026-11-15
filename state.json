@@ -1,5 +1,162 @@
 [
   {
+    "id": "ef38676986",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Sacrificed Her Baby for Power",
+    "idea": {
+      "title": "The Empress Who Sacrificed Her Baby for Power",
+      "hook": "Empress Wu Zetian committed the ultimate betrayal: she framed her imperial rival by suffocating her own newborn child.",
+      "beats": [
+        "In 654 AD, Wu Zetian was a low-ranking concubine desperate to overthrow Empress Wang.",
+        "After giving birth to a daughter, Wu waited for Empress Wang to visit the royal nursery alone.",
+        "As soon as Wang left, Wu suffocated her own infant and accused the Empress of murder.",
+        "Emperor Gaozong believed Wu, banished Empress Wang, and crowned Wu as the sole Empress.",
+        "Wu Zetian went on to become the only official female Emperor in 3,000 years of Chinese history."
+      ],
+      "keywords": [
+        "Wu Zetian painting",
+        "Tang Dynasty portrait",
+        "Ancient Chinese empress art",
+        "Forbidden City historical engraving",
+        "Imperial China palace art"
+      ],
+      "tags": [
+        "#history",
+        "#ancientchina",
+        "#wuzetian",
+        "#historyfacts",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did a concubine murder her newborn for power?",
+        "search": "Wu Zetian portrait painting",
+        "caption": "Murdering her newborn for power?"
+      },
+      {
+        "narration": "In 654 AD, Tang Dynasty China was governed by Empress Wang, but a low-ranking rival sought her throne.",
+        "search": "Tang Dynasty palace illustration ink painting",
+        "caption": "Tang Dynasty imperial court, 654 AD"
+      },
+      {
+        "narration": "Wu Zetian gave birth to a daughter inside the imperial palace complex at Chang'an.",
+        "search": "Ancient Chinese imperial nursery silk painting",
+        "caption": "Wu Zetian in the Chang'an imperial palace"
+      },
+      {
+        "narration": "When Empress Wang visited the royal nursery alone, Wu seized her moment to execute a conspiracy.",
+        "search": "Empress Wang Tang Dynasty portrait painting",
+        "caption": "Empress Wang enters the royal nursery"
+      },
+      {
+        "narration": "Moments after Empress Wang left the chamber, the newborn princess was discovered suffocated.",
+        "search": "Ancient Chinese palace chamber artwork",
+        "caption": "The infant princess found lifeless"
+      },
+      {
+        "narration": "Wu Zetian openly blamed Empress Wang for the murder, presenting the claim directly to Emperor Gaozong.",
+        "search": "Emperor Gaozong Tang Dynasty portrait painting",
+        "caption": "Wu Zetian accuses Empress Wang"
+      },
+      {
+        "narration": "Emperor Gaozong believed the accusation, deposing Empress Wang and crowning Wu Zetian in 655 AD.",
+        "search": "Tang Dynasty imperial throne room painting",
+        "caption": "Emperor Gaozong deposes Empress Wang in 655 AD"
+      },
+      {
+        "narration": "This sacrifice propelled Wu Zetian to eventually become the only female Emperor in Chinese history.",
+        "search": "Ancient Chinese empress art historical engraving",
+        "caption": "Wu Zetian becomes China's only female ruler"
+      },
+      {
+        "narration": "By 690 AD, Empress Wu proclaimed her own Zhou Dynasty, executing political rivals to consolidate absolute rule over China.",
+        "search": "Wu Zetian portrait Chinese silk painting",
+        "caption": "In 690 AD, Wu Zetian seized total imperial control."
+      },
+      {
+        "narration": "Though later historians debated if the infant was murdered or died naturally, the royal scandal successfully eliminated her enemies.",
+        "search": "Tang Dynasty imperial court ceremony painting",
+        "caption": "The infant's death successfully destroyed her royal rivals."
+      },
+      {
+        "narration": "Wu Zetian died in 705 AD as China's only official female Emperor, leaving an unmarked tombstone for history to judge her sacrifice.",
+        "search": "Qianling Mausoleum Unmarked Stele historic stone monument",
+        "caption": "She remains the only female Emperor in Chinese history."
+      },
+      {
+        "narration": "Did China's female emperor murder her baby for power?",
+        "search": "Wu Zetian Tang Dynasty portrait painting",
+        "caption": "Did Wu Zetian sacrifice her baby for power?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T02:02:29.586122+00:00",
+    "updated_at": "2026-11-15T02:04:59.050524+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-15T02:03:03.369086+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "369 chars (cat 133 de vua 55s)",
+        "at": "2026-11-15T02:03:23.864579+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-11-15T02:03:26.461167+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T02:03:27.260310+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-15T02:04:17.580656+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-15T02:04:17.591923+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 14053807 bytes",
+        "at": "2026-11-15T02:04:58.916099+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T02:04:59.050512+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16095158/pexels-photo-16095158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34502236/pexels-photo-34502236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40142152/pexels-photo-40142152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14131524/pexels-photo-14131524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31032328/pexels-photo-31032328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30870554/pexels-photo-30870554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458140/pexels-photo-39458140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5907875/pexels-photo-5907875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34263103/pexels-photo-34263103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40446235/pexels-photo-40446235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38143315/pexels-photo-38143315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40446236/pexels-photo-40446236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "988de120b7",
     "kind": "short",
     "channel": "Channel2",
