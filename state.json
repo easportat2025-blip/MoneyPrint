@@ -1,5 +1,167 @@
 [
   {
+    "id": "09229c416b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bật Chế độ tối ban ngày đang âm thầm làm mỏi mắt bạn",
+    "idea": {
+      "title": "Lý do bật Chế độ tối ban ngày đang âm thầm làm mỏi mắt bạn",
+      "hook": "Bạn bật Chế độ tối 24/7 để bảo vệ mắt? Sự thật là thói quen này đang ép đồng tử của bạn phải giãn hết cỡ cả ngày.",
+      "beats": [
+        "Khi bật Dark Mode dưới ánh sáng ban ngày, mắt phải mở rộng đồng tử để đọc chữ trắng trên nền đen.",
+        "Điều này làm giảm độ sâu trường ảnh, buộc các cơ mắt phải điều tiết liên tục gây mệt mỏi.",
+        "Với người bị loạn thị nhẹ, chữ trắng trên nền tối sẽ tạo hiệu ứng nhòe mờ (halation) mà bạn không hề hay biết.",
+        "Lời khuyên: Chỉ nên dùng Dark Mode ban đêm hoặc trong phòng tối, ban ngày hãy trả lại giao diện sáng."
+      ],
+      "keywords": [
+        "smartphone dark mode",
+        "person scrolling phone daytime",
+        "eye closeup dilating",
+        "person rubbing eyes office",
+        "screen display settings"
+      ],
+      "tags": [
+        "chế độ tối",
+        "bảo vệ mắt",
+        "mẹo dùng điện thoại",
+        "thói quen hại mắt",
+        "tác hại dark mode"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bật Dark Mode ban ngày đang âm thầm hại mắt bạn.",
+        "search": "smartphone che do toi 3d animation",
+        "caption": "Bật Dark Mode ban ngày hại mắt hơn bạn nghĩ"
+      },
+      {
+        "narration": "Nhiều người bật chế độ tối 24/7 vì tin rằng nó giúp bảo vệ thị lực tối đa.",
+        "search": "nguoi dung dien thoai ban ngay do hoa 3d",
+        "caption": "Hầu hết mọi người tin Dark Mode luôn tốt cho mắt"
+      },
+      {
+        "narration": "Nhưng dưới ánh sáng ban ngày, màn hình đen buộc đồng tử phải giãn rộng để đọc chữ.",
+        "search": "dong tu mat gian ngoai 3d explainer",
+        "caption": "Đồng tử buộc phải giãn rộng dưới ánh sáng ban ngày"
+      },
+      {
+        "narration": "Khi đồng tử mở to, độ sâu trường ảnh bị giảm mạnh khiến tầm nhìn bớt sắc nét.",
+        "search": "thieu len mat dieu tiet ong kinh 3d",
+        "caption": "Độ sâu trường ảnh giảm làm mắt khó tập trung"
+      },
+      {
+        "narration": "Các cơ mắt phải liên tục co bóp cường độ cao chỉ để giúp bạn đọc rõ dòng chữ.",
+        "search": "co mat mien nheo mat 3d animation",
+        "caption": "Cơ mắt phải làm việc liên tục gây mệt mỏi"
+      },
+      {
+        "narration": "Đặc biệt nếu bạn bị loạn thị nhẹ, hiệu ứng nhòe mờ halation sẽ lập tức xảy ra.",
+        "search": "chu trang tren nen den bi nhoe 3d graphics",
+        "caption": "Hiệu ứng nhòe mờ xuất hiện với người loạn thị"
+      },
+      {
+        "narration": "Ánh sáng trắng tràn qua viền đen làm chữ bị mờ, ép não bộ làm việc gấp đôi.",
+        "search": "nao bo xu ly hinh anh nhieu 3d isometric",
+        "caption": "Không gian chữ mờ ép não bộ xử lý liên tục"
+      },
+      {
+        "narration": "Hậu quả là sau vài giờ, bạn bắt đầu thấy nhức đầu và mỏi mắt nghiêm trọng.",
+        "search": "nguoi nhuc dau moi mat nhan vien van phong 3d",
+        "caption": "Mệt mỏi và nhức đầu xuất hiện âm thầm"
+      },
+      {
+        "narration": "Môi trường xung quanh đang sáng nhưng màn hình lại tối khiến mắt bạn bị xung đột tín hiệu ánh sáng liên tục.",
+        "search": "hoat hinh 3d mat nguoi va anh sang dien thoai ban ngay",
+        "caption": "Mắt bị xung đột tín hiệu ánh sáng"
+      },
+      {
+        "narration": "Đồng tử mở to làm giảm độ sâu trường ảnh, buộc các cơ mắt phải co thắt liên tục để giữ cho chữ không bị nhòe.",
+        "search": "3d animation mat dieu tiet nhin man hinh cong nghe",
+        "caption": "Cơ mắt phải co thắt liên tục để lấy nét"
+      },
+      {
+        "narration": "Thói quen bật Chế độ tối 24/7 không hề bảo vệ mắt, mà đang âm thầm vắt kiệt sức bền thị giác của bạn dưới ánh sáng mặt trời.",
+        "search": "hoat hinh 3d nguoi dung dien thoai met moi van phong",
+        "caption": "Chế độ tối 24/7 đang bào mòn thị lực"
+      },
+      {
+        "narration": "Quy tắc chuẩn là môi trường xung quanh sáng thế nào, giao diện màn hình phải phản chiếu độ sáng tương tự.",
+        "search": "3d animation chuyen doi giao dien sang va toi tren dien thoai",
+        "caption": "Đồng bộ độ sáng màn hình với môi trường"
+      },
+      {
+        "narration": "Hãy chuyển sang Chế độ sáng vào ban ngày và chỉ bật Chế độ tối khi bạn tắt đèn đi ngủ vào ban đêm.",
+        "search": "hoat hinh 3d nguoi dung dien thoai ban dem va ban ngay",
+        "caption": "Bật giao diện sáng ban ngày, tối ban đêm"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-15T06:54:35.912811+00:00",
+    "updated_at": "2026-11-15T06:58:17.955036+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-15T06:55:02.751560+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "507 chars (cat 181 de vua 55s)",
+        "at": "2026-11-15T06:55:16.657061+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.4s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-15T06:55:46.936462+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-15T06:55:47.784177+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-15T06:57:28.222095+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-15T06:57:28.229066+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.4s 23114183 bytes",
+        "at": "2026-11-15T06:58:17.867941+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-15T06:58:17.955020+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/16552767/16552767-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7985885/7985885-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/40187578/17167740_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39917034/17032006_1440_2560_50fps.mp4",
+      "https://videos.pexels.com/video-files/4105770/4105770-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39241964/16699311_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8820497/8820497-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8134383/8134383-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8640624/8640624-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/29083313/12568193_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/9795080/9795080-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39467721/16810730_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/3755081/3755081-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "ef38676986",
     "kind": "short",
     "channel": "Channel2",
