@@ -1,5 +1,595 @@
 [
   {
+    "id": "d4297cbd49",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Mad Sultan Who Drowned His Entire Harem | Dark Ottoman History",
+    "idea": {
+      "title": "The Mad Sultan Who Drowned His Entire Harem | Dark Ottoman History",
+      "hook": "In 1640, Ottoman Sultan Ibrahim I committed one of the most horrifying atrocities in royal history: ordering all 280 women of his royal harem tied inside weighted sacks and thrown into the icy Bosphorus Strait in a single night.",
+      "beats": [
+        "In 1640, Ibrahim I ascends the Ottoman throne after spending decades trapped in 'The Cage,' leaving him psychologically shattered and deeply paranoid.",
+        "Known to history as 'Ibrahim the Mad,' the new Sultan plunges Topkapi Palace into chaos with erratic behavior, extravagant spending, and rising mania.",
+        "The Imperial Harem, overseen by the powerful Valide Sultan Kösem, becomes a pressure cooker of intrigue, rivalries, and royal secrets.",
+        "A chilling rumor reaches Ibrahim's ears that a concubine has committed treason and engaged in an illicit affair inside the palace walls.",
+        "Overwhelmed by intense paranoia and unable to pinpoint the culprit, Ibrahim refuses an investigation and decides to purge the entire harem.",
+        "Under the cover of midnight, 280 concubines are gathered, tied inside heavy weighted sacks, and loaded onto boats headed into the Bosphorus Strait.",
+        "Executioners cast all 280 women into the deep, pitch-black sea, attempting to erase the entire royal harem without leaving a trace.",
+        "Miraculously, a passing French merchant ship spots a struggling sack in the water, pulling the sole surviving concubine out alive.",
+        "News of the horrific massacre spreads through Istanbul, igniting widespread fury among the Janissaries, religious leaders, and the royal court.",
+        "Kösem Sultan approves a desperate palace coup, permanently deposing Ibrahim the Mad and ending his short, terrifying reign."
+      ],
+      "keywords": [
+        "Ottoman Empire",
+        "Sultan Ibrahim I",
+        "Imperial Harem",
+        "History Documentary",
+        "Kösem Sultan",
+        "Topkapi Palace",
+        "Dark History",
+        "Ottoman History",
+        "Ancient Empires"
+      ],
+      "tags": [
+        "Ottoman Empire Documentary",
+        "Sultan Ibrahim The Mad",
+        "Royal Harem Secrets",
+        "Dark Royal History",
+        "Bosphorus Drowning",
+        "Palace Coup History",
+        "Ancient History",
+        "Ottoman Sultans",
+        "Topkapi Palace History"
+      ],
+      "kind": "long",
+      "thumbnail_text": "DROWNED HIS ENTIRE HAREM"
+    },
+    "scenes": [
+      {
+        "narration": "Did an Ottoman sultan drown 280 women in one night?",
+        "search": "Ottoman sultan portrait oil painting 17th century",
+        "caption": "Did an Ottoman sultan drown 280 concubines in one night?"
+      },
+      {
+        "narration": "In 1640, Sultan Ibrahim I took the throne after spending two decades confined in the imperial prison known as the Kafes.",
+        "search": "Topkapi palace Istanbul 17th century engraving",
+        "caption": "Confinement in the Kafes left Ibrahim deeply paranoid in 1640."
+      },
+      {
+        "narration": "Administered under the watchful eye of his mother, Kösem Sultan, Topkapi Palace soon spiraled into unprecedented extravagance and paranoia.",
+        "search": "Kosem Sultan portrait painting",
+        "caption": "Kosem Sultan struggled to control her unstable son's erratic reign."
+      },
+      {
+        "narration": "Tension reached a breaking point when unverified rumors swept the court that a concubine had engaged in treason with an outsider.",
+        "search": "Ottoman imperial harem miniature painting",
+        "caption": "Rumors of treason inside the Imperial Harem triggered immediate panic."
+      },
+      {
+        "narration": "Unable to identify the suspect, Ibrahim refused an investigation and ordered the total destruction of his entire harem.",
+        "search": "Sultan Ibrahim I Ottoman portrait painting",
+        "caption": "Unable to find the culprit, Ibrahim ordered a total purge."
+      },
+      {
+        "narration": "Under cover of dark in 1640, guards tied 280 women into weighted fabric sacks and rowed them into the middle of the Bosphorus Strait.",
+        "search": "Bosphorus strait Istanbul 17th century map engraving",
+        "caption": "Two hundred eighty concubines were cast into the icy Bosphorus."
+      },
+      {
+        "narration": "The night of violence remained secret until a passing French merchant vessel pulled a surviving weighted sack from the water days later.",
+        "search": "17th century sailing ship oil painting",
+        "caption": "A French merchant ship discovered the atrocity in the open sea."
+      },
+      {
+        "narration": "News of the massacre ignited an uprising, prompting Kösem Sultan and the Janissaries to depose Ibrahim in 1648, ending his reign.",
+        "search": "Janissary soldiers Ottoman engraving",
+        "caption": "The bloody atrocity triggered a palace coup that deposed the sultan."
+      },
+      {
+        "narration": "Ibrahim's descent into severe mental instability originated in the Kafes, a secluded apartment inside Topkapi Palace where he spent twenty-two years fearing execution by his brother, Sultan Murad IV.",
+        "search": "topkapi palace kafes golden cage engraving",
+        "caption": "Spent 22 years confined inside the palace cage"
+      },
+      {
+        "narration": "When Ottoman ministers declared him Sultan in February 1640, a terrified Ibrahim locked his door, believing his brother was setting a death trap.",
+        "search": "sultan ibrahim i ottoman portrait painting ascended",
+        "caption": "Ascended the throne in February 1640 under intense terror"
+      },
+      {
+        "narration": "Realizing her son was incapable of governance, his mother, Valide Kösem Sultan, seized actual administrative control over the Ottoman court and military affairs.",
+        "search": "kosem sultan valide sultan oil painting",
+        "caption": "Kösem Sultan ruled the empire behind the throne"
+      },
+      {
+        "narration": "Ibrahim's unchecked spending soon drained the imperial treasury, as he demanded entire palace chambers lined with expensive sable furs and rare imported ambergris.",
+        "search": "ottoman imperial treasury gold coins historical artifact",
+        "caption": "Lavish palace spending crippled the Ottoman treasury"
+      },
+      {
+        "narration": "Inside the Imperial Harem, rival concubines competed ruthlessly for imperial favor, fueling deep court conspiracies and constant accusations of disloyalty.",
+        "search": "imperial harem topkapi palace painting",
+        "caption": "High-stakes rivalries corrupted the Imperial Harem"
+      },
+      {
+        "narration": "In 1647, paranoia consumed Ibrahim when unconfirmed rumors circulated that an unidentified concubine had engaged in an illicit affair inside the palace.",
+        "search": "istanbul map 17th century historical engraving",
+        "caption": "Allegations of treason pushed the Sultan toward violence"
+      },
+      {
+        "narration": "Refusing to conduct an investigation, Ibrahim ordered his chief eunuchs and palace guards to detain all two hundred eighty concubines under cover of midnight.",
+        "search": "chief black eunuch topkapi palace 17th century engraving",
+        "caption": "Royal guards detained all two hundred eighty women"
+      },
+      {
+        "narration": "While the court attempted a complete cover-up, news of the horrific drowning leaked across Europe after the French merchant vessel reached port with its witness.",
+        "search": "17th century French merchant ship sailing oil painting",
+        "caption": "A French merchant vessel rescued the sole survivor"
+      },
+      {
+        "narration": "Diplomatic dispatches from Istanbul quickly confirmed the survivor's harrowing account, exposing the madness inside Topkapi Palace to European royal courts.",
+        "search": "17th century Istanbul map engraving",
+        "caption": "European dispatches expose the horrifying secret of Topkapi Palace."
+      },
+      {
+        "narration": "Rumors of the secret drowning ignited intense outrage among the Janissaries and Islamic scholars across the Ottoman capital.",
+        "search": "Janissary Ottoman army 17th century engraving",
+        "caption": "Outrage mounts among the Janissary ranks over royal abuses."
+      },
+      {
+        "narration": "When imperial matriarch Kösem Sultan attempted to restrain her son's wild cruelty, Ibrahim exiled his own mother from Topkapi Palace.",
+        "search": "Kosem Sultan Ottoman portrait painting",
+        "caption": "Ibrahim exiles his mother Kösem Sultan after severe confrontation."
+      },
+      {
+        "narration": "To fund his lavish lifestyle and sable fur obsessions, Ibrahim levied ruinous taxes on Ottoman grandees throughout 1647.",
+        "search": "Ottoman Sultan Ibrahim I portrait painting",
+        "caption": "Ruinous taxes imposed on Ottoman nobility to fund royal extravagances."
+      },
+      {
+        "narration": "In August 1648, the Sheikh ul-Islam issued a binding legal decree authorizing the removal of the mentally unstable Sultan.",
+        "search": "17th century Ottoman manuscript illustration scholars",
+        "caption": "Islamic authorities issue formal decree demanding Sultan Ibrahim's removal."
+      },
+      {
+        "narration": "Fearing total state collapse, Kösem Sultan sanctioned a palace coup to place her seven-year-old grandson Mehmed IV on the throne.",
+        "search": "Ottoman palace siege 17th century engraving",
+        "caption": "Kösem Sultan consents to the coup replacing Ibrahim with child sultan."
+      },
+      {
+        "narration": "On August 8, 1648, Janissary officers dragged Ibrahim from the throne room and locked him inside the royal prison apartments.",
+        "search": "Topkapi palace golden cage interior 17th century engraving",
+        "caption": "Ibrahim is dragged back to the windowless prison of his youth."
+      },
+      {
+        "narration": "Ten days later on August 18, 1648, palace executioners strangled Ibrahim I, ending one of the darkest reigns in Ottoman history.",
+        "search": "Ottoman executioner historical oil painting",
+        "caption": "Executioners end the terrifying reign of Ibrahim the Mad in 1648."
+      },
+      {
+        "narration": "Did an Ottoman Sultan drown 280 women in one night? In 1640, a terrifying purge shook the imperial court of Istanbul.",
+        "search": "Sultan Ibrahim I portrait painting",
+        "caption": "280 Royal Concubines Vanished in 1640"
+      },
+      {
+        "narration": "In February 1640, Ibrahim I ascended the Ottoman throne after twenty-two years locked inside the windowless Kafes apartment at Topkapi Palace.",
+        "search": "Topkapi Palace Istanbul 17th century engraving wide shot",
+        "caption": "Confined in the Kafes for 22 Years"
+      },
+      {
+        "narration": "His mother, Valide Kösem Sultan, directed imperial politics while Ibrahim suffered from severe clinical paranoia and unchecked extravagance.",
+        "search": "Kosem Sultan Ottoman court miniature painting",
+        "caption": "Kösem Sultan Controlled the Imperial Court"
+      },
+      {
+        "narration": "Tension peaked when rumors reached Ibrahim that a concubine had engaged in a secret affair inside the guarded Imperial Harem.",
+        "search": "Ottoman harem interior 17th century painting",
+        "caption": "Treason Rumors Poisoned the Imperial Harem"
+      },
+      {
+        "narration": "Refusing an investigation, the paranoid Sultan ordered his guards to bind all 280 concubines inside heavy sacks weighted with rocks.",
+        "search": "Ottoman executioner 17th century manuscript illumination",
+        "caption": "280 Concubines Bound in Weighted Sacks"
+      },
+      {
+        "narration": "Under cover of midnight, executioners loaded the trapped women onto royal rowboats heading deep into the Bosphorus Strait.",
+        "search": "Bosphorus Strait Istanbul night boat 18th century engraving",
+        "caption": "Cast Into the Icy Bosphorus Waters"
+      },
+      {
+        "narration": "Days later, a passing French merchant vessel spotted a floating sack and pulled a single surviving woman out alive near the coastline.",
+        "search": "17th century French merchant ship sailing oil painting found",
+        "caption": "A French Vessel Found One Survivor"
+      },
+      {
+        "narration": "The horrific massacre galvanized the empire, leading Kösem Sultan and the Janissaries to depose and execute Ibrahim on August 18, 1648.",
+        "search": "Janissary revolt Istanbul 17th century engraving",
+        "caption": "Sultan Ibrahim Deposed and Executed in 1648"
+      },
+      {
+        "narration": "Confined for twenty-two years inside the Kafes of Topkapi Palace, Ibrahim developed severe mental instability before taking the throne in February 1640.",
+        "search": "Sultan Ibrahim I Ottoman portrait painting suffered",
+        "caption": "Ibrahim I suffered severe mental trauma during twenty-two years of palace confinement."
+      },
+      {
+        "narration": "Grand Vizier Kemankeş Kara Mustafa Pasha initially stabilized the Ottoman economy through rigorous currency reform and tax collection.",
+        "search": "Kemankeş Kara Mustafa Pasha Ottoman engraving",
+        "caption": "Kemankeş Kara Mustafa Pasha attempted to stabilize the imperial economy in 1640."
+      },
+      {
+        "narration": "Deep within Topkapi Palace, the Imperial Harem operated under strict security, isolated completely from the public eye.",
+        "search": "Topkapi Palace Imperial Harem 17th century engraving map",
+        "caption": "The Imperial Harem remained completely isolated behind the high walls of Topkapi."
+      },
+      {
+        "narration": "As Valide Sultan, Kösem Sultan exerted immense political power, controlling palace appointments while attempting to contain her son's erratic behavior.",
+        "search": "Kösem Sultan portrait oil painting",
+        "caption": "Kösem Sultan maintained effective control over imperial governance during the early 1640s."
+      },
+      {
+        "narration": "By 1644, Ibrahim's lavish spending on expensive sables and ambergris severely drained the Ottoman treasury.",
+        "search": "Ottoman court luxury artifacts 17th century miniature painting",
+        "caption": "Extravagant court expenditures severely depleted imperial financial reserves by 1644."
+      },
+      {
+        "narration": "Whispers of secret court alliances and unauthorized entries into the women's quarters began circulating among palace guards.",
+        "search": "Topkapi Palace corridors interior historical drawing",
+        "caption": "Unsubstantiated rumors of palace intrigue began circulating within the imperial court."
+      },
+      {
+        "narration": "In January 1644, Ibrahim ordered the execution of Grand Vizier Kemankeş Kara Mustafa Pasha, removing the state's chief administrator.",
+        "search": "Ottoman Grand Vizier execution 17th century illustration",
+        "caption": "The execution of Grand Vizier Kara Mustafa Pasha removed crucial administrative restraint."
+      },
+      {
+        "narration": "Without experienced counselors to check his authority, Ibrahim's suspicion turned directly toward the women residing in the harem.",
+        "search": "Ottoman Sultan in palace hall historical oil painting",
+        "caption": "Mounting imperial paranoia focused increasingly on the residents of the royal harem."
+      },
+      {
+        "narration": "In mid-1644, rumors of a secret treasonous affair inside the imperial harem reached Sultan Ibrahim's paranoid court.",
+        "search": "17th century Ottoman harem imperial palace miniature illustration",
+        "caption": "Whispering rumors of treason reach Sultan Ibrahim in 1644."
+      },
+      {
+        "narration": "Driven by severe mania and unable to identify the single suspect, Ibrahim flatly refused a standard court investigation.",
+        "search": "Sultan Ibrahim I Ottoman portrait painting 17th century",
+        "caption": "Consumed by paranoia, Ibrahim refuses a standard palace investigation."
+      },
+      {
+        "narration": "Instead of seeking evidence, the Sultan decreed that every woman in the imperial harem—280 concubines in total—must be killed.",
+        "search": "Topkapi Palace imperial harem courtyard historical engraving",
+        "caption": "Ibrahim decrees the death of all 280 harem concubines."
+      },
+      {
+        "narration": "Under cover of midnight, palace eunuchs bound the terrified concubines and sealed them inside heavy, weighted sacks.",
+        "search": "Ottoman executioners 17th century historical manuscript painting",
+        "caption": "Concubines are bound and sealed inside weighted sacks at midnight."
+      },
+      {
+        "narration": "The weighted canvas bundles were quietly moved through secret palace gates and loaded onto rowboats waiting along the coast.",
+        "search": "Bosphorus strait Istanbul 17th century map engraving loaded",
+        "caption": "Sacks are loaded onto rowboats along the Istanbul waterfront."
+      },
+      {
+        "narration": "Navigating through pitch-black waters, the boats reached the deep, swift currents off Seraglio Point in the Bosphorus Strait.",
+        "search": "Ottoman boats on the Golden Horn 18th century engraving",
+        "caption": "Boats navigate the dark currents near Seraglio Point."
+      },
+      {
+        "narration": "One by one, executioners threw all 280 weighted sacks into the icy sea, drowning the entire harem in a single night.",
+        "search": "Night sea dark water waves historic nautical illustration",
+        "caption": "Two hundred eighty concubines are cast into the freezing Bosphorus."
+      },
+      {
+        "narration": "The executioners returned to Topkapi Palace believing the monstrous act was hidden forever beneath the ocean depth.",
+        "search": "Topkapi Palace fortress walls Bosphorus shore old engraving",
+        "caption": "Executioners attempt to erase all trace of the royal harem."
+      },
+      {
+        "narration": "Days after the massacre, a French merchant vessel navigating the Sea of Marmara spotted a heavy sack thrashing near the water's surface.",
+        "search": "17th century French merchant ship sailing oil painting spots",
+        "caption": "A French ship spots a floating bundle near Istanbul in 1640"
+      },
+      {
+        "narration": "Sailors hauled the weighted canvas onto their deck and cut the ropes, pulling out a single surviving concubine alive.",
+        "search": "17th century sailors rescuing survivor from sea engraving",
+        "caption": "One concubine miraculously survives the Bosphorus drowning"
+      },
+      {
+        "narration": "Once safe aboard the vessel, the survivor revealed the terrifying truth of Sultan Ibrahim the First's secret midnight purge.",
+        "search": "Ottoman concubine imperial harem 17th century painting",
+        "caption": "The sole survivor reveals Sultan Ibrahim's horrific palace purge"
+      },
+      {
+        "narration": "The French captain brought the woman to Europe, where her testimony exposed the atrocity to stunned diplomatic courts.",
+        "search": "European diplomats court 17th century oil painting",
+        "caption": "News of the massacre spreads across European royal courts"
+      },
+      {
+        "narration": "Back in Istanbul, whispered reports of the vanished women began spreading among the elite Janissary guards and religious leaders.",
+        "search": "Ottoman Janissary guards 17th century engraving",
+        "caption": "Rumors reach the Janissaries and religious leaders in Istanbul"
+      },
+      {
+        "narration": "Unaware of the public outrage, Sultan Ibrahim continued his reckless spending, levying ruinous taxes to purchase rare furs and perfumes.",
+        "search": "Sultan Ibrahim I Ottoman miniature painting portrait",
+        "caption": "Sultan Ibrahim I drains the treasury with lavish spending"
+      },
+      {
+        "narration": "His mother, Valide Kösem Sultan, recognized that her son's volatile mental state was pushing the Ottoman dynasty toward complete ruin.",
+        "search": "Kosem Sultan Ottoman portrait painting recognizes",
+        "caption": "Kösem Sultan recognizes her son's threat to the Empire"
+      },
+      {
+        "narration": "By late 1647, Kösem Sultan began secret consultations with the Grand Vizier to discuss removing the unstable monarch from power.",
+        "search": "Ottoman Grand Vizier secret council meeting 17th century engraving",
+        "caption": "Secret plans form to depose the mad Sultan in 1647"
+      },
+      {
+        "narration": "By early 1648, Kösem Sultan allied with Janissary commanders and chief religious authorities to formalize plans for deposing her unstable son.",
+        "search": "kosem sultan portrait painting 17th century",
+        "caption": "Kösem Sultan forms secret alliance with Janissary leaders 1648"
+      },
+      {
+        "narration": "Sensing betrayal within his court, Ibrahim's paranoia reached a dangerous climax as he demanded total control over the imperial quarters.",
+        "search": "sultan ibrahim i portrait painting escalates",
+        "caption": "Ibrahim paranoia escalates inside Topkapi Palace 1648"
+      },
+      {
+        "narration": "When an unconfirmed rumor reached Ibrahim that a concubine had committed treason, he refused to conduct a targeted investigation.",
+        "search": "topkapi palace imperial harem 17th century engraving",
+        "caption": "Treason rumor circulates inside the imperial harem"
+      },
+      {
+        "narration": "Driven by absolute hysteria, the Sultan ordered the immediate execution of all two hundred eighty concubines in the imperial harem.",
+        "search": "ottoman executioner 17th century engraving",
+        "caption": "Ibrahim orders total purge of royal harem concubines"
+      },
+      {
+        "narration": "Under the cover of darkness, palace guards bound the women inside heavy weighted sacks and loaded them onto rowboats.",
+        "search": "bosphorus strait istanbul 17th century old map",
+        "caption": "Concubines bound in weighted sacks under cover of night"
+      },
+      {
+        "narration": "Executioners cast two hundred eighty women into the deep currents of the Bosphorus Strait to erase the entire harem without a trace.",
+        "search": "bosphorus sea night 17th century oil painting",
+        "caption": "Harem concubines drowned in icy Bosphorus waters"
+      },
+      {
+        "narration": "Days later, sailors aboard a French merchant ship sailing near the straits pulled a floating sack from the water, saving a single surviving concubine.",
+        "search": "french sailing merchant ship 17th century oil painting",
+        "caption": "French merchant ship rescues sole surviving harem concubine"
+      },
+      {
+        "narration": "The survivor's terrifying account reached European ports and ignited intense fury throughout Istanbul, pushing the Ottoman court toward open rebellion.",
+        "search": "istanbul panoramic view 17th century engraving",
+        "caption": "Eyewitness reports of massacre spark public outrage"
+      },
+      {
+        "narration": "In August 1648, the Janissary corps and high-ranking Ulema assembled in Istanbul, uniting to demand the immediate removal of Sultan Ibrahim's government.",
+        "search": "janissaries revolt istanbul 17th century engraving",
+        "caption": "August 1648: Janissaries and religious leaders unite against the Sultan."
+      },
+      {
+        "narration": "Grand Vizier Hezarpare Ahmed Pasha was captured by the rioting mob outside the palace gates and killed on August 7, 1648.",
+        "search": "ottoman grand vizier ahmed pasha 17th century portrait painting",
+        "caption": "Grand Vizier Ahmed Pasha is executed by the angry mob."
+      },
+      {
+        "narration": "Realizing her son's violent unpredictability threatened the survival of the dynasty, Kösem Sultan secretly gave her approval for Ibrahim's deposition.",
+        "search": "kosem sultan valide sultan ottoman imperial harem portrait painting",
+        "caption": "Kösem Sultan approves the dethroning of her own son."
+      },
+      {
+        "narration": "Armed guards and rebellious soldiers breached the outer courtyards of Topkapi Palace, trapping Ibrahim inside his private quarters.",
+        "search": "topkapi palace imperial gate istanbul 17th century engraving",
+        "caption": "Armed rebels storm the outer courtyards of Topkapi Palace."
+      },
+      {
+        "narration": "On August 8, 1648, Ibrahim was officially dethroned, and his seven-year-old son was proclaimed Sultan Mehmed IV before the court.",
+        "search": "sultan mehmed iv child Ottoman empire oil painting",
+        "caption": "Seven-year-old Mehmed IV is crowned as the new Ottoman Sultan."
+      },
+      {
+        "narration": "Executioners dragged the deposed ruler back into the Kafes, locking him inside the same windowless quarters where he had spent his youth.",
+        "search": "topkapi palace royal apartments kafes cage illustration",
+        "caption": "Ibrahim is imprisoned inside the imperial palace cage once again."
+      },
+      {
+        "narration": "Even behind iron bars, Ibrahim's relentless screams and threats of revenge caused intense anxiety among the palace officials.",
+        "search": "sultan ibrahim i locked room topkapi palace painting",
+        "caption": "Fears of a counter-coup grow as the deposed sultan rages."
+      },
+      {
+        "narration": "Fearing a loyalist counter-rebellion to restore the mad monarch, the Sheikh ul-Islam issued a fatal decree sanctioning Ibrahim's execution.",
+        "search": "ottoman sheikh ul islam mufti 17th century miniature painting",
+        "caption": "A fatal religious decree is issued sanctioning Ibrahim's execution."
+      },
+      {
+        "narration": "On August 18, 1648, Grand Vizier Mevlevî Mehmed Pasha and the chief executioner entered the locked execution chamber of Topkapi Palace.",
+        "search": "17th century Ottoman miniature painting topkapi palace guards",
+        "caption": "Executioners enter Ibrahim's chamber at Topkapi Palace, August 1648."
+      },
+      {
+        "narration": "The royal executioner Kara Ali strangled the thirty-two-year-old deposed Sultan with a silk bowstring, ending Ibrahim's erratic eight-year rule.",
+        "search": "Ottoman empire executioner strangling bowstring historical engraving",
+        "caption": "Sultan Ibrahim I is executed by strangling in August 1648."
+      },
+      {
+        "narration": "With Ibrahim dead, his seven-year-old son Mehmed IV was crowned Sultan, restoring political stability under the regency of Kösem Sultan.",
+        "search": "Sultan Mehmed IV young boy portrait painting",
+        "caption": "Seven-year-old Mehmed IV ascends the Ottoman throne under Kösem's regency."
+      },
+      {
+        "narration": "Following the coup, details of Ibrahim's reign leaked beyond palace walls, including the midnight mass drowning of his imperial harem in 1640.",
+        "search": "Bosphorus strait Istanbul night historical oil painting",
+        "caption": "Details of the 1640 harem mass drowning emerge across Europe."
+      },
+      {
+        "narration": "Accounts recorded by European diplomats described how a French merchant ship in the Sea of Marmara retrieved a weighted sack containing the massacre's sole survivor.",
+        "search": "17th century French merchant ship sailing oil painting low angle",
+        "caption": "A French vessel rescues the lone surviving concubine from the sea."
+      },
+      {
+        "narration": "English historian Paul Rycaut documented that Ibrahim's severe paranoia stemmed from decades of solitary confinement inside the imperial Kafes.",
+        "search": "Paul Rycaut portrait engraving 17th century",
+        "caption": "Historians trace Ibrahim's paranoia to years trapped inside the Kafes."
+      },
+      {
+        "narration": "Kösem Sultan's ruthless bid to preserve the dynasty proved short-lived when she was assassinated during a rival palace intrigue in September 1651.",
+        "search": "Kösem Sultan portrait painting Ottoman empress",
+        "caption": "Kösem Sultan is assassinated three years later in September 1651."
+      },
+      {
+        "narration": "The drowning of two hundred eighty concubines in the icy Bosphorus remains the most notorious atrocity of Sultan Ibrahim the Mad's terrifying legacy.",
+        "search": "Topkapi Palace seen from Bosphorus 17th century engraving",
+        "caption": "The tragic legacy of Ibrahim the Mad endures in Ottoman history."
+      },
+      {
+        "narration": "Did an Ottoman Sultan drown 280 women in one night? In 1640, Ibrahim I claimed the imperial throne after decades of psychological confinement.",
+        "search": "Sultan Ibrahim I Ottoman portrait oil painting",
+        "caption": "Did Sultan Ibrahim I drown 280 harem concubines in one night?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T23:09:51.496207+00:00",
+    "updated_at": "2026-11-16T23:28:02.606555+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-16T23:15:36.295891+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2466 chars",
+        "at": "2026-11-16T23:16:10.366578+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "151.6s en-US-GuyNeural 24 cau",
+        "at": "2026-11-16T23:16:22.137708+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T23:16:26.269519+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-16T23:23:33.750193+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-16T23:23:33.763333+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 151.7s 138375607 bytes",
+        "at": "2026-11-16T23:28:02.403828+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "4 chapters",
+        "at": "2026-11-16T23:28:02.431433+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T23:28:02.606540+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17957920/pexels-photo-17957920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19433259/pexels-photo-19433259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713863/pexels-photo-36713863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40317065/pexels-photo-40317065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39609207/pexels-photo-39609207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38808420/pexels-photo-38808420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15686201/pexels-photo-15686201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31329630/pexels-photo-31329630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34232361/pexels-photo-34232361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9376011/pexels-photo-9376011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20697387/pexels-photo-20697387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19245495/pexels-photo-19245495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15977394/pexels-photo-15977394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2859169/pexels-photo-2859169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14959981/pexels-photo-14959981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18597927/pexels-photo-18597927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16049881/pexels-photo-16049881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268684/pexels-photo-9268684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32913735/pexels-photo-32913735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7317597/pexels-photo-7317597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34436215/pexels-photo-34436215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39481453/pexels-photo-39481453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39477092/pexels-photo-39477092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13786370/pexels-photo-13786370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9388418/pexels-photo-9388418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12762744/pexels-photo-12762744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32350722/pexels-photo-32350722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6243715/pexels-photo-6243715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342497/pexels-photo-29342497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9390082/pexels-photo-9390082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39687047/pexels-photo-39687047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37005882/pexels-photo-37005882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39654329/pexels-photo-39654329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33724195/pexels-photo-33724195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34432900/pexels-photo-34432900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713845/pexels-photo-36713845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40261495/pexels-photo-40261495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37010972/pexels-photo-37010972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6056918/pexels-photo-6056918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20843363/pexels-photo-20843363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27466738/pexels-photo-27466738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39837927/pexels-photo-39837927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30035559/pexels-photo-30035559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319245/pexels-photo-29319245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8648594/pexels-photo-8648594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17623372/pexels-photo-17623372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12777365/pexels-photo-12777365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39134552/pexels-photo-39134552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17344214/pexels-photo-17344214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28282297/pexels-photo-28282297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33603205/pexels-photo-33603205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31763849/pexels-photo-31763849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32757126/pexels-photo-32757126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40366321/pexels-photo-40366321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40505364/pexels-photo-40505364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14410424/pexels-photo-14410424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36730475/pexels-photo-36730475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28616626/pexels-photo-28616626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17957956/pexels-photo-17957956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38465369/pexels-photo-38465369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12482295/pexels-photo-12482295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38130927/pexels-photo-38130927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10895689/pexels-photo-10895689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30585138/pexels-photo-30585138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17494637/pexels-photo-17494637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33556087/pexels-photo-33556087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38241492/pexels-photo-38241492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14255790/pexels-photo-14255790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4624252/pexels-photo-4624252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12842870/pexels-photo-12842870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39040678/pexels-photo-39040678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342499/pexels-photo-29342499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27634353/pexels-photo-27634353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40505331/pexels-photo-40505331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12943923/pexels-photo-12943923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38670337/pexels-photo-38670337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5511483/pexels-photo-5511483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14592597/pexels-photo-14592597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7814003/pexels-photo-7814003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40155092/pexels-photo-40155092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37828247/pexels-photo-37828247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "318d814277",
     "kind": "short",
     "channel": "Channel3",
