@@ -1,5 +1,162 @@
 [
   {
+    "id": "ece35e7df8",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman General Who Executed His Own Son",
+    "idea": {
+      "title": "The Roman General Who Executed His Own Son",
+      "hook": "When Titus Manlius's son disobeyed orders to win a desperate battle for Rome, his father didn't reward him—he executed him on the spot.",
+      "beats": [
+        "In 340 BC, Roman consul Titus Manlius strictly banned any unauthorized combat during the Latin War.",
+        "His son, provoked by an enemy champion, broke orders, engaged in single combat, and won a glowing victory.",
+        "Expecting praise, the young officer proudly brought the enemy's bloodied armor to his father's feet.",
+        "Manlius prioritized strict Roman military discipline over blood, ordering his son's immediate public execution.",
+        "This ruthless act shocked all of Rome and created the famous historical term 'Manlian discipline'."
+      ],
+      "keywords": [
+        "ancient Roman general portrait",
+        "Roman military battle painting",
+        "classic oil painting execution",
+        "historical Roman sculpture bust",
+        "ancient Rome battle engraving"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "romanhistory",
+        "historyfacts",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Would you execute your own son for winning a battle?",
+        "search": "Titus Manlius Torquatus executing his son oil painting",
+        "caption": "Executing your son for winning a battle?"
+      },
+      {
+        "narration": "In ancient Rome, victory meant nothing if you broke the commander's orders.",
+        "search": "ancient Roman legion armor oil painting",
+        "caption": "Victory meant nothing without total obedience."
+      },
+      {
+        "narration": "In 340 BC, Roman consul Titus Manlius commanded legions during the Latin War.",
+        "search": "Titus Manlius Torquatus bust statue",
+        "caption": "340 BC: Consul Titus Manlius in the Latin War."
+      },
+      {
+        "narration": "Facing a fierce enemy, Manlius issued a strict decree banning all unauthorized combat.",
+        "search": "ancient Roman military camp engraving",
+        "caption": "Strict ban on unauthorized combat issued."
+      },
+      {
+        "narration": "His own son, leading a cavalry unit, was taunted directly by an enemy champion.",
+        "search": "ancient Roman cavalry battle oil painting",
+        "caption": "Manlius's son provoked by enemy champion."
+      },
+      {
+        "narration": "Driven by honor, the young officer broke orders and engaged the challenger.",
+        "search": "ancient Roman soldiers dueling engraving",
+        "caption": "The son broke orders for a duel."
+      },
+      {
+        "narration": "He slew the enemy leader and proudly carried the bloody armor back to camp.",
+        "search": "ancient Roman soldier holding enemy armor painting",
+        "caption": "Victory achieved, bloody armor brought back."
+      },
+      {
+        "narration": "Instead of praising him, Consul Manlius summoned the entire army to witness his judgment.",
+        "search": "ancient Roman army assembly oil painting",
+        "caption": "Consul Manlius calls full army assembly."
+      },
+      {
+        "narration": "Declaring that broken orders threatened the Republic, Consul Titus Manlius condemned his own victorious son to death in 340 BC.",
+        "search": "titus manlius torquatus sentencing son oil painting",
+        "caption": "Manlius sentenced his own victorious son to death."
+      },
+      {
+        "narration": "Bound to a post before the horrified army, the young hero was publicly beheaded on his father's immediate command.",
+        "search": "roman lictors execution classic oil painting",
+        "caption": "The victorious son was executed before his comrades."
+      },
+      {
+        "narration": "The ruthless act birthed the term Manlian discipline, cementing absolute obedience as the core foundation of Roman power.",
+        "search": "ancient roman consul marble statue bust",
+        "caption": "Manlian discipline became the symbol of absolute Roman authority."
+      },
+      {
+        "narration": "A Roman general once executed his own son for winning.",
+        "search": "roman military battle oil painting",
+        "caption": "Executed for winning a victory."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T02:19:14.403855+00:00",
+    "updated_at": "2026-11-16T02:22:18.754783+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-16T02:20:01.837012+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "422 chars (cat 223 de vua 55s)",
+        "at": "2026-11-16T02:20:23.806262+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.5s en-US-GuyNeural 6 cau",
+        "at": "2026-11-16T02:20:28.078064+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T02:20:28.980208+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-16T02:21:26.199784+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-16T02:21:26.211395+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.5s 17713154 bytes",
+        "at": "2026-11-16T02:22:18.590043+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T02:22:18.754769+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6816536/pexels-photo-6816536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806575/pexels-photo-38806575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25388614/pexels-photo-25388614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31814617/pexels-photo-31814617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4261004/pexels-photo-4261004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36439664/pexels-photo-36439664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37405776/pexels-photo-37405776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049684/pexels-photo-19049684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14737411/pexels-photo-14737411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39196168/pexels-photo-39196168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39083194/pexels-photo-39083194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397763/pexels-photo-16397763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "52c7c8227a",
     "kind": "short",
     "channel": "Channel2",
