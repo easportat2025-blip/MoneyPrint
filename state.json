@@ -1,5 +1,162 @@
 [
   {
+    "id": "24069b35da",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Fearsome Conqueror Killed by His Own Wedding Night",
+    "idea": {
+      "title": "The Fearsome Conqueror Killed by His Own Wedding Night",
+      "hook": "Attila the Hun struck terror into the Roman Empire, yet his terrifying reign ended unexpectedly in his own bed after his wedding feast.",
+      "beats": [
+        "Attila conquered vast territories across Europe and forced Rome to pay immense tribute.",
+        "He married a young noblewoman named Ildico and celebrated with heavy late-night drinking.",
+        "During the night, he suffered a severe nosebleed and tragically suffocated in his sleep.",
+        "His shocked warriors cut their hair and slashed their faces to mourn their king with blood.",
+        "Without his leadership, the vast Hunnic Empire collapsed almost overnight."
+      ],
+      "keywords": [
+        "attila the hun portrait",
+        "ancient warrior painting",
+        "roman empire map",
+        "hunnic empire artwork",
+        "ancient feast engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#attilathehun",
+        "#historyfacts",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "History's deadliest conqueror died on his own wedding night.",
+        "search": "attila the hun portrait painting",
+        "caption": "History's deadliest conqueror died on his wedding night."
+      },
+      {
+        "narration": "In 451 AD, Attila the Hun commanded an empire stretching across Europe, forcing Rome to pay immense gold tributes.",
+        "search": "fifth century roman empire map engraving",
+        "caption": "In 451 AD, Attila forced Rome to pay immense gold tribute."
+      },
+      {
+        "narration": "Roman chroniclers called him the Scourge of God, convinced no army could ever slay him on the battlefield.",
+        "search": "ancient hunnic warrior cavalry oil painting",
+        "caption": "Romans believed no army could defeat him in battle."
+      },
+      {
+        "narration": "In early 453 AD, the aging warlord married a young Gothic noblewoman named Ildico and held a lavish feast.",
+        "search": "ancient royal banquet feast engraving",
+        "caption": "In 453 AD, Attila married the noblewoman Ildico."
+      },
+      {
+        "narration": "Following hours of excessive drinking, Attila retired to his bedchamber while guards remained stationed outside.",
+        "search": "ancient palace bedchamber interior illustration",
+        "caption": "Heavy drinking preceded a quiet, fatal night."
+      },
+      {
+        "narration": "When the morning sun rose, guards forced open the doors to find the fearsome king dead without a wound.",
+        "search": "dead king bedchamber historical painting",
+        "caption": "At dawn, guards found their warlord dead."
+      },
+      {
+        "narration": "Historians believe a sudden nosebleed caused blood to flood his lungs, suffocating the conqueror in his sleep.",
+        "search": "attila the hun deathbed scene painting",
+        "caption": "A severe nosebleed caused him to suffocate asleep."
+      },
+      {
+        "narration": "Grieving Hunnic warriors cut off their hair and slashed their faces to mourn their king with blood.",
+        "search": "ancient barbarian warriors mourning funeral artwork",
+        "caption": "Warriors slashed their faces to mourn with blood."
+      },
+      {
+        "narration": "In 453 AD, servants buried Attila inside triple coffins of gold, silver, and iron, before being executed to keep his tomb's location secret forever.",
+        "search": "ancient hunnic burial engraving",
+        "caption": "Attila was buried in secret triple coffins"
+      },
+      {
+        "narration": "Deprived of his brutal leadership, Attila's sons immediately fought over power, causing the vast Hunnic Empire to disintegrate within years.",
+        "search": "fall of the hunnic empire oil painting",
+        "caption": "Attila's empire collapsed rapidly into civil war"
+      },
+      {
+        "narration": "The formidable ruler who brought Rome to its knees met his end not on the battlefield, but in his own bed on his wedding night.",
+        "search": "attila the hun portrait oil painting",
+        "caption": "Rome's worst terror fell in his own wedding bed"
+      },
+      {
+        "narration": "History's deadliest conqueror was defeated by his own nosebleed.",
+        "search": "attila the hun portrait painting",
+        "caption": "History's deadliest conqueror was defeated by a nosebleed."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T07:49:01.464224+00:00",
+    "updated_at": "2026-11-16T07:52:09.626076+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-16T07:49:55.204077+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "427 chars (cat 213 de vua 55s)",
+        "at": "2026-11-16T07:50:05.789185+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.1s en-US-GuyNeural 6 cau",
+        "at": "2026-11-16T07:50:10.839356+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T07:50:11.674863+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-16T07:51:18.792076+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-16T07:51:18.804794+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 16617395 bytes",
+        "at": "2026-11-16T07:52:09.515214+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T07:52:09.626065+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/9306502/pexels-photo-9306502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110951/pexels-photo-16110951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27163511/pexels-photo-27163511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37757850/pexels-photo-37757850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17609714/pexels-photo-17609714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35003040/pexels-photo-35003040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15172339/pexels-photo-15172339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7317679/pexels-photo-7317679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18416946/pexels-photo-18416946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1589279/pexels-photo-1589279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13834912/pexels-photo-13834912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38914902/pexels-photo-38914902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "dbe1ef9d8a",
     "kind": "short",
     "channel": "Channel3",
