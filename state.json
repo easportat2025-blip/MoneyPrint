@@ -1,5 +1,167 @@
 [
   {
+    "id": "1fc303fee4",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về khoảng cách không gian thực sự giữa bạn và trạm ISS",
+    "idea": {
+      "title": "Sự thật về khoảng cách không gian thực sự giữa bạn và trạm ISS",
+      "hook": "Bạn nghĩ Trạm Vũ trụ Quốc tế ISS đang bay ở một nơi xa xôi ngoài vũ trụ? Thực tế, nó chỉ cách đầu bạn một quãng đường ngắn hơn cả khoảng cách đi từ Hà Nội xuống Hải Phòng.",
+      "beats": [
+        "Giải thích quỹ đạo tầm thấp của ISS (chỉ khoảng 400km trên mực nước biển).",
+        "So sánh khoảng cách này với các chuyến bay thương mại hoặc khoảng cách giữa các thành phố lớn để người xem dễ hình dung.",
+        "Lý do tại sao khoảng cách gần như vậy nhưng các phi hành gia vẫn phải sống trong môi trường không trọng lực khắc nghiệt do tốc độ bay cực lớn.",
+        "Kết luận về ảo tưởng khoảng cách mà chúng ta thường nghĩ về không gian và vệ tinh nhân tạo."
+      ],
+      "keywords": [
+        "space station orbit earth",
+        "iss low earth orbit view",
+        "earth from space rotation",
+        "satellite passing stars",
+        "night earth city lights"
+      ],
+      "tags": [
+        "kienthuc",
+        "vutru",
+        "iss",
+        "khampha",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Trạm ISS chỉ cách bạn bốn trăm kilômét.",
+        "search": "hoat hinh 3d tram vu tru iss quay quanh trai dat",
+        "caption": "ISS chỉ cách bạn 400km"
+      },
+      {
+        "narration": "Khoảng cách này còn ngắn hơn quãng đường lái xe giữa hai thành phố lớn.",
+        "search": "hoat hinh 3d o to chay tren duong cao toc dem",
+        "caption": "Ngắn hơn chuyến lái xe liên tỉnh"
+      },
+      {
+        "narration": "Máy bay thương mại bay ở độ cao mười cây số, nghĩa là ISS chỉ gấp bốn mươi lần độ cao đó.",
+        "search": "hoat hinh 3d may bay thuong mai bay qua dam may",
+        "caption": "Gấp 40 lần độ cao máy bay"
+      },
+      {
+        "narration": "Nếu có đường cao tốc chạy thẳng đứng lên trời, bạn chỉ mất bốn tiếng lái xe để đến nơi.",
+        "search": "hoat hinh 3d xe o to chay tren duong thang dung len troi",
+        "caption": "4 giờ lái xe thẳng lên trời"
+      },
+      {
+        "narration": "Nhưng nếu ở gần như vậy, tại sao các phi hành gia lại lơ lửng không trọng lực?",
+        "search": "hoat hinh 3d phi hanh gia lo lung trong tram vu tru",
+        "caption": "Tại sao có môi trường không trọng lực?"
+      },
+      {
+        "narration": "Thực ra Trái Đất vẫn hút nó, nhưng ISS đang rơi tự do liên tục mà không bao giờ chạm đất.",
+        "search": "hoat hinh 3d qua cai trai dat va trong luc roi tu do",
+        "caption": "ISS đang rơi tự do liên tục"
+      },
+      {
+        "narration": "Nó phải bay với tốc độ hai mươi tám nghìn kilômét một giờ để duy trì quỹ đạo này.",
+        "search": "hoat hinh 3d ve tinh bay cuc nhanh phat sang quanh trai dat",
+        "caption": "Tốc độ 28.000 km/h cực đại"
+      },
+      {
+        "narration": "Vũ trụ không hề xa xôi, nó nằm ngay trên đầu bạn chỉ bằng một quãng đường ngắn.",
+        "search": "hoat hinh 3d nguoi dung tren mai nha nhin len bau troi dem",
+        "caption": "Vũ trụ ngay trên đầu bạn"
+      },
+      {
+        "narration": "Ở độ cao bốn trăm kilômét, trọng lực Trái Đất thực ra vẫn còn tới chín mươi phần trăm.",
+        "search": "hoat hinh 3d qua bong roi do trong luc",
+        "caption": "Trọng lực ở ISS vẫn đạt 90%"
+      },
+      {
+        "narration": "Vậy tại sao các phi hành gia lại có thể bay lơ lửng như không có trọng lực?",
+        "search": "hoat hinh 3d nguoi lo lung trong phong",
+        "caption": "Tại sao phi hành gia vẫn lơ lửng?"
+      },
+      {
+        "narration": "Sự thật là trạm ISS đang liên tục rơi tự do về phía Trái Đất nhưng không bao giờ chạm đất.",
+        "search": "do hoa 3d duong cong quy dao roi tu do",
+        "caption": "Trạm ISS liên tục rơi tự do"
+      },
+      {
+        "narration": "Tốc độ bảy phẩy sáu kilômét mỗi giây giúp nó di chuyển khớp hoàn toàn với độ cong Trái Đất.",
+        "search": "do hoa chuyen dong dong ho toc do so",
+        "caption": "Tốc độ 7,6 km mỗi giây"
+      },
+      {
+        "narration": "Vũ trụ không hề xa xôi, nó nằm ngay gần bạn hơn một chuyến đi liên tỉnh thông thường.",
+        "search": "hoat hinh 3d xe o to chay len troi cao",
+        "caption": "Vũ trụ gần hơn bạn tưởng rất nhiều"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T23:47:33.584191+00:00",
+    "updated_at": "2026-11-16T23:51:00.338447+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-16T23:48:44.714775+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "518 chars",
+        "at": "2026-11-16T23:49:16.098160+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.6s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-16T23:49:49.291269+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T23:49:49.974962+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-16T23:50:20.103412+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-16T23:50:20.111115+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.7s 27987383 bytes",
+        "at": "2026-11-16T23:51:00.199447+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T23:51:00.338438+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/20349219/20349219-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35795013/15175702_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34664171/14693117_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32625861/13912687_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/14618955/14618955-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/39636508/16896761_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38675833/16429023_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/4979587/4979587-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/10349014/10349014-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34388810/14568073_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/9618375/9618375-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7985876/7985876-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/17356514/17356514-hd_1080_1920_50fps.mp4"
+    ]
+  },
+  {
     "id": "d4297cbd49",
     "kind": "long",
     "channel": "seigh",
