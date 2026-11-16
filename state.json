@@ -1,5 +1,167 @@
 [
   {
+    "id": "dbe1ef9d8a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do lướt điện thoại nằm nghiêng trong tối âm thầm hại mắt",
+    "idea": {
+      "title": "Lý do lướt điện thoại nằm nghiêng trong tối âm thầm hại mắt",
+      "hook": "Nhiều người có thói quen nằm nghiêng lướt điện thoại trước khi ngủ, nhưng thói quen này thực ra đang âm thầm khiến một bên mắt của bạn bị mù tạm thời.",
+      "beats": [
+        "Khi nằm nghiêng trong tối, một mắt bị gối che khuất và thích nghi với bóng tối, mắt còn lại nhìn vào màn hình sáng.",
+        "Bộ não bị rơi vào trạng thái nhầm lẫn do nhận hai tín hiệu ánh sáng trái ngược nhau từ hai mắt.",
+        "Khi bạn cất điện thoại, mắt nhìn màn hình sẽ đột ngột bị mù tạm thời trong vài phút vì chưa kịp thích nghi với bóng tối.",
+        "Y khoa gọi đây là hội chứng mù điện thoại tạm thời, kéo dài có thể làm lệch thị lực nghiêm trọng."
+      ],
+      "keywords": [
+        "using phone in bed night",
+        "person lying sideways dark bedroom",
+        "eye close up screen glow",
+        "smartphone addiction sleep",
+        "optical nerve brain animation"
+      ],
+      "tags": [
+        "thói quen xấu",
+        "mẹo dùng điện thoại",
+        "sức khỏe mắt",
+        "giải thích khoa học",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Nằm nghiêng lướt điện thoại có thể gây mù một mắt.",
+        "search": "3d animation nguoi nam nghieng luot dien thoai trong toi",
+        "caption": "Nằm nghiêng lướt điện thoại có thể gây mù một mắt"
+      },
+      {
+        "narration": "Khi bạn nằm nghiêng trong tối, gối thường che khuất hoàn toàn một bên mắt.",
+        "search": "3d animation mat bi che boi goi trong phong toi",
+        "caption": "Một bên mắt bị gối che khuất hoàn toàn"
+      },
+      {
+        "narration": "Mắt bị che sẽ nhanh chóng điều chỉnh để thích nghi với bóng tối tuyệt đối.",
+        "search": "3d animation con mat mo to trong bong toi",
+        "caption": "Mắt bị che phải thích nghi bóng tối"
+      },
+      {
+        "narration": "Trong khi đó, mắt còn lại lại phải nhìn liên tục vào màn hình rực sáng.",
+        "search": "3d animation mat nhin man hinh dien thoai phat sang",
+        "caption": "Mắt còn lại tập trung màn hình rực sáng"
+      },
+      {
+        "narration": "Bộ não lập tức rơi vào bối rối vì nhận hai tín hiệu ánh sáng hoàn toàn trái ngược.",
+        "search": "3d animation nao bo va day than kinh thi giac",
+        "caption": "Bộ não bối rối vì hai tín hiệu trái ngược"
+      },
+      {
+        "narration": "Khi cất điện thoại, mắt nhìn màn hình sẽ đột ngột không thấy gì trong vài phút.",
+        "search": "3d animation man hinh dien thoai tat toi den thui",
+        "caption": "Mắt nhìn màn hình mất thị lực tạm thời"
+      },
+      {
+        "narration": "Y khoa gọi đây là hội chứng mù điện thoại tạm thời do đồng tử chưa kịp thích ứng.",
+        "search": "3d animation mo phong dong tu mat thu nho va gian",
+        "caption": "Hội chứng mù điện thoại tạm thời"
+      },
+      {
+        "narration": "Duy trì thói quen này kéo dài sẽ làm lệch thị lực và tổn hại mắt nghiêm trọng.",
+        "search": "3d animation deo kinh can thi va mat bi lech",
+        "caption": "Gây lệch thị lực và suy giảm thị giác"
+      },
+      {
+        "narration": "Không chỉ mù tạm thời, thói quen này còn khiến một bên mắt phải điều tiết liên tục, dẫn đến lệch độ cận nghiêm trọng.",
+        "search": "hoat hinh 3d con ngươi mat nguoi co giãn anh sang phong toi",
+        "caption": "Gây lệch độ cận nghiêm trọng giữa hai mắt"
+      },
+      {
+        "narration": "Ánh sáng xanh từ màn hình trong bóng tối còn làm khô võng mạc và làm gián đoạn chu kỳ sản xuất melatonin.",
+        "search": "hoat hinh 3d anh sang xanh chieu vao mat nguoi trong dem",
+        "caption": "Ánh sáng xanh tàn phá võng mạc trong tối"
+      },
+      {
+        "narration": "Bộ não phải căng thẳng xử lý hai luồng tín hiệu lệch màu, dễ dẫn đến đau nửa đầu và mất ngủ kéo dài.",
+        "search": "hoat hinh 3d mo hinh nao bo phat sang vi tin hieu qua tai",
+        "caption": "Dễ dẫn đến đau đầu và mất ngủ mạn tính"
+      },
+      {
+        "narration": "Để khắc phục, hãy luôn bật đèn phòng ngủ hoặc giữ điện thoại song song trước cả hai mắt khi sử dụng.",
+        "search": "hoat hinh 3d nguoi ngoi tren giuong luot dien thoai phong sang đèn",
+        "caption": "Nên bật đèn và dùng cả hai mắt"
+      },
+      {
+        "narration": "Bảo vệ đôi mắt ngay từ tối nay bằng cách loại bỏ thói quen nằm nghiêng lướt điện thoại trong bóng tối.",
+        "search": "hoat hinh 3d doi mat sang khoe va dien thoai di dong",
+        "caption": "Bảo vệ thị lực bằng cách đổi thói quen"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T06:57:34.482064+00:00",
+    "updated_at": "2026-11-16T07:01:11.015103+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-16T06:57:55.214029+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "484 chars (cat 115 de vua 55s)",
+        "at": "2026-11-16T07:00:05.190215+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.7s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-16T07:00:20.394378+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T07:00:20.980984+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-16T07:00:33.826557+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-16T07:00:33.833356+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.7s 23944909 bytes",
+        "at": "2026-11-16T07:01:10.891810+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T07:01:11.015097+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819435/8819435-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6091134/6091134-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/32653727/13922593_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/15439743/15439743-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34460607/14601863_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16029652/16029652-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36364613/15422875_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16655802/16655802-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35151200/14891292_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40951805/17513344_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39482787/16818123_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7607761/7607761-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655804/16655804-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "ece35e7df8",
     "kind": "short",
     "channel": "Channel2",
