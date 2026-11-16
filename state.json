@@ -1,5 +1,168 @@
 [
   {
+    "id": "04b236334d",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao tắt Wi-Fi trong Control Center thực ra chưa tắt hẳn?",
+    "idea": {
+      "title": "Tại sao tắt Wi-Fi trong Control Center thực ra chưa tắt hẳn?",
+      "hook": "Bạn tưởng mình đã tắt Wi-Fi để tiết kiệm pin, nhưng Apple đang giấu một sự thật khiến điện thoại vẫn âm thầm quét mạng liên tục.",
+      "beats": [
+        "Khi vuốt Control Center và bấm tắt Wi-Fi, biểu tượng chỉ chuyển sang màu trắng chứ không hề màu xám xịn.",
+        "Điện thoại chỉ ngắt kết nối với Wi-Fi hiện tại, nhưng chip Wi-Fi vẫn âm thầm hoạt động để hỗ trợ AirDrop, định vị và thiết bị phụ kiện.",
+        "Đến 5 giờ sáng hôm sau, hệ thống sẽ tự động bật lại kết nối Wi-Fi mà không cần sự cho phép của bạn.",
+        "Tác hại ẩn: Pin tụt nhanh hơn và điện thoại luôn trong trạng thái sẵn sàng kết nối vào các mạng lạ nguy hiểm.",
+        "Cách duy nhất để tắt triệt để: Bạn phải vào tận ứng dụng Cài đặt (Settings) -> Wi-Fi và gạt tắt hoàn toàn."
+      ],
+      "keywords": [
+        "iphone screen control center",
+        "wifi icon toggle",
+        "smartphone battery drain",
+        "cyber security risk",
+        "person using mobile phone"
+      ],
+      "tags": [
+        "mẹo dùng điện thoại",
+        "thủ thuật iphone",
+        "tiết kiệm pin",
+        "bí mật công nghệ",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tắt Wi-Fi ở Control Center không hề tắt Wi-Fi.",
+        "search": "iphone control center wifi icon toggle 3d animation",
+        "caption": "Tắt Wi-Fi ở Control Center không hề tắt Wi-Fi"
+      },
+      {
+        "narration": "Khi bấm nút tắt, biểu tượng Wi-Fi chỉ chuyển sang màu trắng chứ không hề màu xám.",
+        "search": "mobile phone screen white wifi symbol motion graphics",
+        "caption": "Biểu tượng chuyển màu trắng chứ không phải màu xám"
+      },
+      {
+        "narration": "Điện thoại chỉ vừa ngắt mạng hiện tại, còn chip Wi-Fi bên trong vẫn âm thầm chạy.",
+        "search": "smartphone microchip inside signals animated 3d",
+        "caption": "Chip Wi-Fi vẫn âm thầm hoạt động bên trong"
+      },
+      {
+        "narration": "Nó phải chạy liên tục để hỗ trợ tính năng AirDrop, định vị vị trí và kết nối phụ kiện.",
+        "search": "airdrop location GPS icons phone screen animation",
+        "caption": "Duy trì AirDrop định vị và kết nối phụ kiện"
+      },
+      {
+        "narration": "Đặc biệt đến 5 giờ sáng hôm sau, hệ thống sẽ tự bật lại Wi-Fi mà bạn không hề hay biết.",
+        "search": "digital clock 5 am night to day animation",
+        "caption": "Tự động bật lại Wi-Fi vào 5 giờ sáng"
+      },
+      {
+        "narration": "Việc máy âm thầm dò sóng liên tục trong túi quần sẽ khiến pin tụt nhanh hơn đáng kể.",
+        "search": "smartphone battery draining fast icon 3d render",
+        "caption": "Dò sóng liên tục khiến pin tụt nhanh hơn"
+      },
+      {
+        "narration": "Nguy hiểm nhất là điện thoại luôn trong trạng thái sẵn sàng kết nối vào các mạng Wi-Fi công cộng độc hại.",
+        "search": "cyber security warning wifi signal phone screen animated",
+        "caption": "Nguy cơ tự kết nối vào mạng lạ độc hại"
+      },
+      {
+        "narration": "Cách duy nhất để tắt triệt để là vào Cài đặt, chọn Wi-Fi và gạt tắt công tắc hoàn toàn.",
+        "search": "iphone settings wifi switch toggle off motion graphics",
+        "caption": "Vào Cài đặt gạt tắt công tắc mới triệt để"
+      },
+      {
+        "narration": "Lý do Apple làm vậy là để mạng Find My và AirTag vẫn liên tục cập nhật vị trí máy dù bạn ngắt mạng.",
+        "search": "hoat hoa 3d dien thoai dinh vi gps rada tim kiem",
+        "caption": "Wi-Fi ngầm giúp Apple duy trì định vị Find My"
+      },
+      {
+        "narration": "Nhưng lỗ hổng này khiến điện thoại liên tục phát tín hiệu và dễ bị các thiết bị quét Wi-Fi độc hại thu thập dữ liệu.",
+        "search": "mo hinh 3d hacker tan cong wifi dien thoai bao mat",
+        "caption": "Điện thoại dễ bị thu thập dữ liệu qua Wi-Fi ngầm"
+      },
+      {
+        "narration": "Mẹo nhanh là bạn hãy tạo một Phím tắt tự động trên màn hình chính để tắt triệt để Wi-Fi chỉ sau một lần bấm.",
+        "search": "hoat hoa 3d ngon tay bam icon ung dung phim tat",
+        "caption": "Tạo phím tắt màn hình chính để tắt Wi-Fi một chạm"
+      },
+      {
+        "narration": "Tắt đúng cách khi ra khỏi nhà sẽ giúp bạn duy trì thêm 15% dung lượng pin cho cả ngày dài sử dụng.",
+        "search": "hoat hoa 3d dien thoai tiet kiem pin bieu tuong xanh",
+        "caption": "Tắt Wi-Fi đúng cách tiết kiệm thêm 15% pin mỗi ngày"
+      },
+      {
+        "narration": "Bây giờ hãy thử vuốt ngay màn hình xuống, biểu tượng Wi-Fi của bạn đang có màu xám xịn chưa?",
+        "search": "hoat hoa 3d tay vuot man hinh dien thoai mo control center",
+        "caption": "Thử vuốt màn hình ngay: Wi-Fi bạn màu gì?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T17:45:41.357356+00:00",
+    "updated_at": "2026-11-16T17:50:25.399129+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-16T17:47:45.162549+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "522 chars (cat 103 de vua 55s)",
+        "at": "2026-11-16T17:49:11.482511+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.6s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-16T17:49:23.880525+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T17:49:24.765541+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-16T17:49:40.777997+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-16T17:49:40.787039+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.6s 15382345 bytes",
+        "at": "2026-11-16T17:50:25.284212+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T17:50:25.399115+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8820128/8820128-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6376036/6376036-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/7423951/7423951-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/4546864/4546864-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/31449725/13412012_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34327852/14542587_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/33315143/14188176_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6611951/6611951-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/37465989/15869389_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5377696/5377696-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816905/8816905-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/5473919/5473919-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8819925/8819925-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "dd4bf2efe1",
     "kind": "short",
     "channel": "Channel3",
