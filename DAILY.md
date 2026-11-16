@@ -1,4 +1,4 @@
-# Daily ping 15/11/2026
+# Daily ping 16/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,11 +9,11 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (2)
-- Lý do bật Chế độ tối ban ngày đang âm thầm làm mỏi mắt  :: token refresh failed: 400 {
+- Lý do lướt điện thoại nằm nghiêng trong tối âm thầm hại :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Empress Who Sacrificed Her Baby for Power :: token refresh failed: 400 {
+- The Roman General Who Executed His Own Son :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
