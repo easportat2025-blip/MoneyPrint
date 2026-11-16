@@ -1,5 +1,167 @@
 [
   {
+    "id": "318d814277",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao để điện thoại sập nguồn 0% đang âm thầm tàn phá pin?",
+    "idea": {
+      "title": "Tại sao để điện thoại sập nguồn 0% đang âm thầm tàn phá pin?",
+      "hook": "Nhiều người nghĩ dùng kiệt 0% rồi sạc mới tốt cho pin, nhưng thực ra thói quen này đang âm thầm rút ngắn tuổi thọ điện thoại của bạn gấp đôi.",
+      "beats": [
+        "Pin Lithium-ion hiện đại hoạt động theo chu kỳ điện thế chứ không có hiệu ứng nhớ như các loại pin thế hệ cũ.",
+        "Khi dung lượng giảm xuống dưới 20%, điện thế giảm mạnh gây áp lực hóa học cực lớn lên cell pin.",
+        "Việc để máy sập nguồn 0% liên tục khiến pin bị chai nhanh gấp 3 lần so với việc duy trì sạc sơm.",
+        "Mức pin lý tưởng nhất để bảo vệ linh kiện thiết bị luôn là duy trì trong khoảng 30% đến 80%."
+      ],
+      "keywords": [
+        "smartphone low battery",
+        "lithium ion battery graphic",
+        "charging phone cable close up",
+        "phone battery percentage",
+        "technology inner mechanism"
+      ],
+      "tags": [
+        "congnghe",
+        "meodienthoai",
+        "pin smartphone",
+        "chamsocpin",
+        "meohay"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Để điện thoại cạn 0% khiến pin hỏng nhanh gấp đôi.",
+        "search": "mo hinh 3d dien thoai sap nguon bieu tuong pin do",
+        "caption": "Dùng kiệt 0% làm pin hỏng nhanh gấp đôi"
+      },
+      {
+        "narration": "Nhiều người vẫn tin dùng cạn sạch rồi mới sạc là tốt nhất.",
+        "search": "hoat hoa 3d nguoi dung cam day sac dien thoai",
+        "caption": "Lầm tưởng phổ biến khi dùng cạn pin"
+      },
+      {
+        "narration": "Thói quen này chỉ đúng với công nghệ pin nickel thế hệ cũ.",
+        "search": "do hoa 3d dien thoai nut bam cu va cuc pin niken",
+        "caption": "Quy tắc cũ dành cho pin niken thế hệ trước"
+      },
+      {
+        "narration": "Smartphone hiện đại dùng pin Lithium-ion với cơ chế hoàn toàn khác.",
+        "search": "mo hinh 3d cau tao pin lithium ion ben trong dien thoai",
+        "caption": "Pin Lithium-ion hiện đại hoạt động theo cơ chế mới"
+      },
+      {
+        "narration": "Khi dung lượng rớt xuống dưới 20%, điện thế bắt đầu tụt giảm mạnh.",
+        "search": "hoat hoa 3d bieu do dien the pin giam duoi 20 percent",
+        "caption": "Điện thế giảm mạnh khi pin dưới 20%"
+      },
+      {
+        "narration": "Mức điện thế quá thấp này gây áp lực hóa học cực lớn lên cell pin.",
+        "search": "do hoa 3d mo phong phan ung hoa hoc ben trong cell pin",
+        "caption": "Áp lực hóa học tàn phá cell pin"
+      },
+      {
+        "narration": "Việc sập nguồn 0% liên tục làm pin bị chai nhanh gấp 3 lần.",
+        "search": "hoat hoa 3d bieu tuong phan tram pin dien thoai tut nhanh",
+        "caption": "Sập nguồn làm pin chai nhanh gấp 3 lần"
+      },
+      {
+        "narration": "Hãy luôn duy trì mức pin từ 30% đến 80% để thiết bị bền nhất.",
+        "search": "mo hinh 3d dien thoai hien muc pin ly tuong 30 den 80 percent",
+        "caption": "Duy trì pin từ 30% đến 80% để tối ưu tuổi thọ"
+      },
+      {
+        "narration": "Rất nhiều người nghĩ dùng cạn về 0% mới tốt, nhưng thói quen này đang âm thầm làm giảm một nửa tuổi thọ pin.",
+        "search": "hoat hinh 3d dien thoai sap nguon man hinh den",
+        "caption": "Thói quen dùng cạn 0% tàn phá pin gấp đôi"
+      },
+      {
+        "narration": "Pin Lithium-ion hiện đại hoạt động dựa trên các chu kỳ điện thế chứ không có hiệu ứng nhớ như dòng pin cũ.",
+        "search": "3d animation mo phong cau tao pin lithium ion",
+        "caption": "Pin lithium ion không có hiệu ứng nhớ"
+      },
+      {
+        "narration": "Khi dung lượng xuống dưới 20%, điện thế sụt giảm mạnh tạo ra áp lực hóa học cực lớn lên các cell pin.",
+        "search": "motion graphics dien thoai bao pin do 15 phan tram",
+        "caption": "Dưới 20% điện thế giảm gây áp lực hóa học"
+      },
+      {
+        "narration": "Việc để máy sập nguồn 0% liên tục sẽ làm pin chai nhanh gấp 3 lần so với thói quen cắm sạc sớm.",
+        "search": "3d animation bieu do pin dien thoai bi sut giam",
+        "caption": "Sập nguồn 0% làm chai pin nhanh gấp 3 lần"
+      },
+      {
+        "narration": "Khoảng dung lượng lý tưởng nhất để bảo vệ linh kiện và giúp pin bền nhất là luôn duy trì từ 30% đến 80%.",
+        "search": "3d animation dien thoai muc pin 80 phan tram mau xanh",
+        "caption": "Duy trì pin 30% đến 80% để tối ưu tuổi thọ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T22:40:02.271828+00:00",
+    "updated_at": "2026-11-16T22:42:20.320953+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-16T22:40:31.044182+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "483 chars (cat 137 de vua 55s)",
+        "at": "2026-11-16T22:40:43.065790+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.4s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-16T22:41:06.480074+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T22:41:07.280270+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-16T22:41:26.426937+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-16T22:41:26.436968+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.4s 26412126 bytes",
+        "at": "2026-11-16T22:42:20.180249+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T22:42:20.320945+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7236022/7236022-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40118839/17128940_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283131/15283131-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7431513/7431513-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/35295313/14954421_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/25935017/11921986_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8828850/8828850-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/4841217/4841217-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7985888/7985888-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/38522488/16360143_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/28646608/12441653_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15989684/15989684-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15989686/15989686-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "04b236334d",
     "kind": "short",
     "channel": "Channel3",
