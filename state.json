@@ -1,5 +1,161 @@
 [
   {
+    "id": "02e5b6f3a9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Destroyed Rome’s Economy",
+    "idea": {
+      "title": "The Roman Emperor Who Destroyed Rome’s Economy",
+      "hook": "In 192 AD, Roman Emperor Commodus secretly debased Rome's currency, triggering a catastrophic economic disaster that shattered the empire from within.",
+      "beats": [
+        "Commodus drained the Roman treasury on lavish gladiator games and personal luxury.",
+        "To pay his growing debts, he reduced the silver content of the Denarius coin by 12 percent.",
+        "Merchants quickly realized the coins were worth far less, causing runaway inflation across the empire.",
+        "This single desperate decision crippled Roman trade for decades, sparking a crisis no one foresaw."
+      ],
+      "keywords": [
+        "Commodus Roman Emperor portrait",
+        "Ancient Roman silver denarius coin",
+        "Roman empire map vintage",
+        "Gladiator colosseum engraving",
+        "Ancient Rome ruin artwork"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#commodus",
+        "#romanempire",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One single emperor destroyed ancient Rome's economy in 192 AD.",
+        "search": "Commodus bust statue marble sculpture museum",
+        "caption": "One emperor destroyed Rome's entire economy in 192 AD"
+      },
+      {
+        "narration": "Emperor Commodus inherited a wealthy empire, but his obsession with gladiator games drained the treasury.",
+        "search": "Gladiator fighting colosseum ancient engraving illustration",
+        "caption": "Commodus drained the treasury on lavish gladiator games"
+      },
+      {
+        "narration": "By 192 AD, imperial debt mounted, leaving Rome unable to pay its legions.",
+        "search": "Ancient Roman empire map vintage engraving",
+        "caption": "Mounting debts threatened to collapse imperial trade"
+      },
+      {
+        "narration": "Desperate for money, Commodus ordered the secret alteration of imperial silver coinage.",
+        "search": "Ancient Roman minting coins workshop manuscript illustration",
+        "caption": "A secret order altered Rome's official currency"
+      },
+      {
+        "narration": "He reduced the silver purity of the Denarius by twelve percent, adding cheap copper.",
+        "search": "Ancient Roman silver denarius coin silver macro photo",
+        "caption": "The Denarius lost twelve percent of its silver purity"
+      },
+      {
+        "narration": "Merchants across the empire quickly realized the coins were debased and raised their prices.",
+        "search": "Ancient Roman marketplace merchants oil painting",
+        "caption": "Merchants refused to accept the debased silver coins"
+      },
+      {
+        "narration": "Runaway inflation erupted across the empire, wiping out the savings of ordinary citizens.",
+        "search": "Ancient Rome ruin artwork oil painting",
+        "caption": "Runaway inflation devastated everyday Roman citizens"
+      },
+      {
+        "narration": "This single desperate decision crippled Roman trade networks for decades to come.",
+        "search": "Ancient Roman forum ruins artwork oil painting",
+        "caption": "A single decision shattered Roman trade for decades"
+      },
+      {
+        "narration": "When Commodus was assassinated in December 192 AD, the monetary ruin was already irreversible. Subsequent emperors copied his desperation, stripping the denarius of almost all silver content over the next century.",
+        "search": "Commodus bust statue Roman marble portrait",
+        "caption": "Commodus was assassinated in 192 AD, leaving irreversible economic damage."
+      },
+      {
+        "narration": "By 235 AD, hyperinflation crippled military payrolls, plunging Rome into fifty years of catastrophic civil war known as the Crisis of the Third Century.",
+        "search": "Roman military battle ancient engraving artwork",
+        "caption": "Currency collapse fueled fifty years of devastating Roman civil war."
+      },
+      {
+        "narration": "Commodus's twelve percent silver debasement proved that when a ruler destroys public trust in currency, the economic foundation of an empire never recovers.",
+        "search": "Ancient Roman silver denarius coin detail illustration",
+        "caption": "One emperor's greed shattered Rome's financial trust forever."
+      },
+      {
+        "narration": "One single emperor destroyed Rome's entire economy in 192 AD.",
+        "search": "Commodus marble bust statue portrait close up",
+        "caption": "One emperor destroyed Rome's entire economy in 192 AD."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-16T11:51:52.855399+00:00",
+    "updated_at": "2026-11-16T11:54:10.834296+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-16T11:52:26.877819+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "416 chars (cat 160 de vua 55s)",
+        "at": "2026-11-16T11:52:44.439670+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-16T11:52:50.154212+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-16T11:52:50.879052+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-16T11:53:28.963145+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-16T11:53:28.973602+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.4s 16520464 bytes",
+        "at": "2026-11-16T11:54:10.701607+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-16T11:54:10.834287+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15253810/pexels-photo-15253810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876913/pexels-photo-35876913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28903455/pexels-photo-28903455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38598945/pexels-photo-38598945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7111600/pexels-photo-7111600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28201700/pexels-photo-28201700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30204962/pexels-photo-30204962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38041900/pexels-photo-38041900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31466235/pexels-photo-31466235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125800/pexels-photo-38125800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38598949/pexels-photo-38598949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "24069b35da",
     "kind": "short",
     "channel": "Channel2",
