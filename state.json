@@ -1,5 +1,161 @@
 [
   {
+    "id": "5c80731116",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Drank Liquid Gold to Punish Her Killer",
+    "idea": {
+      "title": "The Queen Who Drank Liquid Gold to Punish Her Killer",
+      "hook": "Boudicca swallowed a deadly poison instead of surrendering, leaving her Roman enemies utterly cheated.",
+      "beats": [
+        "Queen Boudicca united British tribes and slaughtered 70,000 Romans, nearly driving them out of Britain.",
+        "Cornered at the final battle by Suetonius, she refused to face the humiliation of a Roman prison chain.",
+        "According to ancient accounts, she chose a swift, lethal poison, ensuring her captors could never parade her through Rome.",
+        "Her exact burial site remains an unsolved archaeological mystery to this day."
+      ],
+      "keywords": [
+        "ancient celtic queen",
+        "roman legion battle",
+        "historical portrait painting",
+        "ancient map parchment",
+        "vintage engraving art"
+      ],
+      "tags": [
+        "history",
+        "shorts",
+        "boudicca",
+        "ancientrome",
+        "historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 60 AD, British Queen Boudicca chose death over Roman chains.",
+        "search": "Boudicca statue London vintage engraving art",
+        "caption": "The Queen who cheated Rome."
+      },
+      {
+        "narration": "She united Celtic tribes and slaughtered 70,000 Romans, nearly expelling the empire from Britain.",
+        "search": "ancient celtic queen oil painting",
+        "caption": "Rebellion shakes the empire."
+      },
+      {
+        "narration": "Cornered at the final battle by Roman governor Suetonius, her vast tribal army was overwhelmed.",
+        "search": "roman legion battle historical portrait painting",
+        "caption": "The final bloody stand."
+      },
+      {
+        "narration": "Refusing the ultimate humiliation of being paraded through Rome in chains, she made a fatal choice.",
+        "search": "ancient map parchment illustration",
+        "caption": "No surrender to Rome."
+      },
+      {
+        "narration": "According to ancient accounts, she drank a deadly poison to cheat her enemies of victory.",
+        "search": "roman poison chalice vintage engraving art",
+        "caption": "The final lethal draft."
+      },
+      {
+        "narration": "Her captors were left with an empty victory and a vanished body.",
+        "search": "empty ancient battlefield oil painting",
+        "caption": "A ghost left behind."
+      },
+      {
+        "narration": "To this day, her exact burial site remains an unsolved archaeological mystery.",
+        "search": "mysterious ancient stone circle photography",
+        "caption": "A lost resting place."
+      },
+      {
+        "narration": "Her defiance sent shockwaves through the Roman Senate that echoed for centuries.",
+        "search": "ancient roman senate oil painting",
+        "caption": "Defiance that shook Rome."
+      },
+      {
+        "narration": "In 60 AD, cornered by general Suetonius at the final battle, the Iceni queen faced capture.",
+        "search": "roman legion battle vintage engraving art",
+        "caption": "Trapped by Roman legions in 60 AD."
+      },
+      {
+        "narration": "Instead of facing the humiliation of a Roman prison chain, she chose a swift, lethal poison.",
+        "search": "ancient celtic queen historical portrait painting",
+        "caption": "Choosing poison over Roman chains."
+      },
+      {
+        "narration": "By swallowing the deadly draught, she cheated her enemies of their greatest trophy and secured her immortal defiance.",
+        "search": "ancient map parchment of britain",
+        "caption": "Cheating her captors of ultimate victory."
+      },
+      {
+        "narration": "Why did the fierce Celtic queen drink lethal poison instead of surrendering?",
+        "search": "ancient celtic queen oil painting",
+        "caption": "The queen who cheated her Roman captors"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T23:55:57.039092+00:00",
+    "updated_at": "2026-11-17T23:59:40.912566+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T23:57:05.470513+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "421 chars (cat 115 de vua 55s)",
+        "at": "2026-11-17T23:57:37.262265+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.0s en-US-GuyNeural 6 cau",
+        "at": "2026-11-17T23:57:41.412397+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T23:57:42.017219+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T23:59:06.779518+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T23:59:06.789472+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.0s 15343377 bytes",
+        "at": "2026-11-17T23:59:40.722406+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T23:59:40.912549+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38108069/pexels-photo-38108069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40627830/pexels-photo-40627830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18039122/pexels-photo-18039122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18799892/pexels-photo-18799892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35226350/pexels-photo-35226350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24508945/pexels-photo-24508945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15224459/pexels-photo-15224459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422683/pexels-photo-20422683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35552016/pexels-photo-35552016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29426270/pexels-photo-29426270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8957699/pexels-photo-8957699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037019/pexels-photo-16037019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1cb2dc8a39",
     "kind": "short",
     "channel": "Channel3",
