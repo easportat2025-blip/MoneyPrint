@@ -1,5 +1,167 @@
 [
   {
+    "id": "1aea04242e",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do vũ trụ lại có mùi giống như thịt nướng bị cháy?",
+    "idea": {
+      "title": "Lý do vũ trụ lại có mùi giống như thịt nướng bị cháy?",
+      "hook": "Các phi hành gia vừa từ ngoài không gian trở về luôn ngửi thấy một mùi hương kỳ lạ mà không ai ngờ tới.",
+      "beats": [
+        "Trụ sở NASA ghi nhận nhiều phi hành gia sau khi đi ra ngoài không gian mở nón bảo hiểm ra đều ngửi thấy mùi khét.",
+        "Mùi hương này được mô tả giống như thịt nướng cháy, kim loại nóng chảy hoặc khói hàn điện.",
+        "Nguyên nhân thực sự là do các hạt oxy đơn phân tử bám vào bộ đồ không gian kết hợp với oxy bên trong trạm ISS.",
+        "Phản ứng oxy hóa nhanh này tạo ra hợp chất PAHs – chính là hợp chất tạo nên mùi thịt nướng trên Trái Đất."
+      ],
+      "keywords": [
+        "astronaut spacewalk",
+        "international space station",
+        "earth orbit universe",
+        "chemical reaction smoke",
+        "nebula cosmic space"
+      ],
+      "tags": [
+        "#vutu",
+        "#khonggian",
+        "#khoahoc",
+        "#khampha",
+        "#factsthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao đồ vật trong nhà bỗng có mùi khét lẹt dù không nấu nướng?",
+        "search": "3d animationnguoi ngui do vat trong phong",
+        "caption": "Mùi khét lạ trong nhà xuất phát từ đâu?"
+      },
+      {
+        "narration": "Nhiều người ngửi thấy mùi thịt nướng cháy thoang thoảng ngay trong phòng ngủ kín gió.",
+        "search": "cartoony 3dnguoi nam tren giuong ngui mui la",
+        "caption": "Mùi thịt nướng xuất hiện trong phòng ngủ"
+      },
+      {
+        "narration": "Mùi hương kỳ lạ này giống hệt như khói hàn điện hay kim loại bị nung chảy.",
+        "search": "motion graphicskhuon mat ngac nhien ngui mui khoi",
+        "caption": "Giống hệt mùi kim loại và khói hàn"
+      },
+      {
+        "narration": "Nguyên nhân thực sự nằm ở các thiết bị điện tử hoạt động quá tải hàng ngày.",
+        "search": "explainer animationo dien chap dien boc mui",
+        "caption": "Thiết bị điện tử quá tải tạo mùi"
+      },
+      {
+        "narration": "Bụi mịn bám vào mạch điện khi gặp nhiệt độ cao sẽ tạo ra phản ứng hóa học đặc biệt.",
+        "search": "isometric renderhat bui bam vao mach dien",
+        "caption": "Bụi mịn và nhiệt độ cao sinh phản ứng"
+      },
+      {
+        "narration": "Phản ứng oxy hóa nhanh này sản sinh ra hợp chất PAHs quen thuộc trong nhà bếp.",
+        "search": "3d animationphuong trinh hoa hoc bốc khoi",
+        "caption": "Tạo ra hợp chất hóa học đặc trưng"
+      },
+      {
+        "narration": "Đây chính là hợp chất tạo nên mùi thơm khi chúng ta nướng thịt trên bếp than.",
+        "search": "cartoony 3dvi tri nướng thit tren bep",
+        "caption": "Hợp chất giống hệt mùi thịt nướng"
+      },
+      {
+        "narration": "Lớp bụi lâu ngày trên quạt hoặc lò vi sóng chính là thủ phạm gây ra hiện tượng này.",
+        "search": "motion graphicsve sinh quạt dien co bui ban",
+        "caption": "Lớp bụi trên đồ gia dụng là thủ phạm"
+      },
+      {
+        "narration": "Nhiệt độ quá cao từ thiết bị điện gia dụng khiến các phân tử bám vào bề mặt biến chất.",
+        "search": "3d animation electric fan dust burning smell close up",
+        "caption": "Nhiệt độ cao làm phân tử biến chất"
+      },
+      {
+        "narration": "Khi chúng ta bật quạt hoặc lò sưởi, luồng gió thổi các hợp chất này trực tiếp vào khứu giác.",
+        "search": "motion graphics heat wave blowing dust particles from heater",
+        "caption": "Luồng gió thổi hợp chất vào khứu giác"
+      },
+      {
+        "narration": "Bộ não lập tức liên kết mùi khét này với món thịt nướng quen thuộc trong bếp.",
+        "search": "isometric render human brain smelling food cooking animation",
+        "caption": "Não bộ liên tưởng đến thịt nướng"
+      },
+      {
+        "narration": "Hóa ra, mùi hương của không gian xa xôi lại trùng hợp kỳ lạ với bữa ăn hàng ngày của bạn.",
+        "search": "explainer animation person smelling grilled meat at home",
+        "caption": "Trùng hợp kỳ lạ với bữa ăn"
+      },
+      {
+        "narration": "Đó là do cùng một phản ứng hóa học tạo ra PAHs ở cả vũ trụ lẫn chiếc bếp nhà bạn.",
+        "search": "cartoony 3d chemical reaction molecules floating in kitchen",
+        "caption": "Cùng một phản ứng hóa học tạo ra PAHs"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T14:00:26.805886+00:00",
+    "updated_at": "2026-11-17T14:04:42.199902+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-17T14:01:49.702606+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "513 chars (cat 315 de vua 55s)",
+        "at": "2026-11-17T14:02:52.665083+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.7s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-17T14:03:14.459702+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T14:03:15.384797+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-17T14:03:32.258005+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-17T14:03:32.272596+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.8s 15150026 bytes",
+        "at": "2026-11-17T14:04:31.099825+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T14:04:42.199892+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7296321/7296321-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/31445287/13411106_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8053315/8053315-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/40373859/17251452_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/5874558/5874558-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/8326764/8326764-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/28935367/12522112_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/40316891/17222101_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/9667863/9667863-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35790734/15173916_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/5974756/5974756-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/39895882/17018540_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8325962/8325962-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "9fc4c52156",
     "kind": "short",
     "channel": "Channel2",
