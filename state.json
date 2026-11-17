@@ -1,5 +1,160 @@
 [
   {
+    "id": "9fc4c52156",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Pope Who Forgot He Owned Rome",
+    "idea": {
+      "title": "The Pope Who Forgot He Owned Rome",
+      "hook": "Năm 1305, một vị Giáo hoàng đã phạm sai lầm lớn nhất lịch sử Vatican: trao toàn bộ tài sản và quyền lực cho kẻ thù lớn nhất của mình chỉ vì một lời thề.",
+      "beats": [
+        "Giới thiệu Giáo hoàng Benedict XI và áp lực chính trị khổng lồ từ vua nước Pháp Philippe IV.",
+        "Quyết định nhượng bộ định mệnh dẫn đến việc chuyển Tòa thánh sang Avignon.",
+        "Hậu quả: Nhà thờ Công giáo mất hoàn toàn quyền kiểm soát Rome suốt gần 70 năm và chìm trong khủng hoảng."
+      ],
+      "keywords": [
+        "medieval pope portrait",
+        "vatican painting art",
+        "king philip iv france",
+        "avignon papacy history",
+        "historic manuscript page"
+      ],
+      "tags": [
+        "history",
+        "vatican",
+        "middleages",
+        "documentary",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1305, a Pope accidentally gave away Rome itself.",
+        "search": "medieval pope portrait oil painting",
+        "caption": "The Pope who forgot he owned Rome."
+      },
+      {
+        "narration": "Pope Benedict XI faced crushing political pressure from King Philip IV of France.",
+        "search": "king philip iv france medieval manuscript page",
+        "caption": "Crushed by the French Crown."
+      },
+      {
+        "narration": "Tensions in Rome reached a violent breaking point in July 1304.",
+        "search": "historic manuscript page roman riot 1304",
+        "caption": "Rome in absolute chaos."
+      },
+      {
+        "narration": "Benedict made a fatal concession to appease the French monarch.",
+        "search": "vatican painting art papal decree 1305",
+        "caption": "A fatal political concession."
+      },
+      {
+        "narration": "The Papal seat was permanently uprooted and moved to Avignon.",
+        "search": "avignon papacy history palace painting",
+        "caption": "The move to Avignon."
+      },
+      {
+        "narration": "For nearly seventy years, the Vatican lost complete control of Rome.",
+        "search": "medieval rome ruins oil painting",
+        "caption": "Rome abandoned for 70 years."
+      },
+      {
+        "narration": "The Church plunged into deep financial and political crisis.",
+        "search": "medieval church corruption oil painting",
+        "caption": "The Church in deep crisis."
+      },
+      {
+        "narration": "Roman citizens watched their sacred authority vanish across the Alps.",
+        "search": "old map of europe 14th century engraving",
+        "caption": "Authority vanished across the Alps."
+      },
+      {
+        "narration": "For nearly seventy years, seven consecutive French popes ruled entirely under the thumb of Paris.",
+        "search": "avignon papacy oil painting",
+        "caption": "Seven French popes ruled under the thumb of Paris."
+      },
+      {
+        "narration": "Rome deteriorated into a lawless ruin while Vatican treasuries emptied in foreign lands.",
+        "search": "medieval roman ruin engraving",
+        "caption": "Rome deteriorated into a lawless ruin."
+      },
+      {
+        "narration": "Only in 1377 did Gregory XI finally bring the papacy back, ending the catastrophic exile.",
+        "search": "pope gregory xi portrait painting",
+        "caption": "Gregory XI finally ended the catastrophic exile."
+      },
+      {
+        "narration": "In 1305, a pope accidentally gave away Rome.",
+        "search": "medieval pope portrait oil painting",
+        "caption": "The Pope Who Forgot He Owned Rome"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T12:15:17.692397+00:00",
+    "updated_at": "2026-11-17T12:23:34.543023+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T12:20:31.587561+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "402 chars (cat 48 de vua 55s)",
+        "at": "2026-11-17T12:21:05.514768+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.3s en-US-GuyNeural 6 cau",
+        "at": "2026-11-17T12:21:08.041663+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T12:21:08.697546+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T12:22:57.944848+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T12:22:57.955411+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.4s 16992155 bytes",
+        "at": "2026-11-17T12:23:34.426621+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T12:23:34.543012+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38148711/pexels-photo-38148711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18062017/pexels-photo-18062017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20590670/pexels-photo-20590670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319300/pexels-photo-29319300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15320601/pexels-photo-15320601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11659529/pexels-photo-11659529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13320326/pexels-photo-13320326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22775408/pexels-photo-22775408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13986765/pexels-photo-13986765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14299577/pexels-photo-14299577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7478566/pexels-photo-7478566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28919755/pexels-photo-28919755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "54b9222283",
     "kind": "short",
     "channel": "Channel2",
