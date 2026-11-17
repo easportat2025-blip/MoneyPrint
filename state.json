@@ -1,5 +1,161 @@
 [
   {
+    "id": "54b9222283",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Swallowed A Poisonous Fortune",
+    "idea": {
+      "title": "The Queen Who Swallowed A Poisonous Fortune",
+      "hook": "Cleopatra made a staggering bet with Mark Antony that she could host the most expensive dinner in history—and then she dissolved a priceless pearl in vinegar and drank it.",
+      "beats": [
+        "Antony challenges Cleopatra to spend a king's ransom on a single meal, doubting her extravagant claims.",
+        "Servants bring in a vessel of strong vinegar, placing the giant, priceless pearl earring inside it.",
+        "The pearl dissolves completely into the liquid, proving her unimaginable wealth and shock value.",
+        "She drinks the entire mixture, winning the legendary wager instantly while leaving Rome speechless."
+      ],
+      "keywords": [
+        "cleopatra portrait",
+        "ancient roman banquet",
+        "historical painting queen",
+        "ancient egypt artifact",
+        "mark antony bust"
+      ],
+      "tags": [
+        "history",
+        "cleopatra",
+        "ancientrome",
+        "historyshorts",
+        "storytime"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Could a single queen devour a king's ransom at dinner?",
+        "search": "cleopatra portrait painting",
+        "caption": "Could one meal cost a king's ransom?"
+      },
+      {
+        "narration": "In 41 BC, Queen Cleopatra of Egypt hosted a legendary banquet for the Roman triumvir Mark Antony.",
+        "search": "ancient roman banquet oil painting",
+        "caption": "Alexandria, 41 BC"
+      },
+      {
+        "narration": "Mark Antony challenged her to spend an unimaginable fortune on a single meal.",
+        "search": "mark antony bust statue",
+        "caption": "Antony's impossible wager"
+      },
+      {
+        "narration": "Cleopatra accepted, demanding a vessel filled with nothing but strong vinegar be brought to the table.",
+        "search": "ancient egypt artifact bronze vessel",
+        "caption": "The vinegar vessel"
+      },
+      {
+        "narration": "She wore two of the largest pearls in history as earrings, valued at millions of sesterces.",
+        "search": "roman queen jewelry fresco fragment",
+        "caption": "Priceless pearl earrings"
+      },
+      {
+        "narration": "Servants removed one massive pearl and dropped it straight into the acidic liquid.",
+        "search": "classical antiquity silver chalice engraving",
+        "caption": "Dropping the priceless pearl"
+      },
+      {
+        "narration": "The calcium carbonate slowly dissolved completely into the bubbling vinegar before the astonished Roman guests.",
+        "search": "alchemical laboratory manuscript illumination",
+        "caption": "Dissolving a fortune"
+      },
+      {
+        "narration": "Without hesitation, the queen drank the entire concoction, instantly winning the impossible wager.",
+        "search": "historical painting queen drinking goblet",
+        "caption": "Drinking a fortune"
+      },
+      {
+        "narration": "In 41 BC at Alexandria, this reckless gamble cemented Cleopatra's supreme political dominance over the triumvirate.",
+        "search": "ancient egyptian artifact museum display",
+        "caption": "A political power play disguised as extravagance."
+      },
+      {
+        "narration": "The Roman historian Pliny the Elder later recorded this staggering act of wealth in his encyclopedic texts.",
+        "search": "ancient roman manuscript page illustration",
+        "caption": "Documented by ancient historians in Rome."
+      },
+      {
+        "narration": "Cleopatra won her legendary bet with Mark Antony, proving her unmatched supremacy over the ancient world.",
+        "search": "cleopatra portrait oil painting",
+        "caption": "The queen who swallowed a fortune."
+      },
+      {
+        "narration": "Cleopatra bet Mark Antony she could host history's most expensive meal.",
+        "search": "cleopatra portrait painting",
+        "caption": "Cleopatra's ultimate luxury wager."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T08:58:11.152587+00:00",
+    "updated_at": "2026-11-17T09:02:35.286344+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T08:59:32.094247+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "364 chars (cat 300 de vua 55s)",
+        "at": "2026-11-17T09:00:22.315690+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.5s en-US-GuyNeural 4 cau",
+        "at": "2026-11-17T09:00:25.984088+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T09:00:26.564574+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T09:02:03.211670+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T09:02:03.222894+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.5s 13118122 bytes",
+        "at": "2026-11-17T09:02:35.193410+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T09:02:35.286333+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20775514/pexels-photo-20775514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709014/pexels-photo-35709014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29422654/pexels-photo-29422654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9160292/pexels-photo-9160292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3741023/pexels-photo-3741023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9242460/pexels-photo-9242460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35481062/pexels-photo-35481062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4258561/pexels-photo-4258561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38709312/pexels-photo-38709312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29182968/pexels-photo-29182968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10264834/pexels-photo-10264834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14574264/pexels-photo-14574264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "86ef3b9f93",
     "kind": "short",
     "channel": "Channel3",
