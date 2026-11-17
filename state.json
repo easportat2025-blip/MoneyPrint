@@ -1,5 +1,162 @@
 [
   {
+    "id": "e6e5475c1e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Smothered Guests With Flowers",
+    "idea": {
+      "title": "The Roman Emperor Who Smothered Guests With Flowers",
+      "hook": "Emperor Elagabalus invited Rome’s elite to a lavish feast, only to release a mountain of rose petals that suffocated his guests alive.",
+      "beats": [
+        "Elagabalus, the eccentric teenage emperor, hosted a grand banquet in a gilded hall.",
+        "A hidden trapdoor in the ceiling released tons of heavy rose petals onto the dining tables.",
+        "The trapped aristocrats were quickly covered beneath the thick, inescapable layer of blossoms.",
+        "Unable to clear space to breathe, several guests choked to death while the emperor watched.",
+        "Rome's elite fell victim to the ultimate symbol of twisted luxury and dark imperial irony."
+      ],
+      "keywords": [
+        "roman emperor portrait",
+        "ancient banquet painting",
+        "rose petals falling",
+        "golden palace drawing",
+        "ancient rome history"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historyfacts",
+        "#elagabalus",
+        "#romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 220 AD, rose petals became a deadly Roman weapon.",
+        "search": "the roses of elagabalus oil painting",
+        "caption": "Death by rose petals in ancient Rome."
+      },
+      {
+        "narration": "Emperor Elagabalus ruled Rome from 218 to 222 AD, earning a reputation for catastrophic extravagance and terror.",
+        "search": "elagabalus roman emperor marble bust statue",
+        "caption": "Emperor Elagabalus ruled Rome from 218 to 222 AD."
+      },
+      {
+        "narration": "Inside his gilded palace banquet hall, Rome's wealthiest senators gathered for what seemed like a celebration of imperial favor.",
+        "search": "ancient roman banquet oil painting",
+        "caption": "Rome's senators gathered inside the gilded banquet hall."
+      },
+      {
+        "narration": "Reclining on silk couches, guests drank wine while false ceilings concealed massive loads directly above their heads.",
+        "search": "ancient roman palace interior architectural engraving",
+        "caption": "Reversing luxury into a trap above the dining tables."
+      },
+      {
+        "narration": "At Elagabalus's signal, hidden trapdoors opened, unleashing a torrential wave of fragrant flower petals onto the dining area.",
+        "search": "falling rose petals classical painting detail",
+        "caption": "Hidden trapdoors opened, releasing tons of blossoms."
+      },
+      {
+        "narration": "What began as a surprising show of luxury turned horrific as heavy, compact blossoms blanketed the unsuspecting aristocrats.",
+        "search": "ancient rome feast chaotic struggle painting",
+        "caption": "A show of luxury quickly turned into a horrific nightmare."
+      },
+      {
+        "narration": "Trapped beneath feet of dense petals, guests struggled desperately for air while suffocating under the crushing weight.",
+        "search": "ancient roman aristocrats banquet struggle engraving",
+        "caption": "Guests choked beneath feet of dense, heavy flowers."
+      },
+      {
+        "narration": "As screams faded beneath the blossoms, the teenage emperor watched impassively, turning ultimate decadence into lethal imperial power.",
+        "search": "roman emperor on throne historical oil painting",
+        "caption": "The emperor watched impassively as the room fell silent."
+      },
+      {
+        "narration": "By 221 AD, such horrific spectacles completely alienated Rome's political elite and the imperial Praetorian Guard.",
+        "search": "elagabalus roman emperor marble bust statue cruelty",
+        "caption": "Horrific cruelty alienated Rome's elite and Praetorian guards."
+      },
+      {
+        "narration": "In March 222 AD, the Praetorian Guard mutinied, assassinating the eighteen-year-old emperor and throwing his body into the Tiber River.",
+        "search": "assassination of Roman emperor oil painting",
+        "caption": "In March 222 AD, the Praetorian Guard assassinated Elagabalus."
+      },
+      {
+        "narration": "The rose petal banquet remains history's most chilling example of lethal extravagance, where beauty itself became a terrifying imperial weapon.",
+        "search": "the roses of heliogabalus oil painting detail",
+        "caption": "A deadly legacy where beauty became Rome's most lethal weapon."
+      },
+      {
+        "narration": "Did a Roman emperor murder guests with rose petals?",
+        "search": "roses of elagabalus oil painting",
+        "caption": "A deadly feast of rose petals in Rome."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T02:41:34.033934+00:00",
+    "updated_at": "2026-11-17T02:45:11.970030+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T02:42:37.330217+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "432 chars (cat 173 de vua 55s)",
+        "at": "2026-11-17T02:43:20.141948+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.1s en-US-GuyNeural 5 cau",
+        "at": "2026-11-17T02:43:23.135859+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T02:43:24.033867+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T02:44:20.414887+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T02:44:20.428199+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.1s 15791414 bytes",
+        "at": "2026-11-17T02:45:11.846903+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T02:45:11.970022+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7037474/pexels-photo-7037474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130611/pexels-photo-11130611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38317492/pexels-photo-38317492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8093233/pexels-photo-8093233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12539635/pexels-photo-12539635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5550454/pexels-photo-5550454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806586/pexels-photo-38806586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11289756/pexels-photo-11289756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8037474/pexels-photo-8037474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838779/pexels-photo-20838779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6732658/pexels-photo-6732658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5757771/pexels-photo-5757771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "24e60cae01",
     "kind": "short",
     "channel": "Channel2",
