@@ -1,5 +1,161 @@
 [
   {
+    "id": "24e60cae01",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Ancient Traitor Who Betrayed Everyone and Won",
+    "idea": {
+      "title": "The Ancient Traitor Who Betrayed Everyone and Won",
+      "hook": "Alcibiades betrayed Athens to Sparta, betrayed Sparta to Persia, and somehow persuaded Athens to take him back.",
+      "beats": [
+        "Accused of sacrilege in Athens, general Alcibiades fled to enemy Sparta and revealed Athenian war strategies.",
+        "After sleeping with the Spartan queen, he fled execution again and defected to the Persian Empire.",
+        "He manipulated Persian satraps into funding both sides of the war to weaken Greece completely.",
+        "Astonishingly, a desperate Athens welcomed the ultimate traitor back as a supreme commander years later."
+      ],
+      "keywords": [
+        "Alcibiades portrait",
+        "ancient Athens painting",
+        "Spartan warrior engraving",
+        "Persian empire map",
+        "ancient Greece battle artwork"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#sparta",
+        "#athens",
+        "#militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One man betrayed Athens, Sparta, and Persia—and won.",
+        "search": "Alcibiades bust statue marble sculpture",
+        "caption": "The traitor who betrayed every ancient superpower."
+      },
+      {
+        "narration": "In 415 BC, Athenian general Alcibiades faced trial for sacrilege right before launching a major campaign.",
+        "search": "Alcibiades coin ancient Greek bronze",
+        "caption": "Athens, 415 BC: General accused of sacrilege."
+      },
+      {
+        "narration": "Facing execution, Alcibiades fled directly to enemy Sparta and revealed Athenian war strategies.",
+        "search": "Alcibiades portrait painting historical illustration",
+        "caption": "Fleeing execution to reveal secrets to Sparta."
+      },
+      {
+        "narration": "By 412 BC, after sleeping with the Spartan queen, he was forced to flee execution again.",
+        "search": "Spartan king Agis II bust statue marble",
+        "caption": "Scandal forces a second escape from execution."
+      },
+      {
+        "narration": "Escaping Spartan assassins, Alcibiades defected to the Persian Empire, securing protection under satrap Tissaphernes.",
+        "search": "Tissaphernes Persian satrap coin silver",
+        "caption": "Defecting to Persia to avoid Spartan assassins."
+      },
+      {
+        "narration": "He manipulated Persian gold to fund both sides, systematically exhausting the entire Greek peninsula.",
+        "search": "Persian empire map vintage engraving",
+        "caption": "Funding both sides of the Peloponnesian War."
+      },
+      {
+        "narration": "By 407 BC, a desperate and failing Athens faced total collapse in the Peloponnesian War.",
+        "search": "ancient Athens painting Acropolis oil painting",
+        "caption": "Athens faces total collapse in 407 BC."
+      },
+      {
+        "narration": "Rather than executing the ultimate traitor, Athenian leaders welcomed Alcibiades back as supreme commander.",
+        "search": "Alcibiades statue sculpture ancient marble",
+        "caption": "Athens restores their worst traitor to power."
+      },
+      {
+        "narration": "Alcibiades restored Athenian naval dominance temporarily, but after a minor defeat at Notium in 406 BC, suspicious citizens exiled him a second time.",
+        "search": "ancient Greek trireme battle oil painting",
+        "caption": "Exiled a second time after defeat at Notium in 406 BC."
+      },
+      {
+        "narration": "Fleeing to Persian Phrygia, the triple traitor’s luck ran out in 404 BC when Spartan and Persian assassins set fire to his residence.",
+        "search": "alcibiades death engraving artwork",
+        "caption": "Assassinated in Phrygia by fire and arrows in 404 BC."
+      },
+      {
+        "narration": "Yet by successfully manipulating Athens, Sparta, and Persia in turn, Alcibiades proved that absolute betrayal could be history's ultimate tool of survival.",
+        "search": "Alcibiades bust statue",
+        "caption": "The ultimate traitor who outmaneuvered every ancient empire."
+      },
+      {
+        "narration": "One man betrayed every ancient superpower and won.",
+        "search": "Alcibiades bust statue marble sculpture",
+        "caption": "The traitor who conquered every empire"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T00:59:12.679010+00:00",
+    "updated_at": "2026-11-17T01:01:40.303476+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T00:59:40.107211+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "405 chars (cat 210 de vua 55s)",
+        "at": "2026-11-17T01:00:16.254365+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-17T01:00:22.167608+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T01:00:22.899995+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T01:00:58.582008+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T01:00:58.592927+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.2s 13784261 bytes",
+        "at": "2026-11-17T01:01:40.167896+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T01:01:40.303462+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35708783/pexels-photo-35708783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38879076/pexels-photo-38879076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3779005/pexels-photo-3779005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5095372/pexels-photo-5095372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7267502/pexels-photo-7267502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32868414/pexels-photo-32868414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14375296/pexels-photo-14375296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11096657/pexels-photo-11096657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30851773/pexels-photo-30851773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36665296/pexels-photo-36665296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13705863/pexels-photo-13705863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070713/pexels-photo-15070713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1fc303fee4",
     "kind": "short",
     "channel": "Channel3",
