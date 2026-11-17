@@ -1,5 +1,167 @@
 [
   {
+    "id": "1cb2dc8a39",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về khoảng cách chết người giữa bạn và trạm ISS",
+    "idea": {
+      "title": "Sự thật về khoảng cách chết người giữa bạn và trạm ISS",
+      "hook": "Bạn nghĩ Trạm Vũ trụ Quốc tế ISS đang ở rất xa trên bầu trời? Thực tế nó chỉ cách bạn bằng khoảng cách từ Hà Nội đến Hải Phòng, nhưng vị trí đó là một cái bẫy tử thần.",
+      "beats": [
+        "Giải thích ISS bay ở độ cao khoảng 400km - trên lý thuyết rất gần, nằm ngay sát rìa khí quyển Trái Đất.",
+        "Chỉ ra nghịch lý: Dù gần như vậy, bạn không thể với tới vì tốc độ bay khủng khiếp tới 28.000 km/h của nó.",
+        "Tiết lộ lý do vùng không gian này không phải là chân không tuyệt đối mà chứa đầy các mảnh vỡ vệ tinh chết chóc.",
+        "Kết luận bằng góc nhìn khoa học: Khoảng cách ngắn ngủi đó lại là ranh giới giữa sự sống và sự bốc hơi ngay lập tức."
+      ],
+      "keywords": [
+        "space station orbit earth view",
+        "iss flyby earth background",
+        "low earth orbit animation",
+        "satellite debris space visual",
+        "earth horizon from space"
+      ],
+      "tags": [
+        "Channel3",
+        "khoahoc",
+        "vutru",
+        "iss",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ điện thoại đang sạch? Nó chứa vi khuẩn gấp 10 lần bồn cầu.",
+        "search": "3d animation dien thoai thong minh ban tay vi khuan",
+        "caption": "Điện thoại bẩn gấp 10 lần bồn cầu"
+      },
+      {
+        "narration": "Mỗi ngày bạn chạm vào màn hình hàng trăm lần, vô tình nuôi dưỡng cả một hệ sinh thái.",
+        "search": "isometric render ban tay cham vao man hinh dien thoai",
+        "caption": "Chạm vào màn hình hàng trăm lần"
+      },
+      {
+        "narration": "Lớp dầu trên ngón tay bám lại tạo thành môi trường hoàn hảo cho vi sinh vật sinh sôi.",
+        "search": "macro shot dau mo tren be mat man hinh kinh",
+        "caption": "Lớp dầu tạo môi trường cho vi khuẩn"
+      },
+      {
+        "narration": "Khi bạn áp điện thoại sát tai nghe gọi, nhiệt độ cơ thể kích thích chúng nhân lên nhanh chóng.",
+        "search": "cartoony 3d nguoi ap dien thoai vao tai nghe goi",
+        "caption": "Nhiệt độ cơ thể kích thích vi khuẩn"
+      },
+      {
+        "narration": "Chỉ sau một đêm đặt gần gối ngủ, lượng vi khuẩn đã tăng lên mức đáng báo động.",
+        "search": "motion graphics chiec dien thoai tren chiec goi phong ngủ",
+        "caption": "Tăng vọt chỉ sau một đêm đặt cạnh gối"
+      },
+      {
+        "narration": "Thói quen vừa ăn vừa lướt mạng biến điện thoại thành cầu nối trực tiếp đưa mầm bệnh vào miệng.",
+        "search": "explainer animation nguoi vua an vua cam dien thoai",
+        "caption": "Đưa mầm bệnh thẳng vào miệng"
+      },
+      {
+        "narration": "Các nhà khoa học phát hiện nhiều chủng vi khuẩn kháng thuốc ẩn nấp ngay trên nút bấm.",
+        "search": "3d animation kinh hien vi soi vi khuẩn tren vo dien thoai",
+        "caption": "Vi khuẩn kháng thuốc ẩn nấp"
+      },
+      {
+        "narration": "Giải pháp duy nhất để ngăn chặn hiểm họa này là vệ sinh màn hình mỗi ngày.",
+        "search": "isometric render chai xịt khu trùng lau man hinh dien thoai",
+        "caption": "Làm sạch mỗi ngày để bảo vệ sức khỏe"
+      },
+      {
+        "narration": "Không dừng lại ở điện thoại, bàn phím máy tính chứa lượng vi khuẩn cao gấp năm lần bồn cầu.",
+        "search": "3d animation ban phim may tinh bam nut",
+        "caption": "Bàn phím máy tính bẩn gấp 5 lần bồn cầu"
+      },
+      {
+        "narration": "Mỗi lần gõ phím là hàng triệu tế bào da chết rơi xuống, nuôi sống hàng tỷ ổ dịch bệnh.",
+        "search": "motion graphics te bao da roi xuong ban phim",
+        "caption": "Hàng triệu tế bào da rơi xuống mỗi phút"
+      },
+      {
+        "narration": "Thói quen vừa ăn vừa gõ phím biến chiếc bàn làm việc thành nhà máy sản xuất độc tố.",
+        "search": "isometric render nguoi vua an vua dung may tinh",
+        "caption": "Vừa ăn vừa làm việc tạo ra độc tố"
+      },
+      {
+        "narration": "Cơ thể bạn liên tục hấp thụ vi khuẩn này qua đường hô hấp mà không hề hay biết.",
+        "search": "explainer animation vi khuan xam nhap vao co the",
+        "caption": "Hít thở vi khuẩn mỗi ngày"
+      },
+      {
+        "narration": "Dành mười giây lau chùi thiết bị mỗi sáng là cách duy nhất bảo vệ hệ miễn dịch của bạn.",
+        "search": "cartoony 3d lau chui ban phim may tinh sach se",
+        "caption": "Vệ sinh thiết bị mỗi sáng để bảo vệ sức khỏe"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T23:03:18.472051+00:00",
+    "updated_at": "2026-11-17T23:06:41.773342+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-17T23:04:33.268152+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars (cat 253 de vua 55s)",
+        "at": "2026-11-17T23:05:05.621783+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-17T23:05:18.875892+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T23:05:20.040787+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-17T23:05:33.638712+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-17T23:05:33.654841+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.7s 21938084 bytes",
+        "at": "2026-11-17T23:06:41.619036+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T23:06:41.773327+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8817003/8817003-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/38385541/16301153_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/7639511/7639511-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34328671/14542923_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39336218/16739496_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40923877/17497482_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/25935025/11922034_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069700/18069700-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/8816946/8816946-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/41007956/17545501_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7180364/7180364-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/34081874/14455444_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/16561468/16561468-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "a6e9df861f",
     "kind": "long",
     "channel": "seigh",
