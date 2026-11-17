@@ -1,5 +1,166 @@
 [
   {
+    "id": "86ef3b9f93",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật bất ngờ về tiếng thở khi bạn đang ngủ say",
+    "idea": {
+      "title": "Sự thật bất ngờ về tiếng thở khi bạn đang ngủ say",
+      "hook": "Bạn nghĩ tiếng hít thở đều đều ban đêm là bình thường? Thực ra cơ thể bạn đang thực hiện một cuộc đại tu giấu mặt.",
+      "beats": [
+        "Làm rõ hiện tượng cơ thể tự động điều chỉnh nhịp thở và huyết áp xuống mức thấp nhất trong đêm.",
+        "Giải thích lý do não bộ phải 'dọn dẹp' các tế bào chết và độc tố tích tụ suốt cả ngày.",
+        "Chỉ ra mối liên hệ ẩn giấu giữa nhịp thở đều đặn và lượng hormone tái tạo năng lượng cho sáng hôm sau."
+      ],
+      "keywords": [
+        "deep space nebula",
+        "galaxy rotation time lapse",
+        "dark cosmos stars",
+        "deep space background",
+        "universe expansion visual"
+      ],
+      "tags": [
+        "giacngu",
+        "suckhoe",
+        "channel3",
+        "kienthuc",
+        "khoahoc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ tiếng hít thở đều đều ban đêm là bình thường?",
+        "search": "hoat hinh 3d nguoi nam ngu tho deu",
+        "caption": "Tiếng thở ban đêm thực ra rất kỳ lạ"
+      },
+      {
+        "narration": "Thực ra cơ thể bạn đang thực hiện một cuộc đại tu giấu mặt.",
+        "search": "mo hinh 3d co the nguoi hoat dong ban dem",
+        "caption": "Cuộc đại tu giấu mặt mỗi đêm"
+      },
+      {
+        "narration": "Khi chìm vào giấc ngủ sâu, nhịp tim và huyết áp tự động hạ xuống mức tối thiểu.",
+        "search": "do hoat hinh 3d nhip tim ha thap khi ngu",
+        "caption": "Huyết áp và nhịp tim chạm đáy"
+      },
+      {
+        "narration": "Lúc này, não bộ bắt đầu kích hoạt hệ thống làm sạch các độc tố tích tụ suốt cả ngày.",
+        "search": "hoat hinh 3d nao bo tu don dep doc to",
+        "caption": "Não bộ bắt đầu dọn dẹp độc tố"
+      },
+      {
+        "narration": "Những chất cặn bã từ tế bào chết được gột rửa qua hệ thống dịch não tủy.",
+        "search": "mo phong 3d dich nao tuy chay trong dem",
+        "caption": "Dịch não tủy tẩy rửa chất cặn bã"
+      },
+      {
+        "narration": "Nhịp thở đều đặn chính là công tắc kích hoạt cơ chế tái tạo năng lượng này.",
+        "search": "hoat hinh 3d phoi tho deu khi ngu sau",
+        "caption": "Nhịp thở kích hoạt tái tạo năng lượng"
+      },
+      {
+        "narration": "Nếu nhịp thở bị ngắt quãng, quá trình dọn dẹp tế bào chết sẽ lập tức ngưng trệ.",
+        "search": "hoat hinh 3d song nao bi gian đoạn khi ngu",
+        "caption": "Ngắt quãng nhịp thở làm gián đoạn dọn dẹp"
+      },
+      {
+        "narration": "Đó là lý do bạn luôn cảm thấy mệt mỏi dù đã ngủ đủ tám tiếng.",
+        "search": "nguoi met moi thuc giac buoi sang hoat hinh",
+        "caption": "Ngủ đủ giấc nhưng vẫn thấy mệt mỏi"
+      },
+      {
+        "narration": "Chính nhịp thở đều đặn này kích thích tuyến yên giải phóng lượng hormone tăng trưởng khổng lồ.",
+        "search": "3d animation phong ngu nguoi dang nam ngủ hoat hinh",
+        "caption": "Hormone tái tạo giải phóng khi ngủ sâu"
+      },
+      {
+        "narration": "Hormone này chịu trách nhiệm sửa chữa từng sợi cơ bị tổn thương và tái tạo làn da suốt cả đêm.",
+        "search": "motion graphics te bao co the dang duoc sua chua 3d",
+        "caption": "Sửa chữa tế bào và cơ bắp ban đêm"
+      },
+      {
+        "narration": "Nó biến giấc ngủ thành một nhà máy năng lượng tự nhiên, nạp đầy pin cho cơ thể.",
+        "search": "isometric render pin nang luong dang duoc sac day 3d",
+        "caption": "Nhà máy năng lượng tự nhiên trong đêm"
+      },
+      {
+        "narration": "Nếu đứt quãng nhịp thở, lượng hormone này sụt giảm mạnh khiến bạn kiệt sức vào sáng hôm sau.",
+        "search": "cartoony 3d nguoi met moi uong ca phe buoi sang",
+        "caption": "Thiếu hụt hormone khiến bạn kiệt sức"
+      },
+      {
+        "narration": "Tiếng thở đều là công tắc duy nhất giúp cơ thể tự đại tu hoàn hảo trước khi bình minh.",
+        "search": "loop animation dong ho troi qua den sang som 3d",
+        "caption": "Nhịp thở là chìa khóa đại tu cơ thể"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T08:16:34.957003+00:00",
+    "updated_at": "2026-11-17T08:22:47.870863+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-17T08:20:12.554676+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "482 chars (cat 519 de vua 55s)",
+        "at": "2026-11-17T08:20:58.365259+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-17T08:21:23.430360+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T08:21:24.491676+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-17T08:21:40.370701+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-17T08:21:40.385835+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.9s 23170137 bytes",
+        "at": "2026-11-17T08:22:47.765472+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T08:22:47.870851+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/27905259/12258612_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/27677219/12201949_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/40911929/17490132_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/11983826/11983826-hd_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/35062665/14852598_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7984168/7984168-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7586633/7586633-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/9642252/9642252-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/32324654/13788043_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/34329185/14543254_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39486973/16820767_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/15897143/15897143-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "dbee125266",
     "kind": "short",
     "channel": "Channel2",
