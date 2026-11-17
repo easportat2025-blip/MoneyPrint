@@ -1,5 +1,161 @@
 [
   {
+    "id": "dbee125266",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Quit Absolute Power to Grow Cabbages",
+    "idea": {
+      "title": "The Roman Emperor Who Quit Absolute Power to Grow Cabbages",
+      "hook": "Diocletian abandoned the Roman Empire at the peak of his power to farm vegetables—and when Rome begged him to return, he refused.",
+      "beats": [
+        "In 305 AD, Emperor Diocletian became the first Roman emperor to voluntarily give up the throne.",
+        "He retired to a seaside palace in Split, devoting his days entirely to growing cabbages.",
+        "When civil war broke out and Rome begged him to rule again, he claimed his cabbages gave him more peace than the empire ever did.",
+        "His peaceful retirement remains one of the ultimate acts of defiance against absolute power."
+      ],
+      "keywords": [
+        "Diocletian Roman Emperor bust",
+        "Diocletian Palace Split painting",
+        "Ancient Rome map illustration",
+        "Roman senator historical portrait",
+        "Roman empire engraving art"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#diocletian",
+        "#romanempire",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman emperor walked away from absolute power forever.",
+        "search": "Diocletian Roman Emperor bust marble statue",
+        "caption": "Walking away from absolute power"
+      },
+      {
+        "narration": "In 305 AD, absolute rule over twenty million subjects meant total authority and constant threat of assassination.",
+        "search": "Roman empire map illustration classical engraving",
+        "caption": "305 AD: Total rule over 20 million people"
+      },
+      {
+        "narration": "For over two decades, Emperor Diocletian stabilized a crumbling empire through ruthless military and economic reforms.",
+        "search": "Diocletian ancient coin silver denarius portrait",
+        "caption": "Diocletian spent 20 years stabilizing Rome"
+      },
+      {
+        "narration": "Then, at the absolute peak of his supremacy, he shocked the ancient world by abdicating the throne.",
+        "search": "Roman senate historical portrait oil painting",
+        "caption": "At his peak, he voluntarily abdicated"
+      },
+      {
+        "narration": "He stripped off his imperial purple robes and retreated to a fortress palace in Split, along the Adriatic coast.",
+        "search": "Diocletian Palace Split painting oil artwork",
+        "caption": "Retreating to a fortress palace in Split"
+      },
+      {
+        "narration": "Instead of plotting a political return, the former master of Rome spent his days tending vegetable gardens.",
+        "search": "Ancient Roman farm illustration engraving art",
+        "caption": "Tending cabbages instead of ruling"
+      },
+      {
+        "narration": "Within five years, his successor system collapsed, throwing the empire into a violent civil war.",
+        "search": "Roman legion battle ancient empire painting artwork",
+        "caption": "Rome collapsed into violent civil war"
+      },
+      {
+        "narration": "Desperate Roman envoys traveled to Dalmatia, begging Diocletian to reclaim the throne and save the state.",
+        "search": "Roman senator pleading historical oil painting",
+        "caption": "Envoys begged him to reclaim the throne"
+      },
+      {
+        "narration": "Diocletian refused the imperial crown, famously replying that if they could see the cabbages he planted himself, they would never ask him to trade his peace for power.",
+        "search": "Roman emperor retiring in garden historical illustration art",
+        "caption": "He refused the crown to tend his cabbages in peace."
+      },
+      {
+        "narration": "He remained in his fortified coastal palace until his death in 311 AD, watching from afar as rival warlords tore his former empire apart.",
+        "search": "Palace of Diocletian Split Dalmatia historical engraving art",
+        "caption": "Diocletian died peacefully in 311 AD inside his seaside fortress."
+      },
+      {
+        "narration": "By abandoning supreme authority for simple soil, Diocletian created history's ultimate paradox: a master of the known world who chose a garden over an empire.",
+        "search": "Diocletian Roman Emperor marble bust statue close up",
+        "caption": "The master of Rome who chose cabbages over absolute power."
+      },
+      {
+        "narration": "An emperor abandoned the Roman Empire just to farm cabbages.",
+        "search": "Diocletian Roman Emperor bust",
+        "caption": "The emperor who chose cabbages over the throne."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T04:41:28.508061+00:00",
+    "updated_at": "2026-11-17T04:44:54.504465+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-17T04:42:37.640641+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "419 chars (cat 218 de vua 55s)",
+        "at": "2026-11-17T04:42:57.142541+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.8s en-US-GuyNeural 6 cau",
+        "at": "2026-11-17T04:43:03.386751+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T04:43:04.151197+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-17T04:44:10.736638+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-17T04:44:10.747956+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.8s 15957752 bytes",
+        "at": "2026-11-17T04:44:54.390972+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T04:44:54.504456+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086513/pexels-photo-38086513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7367861/pexels-photo-7367861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19049682/pexels-photo-19049682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29037731/pexels-photo-29037731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966889/pexels-photo-37966889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125776/pexels-photo-38125776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15895421/pexels-photo-15895421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34786085/pexels-photo-34786085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11827744/pexels-photo-11827744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15070605/pexels-photo-15070605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37607141/pexels-photo-37607141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e6e5475c1e",
     "kind": "short",
     "channel": "Channel2",
