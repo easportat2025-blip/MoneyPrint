@@ -1,4 +1,4 @@
-# Daily ping 16/11/2026
+# Daily ping 17/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -8,12 +8,20 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (2)
-- Lý do lướt điện thoại nằm nghiêng trong tối âm thầm hại :: token refresh failed: 400 {
+## Fail (4)
+- Sự thật bất ngờ về tiếng thở khi bạn đang ngủ say :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman General Who Executed His Own Son :: token refresh failed: 400 {
+- The Roman Emperor Who Quit Absolute Power to Grow Cabba :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- The Roman Emperor Who Smothered Guests With Flowers :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- The Ancient Traitor Who Betrayed Everyone and Won :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
