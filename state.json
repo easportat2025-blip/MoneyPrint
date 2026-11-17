@@ -1,5 +1,167 @@
 [
   {
+    "id": "7aa89758c6",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do lau màn hình bằng cồn âm thầm phá hủy điện thoại",
+    "idea": {
+      "title": "Lý do lau màn hình bằng cồn âm thầm phá hủy điện thoại",
+      "hook": "Bạn nghĩ dùng cồn lau màn hình là sạch nhất? Thực ra bạn đang tự tay lột bỏ lớp bảo vệ đắt giá nhất của điện thoại.",
+      "beats": [
+        "Màn hình smartphone luôn được phủ một lớp hóa học chống bám dầu và vân tay (Oleophobic coating).",
+        "Cồn nồng độ cao hoặc nước lau kính sẽ hòa tan và phá hủy hoàn toàn lớp phủ bảo vệ này.",
+        "Khi mất lớp phủ, màn hình sẽ bám bẩn gấp nhiều lần, bị rít khi vuốt và cực kỳ khó lau sạch.",
+        "Cách vệ sinh đúng: Chỉ nên dùng khăn vi sợi (microfiber) hơi ẩm hoặc dung dịch lau màn hình chuyên dụng."
+      ],
+      "keywords": [
+        "cleaning smartphone screen",
+        "rubbing alcohol wipe",
+        "microfiber cloth phone",
+        "dirty phone glass screen",
+        "technology macro closeup"
+      ],
+      "tags": [
+        "mẹo điện thoại",
+        "bảo vệ màn hình",
+        "công nghệ",
+        "sai lầm thường gặp",
+        "mẹo công nghệ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ dùng cồn lau màn hình là sạch nhất ư?",
+        "search": "3d animation cleaning smartphone screen",
+        "caption": "Dùng cồn lau màn hình là sạch nhất?"
+      },
+      {
+        "narration": "Thực ra bạn đang tự tay lột bỏ lớp bảo vệ đắt giá nhất.",
+        "search": "rubbing alcohol wipe phone macro closeup",
+        "caption": "Đang tự tay lột bỏ lớp bảo vệ"
+      },
+      {
+        "narration": "Màn hình smartphone luôn được phủ một lớp hóa học đặc biệt.",
+        "search": "explainer animation phone glass screen",
+        "caption": "Lớp phủ hóa học đặc biệt trên màn hình"
+      },
+      {
+        "narration": "Lớp chống bám dầu và vân tay này cực kỳ mỏng manh.",
+        "search": "motion graphics oil smudge smartphone display",
+        "caption": "Lớp chống bám dầu và vân tay"
+      },
+      {
+        "narration": "Cồn nồng độ cao sẽ lập tức tấn công bề mặt này.",
+        "search": "cartoony 3d liquid dissolving glass coating",
+        "caption": "Cồn nồng độ cao tấn công bề mặt"
+      },
+      {
+        "narration": "Hóa chất mạnh hòa tan và phá hủy hoàn toàn lớp phủ bảo vệ.",
+        "search": "isometric render chemical reaction screen damage",
+        "caption": "Phá hủy hoàn toàn lớp phủ bảo vệ"
+      },
+      {
+        "narration": "Khi mất lớp bảo vệ, màn hình bắt đầu bám bẩn gấp nhiều lần.",
+        "search": "dirty phone glass screen fingerprints macro",
+        "caption": "Màn hình bám bẩn gấp nhiều lần"
+      },
+      {
+        "narration": "Hậu quả là bề mặt bị rít khi vuốt và cực kỳ khó lau sạch.",
+        "search": "technology macro closeup scratched phone glass",
+        "caption": "Bị rít khi vuốt và khó lau sạch"
+      },
+      {
+        "narration": "Cách vệ sinh đúng chuẩn là chỉ nên dùng khăn vi sợi microfiber hơi ẩm.",
+        "search": "3d animation microfiber cloth cleaning phone screen closeup",
+        "caption": "Dùng khăn vi sợi microfiber sạch để lau màn hình"
+      },
+      {
+        "narration": "Tuyệt đối không xịt trực tiếp hóa chất lên thiết bị để tránh nước lọt vào trong.",
+        "search": "motion graphics smartphone liquid damage warning animation",
+        "caption": "Không xịt trực tiếp chất lỏng lên điện thoại"
+      },
+      {
+        "narration": "Bạn cũng có thể dùng dung dịch chuyên dụng không chứa cồn để an toàn.",
+        "search": "cartoony 3d screen cleaner spray bottle and phone",
+        "caption": "Sử dụng dung dịch chuyên dụng không chứa cồn"
+      },
+      {
+        "narration": "Nhẹ nhàng lau theo một chiều giúp loại bỏ bụi bẩn mà không làm trầy xước kính.",
+        "search": "isometric render gentle wiping phone screen motion",
+        "caption": "Lau nhẹ nhàng theo một chiều cố định"
+      },
+      {
+        "narration": "Bảo vệ đúng cách giúp màn hình luôn mượt mà và bền đẹp như mới mua.",
+        "search": "loop animation shiny clean smartphone screen reflection",
+        "caption": "Giữ màn hình luôn sáng bóng và bền đẹp"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-17T21:28:15.364481+00:00",
+    "updated_at": "2026-11-17T21:32:55.601156+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-17T21:30:42.448573+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "519 chars (cat 47 de vua 55s)",
+        "at": "2026-11-17T21:31:15.424678+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-17T21:31:35.923898+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-17T21:31:37.100767+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-17T21:31:51.080440+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-17T21:31:51.094999+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.7s 17708492 bytes",
+        "at": "2026-11-17T21:32:55.471488+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-17T21:32:55.601148+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8819935/8819935-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15689201/15689201-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/13441336/13441336-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/7223978/7223978-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8490653/8490653-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8085485/8085485-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/16097031/16097031-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/6931247/6931247-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283210/15283210-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39893389/17017504_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/4884238/4884238-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/4115284/4115284-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8516373/8516373-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "d2e95d92b4",
     "kind": "short",
     "channel": "Channel3",
