@@ -1,5 +1,166 @@
 [
   {
+    "id": "220c32fabd",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Bật chế độ đọc sách ban đêm thực sự làm hỏng mắt bạn",
+    "idea": {
+      "title": "Bật chế độ đọc sách ban đêm thực sự làm hỏng mắt bạn",
+      "hook": "Bạn tưởng bật màn hình màu vàng bảo vệ mắt trong đêm? Thực tế nó đang lừa não bộ tiết ra chất khiến bạn thức trắng.",
+      "beats": [
+        "Giải thích ánh sáng vàng từ màn hình lừa tuyến tùng rằng mặt trời chưa lặn.",
+        "Hormone melatonin bị kìm hãm, khiến giấc ngủ sâu biến mất dù bạn đã nhắm mắt.",
+        "Hậu quả là ngày hôm sau mắt khô khốc và não bộ mệt mỏi như vừa chạy marathon."
+      ],
+      "keywords": [
+        "galaxy night sky",
+        "glowing stars screen",
+        "dark cosmos aesthetic",
+        "astronaut in orbit",
+        "earth horizon night"
+      ],
+      "tags": [
+        "channel3",
+        "khoahoc",
+        "suckhoe",
+        "meohay",
+        "giacngu"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn tưởng bật màn hình màu vàng ban đêm bảo vệ mắt?",
+        "search": "dien thoai man hinh vang trong phong toi hoat hinh 3d",
+        "caption": "Bật màn hình vàng tưởng bảo vệ mắt?"
+      },
+      {
+        "narration": "Thực tế tính năng này đang đánh lừa thẳng vào não bộ của bạn.",
+        "search": "nao bo phat sang mo phong hoat hinh 3d",
+        "caption": "Thực tế đang lừa não bộ"
+      },
+      {
+        "narration": "Ánh sáng vàng phát ra khiến tuyến tùng nhầm tưởng mặt trời chưa lặn.",
+        "search": "mat nguoi nhin man hinh dien thoai ban dem hoat hinh",
+        "caption": "Tuyến tùng tưởng trời chưa lặn"
+      },
+      {
+        "narration": "Nó phát tín hiệu chặn đứng hoàn toàn hormone gây buồn ngủ.",
+        "search": "hormone melatonin trong co the nguoi hoat hinh mo ta",
+        "caption": "Chặn đứng hormone buồn ngủ"
+      },
+      {
+        "narration": "Hormone melatonin bị kìm hãm mạnh mẽ suốt nhiều giờ liên tục.",
+        "search": "dong ho sinh hoc chay nguoc hoat hinh motion graphics",
+        "caption": "Melatonin bị kìm hãm"
+      },
+      {
+        "narration": "Khiến giấc ngủ sâu hoàn toàn biến mất dù bạn đã nhắm mắt.",
+        "search": "nguoi nam tren giuong tran tro ban dem hoat hinh 3d",
+        "caption": "Giấc ngủ sâu biến mất"
+      },
+      {
+        "narration": "Sáng hôm sau đôi mắt trở nên khô khốc và đỏ ngầu.",
+        "search": "mat nguoi bi kho do vi thieu ngu hoat hinh 3d",
+        "caption": "Mắt khô khốc sáng hôm sau"
+      },
+      {
+        "narration": "Não bộ kiệt quệ mệt mỏi hệt như vừa chạy marathon xuyên đêm.",
+        "search": "nao bo met moi qua tai hoat hinh 3d",
+        "caption": "Não mệt như chạy marathon"
+      },
+      {
+        "narration": "Nguyên nhân gốc rễ là màn hình phát ra một bước sóng ánh sáng cực kỳ đánh lừa.",
+        "search": "3d animation phone screen emitting blue light close up",
+        "caption": "Màn hình điện thoại đánh lừa thị giác."
+      },
+      {
+        "narration": "Nó đánh lừa hoàn toàn tuyến tùng dưới đáy não rằng trời vẫn đang sáng trưng.",
+        "search": "isometric render human brain pineal gland glowing",
+        "caption": "Não bộ nhầm tưởng trời chưa tối."
+      },
+      {
+        "narration": "Hormone giấc ngủ melatonin bị cắt giảm đột ngột khiến chu kỳ tự nhiên đảo lộn.",
+        "search": "motion graphics hormone molecules dropping down phone",
+        "caption": "Hormone giấc ngủ bị cắt giảm."
+      },
+      {
+        "narration": "Càng cố đọc sách trong đêm, bạn càng đẩy não vào trạng thái tỉnh táo giả tạo.",
+        "search": "cartoony 3d character wide awake in bed holding phone",
+        "caption": "Trạng thái tỉnh táo giả tạo."
+      },
+      {
+        "narration": "Giải pháp duy nhất là tắt điện thoại trước khi ngủ một tiếng để mắt được nghỉ ngơi thực sự.",
+        "search": "loop animation turning off smartphone screen dark bedroom",
+        "caption": "Tắt điện thoại để bảo vệ mắt."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T13:33:27.865955+00:00",
+    "updated_at": "2026-11-18T13:38:24.137321+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-18T13:35:57.024156+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "472 chars (cat 405 de vua 55s)",
+        "at": "2026-11-18T13:36:44.011740+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.7s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-18T13:37:16.932666+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T13:37:17.763468+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-18T13:37:31.659369+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-18T13:37:31.673377+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.7s 24339735 bytes",
+        "at": "2026-11-18T13:38:24.007079+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T13:38:24.137307+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/36108313/15313101_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/34672414/14696006_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/35088441/14864507_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6975346/6975346-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/5839043/5839043-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/30361658/13013571_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34081852/14455428_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/7299412/7299412-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/16629709/16629709-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39483398/16818573_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819434/8819434-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/9615484/9615484-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6611945/6611945-uhd_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "2afaf71329",
     "kind": "short",
     "channel": "Channel2",
