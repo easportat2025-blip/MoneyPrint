@@ -1,5 +1,161 @@
 [
   {
+    "id": "3097fb6be7",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Queen Who Ordered Her Own Dog Executed",
+    "idea": {
+      "title": "The Queen Who Ordered Her Own Dog Executed",
+      "hook": "In 1898, Queen Victoria made a choice that shocked her court: she ordered the execution of her own favorite hunting dog after a minor bite, a moment of royal paranoia that left her closest advisors speechless.",
+      "beats": [
+        "Queen Victoria develops an intense, unexplained fear of rabies after a royal visitor falls ill.",
+        "Her favorite hunting dog nips a servant, prompting an immediate and unforgiving royal decree.",
+        "Despite tearful pleas from her grandchildren, the execution goes ahead in the royal courtyard.",
+        "The chilling event permanently alters how court members view the aging queen's mental state."
+      ],
+      "keywords": [
+        "queen victoria portrait",
+        "victorian royal court painting",
+        "19th century queen engraving",
+        "historical palace interior",
+        "old royal photograph archive"
+      ],
+      "tags": [
+        "shorts",
+        "history",
+        "queenvictoria",
+        "britishroyals",
+        "historicalmysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1898, Queen Victoria ordered her own favorite dog executed.",
+        "search": "queen victoria portrait oil painting",
+        "caption": "Queen Victoria's shocking royal decree of 1898"
+      },
+      {
+        "narration": "The aging monarch had developed an intense, consuming dread of hydrophobia.",
+        "search": "19th century queen engraving",
+        "caption": "An escalating obsession behind closed palace doors"
+      },
+      {
+        "narration": "This paranoia gripped the royal court after a foreign visitor fell critically ill.",
+        "search": "victorian royal court painting",
+        "caption": "Panic ripples through the British court"
+      },
+      {
+        "narration": "The crisis escalated when a trusted hunting dog nipped a servant.",
+        "search": "historical palace interior painting",
+        "caption": "A minor bite triggers severe royal panic"
+      },
+      {
+        "narration": "Despite tearful pleas from her grandchildren, the Queen refused all mercy.",
+        "search": "old royal photograph archive",
+        "caption": "Grandchildren beg the Queen for the dog's life"
+      },
+      {
+        "narration": "She issued an unforgiving command for the animal's immediate destruction.",
+        "search": "victorian era manor courtyard illustration",
+        "caption": "An unforgiving decree issued in the courtyard"
+      },
+      {
+        "narration": "The execution proceeded in the royal courtyard, leaving advisors completely speechless.",
+        "search": "19th century English newspaper archive photo",
+        "caption": "Advisors watch in stunned silence"
+      },
+      {
+        "narration": "This chilling event permanently altered how the court viewed her declining mental state.",
+        "search": "queen victoria old age photograph",
+        "caption": "A chilling shift in the Queen's legacy"
+      },
+      {
+        "narration": "In 1898 at Windsor Castle, Queen Victoria ordered her beloved hunting dog executed after a minor nip, driven by a sudden rabies panic.",
+        "search": "old royal photograph archive of windsor castle interior",
+        "caption": "Queen Victoria orders her favorite dog executed at Windsor."
+      },
+      {
+        "narration": "Despite tearful pleas from her royal grandchildren, the unforgiving decree was carried out immediately in the courtyard.",
+        "search": "victorian royal court painting of grieving children",
+        "caption": "Grandchildren plead in vain as the decree proceeds."
+      },
+      {
+        "narration": "The ruthless order permanently fractured the court's view of the aging monarch, exposing a chilling new era of royal isolation.",
+        "search": "queen victoria portrait late 19th century photograph",
+        "caption": "A chilling royal execution shatters the court's trust forever."
+      },
+      {
+        "narration": "In 1898, Queen Victoria ordered the execution of her own dog.",
+        "search": "queen victoria old age archival photograph",
+        "caption": "Queen Victoria's shocking royal decree in 1898."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T23:30:43.777272+00:00",
+    "updated_at": "2026-11-18T23:34:31.300834+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-18T23:31:53.727777+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "419 chars (cat 189 de vua 55s)",
+        "at": "2026-11-18T23:32:25.658006+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-18T23:32:30.510384+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T23:32:31.317180+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-18T23:33:43.015898+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-18T23:33:43.034077+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.6s 15344554 bytes",
+        "at": "2026-11-18T23:34:31.157431+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T23:34:31.300818+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16037015/pexels-photo-16037015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9046664/pexels-photo-9046664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38490305/pexels-photo-38490305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34832601/pexels-photo-34832601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17375568/pexels-photo-17375568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6296818/pexels-photo-6296818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39625399/pexels-photo-39625399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35098785/pexels-photo-35098785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1581711/pexels-photo-1581711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19142319/pexels-photo-19142319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8664831/pexels-photo-8664831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16865233/pexels-photo-16865233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8cd403c0d4",
     "kind": "short",
     "channel": "Channel3",
