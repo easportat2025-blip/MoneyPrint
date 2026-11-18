@@ -1,5 +1,161 @@
 [
   {
+    "id": "2afaf71329",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Renamed Rome After Himself",
+    "idea": {
+      "title": "The Roman Emperor Who Renamed Rome After Himself",
+      "hook": "Emperor Commodus declared himself a living god, renamed Rome to Commodiana, and was strangled to death in his own bath by his wrestling partner.",
+      "beats": [
+        "Commodus abandoned governing to fight bound animals and wounded citizens in the Colosseum as a gladiator.",
+        "He drained Rome's treasury by paying himself one million sesterces for every imperial arena appearance.",
+        "He renamed all twelve months of the year and the city of Rome after his own royal titles.",
+        "Fearing his growing madness, his inner circle hired his personal wrestling trainer to strangle him in his bath."
+      ],
+      "keywords": [
+        "Commodus bust",
+        "Roman Colosseum engraving",
+        "ancient Rome map",
+        "gladiator fight painting",
+        "Roman emperor portrait"
+      ],
+      "tags": [
+        "#history",
+        "#rome",
+        "#romanemperor",
+        "#ancientrome",
+        "#commodus"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One Roman emperor renamed Rome after himself.",
+        "search": "commodus marble bust statue",
+        "caption": "The emperor who renamed Rome after himself."
+      },
+      {
+        "narration": "In AD 180, eighteen-year-old Commodus inherited the Roman Empire from his father, Marcus Aurelius.",
+        "search": "marcus aurelius roman emperor bust marble",
+        "caption": "Commodus inherited the Roman Empire in AD 180."
+      },
+      {
+        "narration": "Instead of governing, Commodus abandoned state affairs to fight as a gladiator inside the Colosseum.",
+        "search": "roman colosseum gladiators fight oil painting",
+        "caption": "He abandoned governing to fight in the Colosseum."
+      },
+      {
+        "narration": "He fought bound animals and citizens, charging Rome one million sesterces per arena appearance.",
+        "search": "ancient roman gladiator arena engraving",
+        "caption": "He paid himself millions from the imperial treasury."
+      },
+      {
+        "narration": "By AD 192, Commodus declared himself the living god Hercules and supreme ruler of mankind.",
+        "search": "commodus as hercules marble bust statue",
+        "caption": "Commodus proclaimed himself the living god Hercules."
+      },
+      {
+        "narration": "He renamed all twelve months after his titles and rebranded Rome as Colonia Commodiana.",
+        "search": "ancient rome city map historical engraving",
+        "caption": "Rome was officially renamed Colonia Commodiana."
+      },
+      {
+        "narration": "Fearing his escalating madness, his mistress Marcia and inner advisers plotted his immediate execution.",
+        "search": "ancient roman senate council oil painting",
+        "caption": "His inner circle secretly plotted his execution."
+      },
+      {
+        "narration": "On December 31, AD 192, his wrestling partner Narcissus strangled Commodus in his bath.",
+        "search": "ancient roman bath interior painting",
+        "caption": "On December 31, AD 192, Commodus was assassinated."
+      },
+      {
+        "narration": "Immediately following his death on December 31, AD 192, the Roman Senate declared a damnatio memoriae, tearing down his statues and restoring Rome's original name.",
+        "search": "roman emperor marble bust broken engraving",
+        "caption": "The Senate erased his memory and restored Rome's name."
+      },
+      {
+        "narration": "Commodus left behind a depleted treasury and shattered political order, triggering the chaotic Year of the Five Emperors in AD 193.",
+        "search": "roman soldiers fighting civil war oil painting",
+        "caption": "His downfall unleashed the chaotic Year of the Five Emperors."
+      },
+      {
+        "narration": "The megalomaniac who renamed Rome Commodiana ended choked in his bath, leaving the empire permanently marked by his vanity.",
+        "search": "roman colosseum ruins landscape painting",
+        "caption": "The emperor who renamed Rome ended in disgraced ruin."
+      },
+      {
+        "narration": "Which Roman emperor renamed Rome after himself before his assassination?",
+        "search": "commodus bust statue marble close up",
+        "caption": "Which Roman emperor renamed Rome after himself?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T12:01:05.087863+00:00",
+    "updated_at": "2026-11-18T12:06:55.190852+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-18T12:02:16.453690+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "374 chars (cat 183 de vua 55s)",
+        "at": "2026-11-18T12:04:12.742132+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 4 cau",
+        "at": "2026-11-18T12:04:16.001509+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T12:04:16.861769+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-18T12:06:07.519184+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-18T12:06:07.535496+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.2s 15105441 bytes",
+        "at": "2026-11-18T12:06:55.063979+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T12:06:55.190838+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32389701/pexels-photo-32389701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36805420/pexels-photo-36805420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33834253/pexels-photo-33834253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36396954/pexels-photo-36396954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10652711/pexels-photo-10652711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41010715/pexels-photo-41010715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5001691/pexels-photo-5001691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15740300/pexels-photo-15740300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29754964/pexels-photo-29754964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267456/pexels-photo-9267456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2225439/pexels-photo-2225439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11764769/pexels-photo-11764769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6f6edb02f0",
     "kind": "short",
     "channel": "Channel2",
