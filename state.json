@@ -1,5 +1,160 @@
 [
   {
+    "id": "d2ccb3830a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Spartan King Who Starved Himself Mad",
+    "idea": {
+      "title": "The Spartan King Who Starved Himself Mad",
+      "hook": "Cleomenes III of Sparta made a fatal mistake that drove him to horrific self-destruction in a prison cell.",
+      "beats": [
+        "After failing to reclaim Sparta's former glory, Cleomenes fled to Egypt seeking military alliance.",
+        "Imprisoned for suspicion by the Egyptian pharaoh, he plotted a desperate, failed rebellion from inside a guarded fortress.",
+        "Facing inevitable execution and eternal shame, the Spartan king chose a brutal end by taking his own life."
+      ],
+      "keywords": [
+        "spartan warrior bust",
+        "ancient greek sculpture art",
+        "egyptian palace engraving",
+        "classical bronze statue",
+        "ancient greek king portrait"
+      ],
+      "tags": [
+        "sparta",
+        "greece",
+        "history",
+        "documentary",
+        "channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cleomenes III of Sparta made a fatal mistake that drove him to horrific self-destruction in a prison cell.",
+        "search": "spartan warrior bust in museum exhibition",
+        "caption": "The Spartan king who starved himself mad"
+      },
+      {
+        "narration": "In 222 BC, following the disastrous defeat at Sellasia, the defeated Spartan monarch fled his homeland for the safety of Ptolemaic Egypt.",
+        "search": "ancient greek king portrait oil painting",
+        "caption": "Exile to Egypt in 222 BC"
+      },
+      {
+        "narration": "Cleomenes sought military backing from Pharaoh Ptolemy III to reclaim his lost Mediterranean empire and restore Spartan dominance.",
+        "search": "egyptian palace engraving from historical text",
+        "caption": "Seeking an alliance with the pharaoh"
+      },
+      {
+        "narration": "Suspicious of his ambitions, Ptolemy IV placed the Spartan ruler under house arrest inside a heavily guarded Alexandrian fortress.",
+        "search": "classical bronze statue of greek warrior",
+        "caption": "Imprisoned inside a guarded fortress"
+      },
+      {
+        "narration": "Trapped and desperate, Cleomenes and his loyal companions launched a reckless, armed breakout attempt through the streets of Alexandria.",
+        "search": "ancient greek sculpture art detail",
+        "caption": "Plotting a desperate, failed rebellion"
+      },
+      {
+        "narration": "With the revolt collapsing and public support failing, the king faced inevitable public execution and eternal shame.",
+        "search": "ancient stone prison cell interior illustration drawing",
+        "caption": "Facing inevitable execution and shame"
+      },
+      {
+        "narration": "Refusing to submit to foreign chains, the last great Spartan king chose a brutal end by taking his own life.",
+        "search": "ancient greek coin profile portrait antiquity",
+        "caption": "A brutal end by his own hand"
+      },
+      {
+        "narration": "His tragic demise marked the final, agonizing collapse of classical Spartan political power in the ancient world.",
+        "search": "ruins of sparta archaeological site photo",
+        "caption": "The final collapse of Spartan power"
+      },
+      {
+        "narration": "In 219 BCE, Cleomenes III launched a desperate hunger strike inside his guarded Alexandria prison cell to escape public execution.",
+        "search": "ancient egyptian palace engraving line art",
+        "caption": "A desperate hunger strike inside Alexandria's prison."
+      },
+      {
+        "narration": "Escaping confinement briefly, he urged Alexandrian citizens to revolt, but the populace ignored the foreign king completely.",
+        "search": "ancient greek sculpture art marble relief",
+        "caption": "A failed revolt in the streets of Egypt."
+      },
+      {
+        "narration": "Cornered and disgraced, the exiled Spartan monarch committed suicide, ending an era of martial supremacy forever.",
+        "search": "classical bronze statue of ancient greek king portrait",
+        "caption": "The tragic end of Sparta's last great king."
+      },
+      {
+        "narration": "In 222 BC, following his defeat at the Battle of Sellasia, the exiled king fled to Ptolemaic Egypt seeking refuge.",
+        "search": "egyptian palace engraving",
+        "caption": "Exile in Ptolemaic Egypt."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T02:07:46.134357+00:00",
+    "updated_at": "2026-11-18T02:11:35.512675+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-18T02:08:55.420764+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "351 chars (cat 210 de vua 55s)",
+        "at": "2026-11-18T02:09:27.578893+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.1s en-US-GuyNeural 4 cau",
+        "at": "2026-11-18T02:09:32.912442+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T02:09:33.656326+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-18T02:10:50.259022+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-18T02:10:50.275168+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.2s 16607282 bytes",
+        "at": "2026-11-18T02:11:35.295499+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T02:11:35.512666+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/34956238/pexels-photo-34956238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151896/pexels-photo-40151896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24596032/pexels-photo-24596032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38439054/pexels-photo-38439054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20375805/pexels-photo-20375805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14265350/pexels-photo-14265350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16565842/pexels-photo-16565842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30925621/pexels-photo-30925621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37269386/pexels-photo-37269386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31487708/pexels-photo-31487708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32494064/pexels-photo-32494064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18991529/pexels-photo-18991529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5c80731116",
     "kind": "short",
     "channel": "Channel2",
