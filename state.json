@@ -1,5 +1,161 @@
 [
   {
+    "id": "f7ee15c35b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Inventor Forced Inside His Own Execution Device",
+    "idea": {
+      "title": "The Inventor Forced Inside His Own Execution Device",
+      "hook": "When Perillos presented a terrifying bronze bull execution device to the tyrant Phalaris, he expected a royal reward—instead, he became its very first victim.",
+      "beats": [
+        "Perillos designs a hollow bronze bull that converts a victim's screams into roaring bull sounds over a fire.",
+        "The tyrant Phalaris demands Perillos step inside to demonstrate how the internal sound pipes work.",
+        "Phalaris locks the door and orders a fire lit beneath the bull, trapping the inventor inside.",
+        "Perillos is pulled out just before dying, only to be thrown off a cliff by order of the tyrant."
+      ],
+      "keywords": [
+        "brazen bull engraving",
+        "ancient greek execution painting",
+        "phalaris tyrant portrait",
+        "perillos sculpture bust",
+        "ancient greece historical artwork"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#historyfacts",
+        "#darkhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An inventor was burned inside his own execution device.",
+        "search": "brazen bull execution engraving",
+        "caption": "An inventor burned inside his own execution device."
+      },
+      {
+        "narration": "In 560 BC, the tyrant Phalaris ruled the Sicilian city of Akragas with absolute cruelty.",
+        "search": "ancient sicily map engraving 6th century bc",
+        "caption": "In 560 BC, Tyrant Phalaris ruled Akragas with extreme brutality."
+      },
+      {
+        "narration": "Court sculptor Perillos presented a hollow bronze bull designed to turn human agony into art.",
+        "search": "ancient greek sculptor bronze statue marble relief",
+        "caption": "Sculptor Perillos designed a hollow bronze bull to torture victims."
+      },
+      {
+        "narration": "Complex acoustic pipes inside the mouth converted a victim's screams into furious bull roars.",
+        "search": "brazen bull interior mechanism drawing 18th century engraving",
+        "caption": "Internal pipes converted screams into the acoustic roar of a bull."
+      },
+      {
+        "narration": "Disgusted by the cruelty, Phalaris commanded Perillos to crawl inside and demonstrate the pipes himself.",
+        "search": "phalaris tyrant portrait oil painting",
+        "caption": "Tyrant Phalaris ordered Perillos inside to demonstrate the sound pipes."
+      },
+      {
+        "narration": "Once the inventor was inside, guards locked the hatch and lit a blazing fire beneath the belly.",
+        "search": "ancient greek execution painting fire under bronze bull",
+        "caption": "Guards locked the hatch and lit a fire underneath the bull."
+      },
+      {
+        "narration": "Phalaris pulled the burnt inventor out right before death, refusing to let him die inside.",
+        "search": "ancient greek historical artwork execution scene engraving",
+        "caption": "Perillos was dragged out near death, only to face immediate execution."
+      },
+      {
+        "narration": "Instead, Perillos was thrown off a cliff, becoming the first victim of his monstrous invention.",
+        "search": "ancient greek cliff sicily coast oil painting",
+        "caption": "Thrown from a cliff, Perillos died by his own grim creation."
+      },
+      {
+        "narration": "For sixteen years, Phalaris used the hollow bronze bull to execute dozens of political rivals in Akragas.",
+        "search": "ancient greek execution brazen bull engraving",
+        "caption": "Phalaris executed scores of rivals inside the bronze bull"
+      },
+      {
+        "narration": "In 554 BC, the citizens of Sicily finally revolted against his brutal reign and captured the tyrant.",
+        "search": "ancient greece rebellion uprising oil painting",
+        "caption": "In 554 BC, a popular rebellion captured Phalaris in Sicily"
+      },
+      {
+        "narration": "The mob locked Phalaris inside the brazen bull and lit the fire, burning him alive in the exact device he commissioned.",
+        "search": "phalaris death brazen bull historic engraving",
+        "caption": "Phalaris was burned alive in the execution device he commissioned"
+      },
+      {
+        "narration": "He built a torture device, then became its first victim.",
+        "search": "perillos sculpture bust ancient greece historical artwork",
+        "caption": "Built a torture device, became its first victim."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T03:53:15.395130+00:00",
+    "updated_at": "2026-11-18T03:57:57.140074+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-18T03:54:46.925728+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "363 chars (cat 212 de vua 55s)",
+        "at": "2026-11-18T03:55:52.356577+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "22.6s en-US-GuyNeural 4 cau",
+        "at": "2026-11-18T03:55:55.795801+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T03:55:56.584374+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-18T03:57:12.755173+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-18T03:57:12.770930+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 22.6s 19723143 bytes",
+        "at": "2026-11-18T03:57:56.933657+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T03:57:57.140062+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8672004/pexels-photo-8672004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29899949/pexels-photo-29899949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8964514/pexels-photo-8964514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13083354/pexels-photo-13083354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20720305/pexels-photo-20720305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11540176/pexels-photo-11540176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38209710/pexels-photo-38209710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39969057/pexels-photo-39969057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36797958/pexels-photo-36797958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8253730/pexels-photo-8253730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27269181/pexels-photo-27269181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40553828/pexels-photo-40553828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d2ccb3830a",
     "kind": "short",
     "channel": "Channel2",
