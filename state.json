@@ -1,5 +1,167 @@
 [
   {
+    "id": "8cd403c0d4",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao không gian vũ trụ thực sự im lặng đến đáng sợ?",
+    "idea": {
+      "title": "Tại sao không gian vũ trụ thực sự im lặng đến đáng sợ?",
+      "hook": "Nếu bạn hét lên ở khoảng cách một mét trong vũ trụ, người bên cạnh cũng không thể nghe thấy.",
+      "beats": [
+        "Âm thanh cần môi trường vật chất như không khí, nước hoặc chất rắn để lan truyền sóng cơ học.",
+        "Vũ trụ là chân không tuyệt đối, không có các phân tử khí để truyền tải dao động âm thanh từ dây thanh quản.",
+        "Ngay cả những vụ nổ siêu tân tinh khổng lồ hàng triệu năm ánh sáng cũng diễn ra trong sự tĩnh lặng hoàn toàn.",
+        "Hình ảnh minh họa sóng âm chết lặng giữa biển sao bao la để làm nổi bật sự cô độc của không gian."
+      ],
+      "keywords": [
+        "deep space stars",
+        "sound wave vacuum",
+        "galaxy nebula animation",
+        "cosmos silence",
+        "universe background"
+      ],
+      "tags": [
+        "vutru",
+        "khoahoc",
+        "amthanh",
+        "channel3",
+        "kienthucthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Neu ban het to het co trong phong kin, tai sao van co nguoi nghe thay?",
+        "search": "3d animation phong ngu kin cach am",
+        "caption": "Het to trong phong kin"
+      },
+      {
+        "narration": "Am thanh thuc ra la gi ma phai can moi truong de di chuyen?",
+        "search": "motion graphics song am dao dong khong khi",
+        "caption": "Ban chat cua am thanh"
+      },
+      {
+        "narration": "Khi ban noi chuyen, day thanh quan tao ra song co hoc day cac phat tu.",
+        "search": "explainer animation day thanh quan phat ra am thanh",
+        "caption": "Dao dong day thanh quan"
+      },
+      {
+        "narration": "Neu khong co khong khi de day di, song am se bi chan dung ngat ngoai.",
+        "search": "loop animation song am bi chan lai trong phong chan khong",
+        "caption": "Am thanh bi chan dung"
+      },
+      {
+        "narration": "Tren ban an, tieng nhai thuc an vang vong ben trong hop so cua chinh ban.",
+        "search": "isometric render nguoi dang an nhai thuc an",
+        "caption": "Am thanh trong hop so"
+      },
+      {
+        "narration": "Nhung neu dat chiec dien thoai vao buong hut chan khong, chuong reo ma khong ai nghe thay.",
+        "search": "3d animation dien thoai reo trong ong chan khong",
+        "caption": "Dien thoai reo khong tieng dong"
+      },
+      {
+        "narration": "Khong khi xung quanh chung ta giong nhu chiec cau noi khong the thieu cua moi tieng dong.",
+        "search": "motion graphics cac phat tu khong khi chuyen dong xung quanh",
+        "caption": "Cau noi cua am thanh"
+      },
+      {
+        "narration": "Dieu gi xay ra neu phong khach nha ban dot ngot bien thanh chan ket tuyet doi?",
+        "search": "explainer animation phong khach bien thanh chan khong",
+        "caption": "Phong khach khong con khong khi"
+      },
+      {
+        "narration": "Neu ban thu ghet mot tieng trong phong ngan cach tuyet doi, ban se giong nhu dang mac ket trong chinh buong toi cua minh.",
+        "search": "3d animation nguoi dung trong phong cach am kin mit",
+        "caption": "Phong cach am tuyet doi khong mot tieng dong"
+      },
+      {
+        "narration": "Bo nao con nguoi tu dong tao ra tieng u tai de bu lai su thieu hut am thanh khi qua yen tinh.",
+        "search": "motion graphics hieu ung song nao suy nghi trong dau",
+        "caption": "Bo nao tu sinh ra tieng u tai"
+      },
+      {
+        "narration": "Chi sau vai phut o trong buong tinh lang hoan toan, ban se bat dau nghe thay nhip dap cua trai tim va tieng mau chay.",
+        "search": "isometric render trai tim dang dap va mach mau",
+        "caption": "Nghe thay ca tieng mau chay"
+      },
+      {
+        "narration": "Cam giac lo au va ao giac am thanh xuat hien vi tri nao khong chiu duoc su co doc khong tieng dong.",
+        "search": "cartoony 3d khuon mat lo au nhin vao man hinh dien thoai",
+        "caption": "Ao giac xuat hien vi thieu am thanh"
+      },
+      {
+        "narration": "Su yen lang tuyet doi la noi so lon nhat cua bo nao, vi no luon can tieng dong de xac dinh su ton tai.",
+        "search": "loop animation dong ho cat chay het thoi gian trong phong toi",
+        "caption": "Am thanh la dau hieu cua su song"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T22:39:37.728806+00:00",
+    "updated_at": "2026-11-18T22:42:41.554125+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-18T22:40:44.570295+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "474 chars (cat 174 de vua 55s)",
+        "at": "2026-11-18T22:41:16.858952+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.1s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-11-18T22:41:24.928252+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T22:41:25.891363+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-18T22:41:43.110531+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-18T22:41:43.128908+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.1s 18407438 bytes",
+        "at": "2026-11-18T22:42:41.420546+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T22:42:41.554115+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/36314706/15401224_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39897023/17019170_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464975/13417833_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283164/15283164-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6821999/6821999-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816985/8816985-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7479750/7479750-hd_1080_1620_20fps.mp4",
+      "https://videos.pexels.com/video-files/7182202/7182202-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/5708818/5708818-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6657957/6657957-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456776/16456776-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6259213/6259213-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/39616306/16886515_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "b57cc1286c",
     "kind": "long",
     "channel": "seigh",
