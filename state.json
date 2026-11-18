@@ -1,5 +1,167 @@
 [
   {
+    "id": "0090917d53",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về trọng lực trái đất đang âm thầm kéo giãn bạn",
+    "idea": {
+      "title": "Sự thật về trọng lực trái đất đang âm thầm kéo giãn bạn",
+      "hook": "Bạn cao hơn vào buổi sáng và thấp hơn vào ban đêm, nhưng sự thật là trái đất đang liên tục kéo giãn cột sống của bạn mỗi giây.",
+      "beats": [
+        "Giải thích hiện tượng đĩa đệm bị nén lại dưới trọng lực suốt cả ngày khi bạn đi đứng.",
+        "Khi bạn nằm ngủ trong không gian hoặc trên giường, các đốt sống được giãn ra, khiến bạn cao hơn khoảng 1-2 cm vào sáng hôm sau.",
+        "So sánh với môi trường vi trọng lực ngoài vũ trụ, nơi các phi hành gia cao thêm tới 5cm nhưng đi kèm với cơn đau lưng dữ dội vì cơ thể không quen chịu lực kéo.",
+        "Kết luận bằng góc nhìn khoa học thú vị về cách cơ thể bạn phải 'vật lộn' với trọng lực trái đất mỗi ngày."
+      ],
+      "keywords": [
+        "earth gravity space",
+        "spine decompression",
+        "astronaut height space",
+        "human body in space",
+        "floating earth view"
+      ],
+      "tags": [
+        "channel3",
+        "khoahoc",
+        "cothe",
+        "vutru",
+        "suthat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn cao hơn vào buổi sáng và thấp hơn vào ban đêm.",
+        "search": "3d animation nguoi thuc dậy buoi sang",
+        "caption": "Bạn cao hơn vào buổi sáng và thấp hơn ban đêm"
+      },
+      {
+        "narration": "Trọng lực trái đất đang liên tục kéo giãn cơ thể bạn mỗi giây.",
+        "search": "motion graphics trong luc tac dong vao co the nguoi",
+        "caption": "Trọng lực kéo giãn cơ thể bạn mỗi giây"
+      },
+      {
+        "narration": "Suốt cả ngày đi đứng, đĩa đệm của bạn bị nén lại liên tục dưới sức nặng.",
+        "search": "isometric render cot song bi nen xuong khi dung",
+        "caption": "Đĩa đệm bị nén lại suốt cả ngày"
+      },
+      {
+        "narration": "Đến tối, bạn thực sự thấp đi khoảng một đến hai cm so với lúc mới thức dậy.",
+        "search": "explainer animation chieu cao thayDoi trong ngay",
+        "caption": "Bạn thấp đi 1-2 cm vào cuối ngày"
+      },
+      {
+        "narration": "Nhưng khi bạn nằm xuống giường ngủ, cột sống bắt đầu được giải nén.",
+        "search": "loop animation ngu tren giuong gian dot song",
+        "caption": "Cột sống được giãn ra khi nằm ngủ"
+      },
+      {
+        "narration": "Các khoảng cách giữa đốt sống giãn nở trở lại trong tư thế nằm thẳng.",
+        "search": "3d animation dot song co gian khi ngu",
+        "caption": "Đốt sống giãn nở khi bạn ngủ"
+      },
+      {
+        "narration": "Các phi hành gia ngoài không gian thậm chí cao thêm tới năm cm.",
+        "search": "motion graphics phi hanh gia ngoai khong gian cao hon",
+        "caption": "Phi hành gia cao thêm 5cm"
+      },
+      {
+        "narration": "Tuy nhiên, họ lại phải đối mặt với những cơn đau lưng dữ dội vì mất đi trọng lực.",
+        "search": "isometric render dau lung trong khong trung",
+        "caption": "Đau lưng dữ dội vì không có trọng lực"
+      },
+      {
+        "narration": "Nguyên nhân là do các đốt sống thiếu lực nén, khiến cơ thể giãn ra quá mức bình thường.",
+        "search": "3d animation cot song bi keo gian",
+        "caption": "Đốt sống giãn ra vì thiếu lực nén."
+      },
+      {
+        "narration": "Trở lại Trái Đất, cơ thể bạn phải liên tục vật lộn với trọng lực mỗi khi đứng lên hay đi lại.",
+        "search": "motion graphics nguoi dung thang bi trong luc tac dong",
+        "caption": "Trọng lực luôn đè nặng lên cơ thể."
+      },
+      {
+        "narration": "Suốt cả ngày dài, trọng lực ép chặt các đĩa đệm khiến bạn lùn đi một chút vào buổi tối.",
+        "search": "isometric render dia dem cot song bi nen lai",
+        "caption": "Đĩa đệm bị nén lại suốt cả ngày."
+      },
+      {
+        "narration": "Sự co giãn liên tục này diễn ra mỗi ngày, giống như một chiếc lò xo không bao giờ nghỉ.",
+        "search": "loop animation chiec lo xo co gian lien tuc",
+        "caption": "Cơ thể co giãn như một chiếc lò xo."
+      },
+      {
+        "narration": "Đó là lý do bạn luôn cao nhất khi vừa thức dậy vào buổi sáng và thấp hơn khi đi ngủ.",
+        "search": "explainer animation nguoi thuc giay buoi sang",
+        "caption": "Bạn cao nhất vào buổi sáng."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T21:00:15.512230+00:00",
+    "updated_at": "2026-11-18T21:04:03.475088+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-18T21:01:57.825727+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "491 chars (cat 572 de vua 55s)",
+        "at": "2026-11-18T21:02:30.642945+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.2s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-18T21:02:50.135211+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T21:02:51.036438+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-18T21:03:10.536154+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-18T21:03:10.549778+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.2s 28049625 bytes",
+        "at": "2026-11-18T21:04:03.335577+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T21:04:03.475074+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6229362/6229362-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8100338/8100338-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16727458/16727458-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5839005/5839005-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/36307684/15397364_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34327303/14542519_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/27508919/12155915_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15439758/15439758-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819933/8819933-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/28977701/12535411_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34342917/14549299_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/17555904/17555904-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/4919536/4919536-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "448712f330",
     "kind": "short",
     "channel": "Channel3",
