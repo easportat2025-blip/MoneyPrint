@@ -1,4 +1,4 @@
-# Daily ping 17/11/2026
+# Daily ping 18/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -8,20 +8,16 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (4)
-- Sự thật bất ngờ về tiếng thở khi bạn đang ngủ say :: token refresh failed: 400 {
+## Fail (3)
+- Tại sao thở bằng miệng khi ngủ đang âm thầm hủy hoại kh :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman Emperor Who Quit Absolute Power to Grow Cabba :: token refresh failed: 400 {
+- The Inventor Forced Inside His Own Execution Device :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman Emperor Who Smothered Guests With Flowers :: token refresh failed: 400 {
-  "error": "invalid_grant",
-  "error_description": "Bad Request"
-}
-- The Ancient Traitor Who Betrayed Everyone and Won :: token refresh failed: 400 {
+- The Spartan King Who Starved Himself Mad :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
