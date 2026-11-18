@@ -1,5 +1,161 @@
 [
   {
+    "id": "6f6edb02f0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Taxed Urine to Save Rome",
+    "idea": {
+      "title": "The Roman Emperor Who Taxed Urine to Save Rome",
+      "hook": "Emperor Vespasian taxed human urine to save a bankrupt Rome, facing humiliating backlash from his own son until a sharp economic lesson proved everyone wrong.",
+      "beats": [
+        "Rome was left bankrupt after Nero's chaotic reign and civil wars.",
+        "Vespasian imposed a tax on public toilets, where urine was harvested for tanning leather and washing clothes.",
+        "His son Titus complained the money was dirty, but Vespasian held up a gold coin and famously declared money has no smell.",
+        "The controversial tax restored Rome's treasury and funded the construction of the iconic Colosseum."
+      ],
+      "keywords": [
+        "emperor vespasian portrait",
+        "ancient rome colosseum engraving",
+        "roman gold coins antique",
+        "roman senate painting",
+        "ancient rome map vintage"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historyfacts",
+        "#romanempire",
+        "#archival history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Emperor Vespasian saved bankrupt Rome by taxing human urine.",
+        "search": "emperor vespasian marble bust statue",
+        "caption": "Vespasian taxed urine to save Rome from financial collapse."
+      },
+      {
+        "narration": "In 69 AD, the empire faced ruin after Emperor Nero's extravagant reign and bloody civil wars.",
+        "search": "emperor nero marble bust statue",
+        "caption": "In 69 AD, Emperor Nero left Rome completely bankrupt."
+      },
+      {
+        "narration": "With the imperial treasury empty, Rome desperately needed unprecedented sources of revenue.",
+        "search": "roman empire vintage map engraving",
+        "caption": "The imperial treasury was completely drained by war."
+      },
+      {
+        "narration": "Ancient Roman tanneries and laundries depended on human urine for its ammonia content.",
+        "search": "ancient roman latrine architectural engraving",
+        "caption": "Roman industries relied heavily on urine for ammonia."
+      },
+      {
+        "narration": "Recognizing its commercial value, Vespasian enacted the vectigal urinae, a tax on public toilets.",
+        "search": "roman gold coins antique engraving",
+        "caption": "Vespasian enacted the controversial tax on public latrines."
+      },
+      {
+        "narration": "The public retaliated with mockery, and Vespasian's son Titus openly condemned the disgusting tax.",
+        "search": "emperor titus marble bust statue",
+        "caption": "Titus publicly shamed his father over the dirty tax."
+      },
+      {
+        "narration": "Political pressure mounted inside the Roman Senate, yet the emperor refused to repeal his policy.",
+        "search": "roman senate painting oil canvas",
+        "caption": "Senators pressured Vespasian to abolish the public latrine tax."
+      },
+      {
+        "narration": "To confront his son, Vespasian held a gold coin minted from the tax directly to Titus's nose.",
+        "search": "ancient roman gold aureus coin photograph",
+        "caption": "Vespasian challenged his son with gold collected from latrines."
+      },
+      {
+        "narration": "When Titus admitted the coin held no scent, Vespasian reminded him it came from urine, establishing the famous Latin principle that money has no smell.",
+        "search": "emperor vespasian marble bust statue close up",
+        "caption": "Money has no smell became a lasting economic lesson."
+      },
+      {
+        "narration": "By seventy-nine AD, the steady stream of toilet tax revenue had rescued the Roman treasury and financed the construction of the iconic Colosseum.",
+        "search": "ancient rome colosseum engraving vintage illustration",
+        "caption": "Urine tax revenues funded the construction of the Colosseum."
+      },
+      {
+        "narration": "Vespasian transformed a humiliating public necessity into the financial salvation of the world's greatest ancient empire.",
+        "search": "roman gold coins aureus antique museum collection",
+        "caption": "An absurd tax saved Rome from total financial ruin."
+      },
+      {
+        "narration": "A urine tax saved ancient Rome from total collapse.",
+        "search": "emperor vespasian portrait oil painting",
+        "caption": "A urine tax saved ancient Rome from collapse."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-18T08:35:48.807658+00:00",
+    "updated_at": "2026-11-18T08:47:57.469766+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-18T08:41:16.760677+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "411 chars (cat 188 de vua 55s)",
+        "at": "2026-11-18T08:43:21.552599+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.0s en-US-GuyNeural 7 cau",
+        "at": "2026-11-18T08:43:24.516078+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-18T08:43:25.254956+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-18T08:47:20.294665+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-18T08:47:20.306614+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.0s 13701618 bytes",
+        "at": "2026-11-18T08:47:57.356526+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-18T08:47:57.469754+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38495338/pexels-photo-38495338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37787335/pexels-photo-37787335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3222684/pexels-photo-3222684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16272963/pexels-photo-16272963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645913/pexels-photo-28645913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6764231/pexels-photo-6764231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20014919/pexels-photo-20014919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20392476/pexels-photo-20392476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32766647/pexels-photo-32766647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39985252/pexels-photo-39985252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "60cb24ceee",
     "kind": "short",
     "channel": "Channel3",
