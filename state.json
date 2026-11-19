@@ -1,5 +1,161 @@
 [
   {
+    "id": "b9ab6e5841",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Appointed His Horse Consul",
+    "idea": {
+      "title": "The Roman Emperor Who Appointed His Horse Consul",
+      "hook": "Caligula wanted to make his favorite horse a Roman senator, but the senators' reaction was far worse than the joke.",
+      "beats": [
+        "Caligula lavished his beloved horse, Incitatus, with a marble stable, an ivory manger, and a retinue of servants.",
+        "The emperor threatened to formally promote the animal to the highest political office in Rome to humiliate the elite.",
+        "Instead of a political reform, the terrifying stunt exposed the absolute helplessness of the Roman Senate against a mad ruler.",
+        "Caligula's reign ended in bloody assassination, proving that mocking the powerful carries a fatal price."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman painting",
+        "caligula portrait",
+        "roman senate engraving",
+        "ancient rome art"
+      ],
+      "tags": [
+        "history",
+        "rome",
+        "caligula",
+        "shorts",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did Caligula really make his horse a Roman consul?",
+        "search": "caligula portrait roman emperor bust sculpture",
+        "caption": "Did Caligula make his horse consul?"
+      },
+      {
+        "narration": "In 37 AD, the third Roman emperor, Gaius Caesar Augustus Germanicus, took absolute power over the empire.",
+        "search": "ancient roman painting of emperor throne room",
+        "caption": "Emperor Caligula takes absolute power in 37 AD"
+      },
+      {
+        "narration": "Caligula lavished his beloved favorite horse, Incitatus, with a marble stable, an ivory manger, and a retinue of servants.",
+        "search": "ancient rome art fresco of luxury estate horses",
+        "caption": "Incitatus lived in luxury with servants"
+      },
+      {
+        "narration": "The unpredictable ruler demanded that his cherished animal be granted the highest political office in Rome.",
+        "search": "roman senate engraving politicians debating in hall",
+        "caption": "Threatening to promote a horse to consul"
+      },
+      {
+        "narration": "This absurd threat was designed specifically to humiliate the proud patrician families of the empire.",
+        "search": "ancient roman painting of aristocrats looking shocked",
+        "caption": "Humiliating the elite senators of Rome"
+      },
+      {
+        "narration": "Instead of political reform, the terrifying stunt exposed the absolute helplessness of the Roman Senate against a mad ruler.",
+        "search": "roman senate engraving dramatic assembly meeting",
+        "caption": "The helpless Senate faces a mad ruler"
+      },
+      {
+        "narration": "The senators could only watch in terror as imperial tyranny trampled centuries of republican tradition.",
+        "search": "ancient roman painting of dark palace corridors",
+        "caption": "Imperial tyranny tramples centuries of tradition"
+      },
+      {
+        "narration": "Caligula's reign of terror ultimately ended in a bloody assassination by his own palace guards in 41 AD.",
+        "search": "roman emperor bust marble sculpture weathered",
+        "caption": "Caligula's reign ended in bloody assassination"
+      },
+      {
+        "narration": "In 37 AD, Emperor Caligula lavished his beloved horse, Incitatus, with a marble stable and an ivory manger.",
+        "search": "caligula portrait roman emperor bust marble statue",
+        "caption": "Caligula's luxury for his horse."
+      },
+      {
+        "narration": "The mad ruler threatened to formally promote the animal to consul, the highest political office in Rome.",
+        "search": "roman senate engraving historical assembly hall art",
+        "caption": "Threatening the Roman Senate."
+      },
+      {
+        "narration": "This terrifying stunt exposed the absolute helplessness of Rome's elite against absolute tyranny.",
+        "search": "ancient roman painting classical figures dramatic scene",
+        "caption": "Powerlessness of the Roman elite."
+      },
+      {
+        "narration": "In 37 AD, Roman Emperor Caligula gave his favorite horse a marble stable.",
+        "search": "caligula portrait roman emperor bust statue",
+        "caption": "Caligula's luxury for his horse Incitatus"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T03:45:11.471695+00:00",
+    "updated_at": "2026-11-19T03:49:18.218259+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-19T03:46:40.042274+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "350 chars (cat 280 de vua 55s)",
+        "at": "2026-11-19T03:47:13.948806+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-19T03:47:16.422220+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T03:47:17.238697+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-19T03:48:31.155673+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-19T03:48:31.174450+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 15623424 bytes",
+        "at": "2026-11-19T03:49:18.035288+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T03:49:18.218248+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/31979489/pexels-photo-31979489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709023/pexels-photo-35709023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29422809/pexels-photo-29422809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15488844/pexels-photo-15488844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35644588/pexels-photo-35644588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34491539/pexels-photo-34491539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34252892/pexels-photo-34252892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5209732/pexels-photo-5209732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23844583/pexels-photo-23844583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39606068/pexels-photo-39606068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11803914/pexels-photo-11803914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18043792/pexels-photo-18043792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5f098306a4",
     "kind": "short",
     "channel": "Channel2",
