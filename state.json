@@ -1,5 +1,161 @@
 [
   {
+    "id": "319db9721f",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Conquered Italy But Lost to a Door",
+    "idea": {
+      "title": "The King Who Conquered Italy But Lost to a Door",
+      "hook": "King Charles VIII invaded Italy with 25,000 men, but his glorious reign ended because of a single low doorway.",
+      "beats": [
+        "In 1494, King Charles VIII led a powerful French army into Italy and captured Naples.",
+        "After returning to France as a victorious ruler, he walked to watch a game of tennis at Chateau d'Amboise.",
+        "While rushing through a dark doorway, he struck his head violently on a low stone lintel.",
+        "He collapsed hours later and died at age 27, leaving his kingdom without a direct heir."
+      ],
+      "keywords": [
+        "Charles VIII of France portrait",
+        "French renaissance battle painting",
+        "Chateau d Amboise engraving",
+        "Medieval king portrait",
+        "15th century European map"
+      ],
+      "tags": [
+        "history",
+        "frenchhistory",
+        "weirdhistory",
+        "monarchs",
+        "historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He conquered an empire, then lost to a doorway.",
+        "search": "Charles VIII of France portrait painting",
+        "caption": "He conquered Italy, then lost to a doorway."
+      },
+      {
+        "narration": "In 1494, King Charles VIII of France launched a massive campaign to claim Naples.",
+        "search": "15th century European map engraving",
+        "caption": "1494: Charles VIII claims the Kingdom of Naples."
+      },
+      {
+        "narration": "Marching across the Alps with twenty-five thousand soldiers, his army swept through Italian states virtually unopposed.",
+        "search": "French renaissance battle painting",
+        "caption": "25,000 soldiers swept through Italy unopposed."
+      },
+      {
+        "narration": "After crowning himself King of Naples, Charles returned to France as one of Europe's most feared monarchs.",
+        "search": "Medieval king portrait oil painting",
+        "caption": "Crowned King of Naples, feared across Europe."
+      },
+      {
+        "narration": "On April 7, 1498, the twenty-seven-year-old monarch walked through Château d'Amboise to watch a game of tennis.",
+        "search": "Chateau d Amboise engraving",
+        "caption": "April 7, 1498: Walking to a tennis match."
+      },
+      {
+        "narration": "Hurrying through a dimly lit subterranean passage, Charles failed to notice a low stone lintel.",
+        "search": "medieval stone doorway castle interior painting",
+        "caption": "A low stone lintel in a dark hallway."
+      },
+      {
+        "narration": "He struck his head with violent force, yet initially brushed off the injury to watch the match.",
+        "search": "15th century tennis match illustration",
+        "caption": "Struck his head, but continued to the match."
+      },
+      {
+        "narration": "Suddenly, hours later, the conqueror of Italy collapsed onto a heap of straw inside the castle.",
+        "search": "medieval royal chamber historical painting",
+        "caption": "Hours later, the young conqueror suddenly collapsed."
+      },
+      {
+        "narration": "For nine agonizing hours, royal physicians desperately tried to save the twenty-seven-year-old monarch inside Chateau d'Amboise.",
+        "search": "Chateau d Amboise renaissance engraving",
+        "caption": "Physicians failed to save the twenty-seven-year-old monarch."
+      },
+      {
+        "narration": "On April 7, 1498, King Charles VIII succumbed to the brain hemorrhage, leaving no surviving direct heirs.",
+        "search": "King Charles VIII of France oil painting portrait",
+        "caption": "Charles VIII died on April 7, 1498, without heirs."
+      },
+      {
+        "narration": "The mighty ruler who conquered Italy with twenty-five thousand soldiers met his end because of a single low doorway.",
+        "search": "French renaissance battle oil painting",
+        "caption": "A single low doorway ended a grand Italian conquest."
+      },
+      {
+        "narration": "A king conquered Italy, then died hitting a doorway.",
+        "search": "Charles VIII of France portrait painting",
+        "caption": "Conquered an empire, defeated by a door"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T12:06:52.483634+00:00",
+    "updated_at": "2026-11-19T12:11:17.136780+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-19T12:08:07.253331+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "433 chars (cat 174 de vua 55s)",
+        "at": "2026-11-19T12:09:13.780374+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-19T12:09:17.813286+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T12:09:18.563483+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-19T12:10:35.057736+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-19T12:10:35.073087+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 19654194 bytes",
+        "at": "2026-11-19T12:11:16.997172+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T12:11:17.136761+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32591578/pexels-photo-32591578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38465806/pexels-photo-38465806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20644995/pexels-photo-20644995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6691500/pexels-photo-6691500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39040236/pexels-photo-39040236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2705357/pexels-photo-2705357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10340620/pexels-photo-10340620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33604712/pexels-photo-33604712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35604762/pexels-photo-35604762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38811785/pexels-photo-38811785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29331301/pexels-photo-29331301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39726411/pexels-photo-39726411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "44e4bad438",
     "kind": "short",
     "channel": "Channel3",
