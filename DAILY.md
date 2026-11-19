@@ -1,4 +1,4 @@
-# Daily ping 18/11/2026
+# Daily ping 19/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Tại sao thở bằng miệng khi ngủ đang âm thầm hủy hoại kh :: token refresh failed: 400 {
+- Thói quen lau màn hình bằng vạt áo âm thầm làm hỏng điệ :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Inventor Forced Inside His Own Execution Device :: token refresh failed: 400 {
+- The Roman Emperor Who Appointed His Horse Consul :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Spartan King Who Starved Himself Mad :: token refresh failed: 400 {
+- The King Killed by His Own Pet Monkey :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
