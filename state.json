@@ -1,5 +1,162 @@
 [
   {
+    "id": "5f098306a4",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Killed by His Own Pet Monkey",
+    "idea": {
+      "title": "The King Killed by His Own Pet Monkey",
+      "hook": "King Alexander of Greece was bitten by a pet monkey, triggering a catastrophic war that cost thousands of lives.",
+      "beats": [
+        "In 1920, 27-year-old King Alexander of Greece rescued his dog from a stray macaque in the royal gardens.",
+        "The monkey severely bit the king, causing a deadly bacterial infection before antibiotics existed.",
+        "The king died weeks later, throwing the nation into complete political chaos.",
+        "His exiled father returned to power and immediately led Greece into a disastrous war against Turkey.",
+        "Winston Churchill later wrote that a quarter of a million people died as a direct result of that monkey bite."
+      ],
+      "keywords": [
+        "King Alexander of Greece portrait",
+        "vintage map Greco Turkish War",
+        "historical macaque monkey engraving",
+        "archival photograph Athens 1920",
+        "royal Greek monarchy oil painting"
+      ],
+      "tags": [
+        "history",
+        "historyfacts",
+        "weirdhistory",
+        "greekhistory",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One pet monkey bite altered world history forever.",
+        "search": "historical macaque monkey engraving",
+        "caption": "One bite changed history."
+      },
+      {
+        "narration": "Winston Churchill later blamed a single animal for a quarter of a million deaths.",
+        "search": "Winston Churchill archival photograph portrait",
+        "caption": "A quarter million deaths."
+      },
+      {
+        "narration": "In October 1920, 27-year-old King Alexander of Greece walked through his royal gardens in Athens.",
+        "search": "King Alexander of Greece portrait painting",
+        "caption": "King Alexander in Athens, 1920."
+      },
+      {
+        "narration": "His German Shepherd was attacked by a Barbary macaque, prompting the king to intervene.",
+        "search": "vintage royal garden illustration engraving",
+        "caption": "The royal gardens attack."
+      },
+      {
+        "narration": "As Alexander pulled the dogs apart, a second macaque leaped forward and viciously bit his hand.",
+        "search": "aggressive macaque monkey vintage drawing",
+        "caption": "The fatal monkey bite."
+      },
+      {
+        "narration": "The wounds quickly turned septic, developing a severe bacterial infection weeks before antibiotics were invented.",
+        "search": "1920 medical illustration vintage textbook",
+        "caption": "A deadly bacterial infection."
+      },
+      {
+        "narration": "King Alexander died of sepsis on October 25, 1920, leaving Greece without an heir.",
+        "search": "archival photograph Athens 1920 funeral",
+        "caption": "The king's sudden death."
+      },
+      {
+        "narration": "His unexpected death triggered an immediate collapse of the Greek political regime and royal government.",
+        "search": "vintage map Greco Turkish War territory",
+        "caption": "Political chaos in Greece."
+      },
+      {
+        "narration": "In late 1920, King Alexander's exiled father, Constantine I, reclaimed the throne and launched an aggressive military invasion deep into Anatolia.",
+        "search": "King Constantine I of Greece archival photograph 1920",
+        "caption": "Exiled King Constantine I reclaimed power and invaded Turkey in 1920."
+      },
+      {
+        "narration": "The campaign ended in total military collapse by August 1922, resulting in the destruction of the Greek army and massive casualties.",
+        "search": "Greco Turkish War 1922 archival photograph soldiers",
+        "caption": "The invasion collapsed into total military disaster by August 1922."
+      },
+      {
+        "narration": "Winston Churchill later famously observed that a quarter of a million people died as the ultimate result of that single monkey bite.",
+        "search": "Winston Churchill 1920s archival photograph portrait",
+        "caption": "Churchill noted 250,000 people died from a single monkey bite."
+      },
+      {
+        "narration": "A single monkey bite started a catastrophic war.",
+        "search": "King Alexander of Greece portrait painting",
+        "caption": "A royal pet changed world history."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T01:34:45.033977+00:00",
+    "updated_at": "2026-11-19T01:39:36.609632+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-19T01:36:00.560709+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "389 chars (cat 352 de vua 55s)",
+        "at": "2026-11-19T01:36:32.873525+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.8s en-US-GuyNeural 6 cau",
+        "at": "2026-11-19T01:36:37.123969+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T01:36:37.658760+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-19T01:39:06.631581+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-19T01:39:06.643790+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.8s 13586967 bytes",
+        "at": "2026-11-19T01:39:36.466126+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T01:39:36.609615+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/22468506/pexels-photo-22468506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13616447/pexels-photo-13616447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37539385/pexels-photo-37539385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20606105/pexels-photo-20606105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11490139/pexels-photo-11490139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12467816/pexels-photo-12467816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9578815/pexels-photo-9578815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543469/pexels-photo-17543469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3095105/pexels-photo-3095105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32716432/pexels-photo-32716432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26117215/pexels-photo-26117215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6567138/pexels-photo-6567138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "3097fb6be7",
     "kind": "short",
     "channel": "Channel2",
