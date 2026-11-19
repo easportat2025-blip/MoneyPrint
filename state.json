@@ -1,5 +1,167 @@
 [
   {
+    "id": "44e4bad438",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Thói quen lau màn hình bằng vạt áo âm thầm làm hỏng điện thoại",
+    "idea": {
+      "title": "Thói quen lau màn hình bằng vạt áo âm thầm làm hỏng điện thoại",
+      "hook": "Mỗi lần bạn vén vạt áo lên lau màn hình, bạn nghĩ mình đang làm sạch nó, nhưng thực ra bạn đang vô tình dùng hạt bụi nhỏ làm trầy dế yêu.",
+      "beats": [
+        "Sợi vải thô kết hợp với bụi bẩn bám trên áo hoạt động như một lớp giấy nhám siêu mịn.",
+        "Thói quen này phá hủy lớp phủ chống bám vân tay (Oleophobic coating) nhanh gấp nhiều lần bình thường.",
+        "Khi mất lớp phủ bảo vệ, màn hình sẽ cực kỳ dễ bám bẩn và xuất hiện hàng loạt vết xước dăm vĩnh viễn.",
+        "Giải pháp đúng nhất là dùng khăn vi sợi (microfiber) chuyên dụng cùng dung dịch vệ sinh màn hình."
+      ],
+      "keywords": [
+        "smartphone screen micro scratch",
+        "microfiber cloth clean phone",
+        "fabric texture macro closeup",
+        "dirty phone screen display",
+        "cleaning smartphone display"
+      ],
+      "tags": [
+        "#channel3",
+        "#meodienthoai",
+        "#congnghe",
+        "#thoiquen",
+        "#suthatthuvitoi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Lau màn hình bằng vạt áo là bạn đang biến áo thành giấy nhám.",
+        "search": "hoat hinh 3d nguoi lau man hinh dien thoai bang vao ao",
+        "caption": "Lau vạt áo biến màn hình thành giấy nhám"
+      },
+      {
+        "narration": "Mỗi ngày, hàng triệu hạt bụi siêu nhỏ từ không khí âm thầm bám đầy lên bề mặt áo của bạn.",
+        "search": "mo phong 3d hat bui sieu nho bam tren soi vai ao",
+        "caption": "Bụi bẩn siêu nhỏ bám chặt trên sợi vải"
+      },
+      {
+        "narration": "Khi bạn miết vạt áo lên màn hình, các hạt bụi này bị ép chặt và cọ xát với lực rất mạnh.",
+        "search": "hoat hinh 3d phong to canh co xat giua vai va mat kinh",
+        "caption": "Bụi cọ xát trực tiếp lên kính điện thoại"
+      },
+      {
+        "narration": "Chúng hoạt động hệt như một lớp giấy nhám siêu mịn, tạo ra vô số vết xước dăm mắt thường khó thấy.",
+        "search": "mo phong 3d man hinh dien thoai bi xuoc dam",
+        "caption": "Vết xước dăm chằng chịt xuất hiện âm thầm"
+      },
+      {
+        "narration": "Nguy hiểm hơn, thói quen này đang phá hủy lớp phủ chống bám vân tay đắt giá trên điện thoại.",
+        "search": "hoat hinh 3d lop phu giot nuoc tren man hinh dien thoai",
+        "caption": "Phá hủy lớp phủ chống vân tay đắt giá"
+      },
+      {
+        "narration": "Lớp phủ này chỉ dày vài nanomet, nhưng giúp màn hình trơn mượt và hạn chế bám bẩn tối đa.",
+        "search": "mo phong 3d cau truc nanomet tren mat kinh dien thoai",
+        "caption": "Lớp bảo vệ mỏng vài nanomet bị bào mòn"
+      },
+      {
+        "narration": "Chỉ sau vài tháng lau bằng áo, lớp bảo vệ này biến mất hoàn toàn, khiến màn hình luôn lem luốc.",
+        "search": "hoat hinh 3d man hinh dien thoai bi bam dau van tay mo",
+        "caption": "Màn hình bám đầy dấu vân tay và mờ đục"
+      },
+      {
+        "narration": "Lúc này, điện thoại không chỉ nhanh bẩn hơn mà mọi vết xước sẽ tồn tại vĩnh viễn không thể phục hồi.",
+        "search": "hoat hinh 3d kinh dien thoai bi xuoc chang chit",
+        "caption": "Vết xước vĩnh viễn không thể khắc phục"
+      },
+      {
+        "narration": "Màn hình chằng chịt vết xước dăm không chỉ làm giảm độ sắc nét mà còn khiến điện thoại mất giá tới 30% khi bán lại.",
+        "search": "hoat hinh 3d man hinh dien thoai bi mờ vi xuc va giam gia",
+        "caption": "Màn hình mờ đục và mất giá tới 30% khi bán lại."
+      },
+      {
+        "narration": "Tệ hơn, nhiều người dùng cồn nồng độ cao hoặc nước lau kính khiến lớp phủ màn hình bị ăn mòn hoàn toàn.",
+        "search": "hoat hinh 3d xit hoa chat con len man hinh dien thoai",
+        "caption": "Dùng cồn hoặc nước lau kính càng làm hỏng màn hình."
+      },
+      {
+        "narration": "Vậy làm thế nào để vệ sinh màn hình sáng bóng mà không biến nó thành một miếng giấy nhám?",
+        "search": "hoat hinh 3d so sanh hai cach lau man hinh dien thoai",
+        "caption": "Làm sao để vệ sinh màn hình an toàn tuyệt đối?"
+      },
+      {
+        "narration": "Giải pháp là sử dụng khăn vi sợi microfiber chuyên dụng, các sợi vải cực nhỏ sẽ giữ chặt bụi thay vì kéo lê.",
+        "search": "hoat hinh 3d khan microfiber lau sach man hinh dien thoai",
+        "caption": "Dùng khăn microfiber để giữ chặt hạt bụi an toàn."
+      },
+      {
+        "narration": "Xịt dung dịch vệ sinh chuyên dụng vào khăn rồi lau nhẹ nhàng; từ nay hãy bỏ ngay thói quen dùng vạt áo nhé!",
+        "search": "hoat hinh 3d chai xit ve sinh va khan lau man hinh dien thoai",
+        "caption": "Xịt dung dịch lên khăn và bỏ ngay thói quen lau áo!"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T07:43:07.002427+00:00",
+    "updated_at": "2026-11-19T07:45:00.559151+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-19T07:43:31.343954+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "507 chars",
+        "at": "2026-11-19T07:43:47.440372+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.1s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-19T07:43:56.138398+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T07:43:56.830759+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-19T07:44:18.000312+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-19T07:44:18.016789+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.1s 24014348 bytes",
+        "at": "2026-11-19T07:45:00.428130+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T07:45:00.559143+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/31157265/13312570_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39604947/16881168_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7440092/7440092-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/3825405/3825405-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39351526/16749773_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6754831/6754831-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/7984170/7984170-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8516420/8516420-uhd_1440_2732_24fps.mp4",
+      "https://videos.pexels.com/video-files/15283132/15283132-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36024708/15277392_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7417201/7417201-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/4218342/4218342-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/4115285/4115285-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "b9ab6e5841",
     "kind": "short",
     "channel": "Channel2",
