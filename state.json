@@ -1,5 +1,597 @@
 [
   {
+    "id": "1bfa7dc526",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Tyrant Slain in the Dust: The Bizarre Death of Emperor Caracalla",
+    "idea": {
+      "title": "The Tyrant Slain in the Dust: The Bizarre Death of Emperor Caracalla",
+      "hook": "Emperor Caracalla ruled the Roman Empire with absolute terror, executing thousands to secure his throne. Yet, the master of millions met his end not on a glorious battlefield, but while answering a desperate call of nature on a dusty roadside.",
+      "beats": [
+        "Introduction: The stark contrast between Emperor Caracalla's terrifying tyranny and his ignominious death on a Syrian roadside in 217 AD.",
+        "A Bloody Path to Power: How Caracalla murdered his own brother Geta in their mother's arms to secure sole control of Rome.",
+        "Reign of Terror: The systematic purge of 20,000 political rivals and the lavishing of massive bribes on the Roman legions to maintain loyalty.",
+        "Obsession with Alexander the Great: Caracalla's megalomaniacal eastern campaign against Parthia and his growing paranoia.",
+        "The Seed of Treason: Praetorian Prefect Macrinus learns of a prophecy predicting his own rise, realizing he must strike Caracalla first to survive.",
+        "Recruiting the Assassin: Macrinus manipulates Julius Martialis, a disgruntled imperial bodyguard nursing a grudge over a denied promotion.",
+        "The Road to Carrhae: April 8, 217 AD—Caracalla travels to visit the temple of the moon god Luna, protected by his elite Praetorian guard.",
+        "An Urgent Interruption: Overcome by sudden stomach pain, Caracalla pulls his horse aside and steps away from his retinue for privacy.",
+        "The Fatal Strike: Martialis approaches under the pretense of delivering a message, draws a concealed dagger, and stabs the exposed emperor in the back.",
+        "Chaos in the Dust: Martialis attempts to escape but is instantly cut down by imperial archers, leaving the scene in total disarray.",
+        "The Power Grab: Macrinus feigns overwhelming grief for his fallen master while secretly seizing the throne as Rome's first equestrian emperor.",
+        "Conclusion & Legacy: How Caracalla's bizarre and sudden death triggered a wave of political instability that pushed Rome toward the Crisis of the Third Century."
+      ],
+      "keywords": [
+        "Caracalla",
+        "Roman Empire",
+        "Roman Emperors",
+        "Ancient Rome",
+        "Ancient History Documentary",
+        "Praetorian Guard",
+        "Caracalla Assassination",
+        "Macrinus",
+        "Bizarre History",
+        "Ancient Warfare"
+      ],
+      "tags": [
+        "#RomanHistory",
+        "#AncientRome",
+        "#Caracalla",
+        "#HistoryDocumentary",
+        "#AncientEmpires",
+        "#BizarreHistory",
+        "#RomanEmperor",
+        "#HistoryMysteries"
+      ],
+      "kind": "long",
+      "thumbnail_text": "KILLED ON A BATHROOM BREAK!"
+    },
+    "scenes": [
+      {
+        "narration": "Rome’s terrifying emperor was stabbed answering nature's call.",
+        "search": "Caracalla bust statue close up marble",
+        "caption": "Rome's tyrant fell in the dust."
+      },
+      {
+        "narration": "In 211 AD, Emperor Caracalla secured sole power over the Roman Empire by murdering his brother Geta inside their mother's arms.",
+        "search": "murder of geta oil painting",
+        "caption": "Murdering a brother for total control."
+      },
+      {
+        "narration": "To maintain his throne, Caracalla executed twenty thousand rivals while bankrupting the treasury to bribe the Roman legions.",
+        "search": "Caracalla denarius silver coin close up",
+        "caption": "Twenty thousand rivals systematically purged."
+      },
+      {
+        "narration": "By 216 AD, the emperor's megalomania dragged Rome into a brutal campaign against Parthia, driven by intense paranoia.",
+        "search": "Ancient Parthian empire map engraving",
+        "caption": "Obsession led Rome into eastern war."
+      },
+      {
+        "narration": "Praetorian Prefect Macrinus uncovered prophecies predicting his own rise, realizing he had to eliminate Caracalla first to survive.",
+        "search": "Macrinus bust statue roman emperor",
+        "caption": "Macrinus plotted to kill the emperor."
+      },
+      {
+        "narration": "On April 8, 217 AD, while traveling near Carrhae, Syria, Caracalla suffered sudden stomach pains and stepped away from his guards for privacy.",
+        "search": "Syrian desert landscape engraving ancient history",
+        "caption": "April 8, 217 AD: a fatal stop."
+      },
+      {
+        "narration": "Disgruntled bodyguard Julius Martialis approached under the pretense of delivering a message, drawing a hidden dagger to strike the exposed emperor.",
+        "search": "Roman soldier with dagger engraving",
+        "caption": "Stabbed in the back during privacy."
+      },
+      {
+        "narration": "Macrinus seized the throne immediately, but Caracalla's sudden death shattered imperial stability, sparking the Crisis of the Third Century.",
+        "search": "Crisis of the Third Century Roman coins engraving",
+        "caption": "Rome plunged into decades of chaos."
+      },
+      {
+        "narration": "The ruler of millions died relieved beside a dusty road.",
+        "search": "caracalla emperor marble bust statue studio lighting close up",
+        "caption": "A tyrant slain in the dust"
+      },
+      {
+        "narration": "In 217 AD, the abrupt assassination of Emperor Caracalla near Carrhae unleashed systemic instability across the Roman Empire.",
+        "search": "roman empire ancient map engraving 18th century detail",
+        "caption": "Murder that fractured Rome"
+      },
+      {
+        "narration": "Caracalla secured sole authority in 211 AD by murdering his brother Geta, subsequently executing twenty thousand political opponents.",
+        "search": "caracalla and geta roman coin antique illustration",
+        "caption": "Twenty thousand rivals purged"
+      },
+      {
+        "narration": "Seeking to emulate Alexander the Great, the emperor launched an aggressive campaign against Parthia while heavily bribing his legions to suppress dissent.",
+        "search": "ancient roman soldiers legionaries marble relief sculpture detail",
+        "caption": "Bribes and eastern campaigns"
+      },
+      {
+        "narration": "Fearing a prophecy forecasting his own death, Praetorian Prefect Macrinus orchestrated a conspiracy using disgruntled bodyguard Julius Martialis.",
+        "search": "macrinus emperor ancient roman coin close up",
+        "caption": "The prefect's secret plot"
+      },
+      {
+        "narration": "On April 8, 217 AD, while traveling toward the temple of Luna, Caracalla stepped away from his retinue to answer a call of nature.",
+        "search": "ancient road mesopotamia historic oil painting landscape",
+        "caption": "April 8, 217 AD"
+      },
+      {
+        "narration": "Martialis approached under the guise of delivering a dispatch and drove a concealed dagger into the unguarded emperor's back.",
+        "search": "ancient roman dagger pugio bronze artifact close up",
+        "caption": "Struck in the back"
+      },
+      {
+        "narration": "Macrinus seized power as the first equestrian emperor, but Caracalla's bizarre demise shattered imperial stability and accelerated the Crisis of the Third Century.",
+        "search": "crisis of the third century roman ruins oil painting",
+        "caption": "The fall into anarchy"
+      },
+      {
+        "narration": "One emperor's death destroyed fifty years of Roman stability.",
+        "search": "caracalla marble bust statue museum",
+        "caption": "ONE MURDER TRIGGERED FIFTY YEARS OF ANARCHY"
+      },
+      {
+        "narration": "In 212 AD, Emperor Caracalla slaughtered twenty thousand people to erase the memory of his co-ruler Geta.",
+        "search": "geta erased roman portrait painting illustration",
+        "caption": "TWENTY THOUSAND EXECUTED TO ERASE A BROTHER"
+      },
+      {
+        "narration": "To retain imperial power, he increased military wages by fifty percent, bankrupting the Roman treasury.",
+        "search": "caracalla silver denarius coin macro",
+        "caption": "IMPERIAL WAGES RAISED TO BUY MILITARY LOYALTY"
+      },
+      {
+        "narration": "By 216 AD, paranoia drove Caracalla east to imitate Alexander the Great and attack the Parthian Empire.",
+        "search": "parthian empire map engraving historical",
+        "caption": "PARANOIA SPURRED AN UNPROVOKED WAR IN PARTHIA"
+      },
+      {
+        "narration": "Praetorian Prefect Macrinus intercepted letters in early 217 AD revealing Caracalla ordered his execution.",
+        "search": "macrinus emperor portrait marble bust",
+        "caption": "INTERCEPTED ORDERS EXPOSED AN IMPENDING EXECUTION"
+      },
+      {
+        "narration": "On April 8, 217 AD, guard Julius Martialis traveled with the imperial escort near Carrhae, hiding a dagger.",
+        "search": "praetorian guard ancient roman relief sculpture",
+        "caption": "A CONCEALED BLADE WITHIN THE IMPERIAL GUARD"
+      },
+      {
+        "narration": "Violent stomach cramps forced Caracalla to dismount and step away from his guards beside a Syrian road.",
+        "search": "carrhae ancient desert road painting landscape",
+        "caption": "ABDOMINAL PAIN SEPARATED EMPEROR FROM GUARDS"
+      },
+      {
+        "narration": "Pretending to carry a dispatch, Martialis stepped forward and stabbed the unguarded tyrant in the back.",
+        "search": "assassination of caracalla history painting",
+        "caption": "STABBED IN THE BACK AT CARRHAE"
+      },
+      {
+        "narration": "A roadside bathroom break ended Rome’s most brutal tyranny.",
+        "search": "emperor caracalla bust statue roman marble close up",
+        "caption": "April 217 AD: Emperor Caracalla falls on a roadside."
+      },
+      {
+        "narration": "As twenty-nine-year-old Emperor Caracalla collapsed bleeding into the Syrian dust near Carrhae on April 8, 217 AD, his assassin dropped the dagger and fled.",
+        "search": "ancient roman road syria stone ruins engraving",
+        "caption": "Caracalla bleeds out on the dusty Syrian highway."
+      },
+      {
+        "narration": "Imperial archers immediately pursued Julius Martialis, impaling him with spears before he could reveal who commanded the hit.",
+        "search": "roman cavalry archers combat relief sculpture museum",
+        "caption": "Imperial archers cut down the fleeing assassin immediately."
+      },
+      {
+        "narration": "Praetorian Prefect Macrinus rushed to the corpse, weeping publicly to conceal his role as the mastermind.",
+        "search": "macrinus roman emperor ancient coin silver denarius",
+        "caption": "Praetorian Prefect Macrinus feigns sorrow over Caracalla."
+      },
+      {
+        "narration": "Three days later, Macrinus bribed the legions to proclaim him ruler, becoming the first Roman emperor outside the senatorial class.",
+        "search": "praetorian guard roman soldiers relief sculpture marble",
+        "caption": "Macrinus becomes Rome’s first equestrian emperor in 217 AD."
+      },
+      {
+        "narration": "Learning of her son's assassination and the usurper's rise, Caracalla's mother Julia Domna starved herself to death in Antioch.",
+        "search": "julia domna roman empress marble bust statue",
+        "caption": "Empress Julia Domna ends her life following the murder."
+      },
+      {
+        "narration": "Macrinus survived just fourteen months before loyal Syrian legions revolted and executed him at Antioch in 218 AD.",
+        "search": "ancient antioch battle historical painting 19th century oil",
+        "caption": "Syrian legions overthrow Macrinus after fourteen months."
+      },
+      {
+        "narration": "The assassination of Caracalla shattered imperial succession, igniting fifty years of continuous civil war known as the Crisis of the Third Century.",
+        "search": "third century crisis roman empire map engraving old",
+        "caption": "Caracalla’s murder triggers the Crisis of the Third Century."
+      },
+      {
+        "narration": "Rome's most terrifying tyrant died on a dusty roadside. In April 217 AD, Emperor Caracalla met an ignominious end near Carrhae after ruling the Roman Empire through absolute terror.",
+        "search": "Caracalla marble bust statue close up",
+        "caption": "Rome's ruthless tyrant met an ignominious roadside death in 217 AD."
+      },
+      {
+        "narration": "In December 211 AD, Caracalla ordered the murder of his co-emperor brother Geta, who died in their mother Julia Domna's arms. To secure total control, Caracalla subsequently executed over twenty thousand political rivals.",
+        "search": "Caracalla and Geta roman coin engraving",
+        "caption": "Caracalla murdered his brother Geta in 211 AD to rule alone."
+      },
+      {
+        "narration": "Caracalla bought the military's loyalty by raising legionary pay by fifty percent, bankrupting the imperial treasury. Obsessed with Alexander the Great, his mounting paranoia fueled a bloody eastern invasion against Parthia.",
+        "search": "Roman legions march oil painting",
+        "caption": "Caracalla drained imperial funds bribing legions for his Parthian campaign."
+      },
+      {
+        "narration": "In early 217 AD, Praetorian Prefect Macrinus intercepted a prophecy predicting he would succeed Caracalla as emperor. Knowing Caracalla executed anyone deemed a threat, Macrinus realized he had to strike first to survive.",
+        "search": "Macrinus roman emperor coin bronze",
+        "caption": "Praetorian Prefect Macrinus plotted treason after learning of a fatal prophecy."
+      },
+      {
+        "narration": "Macrinus recruited Julius Martialis, an imperial bodyguard enraged over a passed-over military promotion. On April 8, 217 AD, as Caracalla rode toward the temple of Luna near Carrhae, the conspirators watched for a moment of weakness.",
+        "search": "Carrhae ancient mesopotamia map engraving",
+        "caption": "Disgruntled bodyguard Julius Martialis was recruited to assassinate the emperor."
+      },
+      {
+        "narration": "Stricken by sudden abdominal pain, Caracalla ordered his retinue to halt and stepped off the road alone for privacy. Seizing the opportunity, Martialis ran forward under the pretense of delivering an urgent military message.",
+        "search": "Roman road syria ancient ruins photograph",
+        "caption": "Caracalla stepped away from his retinue due to severe stomach pain."
+      },
+      {
+        "narration": "Martialis drew a concealed dagger and stabbed the emperor in the back, killing twenty-nine-year-old Caracalla instantly. Imperial archers cut Martialis down moments later as he fled, leaving the scene in absolute chaos.",
+        "search": "Roman dagger pugio museum artifact photo",
+        "caption": "Martialis stabbed Caracalla in the back before archers executed him."
+      },
+      {
+        "narration": "Macrinus feigned deep grief before seizing power as Rome's first equestrian emperor. The sudden roadside assassination shattered imperial succession, igniting fifty years of continuous conflict known as the Crisis of the Third Century.",
+        "search": "Crisis of the third century roman empire map engraving",
+        "caption": "Caracalla's bizarre death triggered fifty years of destructive civil wars."
+      },
+      {
+        "narration": "Rome's most terrifying tyrant died on a dusty roadside.",
+        "search": "caracalla roman emperor marble bust statue",
+        "caption": "Rome's most terrifying tyrant slain in Syrian dust."
+      },
+      {
+        "narration": "In December 211 AD, Emperor Caracalla murdered his brother Geta inside their mother's quarters to secure total power.",
+        "search": "geta caracalla roman coin portrait",
+        "caption": "Caracalla murders Geta in December 211 AD."
+      },
+      {
+        "narration": "He executed twenty thousand political rivals across Rome and doubled military wages to buy the legions' absolute loyalty.",
+        "search": "roman senate murder relief engraving",
+        "caption": "Twenty thousand citizens eliminated in mass purges."
+      },
+      {
+        "narration": "Obsessed with Alexander the Great, Caracalla launched a paranoid campaign into Parthia in early 217 AD.",
+        "search": "parthian empire ancient map engraving",
+        "caption": "Paranoia fuels the Parthian campaign of 217 AD."
+      },
+      {
+        "narration": "Praetorian Prefect Macrinus intercepted written warnings predicting his own rise, prompting him to plot treason before Caracalla executed him.",
+        "search": "macrinus emperor portrait marble bust statue",
+        "caption": "Macrinus plots treason to save his own life."
+      },
+      {
+        "narration": "On April 8, 217 AD, near Carrhae, Caracalla pulled his horse aside alone to answer an urgent call of nature.",
+        "search": "carrhae ancient syria landscape painting",
+        "caption": "April 8, 217 AD: Caracalla steps aside alone."
+      },
+      {
+        "narration": "Disgruntled bodyguard Julius Martialis drew a hidden dagger and stabbed the vulnerable ruler in the back.",
+        "search": "ancient roman dagger pugio bronze artifact",
+        "caption": "Julius Martialis stabs the emperor from behind."
+      },
+      {
+        "narration": "Macrinus seized power as Rome's first equestrian emperor, but Caracalla's sudden death unleashed fifty years of catastrophic imperial chaos.",
+        "search": "crisis of the third century roman battle oil painting",
+        "caption": "Igniting fifty years of the Crisis of the Third Century."
+      },
+      {
+        "narration": "One roadside stabbing in 217 AD triggered fifty years of total Roman collapse.",
+        "search": "crisis of the third century roman battle oil painting single",
+        "caption": "A single assassination shattered centuries of Roman stability."
+      },
+      {
+        "narration": "Following Caracalla's death near Carrhae on April 8, 217 AD, Praetorian Prefect Macrinus declared himself emperor without Senate approval.",
+        "search": "emperor macrinus bust statue close up",
+        "caption": "Macrinus became Rome's first emperor from the equestrian class."
+      },
+      {
+        "narration": "Caracalla had spent years doubling legionary pay, leaving Macrinus with a bankrupt treasury and an unfaithful army that demanded more gold.",
+        "search": "ancient roman silver denarius coins pile",
+        "caption": "Bribing the army created an unsustainable financial collapse."
+      },
+      {
+        "narration": "In 218 AD, Caracalla's formidable aunt, Julia Maesa, secretly bribed the Third Legion in Syria to back her fourteen-year-old grandson Elagabalus.",
+        "search": "julia maesa roman coin portrait",
+        "caption": "Julia Maesa engineered a military rebellion to reclaim power."
+      },
+      {
+        "narration": "At the Battle of Antioch in June 218 AD, Macrinus' forces were routed, and the usurper was captured and executed while fleeing disguised.",
+        "search": "battle of antioch ancient roman engraving",
+        "caption": "Macrinus survived barely fourteen months on the imperial throne."
+      },
+      {
+        "narration": "Elagabalus assumed the purple, bringing radical religious reforms and shocking Rome's conservative senatorial elite until his own assassination in 222 AD.",
+        "search": "emperor elagabalus marble bust statue",
+        "caption": "Religious scandal further eroded imperial dignity."
+      },
+      {
+        "narration": "Caracalla's murder proved that any bodyguard with a concealed dagger could alter the fate of millions in seconds.",
+        "search": "praetorian guard dagger ancient roman relief",
+        "caption": "The Praetorian Guard became kingmakers and imperial executioners."
+      },
+      {
+        "narration": "Between 235 and 284 AD, over twenty emperors would claim power, nearly all dying by the very military violence Caracalla normalized.",
+        "search": "map of the divided roman empire 3rd century engraving",
+        "caption": "Caracalla's legacy: fifty years of catastrophic civil war."
+      },
+      {
+        "narration": "Rome's most violent emperor died answering nature's call.",
+        "search": "emperor caracalla marble bust statue roman portrait",
+        "caption": "A ruthless tyrant met an ignominious roadside end."
+      },
+      {
+        "narration": "After murdering his brother Geta in 211 AD, Caracalla executed twenty thousand citizens and bought legionary loyalty with massive treasury bribes.",
+        "search": "caracalla geta roman coin antique silver denarius",
+        "caption": "Caracalla eliminated thousands of rivals to secure power."
+      },
+      {
+        "narration": "Obsessed with emulating Alexander the Great, the emperor launched an aggressive campaign against Parthia while growing increasingly paranoid of his generals.",
+        "search": "parthia roman empire ancient map engraving",
+        "caption": "Paranoia deepened during the eastern campaign against Parthia."
+      },
+      {
+        "narration": "Fearing for his life after learning of a prophecy predicting his own rise, Praetorian Prefect Macrinus recruited a bitter bodyguard named Julius Martialis.",
+        "search": "praetorian guard soldier roman relief sculpture marble",
+        "caption": "Prefect Macrinus orchestrated a covert pre-emptive plot."
+      },
+      {
+        "narration": "On April 8, 217 AD, while traveling near Carrhae, sudden stomach pain forced Caracalla to step away from his imperial escort.",
+        "search": "carrhae ancient mesopotamia landscape oil painting",
+        "caption": "On April 8, 217 AD, Caracalla halted his retinue."
+      },
+      {
+        "narration": "Feigning an urgent message, Martialis approached from behind and plunged a concealed dagger into the emperor before archers killed the assassin.",
+        "search": "roman dagger pugio ancient artifact bronze steel",
+        "caption": "Martialis struck the emperor before being killed instantly."
+      },
+      {
+        "narration": "Macrinus feigned overwhelming grief at the scene, successfully hiding his conspiracy and seizing the throne as Rome's first equestrian emperor.",
+        "search": "emperor macrinus roman coin portrait silver",
+        "caption": "Macrinus seized imperial power following the assassination."
+      },
+      {
+        "narration": "Caracalla's humiliating death broke imperial prestige, accelerating the military violence that triggered the Fifty-Year Crisis of the Third Century.",
+        "search": "crisis of the third century roman empire map engraving sudden",
+        "caption": "The sudden murder plunged Rome into brutal civil war."
+      },
+      {
+        "narration": "Caracalla's sudden assassination on April 8, 217 AD shattered the absolute authority of the Roman monarchy, leaving the imperial army without a legitimate heir.",
+        "search": "caracalla bust statue marble museum",
+        "caption": "Imperial authority collapsed following Caracalla's assassination in 217 AD."
+      },
+      {
+        "narration": "Hearing of her son's violent death in Antioch, Empress Julia Domna starved herself to death, ending her formidable political reign over the empire.",
+        "search": "julia domna portrait bust sculpture",
+        "caption": "Empress Julia Domna died shortly after her son's murder."
+      },
+      {
+        "narration": "Her sister, Julia Maesa, mobilized the family's immense wealth in Syria to orchestrate a counter-coup against the conspirator Macrinus.",
+        "search": "ancient roman coin julia maesa silver denarius",
+        "caption": "Julia Maesa funded a rebellion to reclaim imperial power."
+      },
+      {
+        "narration": "In late 217 AD, Macrinus suffered disastrous military defeats against King Artabanus IV at Nisibis, buying peace with over two hundred million sesterces.",
+        "search": "parthian empire cavalry battle ancient engraving",
+        "caption": "Macrinus paid massive indemnities to Parthia after military defeats."
+      },
+      {
+        "narration": "Disillusioned Roman troops of the Third Gallic Legion defected on May 16, 218 AD, proclaiming Julia Maesa's fourteen-year-old grandson Elagabalus as emperor.",
+        "search": "elagabalus marble bust statue museum",
+        "caption": "Legions declared fourteen-year-old Elagabalus emperor in May 218 AD."
+      },
+      {
+        "narration": "On June 8, 218 AD, the rival armies collided outside Antioch, where Macrinus abandoned his fighting units and fled the battlefield in disguise.",
+        "search": "battle of antioch ancient roman relief sculpture",
+        "caption": "Macrinus abandoned his army during the battle near Antioch."
+      },
+      {
+        "narration": "Captured in Chalcedon while attempting to reach Rome disguised as a common messenger, Macrinus was executed alongside his young son Diadumenian.",
+        "search": "macrinus bust statue roman emperor marble",
+        "caption": "Macrinus was captured and executed shortly after his defeat."
+      },
+      {
+        "narration": "Caracalla's reign proved that imperial survival depended entirely on military bribery, establishing a fatal precedent that plunged Rome into the Crisis of the Third Century.",
+        "search": "crisis of the third century roman empire historical map engraving",
+        "caption": "Caracalla's assassination accelerated the Crisis of the Third Century."
+      },
+      {
+        "narration": "Following Macrinus's execution in 218 AD, Caracalla's aunt Julia Maesa maneuvered her young grandson Elagabalus onto the throne, restoring the Severan dynasty.",
+        "search": "Julia Maesa Roman marble bust statue",
+        "caption": "The Severan dynasty reclaimed power through political intrigue in 218 AD."
+      },
+      {
+        "narration": "Yet the Roman legions, spoiled by Caracalla's immense pay raises, continued to demand massive bribes and routinely assassinated emperors who failed to enrich them.",
+        "search": "Roman legionaries marching oil painting illustration",
+        "caption": "Imperial troops routinely murdered rulers who cut military spending."
+      },
+      {
+        "narration": "Beyond his military brutality, Caracalla's 212 AD Constitutio Antoniniana fundamentally altered history by granting full Roman citizenship to all free men across the empire.",
+        "search": "Constitutio Antoniniana papyrus fragment engraving",
+        "caption": "Citizenship expanded across the entire Roman empire in 212 AD."
+      },
+      {
+        "narration": "In Rome, the sprawling Baths of Caracalla still stand today, constructed with the plunder of his reign to project power and mask his bloody domestic tyranny.",
+        "search": "Baths of Caracalla ruins Roman engraving",
+        "caption": "Monumental public baths showcased imperial wealth built on conquest and blood."
+      },
+      {
+        "narration": "Ancient historians Cassius Dio and Herodian recorded Caracalla's downfall, describing his ignominious end as fitting punishment for a ruler who butchered his own brother.",
+        "search": "Cassius Dio portrait engraving antique manuscript",
+        "caption": "Chroniclers viewed Caracalla's death as divine retribution for his tyranny."
+      },
+      {
+        "narration": "Between 235 and 284 AD, over twenty-six imperial claimants took power, nearly destroying Rome during the devastating Crisis of the Third Century triggered by Caracalla's precedents.",
+        "search": "ancient Roman silver denarius coin",
+        "caption": "Decades of military anarchy nearly shattered the Roman Empire entirely."
+      },
+      {
+        "narration": "A paranoid autocrat who executed thousands and commanded vast armies was ultimately brought down by a single aggrieved soldier exploiting a moment of isolation.",
+        "search": "Caracalla marble bust statue close up absolute",
+        "caption": "Absolute imperial power proved helpless against a single bodyguard's dagger."
+      },
+      {
+        "narration": "Caracalla spent his reign chasing the military glory of Alexander the Great, but history forever remembers the terrifying tyrant slain in the roadside dust.",
+        "search": "ancient Roman road in Syrian desert historic engraving",
+        "caption": "The feared tyrant met his final end on a dusty roadside."
+      },
+      {
+        "narration": "Rome's most ruthless emperor died stepping off his horse.",
+        "search": "caracalla bust statue roman marble close up",
+        "caption": "Emperor Caracalla Met An Ignominious End In 217 AD"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T21:58:26.302534+00:00",
+    "updated_at": "2026-11-19T22:22:44.843411+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-19T22:06:30.646195+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3132 chars",
+        "at": "2026-11-19T22:07:37.557766+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "193.6s en-US-GuyNeural 29 cau",
+        "at": "2026-11-19T22:07:56.670464+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T22:08:01.797716+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-19T22:17:34.894048+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-19T22:17:34.913990+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 193.6s 137762431 bytes",
+        "at": "2026-11-19T22:22:44.598844+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-19T22:22:44.639517+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T22:22:44.843395+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6606111/pexels-photo-6606111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35471715/pexels-photo-35471715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16948114/pexels-photo-16948114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760107/pexels-photo-7760107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14215064/pexels-photo-14215064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40216744/pexels-photo-40216744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7540062/pexels-photo-7540062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20143976/pexels-photo-20143976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6369060/pexels-photo-6369060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18471696/pexels-photo-18471696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14936593/pexels-photo-14936593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141658/pexels-photo-38141658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7272207/pexels-photo-7272207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39663227/pexels-photo-39663227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40162500/pexels-photo-40162500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38716498/pexels-photo-38716498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25436060/pexels-photo-25436060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10207587/pexels-photo-10207587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34926379/pexels-photo-34926379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123621/pexels-photo-30123621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10015756/pexels-photo-10015756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224008/pexels-photo-38224008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39617542/pexels-photo-39617542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4588840/pexels-photo-4588840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19042655/pexels-photo-19042655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21819928/pexels-photo-21819928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38087151/pexels-photo-38087151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33595354/pexels-photo-33595354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19197639/pexels-photo-19197639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4788183/pexels-photo-4788183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31858744/pexels-photo-31858744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319327/pexels-photo-29319327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15037069/pexels-photo-15037069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30123620/pexels-photo-30123620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709011/pexels-photo-35709011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36461618/pexels-photo-36461618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4448698/pexels-photo-4448698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5503431/pexels-photo-5503431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33725974/pexels-photo-33725974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36598391/pexels-photo-36598391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838611/pexels-photo-20838611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/730647/pexels-photo-730647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35400747/pexels-photo-35400747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23938509/pexels-photo-23938509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5865342/pexels-photo-5865342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32142955/pexels-photo-32142955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38626823/pexels-photo-38626823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16711435/pexels-photo-16711435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38141661/pexels-photo-38141661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11890535/pexels-photo-11890535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096142/pexels-photo-37096142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096141/pexels-photo-37096141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7186543/pexels-photo-7186543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14648910/pexels-photo-14648910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32946340/pexels-photo-32946340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37387137/pexels-photo-37387137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40318417/pexels-photo-40318417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6570207/pexels-photo-6570207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15027290/pexels-photo-15027290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708812/pexels-photo-35708812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12050747/pexels-photo-12050747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16899819/pexels-photo-16899819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3794170/pexels-photo-3794170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24981454/pexels-photo-24981454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1033142/pexels-photo-1033142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5393534/pexels-photo-5393534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8295943/pexels-photo-8295943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268883/pexels-photo-9268883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26654742/pexels-photo-26654742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708818/pexels-photo-35708818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5811906/pexels-photo-5811906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41010692/pexels-photo-41010692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32462645/pexels-photo-32462645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36862422/pexels-photo-36862422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36355291/pexels-photo-36355291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240430/pexels-photo-36240430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8017968/pexels-photo-8017968.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20534456/pexels-photo-20534456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5564949/pexels-photo-5564949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36756008/pexels-photo-36756008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11840360/pexels-photo-11840360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c6e6d8f877",
     "kind": "short",
     "channel": "Channel3",
