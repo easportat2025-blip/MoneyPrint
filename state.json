@@ -1,5 +1,167 @@
 [
   {
+    "id": "c6e6d8f877",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do để máy tính trên nệm đang âm thầm tàn phá mainboard",
+    "idea": {
+      "title": "Lý do để máy tính trên nệm đang âm thầm tàn phá mainboard",
+      "hook": "Nhiều người có thói quen vừa nằm nệm vừa dùng laptop, nhưng ít ai biết tấm nệm mềm mại đó lại là sát thủ số một làm hỏng máy tính của bạn nhanh nhất.",
+      "beats": [
+        "Nệm và chăn ga mềm bọc kín toàn bộ khe hút và thoát nhiệt dưới đáy laptop.",
+        "Nhiệt độ bo mạch và vi xử lý tăng vọt lên trên 90 độ C chỉ sau vài phút mà quạt không thể giải nhiệt.",
+        "Keo tản nhiệt bị khô kiệt, các mối hàn vi mạch tụ điện âm thầm bị giòn và nứt gãy do quá nhiệt.",
+        "Bụi vải và xơ chăn bông bị hút ngược vào trong làm kẹt chết quạt tản nhiệt của máy."
+      ],
+      "keywords": [
+        "laptop on bed pillow",
+        "overheating computer fan",
+        "thermal paste CPU heat",
+        "motherboard circuit repair",
+        "laptop air vent dust"
+      ],
+      "tags": [
+        "meodungmaytinh",
+        "congnghe",
+        "suthatbimat",
+        "channel3",
+        "hoidapkhoahoc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đặt laptop trên nệm tàn phá bo mạch cực nhanh.",
+        "search": "hoat hinh 3d laptop dat tren nem mem",
+        "caption": "Đặt laptop trên nệm tàn phá bo mạch cực nhanh"
+      },
+      {
+        "narration": "Tấm nệm mềm lún xuống sẽ ôm trọn và bịt kín toàn bộ khe tản nhiệt dưới đáy máy.",
+        "search": "hoat hinh 3d khe tan nhiet laptop bi che kin",
+        "caption": "Nệm lún bịt kín hoàn toàn khe tản nhiệt"
+      },
+      {
+        "narration": "Khi không có lối thoát khí, nhiệt độ vi xử lý vọt lên trên 90 độ C chỉ sau vài phút.",
+        "search": "hoat hinh 3d nhiet do cpu laptop tang cao",
+        "caption": "Nhiệt độ CPU vọt lên trên 90 độ C"
+      },
+      {
+        "narration": "Quạt tản nhiệt phải gồng mình quay tối đa nhưng chỉ hút lại luồng không khí hừng hực nóng.",
+        "search": "hoat hinh 3d quat tan nhiet laptop quay nhanh",
+        "caption": "Quạt tản nhiệt vô tác dụng vì khí nóng quẩn quanh"
+      },
+      {
+        "narration": "Cơn ác mộng nhiệt độ này khiến lớp keo tản nhiệt trên chip vi xử lý bị khô kiệt.",
+        "search": "hoat hinh 3d keo tan nhiet cpu kho nuc",
+        "caption": "Keo tản nhiệt bị khô kiệt do quá nhiệt"
+      },
+      {
+        "narration": "Sức nóng kéo dài làm các mối hàn vi mạch và tụ điện trên mainboard bị âm thầm nứt gãy.",
+        "search": "hoat hinh 3d bo mach mainboard bi nung nong nuc gay",
+        "caption": "Các mối hàn trên mainboard âm thầm nứt gãy"
+      },
+      {
+        "narration": "Tệ hơn, hàng triệu xơ vải chăn ga bị hút ngược vào trong làm kẹt chết quạt tản nhiệt.",
+        "search": "hoat hinh 3d bui vai nem ket quat laptop",
+        "caption": "Bụi vải nệm bị hút vào kẹt chết quạt"
+      },
+      {
+        "narration": "Hãy luôn đặt laptop trên mặt phẳng cứng hoặc đế tản nhiệt để cứu bo mạch của bạn.",
+        "search": "hoat hinh 3d laptop dat tren de tan nhiet phang",
+        "caption": "Luôn dùng đế cứng để bảo vệ bo mạch"
+      },
+      {
+        "narration": "Khi đặt trên nệm, bề mặt vải mềm lún xuống sẽ bịt kín hoàn toàn các khe hút và thoát nhiệt dưới đáy laptop.",
+        "search": "laptop tren nem bong do hoa 3d",
+        "caption": "Nệm mềm lún kín khe thoát nhiệt laptop"
+      },
+      {
+        "narration": "Chỉ sau vài phút, nhiệt độ bo mạch và CPU tăng vọt vượt mốc 90 độ C do không có không khí lưu thông.",
+        "search": "cpu laptop qua nhiet 90 do c 3d animation",
+        "caption": "Nhiệt độ CPU tăng vọt qua 90 độ C"
+      },
+      {
+        "narration": "Nhiệt độ cao kéo dài khiến keo tản nhiệt bị khô kiệt, các mối hàn vi mạch trên mainboard giòn và nứt gãy.",
+        "search": "bo mach mainboard keo tan nhiet 3d graphics",
+        "caption": "Keo tản nhiệt khô làm giòn nứt mainboard"
+      },
+      {
+        "narration": "Chưa hết, quạt tản nhiệt còn hút ngược vô số xơ vải chăn ga vào trong gây kẹt cứng động cơ.",
+        "search": "bui xo vai nghen quat laptop 3d animation",
+        "caption": "Xơ vải chăn ga làm kẹt quạt tản nhiệt"
+      },
+      {
+        "narration": "Để tránh hỏng mainboard, hãy luôn đặt laptop trên mặt phẳng cứng hoặc đế tản nhiệt chuyên dụng.",
+        "search": "de tan nhiet laptop tren ban go 3d explainer",
+        "caption": "Dùng đế tản nhiệt mặt phẳng cứng bảo vệ máy"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T21:13:04.548623+00:00",
+    "updated_at": "2026-11-19T21:15:06.389261+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-19T21:13:42.826431+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 47 de vua 55s)",
+        "at": "2026-11-19T21:13:54.716493+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-19T21:14:08.132096+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T21:14:08.946354+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-19T21:14:20.774350+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-19T21:14:20.788776+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.1s 14516729 bytes",
+        "at": "2026-11-19T21:15:06.287605+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T21:15:06.389248+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/40822589/17442350_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8721655/8721655-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/40822583/17442390_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6612143/6612143-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283174/15283174-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6755162/6755162-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6612310/6612310-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40822589/17442350_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6716514/6716514-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283160/15283160-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283159/15283159-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36178907/15342487_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/27430391/12141977_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "0c4ad85fda",
     "kind": "short",
     "channel": "Channel3",
