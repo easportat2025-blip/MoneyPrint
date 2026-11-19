@@ -1,5 +1,161 @@
 [
   {
+    "id": "5efc8bab16",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Sultan Who Executed 19 Brothers in One Day",
+    "idea": {
+      "title": "The Sultan Who Executed 19 Brothers in One Day",
+      "hook": "Sultan Mehmed III committed the ultimate betrayal to secure his throne, executing nineteen of his own brothers in a single night—a dark decision he would deeply regret.",
+      "beats": [
+        "In 1595, Mehmed III inherited the Ottoman Empire and instantly ordered the execution of all 19 of his brothers to prevent civil war.",
+        "The coffins were carried out through the palace gates in a horrifying procession that shocked the citizens of Constantinople.",
+        "This extreme cruelty sparked public outcry and forever altered royal succession rules.",
+        "Future sultans were locked in isolated palace quarters instead, creating paranoid rulers that crippled the empire."
+      ],
+      "keywords": [
+        "ottoman sultan painting",
+        "constantinople engraving",
+        "ottoman palace portrait",
+        "historical execution illustration",
+        "royal coffin map"
+      ],
+      "tags": [
+        "#history",
+        "#ottomanempire",
+        "#historicalfacts",
+        "#darkhistory",
+        "#historybuff"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1595, an Ottoman sultan executed nineteen of his brothers.",
+        "search": "sultan mehmed iii portrait painting",
+        "caption": "19 Brothers Executed in a Single Night"
+      },
+      {
+        "narration": "This ruthless purge broke centuries of royal tradition and permanently doomed an empire.",
+        "search": "ottoman empire map 16th century engraving",
+        "caption": "The Act That Doomed an Empire"
+      },
+      {
+        "narration": "On January 16, 1595, Mehmed III claimed the Ottoman throne in Constantinople.",
+        "search": "constantinople 16th century panoramic engraving",
+        "caption": "Constantinople, January 16, 1595"
+      },
+      {
+        "narration": "To eliminate rival claimants under the Law of Fratricide, he issued a chilling command.",
+        "search": "topkapi palace ottoman illuminated manuscript",
+        "caption": "The Law of Fratricide Enforced"
+      },
+      {
+        "narration": "Deaf-mute executioners strangled all nineteen of his younger brothers before sunrise.",
+        "search": "ottoman executioner historical engraving",
+        "caption": "19 Princes Executed Before Sunrise"
+      },
+      {
+        "narration": "The following morning, nineteen royal coffins emerged from Topkapi Palace in a silent procession.",
+        "search": "royal coffin procession historical illustration",
+        "caption": "19 Coffins Leave Topkapi Palace"
+      },
+      {
+        "narration": "Horrified citizens wept openly, sparking public outcry across the entire imperial capital.",
+        "search": "ottoman crowd constantinople old print",
+        "caption": "Public Outcry in Constantinople"
+      },
+      {
+        "narration": "Fearing endless rebellions, the royal court abandoned execution for an even darker system.",
+        "search": "ottoman imperial court palace oil painting",
+        "caption": "A Darker Solution Introduced"
+      },
+      {
+        "narration": "Future royal heirs were locked inside palace quarters called the Kafes, living in complete isolation under continuous armed guard.",
+        "search": "ottoman palace interior oil painting",
+        "caption": "Princes were locked in palace isolation for life"
+      },
+      {
+        "narration": "Imprisoned for decades without political experience, these princes emerged paranoid and mentally shattered when elevated to the throne.",
+        "search": "sultan ibrahim portrait painting",
+        "caption": "Decades of isolation created mentally unstable rulers"
+      },
+      {
+        "narration": "Mehmed the Third's massacre in 1595 stopped royal bloodshed, but his paranoid alternative permanently crippled the Ottoman Empire.",
+        "search": "sultan mehmed iii portrait painting mehmed",
+        "caption": "Mehmed III's bloody decision permanently crippled the empire"
+      },
+      {
+        "narration": "Nineteen royal brothers died in a single night.",
+        "search": "mehmed iii portrait painting",
+        "caption": "Nineteen royal brothers were executed in a single night."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-19T23:42:39.986216+00:00",
+    "updated_at": "2026-11-19T23:44:48.617541+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-19T23:43:07.224431+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "433 chars (cat 141 de vua 55s)",
+        "at": "2026-11-19T23:43:20.148569+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.9s en-US-GuyNeural 5 cau",
+        "at": "2026-11-19T23:43:24.047223+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-19T23:43:24.969582+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-19T23:43:56.056054+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-19T23:43:56.076837+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.0s 18267983 bytes",
+        "at": "2026-11-19T23:44:48.472588+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-19T23:44:48.617523+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15070656/pexels-photo-15070656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38634224/pexels-photo-38634224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19161631/pexels-photo-19161631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36229688/pexels-photo-36229688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34680951/pexels-photo-34680951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35549762/pexels-photo-35549762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10317795/pexels-photo-10317795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28141992/pexels-photo-28141992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35298383/pexels-photo-35298383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24516369/pexels-photo-24516369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10131253/pexels-photo-10131253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9294476/pexels-photo-9294476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d1cca9cbdc",
     "kind": "short",
     "channel": "Channel3",
