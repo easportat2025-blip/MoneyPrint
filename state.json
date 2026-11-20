@@ -1,5 +1,167 @@
 [
   {
+    "id": "c4d9abffad",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do gập laptop ngay âm thầm tàn phá máy tính của bạn",
+    "idea": {
+      "title": "Lý do gập laptop ngay âm thầm tàn phá máy tính của bạn",
+      "hook": "Bạn nghĩ gập màn hình laptop lại là xong? Mối nguy ngầm này đang âm thầm luộc chín chiếc máy tính của bạn trong balo.",
+      "beats": [
+        "Tính năng Modern Standby trên hệ điều hành mới giữ laptop kết nối Wi-Fi và chạy ngầm ngay cả khi gập máy.",
+        "Khi bỏ vào balo kín khí, máy vẫn tự tải bản cập nhật khiến nhiệt độ bên trong tăng vọt.",
+        "Quạt tản nhiệt không thể lưu thông không khí, dẫn đến chai pin siêu tốc và vi mạch bịOm nhiệt dai dẳng.",
+        "Tắt hẳn máy (Shut down) hoặc chuyển sang Hibernate mới là cách bảo vệ laptop an toàn khi di chuyển."
+      ],
+      "keywords": [
+        "laptop overheating bag",
+        "closing laptop lid",
+        "computer circuit board",
+        "heat damage electronics",
+        "man packing laptop"
+      ],
+      "tags": [
+        "#channel3",
+        "#meomaytinh",
+        "#congnghe",
+        "#laptop",
+        "#meovat"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Gập laptop lại có thể đang âm thầm luộc chín máy bạn.",
+        "search": "gap man hinh laptop 3d animation",
+        "caption": "Gập laptop lại có thể làm hỏng máy ngay lập tức."
+      },
+      {
+        "narration": "Thói quen gập màn hình rồi nhét ngay vào balo khiến hàng triệu chiếc máy tính hư hỏng.",
+        "search": "bo laptop vao balo 3d animation",
+        "caption": "Thói quen cho laptop vào balo ngay sau khi gập."
+      },
+      {
+        "narration": "Các dòng máy đời mới sở hữu tính năng Modern Standby, không bao giờ thực sự tắt hẳn.",
+        "search": "laptop ket noi wifi chay ngam 3d motion",
+        "caption": "Tính năng Modern Standby giữ laptop luôn chạy ngầm."
+      },
+      {
+        "narration": "Ngay cả khi đóng nắp, máy vẫn âm thầm tự kết nối Wi-Fi và tải bản cập nhật.",
+        "search": "man hinh taixuong cap nhat 3d render",
+        "caption": "Laptop vẫn tự tải bản cập nhật khi gập màn hình."
+      },
+      {
+        "narration": "Trong không gian balo kín khí, nguồn nhiệt phát ra không thể thoát đi đâu.",
+        "search": "balo toa nhiet do cao 3d animation",
+        "caption": "Balo kín khí biến thành lò vi sóng giữ nhiệt."
+      },
+      {
+        "narration": "Quạt tản nhiệt quay liên tục nhưng chỉ luân chuyển không khí nóng hầm hập bên trong.",
+        "search": "quat tan nhiet laptop quay 3d animation",
+        "caption": "Quạt tản nhiệt không thể thoát khí nóng ra ngoài."
+      },
+      {
+        "narration": "Sức nóng kéo dài làm chai pin siêu tốc và thiêu rụi các vi mạch đắt tiền.",
+        "search": "bo mach may tinh qua nhiet 3d render",
+        "caption": "Nhiệt độ cao làm hỏng vi mạch và chai pin."
+      },
+      {
+        "narration": "Chỉ một sơ suất nhỏ này có thể ngốn của bạn hàng triệu đồng tiền sửa chữa.",
+        "search": "laptop bocado khoi canh bao 3d animation",
+        "caption": "Thói quen tai hại tốn hàng triệu đồng sửa chữa."
+      },
+      {
+        "narration": "Thủ phạm chính là tính năng Modern Standby khiến máy không hề chợp mắt dù đã gập lại.",
+        "search": "3d animation laptop gap man hinh modern standby hoat hoa",
+        "caption": "Modern Standby giữ máy luôn chạy ngầm"
+      },
+      {
+        "narration": "Máy vẫn tiếp tục bắt Wi-Fi, tự tải bản cập nhật và chạy ứng dụng trong balo kín.",
+        "search": "hoat hoa 3d laptop chay ngam trong balo ki kieu",
+        "caption": "Laptop tự tải cập nhật ngay trong balo kín"
+      },
+      {
+        "narration": "Quạt tản nhiệt quay vô ích vì không có luồng khí ra vào, biến balo thành lò nướng.",
+        "search": "3d animation quat tan nhiet laptop quay trong khong gian kin",
+        "caption": "Balo kín khiến quạt tản nhiệt vô tác dụng"
+      },
+      {
+        "narration": "Nhiệt độ ứ đọng dai dẳng này khiến pin chai siêu tốc và làm giòn các mối hàn vi mạch.",
+        "search": "hoat hoa 3d mach dien tu va pin laptop bi qua nhiệt",
+        "caption": "Nhiệt độ cao làm chai pin và hỏng vi mạch"
+      },
+      {
+        "narration": "Hãy luôn Shutdown tắt hẳn máy hoặc chọn Hibernate để bảo vệ laptop an toàn tuyệt đối.",
+        "search": "3d animation bam nut shutdown hibernate tren may tinh",
+        "caption": "Tắt hẳn máy hoặc Hibernate trước khi di chuyển"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T20:52:23.553572+00:00",
+    "updated_at": "2026-11-20T20:55:06.289743+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-20T20:52:59.103384+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "534 chars (cat 58 de vua 55s)",
+        "at": "2026-11-20T20:53:17.416684+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.5s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-20T20:53:38.601170+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T20:53:39.667579+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-20T20:53:55.918771+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-20T20:53:55.941101+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.6s 40150559 bytes",
+        "at": "2026-11-20T20:55:06.134716+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T20:55:06.289723+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/19532053/19532053-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8691680/8691680-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6962838/6962838-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37703798/15987293_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/25935016/11922051_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40305641/17217412_1440_2560_119fps.mp4",
+      "https://videos.pexels.com/video-files/8011362/8011362-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40822587/17442374_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39466938/16810585_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28141930/12308442_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/12619663/12619663-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "087ccd69af",
     "kind": "short",
     "channel": "Channel3",
