@@ -1,5 +1,167 @@
 [
   {
+    "id": "2636b23078",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao giảm độ sáng điện thoại tối đa ban đêm lại gây đau đầu?",
+    "idea": {
+      "title": "Tại sao giảm độ sáng điện thoại tối đa ban đêm lại gây đau đầu?",
+      "hook": "Bạn tưởng giảm độ sáng xuống mức thấp nhất ban đêm sẽ bảo vệ mắt, nhưng thực ra não bạn đang bị tra tấn bởi hàng nghìn cú nhấp nháy ẩn mỗi giây.",
+      "beats": [
+        "Hầu hết màn hình OLED điều chỉnh độ sáng bằng công nghệ PWM - bật tắt màn hình liên tục hàng trăm lần mỗi giây.",
+        "Khi bạn hạ độ sáng cực thấp, khoảng thời gian màn hình 'tắt' dài hơn, tạo ra sự nhấp nháy biên độ lớn.",
+        "Dù mắt không nhận ra, đồng tử phải liên tục co giãn điều tiết, khiến cơ mắt quá tải.",
+        "Hậu quả là bạn bị mỏi mắt, nhức đầu và khó ngủ mà không hiểu lý do tại sao."
+      ],
+      "keywords": [
+        "smartphone dark screen",
+        "person holding phone night",
+        "eye strain close up",
+        "flickering screen display",
+        "headache stress man"
+      ],
+      "tags": [
+        "#channel3",
+        "#meodienthoai",
+        "#suckhoe",
+        "#khoahoc",
+        "#kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Hạ độ sáng điện thoại tối đa đang hại não.",
+        "search": "nguoi dung dien thoai ban dem trong bong toi 3d animation",
+        "caption": "Hạ độ sáng điện thoại tối đa đang hại brain"
+      },
+      {
+        "narration": "Bạn nghĩ làm vậy giúp dịu mắt nhưng thực tế hoàn toàn ngược lại.",
+        "search": "mat nguoi nhin man hinh dien thoai dieu tiet 3d animation",
+        "caption": "Bạn nghĩ dịu mắt nhưng thực tế ngược lại"
+      },
+      {
+        "narration": "Màn hình OLED không hề giảm dòng điện để hạ ánh sáng.",
+        "search": "man hinh dien thoai phat sang cong nghe 3d motion graphics",
+        "caption": "Màn hình OLED không hề giảm dòng điện"
+      },
+      {
+        "narration": "Nó dùng công nghệ PWM, liên tục bật tắt màn hình hàng trăm lần mỗi giây.",
+        "search": "man hinh nhap nhay bat tat lien tuc 3d animation",
+        "caption": "Bật tắt màn hình hàng trăm lần mỗi giây"
+      },
+      {
+        "narration": "Khi bạn kéo độ sáng xuống mức tối thiểu, thời gian màn hình tắt bị kéo dài.",
+        "search": "thanh dieu chinh do sang dien thoai muc thap 3d render",
+        "caption": "Độ sáng càng thấp màn hình tắt càng lâu"
+      },
+      {
+        "narration": "Sự chênh lệch bật tắt tạo ra cú nhấp nháy biên độ cực lớn.",
+        "search": "song nhap nhay tan so man hinh dien thoai motion graphics",
+        "caption": "Tạo ra cú nhấp nháy biên độ cực lớn"
+      },
+      {
+        "narration": "Dù không thấy, đồng tử mắt phải liên tục co giãn để điều tiết.",
+        "search": "dong tu mat co gian dieu tiet anh sang 3d animation",
+        "caption": "Đồng tử phải co giãn liên tục không nghỉ"
+      },
+      {
+        "narration": "Việc các cơ mắt bị ép quá tải liên tục sẽ truyền tín hiệu đau lên não.",
+        "search": "mo hinh nao nguoi bi dau dau nhuc mat 3d animation",
+        "caption": "Cơ mắt quá tải truyền tín hiệu đau lên não"
+      },
+      {
+        "narration": "Không chỉ gây nhức mắt, sự căng thẳng cơ liên tục này còn làm rối loạn chu kỳ ngủ tự nhiên của bạn.",
+        "search": "3d hoat hinh mat ngu dau dau ban dem",
+        "caption": "Làm rối loạn chu kỳ ngủ tự nhiên"
+      },
+      {
+        "narration": "Đặc biệt trên màn hình OLED, độ sáng càng thấp thì khoảng chớp tắt giữa các xung càng dài.",
+        "search": "3d hoat hinh man hinh dien thoai nhap nhay xung",
+        "caption": "Độ sáng thấp khiến khoảng chớp tắt dài hơn"
+      },
+      {
+        "narration": "Vì vậy, hạ độ sáng xuống kịch sàn trong phòng tối hoàn toàn là quyết định sai lầm.",
+        "search": "3d hoat hinh phong ngu bat den tay cam dien thoai",
+        "caption": "Hạ độ sáng kịch sàn là sai lầm"
+      },
+      {
+        "narration": "Cách đúng là giữ độ sáng điện thoại ở mức 20 đến 30 phần trăm và mở thêm một nguồn sáng nhỏ.",
+        "search": "3d hoat hinh chinh thanh do sang dien thoai",
+        "caption": "Giữ độ sáng từ 20 đến 30 percent"
+      },
+      {
+        "narration": "Hoặc bật tính năng DC Dimming giảm nhấp nháy trong cài đặt để não và mắt được giải tỏa hoàn toàn.",
+        "search": "3d hoat hinh giac ngu ngon mat nghi ngoi",
+        "caption": "Bật DC Dimming để bảo vệ não và mắt"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T07:38:36.477915+00:00",
+    "updated_at": "2026-11-20T07:45:52.463058+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-20T07:43:28.885313+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "475 chars (cat 153 de vua 55s)",
+        "at": "2026-11-20T07:43:54.004226+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-20T07:44:21.626803+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T07:44:22.732804+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-20T07:44:42.054143+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-20T07:44:42.076423+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.1s 32263257 bytes",
+        "at": "2026-11-20T07:45:52.323179+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T07:45:52.463049+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/39738086/16945000_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069095/18069095-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/15283221/15283221-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819927/8819927-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/33212388/14153622_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/37340622/15815802_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7792634/7792634-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7698435/7698435-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34638535/14681118_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32179592/13722940_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6776123/6776123-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/40923830/17497445_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16029663/16029663-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "75467eef27",
     "kind": "short",
     "channel": "Channel2",
