@@ -1,5 +1,167 @@
 [
   {
+    "id": "bed201f2bc",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao vừa sạc vừa đeo ốp lưng âm thầm làm chai pin điện thoại?",
+    "idea": {
+      "title": "Tại sao vừa sạc vừa đeo ốp lưng âm thầm làm chai pin điện thoại?",
+      "hook": "Bạn luôn rút sạc đúng lúc nhưng pin vẫn chai nhanh bất thường? Hóa ra thủ phạm nằm ở chiếc ốp lưng xinh đẹp bạn chưa từng tháo ra.",
+      "beats": [
+        "Khi sạc, viên pin Lithium-ion luôn tỏa ra một lượng nhiệt đáng kể.",
+        "Ốp lưng chất liệu silicon hoặc nhựa dày hoạt động như một lớp áo cách nhiệt, giữ toàn bộ hơi nóng lại bên trong.",
+        "Nhiệt độ tích tụ cao làm đẩy nhanh phản ứng hóa học tiêu cực, tàn phá tế bào pin nhanh gấp 2 lần.",
+        "Mẹo đơn giản: Hãy tháo ốp lưng mỗi khi sạc pin hoặc tránh sạc ở bề mặt giữ nhiệt."
+      ],
+      "keywords": [
+        "charging phone",
+        "overheating smartphone",
+        "phone case removal",
+        "lithium battery breakdown",
+        "overheated electronics"
+      ],
+      "tags": [
+        "sạc điện thoại",
+        "mẹo điện thoại",
+        "chai pin",
+        "bảo vệ pin",
+        "mẹo công nghệ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đeo ốp khi sạc khiến pin chai nhanh gấp đôi.",
+        "search": "hoat hinh 3d dien thoai dang sac toa nhiet do",
+        "caption": "Đeo ốp khi sạc khiến pin chai nhanh gấp đôi"
+      },
+      {
+        "narration": "Bạn luôn rút sạc đúng lúc nhưng dung lượng pin vẫn sụt giảm bất thường.",
+        "search": "hoat hinh 3d phan tram pin dien thoai giam nhanh",
+        "caption": "Dung lượng pin vẫn sụt giảm bất thường"
+      },
+      {
+        "narration": "Khi cắm điện, viên pin Lithium-ion liên tục tỏa ra một lượng nhiệt rất lớn.",
+        "search": "mo phong 3d ion lithium dang di chuyen trong pin",
+        "caption": "Viên pin Lithium-ion luôn tỏa ra lượng nhiệt lớn"
+      },
+      {
+        "narration": "Chiếc ốp lưng silicon đóng vai trò như một lớp áo giữ toàn bộ hơi nóng bên trong.",
+        "search": "hoat hinh 3d op lung silicon giu hoi nong dien thoai",
+        "caption": "Ốp lưng silicon giữ toàn bộ hơi nóng lại"
+      },
+      {
+        "narration": "Nhiệt độ tích tụ trong máy có thể tăng cao đột ngột chỉ sau vài phút.",
+        "search": "hoat hinh 3d nhiet ke tang do khi sac dien thoai",
+        "caption": "Nhiệt độ tích tụ tăng cao đột ngột"
+      },
+      {
+        "narration": "Sức nóng này đẩy nhanh phản ứng hóa học tiêu cực, tàn phá tế bào pin vĩnh viễn.",
+        "search": "mo phong 3d te bao pin bi pha huy vi nhiet do",
+        "caption": "Sức nóng tàn phá tế bào pin vĩnh viễn"
+      },
+      {
+        "narration": "Thói quen sạc máy trên đệm hay sofa càng khiến nhiệt độ tăng gấp nhiều lần.",
+        "search": "hoat hinh 3d dien thoai sac tren nem giang",
+        "caption": "Sạc trên đệm khiến nhiệt độ tăng gấp bội"
+      },
+      {
+        "narration": "Hãy tháo ốp lưng mỗi khi sạc để kéo dài tuổi thọ pin ngay hôm nay.",
+        "search": "hoat hinh 3d tay thao op lung dien thoai truoc khi sac",
+        "caption": "Tháo ốp khi sạc giúp bảo vệ tuổi thọ pin"
+      },
+      {
+        "narration": "Thói quen vừa sạc vừa dùng điện thoại khi đang đeo ốp khiến nhiệt độ bên trong dễ dàng vượt ngưỡng năm mươi độ C.",
+        "search": "hoat hinh 3d smartphone nong len nhiet do cao",
+        "caption": "Nhiệt độ vượt ngưỡng 50 độ C khi sạc"
+      },
+      {
+        "narration": "Ở mức nhiệt cao liên tục này, dung lượng tối đa của pin Lithium-ion sẽ bị tổn hại vĩnh viễn.",
+        "search": "hoat hinh 3d pin dien thoai bi chai dung luong",
+        "caption": "Dung lượng pin bị tổn hại vĩnh viễn"
+      },
+      {
+        "narration": "Việc đặt máy sạc trên mặt nệm hay sofa mềm càng khiến chiếc ốp biến thành một lò nướng kín.",
+        "search": "hoat hinh 3d dien thoai sac tren nem giuong",
+        "caption": "Đặt trên nệm biến ốp thành lò nướng"
+      },
+      {
+        "narration": "Chỉ cần tháo ốp lưng trước khi cắm sạc, nhiệt lượng sẽ thoát ra ngoài dễ dàng và nhanh chóng.",
+        "search": "hoat hinh 3d thao op lung dien thoai",
+        "caption": "Tháo ốp lưng giúp giải nhiệt tức thì"
+      },
+      {
+        "narration": "Tập thói quen tháo ốp khi sạc ngay hôm nay để bảo vệ viên pin và kéo dài tuổi thọ máy gấp hai lần.",
+        "search": "hoat hinh 3d dien thoai pin day xanh va mat",
+        "caption": "Kéo dài tuổi thọ pin gấp 2 lần"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T22:18:10.747093+00:00",
+    "updated_at": "2026-11-20T22:20:29.627515+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-20T22:18:39.798078+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "512 chars (cat 51 de vua 55s)",
+        "at": "2026-11-20T22:18:52.663573+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.2s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-20T22:19:14.238696+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T22:19:15.370242+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-20T22:19:27.105870+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-20T22:19:27.128552+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.2s 21015255 bytes",
+        "at": "2026-11-20T22:20:29.479534+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T22:20:29.627499+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/15283214/15283214-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8817001/8817001-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7874762/7874762-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40770322/17413104_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/31549030/13446016_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7652957/7652957-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7985874/7985874-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8434098/8434098-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283235/15283235-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456770/16456770-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727459/16727459-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32416306/13827798_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16655800/16655800-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "bc400b6297",
     "kind": "long",
     "channel": "seigh",
