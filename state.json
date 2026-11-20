@@ -1,5 +1,161 @@
 [
   {
+    "id": "4bc65efdc6",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Hero Who Was Betrayed by His Emperor",
+    "idea": {
+      "title": "The Roman Hero Who Was Betrayed by His Emperor",
+      "hook": "General Belisarius saved Rome three times, but his own emperor stripped his wealth and left him to die in disgrace.",
+      "beats": [
+        "Belisarius reclaimed North Africa and Italy for Byzantium against overwhelming odds.",
+        "Jealous of his legendary fame, Emperor Justinian accused his best general of high treason.",
+        "Stripped of his command and lands, historical legends say he was reduced to begging on Constantinople's streets.",
+        "The tragic downfall of Rome's greatest military mind remains history's most cold-blooded betrayal."
+      ],
+      "keywords": [
+        "Belisarius portrait",
+        "Byzantine Emperor Justinian",
+        "Ancient Constantinople map",
+        "Roman army engraving",
+        "Byzantine soldier painting"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#byzantineempire",
+        "#romanempire",
+        "#militaryhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did Byzantium's greatest general end up begging for bread?",
+        "search": "General Belisarius begging painting oil",
+        "caption": "Why did Rome's savior die a beggar?"
+      },
+      {
+        "narration": "In 533 AD, Flavius Belisarius achieved the impossible by destroying the Vandal Kingdom in North Africa.",
+        "search": "Byzantine soldier mosaic painting battle",
+        "caption": "533 AD: The conquest of North Africa"
+      },
+      {
+        "narration": "Under Emperor Justinian I, Belisarius then marched into Italy, recapturing Rome with severely outnumbered troops.",
+        "search": "Belisarius portrait mosaic San Vitale",
+        "caption": "Recapturing Rome against overwhelming odds"
+      },
+      {
+        "narration": "By 540 AD, his legendary victories made him the most adored military mind across the Mediterranean world.",
+        "search": "Roman army engraving battle scene",
+        "caption": "The most celebrated general in Byzantium"
+      },
+      {
+        "narration": "Yet inside the imperial courts of Constantinople, absolute glory generated a deadly threat: royal paranoia.",
+        "search": "Byzantine Emperor Justinian mosaic portrait",
+        "caption": "Imperial paranoia inside Constantinople"
+      },
+      {
+        "narration": "Fearing a military coup, Justinian systematically starved his brilliant commander of troops and supplies.",
+        "search": "Ancient Constantinople map engraving",
+        "caption": "Justinian starves his best general"
+      },
+      {
+        "narration": "Despite imperial neglect, Belisarius saved Constantinople one final time from invading Bulgars in 559 AD.",
+        "search": "Byzantine cavalry attack painting oil",
+        "caption": "559 AD: Saving Constantinople from invasion"
+      },
+      {
+        "narration": "In 562 AD, Justinian struck, arresting Belisarius on fabricated charges of treason and stripping his wealth.",
+        "search": "Belisarius trial history painting oil",
+        "caption": "562 AD: Framed for high treason"
+      },
+      {
+        "narration": "Popular history remembered the fallen general as a blinded beggar on the streets of Constantinople, reduced to asking passersby for copper coins.",
+        "search": "Belisarius begging oil painting",
+        "caption": "Historical legend claims Rome's hero was reduced to begging for coins."
+      },
+      {
+        "narration": "Justinian restored his titles in 563 AD, but Belisarius died in March 565 AD, only months before the paranoid emperor himself.",
+        "search": "Emperor Justinian mosaic Ravenna close up",
+        "caption": "Restored in 563 AD, Belisarius died broken months before Justinian."
+      },
+      {
+        "narration": "Remembered as the Last of the Romans, Belisarius reconquered North Africa and Italy, proving that unyielding loyalty to a tyrant guarantees downfall.",
+        "search": "Byzantine army engraving",
+        "caption": "The Last of the Romans saved an empire that destroyed him."
+      },
+      {
+        "narration": "Rome's greatest general saved the empire, then died begging. In 565 AD, Flavius Belisarius met a tragic fate.",
+        "search": "Belisarius begging oil painting history",
+        "caption": "Rome's greatest general saved the empire, then died begging."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T23:16:49.994923+00:00",
+    "updated_at": "2026-11-20T23:19:18.524489+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-20T23:17:22.250921+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "365 chars (cat 267 de vua 55s)",
+        "at": "2026-11-20T23:17:43.613887+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.1s en-US-GuyNeural 6 cau",
+        "at": "2026-11-20T23:17:48.985309+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T23:17:50.008872+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-20T23:18:17.203022+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T23:18:17.223953+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.1s 18526954 bytes",
+        "at": "2026-11-20T23:19:18.339143+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T23:19:18.524475+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32836031/pexels-photo-32836031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33449134/pexels-photo-33449134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26939042/pexels-photo-26939042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35416351/pexels-photo-35416351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32079910/pexels-photo-32079910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38320805/pexels-photo-38320805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40621842/pexels-photo-40621842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12268359/pexels-photo-12268359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18250524/pexels-photo-18250524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33350170/pexels-photo-33350170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9879475/pexels-photo-9879475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32874135/pexels-photo-32874135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bed201f2bc",
     "kind": "short",
     "channel": "Channel3",
