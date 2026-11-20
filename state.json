@@ -1,5 +1,167 @@
 [
   {
+    "id": "087ccd69af",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao để điện thoại sạc dưới gối lại cực kỳ nguy hiểm?",
+    "idea": {
+      "title": "Tại sao để điện thoại sạc dưới gối lại cực kỳ nguy hiểm?",
+      "hook": "Bạn có thói quen cắm sạc điện thoại rồi nhét ngay dưới gối trước khi ngủ? Chi phí ẩn của việc này nguy hiểm hơn bạn nghĩ rất nhiều.",
+      "beats": [
+        "Điện thoại luôn tỏa ra lượng nhiệt lớn trong quá trình sạc pin khép kín.",
+        "Vải gối và nệm giữ nhiệt cực tốt, vô tình biến điện thoại thành một 'lò hơi mini'.",
+        "Nhiệt độ tích tụ làm viên pin chai nhanh gấp 3 lần và âm thầm tăng nguy cơ cháy nổ.",
+        "Nguồn nhiệt tỏa ra ngay dưới đầu làm gián đoạn khả năng hạ nhiệt tự nhiên của não khi ngủ."
+      ],
+      "keywords": [
+        "charging phone under pillow",
+        "overheating smartphone battery",
+        "sleeping bedroom dark",
+        "battery thermal hazard",
+        "close up smartphone cable"
+      ],
+      "tags": [
+        "meo dung dien thoai",
+        "thoi quen xau",
+        "bi mat co the",
+        "suc khoe gia dinh",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Sạc điện thoại dưới gối nguy hiểm hơn bạn tưởng.",
+        "search": "hoat hinh 3d sac dien thoai duoi goi trong phong toi",
+        "caption": "Sạc điện thoại dưới gối nguy hiểm thế nào?"
+      },
+      {
+        "narration": "Mỗi khi cắm sạc, dòng điện biến đổi khiến viên pin liên tục tỏa ra một lượng nhiệt lớn.",
+        "search": "3d animation pin dien thoai dang sac toa nhiet đỏ",
+        "caption": "Dòng điện sạc làm pin tỏa nhiệt lớn"
+      },
+      {
+        "narration": "Thông thường nhiệt sẽ tán vào không khí, nhưng chiếc gối dày đã chặn đứng quá trình này.",
+        "search": "motion graphics chiec goi bao trum dien thoai qua nhiet",
+        "caption": "Gối bông chặn đường thoát nhiệt của pin"
+      },
+      {
+        "narration": "Vải bông và nệm giữ nhiệt cực tốt, vô tình biến khoảng trống dưới gối thành một lò hơi mini.",
+        "search": "isometric render dien thoai boc khoi nong duoi goi",
+        "caption": "Điện thoại biến thành lò hơi thu nhỏ"
+      },
+      {
+        "narration": "Nhiệt độ tích tụ liên tục khiến viên pin bị chai và hỏng nhanh gấp ba lần bình thường.",
+        "search": "3d animation bieu do pin dien thoai sut giam dung luong",
+        "caption": "Tuổi thọ pin giảm nhanh gấp 3 lần"
+      },
+      {
+        "narration": "Khi nhiệt độ vượt mức an toàn, dung dịch điện phân bên trong bắt đầu phân hủy tạo ra khí nén.",
+        "search": "explainer animation phan ung hoa hoc ben trong pin dien thoai",
+        "caption": "Dung dịch điện phân phân hủy tạo khí nén"
+      },
+      {
+        "narration": "Không chỉ nguy cơ cháy nổ, nguồn nhiệt sát đầu này còn gây hại trực tiếp đến não bộ.",
+        "search": "cartoony 3d nguoi dang ngu ben canh dien thoai phat vang",
+        "caption": "Nguồn nhiệt sát đầu ảnh hưởng não bộ"
+      },
+      {
+        "narration": "Ban đêm, cơ thể cần hạ nhiệt độ não bộ tự nhiên để đi vào giấc ngủ sâu.",
+        "search": "3d animation nao nguoi ha nhiet khi vao giac ngu",
+        "caption": "Bộ não cần hạ nhiệt để phục hồi"
+      },
+      {
+        "narration": "Nguồn nhiệt vô tình ép não bộ phải hoạt động liên tục để tự làm mát, khiến giấc ngủ sâu bị gián đoạn.",
+        "search": "hoat hinh 3d mo hinh nao bo phat sang",
+        "caption": "Nguồn nhiệt ép não liên tục làm mát"
+      },
+      {
+        "narration": "Bạn sẽ thức dậy với cảm giác uể uải và mệt mỏi dù đã ngủ đủ tám tiếng mà không hiểu vì sao.",
+        "search": "hoat hinh 3d nguoi thuc day met moi tren giuong",
+        "caption": "Thức dậy mệt mỏi dù ngủ đủ 8 tiếng"
+      },
+      {
+        "narration": "Song song đó, nhiệt tích tụ làm pin chai nhanh gấp ba lần và làm tăng nguy cơ cháy nổ ngay sát mặt bạn.",
+        "search": "hoat hinh 3d pin dien thoai phong toa nhiet",
+        "caption": "Pin chai nhanh gấp 3 và nguy cơ nổ sát mặt"
+      },
+      {
+        "narration": "Lớp gối dày vô tình biến chiếc điện thoại thành một lò hơi mini tích nhiệt nguy hiểm mỗi đêm.",
+        "search": "hoat hinh 3d dien thoai phat ngoai lua duoi goi",
+        "caption": "Gối giữ nhiệt biến điện thoại thành lò hơi"
+      },
+      {
+        "narration": "Hãy luôn đặt điện thoại sạc trên bề mặt cứng, thoáng khí và cách xa giường ít nhất một mét trước khi ngủ.",
+        "search": "hoat hinh 3d dien thoai sac tren ban go xa giuong",
+        "caption": "Sạc trên bề mặt cứng cách xa giường 1m"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T16:36:14.300138+00:00",
+    "updated_at": "2026-11-20T16:43:16.305240+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-20T16:40:04.195219+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "507 chars",
+        "at": "2026-11-20T16:41:33.968937+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.9s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-20T16:41:50.728873+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T16:41:51.828366+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-20T16:42:06.973795+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-20T16:42:06.996487+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.9s 28876427 bytes",
+        "at": "2026-11-20T16:43:16.079347+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T16:43:16.305228+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/40402974/17263940_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283161/15283161-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727470/16727470-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/9669110/9669110-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107090/13688557_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7778218/7778218-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/36474784/15466647_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16655796/16655796-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34744881/14729433_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464972/13417844_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8819432/8819432-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/8261603/8261603-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/3700147/3700147-uhd_1440_2560_30fps.mp4"
+    ]
+  },
+  {
     "id": "ae053b19b5",
     "kind": "short",
     "channel": "Channel3",
