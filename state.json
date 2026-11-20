@@ -1,5 +1,161 @@
 [
   {
+    "id": "5e890f54a3",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Ate Himself to Death",
+    "idea": {
+      "title": "The King Who Ate Himself to Death",
+      "hook": "King Henry I of England ignored his physician’s warnings, gorged on a deadly bowl of lamprey eels, and accidentally destroyed his royal lineage in a single night.",
+      "beats": [
+        "After a long hunting trip in 1135, King Henry I demanded a feast of his favorite sea creature, lamprey eels.",
+        "His personal doctors strictly forbade him from eating them due to a violent fever, but the stubborn king refused to listen.",
+        "Hours later, severe food poisoning set in, causing agonizing internal spasms that no royal physician could cure.",
+        "His sudden death left no legitimate male heir, triggering a brutal 19-year civil war known as The Anarchy."
+      ],
+      "keywords": [
+        "King Henry I portrait",
+        "medieval feast engraving",
+        "lamprey eel drawing",
+        "medieval king portrait",
+        "illuminated manuscript England"
+      ],
+      "tags": [
+        "history",
+        "british history",
+        "medieval history",
+        "monarchs",
+        "documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A single meal wiped out an entire royal lineage.",
+        "search": "King Henry I medieval illuminated manuscript portrait",
+        "caption": "One meal destroyed a kingdom’s royal lineage."
+      },
+      {
+        "narration": "In December 1135, King Henry I held supreme control over England and Normandy.",
+        "search": "England and France medieval map engraving",
+        "caption": "In December 1135, King Henry I held total power."
+      },
+      {
+        "narration": "Returning from a tiring hunt in Lyons-la-Forêt, Normandy, the sixty-eight-year-old ruler demanded a lavish feast.",
+        "search": "Medieval hunting party manuscript illustration",
+        "caption": "After a long hunt, the monarch demanded a feast."
+      },
+      {
+        "narration": "His dish of choice was a deadly plate of lamprey eels, a parasitic fish rich in heavy fats.",
+        "search": "Lamprey eel medieval drawing illustration",
+        "caption": "He demanded a bowl of deadly lamprey eels."
+      },
+      {
+        "narration": "Henry's personal physicians strictly forbade the meal, warning that it would inflame his existing violent fever.",
+        "search": "Medieval physician treating patient manuscript miniature",
+        "caption": "Royal doctors strictly warned him not to eat."
+      },
+      {
+        "narration": "Driven by stubborn pride, the monarch ignored his doctors and voraciously devoured the whole dish.",
+        "search": "Medieval king feast illuminated manuscript",
+        "caption": "Driven by pride, Henry devoured the forbidden dish."
+      },
+      {
+        "narration": "Within hours, violent food poisoning took hold, causing unbearable internal spasms throughout his body.",
+        "search": "Medieval sick bed royal engraving",
+        "caption": "Unbearable spasms and food poisoning struck within hours."
+      },
+      {
+        "narration": "As royal doctors failed to stop the agony, a catastrophic succession crisis loomed over England.",
+        "search": "Royal crown on velvet pillow museum artifact",
+        "caption": "The king’s agony threatened the stability of England."
+      },
+      {
+        "narration": "On December 1, 1135, King Henry I succumbed to the severe food poisoning, leaving England without a direct male heir.",
+        "search": "King Henry I medieval manuscript illustration",
+        "caption": "On December 1, 1135, King Henry I died without a male heir."
+      },
+      {
+        "narration": "His sudden death triggered a brutal nineteen-year civil war known as The Anarchy, tearing the kingdom apart.",
+        "search": "medieval battle illuminated manuscript warfare",
+        "caption": "A 19-year civil war known as The Anarchy plunged England into chaos."
+      },
+      {
+        "narration": "In the end, a single bowl of forbidden lamprey eels destroyed a royal bloodline and altered English history forever.",
+        "search": "lamprey eel medieval drawing illustration single",
+        "caption": "A single bowl of lamprey eels destroyed an entire royal lineage."
+      },
+      {
+        "narration": "A single meal destroyed an entire kingdom in 1135.",
+        "search": "medieval illuminated manuscript king royal feast engraving",
+        "caption": "A single meal destroyed a kingdom in 1135."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T08:18:14.147576+00:00",
+    "updated_at": "2026-11-20T08:20:21.000116+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-20T08:18:49.228791+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "433 chars (cat 149 de vua 55s)",
+        "at": "2026-11-20T08:19:03.931282+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.1s en-US-GuyNeural 7 cau",
+        "at": "2026-11-20T08:19:06.337839+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T08:19:07.162225+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-20T08:19:35.827955+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T08:19:35.845011+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.1s 17495041 bytes",
+        "at": "2026-11-20T08:20:20.872629+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T08:20:21.000107+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40007197/pexels-photo-40007197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40674211/pexels-photo-40674211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14655337/pexels-photo-14655337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6593537/pexels-photo-6593537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6010796/pexels-photo-6010796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16076980/pexels-photo-16076980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35503981/pexels-photo-35503981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30007822/pexels-photo-30007822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39182444/pexels-photo-39182444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/339805/pexels-photo-339805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35086911/pexels-photo-35086911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8177696/pexels-photo-8177696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2636b23078",
     "kind": "short",
     "channel": "Channel3",
