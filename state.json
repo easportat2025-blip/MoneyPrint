@@ -1,5 +1,161 @@
 [
   {
+    "id": "6508e571d2",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 16-Year-Old Leper King Who Defeated Saladin",
+    "idea": {
+      "title": "The 16-Year-Old Leper King Who Defeated Saladin",
+      "hook": "At just sixteen years old, King Baldwin the Fourth rode into battle wrapped in bandages—and crushed Saladin's undefeated army in a shocking mistake the sultan regretted forever.",
+      "beats": [
+        "Baldwin was diagnosed with leprosy as a child, slowly losing the use of his body.",
+        "When Saladin invaded with 26,000 men, Baldwin led a tiny force of just 500 knights.",
+        "Saladin underestimated the young king, allowing his troops to scatter and plunder.",
+        "Baldwin launched a surprise charge at Montgisard, routing the Ayyubid army and forcing Saladin to flee on a camel."
+      ],
+      "keywords": [
+        "Baldwin IV portrait",
+        "Saladin battle illustration",
+        "Crusades medieval painting",
+        "King of Jerusalem engraving",
+        "Knights Templar historical map"
+      ],
+      "tags": [
+        "#history",
+        "#crusades",
+        "#baldwiniv",
+        "#ancienthistory",
+        "#saladin"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did a paralyzed sixteen-year-old destroy Saladin's army?",
+        "search": "King Baldwin IV medieval painting illustration",
+        "caption": "A 16-year-old king shattered Saladin's undefeated army."
+      },
+      {
+        "narration": "In 1174, thirteen-year-old Baldwin the Fourth was crowned King of Jerusalem despite suffering from incurable leprosy.",
+        "search": "King Baldwin IV of Jerusalem coronation manuscript illumination",
+        "caption": "Crowned king at thirteen, Baldwin faced a terminal disease."
+      },
+      {
+        "narration": "By November 1177, Sultan Saladin marched north with twenty-six thousand troops to eliminate the Latin Kingdom.",
+        "search": "Sultan Saladin portrait medieval miniature painting",
+        "caption": "Saladin invaded with 26,000 veteran Ayyubid soldiers."
+      },
+      {
+        "narration": "Unable to grip a sword with his right hand, Baldwin strapped himself to his horse alongside five hundred knights.",
+        "search": "Knights Templar medieval oil painting combat",
+        "caption": "Baldwin bound his decaying body to his warhorse."
+      },
+      {
+        "narration": "Believing the teenage king was trapped inside Ascalon, Saladin scattered his army to raid the surrounding countryside.",
+        "search": "Medieval army pillaging village manuscript illustration",
+        "caption": "Saladin scattered his army, underestimating the teenage ruler."
+      },
+      {
+        "narration": "On November twenty-fifth, 1177, Baldwin caught Saladin's disorganized troops completely unprepared near the ravine of Montgisard.",
+        "search": "Battle of Montgisard historical map engraving",
+        "caption": "Baldwin trapped the dispersed Muslim army at Montgisard."
+      },
+      {
+        "narration": "Unfurling the relic of the True Cross, the young king ordered a full heavy cavalry charge directly into Saladin's position.",
+        "search": "Crusaders battle scene medieval manuscript painting",
+        "caption": "Five hundred Templars charged directly into Saladin's guard."
+      },
+      {
+        "narration": "The sudden, violent assault shattered the Ayyubid ranks, turning an overwhelming invasion into an unprecedented disaster.",
+        "search": "Crusades battle cavalry charge oil painting",
+        "caption": "The Ayyubid lines collapsed into total chaotic retreat."
+      },
+      {
+        "narration": "Saladin's personal bodyguard was annihilated, forcing the sultan to flee the battlefield on a swift camel.",
+        "search": "Battle of Montgisard 1177 medieval painting",
+        "caption": "Saladin narrowly escaped on a camel as his army collapsed."
+      },
+      {
+        "narration": "In November 1177, Baldwin's tiny force utterly routed the main Ayyubid army, leaving thousands of invaders fallen in the desert.",
+        "search": "Knights Templar crusaders battle oil painting",
+        "caption": "500 Knights defeated 26,000 men at Montgisard in 1177."
+      },
+      {
+        "narration": "Montgisard stood as Saladin's worst defeat, securing the legacy of a paralyzed sixteen-year-old king who defied impossible odds.",
+        "search": "King Baldwin IV of Jerusalem portrait engraving",
+        "caption": "The teenage leper king delivered Saladin's greatest military defeat."
+      },
+      {
+        "narration": "A sixteen-year-old leper king destroyed Saladin's undefeated army.",
+        "search": "king baldwin iv portrait medieval painting",
+        "caption": "A 16-year-old leper king destroyed Saladin's undefeated army."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T11:59:14.393066+00:00",
+    "updated_at": "2026-11-20T12:04:37.831299+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-20T11:59:42.508663+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "363 chars (cat 347 de vua 55s)",
+        "at": "2026-11-20T12:00:35.238136+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-20T12:00:41.249109+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T12:00:42.116970+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-20T12:03:49.258529+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T12:03:49.281665+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.2s 18039775 bytes",
+        "at": "2026-11-20T12:04:37.622992+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T12:04:37.831282+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8348226/pexels-photo-8348226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39639531/pexels-photo-39639531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20303149/pexels-photo-20303149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18787621/pexels-photo-18787621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20101520/pexels-photo-20101520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16053069/pexels-photo-16053069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36184606/pexels-photo-36184606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268910/pexels-photo-9268910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13516910/pexels-photo-13516910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20548095/pexels-photo-20548095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22937488/pexels-photo-22937488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11550588/pexels-photo-11550588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5e890f54a3",
     "kind": "short",
     "channel": "Channel2",
