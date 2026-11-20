@@ -1,5 +1,161 @@
 [
   {
+    "id": "1f93686710",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Prussian King Who Forced His Son to Watch an Execution",
+    "idea": {
+      "title": "The Prussian King Who Forced His Son to Watch an Execution",
+      "hook": "In 1730, King Frederick William I forced his own son to watch his best friend's execution—a shocking punishment for a failed escape that backfired completely.",
+      "beats": [
+        "Young Prince Frederick plotted to flee his abusive father's harsh military rule and escape to England.",
+        "Royal guards intercepted the treasonous plot, arresting the prince and his accomplice, Hans Hermann von Katte.",
+        "The furious King forced Frederick to watch from his cell window as Katte was beheaded outside.",
+        "Instead of breaking his spirit, the traumatizing loss hardened Frederick into Prussia's ultimate military genius."
+      ],
+      "keywords": [
+        "King Frederick William I portrait",
+        "Young Frederick the Great painting",
+        "18th century execution engraving",
+        "Prussian royal castle painting",
+        "Prussian military map 18th century"
+      ],
+      "tags": [
+        "#history",
+        "#shorts",
+        "#documentary",
+        "#prussia",
+        "#royalty"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A king forced his prince to watch an execution.",
+        "search": "King Frederick William I portrait painting",
+        "caption": "A royal father forced his son to watch execution"
+      },
+      {
+        "narration": "In 1730, eighteen-year-old Prince Frederick of Prussia endured relentless physical abuse from his autocratic father, King Frederick William I.",
+        "search": "Young Frederick the Great portrait painting",
+        "caption": "In 1730, Prince Frederick faced brutal abuse from his father"
+      },
+      {
+        "narration": "Desperate to escape the regime, Frederick secretly plotted a midnight flight to Great Britain with his close companion, Hans Hermann von Katte.",
+        "search": "Hans Hermann von Katte oil painting",
+        "caption": "Prince Frederick plotted a secret escape to Britain"
+      },
+      {
+        "narration": "Royal guards intercepted their written plans, arresting both conspirators near the border before they could cross.",
+        "search": "Prussian royal palace 18th century painting",
+        "caption": "Guards intercepted the plot and arrested both men"
+      },
+      {
+        "narration": "Furious at what he viewed as high treason, King Frederick William I initially threatened to execute his own son.",
+        "search": "Prussian officers 18th century military engraving",
+        "caption": "King Frederick William I threatened to execute his son"
+      },
+      {
+        "narration": "Though diplomatic pressure spared the prince's life, the king devised an even darker punishment inside Küstrin Fortress.",
+        "search": "Kustrin fortress 18th century map engraving",
+        "caption": "The King devised a darker punishment at Küstrin Fortress"
+      },
+      {
+        "narration": "On November 6, 1730, guards dragged Katte directly beneath the prince's cell window and forced Frederick to watch his execution.",
+        "search": "18th century beheading execution engraving",
+        "caption": "Prince Frederick was forced to watch Katte's execution"
+      },
+      {
+        "narration": "Fainting from trauma as the sword fell, the devastated prince was left locked in his cell, fundamentally transformed by the horror.",
+        "search": "18th century dungeon prison cell oil painting",
+        "caption": "The traumatized prince was left alone in his cell"
+      },
+      {
+        "narration": "King Frederick William I believed he had crushed his son's spirit, restoring Prince Frederick to strict military duty in 1732.",
+        "search": "King Frederick William I portrait painting believed",
+        "caption": "The King believed the brutal punishment worked."
+      },
+      {
+        "narration": "Outwardly compliant, the prince spent the next decade studying tactics and hiding his true ambitions behind absolute obedience.",
+        "search": "Young Frederick the Great painting",
+        "caption": "Frederick secretly studied strategy and military tactics."
+      },
+      {
+        "narration": "Taking the throne in 1740, the traumatized youth became Frederick the Great, using his hardened resolve to forge Prussia into a supreme empire.",
+        "search": "Prussian military map 18th century engraving",
+        "caption": "Prussia's greatest military genius was forged in trauma."
+      },
+      {
+        "narration": "A king forced his son to watch an execution.",
+        "search": "King Frederick William I portrait painting",
+        "caption": "A king forced his son to watch an execution"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T01:29:50.855441+00:00",
+    "updated_at": "2026-11-20T01:31:44.748228+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-20T01:30:07.630199+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "371 chars (cat 269 de vua 55s)",
+        "at": "2026-11-20T01:30:18.171397+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.8s en-US-GuyNeural 5 cau",
+        "at": "2026-11-20T01:30:21.694163+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T01:30:22.367414+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-20T01:31:06.687174+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T01:31:06.704468+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.9s 14043064 bytes",
+        "at": "2026-11-20T01:31:44.619573+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T01:31:44.748221+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20544004/pexels-photo-20544004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14493446/pexels-photo-14493446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7885612/pexels-photo-7885612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29420874/pexels-photo-29420874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267443/pexels-photo-9267443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13579089/pexels-photo-13579089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6835481/pexels-photo-6835481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10473501/pexels-photo-10473501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15432526/pexels-photo-15432526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35304302/pexels-photo-35304302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269134/pexels-photo-9269134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15687374/pexels-photo-15687374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "5efc8bab16",
     "kind": "short",
     "channel": "Channel2",
