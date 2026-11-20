@@ -1,5 +1,162 @@
 [
   {
+    "id": "75467eef27",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Scottish King Killed by His Own Favorite Cannon",
+    "idea": {
+      "title": "The Scottish King Killed by His Own Favorite Cannon",
+      "hook": "King James II of Scotland loved heavy artillery so much that his tragic obsession ended his life in a single shocking moment.",
+      "beats": [
+        "In 1460, King James II besieged Roxburgh Castle to drive the English out of Scotland.",
+        "Proud of his massive imported Flemish cannons, he insisted on standing right beside one named 'The Lion'.",
+        "When fired to salute his arriving Queen, the cannon misfired and violently exploded.",
+        "Shrapnel struck the 29-year-old king's thigh, causing him to bleed to death within minutes.",
+        "His army kept his tragic death secret to prevent panic and successfully captured the castle."
+      ],
+      "keywords": [
+        "James II of Scotland portrait",
+        "Roxburgh Castle engraving",
+        "medieval cannon siege drawing",
+        "15th century battle map",
+        "Scottish royal painting"
+      ],
+      "tags": [
+        "#history",
+        "#scotland",
+        "#medievalhistory",
+        "#militaryhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A king's prized superweapon ended his reign in seconds.",
+        "search": "James II of Scotland portrait painting",
+        "caption": "A king destroyed by his ultimate superweapon."
+      },
+      {
+        "narration": "In August 1460, King James II of Scotland besieged Roxburgh Castle to expel the English invaders.",
+        "search": "Roxburgh Castle engraving 15th century",
+        "caption": "August 1460: Scottish forces besiege Roxburgh Castle."
+      },
+      {
+        "narration": "The twenty-nine-year-old monarch was obsessed with gunpowder, importing massive Flemish iron cannons.",
+        "search": "medieval cannon siege drawing manuscript",
+        "caption": "King James II imported massive Flemish artillery."
+      },
+      {
+        "narration": "He took personal command of his prized bombard, named 'The Lion', standing right beside its barrel.",
+        "search": "15th century battle map Scotland engraving",
+        "caption": "James II stood directly beside his favorite cannon."
+      },
+      {
+        "narration": "When Queen Mary of Guelders arrived at camp, James ordered a grand salute in her honor.",
+        "search": "Scottish royal painting 15th century queen",
+        "caption": "A royal salute ordered for Queen Mary's arrival."
+      },
+      {
+        "narration": "As the fuse burned down, structural flaws caused 'The Lion' to violently explode into metal fragments.",
+        "search": "medieval siege cannon firing illustration",
+        "caption": "The massive iron cannon exploded on ignition."
+      },
+      {
+        "narration": "Flying shrapnel struck the king's thigh, severing his artery and killing him in minutes.",
+        "search": "15th century battle injury illuminated manuscript",
+        "caption": "Shrapnel fatally wounded the 29-year-old king."
+      },
+      {
+        "narration": "Commanders hid the king's fatal accident to prevent panic, successfully taking the fortress days later.",
+        "search": "James III of Scotland portrait painting",
+        "caption": "Scottish forces hid the death and took Roxburgh."
+      },
+      {
+        "narration": "Upon learning of her husband's death, Queen Mary of Guelders rallied the Scottish forces and ordered Roxburgh Castle completely destroyed.",
+        "search": "mary of guelders portrait painting 15th century",
+        "caption": "Queen Mary ordered Roxburgh Castle razed to the ground"
+      },
+      {
+        "narration": "In the aftermath of victory, nine-year-old Prince James was crowned King James III at Kelso Abbey in 1460.",
+        "search": "james iii of scotland portrait oil painting",
+        "caption": "Nine-year-old James III was crowned at Kelso Abbey in 1460"
+      },
+      {
+        "narration": "King James II pioneered heavy artillery in medieval Scotland, only to be killed by the very cannons he championed.",
+        "search": "james ii of scotland portrait oil painting",
+        "caption": "James II died by the very artillery he championed"
+      },
+      {
+        "narration": "A Scottish king died by his absolute favorite weapon.",
+        "search": "King James II of Scotland portrait oil painting",
+        "caption": "Killed by his favorite weapon in 1460."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T03:38:36.599052+00:00",
+    "updated_at": "2026-11-20T03:41:10.126746+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-20T03:39:01.848772+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "371 chars (cat 351 de vua 55s)",
+        "at": "2026-11-20T03:39:33.097236+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-20T03:39:36.227852+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T03:39:36.897399+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-20T03:40:31.953628+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T03:40:31.970495+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.4s 13511956 bytes",
+        "at": "2026-11-20T03:41:09.968901+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T03:41:10.126735+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/39058024/pexels-photo-39058024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40327872/pexels-photo-40327872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33793408/pexels-photo-33793408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40535061/pexels-photo-40535061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37748974/pexels-photo-37748974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12118238/pexels-photo-12118238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326131/pexels-photo-18326131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28383711/pexels-photo-28383711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38844183/pexels-photo-38844183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31596672/pexels-photo-31596672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14471016/pexels-photo-14471016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27853834/pexels-photo-27853834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1f93686710",
     "kind": "short",
     "channel": "Channel2",
