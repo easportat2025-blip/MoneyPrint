@@ -1,5 +1,601 @@
 [
   {
+    "id": "bc400b6297",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "How 3 Feet of Water Destroyed a Medieval Empire: The Death of King Louis II",
+    "idea": {
+      "title": "How 3 Feet of Water Destroyed a Medieval Empire: The Death of King Louis II",
+      "hook": "In 1526, King Louis II of Hungary made a fatal mistake that destroyed his kingdom—all because his heavy royal armor weighed him down in a tiny stream.",
+      "beats": [
+        "16th-century Central Europe faces the unstoppable northern expansion of the Ottoman Empire under Suleiman the Magnificent.",
+        "Portrait of King Louis II: A 20-year-old monarch ruling a politically divided kingdom unprepared for total war.",
+        "Suleiman marches toward Central Europe with modern gunpowder technology, elite Janissary infantry, and overwhelming numbers.",
+        "Hungarian nobles fail to send reinforcements in time, forcing Louis II to make a desperate stand near the town of Mohács.",
+        "August 29, 1526: The Battle of Mohács begins with a fierce charge by heavy Hungarian knights aimed directly at the Sultan.",
+        "Ottoman artillery and musket volleys annihilate the Hungarian cavalry charge, turning the battle into a horrific slaughter.",
+        "Panic spreads as key Hungarian generals fall, causing the remaining royal forces to shatter and retreat in mass chaos.",
+        "King Louis II flees the lost battle on horseback, completely encased in heavy, custom-forged steel plate armor.",
+        "Disoriented and exhausted in the falling light, the king directs his horse toward the swollen, muddy Csele Stream.",
+        "As the horse attempts to climb the slippery embankment, it loses traction, rears back, and flips into the mud.",
+        "Pinned beneath the heavy warhorse and weighed down by full armor, Louis II suffocates in less than three feet of water.",
+        "Days after the battle, searchers discover the young king's mud-caked body trapped in the shallow creek bed.",
+        "The immediate aftermath: Ottoman forces march into an undefended Buda, sparking centuries of war and partition in Hungary.",
+        "Legacy: How a single tragic accident in a muddy creek altered the balance of power in Europe for over 150 years."
+      ],
+      "keywords": [
+        "Battle of Mohacs",
+        "King Louis II",
+        "Suleiman the Magnificent",
+        "Ottoman Empire",
+        "Hungarian History",
+        "Medieval Warfare",
+        "Plate Armor Drowning",
+        "Csele Stream",
+        "European History",
+        "Famous Historical Deaths"
+      ],
+      "tags": [
+        "history documentary",
+        "battle of mohacs 1526",
+        "louis ii of hungary",
+        "suleiman the magnificent",
+        "ottoman empire history",
+        "strangest historical deaths",
+        "medieval history",
+        "hungary history documentary",
+        "war history",
+        "fall of hungary"
+      ],
+      "kind": "long",
+      "thumbnail_text": "KILLED BY HIS OWN ARMOR"
+    },
+    "scenes": [
+      {
+        "narration": "Three feet of water destroyed an empire in 1526. King Louis II of Hungary suffered a fatal accident that altered European history forever.",
+        "search": "battle of mohacs 1526 oil painting",
+        "caption": "Three feet of water destroyed an empire in 1526."
+      },
+      {
+        "narration": "In August 1526, Sultan Suleiman the Magnificent marched over sixty thousand Ottoman troops deep into Central Europe.",
+        "search": "suleiman the magnificent portrait oil painting",
+        "caption": "Sultan Suleiman marched sixty thousand Ottoman troops into Central Europe."
+      },
+      {
+        "narration": "Twenty-year-old King Louis II ruled a financially bankrupt Hungary torn apart by factional nobility who delayed sending reinforcements.",
+        "search": "king louis ii of hungary portrait painting",
+        "caption": "King Louis II ruled a politically fractured kingdom unprepared for war."
+      },
+      {
+        "narration": "Facing annihilation near the town of Mohács on August 29, Louis ordered a desperate heavy cavalry charge targeting Suleiman directly.",
+        "search": "16th century hungarian knights cavalry charge painting",
+        "caption": "Louis ordered a desperate knight charge at the Ottoman Sultan."
+      },
+      {
+        "narration": "Ottoman cannon batteries and elite Janissary musket volleys devastated the Hungarian knights, collapsing their line within two hours.",
+        "search": "16th century ottoman janissary artillery engraving",
+        "caption": "Ottoman gunpowder and cannons decimated the Hungarian assault."
+      },
+      {
+        "narration": "Encased in custom-forged steel plate armor, King Louis fled the chaotic retreat into the surrounding marshlands as dusk fell.",
+        "search": "16th century knight plate armor horse painting",
+        "caption": "Encased in heavy plate armor, King Louis fled the carnage."
+      },
+      {
+        "narration": "Attempting to navigate the swollen Csele Stream, his warhorse slipped on the steep embankment, rearing back and pinning the king beneath three feet of mud.",
+        "search": "csele stream mohacs hungary 16th century map engraving",
+        "caption": "Trapped beneath his horse, Louis drowned in shallow creek mud."
+      },
+      {
+        "narration": "Without a royal heir, the Hungarian monarchy collapsed, allowing Ottoman forces to occupy Buda and partitioning Central Europe for over a century.",
+        "search": "fall of buda 1526 hungary historical map engraving",
+        "caption": "A royal accident left Hungary partitioned for over 150 years."
+      },
+      {
+        "narration": "As darkness fell over the battlefield on August 29, 1526, King Louis II fled into the marshlands wearing over sixty pounds of custom steel plate armor.",
+        "search": "king louis ii of hungary portrait oil painting",
+        "caption": "King Louis II fled the battle wearing full steel plate armor"
+      },
+      {
+        "narration": "Exhausted and separated from his royal bodyguard, the twenty-year-old monarch directed his warhorse into the rain-swollen Csele Stream.",
+        "search": "battle of mohacs 1526 map engraving",
+        "caption": "Rain-swollen Csele Stream trapped the fleeing Hungarian monarch"
+      },
+      {
+        "narration": "When the warhorse attempted to scramble up the muddy bank, it lost traction, reared backward, and crushed the king beneath its weight.",
+        "search": "16th century knight cavalry battle oil painting",
+        "caption": "The warhorse lost traction and flipped backward into the mud"
+      },
+      {
+        "narration": "Trapped under the heavy mount and immobilized by rigid iron plating, Louis II suffocated in less than three feet of murky water.",
+        "search": "16th century suit of plate armor museum photograph",
+        "caption": "Immobilized by heavy armor, Louis II suffocated in shallow water"
+      },
+      {
+        "narration": "Days after the defeat, royal searchers located the young king's mud-caked corpse still trapped beneath his fallen horse in the creek bed.",
+        "search": "death of king louis ii mohacs oil painting",
+        "caption": "Searchers recovered the drowned king's body days after the battle"
+      },
+      {
+        "narration": "With no surviving heir and the Hungarian army destroyed, Sultan Suleiman I marched into an undefended Buda in September 1526.",
+        "search": "sultan suleiman the magnificent portrait oil painting",
+        "caption": "Sultan Suleiman I captured undefended Buda in September 1526"
+      },
+      {
+        "narration": "The sudden royal vacuum split the Hungarian Kingdom into three contested regions, triggering more than one hundred and fifty years of war.",
+        "search": "divided kingdom of hungary 16th century map engraving",
+        "caption": "The death of Louis II fractured Central Europe for generations"
+      },
+      {
+        "narration": "A single tragic accident in three feet of water dissolved an ancient kingdom and permanently reshaped the balance of power across Europe.",
+        "search": "battle of mohacs memorial site historical monument photograph",
+        "caption": "Three feet of mud fundamentally altered European history forever"
+      },
+      {
+        "narration": "In August 1526, an ancient kingdom collapsed not during a heroic siege, but because its ruler drowned in three feet of water. This single tragic accident reshaped the balance of power in Europe for over a century.",
+        "search": "battle of mohacs 1526 oil painting ending",
+        "caption": "A king drowned in three feet of water, ending an empire."
+      },
+      {
+        "narration": "Earlier that year, Sultan Suleiman the Magnificent marched over sixty thousand Ottoman troops northward into Central Europe. Armed with modern cannons and elite Janissary infantry, the empire posed an existential threat to its neighbors.",
+        "search": "sultan suleiman the magnificent portrait oil painting magnificent",
+        "caption": "Suleiman the Magnificent marched sixty thousand soldiers into Central Europe."
+      },
+      {
+        "narration": "Facing this invasion was King Louis II of Hungary, a twenty-year-old monarch ruling a kingdom fractured by political rivalries. Unprepared for total war, Louis II struggled to rally a unified defense in time.",
+        "search": "king louis ii of hungary portrait oil painting twentyyearold",
+        "caption": "Twenty-year-old King Louis II ruled a deeply divided kingdom."
+      },
+      {
+        "narration": "On August 29, 1526, near the town of Mohács, Hungarian forces launched a desperate heavy cavalry charge aimed directly at the Sultan. The armored knights sought a swift victory before Ottoman numbers could overwhelm them.",
+        "search": "battle of mohacs knights charge oil painting",
+        "caption": "On August 29, 1526, Hungarian knights charged the Ottoman line."
+      },
+      {
+        "narration": "Ottoman field artillery and disciplined Janissary musket volleys tore through the charging cavalry, shattering the attack within hours. As key commanders fell, panic rippled through the Hungarian ranks, triggering a chaotic retreat.",
+        "search": "ottoman janissary soldiers 16th century engraving",
+        "caption": "Ottoman cannons and musket fire shattered the Hungarian army."
+      },
+      {
+        "narration": "Completely encased in custom steel plate armor, King Louis II fled the lost battlefield on horseback into the gathering darkness. Disoriented and physically exhausted, he guided his steed toward the swollen Csele Stream.",
+        "search": "16th century knight plate armor museum exhibit",
+        "caption": "Fleeing in full plate armor, Louis II rode into the dark."
+      },
+      {
+        "narration": "As the horse attempted to climb the steep, muddy embankment, it lost traction and reeled backward into the water. Pinned beneath the heavy warhorse and immobilized by his armor, Louis II suffocated in the shallow creek bed.",
+        "search": "csele stream hungary landscape photograph",
+        "caption": "The king's horse slipped into the mud, trapping him underneath."
+      },
+      {
+        "narration": "Days later, searchers recovered the young monarch's body, leaving Hungary leaderless as Ottoman forces marched into an undefended Buda. The king's tragic death fractured the nation, sparking over one hundred and fifty years of partition.",
+        "search": "partition of hungary historical map engraving",
+        "caption": "Louis II suffocated, leaving Hungary divided for over 150 years."
+      },
+      {
+        "narration": "King Louis II left no legitimate heir upon his sudden death, plunging 16th-century Hungary into an immediate dynastic crisis.",
+        "search": "kingdom of hungary medieval map engraving",
+        "caption": "Louis II died childless, leaving a vacant throne in 1526."
+      },
+      {
+        "narration": "In September 1526, Sultan Suleiman the Magnificent marched into the unguarded capital of Buda, looting the royal palace.",
+        "search": "suleiman the magnificent entry into buda oil painting",
+        "caption": "Sultan Suleiman captured the undefended capital of Buda in 1526."
+      },
+      {
+        "narration": "The Hungarian nobility split into bitter factions, simultaneously electing two rival monarchs: Archduke Ferdinand I of Austria and Voivode John Zápolya.",
+        "search": "ferdinand i holy roman emperor portrait painting",
+        "caption": "Two rival kings were crowned by opposing Hungarian factions."
+      },
+      {
+        "narration": "Unable to withstand Habsburg military force alone, John Zápolya swore fealty to Suleiman, inviting Ottoman protection deep into Central Europe.",
+        "search": "john zapolya king of hungary portrait painting",
+        "caption": "John Zápolya formed an alliance with the Ottoman Empire."
+      },
+      {
+        "narration": "Exploiting the vassalage of Eastern Hungary, Suleiman launched a massive assault on the Habsburg heartland, laying siege to Vienna in 1529.",
+        "search": "siege of vienna 1529 woodcut engraving",
+        "caption": "Ottoman armies advanced to the gates of Vienna in 1529."
+      },
+      {
+        "narration": "By 1541, the shattered realm was formally carved into three zones: Ottoman Hungary, Habsburg Hungary, and the Principality of Transylvania.",
+        "search": "partition of hungary 16th century map engraving",
+        "caption": "Hungary was partitioned into three separate geopolitical realms."
+      },
+      {
+        "narration": "For more than a century and a half, the former Hungarian heartland remained a heavily fortified war zone between two massive empires.",
+        "search": "battle of ottoman empire habsburg 16th century oil painting",
+        "caption": "Central Europe endured 150 years of constant border wars."
+      },
+      {
+        "narration": "A single fatal misstep in the muddy Csele Stream eliminated a royal line and redrew the geopolitical map of Europe for generations.",
+        "search": "csele stream monument louis ii hungary historical illustration",
+        "caption": "A tragic drowning in 1526 altered European history for centuries."
+      },
+      {
+        "narration": "Three feet of water destroyed an entire European kingdom in 1526. A single misstep by a drowning king altered central European power for centuries.",
+        "search": "Battle of Mohacs 1526 oil painting medieval",
+        "caption": "Three feet of water destroyed a medieval kingdom in 1526."
+      },
+      {
+        "narration": "In August 1526, Sultan Suleiman the Magnificent marched northward into Central Europe with over sixty thousand Ottoman troops and modern artillery. Facing him was twenty-year-old King Louis II of Hungary, leading a fractured nobility and an unprepared army.",
+        "search": "King Louis II of Hungary portrait painting faced",
+        "caption": "King Louis II faced Sultan Suleiman's massive invading army in 1526."
+      },
+      {
+        "narration": "Crucial reinforcements failed to arrive in time, leaving Louis II isolated near the town of Mohács. On August 29, 1526, the young king ordered a desperate charge of heavy cavalry directly toward the Sultan's center.",
+        "search": "Battle of Mohacs 1526 historical engraving",
+        "caption": "Isolated at Mohács, Louis II ordered a high-stakes heavy cavalry charge."
+      },
+      {
+        "narration": "Ottoman cannons and elite Janissary musket volleys devastated the charging Hungarian ranks within hours. As key commanders fell, panic rippled through the royal army, turning the gamble into a total collapse.",
+        "search": "Ottoman Janissaries 16th century painting",
+        "caption": "Ottoman artillery and musket fire annihilated the Hungarian knight charge."
+      },
+      {
+        "narration": "Surrounded by fleeing soldiers in the twilight, King Louis II escaped the battlefield clad in heavy steel plate armor. Disoriented and exhausted, the king guided his warhorse toward the swollen Csele Stream.",
+        "search": "16th century steel plate armor museum photo",
+        "caption": "Clad in heavy armor, Louis II fled into the muddy marshland."
+      },
+      {
+        "narration": "As his horse attempted to scramble up the slick riverbank, the animal lost traction and flipped backward into the mud. Pinned under the heavy horse and encased in steel armor, Louis II suffocated in less than three feet of water.",
+        "search": "Csele stream Mohacs landscape photo",
+        "caption": "Trapped under his warhorse, King Louis II drowned in shallow water."
+      },
+      {
+        "narration": "Days later, searchers recovered the mud-caked body of the twenty-year-old monarch in the shallow creek bed. Without a royal heir, the royal capital of Buda fell undefended to Ottoman forces shortly after.",
+        "search": "Death of King Louis II oil painting",
+        "caption": "Searchers found the young monarch drowned in the shallow river bed."
+      },
+      {
+        "narration": "The death of Louis II triggered the immediate collapse and tripartition of Hungary between Ottoman rule and the Habsburg Monarchy. A tragic accident in a shallow stream altered the balance of European power for over one hundred and fifty years.",
+        "search": "16th century map of divided Hungary engraving",
+        "caption": "The king's tragic death partitioned Hungary and reshaped European power."
+      },
+      {
+        "narration": "Three feet of muddy water destroyed a European empire in 1526.",
+        "search": "battle of mohacs 1526 oil painting close up",
+        "caption": "Three feet of water destroyed a kingdom in 1526."
+      },
+      {
+        "narration": "In August 1526, Sultan Suleiman the Magnificent led over sixty thousand Ottoman troops into Central Europe. Facing him was King Louis II of Hungary, a twenty-year-old monarch commanding a divided, unprepared army.",
+        "search": "suleiman the magnificent portrait painting",
+        "caption": "Sultan Suleiman marched sixty thousand troops into Central Europe."
+      },
+      {
+        "narration": "Internal political squabbles delayed vital reinforcements, forcing King Louis II to assemble a meager force of twenty-four thousand men near Mohács. On August 29, 1526, the Hungarian forces prepared for a desperate stand.",
+        "search": "king louis ii of hungary portrait painting overwhelming",
+        "caption": "King Louis II faced overwhelming odds at the Battle of Mohács."
+      },
+      {
+        "narration": "The battle commenced with a thunderous charge by heavy Hungarian knights, aiming directly for the Sultan's personal guard. For a brief moment, the cavalry breached the vanguard, threatening Ottoman leadership.",
+        "search": "medieval heavy cavalry charge battle oil painting",
+        "caption": "A desperate cavalry charge targeted the Ottoman vanguard."
+      },
+      {
+        "narration": "Ottoman Janissaries and concealed field artillery opened fire, tearing through the armored knights with devastating volleys of musket shot and cannonballs. The Hungarian line collapsed into a slaughter within hours.",
+        "search": "ottoman artillery janissaries battle 16th century engraving",
+        "caption": "Ottoman gunpowder and cannons decimated the heavy Hungarian knights."
+      },
+      {
+        "narration": "With his army destroyed, King Louis II fled the battlefield on horseback, fully encased in heavy custom plate armor. Disoriented in the failing dusk, he steered his warhorse toward the swollen banks of the Csele Stream.",
+        "search": "16th century knight full plate armor oil painting",
+        "caption": "Encased in heavy armor, King Louis II fled the massacre."
+      },
+      {
+        "narration": "As the horse attempted to climb the slippery embankment, it lost traction and rolled backward into the water. Trapped beneath the heavy beast, the young king drowned in less than three feet of mud and water.",
+        "search": "flooded creek muddy stream landscape painting",
+        "caption": "Pinned in the muddy creek bed, King Louis II drowned."
+      },
+      {
+        "narration": "Days later, searchers recovered the mud-caked body of Louis II, leaving Hungary without a king or heir. Ottoman forces occupied Buda unhindered, partitioning the kingdom and altering European power for over 150 years.",
+        "search": "buda castle 16th century map engraving",
+        "caption": "The death of Louis II reshaped European geopolitics for 150 years."
+      },
+      {
+        "narration": "Three feet of mud destroyed a five-hundred-year-old empire. In 1526, a young monarch lost his life and kingdom in a shallow creek.",
+        "search": "battle of mohacs 1526 oil painting sovereign",
+        "caption": "A sovereign kingdom erased in three feet of water"
+      },
+      {
+        "narration": "Twenty-year-old King Louis II ruled a politically fractured Hungary unprepared for existential war. Internal factionalism delayed vital reinforcements as the southern front collapsed.",
+        "search": "king louis ii of hungary portrait oil painting wide shot",
+        "caption": "King Louis II ruled a deeply divided Hungarian kingdom"
+      },
+      {
+        "narration": "Sultan Suleiman the Magnificent advanced into Central Europe with overwhelming numbers, elite Janissary infantry, and modern gunpowder artillery.",
+        "search": "suleiman the magnificent portrait oil painting brought",
+        "caption": "Suleiman brought modern artillery and elite Janissary firepower"
+      },
+      {
+        "narration": "On August 29, 1526, near the town of Mohács, Louis II launched a desperate heavy cavalry charge aimed directly at the Sultan.",
+        "search": "battle of mohacs cavalry charge painting",
+        "caption": "August 29, 1526: Hungarian knights charge the Ottoman center"
+      },
+      {
+        "narration": "Ottoman artillery salvos and musket volleys tore through the Hungarian front lines, turning the assault into a total massacre within two hours.",
+        "search": "ottoman artillery 16th century engraving",
+        "caption": "Massed Ottoman cannon fire shattered the noble cavalry"
+      },
+      {
+        "narration": "Encased in custom-forged steel plate armor, King Louis II fled the chaotic battlefield alone into the falling dusk.",
+        "search": "16th century knight full plate armor museum photo",
+        "caption": "Encased in heavy armor, the king fled into darkness"
+      },
+      {
+        "narration": "Attempting to cross the swollen Csele Stream, his warhorse slipped on the muddy bank and flipped backward into the creekbed. Pinned beneath the horse and heavy armor, Louis II suffocated in less than three feet of water.",
+        "search": "csele stream hungary landscape photograph over the shoulder",
+        "caption": "The monarch suffocated beneath his horse in shallow mud"
+      },
+      {
+        "narration": "Searchers discovered the young king's body days later, leaving Hungary without an heir and allowing Ottoman forces to occupy Buda unhindered. This single tragedy partitioned Central Europe for over one hundred and fifty years.",
+        "search": "partition of hungary 16th century historical map engraving",
+        "caption": "A tragic slip reshaped European power for 150 years"
+      },
+      {
+        "narration": "News of the twenty-year-old monarch's drowning reached the royal court at Buda, triggering total panic and mass evacuation.",
+        "search": "medieval castle siege panicked citizens engraving 16th century",
+        "caption": "News of King Louis II's death triggers chaos in Buda."
+      },
+      {
+        "narration": "In September 1526, Sultan Suleiman the Magnificent marched into the unguarded capital of Buda without firing a single shot.",
+        "search": "Suleiman the Magnificent entering Buda oil painting",
+        "caption": "Sultan Suleiman occupies the undefended capital in September 1526."
+      },
+      {
+        "narration": "Because Louis II died without leaving a direct heir, the Hungarian crown fell into a brutal succession crisis.",
+        "search": "crown of saint stephen hungary oil painting",
+        "caption": "A severe succession crisis engulfs the leaderless kingdom."
+      },
+      {
+        "narration": "Two rival factions crowned competing monarchs in late 1526: Archduke Ferdinand I of Austria and Hungarian nobleman John Zápolya.",
+        "search": "Archduke Ferdinand I of Habsburg portrait painting",
+        "caption": "Ferdinand I and John Zápolya claim the Hungarian throne."
+      },
+      {
+        "narration": "To secure his throne against the Habsburgs, Zápolya took a fateful step in 1528 by swearing fealty directly to Sultan Suleiman.",
+        "search": "John Zapolya portrait painting",
+        "caption": "Zápolya forms a fatal alliance with the Ottoman Empire."
+      },
+      {
+        "narration": "This alliance effectively shattered Hungary into three partitioned zones, leaving the central region under direct Ottoman military rule.",
+        "search": "partitioned map of hungary 16th century engraving",
+        "caption": "Hungary is split into three hostile geopolitical zones."
+      },
+      {
+        "narration": "For the next century and a half, Central Europe endured constant border raids, fortress sieges, and devastation.",
+        "search": "ottoman habsburg war battle 16th century oil painting",
+        "caption": "Central Europe becomes a perpetual warzone for 150 years."
+      },
+      {
+        "narration": "All of this geopolitical destruction traced back to a single moment of panic in three feet of water along the Csele Stream.",
+        "search": "full plate armor medieval equestrian knight oil painting",
+        "caption": "A single fatal slip in three feet of water changed history."
+      },
+      {
+        "narration": "In August 1526, an entire European kingdom collapsed when its twenty-year-old ruler drowned in three feet of water.",
+        "search": "King Louis II of Hungary oil painting portrait close up",
+        "caption": "A kingdom collapsed in three feet of water in 1526"
+      },
+      {
+        "narration": "By 1526, Sultan Suleiman the Magnificent led over sixty thousand Ottoman troops into Central Europe, armed with advanced gunpowder artillery.",
+        "search": "Sultan Suleiman the Magnificent 16th century miniature portrait",
+        "caption": "Suleiman marched 60,000 troops into Central Europe"
+      },
+      {
+        "narration": "King Louis II of Hungary rushed to defend his realm with fewer than twenty-five thousand men after internal political fractures delayed noble reinforcements.",
+        "search": "Battle of Mohacs 1526 historical battle map engraving",
+        "caption": "Internal political turmoil left the Hungarian army severely outnumbered"
+      },
+      {
+        "narration": "On August 29, 1526, near the town of Mohács, Louis ordered a desperate heavy cavalry charge aimed directly at the Ottoman imperial command post.",
+        "search": "Hungarian heavy knights cavalry battle 16th century engraving",
+        "caption": "A desperate charge of heavy knights targeted the Sultan"
+      },
+      {
+        "narration": "Concentrated volleys from Ottoman Janissary muskets and bronze cannons obliterated the Hungarian assault in less than two hours.",
+        "search": "Ottoman Janissaries with matchlock muskets 16th century manuscript illustration",
+        "caption": "Ottoman artillery and musketry decimated the royal cavalry charge"
+      },
+      {
+        "narration": "Fleeing the lost battlefield in heavy steel plate armor, King Louis II guided his exhausted warhorse toward the mud-choked Csele Stream.",
+        "search": "Knight in full 16th century plate armor on horseback painting",
+        "caption": "Encased in heavy armor, Louis fled into the Csele Stream"
+      },
+      {
+        "narration": "When the horse slipped on the steep bank and flipped backward, the weight of the suit trapped Louis underwater, suffocating him in minutes.",
+        "search": "Csele stream near Mohacs historical engraving",
+        "caption": "Pinned under his horse, Louis drowned in shallow water"
+      },
+      {
+        "narration": "The sudden death of Louis II left Hungary leaderless, enabling the Ottoman Empire to partition the realm and alter European power for 150 years.",
+        "search": "Partition of Hungary 16th century historical map engraving timelapse",
+        "caption": "A single drowning reshaped European geopolitics for 150 years"
+      },
+      {
+        "narration": "In August 1526, a twenty-year-old monarch drowned in three feet of water, instantly collapsing a five-hundred-year-old empire.",
+        "search": "battle of mohacs 1526 oil painting close up",
+        "caption": "Three feet of water destroyed a kingdom in 1526."
+      },
+      {
+        "narration": "Ottoman Sultan Suleiman the Magnificent marched into Central Europe with elite Janissaries and modern gunpowder technology to confront King Louis II of Hungary.",
+        "search": "king louis ii of hungary portrait painting wide shot",
+        "caption": "King Louis II faced Sultan Suleiman's invading Ottoman army."
+      },
+      {
+        "narration": "Ruling a politically divided realm without expected reinforcements, Louis made a desperate stand on the plains near Mohács on August 29, 1526.",
+        "search": "battle of mohacs historical map engraving",
+        "caption": "August 29, 1526: A desperate stand at Mohács."
+      },
+      {
+        "narration": "Hungarian heavy knights launched a fierce cavalry charge directly toward the Sultan, but massive Ottoman artillery and musket volleys devastated their ranks.",
+        "search": "ottoman artillery battle of mohacs engraving",
+        "caption": "Ottoman gunpowder annihilated the charging Hungarian heavy cavalry."
+      },
+      {
+        "narration": "As key generals fell and panic shattered the royal army, King Louis fled the disastrous battlefield alone, encased in heavy steel plate armor.",
+        "search": "16th century knight full plate armor museum photo customforged",
+        "caption": "King Louis fled in heavy custom-forged steel armor."
+      },
+      {
+        "narration": "Disoriented in the falling light, the exhausted king forced his horse down the steep embankment of the swollen Csele Stream.",
+        "search": "csele stream hungary landscape photograph detail view",
+        "caption": "The horse slipped and flipped in the muddy stream."
+      },
+      {
+        "narration": "The warhorse lost traction, reared back, and flipped into the mud, pinning the heavily armored monarch underwater where he suffocated within minutes.",
+        "search": "death of king louis ii of hungary oil painting",
+        "caption": "Trapped under armor, Louis II suffocated in shallow creek mud."
+      },
+      {
+        "narration": "The sudden death of Louis II left Hungary without an heir, allowing Ottoman forces to capture Buda and partition the realm for over one hundred and fifty years.",
+        "search": "buda castle 16th century copper engraving",
+        "caption": "The tragic accident partitioned Central Europe for 150 years."
+      },
+      {
+        "narration": "A three-foot stream destroyed a 500-year-old empire in 1526.",
+        "search": "battle of mohacs 1526 oil painting battle scene",
+        "caption": "A shallow stream crushed an entire empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T21:58:41.973030+00:00",
+    "updated_at": "2026-11-20T22:13:09.805736+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-20T22:02:20.855647+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2372 chars",
+        "at": "2026-11-20T22:03:13.156099+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "144.2s en-US-GuyNeural 24 cau",
+        "at": "2026-11-20T22:03:20.849700+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T22:03:23.299298+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-20T22:10:24.901194+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-20T22:10:24.915922+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 144.2s 134137109 bytes",
+        "at": "2026-11-20T22:13:09.652078+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-20T22:13:09.683407+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T22:13:09.805719+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/4588841/pexels-photo-4588841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12945009/pexels-photo-12945009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19913648/pexels-photo-19913648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32677287/pexels-photo-32677287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39775587/pexels-photo-39775587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30736363/pexels-photo-30736363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9292784/pexels-photo-9292784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34431045/pexels-photo-34431045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4823073/pexels-photo-4823073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10895737/pexels-photo-10895737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563542/pexels-photo-16563542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38978202/pexels-photo-38978202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11577245/pexels-photo-11577245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33058036/pexels-photo-33058036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19281183/pexels-photo-19281183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33281141/pexels-photo-33281141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14284471/pexels-photo-14284471.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36056969/pexels-photo-36056969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205346/pexels-photo-39205346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33078284/pexels-photo-33078284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267429/pexels-photo-9267429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350031/pexels-photo-31350031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2479685/pexels-photo-2479685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37774517/pexels-photo-37774517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494908/pexels-photo-9494908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40393806/pexels-photo-40393806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18898359/pexels-photo-18898359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38917918/pexels-photo-38917918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1297938/pexels-photo-1297938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7235911/pexels-photo-7235911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319291/pexels-photo-29319291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7614637/pexels-photo-7614637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34732750/pexels-photo-34732750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10068860/pexels-photo-10068860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269146/pexels-photo-9269146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29871805/pexels-photo-29871805.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11952611/pexels-photo-11952611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11885438/pexels-photo-11885438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739371/pexels-photo-5739371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17955398/pexels-photo-17955398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10573742/pexels-photo-10573742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39278470/pexels-photo-39278470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16828885/pexels-photo-16828885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28829037/pexels-photo-28829037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32048235/pexels-photo-32048235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/349455/pexels-photo-349455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39457991/pexels-photo-39457991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20898345/pexels-photo-20898345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12382735/pexels-photo-12382735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32072309/pexels-photo-32072309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13055169/pexels-photo-13055169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27425289/pexels-photo-27425289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15297405/pexels-photo-15297405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12592514/pexels-photo-12592514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38962643/pexels-photo-38962643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3218465/pexels-photo-3218465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7459562/pexels-photo-7459562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40802829/pexels-photo-40802829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/764494/pexels-photo-764494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29484285/pexels-photo-29484285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18453509/pexels-photo-18453509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4338273/pexels-photo-4338273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6625606/pexels-photo-6625606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32698384/pexels-photo-32698384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2219040/pexels-photo-2219040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36919265/pexels-photo-36919265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29033397/pexels-photo-29033397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563533/pexels-photo-16563533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34343011/pexels-photo-34343011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36937789/pexels-photo-36937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38837009/pexels-photo-38837009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35425418/pexels-photo-35425418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412596/pexels-photo-29412596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/772472/pexels-photo-772472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20476788/pexels-photo-20476788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33567283/pexels-photo-33567283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23884264/pexels-photo-23884264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39225259/pexels-photo-39225259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6695382/pexels-photo-6695382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11984721/pexels-photo-11984721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14173503/pexels-photo-14173503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c4d9abffad",
     "kind": "short",
     "channel": "Channel3",
