@@ -1,5 +1,167 @@
 [
   {
+    "id": "ae053b19b5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đi trời lạnh lại làm bạn buồn đi vệ sinh liên tục?",
+    "idea": {
+      "title": "Tại sao đi trời lạnh lại làm bạn buồn đi vệ sinh liên tục?",
+      "hook": "Thực ra hiện tượng vừa ra trời lạnh đã muốn đi vệ sinh không phải do bạn uống nhiều nước, mà là cơ thể đang âm thầm tự cứu lấy chính nó.",
+      "beats": [
+        "Mạch máu ngoài da co lại để giữ nhiệt tập trung cho các cơ quan nội tạng.",
+        "Lượng máu dồn về trung tâm làm áp lực máu tăng đột ngột.",
+        "Thận nhận tín hiệu áp lực cao và lập tức lọc bớt nước thải ra ngoài.",
+        "Bạn bị mất nước nhanh hơn trong mùa đông mà không hề hay biết."
+      ],
+      "keywords": [
+        "cold weather walking",
+        "human kidney animation",
+        "blood vessels constriction",
+        "winter cold person",
+        "bathroom sign urgency"
+      ],
+      "tags": [
+        "#Channel3",
+        "#suckhoe",
+        "#kienthuc",
+        "#doisong",
+        "#cothe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Trời lạnh buồn đi tiểu không phải do uống nước.",
+        "search": "nguoi di duoi troi tuyet hoat hinh 3d",
+        "caption": "Vừa ra trời lạnh đã buồn đi vệ sinh?"
+      },
+      {
+        "narration": "Ngay khi gặp lạnh, cơ thể bạn lập tức bật chế độ sinh tồn khẩn cấp.",
+        "search": "nhiet do giam xuong hoat hinh 3d",
+        "caption": "Cơ thể bật chế độ sinh tồn khẩn cấp"
+      },
+      {
+        "narration": "Để giữ nhiệt, hàng triệu mạch máu sát bề mặt da bắt đầu co quắp lại.",
+        "search": "mach mau co lai 3d animation",
+        "caption": "Hàng triệu mạch máu dưới da co lại"
+      },
+      {
+        "narration": "Dòng máu nóng bị ép phải rút hết về bảo vệ các cơ quan nội tạng.",
+        "search": "noi tang nguoi phat sang hoat hinh 3d",
+        "caption": "Gom máu nóng về bảo vệ nội tạng"
+      },
+      {
+        "narration": "Nhưng sự tập trung này lại gây ra một cuộc khủng hoảng áp lực bên trong.",
+        "search": "dong ho ap suat tang cao hoat hinh 3d",
+        "caption": "Tạo ra khủng hoảng áp lực bên trong"
+      },
+      {
+        "narration": "Khi thể tích máu dồn về trung tâm, huyết áp nội tạng sẽ tăng vọt đột ngột.",
+        "search": "dong mau chay trong co the hoat hinh 3d",
+        "caption": "Huyết áp trung tâm tăng vọt đột ngột"
+      },
+      {
+        "narration": "Hai quả thận nhận tín hiệu áp lực cao và lập tức xả bớt nước thải ra ngoài.",
+        "search": "hai qua than loc nuoc hoat hinh 3d",
+        "caption": "Thận lập tức lọc xả bớt nước thải"
+      },
+      {
+        "narration": "Hiện tượng này khiến bạn bị mất nước mùa đông nhanh hơn bình thường.",
+        "search": "bieu tuong nha ve sinh hoat hinh 3d",
+        "caption": "Mất nước mùa đông nhanh hơn bạn nghĩ"
+      },
+      {
+        "narration": "Đáng sợ nhất là trời lạnh làm giảm cảm giác khát, khiến bạn hiếm khi chủ động uống bù nước.",
+        "search": "hoat hinh 3d coc nuoc am mua dong nguoi lanh",
+        "caption": "Trời lạnh làm giảm cảm giác khát nước tự nhiên"
+      },
+      {
+        "narration": "Thiếu nước ngầm làm máu đặc hơn, buộc tim phải đập nhanh hơn để bơm máu đi nuôi cơ thể.",
+        "search": "3d animation tim dap va mach mau hoat hoa",
+        "caption": "Máu đặc hơn khiến tim phải hoạt động vất vả hơn"
+      },
+      {
+        "narration": "Hơn nữa, bàng quang đầy nước cũng làm cơ thể tốn thêm nhiều năng lượng chỉ để giữ ấm nó.",
+        "search": "hoat hinh 3d bang quang co the nguoi isometric render",
+        "caption": "Giữ nước trong bàng quang làm tốn thêm nhiệt lượng"
+      },
+      {
+        "narration": "Đi vệ sinh ngay khi buồn giải phóng gánh nặng nhiệt, giúp cơ thể tập trung sưởi ấm cho bạn.",
+        "search": "motion graphics nhan vat hoat hinh di vao nha ve sinh",
+        "caption": "Xả bàng quang giúp cơ thể dồn nhiệt sưởi ấm tốt hơn"
+      },
+      {
+        "narration": "Vì vậy, luôn uống một ngụm nước ấm trước khi ra trời lạnh để bù lại lượng nước đã mất!",
+        "search": "cartoony 3d ban tay cam ly nuoc am boc hoi",
+        "caption": "Uống ngụm nước ấm trước khi ra đường để bù nước"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-20T13:43:22.180165+00:00",
+    "updated_at": "2026-11-20T13:48:35.800990+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-20T13:45:33.361432+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "537 chars (cat 55 de vua 55s)",
+        "at": "2026-11-20T13:46:42.360412+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-20T13:47:03.811462+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-20T13:47:04.915025+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-20T13:47:25.253125+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-20T13:47:25.274564+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.1s 32055269 bytes",
+        "at": "2026-11-20T13:48:35.596482+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-20T13:48:35.800977+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34970904/14813812_1440_2560_32fps.mp4",
+      "https://videos.pexels.com/video-files/5846303/5846303-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/16561469/16561469-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16548256/16548256-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324650/13788089_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8819581/8819581-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39431106/16791605_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/40807356/17436053_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39347051/16747394_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16456784/16456784-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/18069236/18069236-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/6466565/6466565-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8816952/8816952-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "6508e571d2",
     "kind": "short",
     "channel": "Channel2",
