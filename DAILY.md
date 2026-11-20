@@ -1,4 +1,4 @@
-# Daily ping 19/11/2026
+# Daily ping 20/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Thói quen lau màn hình bằng vạt áo âm thầm làm hỏng điệ :: token refresh failed: 400 {
+- Tại sao giảm độ sáng điện thoại tối đa ban đêm lại gây  :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman Emperor Who Appointed His Horse Consul :: token refresh failed: 400 {
+- The Scottish King Killed by His Own Favorite Cannon :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The King Killed by His Own Pet Monkey :: token refresh failed: 400 {
+- The Prussian King Who Forced His Son to Watch an Execut :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
