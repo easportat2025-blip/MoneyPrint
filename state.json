@@ -1,5 +1,161 @@
 [
   {
+    "id": "1da6ea8feb",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Ottoman Sultan Locked in a Room for 39 Years",
+    "idea": {
+      "title": "The Ottoman Sultan Locked in a Room for 39 Years",
+      "hook": "When guards dragged Prince Suleiman out of his cell in 1687, he fell to his knees begging to be executed—unaware they were actually taking him to be crowned Emperor.",
+      "beats": [
+        "Explain the brutal Ottoman system of 'Kafes' (The Cage) where royal brothers were imprisoned for life to prevent civil wars.",
+        "Show Suleiman's 39 years of total isolation, living every day in terror of executioners entering his room.",
+        "Describe the moment guards broke down his door in 1687 not to kill him, but to hand him the imperial crown.",
+        "Reveal the tragic outcome: decades of psychological torture left him unable to mentally handle ruling a massive empire."
+      ],
+      "keywords": [
+        "ottoman sultan portrait painting",
+        "istanbul topkapi palace vintage map",
+        "ottoman prince engraving historical",
+        "17th century turkish emperor artwork",
+        "ancient palace prison room illustration"
+      ],
+      "tags": [
+        "#history",
+        "#ottomanempire",
+        "#historyfacts",
+        "#ancienthistory",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1687, a terrified prisoner was crowned Ottoman Emperor.",
+        "search": "ottoman sultan portrait painting",
+        "caption": "In 1687, a prisoner became Ottoman Emperor."
+      },
+      {
+        "narration": "For 39 years, Prince Suleiman lived inside a gilded palace prison known as the Kafes.",
+        "search": "ancient palace prison room illustration",
+        "caption": "Prince Suleiman spent 39 years locked in the Kafes."
+      },
+      {
+        "narration": "To prevent bloody civil wars, the Ottoman dynasty locked all royal brothers in total isolation within Topkapi Palace.",
+        "search": "istanbul topkapi palace vintage map",
+        "caption": "Royal brothers were imprisoned to prevent civil wars."
+      },
+      {
+        "narration": "Suleiman spent four decades in constant darkness, never knowing if the next visitor brought dinner or an executioner.",
+        "search": "ottoman prince engraving historical",
+        "caption": "Four decades of terror and complete isolation."
+      },
+      {
+        "narration": "In November 1687, after an army mutiny deposed Sultan Mehmed IV, palace guards stormed Suleiman's sealed chamber.",
+        "search": "17th century turkish emperor artwork",
+        "caption": "In 1687, guards violently broke into his chamber."
+      },
+      {
+        "narration": "Expecting a silk bowstring to end his life, the prince fell to the floor, pleading for a quick execution.",
+        "search": "ottoman royal palace interior painting",
+        "caption": "Suleiman begged for death, expecting executioners."
+      },
+      {
+        "narration": "Instead, soldiers dragged the trembling 45-year-old man directly to the Imperial Throne Room.",
+        "search": "ottoman imperial throne painting historical",
+        "caption": "Guards dragged him directly to the imperial throne."
+      },
+      {
+        "narration": "They placed the Sword of Osman in his hands, declaring him Sultan Suleiman II of the Ottoman Empire.",
+        "search": "ottoman coronation sword painting historical",
+        "caption": "Crowned Sultan Suleiman II after 39 years trapped."
+      },
+      {
+        "narration": "Thirty-nine years of terror in the Kafes left Suleiman II deeply traumatized and mentally incapable of governing a massive state.",
+        "search": "sultan suleiman II portrait painting",
+        "caption": "Decades in isolation left Suleiman II unable to govern."
+      },
+      {
+        "narration": "He surrendered administrative control to his Grand Vizier and spent his brief four-year reign in failing health until his death in 1691.",
+        "search": "17th century turkish emperor artwork wide shot",
+        "caption": "He died in 1691 after only four years on the throne."
+      },
+      {
+        "narration": "The royal prison system designed to prevent civil war ultimately produced deeply broken rulers at the peak of Ottoman power.",
+        "search": "ancient palace prison room illustration prison",
+        "caption": "The prison system meant to save the empire destroyed its rulers."
+      },
+      {
+        "narration": "He begged for execution, unaware he was becoming emperor.",
+        "search": "ottoman prince engraving historical",
+        "caption": "Imprisoned for 39 years before taking the imperial throne."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T00:59:58.278707+00:00",
+    "updated_at": "2026-11-21T01:01:58.184834+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-21T01:00:18.563282+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "415 chars (cat 255 de vua 55s)",
+        "at": "2026-11-21T01:00:31.986342+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.6s en-US-GuyNeural 7 cau",
+        "at": "2026-11-21T01:00:36.630033+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T01:00:37.609867+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-21T01:01:04.427439+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-21T01:01:04.449937+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.7s 18441469 bytes",
+        "at": "2026-11-21T01:01:58.040215+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T01:01:58.184817+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/20697313/pexels-photo-20697313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36223950/pexels-photo-36223950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17864637/pexels-photo-17864637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11961338/pexels-photo-11961338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37078286/pexels-photo-37078286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26755499/pexels-photo-26755499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32576250/pexels-photo-32576250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11007738/pexels-photo-11007738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32391304/pexels-photo-32391304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38296073/pexels-photo-38296073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35431273/pexels-photo-35431273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30926712/pexels-photo-30926712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4bc65efdc6",
     "kind": "short",
     "channel": "Channel2",
