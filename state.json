@@ -1,5 +1,601 @@
 [
   {
+    "id": "97dd567139",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Day the Roman Empire Was Auctioned to the Highest Bidder",
+    "idea": {
+      "title": "The Day the Roman Empire Was Auctioned to the Highest Bidder",
+      "hook": "Emperor Pertinax tried to save Rome from bankruptcy, but his own guards murdered him and put the entire empire up for auction.",
+      "beats": [
+        "The assassination of tyrant Emperor Commodus leaves the Roman Empire economically shattered, morally corrupt, and on the brink of financial collapse.",
+        "Pertinax, a respected son of a freed slave who rose through military ranks, is crowned emperor to restore order and stability.",
+        "Pertinax immediately enforces aggressive fiscal discipline, selling off Commodus's luxury goods and cracking down on imperial corruption.",
+        "The elite Praetorian Guard, accustomed to lavish cash bribes called donatives, grows furious at Pertinax's refusal to pay unearned bonuses.",
+        "Just 87 days into his reign, 300 armed Praetorian Guards storm the imperial palace, enraged by the emperor's strict reforms.",
+        "Pertinax heroically stands his ground to reason with the rebel soldiers, but they brutally murder him inside the palace walls.",
+        "Recognizing their absolute power and driven by shameless greed, the Praetorian Guards lock their camp gates and announce the empire is for sale.",
+        "A surreal, high-stakes bidding war erupts outside the fortress walls between wealthy senator Didius Julianus and the late emperor's father-in-law.",
+        "Didius Julianus wins the empire with an outrageous bid of 25,000 sesterces per soldier, promising a modern equivalent of millions to the guards.",
+        "Julianus marches into the Senate under military escort, but the Roman public views his bought crown with absolute disgust and anger.",
+        "News of the shameful auction spreads across the empire, outraging powerful frontier generals who refuse to bow to a bought emperor.",
+        "Three rival generals—Septimius Severus, Pescennius Niger, and Clodius Albinus—declare themselves emperor and mobilize their legions for war.",
+        "Septimius Severus marches rapidly on Rome; the Praetorian Guard abandons Julianus, who is executed in his palace after a pathetic 66-day reign.",
+        "The scandalous auction ignited the devastating Year of the Five Emperors, permanently shattering the political integrity of the Roman Empire."
+      ],
+      "keywords": [
+        "Roman Empire",
+        "Pertinax",
+        "Didius Julianus",
+        "Praetorian Guard",
+        "Ancient Rome",
+        "Year of the Five Emperors",
+        "Roman History Documentary",
+        "Septimius Severus",
+        "Ancient History",
+        "Corrupt Emperors"
+      ],
+      "tags": [
+        "#RomanEmpire",
+        "#AncientHistory",
+        "#RomanDocumentary",
+        "#PraetorianGuard",
+        "#Pertinax",
+        "#DidiusJulianus",
+        "#HistoryDocumentary",
+        "#AncientRome",
+        "#YearOfTheFiveEmperors",
+        "#RomanCorruption"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE EMPIRE FOR SALE"
+    },
+    "scenes": [
+      {
+        "narration": "In 193 AD, Rome was sold to the highest bidder.",
+        "search": "ancient rome ruin oil painting",
+        "caption": "193 AD: The Empire Put Up for Sale"
+      },
+      {
+        "narration": "The assassination of Emperor Commodus in December 192 AD left the Roman state bankrupt and politically fractured.",
+        "search": "emperor commodus bust statue",
+        "caption": "Commodus Assassinated in 192 AD"
+      },
+      {
+        "narration": "Empowered by the Senate, Emperor Pertinax imposed strict austerity, selling imperial treasures and cutting unearned military bonuses.",
+        "search": "emperor pertinax bust statue",
+        "caption": "Pertinax Imposes Imperial Austerity"
+      },
+      {
+        "narration": "Enraged by the loss of financial perks, three hundred Praetorian Guards breached the palace and assassinated Pertinax after eighty-seven days.",
+        "search": "praetorian guard ancient roman relief carving",
+        "caption": "Pertinax Assassinated Inside Palace"
+      },
+      {
+        "narration": "Realizing their unchecked control, the guards secured their fortified camp and publicly offered the entire empire to the highest bidder.",
+        "search": "castra praetoria ancient rome engraving",
+        "caption": "Guards Put Rome Up for Auction"
+      },
+      {
+        "narration": "Wealthy senator Didius Julianus secured victory with a bid of twenty-five thousand sesterces per soldier, infuriating the Roman public.",
+        "search": "didius julianus coin portrait close up",
+        "caption": "Julianus Bribes His Way to Emperor"
+      },
+      {
+        "narration": "Refusing to acknowledge a bought emperor, General Septimius Severus marched his legions into Rome, leading to the execution of Julianus.",
+        "search": "septimius severus bust statue",
+        "caption": "Septimius Severus Seizes Power"
+      },
+      {
+        "narration": "The scandalous auction ignited the bloody Year of the Five Emperors, permanently destroying the political foundation of the Roman state.",
+        "search": "ancient rome senate house oil painting",
+        "caption": "193 AD: The Year of the Five Emperors"
+      },
+      {
+        "narration": "Can an entire empire survive once its crown is sold?",
+        "search": "roman empire map engraving 193 AD",
+        "caption": "Can an empire survive being sold to the highest bidder?"
+      },
+      {
+        "narration": "Following the execution of Didius Julianus in June 193 AD, Rome faced three powerful armies marching simultaneously to claim the throne.",
+        "search": "septimius severus marble bust statue",
+        "caption": "June 193 AD: Three rival generals march on Rome."
+      },
+      {
+        "narration": "General Pescennius Niger controlled the wealthy eastern provinces, while Clodius Albinus commanded the ferocious legions of Britain.",
+        "search": "pescennius niger ancient roman coin portrait",
+        "caption": "Pescennius Niger claims the eastern provinces."
+      },
+      {
+        "narration": "To prevent a devastating two-front war, Septimius Severus deceptively named Albinus his Caesar before marching east against Niger.",
+        "search": "clodius albinus roman bust statue",
+        "caption": "Severus forms a temporary alliance to split his enemies."
+      },
+      {
+        "narration": "After crushing Niger at the Battle of Issus in 194 AD, Severus turned his victorious legions west to confront Albinus in Gaul.",
+        "search": "battle of lugdunum roman military oil painting",
+        "caption": "197 AD: The largest battle between Roman legions."
+      },
+      {
+        "narration": "The horrific clash at Lugdunum in 197 AD involved over 100,000 soldiers, leaving Albinus dead and Severus in absolute control.",
+        "search": "roman legionaries combat relief carving",
+        "caption": "Over 100,000 Romans fight for supreme power."
+      },
+      {
+        "narration": "Severus immediately executed dozens of corrupt senators and purged the Praetorian Guard, replacing them with loyal provincial soldiers.",
+        "search": "praetorian guard Roman relief marble sculpture",
+        "caption": "Severus purges the Senate and reforms the guard."
+      },
+      {
+        "narration": "Though Severus restored stability, his deathbed command to enrich the military and despise all others permanently bound Rome to armed tyranny.",
+        "search": "septimius severus coin golden denarius",
+        "caption": "Severus's final order entrenched military tyranny."
+      },
+      {
+        "narration": "Can an empire survive being sold at an auction? In 193 AD, the auction of Rome triggered four years of devastating imperial civil war.",
+        "search": "ancient roman empire map engraving",
+        "caption": "Can an empire survive being sold at an auction?"
+      },
+      {
+        "narration": "While Septimius Severus seized the capital in June 193 AD, governor Pescennius Niger claimed the eastern provinces with nine loyal legions.",
+        "search": "pescennius niger coin",
+        "caption": "Eastern legions declare Pescennius Niger rival emperor in 193 AD"
+      },
+      {
+        "narration": "To prevent a two-front conflict, Severus offered rival commander Clodius Albinus in Britain the title of Caesar to secure his western flank.",
+        "search": "clodius albinus marble bust statue",
+        "caption": "Severus forms temporary alliance with Clodius Albinus in Britain"
+      },
+      {
+        "narration": "In 194 AD, Severus marched sixty thousand soldiers into Syria, crushing Niger's forces at the decisive Battle of Issus.",
+        "search": "ancient roman legionaries battle relief sculpture",
+        "caption": "Imperial legions clash at the Battle of Issus in 194 AD"
+      },
+      {
+        "narration": "After executing Niger, Severus subjected Byzantium to a punishing three-year siege, tearing down its fortified walls as punishment.",
+        "search": "byzantium ancient walls historical illustration",
+        "caption": "Byzantium withstands a brutal three-year siege by Severan forces"
+      },
+      {
+        "narration": "With the East subjugated, Severus turned on Albinus in 196 AD, prompting the western commander to mobilize his legions and invade Gaul.",
+        "search": "roman gaul province old map engraving",
+        "caption": "Clodius Albinus invades Gaul after Severus breaks their alliance"
+      },
+      {
+        "narration": "At the Battle of Lugdunum in 197 AD, three hundred thousand Roman soldiers turned their weapons on each other in the largest battle in Roman history.",
+        "search": "battle of lugdunum 197 ad oil painting",
+        "caption": "300,000 Roman troops fight at Lugdunum in 197 AD"
+      },
+      {
+        "narration": "Severus claimed absolute rule over a mountain of Roman dead, cementing a military dictatorship born directly from the Praetorian Guard's shameless auction.",
+        "search": "septimius severus triumph marble relief",
+        "caption": "Civil war leaves thousands dead and imperial authority permanently shattered"
+      },
+      {
+        "narration": "Upon entering Rome in 193 AD, Septimius Severus disarmed the traitorous Praetorian Guard and replaced them with fifty thousand loyal Danubian legionaries.",
+        "search": "septimius severus bust statue ancient roman sculpture",
+        "caption": "Severus purges the Praetorian Guard in 193 AD"
+      },
+      {
+        "narration": "The Roman Senate was stripped of legislative authority as imperial power officially shifted from civilian law to raw military coercion.",
+        "search": "roman senate meeting ancient oil painting historical",
+        "caption": "The Senate loses all political authority to the army"
+      },
+      {
+        "narration": "To fund a mandatory fifty percent wage increase for his legionaries, Severus debased the silver denarius to just fifty-four percent purity.",
+        "search": "septimius severus denarius coin ancient roman silver",
+        "caption": "Imperial currency debased to fund military pay raises"
+      },
+      {
+        "narration": "In 197 AD, Severus marched his legions into Mesopotamia, sacking the Parthian capital of Ctesiphon to seize royal treasuries.",
+        "search": "arch of septimius severus relief carving ancient roman",
+        "caption": "Severus sacks Ctesiphon in 197 AD for spoils"
+      },
+      {
+        "narration": "Dozens of prominent senators were executed without trial so the crown could confiscate their vast wealth and land holdings.",
+        "search": "execution of roman senators historical illustration engraving",
+        "caption": "Wealthy senators executed for imperial asset seizures"
+      },
+      {
+        "narration": "The Roman Forum was transformed with massive triumphal monuments in 203 AD to glorify a regime built entirely on mercenary loyalty.",
+        "search": "arch of septimius severus Rome engraving antique map",
+        "caption": "Triumphal arch erected in Rome in 203 AD"
+      },
+      {
+        "narration": "Before dying at Eboracum in 211 AD, Severus instructed his sons to enrich the soldiers and hold all other men in total contempt.",
+        "search": "death of septimius severus oil painting historical",
+        "caption": "Severus dies in 211 AD advising military rule"
+      },
+      {
+        "narration": "Caracalla murdered his brother Geta in 211 AD and immediately raised soldier pay to maintain their absolute protection against retribution.",
+        "search": "caracalla bust statue ancient roman sculpture",
+        "caption": "Caracalla raises legionary pay after murdering Geta"
+      },
+      {
+        "narration": "In 212 AD, Caracalla doubled military pay and extended citizenship to all free inhabitants of the empire to expand the tax base. This aggressive fiscal desperation echoed the exact financial strain that had destroyed Pertinax nineteen years earlier.",
+        "search": "roman coin caracalla silver antoninianus close up museum photo",
+        "caption": "Caracalla expanded citizenship in 212 AD to fund military wages."
+      },
+      {
+        "narration": "To meet the crippling payroll demanded by the legions, Caracalla severely debased Roman silver currency, reducing its precious metal content by twenty percent. Inflation soared as merchants lost faith in the debased currency circulating across the provinces.",
+        "search": "ancient roman denarius coin pile macro museum photography",
+        "caption": "Currency debasement triggered rapid inflation across Roman provinces."
+      },
+      {
+        "narration": "While campaigning against the Parthians in April 217 AD, Caracalla was assassinated near Carrhae on the orders of his Praetorian Prefect, Macrinus. Macrinus declared himself emperor, becoming the first man without senatorial rank to seize imperial power.",
+        "search": "caracalla Roman emperor marble bust sculpture statue",
+        "caption": "Caracalla was assassinated by his Praetorian Prefect in 217 AD."
+      },
+      {
+        "narration": "Facing an insolvent empire, Macrinus attempted to reduce military pay for new recruits to halt economic collapse. His strict fiscal policy alienated the troops, who immediately sought a replacement willing to restore lavish donatives.",
+        "search": "macrinus roman emperor ancient coin portrait engraving",
+        "caption": "Macrinus attempted pay cuts to avert total imperial bankruptcy."
+      },
+      {
+        "narration": "In May 218 AD, Julia Maesa leveraged her vast wealth to bribe the Syrian legions into proclaiming her fourteen-year-old grandson, Elagabalus, as emperor. The Syrian army readily embraced the teenager in exchange for massive upfront payouts.",
+        "search": "elagabalus roman emperor marble bust statue portrait",
+        "caption": "Julia Maesa bribed legions to crown fourteen-year-old Elagabalus."
+      },
+      {
+        "narration": "Macrinus engaged the Syrian legions at the Battle of Antioch in June 218 AD, but his forces deserted him when offered higher pay by the rebels. Macrinus was captured during his flight and executed shortly after in Cappadocia.",
+        "search": "antioch ancient city map historical engraving illustration",
+        "caption": "Macrinus was defeated at Antioch and executed in 218 AD."
+      },
+      {
+        "narration": "Elagabalus entered Rome in 219 AD, forcing the Senate to accept eastern sun-god worship and abandoning traditional Roman political structures. His eccentric rule deeply offended Roman social norms, further fracturing imperial stability.",
+        "search": "temple of sun god roman ruins historical oil painting",
+        "caption": "Elagabalus alienated Rome through radical religious reforms."
+      },
+      {
+        "narration": "Realizing Elagabalus had lost all public and military support, Julia Maesa engineered a transfer of favor toward his young cousin, Severus Alexander. In March 222 AD, the Praetorian Guard murdered Elagabalus inside their camp and dragged his body through the streets.",
+        "search": "praetorian guard camp ancient rome engraving illustration",
+        "caption": "The Praetorian Guard assassinated Elagabalus in March 222 AD."
+      },
+      {
+        "narration": "In March 222 AD, thirteen-year-old Severus Alexander assumed imperial power under the strict regency of his mother, Julia Mamaea.",
+        "search": "severus alexander marble bust statue roman emperor",
+        "caption": "Severus Alexander takes the throne under his mother's strict control."
+      },
+      {
+        "narration": "Imperial stability faced a grave threat in 230 AD when King Ardashir I established the Sassanian Empire and invaded Roman Mesopotamia.",
+        "search": "ardashir i sassanian empire rock relief sculpture",
+        "caption": "Ardashir I establishes the Persian Sassanian Empire in 230 AD."
+      },
+      {
+        "narration": "Severus Alexander led a counter-offensive in 231 AD, but tactical errors and disease shattered several Roman legions near Ctesiphon.",
+        "search": "ancient roman military camp mesopotamia map engraving",
+        "caption": "Roman legions suffer severe losses during the 231 AD Persian campaign."
+      },
+      {
+        "narration": "Exploiting Rome's eastern distraction, aggressive Alamanni chieftains breached the Rhine frontier in 234 AD, raiding deep into Gaul.",
+        "search": "germanic warriors attacking roman legionaries oil painting",
+        "caption": "Germanic tribes cross the Rhine frontier to invade Gaul in 234 AD."
+      },
+      {
+        "narration": "Fearing direct battle, Severus Alexander attempted to buy off the invaders with massive payments, infuriating his battle-hardened troops.",
+        "search": "roman gold coins denarii treasure hoard illustration",
+        "caption": "Severus Alexander attempts to buy peace from Germanic chieftains with gold."
+      },
+      {
+        "narration": "In March 235 AD, mutinous Rhine legions rebelled and acclaimed Maximinus Thrax, a prominent Thracian commander, as rival emperor.",
+        "search": "maximinus thrax marble bust statue portrait",
+        "caption": "Rhine legions proclaim Maximinus Thrax emperor in March 235 AD."
+      },
+      {
+        "narration": "Rebel troops stormed the imperial encampment near Mainz, brutally executing Severus Alexander and his mother inside their tent.",
+        "search": "roman legionaries storming imperial tent history illustration",
+        "caption": "Severus Alexander and Julia Mamaea are assassinated near Mainz in 235 AD."
+      },
+      {
+        "narration": "The collapse of the Severan dynasty in 235 AD triggered the Crisis of the Third Century, plunging Rome into fifty years of relentless civil war.",
+        "search": "destruction of ancient rome city collapse history oil painting",
+        "caption": "The murder of 235 AD initiates the catastrophic Crisis of the Third Century."
+      },
+      {
+        "narration": "Following the assassination of Emperor Commodus in December 192 AD, Rome faced severe financial collapse and political corruption. The Senate appointed Publius Helvius Pertinax, a veteran general and son of a freed slave, to restore economic order.",
+        "search": "emperor pertinax marble bust statue museum",
+        "caption": "Pertinax assumed power during Rome's severe financial crisis in 193 AD."
+      },
+      {
+        "narration": "Pertinax immediately liquidated imperial luxuries and audited government spending, refusing to pay lavish bonuses to the imperial bodyguard. This uncompromising fiscal discipline infuriated the elite Praetorian Guard, who was accustomed to massive monetary bribes.",
+        "search": "praetorian guard roman soldier relief carving engraving",
+        "caption": "Pertinax restricted military bribes to rescue the imperial treasury."
+      },
+      {
+        "narration": "On March 28, 193 AD, just eighty-seven days into his reign, three hundred armed Praetorian soldiers stormed the imperial palace. Pertinax attempted to negotiate directly with the rebels, but the guardsmen struck him down and severed his head.",
+        "search": "roman imperial palace ruins palatine hill oil painting",
+        "caption": "Praetorian guardsmen assassinated Emperor Pertinax inside his palace."
+      },
+      {
+        "narration": "Driven by unrestrained greed, the Praetorian Guard retreated behind the fortified walls of their camp and announced that the throne of Rome would be auctioned to the highest bidder. Wealthy contenders rushed to the fortress perimeter to secure the ultimate prize of imperial power.",
+        "search": "castra praetoria ancient roman fortress wall map engraving",
+        "caption": "The Praetorian Guard announced the Roman Empire was for sale."
+      },
+      {
+        "narration": "A surreal bidding war erupted between Titus Flavius Sulpicianus and the fabulously wealthy senator Didius Julianus. Standing outside the fortress walls, each candidate shouted out increasingly astronomical financial offers to buy the loyalty of the imperial guards.",
+        "search": "didius julianus roman coin bust portrait",
+        "caption": "Senator Didius Julianus competed in an unprecedented imperial auction."
+      },
+      {
+        "narration": "Didius Julianus secured the victory with a staggering bid of twenty-five thousand sesterces per soldier, equating to years of military wages. Though escorted into the Senate by armed guards, Julianus faced open outrage and stone-throwing crowds in the streets of Rome.",
+        "search": "ancient roman senate meeting house forum oil painting",
+        "caption": "Julianus purchased the imperial crown for twenty-five thousand sesterces per guard."
+      },
+      {
+        "narration": "News of the disgraceful auction sparked instant outrage across the Roman frontier provinces. Three powerful generals—Septimius Severus in Pannonia, Pescennius Niger in Syria, and Clodius Albinus in Britannia—refused to recognize the bought emperor and mobilized their legions.",
+        "search": "septimius severus roman emperor marble bust statue",
+        "caption": "Three frontier generals mobilized their legions against the bought emperor."
+      },
+      {
+        "narration": "Septimius Severus marched rapidly toward Italy, prompting the terrified Praetorian Guard to abandon Julianus. After a desperate sixty-six-day reign, Didius Julianus was executed in his palace on June 1, 193 AD, igniting the chaotic Year of the Five Emperors.",
+        "search": "septimius severus legion military march engraving",
+        "caption": "Julianus was executed after sixty-six days as civil war erupted."
+      },
+      {
+        "narration": "In March 193 AD, Rome was sold at auction.",
+        "search": "roman empire map engraving ancient europe",
+        "caption": "The entire Roman Empire was auctioned to a wealthy senator."
+      },
+      {
+        "narration": "Following the assassination of Emperor Commodus in 192 AD, the senate crowned the disciplined general Pertinax to restore financial order.",
+        "search": "pertinax bust statue roman emperor",
+        "caption": "Pertinax took power to rescue Rome from severe financial collapse."
+      },
+      {
+        "narration": "Pertinax aggressively cracked down on imperial corruption, refusing to pay unearned monetary bonuses to the elite Praetorian Guard.",
+        "search": "praetorian guard marble relief carving ancient rome",
+        "caption": "The elite Praetorian Guard grew furious over canceled financial bonuses."
+      },
+      {
+        "narration": "On March 28, 193 AD, three hundred rebellious guardsmen stormed the palace and assassinated Emperor Pertinax after eighty-seven days.",
+        "search": "roman palace assassination historical oil painting",
+        "caption": "Pertinax was murdered inside the palace after 87 days."
+      },
+      {
+        "narration": "Locking their fortress gates, the Praetorian Guard put the throne up for auction, which senator Didius Julianus won for twenty-five thousand sesterces per soldier.",
+        "search": "didius julianus coin portrait ancient rome",
+        "caption": "Didius Julianus bought the imperial throne for a massive fortune."
+      },
+      {
+        "narration": "Outraged by the shameful transaction, Roman citizens protested and three powerful frontier generals mobilized their legions to seize power.",
+        "search": "septimius severus bust statue marble portrait",
+        "caption": "Three powerful frontier generals refused to honor the imperial auction."
+      },
+      {
+        "narration": "General Septimius Severus marched on Rome, causing the guards to abandon Julianus, who was executed after sixty-six days.",
+        "search": "roman army legion march historical engraving",
+        "caption": "Julianus was executed 66 days later as armies closed in."
+      },
+      {
+        "narration": "The scandalous auction ignited the Year of the Five Emperors, permanently shattering the political legitimacy of the Roman throne.",
+        "search": "roman senate ruins vintage engraving",
+        "caption": "The disgraceful auction permanently shattered Rome's political stability and legitimacy."
+      },
+      {
+        "narration": "In 193 AD, Rome was sold at public auction. Cash bought absolute power over fifty million citizens.",
+        "search": "roman praetorian guard marble relief sculpture",
+        "caption": "In 193 AD, Rome was sold to the highest bidder."
+      },
+      {
+        "narration": "Following the murder of tyrant Commodus in late 192 AD, Emperor Pertinax inherited a shattered imperial treasury.",
+        "search": "emperor pertinax bust statue roman marble",
+        "caption": "Pertinax tried to save Rome from total economic bankruptcy."
+      },
+      {
+        "narration": "Pertinax enforced aggressive fiscal discipline, selling imperial luxuries and refusing to pay unearned monetary bribes to soldiers.",
+        "search": "ancient roman silver denarius coin pertinax",
+        "caption": "His strict fiscal reforms infuriated the corrupt Praetorian Guard."
+      },
+      {
+        "narration": "Just eighty-seven days into his reign, three hundred armed guards stormed the imperial palace and murdered Pertinax.",
+        "search": "ancient roman palace ruins palatine hill oil painting",
+        "caption": "Mutinous imperial guards murdered Emperor Pertinax after eighty-seven days."
+      },
+      {
+        "narration": "Locking their fortress gates, the Praetorian Guard announced that the Roman throne belonged to whoever offered the highest bid.",
+        "search": "didius julianus roman coin portrait gold aureus",
+        "caption": "The Praetorian Guard auctioned the empire to the highest bidder."
+      },
+      {
+        "narration": "Senator Didius Julianus won with twenty-five thousand sesterces per soldier, but enraged citizens refused to accept a bought ruler.",
+        "search": "roman senate house curia julia engraving",
+        "caption": "Julianus bought the imperial throne, triggering widespread public anger."
+      },
+      {
+        "narration": "General Septimius Severus marched his legions on Rome, causing the guards to execute Julianus after sixty-six pathetic days.",
+        "search": "emperor septimius severus bust statue marble",
+        "caption": "Septimius Severus marched on Rome and executed Didius Julianus."
+      },
+      {
+        "narration": "The infamous auction of 193 AD ignited the Year of the Five Emperors, permanently shattering Rome's political legitimacy.",
+        "search": "ancient roman empire map engraving 2nd century",
+        "caption": "The shameful auction permanently destroyed Rome's political integrity."
+      },
+      {
+        "narration": "In 193 AD, corrupt bodyguards put the entire Roman Empire up for auction.",
+        "search": "praetorian guard ancient roman relief carving close up",
+        "caption": "The day the Roman Empire was sold to the highest bidder."
+      },
+      {
+        "narration": "After Emperor Commodus bankrupted the state in late 192 AD, Emperor Pertinax attempted to enforce strict economic discipline across Rome.",
+        "search": "emperor pertinax bust statue roman marble inherits",
+        "caption": "Pertinax inherits a bankrupt Roman Empire in early 193 AD."
+      },
+      {
+        "narration": "Furious at losing unearned financial bonuses, three hundred Praetorian Guards stormed the imperial palace and murdered Pertinax after just eighty-seven days.",
+        "search": "praetorian guards attacking emperor historical engraving",
+        "caption": "Praetorian Guards murder Emperor Pertinax after eighty-seven days."
+      },
+      {
+        "narration": "The guards locked their fortress gates and auctioned the imperial title to senator Didius Julianus for twenty-five thousand sesterces per soldier.",
+        "search": "didius julianus coin portrait ancient roman gold aureus",
+        "caption": "Didius Julianus buys the throne for 25,000 sesterces per soldier."
+      },
+      {
+        "narration": "This shameless purchase provoked immediate outrage, prompting frontier general Septimius Severus to mobilize his legions and march rapidly toward Rome.",
+        "search": "septimius severus marble bust statue roman emperor",
+        "caption": "General Septimius Severus marches his legions to overthrow Julianus."
+      },
+      {
+        "narration": "Deserted by his terrified mercenary guards, Julianus was executed in his palace after a pathetic sixty-six-day reign.",
+        "search": "ancient rome imperial palace ruin marble columns",
+        "caption": "Didius Julianus is executed after a pathetic 66-day reign."
+      },
+      {
+        "narration": "The infamous auction ignited the Year of the Five Emperors, plunging the Mediterranean world into brutal civil wars across three continents.",
+        "search": "ancient roman legionaries battle military relief carving",
+        "caption": "The shameful auction sparks the bloody Year of the Five Emperors."
+      },
+      {
+        "narration": "Although Septimius Severus ultimately restored central control, the public auction of 193 AD permanently destroyed the sacred authority of imperial Rome.",
+        "search": "curia julia roman forum ancient ruins photograph",
+        "caption": "The imperial auction permanently shattered Rome's political legitimacy."
+      },
+      {
+        "narration": "In 193 AD, Rome was sold at public auction.",
+        "search": "roman empire ancient map engraving",
+        "caption": "In 193 AD, Rome was sold to the highest bidder."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T20:20:05.014863+00:00",
+    "updated_at": "2026-11-21T20:34:46.431426+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-21T20:23:59.439236+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "2828 chars",
+        "at": "2026-11-21T20:24:14.916200+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "175.1s en-US-GuyNeural 30 cau",
+        "at": "2026-11-21T20:24:34.549671+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T20:24:39.176086+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-21T20:29:56.964436+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-21T20:29:56.990989+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 175.1s 135849358 bytes",
+        "at": "2026-11-21T20:34:46.263823+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-21T20:34:46.317023+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T20:34:46.431412+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7469866/pexels-photo-7469866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41131147/pexels-photo-41131147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38526664/pexels-photo-38526664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32866100/pexels-photo-32866100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240459/pexels-photo-36240459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9648243/pexels-photo-9648243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39351884/pexels-photo-39351884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37872308/pexels-photo-37872308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809281/pexels-photo-19809281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36351444/pexels-photo-36351444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5572583/pexels-photo-5572583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35316798/pexels-photo-35316798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11097819/pexels-photo-11097819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5637344/pexels-photo-5637344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33610493/pexels-photo-33610493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35442480/pexels-photo-35442480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7584354/pexels-photo-7584354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11483444/pexels-photo-11483444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33260578/pexels-photo-33260578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37994329/pexels-photo-37994329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15452445/pexels-photo-15452445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1400193/pexels-photo-1400193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13043243/pexels-photo-13043243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20555223/pexels-photo-20555223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709053/pexels-photo-35709053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33595651/pexels-photo-33595651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36835348/pexels-photo-36835348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36737024/pexels-photo-36737024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27333041/pexels-photo-27333041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38253120/pexels-photo-38253120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10819062/pexels-photo-10819062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7738887/pexels-photo-7738887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39366826/pexels-photo-39366826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10819062/pexels-photo-10819062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1235972/pexels-photo-1235972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32573366/pexels-photo-32573366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6422197/pexels-photo-6422197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30116336/pexels-photo-30116336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14064548/pexels-photo-14064548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20838611/pexels-photo-20838611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33807635/pexels-photo-33807635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39808260/pexels-photo-39808260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24035737/pexels-photo-24035737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14042374/pexels-photo-14042374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/460736/pexels-photo-460736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2753662/pexels-photo-2753662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36132744/pexels-photo-36132744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11840357/pexels-photo-11840357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29431016/pexels-photo-29431016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36495556/pexels-photo-36495556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40970664/pexels-photo-40970664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829272/pexels-photo-9829272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28002443/pexels-photo-28002443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9829270/pexels-photo-9829270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240400/pexels-photo-36240400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28436987/pexels-photo-28436987.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5209697/pexels-photo-5209697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709016/pexels-photo-35709016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37096154/pexels-photo-37096154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15190971/pexels-photo-15190971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268724/pexels-photo-9268724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32408788/pexels-photo-32408788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37520524/pexels-photo-37520524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11856445/pexels-photo-11856445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7738886/pexels-photo-7738886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086512/pexels-photo-38086512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8442357/pexels-photo-8442357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24346115/pexels-photo-24346115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162205/pexels-photo-6162205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37853090/pexels-photo-37853090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37853091/pexels-photo-37853091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13250916/pexels-photo-13250916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27905048/pexels-photo-27905048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6328886/pexels-photo-6328886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15826835/pexels-photo-15826835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19809324/pexels-photo-19809324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9930707/pexels-photo-9930707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33403355/pexels-photo-33403355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14809505/pexels-photo-14809505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "4331cbadf3",
     "kind": "short",
     "channel": "Channel3",
