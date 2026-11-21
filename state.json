@@ -1,5 +1,161 @@
 [
   {
+    "id": "c4254638ce",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Declared War on the Sea",
+    "idea": {
+      "title": "The Roman Emperor Who Declared War on the Sea",
+      "hook": "Emperor Caligula ordered his Roman legion to attack the ocean, but the ocean fought back with seashells.",
+      "beats": [
+        "Caligula marched his elite troops to the shores of the English Channel with full battle gear.",
+        "Instead of fighting an enemy army, he commanded them to strike the waves with their swords and spears.",
+        "He then ordered his soldiers to gather seashells in their helmets as 'spoils of war' from the conquered ocean.",
+        "Historians believe it was a brilliant psychological stunt to humiliate his disobedient troops rather than true madness."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman painting",
+        "sea waves engraving",
+        "roman soldier armor",
+        "classical sculpture face"
+      ],
+      "tags": [
+        "#history",
+        "#romanempire",
+        "#caligula",
+        "#historicalmysteries",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 40 AD, Rome declared war on the ocean.",
+        "search": "caligula roman emperor bust sculpture",
+        "caption": "In 40 AD, Rome declared war on the ocean."
+      },
+      {
+        "narration": "Emperor Caligula marched thousands of elite legionaries to the shore of northern Gaul.",
+        "search": "ancient roman legions marching oil painting",
+        "caption": "Caligula marched thousands of legionaries to Gaul's shore."
+      },
+      {
+        "narration": "His troops expected a massive naval invasion across the English Channel into Britain.",
+        "search": "ancient roman galley ship engraving",
+        "caption": "Troops prepared for a naval invasion of Britain."
+      },
+      {
+        "narration": "Instead, Caligula ordered his men to line up siege artillery along the beach.",
+        "search": "ancient roman catapult ballista illustration",
+        "caption": "Siege engines were lined up on the sand."
+      },
+      {
+        "narration": "He commanded the soldiers to draw their swords and attack the incoming surf.",
+        "search": "stormy ocean sea waves engraving",
+        "caption": "Soldiers were ordered to strike the ocean waves."
+      },
+      {
+        "narration": "Legionaries slashed water and thrust spears into waves under their emperor's watch.",
+        "search": "ancient roman soldier armor mosaic",
+        "caption": "Legionaries fought the waves with spears and swords."
+      },
+      {
+        "narration": "Afterward, Caligula commanded them to gather seashells in their helmets as spoils of the conquered sea.",
+        "search": "ancient roman seashell artifact mosaic",
+        "caption": "Seashells were collected as spoils of war."
+      },
+      {
+        "narration": "For centuries this was called insanity, but historians now believe it was a calculated punishment.",
+        "search": "caligula classical sculpture face close up",
+        "caption": "Historians believe the act was a calculated punishment."
+      },
+      {
+        "narration": "In 40 AD, Emperor Caligula marched his elite Roman legions to the shores of the English Channel for a planned invasion of Britain that never actually launched.",
+        "search": "roman emperor bust sculpture museum light",
+        "caption": "Caligula marched his legions to the English Channel in 40 AD."
+      },
+      {
+        "narration": "Instead of fighting a foreign army, he commanded his armed soldiers to strike the rolling waves with their swords and spears in bizarre defiance.",
+        "search": "roman soldier armor ancient oil painting",
+        "caption": "He ordered his troops to attack the ocean waves."
+      },
+      {
+        "narration": "Rather than true madness, historians recognize this beach campaign as a brilliant psychological humiliation designed to punish his disobedient troops.",
+        "search": "ancient roman painting classical fresco",
+        "caption": "A calculated psychological stunt to punish disobedient troops."
+      },
+      {
+        "narration": "In 40 AD, Roman Emperor Caligula marched his elite troops to the shores of the English Channel.",
+        "search": "ancient roman painting of troops on a beach",
+        "caption": "Caligula's army faces the sea in 40 AD"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T11:32:11.787328+00:00",
+    "updated_at": "2026-11-21T11:47:05.600347+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-21T11:37:35.698742+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "320 chars (cat 469 de vua 55s)",
+        "at": "2026-11-21T11:45:06.738775+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "19.4s en-US-GuyNeural 3 cau",
+        "at": "2026-11-21T11:45:08.923643+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T11:45:09.513647+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-21T11:46:31.551572+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-21T11:46:31.572352+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 19.5s 13600672 bytes",
+        "at": "2026-11-21T11:47:05.434606+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T11:47:05.600319+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6166211/pexels-photo-6166211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125777/pexels-photo-38125777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34326703/pexels-photo-34326703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30117464/pexels-photo-30117464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26587553/pexels-photo-26587553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40537546/pexels-photo-40537546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37650503/pexels-photo-37650503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29087527/pexels-photo-29087527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057041/pexels-photo-29057041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6968302/pexels-photo-6968302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709008/pexels-photo-35709008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36754285/pexels-photo-36754285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "63ee9a526a",
     "kind": "short",
     "channel": "Channel3",
