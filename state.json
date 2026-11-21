@@ -1,5 +1,167 @@
 [
   {
+    "id": "85978b4ac1",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do cắm dây sạc vào điện thoại trước ổ điện âm thầm hại máy",
+    "idea": {
+      "title": "Lý do cắm dây sạc vào điện thoại trước ổ điện âm thầm hại máy",
+      "hook": "Hầu hết mọi người đều cắm cáp vào điện thoại rồi mới cắm củ sạc vào ổ điện, nhưng thói quen này đang âm thầm tạo ra xung điện làm hỏng pin của bạn.",
+      "beats": [
+        "Khi cắm củ sạc vào ổ điện, một luồng điện áp đột ngột (Surge Voltage) xuất hiện trong mili-giây.",
+        "Nếu cáp đã nối với điện thoại, xung điện cao áp này lao thẳng vào chip quản lý nguồn của máy.",
+        "Dần dần, các vi mạch bảo vệ thoái hóa, khiến điện thoại nhanh chai pin và sạc chập chờn.",
+        "Quy tắc chuẩn: Cắm củ sạc vào ổ điện trước để dòng điện ổn định, rồi mới cắm đầu cáp vào điện thoại."
+      ],
+      "keywords": [
+        "phone charging cable",
+        "wall socket electric spark",
+        "smartphone circuit board macro",
+        "battery indicator phone",
+        "plugging charger into wall"
+      ],
+      "tags": [
+        "#meodienthoai",
+        "#congnghe",
+        "#sacpin",
+        "#thoiquen",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Cắm cáp sạc vào điện thoại trước đang âm thầm làm hỏng pin.",
+        "search": "hoat hinh 3d cam day sac vao dien thoai",
+        "caption": "Cắm sạc sai cách đang làm hỏng pin điện thoại"
+      },
+      {
+        "narration": "Hầu hết mọi người đều cắm cáp vào điện thoại trước rồi mới cắm củ sạc vào ổ điện.",
+        "search": "3d animation nguoi nam tren giuong cam sac dien thoai",
+        "caption": "Thói quen sạc pin hàng ngày của đa số mọi người"
+      },
+      {
+        "narration": "Ngay khoảnh khắc củ sạc chạm vào ổ cắm, một luồng điện áp đột biến xuất hiện trong vài mili giây.",
+        "search": "3d animation o dien phat ra tia lua dien mo phong",
+        "caption": "Xung điện áp cực mạnh xuất hiện trong vài mili giây"
+      },
+      {
+        "narration": "Nếu cáp đã nối với điện thoại, xung điện cao áp này sẽ lao thẳng vào chip quản lý nguồn.",
+        "search": "3d animation bo mach dien thoai vi mach phan luong dien",
+        "caption": "Cú sốc điện lao thẳng vào chip quản lý nguồn"
+      },
+      {
+        "narration": "Các vi mạch bảo vệ bên trong phải chịu đựng cú sốc và dần thoái hóa theo thời gian.",
+        "search": "3d animation linh kien dien tu bi nong chay qua tai",
+        "caption": "Vi mạch bảo vệ bị thoái hóa theo thời gian"
+      },
+      {
+        "narration": "Hậu quả là điện thoại của bạn nhanh tuột pin, sạc chập chờn và chai pin cực nhanh.",
+        "search": "hoat hinh 3d biet tuong pin dien thoai bao do tut phan pham",
+        "caption": "Điện thoại tuột pin nhanh và sạc chập chờn"
+      },
+      {
+        "narration": "Chỉ cần thay đổi thứ tự thao tác nhỏ này, bạn sẽ bảo vệ máy an toàn tuyệt đối.",
+        "search": "hoat hinh 3d tay rut cu sac ra khoi o cam",
+        "caption": "Thay đổi thứ tự thao tác để bảo vệ máy"
+      },
+      {
+        "narration": "Quy tắc chuẩn: Cắm củ sạc vào ổ điện trước để dòng điện ổn định, rồi mới nối cáp vào máy.",
+        "search": "hoat hinh 3d cam cu sac vao o dien truoc roi moi noi dien thoai",
+        "caption": "Cắm củ sạc vào ổ trước, nối điện thoại sau"
+      },
+      {
+        "narration": "Không chỉ lúc cắm, khi rút sạc, nếu bạn rút củ sạc ra khỏi ổ điện trước thì dòng điện ngược cũng sẽ phát sinh.",
+        "search": "rut day sac dien thoai hoat hinh 3d",
+        "caption": "Rút củ sạc trước cũng tạo ra dòng điện ngược"
+      },
+      {
+        "narration": "Dòng điện ngược này âm thầm làm suy giảm tuổi thọ vi mạch và làm pin chai nhanh gấp hai lần.",
+        "search": "pin dien thoai bi phong 3d animation",
+        "caption": "Pin chai nhanh gấp hai lần vì xung điện"
+      },
+      {
+        "narration": "Hầu hết các trường hợp chập chip quản lý nguồn đều bắt nguồn từ thói quen thao tác sai thứ tự này.",
+        "search": "mo hinh mach dien thoai bi nong 3d",
+        "caption": "Thói quen sai thứ tự gây hỏng chip nguồn"
+      },
+      {
+        "narration": "Quy tắc vàng khi sạc: Cắm củ sạc vào ổ điện trước, đợi dòng điện ổn định rồi mới nối cáp vào máy.",
+        "search": "cam cuc sac vao o dien 3d animation",
+        "caption": "Cắm củ sạc vào ổ trước, nối máy sau"
+      },
+      {
+        "narration": "Khi sạc xong, hãy rút dây khỏi điện thoại trước rồi mới rút củ sạc để bảo vệ máy tuyệt đối.",
+        "search": "dien thoai sac pin day bieu tuong 3d",
+        "caption": "Rút dây khỏi máy trước khi rút củ sạc"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T15:51:52.470744+00:00",
+    "updated_at": "2026-11-21T15:56:14.041357+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-21T15:53:50.617119+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "506 chars (cat 93 de vua 55s)",
+        "at": "2026-11-21T15:54:43.483828+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.0s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-21T15:55:05.888305+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T15:55:06.519204+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-21T15:55:32.224008+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-21T15:55:32.238934+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.1s 30706603 bytes",
+        "at": "2026-11-21T15:56:13.868484+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T15:56:14.041350+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/15462802/15462802-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5473911/5473911-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/35062463/14852572_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/25935025/11922034_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324604/13788782_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/40489138/17304062_1080_1920_29fps.mp4",
+      "https://videos.pexels.com/video-files/5435325/5435325-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/9943374/9943374-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/16727463/16727463-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107028/13687871_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/37060862/15700309_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/10682197/10682197-hd_720_1280_24fps.mp4",
+      "https://videos.pexels.com/video-files/15439747/15439747-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "b804fe9404",
     "kind": "short",
     "channel": "Channel3",
