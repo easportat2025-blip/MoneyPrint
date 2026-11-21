@@ -1,5 +1,169 @@
 [
   {
+    "id": "63ee9a526a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao ly cà phê 3 giờ chiều âm thầm hủy hoại đêm của bạn?",
+    "idea": {
+      "title": "Tại sao ly cà phê 3 giờ chiều âm thầm hủy hoại đêm của bạn?",
+      "hook": "Bạn nghĩ cà phê chiều chỉ giúp tỉnh táo làm việc, nhưng sự thật nó đang âm thầm đánh tráo giấc ngủ của bạn suốt 8 tiếng sau.",
+      "beats": [
+        "Adenosine là chất tích tụ trong não suốt cả ngày để phát tín hiệu buồn ngủ.",
+        "Caffeine không hề làm mất Adenosine, nó chỉ 'giả dạng' để chiếm chỗ tiếp nhận trên tế bào thần kinh.",
+        "Sau 6 tiếng, 50% lượng caffeine vẫn còn lưu thông và hoạt động trong máu.",
+        "Đến đêm, dù bạn chợp mắt được, não vẫn bị ngăn cản bước vào giai đoạn ngủ sâu NREM để phục hồi."
+      ],
+      "keywords": [
+        "coffee pouring cup",
+        "brain adenosine receptor concept",
+        "tired person sleeping night",
+        "clock ticking late evening",
+        "sleeping brain scan animation"
+      ],
+      "tags": [
+        "cà phê",
+        "giấc ngủ",
+        "caffeine",
+        "sức khỏe",
+        "thói quen",
+        "mẹo ngủ ngon",
+        "channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Ly cà phê 3 giờ chiều hủy hoại 8 tiếng ngủ.",
+        "search": "ly ca phe nong 3d hoat hinh",
+        "caption": "Cà phê 3h chiều hủy hoại 8h ngủ"
+      },
+      {
+        "narration": "Suốt cả ngày làm việc, bộ não tự động tích tụ một chất gọi là Adenosine.",
+        "search": "do hoa chuyen dong bo nao tich tu nang luong",
+        "caption": "Bộ não liên tục tích tụ Adenosine"
+      },
+      {
+        "narration": "Lượng Adenosine càng tăng cao, áp lực khiến bạn buồn ngủ càng dồn nén.",
+        "search": "mophong 3d te bao than kinh phat tin hieu",
+        "caption": "Adenosine tạo áp lực thèm ngủ"
+      },
+      {
+        "narration": "Nhưng khi bạn nạp cà phê vào lúc 3 giờ chiều, caffeine lập tức can thiệp.",
+        "search": "phan tu caffeine di vao mach mau hoat hinh",
+        "caption": "Caffeine lập tức can thiệp vào não"
+      },
+      {
+        "narration": "Cấu trúc caffeine giống hệt Adenosine, giúp nó dễ dàng 'giả dạng' để chiếm ổ tiếp nhận.",
+        "search": "mo hinh 3d phan tu khoa giac cam bien nao",
+        "caption": "Caffeine giả dạng chiếm ổ tiếp nhận"
+      },
+      {
+        "narration": "Não bạn không hề hết mệt, nó chỉ bị lừa rằng cơn buồn ngủ chưa từng tồn tại.",
+        "search": "hoat hinh 3d dong ho sinh hoc co the",
+        "caption": "Bộ não bị đánh lừa cảm giác mệt"
+      },
+      {
+        "narration": "Nguy hiểm là sau 6 tiếng, 50% lượng caffeine vẫn lưu thông nguyên vẹn trong máu.",
+        "search": "dong ho 3d quay nhanh den 9 gio toi",
+        "caption": "Sau 6 tiếng, 50% caffeine còn nguyên"
+      },
+      {
+        "narration": "Đến 11 giờ đêm, khi bạn đặt lưng xuống giường, thảm họa thực sự mới bắt đầu.",
+        "search": "hoat hinh 3d nguoi nam tren giuong troc troc",
+        "caption": "11h đêm: Thảm họa thực sự bắt đầu"
+      },
+      {
+        "narration": "Caffeine không biến mất, nó liên tục bám chặt vào các thụ thể thần kinh suốt nửa đêm.",
+        "search": "brain adenosine receptor concept 3d animation",
+        "caption": "Caffeine bám chặt vào não suốt nửa đêm"
+      },
+      {
+        "narration": "Đến khi bạn nghĩ mình đã ngủ say, não bộ thực ra chỉ đang lơ mơ ở tầng nông.",
+        "search": "tired person sleeping restless night bed close up",
+        "caption": "Não chỉ ngủ lơ mơ ở tầng nông"
+      },
+      {
+        "narration": "Hậu quả là giai đoạn ngủ sâu NREM phục hồi cơ thể bị triệt tiêu hoàn toàn.",
+        "search": "sleeping brain scan animation dark room",
+        "caption": "Mất hoàn toàn giai đoạn ngủ sâu phục hồi"
+      },
+      {
+        "narration": "Đồng hồ sinh học điểm 3 giờ sáng, cơ thể vẫn bị kẹt trong trạng thái cào xé tỉnh táo giả tạo.",
+        "search": "clock ticking late evening glowing numbers dark",
+        "caption": "3 giờ sáng vẫn tỉnh táo giả tạo"
+      },
+      {
+        "narration": "Đổi ly cà phê chiều bằng một ly nước ấm, bạn sẽ trả lại trọn vẹn 8 tiếng hồi phục cho bộ não.",
+        "search": "pouring warm water in glass morning light",
+        "caption": "Đổi cà phê bằng nước ấm để ngủ sâu"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T07:34:07.494247+00:00",
+    "updated_at": "2026-11-21T07:38:14.484090+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-21T07:35:19.499998+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "497 chars (cat 106 de vua 55s)",
+        "at": "2026-11-21T07:36:33.927057+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "37.8s vi-VN-NamMinhNeural 9 cau",
+        "at": "2026-11-21T07:36:48.801320+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T07:36:50.042047+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-21T07:37:03.585577+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-21T07:37:03.608992+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 37.8s 23718765 bytes",
+        "at": "2026-11-21T07:38:14.338954+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T07:38:14.484074+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7236769/7236769-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/35295052/14954243_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/34935877/14798763_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32110927/13690120_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7763491/7763491-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8720761/8720761-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/28115366/12303888_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6560042/6560042-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/34993294/14825493_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6753387/6753387-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/19193293/19193293-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39286036/16716510_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6540520/6540520-uhd_1440_2560_25fps.mp4"
+    ]
+  },
+  {
     "id": "2befa17017",
     "kind": "short",
     "channel": "Channel2",
