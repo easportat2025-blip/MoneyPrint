@@ -1,5 +1,161 @@
 [
   {
+    "id": "2d08134865",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Saved Rome Then Died Over a Lie",
+    "idea": {
+      "title": "The Roman Emperor Who Saved Rome Then Died Over a Lie",
+      "hook": "Emperor Aurelian saved the Roman Empire from total collapse in just five years, only to be murdered over a secretary's panicked forgery.",
+      "beats": [
+        "By 270 AD, Rome had fractured into three competing empires during the chaotic Crisis of the Third Century.",
+        "Aurelian took absolute power, crushed barbarian invasions, reconquered Palmyra and Gaul, and reunited the entire realm.",
+        "Fearing punishment for a minor lie, a corrupt secretary forged a fake hit list containing the names of top military officers.",
+        "Terrified imperial guards preemptively assassinated Aurelian, only to realize too late they were tricked into killing Rome's savior."
+      ],
+      "keywords": [
+        "Emperor Aurelian bust",
+        "Ancient Rome oil painting",
+        "Roman legion battle engraving",
+        "Third century crisis map",
+        "Assassination Roman emperor portrait"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#romanempire",
+        "#documentary",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One emperor saved Rome, then died over a lie.",
+        "search": "Emperor Aurelian bust statue ancient Rome",
+        "caption": "Saved Rome, murdered over a lie."
+      },
+      {
+        "narration": "By 270 AD, the Roman Empire had fractured into three competing realms during the devastating Crisis of the Third Century.",
+        "search": "Third Century Crisis Roman Empire map engraving",
+        "caption": "270 AD: Empire split in three."
+      },
+      {
+        "narration": "Ascending the throne in 270 AD, Emperor Aurelian launched relentless military campaigns to secure Rome's borders.",
+        "search": "Roman legion battle oil painting",
+        "caption": "270 AD: Aurelian takes imperial power."
+      },
+      {
+        "narration": "He marched east to defeat the breakaway Palmyrene Empire, capturing Queen Zenobia and reclaiming vital territories.",
+        "search": "Queen Zenobia Palmyrene empire oil painting",
+        "caption": "Aurelian crushes the Palmyrene Empire."
+      },
+      {
+        "narration": "Turning west, Aurelian reunited the Gallic Empire in 274 AD, earning the title Restitutor Orbis: Restorer of the World.",
+        "search": "Aurelian Roman emperor coin portrait",
+        "caption": "274 AD: Named Restorer of the World."
+      },
+      {
+        "narration": "In 275 AD, while preparing for a Persian campaign, a corrupt secretary named Eros committed a minor infraction.",
+        "search": "Ancient Roman scroll manuscript illustration",
+        "caption": "275 AD: A secretary's fatal mistake."
+      },
+      {
+        "narration": "Fearing Aurelian's ruthless enforcement of law, Eros forged a hit list featuring top military commanders marked for death.",
+        "search": "Roman praetorian guard oil painting",
+        "caption": "Secretary forges an imperial death list."
+      },
+      {
+        "narration": "Convinced the forged document was authentic, terrified imperial officers conspired to strike before Aurelian could act.",
+        "search": "Assassination Roman emperor historic painting",
+        "caption": "Officers plot against Emperor Aurelian."
+      },
+      {
+        "narration": "In September 275 AD, while waiting in Thrace to invade Persia, Emperor Aurelian was ambushed and struck down by his own trusted officers.",
+        "search": "Aurelian assassination oil painting",
+        "caption": "In 275 AD, panicked officers ambushed and murdered Emperor Aurelian."
+      },
+      {
+        "narration": "Immediately following the murder, an investigation revealed the hit list was a total forgery created by the secretary Eros to avoid execution.",
+        "search": "Ancient Rome corrupt document manuscript illustration",
+        "caption": "Officers discovered the hit list was a fake forged by a secretary."
+      },
+      {
+        "narration": "The conspirators executed Eros in horror, but the damage was done: the ruler who saved Rome from collapse was killed by a single lie.",
+        "search": "Emperor Aurelian marble bust portrait",
+        "caption": "Rome's savior fell not to armies, but to a forged lie."
+      },
+      {
+        "narration": "He saved Rome in five years, then died over a lie.",
+        "search": "Emperor Aurelian bust sculpture",
+        "caption": "He saved Rome in five years, then died over a lie."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T22:17:40.913735+00:00",
+    "updated_at": "2026-11-21T22:20:01.453555+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-21T22:18:05.401289+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "428 chars (cat 201 de vua 55s)",
+        "at": "2026-11-21T22:18:17.084813+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.5s en-US-GuyNeural 6 cau",
+        "at": "2026-11-21T22:18:20.597499+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T22:18:21.438301+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-21T22:19:15.791374+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-21T22:19:15.812294+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.5s 16617210 bytes",
+        "at": "2026-11-21T22:20:01.256044+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T22:20:01.453540+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17299015/pexels-photo-17299015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30792660/pexels-photo-30792660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412598/pexels-photo-29412598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20895757/pexels-photo-20895757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422845/pexels-photo-20422845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8998019/pexels-photo-8998019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11650246/pexels-photo-11650246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360561/pexels-photo-32360561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17747095/pexels-photo-17747095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039706/pexels-photo-12039706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11641541/pexels-photo-11641541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24951762/pexels-photo-24951762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c052e275d7",
     "kind": "short",
     "channel": "Channel3",
