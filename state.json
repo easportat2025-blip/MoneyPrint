@@ -1,5 +1,161 @@
 [
   {
+    "id": "2befa17017",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Tragic Betrayal That Broke King Henry II",
+    "idea": {
+      "title": "The Tragic Betrayal That Broke King Henry II",
+      "hook": "King Henry II built a vast empire, only for his favorite sons to plot his heartbreaking downfall.",
+      "beats": [
+        "King Henry II created the giant Angevin Empire spanning across Britain and France.",
+        "Fearing loss of power, his sons Richard the Lionheart and Geoffrey turned against him with French support.",
+        "Dying and exhausted, Henry demanded a list of traitors and saw his favorite youngest son, Prince John, at the top.",
+        "Overcome with grief and utter heartbreak, Henry cursed his children and died days later."
+      ],
+      "keywords": [
+        "Henry II England portrait",
+        "medieval battle map",
+        "Richard the Lionheart painting",
+        "medieval king dying illustration",
+        "Angevin Empire map"
+      ],
+      "tags": [
+        "history",
+        "kinghenryii",
+        "medievalhistory",
+        "historydocumentary",
+        "britishhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "What destroyed Europe's greatest empire in 1189?",
+        "search": "king henry ii england portrait painting",
+        "caption": "What destroyed Europe's greatest empire in 1189?"
+      },
+      {
+        "narration": "King Henry II had carved out the massive Angevin Empire spanning Britain and western France.",
+        "search": "angevin empire medieval map manuscript",
+        "caption": "King Henry II ruled vast lands across Britain and France."
+      },
+      {
+        "narration": "In the 1180s, his ambitious sons Richard the Lionheart and Geoffrey demanded immediate royal power.",
+        "search": "richard the lionheart painting portrait",
+        "caption": "Richard the Lionheart demanded immediate control of the realm."
+      },
+      {
+        "narration": "Backed by King Philip II of France, Henry's sons allied with foreign enemies and launched a bloody civil war.",
+        "search": "medieval battle illuminated manuscript warfare",
+        "caption": "French forces joined Henry's sons in armed rebellion."
+      },
+      {
+        "narration": "Ailing and overwhelmed at Chinon Castle in July 1189, Henry was forced to accept a humiliating defeat.",
+        "search": "chinon castle france medieval engraving",
+        "caption": "An ailing Henry II surrendered at Chinon in 1189."
+      },
+      {
+        "narration": "Before signing the surrender terms, the exhausted king demanded a complete list of all conspirators.",
+        "search": "medieval king reading parchment manuscript illustration",
+        "caption": "The king demanded the official list of traitors."
+      },
+      {
+        "narration": "Written at the very top of the treason list was Prince John, his favorite youngest son.",
+        "search": "king john of england portrait illustration",
+        "caption": "His favorite son Prince John was named top traitor."
+      },
+      {
+        "narration": "Devastated by total betrayal, King Henry II cursed his children and died two days later.",
+        "search": "medieval king dying illustration manuscript",
+        "caption": "Broken by betrayal, Henry II died two days later."
+      },
+      {
+        "narration": "Following Henry's death in July 1189 at Chinon Castle, Richard the Lionheart seized the crown over a fractured realm.",
+        "search": "richard the lionheart coronation oil painting",
+        "caption": "Richard I seized the crown in July 1189"
+      },
+      {
+        "narration": "When Prince John later took power, his disastrous rule lost Normandy and crippled his father's former territories by 1204.",
+        "search": "king john of england medieval manuscript illumination",
+        "caption": "Prince John lost Normandy and the empire by 1204"
+      },
+      {
+        "narration": "The greatest empire in twelfth-century Europe was ultimately destroyed not by foreign invaders, but by Henry's own bloodline.",
+        "search": "angevin empire map 12th century engraving",
+        "caption": "The medieval empire fell to family betrayal"
+      },
+      {
+        "narration": "A vast empire was destroyed by a king's own children.",
+        "search": "Henry II of England medieval manuscript portrait",
+        "caption": "An empire destroyed from within"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-21T03:20:19.968868+00:00",
+    "updated_at": "2026-11-21T03:22:32.839515+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-21T03:20:37.458668+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "367 chars (cat 289 de vua 55s)",
+        "at": "2026-11-21T03:20:51.540817+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.7s en-US-GuyNeural 5 cau",
+        "at": "2026-11-21T03:20:55.920205+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-21T03:20:56.664589+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-21T03:21:53.071924+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-21T03:21:53.090538+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.7s 15332767 bytes",
+        "at": "2026-11-21T03:22:32.687133+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-21T03:22:32.839503+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37046490/pexels-photo-37046490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14288651/pexels-photo-14288651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22147491/pexels-photo-22147491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38914901/pexels-photo-38914901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30635949/pexels-photo-30635949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19266664/pexels-photo-19266664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12354902/pexels-photo-12354902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33582265/pexels-photo-33582265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17747082/pexels-photo-17747082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30910765/pexels-photo-30910765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38157664/pexels-photo-38157664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15584422/pexels-photo-15584422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "1da6ea8feb",
     "kind": "short",
     "channel": "Channel2",
