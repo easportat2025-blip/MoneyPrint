@@ -1,5 +1,161 @@
 [
   {
+    "id": "232576a20c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Overthrew Her Husband Over a Rat",
+    "idea": {
+      "title": "The Empress Who Overthrew Her Husband Over a Rat",
+      "hook": "Empress Catherine betrayed her husband Tsar Peter III after his bizarre obsession with rats ruined Russia, leading to his mysterious murder.",
+      "beats": [
+        "Tsar Peter III was obsessed with Prussian military drills and once held a formal court-martial to execute a rat.",
+        "Disgusted by his erratic behavior and disrespect for Russian traditions, Empress Catherine secretly rallied the Imperial Guard.",
+        "Within six months of his coronation, Catherine staged a swift coup and forced her husband to sign his abdication.",
+        "Eight days after his arrest, the deposed Tsar mysteriously died in captivity, leaving Catherine to rule alone."
+      ],
+      "keywords": [
+        "Catherine the Great portrait",
+        "Tsar Peter III engraving",
+        "Russian empire map",
+        "Imperial Guard painting",
+        "Winter Palace photo"
+      ],
+      "tags": [
+        "history",
+        "catherinethegreat",
+        "russianhistory",
+        "documentary",
+        "historyshorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A rodent execution sparked Russia’s most notorious coup.",
+        "search": "tsar peter iii oil painting portrait",
+        "caption": "A rodent court-martial sparked Russia’s deadliest imperial coup."
+      },
+      {
+        "narration": "In 1762, Tsar Peter III alienated the Russian court with bizarre Prussian obsessions.",
+        "search": "russian empire 18th century map engraving",
+        "caption": "In 1762, Peter III alienated the imperial court."
+      },
+      {
+        "narration": "He staged a full court-martial to hang a rat that chewed his toy soldiers.",
+        "search": "18th century prussian military drill engraving",
+        "caption": "Peter III court-martialed and executed a rat."
+      },
+      {
+        "narration": "Disgusted by his erratic leadership, Empress Catherine began plotting in the shadows.",
+        "search": "catherine the great young portrait painting",
+        "caption": "Empress Catherine secretly plotted to save the empire."
+      },
+      {
+        "narration": "She won over the Imperial Guard to secure their military loyalty against her husband.",
+        "search": "russian imperial guard 18th century painting",
+        "caption": "Catherine rallied the Imperial Guard to her cause."
+      },
+      {
+        "narration": "Just six months after Peter's coronation, Catherine struck at the Winter Palace.",
+        "search": "winter palace saint petersburg 18th century engraving",
+        "caption": "Six months after his coronation, Catherine struck."
+      },
+      {
+        "narration": "Surrounded by rebel troops, the humiliated Tsar signed his unconditional abdication.",
+        "search": "tsar peter iii deposed engraving",
+        "caption": "Peter III signed his forced abdication."
+      },
+      {
+        "narration": "Eight days into his captivity, Peter died under deeply mysterious circumstances.",
+        "search": "ropsha palace 18th century painting",
+        "caption": "Eight days later, the deposed Tsar mysteriously died."
+      },
+      {
+        "narration": "Though Catherine officially blamed severe illness for Peter's July 1762 death, rumors endured that her loyal guards strangled the deposed Tsar.",
+        "search": "catherine the great coronation oil painting 1762",
+        "caption": "Colic was blamed, but rumors of murder shadowed Catherine's crown."
+      },
+      {
+        "narration": "Empress Catherine II took absolute control, expanding the nation's borders and reforming the Russian Empire over a thirty-four-year reign.",
+        "search": "russian empire 18th century map engraving ruled",
+        "caption": "Catherine II ruled for 34 years, building a massive empire."
+      },
+      {
+        "narration": "A bizarre court-martial over a rat in 1761 ultimately sparked the coup that created Catherine the Great.",
+        "search": "catherine the great portrait oil painting",
+        "caption": "An executed rat triggered the rise of Russia's greatest empress."
+      },
+      {
+        "narration": "She overthrew her husband because of a rat.",
+        "search": "Catherine the Great oil painting",
+        "caption": "An Empress betrayed her husband over a rodent."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T00:00:19.137219+00:00",
+    "updated_at": "2026-11-22T00:02:55.366238+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-22T00:00:46.034834+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "387 chars (cat 158 de vua 55s)",
+        "at": "2026-11-22T00:01:02.801086+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 5 cau",
+        "at": "2026-11-22T00:01:06.077727+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T00:01:06.727633+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-22T00:02:20.299003+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T00:02:20.317876+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.8s 14849637 bytes",
+        "at": "2026-11-22T00:02:55.236514+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T00:02:55.366227+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13832574/pexels-photo-13832574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32832223/pexels-photo-32832223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563567/pexels-photo-16563567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20697386/pexels-photo-20697386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13413981/pexels-photo-13413981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15282173/pexels-photo-15282173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12764119/pexels-photo-12764119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36035554/pexels-photo-36035554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16287971/pexels-photo-16287971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34936880/pexels-photo-34936880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14748101/pexels-photo-14748101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16037012/pexels-photo-16037012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "2d08134865",
     "kind": "short",
     "channel": "Channel2",
