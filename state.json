@@ -1,5 +1,161 @@
 [
   {
+    "id": "f0b0f63142",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Napoleon III’s Fatal Mistake That Ended His Empire",
+    "idea": {
+      "title": "Napoleon III’s Fatal Mistake That Ended His Empire",
+      "hook": "Emperor Napoleon III marched to war expecting absolute glory, but his shocking miscalculation at Sedan forced him to surrender his throne in utter humiliation.",
+      "beats": [
+        "In 1870, Napoleon III rashly declared war on Prussia, underestimating Otto von Bismarck's modern artillery.",
+        "Trapped at the fortress city of Sedan, his armies were surrounded and pulverized within days.",
+        "Suffering from severe illness, the Emperor personally surrendered himself and 104,000 soldiers to the Prussian King.",
+        "The unexpected surrender immediately sparked a revolution in Paris, permanently ending the French monarchy."
+      ],
+      "keywords": [
+        "Napoleon III portrait oil painting",
+        "Battle of Sedan 1870 engraving",
+        "Prussian army war map historical",
+        "French Second Empire historical artwork",
+        "Otto von Bismarck portrait archival"
+      ],
+      "tags": [
+        "history",
+        "documentary",
+        "napoleon",
+        "warhistory",
+        "frenchhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One arrogant mistake permanently destroyed France's monarchy in 1870.",
+        "search": "Napoleon III portrait oil painting",
+        "caption": "One mistake destroyed France's monarchy forever."
+      },
+      {
+        "narration": "In September 1870, the French Second Empire collapsed overnight, reshaping European power forever.",
+        "search": "Paris revolution 1870 historical engraving",
+        "caption": "The collapse of the French Second Empire in 1870."
+      },
+      {
+        "narration": "Months earlier, Emperor Napoleon III ruled Western Europe's most dominant empire from Paris.",
+        "search": "French Second Empire imperial court historical artwork",
+        "caption": "Napoleon III ruled Europe's dominant empire from Paris."
+      },
+      {
+        "narration": "But Prussian Chancellor Otto von Bismarck was secretly laying a fatal political trap.",
+        "search": "Otto von Bismarck portrait archival photograph",
+        "caption": "Chancellor Otto von Bismarck laid a strategic trap."
+      },
+      {
+        "narration": "On July 19, 1870, an overconfident Napoleon III officially declared war on Prussia.",
+        "search": "Franco-Prussian War 1870 battle map historical",
+        "caption": "France declared war on Prussia on July 19, 1870."
+      },
+      {
+        "narration": "Napoleon drastically underestimated Prussia’s advanced Krupp steel artillery and rapid troop mobilization.",
+        "search": "Prussian army artillery Franco-Prussian war 1870 photograph",
+        "caption": "French forces severely underestimated Prussian artillery."
+      },
+      {
+        "narration": "By late August, over one hundred thousand French troops were driven back to Sedan.",
+        "search": "Battle of Sedan 1870 fortress historical engraving",
+        "caption": "French armies were trapped at the fortress of Sedan."
+      },
+      {
+        "narration": "Surrounded by two hundred thousand Prussian forces, the ailing Emperor faced total annihilation.",
+        "search": "Prussian army besieging Sedan 1870 historical artwork",
+        "caption": "Surrounded by 200,000 Prussian troops with no escape."
+      },
+      {
+        "narration": "On September 1, 1870, under relentless Prussian artillery fire, Napoleon III ordered the white flag raised at Sedan.",
+        "search": "Battle of Sedan 1870 artillery engraving",
+        "caption": "September 1, 1870: Napoleon III orders total surrender."
+      },
+      {
+        "narration": "The Emperor personally surrendered alongside one hundred four thousand French troops to Prussian King Wilhelm First.",
+        "search": "Napoleon III and Otto von Bismarck 1870 historical painting",
+        "caption": "104,000 French soldiers captured at Sedan."
+      },
+      {
+        "narration": "News of the capture sparked an immediate revolution in Paris on September 4, 1870, ending the French monarchy forever.",
+        "search": "Paris revolution September 1870 newspaper illustration",
+        "caption": "September 4, 1870: The French monarchy falls forever."
+      },
+      {
+        "narration": "An emperor's arrogance triggered the collapse of France.",
+        "search": "Napoleon III portrait oil painting",
+        "caption": "The Fall of Napoleon III"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T02:28:37.744352+00:00",
+    "updated_at": "2026-11-22T02:31:28.664598+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-22T02:29:00.369491+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "428 chars (cat 634 de vua 55s)",
+        "at": "2026-11-22T02:29:32.417158+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.8s en-US-GuyNeural 5 cau",
+        "at": "2026-11-22T02:29:36.709181+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T02:29:37.416260+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-22T02:30:49.900971+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T02:30:49.920099+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.9s 19372313 bytes",
+        "at": "2026-11-22T02:31:28.515279+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T02:31:28.664580+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/32215674/pexels-photo-32215674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7849591/pexels-photo-7849591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39835227/pexels-photo-39835227.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20014487/pexels-photo-20014487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326137/pexels-photo-18326137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/21920058/pexels-photo-21920058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563570/pexels-photo-16563570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268691/pexels-photo-9268691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36682210/pexels-photo-36682210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37054512/pexels-photo-37054512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31178110/pexels-photo-31178110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39504012/pexels-photo-39504012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "232576a20c",
     "kind": "short",
     "channel": "Channel2",
