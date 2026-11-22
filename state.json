@@ -1,5 +1,167 @@
 [
   {
+    "id": "f39707027e",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đánh răng ngay sau khi ăn sáng âm thầm hại răng?",
+    "idea": {
+      "title": "Tại sao đánh răng ngay sau khi ăn sáng âm thầm hại răng?",
+      "hook": "Hầu hết mọi người đều đánh răng ngay sau khi ăn sáng, nhưng các bác sĩ nha khoa gọi đây là hành động tự phá hủy men răng.",
+      "beats": [
+        "Sau khi ăn hoặc uống cà phê, môi trường trong miệng bị axit hóa, làm mềm tạm thời lớp men răng.",
+        "Việc chải răng ngay lúc này giống như dùng giấy nhám chà trực tiếp lên bề mặt răng đang bị yếu.",
+        "Axit bị đẩy sâu hơn vào ngà răng, làm mòn răng nhanh hơn và khiến răng trở nên cực kỳ nhạy cảm.",
+        "Thói quen chuẩn: Hãy súc miệng bằng nước lọc và chờ ít nhất 30 phút trước khi dùng bàn chải."
+      ],
+      "keywords": [
+        "brushing teeth morning",
+        "coffee breakfast tooth enamel",
+        "dentist microscopic tooth surface",
+        "drinking water glass",
+        "mouth rinse water"
+      ],
+      "tags": [
+        "#Channel3",
+        "#suckhoe",
+        "#nhakhoa",
+        "#meovat",
+        "#thoiquen"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đánh răng ngay sau ăn sáng đang tàn phá men răng.",
+        "search": "danh rang buoi sang hoat hinh 3d",
+        "caption": "Đánh răng sau ăn sáng tàn phá men răng"
+      },
+      {
+        "narration": "Mỗi sáng, sau khi ăn điểm tâm hoặc uống cà phê, bạn liền đi chải răng ngay.",
+        "search": "ly ca phe buoi sang hoat hinh 3d",
+        "caption": "Thói quen chải răng ngay sau bữa sáng"
+      },
+      {
+        "narration": "Nhưng thức ăn và cà phê khiến nồng độ axit trong khoang miệng tăng vọt.",
+        "search": "axit tan cong men rang hoat hinh 3d",
+        "caption": "Axit trong miệng tăng vọt sau khi ăn"
+      },
+      {
+        "narration": "Lượng axit này nhanh chóng làm mềm tạm thời lớp men bảo vệ bên ngoài răng.",
+        "search": "be mat men rang kinh hien vi hoat hinh 3d",
+        "caption": "Men răng bị làm mềm tạm thời"
+      },
+      {
+        "narration": "Hành động chải răng lúc này chẳng khác nào dùng giấy nhám chà lên bề mặt đang yếu.",
+        "search": "ban chai cha be mat hoat hinh 3d",
+        "caption": "Chải răng giống như dùng giấy nhám"
+      },
+      {
+        "narration": "Lông bàn chải sẽ đẩy các phân tử axit đi sâu hơn vào tận lớp ngà răng.",
+        "search": "cat ngang ngat rang men rang hoat hinh 3d",
+        "caption": "Axit bị đẩy sâu vào ngà răng"
+      },
+      {
+        "narration": "Hậu quả là men răng bào mòn nhanh chóng, khiến răng trở nên cực kỳ ê buốt.",
+        "search": "rang bi e buot dau hoat hinh 3d",
+        "caption": "Men răng mòn dần gây ê buốt kéo dài"
+      },
+      {
+        "narration": "Hãy súc miệng bằng nước lọc và chờ 30 phút để nước bọt trung hòa axit.",
+        "search": "suc mieng ly nuoc loc hoat hinh 3d",
+        "caption": "Súc miệng nước lọc và chờ 30 phút"
+      },
+      {
+        "narration": "Men răng một khi đã bị tổn thương thì không bao giờ có thể tự tái tạo hay phục hồi lại.",
+        "search": "3d animation men rang bi mon vi mo",
+        "caption": "Men răng mòn không thể tự tái tạo"
+      },
+      {
+        "narration": "Để an toàn nhất, nhiều nha sĩ khuyên bạn nên đánh răng ngay trước khi ăn sáng.",
+        "search": "3d animation danh rang buoi sang phong tam",
+        "caption": "Đánh răng trước khi ăn sáng an toàn hơn"
+      },
+      {
+        "narration": "Lớp fluor từ kem đánh răng sẽ tạo màng chắn ngăn axit từ thức ăn tấn công.",
+        "search": "3d animation kem danh rang bao ve be mat rang",
+        "caption": "Fluor tạo màng chắn bảo vệ răng"
+      },
+      {
+        "narration": "Còn nếu chải răng sau khi ăn, hãy súc miệng nước lọc và chờ đủ 30 phút.",
+        "search": "3d animation dong ho 30 phut ly nuoc loc",
+        "caption": "Súc miệng nước lọc và đợi 30 phút"
+      },
+      {
+        "narration": "Thay đổi nhỏ 30 phút mỗi sáng sẽ giúp bạn giữ trọn bộ răng chắc khỏe suốt đời.",
+        "search": "3d animation nu cuoi rang trang sang chac khoe",
+        "caption": "Giữ nụ cười chắc khỏe suốt đời"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T07:12:12.172958+00:00",
+    "updated_at": "2026-11-22T07:14:38.152382+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-22T07:12:32.905894+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "508 chars",
+        "at": "2026-11-22T07:12:57.408918+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-22T07:13:16.173460+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T07:13:17.307707+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-22T07:13:29.860110+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-22T07:13:29.886125+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.4s 28181715 bytes",
+        "at": "2026-11-22T07:14:37.986074+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T07:14:38.152365+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/10566366/10566366-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/26626222/11978719_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16727460/16727460-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6755007/6755007-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/37704028/15987690_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6630771/6630771-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6528846/6528846-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7089938/7089938-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/35160268/14894369_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34388803/14568079_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6436164/6436164-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/36435099/15449824_1440_2560_60fps.mp4"
+    ]
+  },
+  {
     "id": "f0b0f63142",
     "kind": "short",
     "channel": "Channel2",
