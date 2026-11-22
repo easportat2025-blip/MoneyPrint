@@ -1,5 +1,599 @@
 [
   {
+    "id": "741cb3ff78",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Persian King Who Built a Fake City Just to Insult Rome",
+    "idea": {
+      "title": "The Persian King Who Built a Fake City Just to Insult Rome",
+      "hook": "In 540 AD, a Persian King didn't just defeat Rome's military—he captured an entire metropolis, mapped every street, and forced thousands of Roman prisoners to live in an exact replica city built solely to mock the Roman Emperor.",
+      "beats": [
+        "The superpower rivalry between the Byzantine Empire under Justinian and the Sasanian Persian Empire.",
+        "King Khosrow I ascends the Persian throne, determined to prove his superiority over Constantinople.",
+        "In 540 AD, Khosrow launches a surprise invasion of Roman Syria and targets Antioch, the crown jewel of the Roman East.",
+        "Antioch falls to Persian forces, but Khosrow halts the destruction to carry out a bizarre and meticulous plan.",
+        "Persian architects measure and blueprint Antioch's streets, hippodromes, public baths, and neighborhood layouts.",
+        "Thousands of Roman citizens are captured and force-marched deep into Sasanian territory near Ctesiphon.",
+        "Khosrow orders the construction of an identical, brick-for-brick replica city in the heart of Persia.",
+        "The city is officially named Weh Antiok Khosrow, meaning 'Better than Antioch, Khosrow Built This.'",
+        "Roman captives arrive to find their exact former homes, public amenities, and chariot races funded by Persia.",
+        "The psychological tactic: Roman citizens are granted freedom inside the city to showcase Khosrow's superiority over Justinian.",
+        "Emperor Justinian receives word of the replica city, suffering the ultimate geopolitical humiliation.",
+        "Rome is forced to pay thousands of pounds of gold in tribute to stop Khosrow's humiliating campaign."
+      ],
+      "keywords": [
+        "King Khosrow I",
+        "Emperor Justinian",
+        "Sasanian Empire",
+        "Byzantine Empire",
+        "Fall of Antioch",
+        "Weh Antiok Khosrow",
+        "Ancient Rome vs Persia",
+        "Psychological Warfare History",
+        "Ancient History Documentary",
+        "Persian Empire"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#persianempire",
+        "#romanempire",
+        "#byzantineempire",
+        "#khosrow",
+        "#justinian",
+        "#documentary",
+        "#militaryhistory",
+        "#ancientrome"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE BUILT A FAKE ROME"
+    },
+    "scenes": [
+      {
+        "narration": "A Persian king built an entire city to insult Rome.",
+        "search": "Khosrow I Sasanian silver drachm coin portrait",
+        "caption": "A city built for geopolitical humiliation"
+      },
+      {
+        "narration": "In 540 AD, Emperor Justinian governed the Byzantine Empire while King Khosrow I ruled the competing Sasanian Empire.",
+        "search": "Emperor Justinian I mosaic portrait Ravenna",
+        "caption": "Byzantium and Persia clash in 540 AD"
+      },
+      {
+        "narration": "Seeking total strategic dominance, Khosrow launched a surprise invasion of Roman Syria and breached Antioch, the jewel of the Roman East.",
+        "search": "ancient Antioch Syria map engraving",
+        "caption": "Khosrow captures Roman Antioch"
+      },
+      {
+        "narration": "Instead of burning Antioch to the ground, Khosrow deployed royal architects to measure and blueprint its hippodromes, public baths, and street grids.",
+        "search": "ancient roman city blueprint architectural drawing",
+        "caption": "Architects measure Antioch street grid"
+      },
+      {
+        "narration": "Thousands of Roman citizens were rounded up and force-marched hundreds of miles into Sasanian territory near Ctesiphon.",
+        "search": "ancient roman captives marching illustration",
+        "caption": "Thousands forced to march to Ctesiphon"
+      },
+      {
+        "narration": "Near his capital, Khosrow constructed a brick-for-brick replica city named Weh Antiok Khosrow, meaning 'Khosrow Built a Better Antioch.'",
+        "search": "Taq Kasra arch of Ctesiphon photograph",
+        "caption": "Weh Antiok Khosrow built near Ctesiphon"
+      },
+      {
+        "narration": "The captured Romans were relocated into exact replicas of their former homes and given Persian funds to host traditional chariot races.",
+        "search": "roman chariot racing mosaic illustration",
+        "caption": "Roman captives placed in replica city"
+      },
+      {
+        "narration": "The ultimate psychological stunt humiliated Emperor Justinian, forcing Byzantium to pay thousands of pounds of gold in tribute.",
+        "search": "Byzantine gold solidus coin Justinian portrait",
+        "caption": "Justinian pays gold tribute to stop Khosrow"
+      },
+      {
+        "narration": "In 540 AD, Emperor Justinian agreed to pay Khosrow I five thousand pounds of gold immediately, alongside an annual tribute to secure a fragile truce.",
+        "search": "Justinian I Byzantine mosaic detail close up San Vitale Ravenna",
+        "caption": "Justinian pays 5,000 pounds of gold in 540 AD"
+      },
+      {
+        "narration": "King Khosrow I funneled this massive Roman payout directly into restructuring the Sasanian tax system and upgrading his standing army.",
+        "search": "King Khosrow I Sasanian silver coin profile portrait macro",
+        "caption": "Roman gold funds Sasanian military and tax reforms"
+      },
+      {
+        "narration": "To conceal the geopolitical humiliation from his court in Constantinople, Justinian reframed the payments as diplomatic defense subsidies rather than tribute.",
+        "search": "Byzantine imperial court manuscript illumination 6th century",
+        "caption": "Constantinople disguises defeat as strategic diplomatic subsidies"
+      },
+      {
+        "narration": "Tensions erupted again in 541 AD when both empires fought for control of Lazica, a crucial kingdom bordering the Black Sea.",
+        "search": "Caucasus mountain region ancient map engraving color detail",
+        "caption": "Conflict shifts to Black Sea frontier in 541 AD"
+      },
+      {
+        "narration": "Within the replica city, Khosrow placed all former Roman citizens under direct royal protection, completely immune to local Sasanian provincial governors.",
+        "search": "Ctesiphon Arch Taq Kasra ancient ruin Sasanian architecture photo",
+        "caption": "Captives granted legal immunity under Sasanian royal decree"
+      },
+      {
+        "narration": "Visiting Byzantine envoys travelling to Ctesiphon were intentionally routed through Weh Antiok Khosrow to witness their former countrymen flourishing under Persian authority.",
+        "search": "Roman diplomats meeting Persian king ancient relief carving",
+        "caption": "Byzantine envoys paraded through replica city near Ctesiphon"
+      },
+      {
+        "narration": "Stricken by the catastrophic Plague of Justinian in 541 AD, the Byzantine Empire lacked the manpower to launch a counteroffensive into Mesopotamia.",
+        "search": "Plague of Justinian medieval manuscript illustration sick citizens",
+        "caption": "Devastating 541 AD plague crippling Byzantine military capability"
+      },
+      {
+        "narration": "By 562 AD, the Fifty-Year Peace Treaty forced Rome to pay thirty thousand gold solidi annually, solidifying Khosrow's victory for decades.",
+        "search": "Byzantine gold solidus coin Emperor Justinian profile",
+        "caption": "562 AD treaty secures 30,000 annual gold tribute"
+      },
+      {
+        "narration": "Inside Weh Antiok Khosrow, captured Romans were granted legal protections that exempted them from standard Sasanian taxes and laws.",
+        "search": "sasanian coin khosrow I profile bronze silver artifact",
+        "caption": "Roman captives enjoyed special legal status inside the replica city."
+      },
+      {
+        "narration": "Khosrow I personally funded the city's chariot racing factions, mirroring the Green and Blue teams of Constantinople to mock Roman culture.",
+        "search": "ancient roman hippodrome chariot race mosaic detail",
+        "caption": "Khosrow funded traditional Roman chariot races inside Sasanian Persia."
+      },
+      {
+        "narration": "In Constantinople, Emperor Justinian attempted to suppress reports of the thriving replica city to prevent civil unrest among his subjects.",
+        "search": "emperor justinian mosaic ravenna close up portrait",
+        "caption": "Justinian censored news regarding the prosperous Sasanian replica city."
+      },
+      {
+        "narration": "Sasanian architects continued expanding the city's marble bathhouses and aqueducts using skilled Byzantine prisoners forced into state service.",
+        "search": "ancient roman bathhouse ruins aqueduct engraving",
+        "caption": "Byzantine engineers built sprawling Roman bathhouses deep inside Persia."
+      },
+      {
+        "narration": "The annual tribute of thirty thousand gold solidi paid by Rome was directly funneled into maintaining the extravagant replica metropolis.",
+        "search": "Byzantine gold solidus coin Justinian close up",
+        "caption": "Roman tribute payments directly financed the upkeep of Khosrow's city."
+      },
+      {
+        "narration": "Attracted by the city's stability and wealth, Roman merchants and artisans began willingly migrating into Sasanian territory.",
+        "search": "ancient trade caravan silk road manuscript illustration",
+        "caption": "Roman artisans willingly migrated to the thriving Persian replica city."
+      },
+      {
+        "narration": "Khosrow routinely hosted foreign diplomats in Weh Antiok Khosrow, using the living imperial mirror as supreme geopolitical propaganda.",
+        "search": "sasanian royal court relief sculpture khosrow",
+        "caption": "Foreign envoys toured the city to witness Persian psychological supremacy."
+      },
+      {
+        "narration": "Though humiliated, Justinian quietly reorganized his military commands along the eastern frontier, laying the groundwork for a future confrontation.",
+        "search": "Byzantine cavalry soldiers sixth century manuscript illumination",
+        "caption": "Justinian secretly prepared his military forces for renewed eastern warfare."
+      },
+      {
+        "narration": "In 541 AD, Emperor Justinian reassigned his renowned general Belisarius to the eastern frontier to counter the Sasanian threat.",
+        "search": "flavius belisarius general mosaic byzantine detail",
+        "caption": "Justinian dispatches General Belisarius to the eastern front in 541 AD."
+      },
+      {
+        "narration": "Belisarius invaded Sasanian Mesopotamia, raiding border settlements and probing defenses near the garrison city of Nisibis.",
+        "search": "ancient nisibis city walls architectural line drawing engraving",
+        "caption": "Roman forces invade Sasanian territory to probe border defenses."
+      },
+      {
+        "narration": "Rather than confronting Belisarius directly, Khosrow I maneuvered northward into the Caucasus, targeting the Black Sea kingdom of Lazica.",
+        "search": "caucasus mountains antique map engraving 18th century",
+        "caption": "Khosrow shifts focus northward to open a second front in Lazica."
+      },
+      {
+        "narration": "Frustrated by heavy Roman taxation, King Gubazes II of Lazica secretly invited Khosrow to expel the Byzantine garrisons.",
+        "search": "sasanian Persian king receiving vassal tribute relief carving relief",
+        "caption": "Lazica's king allies with Persia to expel Byzantine troops."
+      },
+      {
+        "narration": "In late 541 AD, Persian forces captured the Byzantine stronghold of Petra, securing Khosrow a naval gateway on the Black Sea.",
+        "search": "ruins of petra fortress lazica georgia historical sketch illustration",
+        "caption": "Persia captures Petra fortress, gaining direct Black Sea access."
+      },
+      {
+        "narration": "In 542 AD, disaster struck Constantinople as the bubonic plague devastated the Byzantine capital, killing thousands daily.",
+        "search": "plague of justinian constantinople manuscript illumination drawing",
+        "caption": "The Justinianic Plague strikes Constantinople in 542 AD."
+      },
+      {
+        "narration": "Hearing that Justinian himself was bedridden with the plague, Khosrow prepared to launch another massive invasion of Roman Syria.",
+        "search": "emperor justinian bed sick manuscript illumination artwork",
+        "caption": "Khosrow exploits Byzantine vulnerability during the lethal pandemic."
+      },
+      {
+        "narration": "The Persian king marched toward Roman Palestine, threatening the holy city of Jerusalem as Roman defenses collapsed.",
+        "search": "ancient jerusalem city walls historical engraving 19th century",
+        "caption": "Persian forces advance toward Roman Palestine and Jerusalem."
+      },
+      {
+        "narration": "In 540 AD, King Khosrow I bypassed minor garrisons and advanced directly toward Antioch, the wealthiest metropolis of Roman Syria.",
+        "search": "antioch ancient city map engraving",
+        "caption": "Khosrow targets Antioch, the jewel of Roman Syria in 540 AD."
+      },
+      {
+        "narration": "Byzantine garrison commanders Justin and Liberius rushed to reinforce Antioch's massive stone ramparts with only six thousand soldiers.",
+        "search": "byzantine soldiers defense city walls 6th century illustration",
+        "caption": "Byzantine forces assemble atop Antioch's massive stone fortification walls."
+      },
+      {
+        "narration": "Panic spread through the defensive lines when a wooden defensive scaffold collapsed over a steep gorge, killing dozens of Roman defenders.",
+        "search": "ancient siege battlefield wall breach miniature manuscript",
+        "caption": "Structural failure triggers panic among Antioch's outnumbered Roman defenders."
+      },
+      {
+        "narration": "Sasanian shock infantry breached the city gates in 540 AD, pouring into Antioch's marble avenues and overwhelming the garrison.",
+        "search": "sasanian persian cavalry attack oil painting",
+        "caption": "Persian forces storm through the breached gates of Antioch."
+      },
+      {
+        "narration": "Rather than burning the metropolis to the ground, Khosrow ordered his troops to halt the slaughter and secure the city intact.",
+        "search": "king khosrow i sasanian coin face close up",
+        "caption": "King Khosrow I halts the destruction of captured Antioch."
+      },
+      {
+        "narration": "Persian royal architects entered Antioch with parchment and measuring rods, systematically mapping every public bath, theater, and street layout.",
+        "search": "ancient Roman city architectural floor plan blueprint engraving",
+        "caption": "Sasanian architects blueprint Antioch's streets, theaters, and public baths."
+      },
+      {
+        "narration": "The surveyors documented the exact dimensions of Antioch's famous hippodrome, public fountains, and residential villas.",
+        "search": "ancient roman hippodrome circus maximum engraving",
+        "caption": "Architects measure the exact dimensions of Antioch's public hippodrome."
+      },
+      {
+        "narration": "As thousands of captured Roman citizens were rounded up in chains, Khosrow's true intention for Antioch's blueprints remained a mystery to both empires.",
+        "search": "roman prisoners of war chains illustration manuscript",
+        "caption": "Thousands of Roman citizens await forced deportation into Sasanian territory."
+      },
+      {
+        "narration": "In 540 AD, thousands of Roman captives were marched over a thousand miles into the Persian interior.",
+        "search": "sasanian empire relief carving marching captives stone",
+        "caption": "A thousand-mile forced march into the Persian heartland."
+      },
+      {
+        "narration": "Near the Sasanian capital of Ctesiphon, King Khosrow I ordered masons to construct an entire metropolis from Antioch's blueprints.",
+        "search": "king khosrow I sasanian relief carving portrait",
+        "caption": "Khosrow orders a new city near Ctesiphon."
+      },
+      {
+        "narration": "Persian builders recreated Antioch's street grid, public bathhouses, and a full-scale hippodrome for chariot racing.",
+        "search": "ancient roman public bath floor mosaic engraving",
+        "caption": "Exact replicas of Roman baths and hippodromes."
+      },
+      {
+        "narration": "Khosrow officially christened the city Weh Antiok Khosrow, meaning 'Khosrow Built a Better Antioch.'",
+        "search": "ancient pahlavi script carved stone inscription photo",
+        "caption": "Weh Antiok Khosrow: Khosrow built a better Antioch."
+      },
+      {
+        "narration": "Exhausted Roman captives arrived to find their former homes, neighborhoods, and amenities duplicated down to the tile.",
+        "search": "ancient antioch city map engraving illustration",
+        "caption": "Captives discover their former homes rebuilt."
+      },
+      {
+        "narration": "Rather than enslaving the Romans, Khosrow made them free citizens of his replica city and funded their chariot races.",
+        "search": "ancient roman chariot race mosaic panel",
+        "caption": "Roman captives granted full freedom inside the replica city."
+      },
+      {
+        "narration": "Word of this living monument to Roman defeat reached Emperor Justinian I, inflicting the ultimate psychological humiliation on Constantinople.",
+        "search": "emperor justinian I mosaic portrait close up ravenna",
+        "caption": "Emperor Justinian suffers the ultimate geopolitical humiliation."
+      },
+      {
+        "narration": "To stop Khosrow's taunting campaign, Rome agreed to pay over five thousand pounds of gold in immediate tribute.",
+        "search": "byzantine gold solidus coin emperor justinian portrait",
+        "caption": "Rome pays five thousand pounds of gold in tribute."
+      },
+      {
+        "narration": "Inside Weh Antiok Khosrow, King Khosrow I declared that Roman captives were subjects under his personal protection, exempt from standard Sasanian feudal laws.",
+        "search": "sasanian king on throne ancient relief carving",
+        "caption": "Roman citizens granted direct royal protection under Sasanian law."
+      },
+      {
+        "narration": "The massive annual payments of gold demanded by the 540 AD treaty drained the Byzantine treasury, forcing Emperor Justinian I to raise heavy taxes across his remaining provinces.",
+        "search": "byzantine solidus gold coin Emperor Justinian",
+        "caption": "Heavy Byzantine taxes funded ongoing Sasanian tribute payments."
+      },
+      {
+        "narration": "Foreign envoys visiting the Sasanian capital of Ctesiphon were intentionally paraded through the replica city to witness Roman citizens flourishing under Persian rule.",
+        "search": "taq kasra arch of ctesiphon ruins old photograph",
+        "caption": "Foreign ambassadors paraded through Khosrow's replica Antioch."
+      },
+      {
+        "narration": "Refusing to accept permanent humiliation, Justinian opened a new front in Lazica along the Black Sea coast in 541 AD to cut Persian access to the sea.",
+        "search": "lazica ancient fortress black sea manuscript illustration",
+        "caption": "Justinian opens the Lazic War along the Black Sea in 541 AD."
+      },
+      {
+        "narration": "Just as Rome attempted to rebuild its eastern defenses, the devastating Plague of Justinian struck Constantinople in 542 AD, killing thousands daily and crippling Roman military capacity.",
+        "search": "bubonic plague constantinople byzantine medieval manuscript miniature",
+        "caption": "The 542 AD plague devastates Constantinople's population and military."
+      },
+      {
+        "narration": "Exploiting Rome's outbreak, Khosrow marched on the fortress city of Edessa in 544 AD, demanding extortionate ransoms to spare it from Antioch's fate.",
+        "search": "ancient city walls of edessa mosaic illustration",
+        "caption": "Khosrow demands massive ransom during the 544 AD siege of Edessa."
+      },
+      {
+        "narration": "When Byzantine diplomats pleaded for the return of Antioch's displaced citizens, Khosrow refused, stating they had already been provided a superior homeland.",
+        "search": "persian and roman diplomats ancient relief carving",
+        "caption": "Khosrow refuses diplomats' demands to return Antioch's citizens."
+      },
+      {
+        "narration": "Decades of relentless warfare culminated in the Fifty-Year Peace Treaty of 562 AD, where Rome officially recognized Sasanian dominance in exchange for keeping the replica city intact.",
+        "search": "byzantine imperial manuscript scroll document",
+        "caption": "The 562 AD treaty solidifies Sasanian victory and tribute obligations."
+      },
+      {
+        "narration": "The captives of Weh Antiok Khosrow were granted special legal protections directly under Khosrow I's royal charter, exempting them from standard Sasanian taxes.",
+        "search": "sasanian empire royal decree manuscript illustration",
+        "caption": "Khosrow granted the Roman captives special legal protections."
+      },
+      {
+        "narration": "Roman artisans were commissioned to construct hippodromes and Christian churches, creating an extraordinary enclave of Byzantine culture within Zoroastrian Persia.",
+        "search": "byzantine mosaic chariot race constantinople antique artwork",
+        "caption": "Byzantine culture flourished deep inside Zoroastrian Sasanian territory."
+      },
+      {
+        "narration": "To maintain the humiliating annual tribute payments, Emperor Justinian severely drained the imperial treasury, sparking internal unrest across Constantinople.",
+        "search": "emperor justinian coin gold solidus close up",
+        "caption": "Annual tribute payments exhausted the Byzantine imperial treasury."
+      },
+      {
+        "narration": "News of the replica city spread throughout the Levant, leading some Roman subjects to question whether Sasanian patronage offered greater security than Justinian's reign.",
+        "search": "ancient constantinople harbor historical oil painting",
+        "caption": "Disillusioned Roman subjects weighed the stability of Sasanian rule."
+      },
+      {
+        "narration": "King Khosrow I routinely guided foreign envoys from Asia through the streets of Weh Antiok Khosrow to display captured Romans living under Persian authority.",
+        "search": "sasanian king khosrow i silver drachm coin",
+        "caption": "Foreign ambassadors witnessed Roman captives under Persian royal patronage."
+      },
+      {
+        "narration": "The loss and replica construction of Antioch permanently shattered Rome's perception of strategic invincibility along the Syrian frontier.",
+        "search": "roman syria antioch ancient map engraving",
+        "caption": "The fall of Antioch shattered Rome's eastern frontier defense."
+      },
+      {
+        "narration": "For generations following Khosrow's death, Weh Antiok Khosrow remained populated, preserving its distinct Greco-Roman urban layout in central Mesopotamia.",
+        "search": "mesopotamia ancient ruin ctesiphon arch photograph",
+        "caption": "Weh Antiok Khosrow endured for centuries in central Mesopotamia."
+      },
+      {
+        "narration": "The psychological humiliation of the replica city intensified the existential grudge between the two empires, setting the stage for seventh-century wars.",
+        "search": "byzantine sasanian battle ancient miniature manuscript",
+        "caption": "The bitter rivalry set the stage for total war in the 7th century."
+      },
+      {
+        "narration": "Did a fake city destroy two ancient superpowers? The psychological obsession born at Weh Antiok Khosrow sparked a final cycle of apocalyptic war.",
+        "search": "byzantine persian battle medieval manuscript illumination",
+        "caption": "Did a fake city destroy two ancient empires?"
+      },
+      {
+        "narration": "Decades after Khosrow I's death, internal rebellion in Constantinople shattered the fragile peace between the rival empires.",
+        "search": "emperor maurice byzantine coin gold solidus",
+        "caption": "Peace between Rome and Persia collapsed in 602 AD."
+      },
+      {
+        "narration": "In 602 AD, King Khosrow II launched a full-scale invasion, capturing the original city of Antioch to avenge his fallen Byzantine ally.",
+        "search": "khosrow ii relief carving taq i bostan",
+        "caption": "Khosrow II invaded Roman Syria in 602 AD."
+      },
+      {
+        "narration": "Sasanian armies conquered Jerusalem in 614 AD and pushed into Egypt, reducing Byzantine territory to a desperate rump state.",
+        "search": "siege of jerusalem medieval manuscript illustration",
+        "caption": "Sasanian forces captured Jerusalem in 614 AD."
+      },
+      {
+        "narration": "Emperor Heraclius gambled everything by melting down church gold to lead a counter-stroke into the Persian heartland.",
+        "search": "emperor heraclius coin gold solidus close up",
+        "caption": "Heraclius launched a counter-offensive into Persia."
+      },
+      {
+        "narration": "At the Battle of Nineveh in 627 AD, Roman legions decisively crushed the main Sasanian field army.",
+        "search": "battle of nineveh oil painting",
+        "caption": "Byzantine forces defeated the Sasanians in 627 AD."
+      },
+      {
+        "narration": "Both empires emerged from decades of continuous warfare utterly bankrupt, depopulated, and militarily exhausted.",
+        "search": "ruins of ctesiphon arch of khosrow 19th century engraving",
+        "caption": "Decades of war left both empires utterly exhausted."
+      },
+      {
+        "narration": "By 637 AD, Arab armies swept out of the desert, conquering both original Antioch and its Persian replica in a single stroke.",
+        "search": "battle of al qadisiyyah oil painting",
+        "caption": "Early Islamic conquests annexed both cities by 637 AD."
+      },
+      {
+        "narration": "In 545 AD, Emperor Justinian agreed to pay Khosrow over five thousand pounds of gold in tribute simply to halt the Persian army's advance.",
+        "search": "Emperor Justinian Byzantine mosaic Ravenan art",
+        "caption": "Justinian paid 5,000 pounds of gold in tribute."
+      },
+      {
+        "narration": "Within Weh Antiok Khosrow, former Roman citizens enjoyed imperial bathhouses, hippodrome races, and complete religious freedom under Sasanian protection.",
+        "search": "Roman hippodrome chariot race ancient mosaic artwork",
+        "caption": "Roman captives received full freedom inside the Persian replica."
+      },
+      {
+        "narration": "The unrelenting wars between Khosrow I and Justinian drained the treasuries of both empires, leaving their borders permanently unstable.",
+        "search": "Byzantine Persian war ancient manuscript illumination battle",
+        "caption": "Decades of warfare depleted both imperial treasuries."
+      },
+      {
+        "narration": "By 637 AD, the emerging Rashidun Caliphate swept through the Near East, capturing both original Antioch and its Persian twin in a matter of months.",
+        "search": "7th century Middle East old map engraving",
+        "caption": "By 637 AD, Arab conquests engulfed both cities."
+      },
+      {
+        "narration": "Today, only scattered brick foundations near the Arch of Ctesiphon in modern Iraq remain of Khosrow's extraordinary replica city.",
+        "search": "Taq Kasra Ctesiphon arch ruin 19th century engraving",
+        "caption": "Ruins near Ctesiphon mark the site of Khosrow's city."
+      },
+      {
+        "narration": "Archaeological excavations in the twentieth century unearthed Roman-style mosaics deep in Persian soil, confirming Khosrow's blueprint layout.",
+        "search": "Antioch Roman mosaic floor artifact illustration",
+        "caption": "Archaeology confirmed the identical Roman layout."
+      },
+      {
+        "narration": "Khosrow I turned military victory into psychological warfare, crafting an architectural mockery unequaled in ancient history.",
+        "search": "King Khosrow I Sasanian silver coin profile portrait",
+        "caption": "Khosrow executed history's ultimate architectural insult."
+      },
+      {
+        "narration": "Ultimately, Rome did not just lose a metropolis—Emperor Justinian was forced to fund the very replica city built to mock him.",
+        "search": "Byzantine solidus gold coin Emperor Justinian profile",
+        "caption": "Rome ultimately funded the city built to mock itself."
+      },
+      {
+        "narration": "In 540 AD, Persia built a city to mock Rome.",
+        "search": "king khosrow i sasanian coin portrait",
+        "caption": "A city built entirely to mock an empire"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T20:32:49.419116+00:00",
+    "updated_at": "2026-11-22T20:50:23.319352+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-22T20:37:05.979247+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "4154 chars",
+        "at": "2026-11-22T20:37:38.344890+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "256.6s en-US-GuyNeural 41 cau",
+        "at": "2026-11-22T20:38:01.318008+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T20:38:06.657441+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-22T20:45:20.295374+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T20:45:20.325765+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 256.6s 192230281 bytes",
+        "at": "2026-11-22T20:50:23.049589+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "7 chapters",
+        "at": "2026-11-22T20:50:23.095735+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T20:50:23.319332+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37515036/pexels-photo-37515036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39553999/pexels-photo-39553999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8721395/pexels-photo-8721395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9617369/pexels-photo-9617369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37556161/pexels-photo-37556161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36423280/pexels-photo-36423280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29707031/pexels-photo-29707031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35431750/pexels-photo-35431750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37386819/pexels-photo-37386819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7245158/pexels-photo-7245158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38863311/pexels-photo-38863311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32386625/pexels-photo-32386625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14816159/pexels-photo-14816159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760102/pexels-photo-7760102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10351738/pexels-photo-10351738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6457911/pexels-photo-6457911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20975810/pexels-photo-20975810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944667/pexels-photo-37944667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37284120/pexels-photo-37284120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36453434/pexels-photo-36453434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7767496/pexels-photo-7767496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40718514/pexels-photo-40718514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760099/pexels-photo-7760099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9487794/pexels-photo-9487794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32741364/pexels-photo-32741364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29032344/pexels-photo-29032344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12924949/pexels-photo-12924949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081433/pexels-photo-20081433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19063149/pexels-photo-19063149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28380607/pexels-photo-28380607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8088601/pexels-photo-8088601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38430957/pexels-photo-38430957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31540930/pexels-photo-31540930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39143920/pexels-photo-39143920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397770/pexels-photo-16397770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7214230/pexels-photo-7214230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5583253/pexels-photo-5583253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876911/pexels-photo-35876911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7386039/pexels-photo-7386039.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760096/pexels-photo-7760096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36765191/pexels-photo-36765191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709173/pexels-photo-35709173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30037578/pexels-photo-30037578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6493630/pexels-photo-6493630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709176/pexels-photo-35709176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944672/pexels-photo-37944672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23891904/pexels-photo-23891904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19688773/pexels-photo-19688773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24242378/pexels-photo-24242378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31183409/pexels-photo-31183409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38941862/pexels-photo-38941862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38718622/pexels-photo-38718622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31171039/pexels-photo-31171039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760093/pexels-photo-7760093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5986498/pexels-photo-5986498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40918344/pexels-photo-40918344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944682/pexels-photo-37944682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19673893/pexels-photo-19673893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28966585/pexels-photo-28966585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34926378/pexels-photo-34926378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38191415/pexels-photo-38191415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14200719/pexels-photo-14200719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37539478/pexels-photo-37539478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12825635/pexels-photo-12825635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32040708/pexels-photo-32040708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38431315/pexels-photo-38431315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18979896/pexels-photo-18979896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14981265/pexels-photo-14981265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19045470/pexels-photo-19045470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15595132/pexels-photo-15595132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29860049/pexels-photo-29860049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37103615/pexels-photo-37103615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35031603/pexels-photo-35031603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20409628/pexels-photo-20409628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24592759/pexels-photo-24592759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29683765/pexels-photo-29683765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9901516/pexels-photo-9901516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944669/pexels-photo-37944669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3933541/pexels-photo-3933541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b1c3174219",
     "kind": "short",
     "channel": "Channel3",
