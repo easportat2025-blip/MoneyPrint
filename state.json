@@ -1,5 +1,161 @@
 [
   {
+    "id": "ee979b67ed",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Courtesan Who Saved the Roman Empire",
+    "idea": {
+      "title": "The Courtesan Who Saved the Roman Empire",
+      "hook": "When Emperor Justinian prepared to flee his burning capital, Empress Theodora uttered a shocking sentence that unexpectedly saved the empire.",
+      "beats": [
+        "In 532 AD, the violent Nika Riots trapped Emperor Justinian inside his palace while Constantinople burned.",
+        "Terrified of his own subjects, Justinian and his court prepared ships to escape into shame and exile.",
+        "Empress Theodora refused to run, declaring that royal purple makes the finest burial shroud.",
+        "Ashamed by her immense courage, Justinian stayed, ordered his generals to quell the revolt, and secured his legendary reign."
+      ],
+      "keywords": [
+        "Byzantine Empress Theodora portrait",
+        "Justinian Constantinople map",
+        "Nika Riots illustration",
+        "Belisarius mosaic",
+        "ancient palace engraving"
+      ],
+      "tags": [
+        "history",
+        "byzantineempire",
+        "empresseodora",
+        "romanhistory",
+        "ancienthistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 532 AD, a former actress saved the Roman Empire.",
+        "search": "Empress Theodora mosaic portrait",
+        "caption": "How a former actress saved the Roman Empire in 532 AD."
+      },
+      {
+        "narration": "Without her intervention, the Eastern Roman Empire would have collapsed in a single night.",
+        "search": "Byzantine Constantinople map engraving",
+        "caption": "The empire stood on the brink of total collapse."
+      },
+      {
+        "narration": "In January 532 AD, violent factional rioting erupted inside the Hippodrome of Constantinople.",
+        "search": "Constantinople Hippodrome historical reconstruction illustration",
+        "caption": "January 532 AD: The violent Nika Riots break out."
+      },
+      {
+        "narration": "The mob set fire to civic buildings, trapping Emperor Justinian I inside his palace complex.",
+        "search": "Constantinople burning historical oil painting",
+        "caption": "Emperor Justinian I is trapped inside his burning palace."
+      },
+      {
+        "narration": "Terrified of his subjects, Justinian ordered imperial ships prepared to escape into exile.",
+        "search": "Ancient Roman imperial galley illustration",
+        "caption": "Justinian orders imperial ships prepared to flee Constantinople."
+      },
+      {
+        "narration": "Raised in poverty as a performer, Empress Theodora confronted the royal council and refused to run.",
+        "search": "Empress Theodora Ravenna mosaic detail",
+        "caption": "Empress Theodora refuses to flee the burning capital."
+      },
+      {
+        "narration": "Historian Procopius recorded her declaration that imperial purple makes the finest burial shroud.",
+        "search": "Procopius Greek manuscript page",
+        "caption": "Theodora declares royal purple is the finest burial shroud."
+      },
+      {
+        "narration": "Shamed by her courage, Justinian canceled the flight and ordered General Belisarius into action.",
+        "search": "General Belisarius Byzantine mosaic portrait",
+        "caption": "Justinian cancels his escape and commands General Belisarius."
+      },
+      {
+        "narration": "General Belisarius trapped thirty thousand rebels inside Constantinople's Hippodrome in 532 AD, crushing the insurrection with ruthless force.",
+        "search": "Nika Riots Hippodrome battle historical engraving",
+        "caption": "Belisarius crushed 30,000 rebels inside the Hippodrome in 532 AD"
+      },
+      {
+        "narration": "The decisive victory secured Justinian's throne, paving the way for legal reforms and the construction of the Hagia Sophia.",
+        "search": "Hagia Sophia Constantinople interior engraving",
+        "caption": "Preserving the empire allowed Justinian to build the Hagia Sophia"
+      },
+      {
+        "narration": "Without the resolve of Empress Theodora, a former courtesan, the Eastern Roman Empire would have fallen six centuries early.",
+        "search": "Empress Theodora mosaic portrait theodoras",
+        "caption": "Empress Theodora's defiance saved the Roman Empire from collapsing"
+      },
+      {
+        "narration": "A former courtesan saved the Roman Empire from destruction.",
+        "search": "Empress Theodora mosaic portrait ravenna",
+        "caption": "A former courtesan saved the Roman Empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T22:42:05.097733+00:00",
+    "updated_at": "2026-11-22T22:44:31.039494+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-22T22:42:35.718436+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "348 chars (cat 307 de vua 55s)",
+        "at": "2026-11-22T22:42:56.987694+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.0s en-US-GuyNeural 6 cau",
+        "at": "2026-11-22T22:43:00.435913+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T22:43:01.263263+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-22T22:43:46.555322+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T22:43:46.582593+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.0s 17420460 bytes",
+        "at": "2026-11-22T22:44:30.854332+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T22:44:31.039478+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37966897/pexels-photo-37966897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12261491/pexels-photo-12261491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24429694/pexels-photo-24429694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30008723/pexels-photo-30008723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7336119/pexels-photo-7336119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25547348/pexels-photo-25547348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12039709/pexels-photo-12039709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32502321/pexels-photo-32502321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15774329/pexels-photo-15774329.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16368046/pexels-photo-16368046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35411038/pexels-photo-35411038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9523803/pexels-photo-9523803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7e87e94b1f",
     "kind": "short",
     "channel": "Channel3",
