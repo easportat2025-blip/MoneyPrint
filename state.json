@@ -1,5 +1,161 @@
 [
   {
+    "id": "bbfc2b68ee",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 18-Year-Old King Who Humiliated 3 Empires",
+    "idea": {
+      "title": "The 18-Year-Old King Who Humiliated 3 Empires",
+      "hook": "King Charles XII of Sweden was only 18 when three massive empires attacked him at once—and his ruthless revenge shocked all of Europe.",
+      "beats": [
+        "Russia, Denmark, and Poland secretly allied to crush Sweden, expecting an easy victory against a teenage monarch.",
+        "Charles marched his troops into a blinding blizzard at Narva, destroying a Russian army four times his size.",
+        "For nearly a decade, the young king remained undefeated in battle, striking deep terror into rival capitals.",
+        "However, an obsession with total victory led him into frozen Russia, where a single tactical mistake ruined his empire."
+      ],
+      "keywords": [
+        "Charles XII Sweden portrait",
+        "Battle of Narva engraving",
+        "Great Northern War map",
+        "Swedish empire historical painting",
+        "18th century battle artwork"
+      ],
+      "tags": [
+        "history",
+        "historydocumentary",
+        "charlesxii",
+        "militaryhistory",
+        "sweden"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1700, an eighteen-year-old king crushed three massive empires.",
+        "search": "Charles XII of Sweden oil painting portrait",
+        "caption": "An 18-year-old king humiliated three empires."
+      },
+      {
+        "narration": "Russia, Denmark, and Poland secretly allied in 1700, expecting an easy victory over young King Charles XII of Sweden.",
+        "search": "Great Northern War map 18th century engraving",
+        "caption": "Three empires allied to destroy Sweden in 1700."
+      },
+      {
+        "narration": "Instead of negotiating, Charles launched a surprise naval assault, knocking Denmark out of the conflict within weeks.",
+        "search": "Landing at Humlebaek 1700 historical oil painting",
+        "caption": "Charles struck first, forcing Denmark's rapid surrender."
+      },
+      {
+        "narration": "He then marched eight thousand Swedish soldiers into a blinding blizzard at Narva to face forty thousand Russians.",
+        "search": "Battle of Narva 1700 historical oil painting",
+        "caption": "Outnumbered four to one in a blizzard."
+      },
+      {
+        "narration": "Using the storm as cover, Charles obliterated Tsar Peter the Great’s forces, terrifying rival European monarchies.",
+        "search": "Peter the Great portrait oil painting",
+        "caption": "Russia's army was shattered at Narva."
+      },
+      {
+        "narration": "For nearly a decade, Charles remained undefeated in battle, invading Poland and dethroning its monarch.",
+        "search": "Augustus II the Strong portrait oil painting",
+        "caption": "Undefeated for a decade across Europe."
+      },
+      {
+        "narration": "Obsessed with total conquest, Charles rejected peace offers and marched into the brutal Russian winter of 1708.",
+        "search": "Swedish army winter 18th century oil painting",
+        "caption": "He marched deep into the frozen Russian wilderness."
+      },
+      {
+        "narration": "At Poltava in 1709, a catastrophic defeat ruined his army, collapsing Sweden's empire forever.",
+        "search": "Battle of Poltava 1709 oil painting",
+        "caption": "One mistake destroyed the Swedish Empire forever."
+      },
+      {
+        "narration": "After Poltava, Charles XII spent five years in Ottoman exile before returning to Sweden in 1714 to raise new armies.",
+        "search": "Charles XII of Sweden oil painting portrait years",
+        "caption": "Five years of Ottoman exile failed to break his resolve"
+      },
+      {
+        "narration": "On November 30, 1718, at the siege of Fredriksten, a fatal bullet struck the thirty-six-year-old king through the head.",
+        "search": "Death of Charles XII oil painting",
+        "caption": "A fatal bullet at Fredriksten in 1718 ended his life"
+      },
+      {
+        "narration": "The teenage monarch who once humiliated three empires left Sweden bankrupt and stripped of its territory, proving unyielding ambition causes total collapse.",
+        "search": "Great Northern War map engraving 18th century",
+        "caption": "Unchecked ambition reduced Sweden's empire to total ruin"
+      },
+      {
+        "narration": "An 18-year-old king faced three empires alone.",
+        "search": "Charles XII Sweden portrait oil painting",
+        "caption": "An 18-year-old monarch surrounded by three empires"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T07:54:32.421299+00:00",
+    "updated_at": "2026-11-22T07:57:11.603379+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-22T07:54:56.006413+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "414 chars (cat 222 de vua 55s)",
+        "at": "2026-11-22T07:55:05.855817+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-22T07:55:09.380841+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T07:55:10.110571+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-22T07:56:30.379567+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T07:56:30.401079+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.5s 15217293 bytes",
+        "at": "2026-11-22T07:57:11.463439+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T07:57:11.603368+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17747085/pexels-photo-17747085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29811137/pexels-photo-29811137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28901496/pexels-photo-28901496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9267459/pexels-photo-9267459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29797822/pexels-photo-29797822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7719091/pexels-photo-7719091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268586/pexels-photo-9268586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4729067/pexels-photo-4729067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17404707/pexels-photo-17404707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29412597/pexels-photo-29412597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31130338/pexels-photo-31130338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33351717/pexels-photo-33351717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "f39707027e",
     "kind": "short",
     "channel": "Channel3",
