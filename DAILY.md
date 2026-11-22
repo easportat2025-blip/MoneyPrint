@@ -1,4 +1,4 @@
-# Daily ping 21/11/2026
+# Daily ping 22/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Tại sao ly cà phê 3 giờ chiều âm thầm hủy hoại đêm của  :: token refresh failed: 400 {
+- Tại sao đánh răng ngay sau khi ăn sáng âm thầm hại răng :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Tragic Betrayal That Broke King Henry II :: token refresh failed: 400 {
+- Napoleon III’s Fatal Mistake That Ended His Empire :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Ottoman Sultan Locked in a Room for 39 Years :: token refresh failed: 400 {
+- The Empress Who Overthrew Her Husband Over a Rat :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
