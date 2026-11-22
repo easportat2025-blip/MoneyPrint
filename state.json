@@ -1,5 +1,162 @@
 [
   {
+    "id": "f332fb39b1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Hero Who Saved Greece Died Serving Persia",
+    "idea": {
+      "title": "The Hero Who Saved Greece Died Serving Persia",
+      "hook": "Themistocles saved Athens from total destruction, but his own citizens betrayed him—forcing Greece's greatest hero to die serving the Persian King.",
+      "beats": [
+        "At the Battle of Salamis, Themistocles outsmarted the Persian navy and saved Greek civilization.",
+        "Jealous Athenian political rivals falsely accused him of treason, forcing him into permanent exile.",
+        "Hunted by his former countrymen, he fled straight to Persia—the super-empire he once defeated.",
+        "King Artaxerxes welcomed the legendary strategist, granting him wealth and governorship over Persian cities.",
+        "He died far from home, a tragic symbol of democracy's ultimate ingratitude toward its savior."
+      ],
+      "keywords": [
+        "Themistocles bust",
+        "Battle of Salamis painting",
+        "Ancient Athens engraving",
+        "Artaxerxes Persian portrait",
+        "Ancient Greece map"
+      ],
+      "tags": [
+        "ancient greece",
+        "themistocles",
+        "persian war",
+        "athens history",
+        "military history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Greece’s greatest hero died serving his worst enemy.",
+        "search": "themistocles marble bust statue ancient greece",
+        "caption": "Greece’s greatest hero died serving his worst enemy."
+      },
+      {
+        "narration": "In 480 BC, Persian King Xerxes launched a massive invasion to conquer all of Greece.",
+        "search": "xerxes persian army march ancient engraving",
+        "caption": "In 480 BC, Persia invaded Greece with a massive force."
+      },
+      {
+        "narration": "Athenian general Themistocles devised a daring strategy, baiting the Persian fleet into narrow waters.",
+        "search": "battle of salamis ancient greece naval battle oil painting",
+        "caption": "General Themistocles lured the Persian fleet into a trap."
+      },
+      {
+        "narration": "The maneuver shattered the Persian navy at Salamis, saving Greek democracy from total destruction.",
+        "search": "greek trireme naval battle ancient history painting",
+        "caption": "The Greek navy destroyed the invader fleet at Salamis."
+      },
+      {
+        "narration": "Instead of eternal gratitude, jealous Athenian political rivals turned public opinion against their savior.",
+        "search": "ancient athens acropolis engraving 19th century",
+        "caption": "Jealous political rivals accused their savior of treason."
+      },
+      {
+        "narration": "Voted into permanent exile through ostracism in 471 BC, hit squads hunted him across Europe.",
+        "search": "ostracism pottery shard ostrakon ancient athens photo",
+        "caption": "Exiled in 471 BC, hit squads hunted him relentlessly."
+      },
+      {
+        "narration": "Running out of options, the fallen general made a desperate, unthinkable decision.",
+        "search": "ancient greece map historical engraving",
+        "caption": "The hunted strategist made an unthinkable choice to survive."
+      },
+      {
+        "narration": "He traveled directly to Persia, offering his strategic mind to King Artaxerxes.",
+        "search": "artaxerxes persian king portrait illustration",
+        "caption": "He surrendered directly to Persian King Artaxerxes."
+      },
+      {
+        "narration": "In 465 BC, King Artaxerxes welcomed the legendary strategist, granting him immense wealth and governorship over Persian cities.",
+        "search": "Artaxerxes Persian king ancient relief sculpture",
+        "caption": "Artaxerxes made Greece's ultimate savior a Persian governor"
+      },
+      {
+        "narration": "When Persia later demanded he command a naval campaign against his homeland, Themistocles faced an agonizing choice.",
+        "search": "Themistocles bust statue ancient marble",
+        "caption": "Commanded to attack Athens, he faced an impossible dilemma"
+      },
+      {
+        "narration": "He died in exile around 459 BC, forever remembered as the savior of Greece who died serving Persia.",
+        "search": "Ancient Athens Acropolis oil painting",
+        "caption": "The hero of Salamis died serving the empire he defeated"
+      },
+      {
+        "narration": "Greece’s greatest war hero died serving his deadliest enemy.",
+        "search": "Themistocles marble bust statue ancient greece",
+        "caption": "Greece’s greatest hero died serving his mortal enemy."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T11:46:07.091507+00:00",
+    "updated_at": "2026-11-22T11:48:13.594340+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-22T11:46:58.852082+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "398 chars (cat 243 de vua 55s)",
+        "at": "2026-11-22T11:47:10.944690+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.1s en-US-GuyNeural 4 cau",
+        "at": "2026-11-22T11:47:13.321286+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T11:47:13.948695+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-22T11:47:38.883175+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-22T11:47:38.902202+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.1s 17685811 bytes",
+        "at": "2026-11-22T11:48:13.472194+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T11:48:13.594326+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38350638/pexels-photo-38350638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33474923/pexels-photo-33474923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16470355/pexels-photo-16470355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31538127/pexels-photo-31538127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18334384/pexels-photo-18334384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3814504/pexels-photo-3814504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32466284/pexels-photo-32466284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33163977/pexels-photo-33163977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33773236/pexels-photo-33773236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38035897/pexels-photo-38035897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14437086/pexels-photo-14437086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39386244/pexels-photo-39386244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bbfc2b68ee",
     "kind": "short",
     "channel": "Channel2",
