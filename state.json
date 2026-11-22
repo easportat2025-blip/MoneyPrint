@@ -1,5 +1,167 @@
 [
   {
+    "id": "b1c3174219",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao vừa ăn vừa lướt điện thoại âm thầm làm bạn tăng cân?",
+    "idea": {
+      "title": "Tại sao vừa ăn vừa lướt điện thoại âm thầm làm bạn tăng cân?",
+      "hook": "Hầu hết chúng ta đều có thói quen vừa ăn vừa lướt điện thoại, nhưng não bạn đang bị đánh lừa âm thầm khiến bạn nạp thừa hàng trăm calo.",
+      "beats": [
+        "Khi mắt bận tập trung vào màn hình, não bộ sẽ giảm bớt khả năng xử lý tín hiệu vị giác và độ đầy của dạ dày.",
+        "Tín hiệu từ hormone báo no Leptin bị trì hoãn truyền tới não, khiến bạn ăn nhiều hơn 15-20% lượng thức ăn cần thiết.",
+        "Việc phân tâm làm giảm tiết enzyme tiêu hóa, khiến thức ăn chuyển hóa chậm hơn và dễ tích tụ thành mỡ thừa.",
+        "Não cũng không lưu lại ký ức 'đã ăn no', dẫn đến việc bạn lại thèm ăn vặt chỉ sau 1 tiếng."
+      ],
+      "keywords": [
+        "person eating scrolling phone",
+        "junk food distraction screen",
+        "brain digestive system animation",
+        "overeating habit desk",
+        "stomach hormone illustration"
+      ],
+      "tags": [
+        "#suckhoe",
+        "#thoiquen",
+        "#meodoisong",
+        "#khoahoc",
+        "#giamcan"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Xem điện thoại lúc ăn làm bạn tăng thừa 20% calo.",
+        "search": "hoat hinh 3d nguoi vua an vua luot dien thoai",
+        "caption": "Xem điện thoại khi ăn làm tăng 20% calo"
+      },
+      {
+        "narration": "Khi mắt tập trung vào màn hình, não bộ sẽ tự động giảm khả năng xử lý vị giác.",
+        "search": "mo phang 3d nao bo va tin hieu thanh kinh",
+        "caption": "Màn hình làm giảm xử lý vị giác"
+      },
+      {
+        "narration": "Dạ dày bắt đầu đầy lên nhưng trung khu thần kinh lại hoàn toàn không ghi nhận.",
+        "search": "hoat hinh 3d da day va thuc an",
+        "caption": "Dạ dày đầy nhưng não không ghi nhận"
+      },
+      {
+        "narration": "Tín hiệu từ hormone báo no Leptin bị trì hoãn truyền tới não bộ.",
+        "search": "do hoa chuyen dong hormone va mach mau",
+        "caption": "Hormone báo no Leptin bị trì hoãn"
+      },
+      {
+        "narration": "Con người tiếp tục gắp thêm thức ăn dù cơ thể đã nạp đủ năng lượng.",
+        "search": "hoat hinh 3d nguoi an qua nhieu thuc an",
+        "caption": "Tiếp tục ăn dù đã đủ năng lượng"
+      },
+      {
+        "narration": "Sự phân tâm làm giảm tiết enzyme tiêu hóa khiến quá trình trao đổi chất chậm lại.",
+        "search": "mo phang 3d enzyme va thuc an trong da day",
+        "caption": "Giảm enzyme khiến tiêu hóa chậm lại"
+      },
+      {
+        "narration": "Thức ăn không được chuyển hóa kịp thời sẽ nhanh chóng tích tụ thành mỡ thừa.",
+        "search": "hoat hinh 3d te bao mo tich tu",
+        "caption": "Thức ăn thừa tích tụ thành mỡ"
+      },
+      {
+        "narration": "Não không lưu ký ức đã ăn no làm bạn lại thèm ăn vặt sau một giờ.",
+        "search": "hoat hinh 3d nguoi them an vat ban dem",
+        "caption": "Lại thèm ăn vặt chỉ sau 1 giờ"
+      },
+      {
+        "narration": "Kết hợp cả hai yếu tố này, bạn không chỉ ăn thừa 20% bữa chính mà còn nạp thêm một bữa phụ không cần thiết.",
+        "search": "hoat hinh 3d nguoi an vat va xem dien thoai tren sofa",
+        "caption": "Ăn thừa 20% bữa chính cộng thêm bữa phụ không cần thiết"
+      },
+      {
+        "narration": "Tính trung bình mỗi ngày, thói quen vừa ăn vừa lướt màn hình khiến bạn nạp dư từ 300 đến 500 calo âm thầm.",
+        "search": "do hoa 3d mo phong calo tich tu thanh mo bung",
+        "caption": "Nạp dư 300 đến 500 calo âm thầm mỗi ngày"
+      },
+      {
+        "narration": "Nguy hiểm hơn, não bộ sẽ hình thành phản xạ có điều kiện: hễ bật điện thoại là cơ thể tự động phát tín hiệu thèm ăn.",
+        "search": "mo hinh 3d nao bo phat sang dopamine lien ket dien thoai",
+        "caption": "Não tạo phản xạ tự động thèm ăn khi bật điện thoại"
+      },
+      {
+        "narration": "Để cắt đứt vòng lặp này, hãy thử cất điện thoại xa tầm tay ít nhất 15 phút trước khi bắt đầu bữa ăn.",
+        "search": "hoat hinh isometric cat dien thoai vao hop va ban an",
+        "caption": "Cất điện thoại xa tầm tay 15 phút trước bữa ăn"
+      },
+      {
+        "narration": "Chỉ cần tập trung trọn vẹn vào đĩa thức ăn, bạn sẽ giúp não nhận đủ hormone no và tự động giảm 20% calo dư thừa.",
+        "search": "3d animation nguoi thuong thuc do an ngon mieng khoe manh",
+        "caption": "Ăn tập trung giúp não nhận hormone no, giảm 20% calo"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-22T20:04:33.897113+00:00",
+    "updated_at": "2026-11-22T20:07:15.206412+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-22T20:05:27.193018+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "483 chars (cat 124 de vua 55s)",
+        "at": "2026-11-22T20:05:54.248867+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.1s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-22T20:06:02.361062+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-22T20:06:03.275844+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-22T20:06:18.357098+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-22T20:06:18.379033+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.1s 29820585 bytes",
+        "at": "2026-11-22T20:07:14.996688+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-22T20:07:15.206402+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7986782/7986782-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8261612/8261612-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39735259/16944760_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/17230362/17230362-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/32324541/13787984_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16573461/16573461-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7989638/uhd_25fps.mp4",
+      "https://videos.pexels.com/video-files/28248633/12339697_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7579908/7579908-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6964001/6964001-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/41202986/17648775_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/3627321/3627321-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/28514871/12405173_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "2ffeca8fbd",
     "kind": "short",
     "channel": "Channel3",
