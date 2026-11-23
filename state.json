@@ -1,5 +1,162 @@
 [
   {
+    "id": "14e3841e8a",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Inca King Who Paid a Room of Gold for Nothing",
+    "idea": {
+      "title": "The Inca King Who Paid a Room of Gold for Nothing",
+      "hook": "In 1532, Emperor Atahualpa filled a massive room with solid gold to buy his freedom, only to suffer a tragic betrayal.",
+      "beats": [
+        "Conquistador Francisco Pizarro captured Emperor Atahualpa at the Battle of Cajamarca.",
+        "Atahualpa offered to fill a 22-foot room with gold and silver up to his reaching arm in exchange for his life.",
+        "For eight months, priceless sacred Inca treasures were collected from across the empire and melted down.",
+        "Pizarro accepted the fortune, but broke his word out of fear that an Inca army was gathering.",
+        "Atahualpa was executed anyway, leaving his empire stripped of gold and falling directly into Spanish hands."
+      ],
+      "keywords": [
+        "Atahualpa Inca Emperor",
+        "Francisco Pizarro conquest",
+        "Inca gold treasure",
+        "Battle of Cajamarca",
+        "Spanish conquest engraving"
+      ],
+      "tags": [
+        "#history",
+        "#incahistory",
+        "#ancienthistory",
+        "#conquistadors",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Could a room filled with gold buy an emperor's life?",
+        "search": "Atahualpa Inca Emperor portrait painting",
+        "caption": "A room filled with gold could not buy his freedom."
+      },
+      {
+        "narration": "In November 1532, Spanish conquistador Francisco Pizarro ambushed the Inca ruler Atahualpa at Cajamarca.",
+        "search": "Battle of Cajamarca 1532 engraving",
+        "caption": "November 1532: Spanish forces ambush the Inca Emperor."
+      },
+      {
+        "narration": "With Atahualpa captured, the vast Inca Empire faced total collapse in a single day.",
+        "search": "Francisco Pizarro conquistador portrait painting",
+        "caption": "Capturing Atahualpa threatened the entire Inca empire."
+      },
+      {
+        "narration": "Desperate to secure his release, Atahualpa offered a staggering ransom: filling a large room with solid gold.",
+        "search": "Inca gold artifacts museum collection",
+        "caption": "Atahualpa offered a 22-foot room filled with gold."
+      },
+      {
+        "narration": "Reaching as high as his arm could stretch, he promised gold eight feet high, plus silver.",
+        "search": "Inca gold sun mask artifact",
+        "caption": "Gold piled eight feet high, plus two rooms of silver."
+      },
+      {
+        "narration": "For eight months, sacred gold objects were stripped from temples across Peru and brought to Cajamarca.",
+        "search": "Inca empire map 16th century engraving",
+        "caption": "Sacred treasures were stripped from temples across the empire."
+      },
+      {
+        "narration": "Priceless masterworks of ancient metalworking were systematically melted down into gold bullion for Spain.",
+        "search": "Spanish gold bullion bars 16th century illustration",
+        "caption": "Priceless ancient art was melted into gold bars."
+      },
+      {
+        "narration": "As the ransom room filled completely, Pizarro grew terrified that an Inca rescue army was assembling.",
+        "search": "Inca warriors battle 16th century engraving",
+        "caption": "Pizarro feared a secret Inca army was approaching."
+      },
+      {
+        "narration": "In July 1533, despite receiving over thirteen thousand pounds of gold, Francisco Pizarro staged a mock trial and sentenced Emperor Atahualpa to death.",
+        "search": "Francisco Pizarro 16th century portrait painting",
+        "caption": "Pizarro broke his promise after taking 13,000 pounds of gold"
+      },
+      {
+        "narration": "Atahualpa was executed in the public square of Cajamarca, leaving the leaderless Inca Empire gutted of its sacred treasure and helpless against Spanish conquest.",
+        "search": "Execution of Emperor Atahualpa 19th century historical engraving",
+        "caption": "Emperor Atahualpa was executed, leaving the empire defenseless"
+      },
+      {
+        "narration": "The largest royal ransom in human history yielded only execution, ending centuries of Inca rule for a room of melted gold.",
+        "search": "16th century map of Peru Inca Empire engraving",
+        "caption": "The largest ransom in history bought only immediate betrayal"
+      },
+      {
+        "narration": "A king paid twenty tons of gold and died anyway.",
+        "search": "Atahualpa Inca Emperor oil painting",
+        "caption": "A king paid 20 tons of gold and died anyway."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-23T08:48:19.480595+00:00",
+    "updated_at": "2026-11-23T08:50:59.098361+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-23T08:48:57.176923+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "431 chars (cat 169 de vua 55s)",
+        "at": "2026-11-23T08:49:18.131554+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.6s en-US-GuyNeural 5 cau",
+        "at": "2026-11-23T08:49:21.883865+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-23T08:49:22.782380+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-23T08:50:07.321059+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-23T08:50:07.348782+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.6s 18686336 bytes",
+        "at": "2026-11-23T08:50:58.924686+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-23T08:50:59.098347+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/26665938/pexels-photo-26665938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17529828/pexels-photo-17529828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12169588/pexels-photo-12169588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610620/pexels-photo-20610620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35387559/pexels-photo-35387559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35784890/pexels-photo-35784890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29336321/pexels-photo-29336321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110958/pexels-photo-16110958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38555750/pexels-photo-38555750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38136131/pexels-photo-38136131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17060848/pexels-photo-17060848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28802630/pexels-photo-28802630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "9c2189b2c0",
     "kind": "short",
     "channel": "Channel3",
