@@ -1,5 +1,161 @@
 [
   {
+    "id": "0d538fb88e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman General Who Returned to Enemy Torture for Honor",
+    "idea": {
+      "title": "The Roman General Who Returned to Enemy Torture for Honor",
+      "hook": "General Marcus Regulus was released by Carthage to negotiate peace, but he secretly urged Rome to keep fighting—then willingly walked back to his torture.",
+      "beats": [
+        "Captured during the First Punic War, Marcus Regulus was sent to Rome under oath to negotiate a prisoner exchange.",
+        "Instead of begging for peace, Regulus advised the Roman Senate to reject all terms and fight Carthage to the end.",
+        "Bound by his sacred oath to the gods, he honorably returned to Carthage despite knowing brutal execution awaited him.",
+        "Carthaginians locked him in a spiked wooden barrel, turning him into Rome's ultimate symbol of sacrificial duty."
+      ],
+      "keywords": [
+        "First Punic War engraving",
+        "Marcus Atilius Regulus portrait",
+        "Ancient Carthage oil painting",
+        "Roman Senate bust",
+        "Ancient Roman general portrait"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#punicwars",
+        "#historyfacts",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Why did a Roman general walk willingly to his torture?",
+        "search": "Marcus Atilius Regulus portrait painting",
+        "caption": "A Roman general chose torture over dishonor."
+      },
+      {
+        "narration": "In 250 BC, during the First Punic War, Rome faced an unprecedented crisis of military honor.",
+        "search": "First Punic War naval battle oil painting",
+        "caption": "In 250 BC, Rome faced a test of absolute devotion."
+      },
+      {
+        "narration": "Captured at the Battle of Tunis, Roman Consul Marcus Atilius Regulus was released on parole by Carthage.",
+        "search": "Ancient Carthage oil painting",
+        "caption": "Captured in Tunis, Regulus was released on strict parole."
+      },
+      {
+        "narration": "Carthaginians made him swear a sacred oath to return if he failed to negotiate peace.",
+        "search": "Roman Senate bust statue",
+        "caption": "Bound by a sacred oath to return to enemy hands."
+      },
+      {
+        "narration": "Arriving before the Roman Senate, Regulus did not plead for his own freedom or exchange.",
+        "search": "Ancient Roman Senate debate engraving",
+        "caption": "Before the Senate, Regulus shocked his fellow citizens."
+      },
+      {
+        "narration": "Instead, he urged Rome to reject peace terms completely and fight Carthage to the end.",
+        "search": "First Punic War engraving",
+        "caption": "He urged Rome to reject peace, sealing his fate."
+      },
+      {
+        "narration": "Refusing to break his sacred vow to the gods, he voluntarily boarded a ship back to enemy lines.",
+        "search": "Ancient Roman galley ship oil painting",
+        "caption": "Rejecting all pleas, he willingly returned to Carthage."
+      },
+      {
+        "narration": "Carthage tortured Regulus to death in a spiked barrel, creating Rome's permanent symbol of sacrificial honor.",
+        "search": "Marcus Regulus return to Carthage oil painting",
+        "caption": "Executed in Carthage, Regulus became Rome's ultimate martyr."
+      },
+      {
+        "narration": "News of his execution in 250 BC transformed Marcus Regulus into an immediate national martyr across the republic.",
+        "search": "Roman Senate bust statue martyrdom",
+        "caption": "His martyrdom united Rome in absolute defiance."
+      },
+      {
+        "narration": "Inspired by his sacrifice, Rome rebuilt its war fleet and decisively crushed Carthage at the Battle of the Aegates Islands in 241 BC.",
+        "search": "First Punic War engraving destroyed",
+        "caption": "Rome destroyed Carthage's empire in 241 BC."
+      },
+      {
+        "narration": "By choosing brutal torture over broken honor, Marcus Atilius Regulus proved that a Roman general's oath was stronger than death.",
+        "search": "Marcus Atilius Regulus portrait oil painting",
+        "caption": "An unshakeable oath that immortalized Roman honor."
+      },
+      {
+        "narration": "Why did a Roman general voluntarily return to his torturers?",
+        "search": "Marcus Atilius Regulus portrait oil painting",
+        "caption": "Why return to enemy torture voluntarily?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-23T02:57:07.599349+00:00",
+    "updated_at": "2026-11-23T02:59:18.413823+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-23T02:57:36.492742+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "384 chars (cat 229 de vua 55s)",
+        "at": "2026-11-23T02:57:46.637143+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.8s en-US-GuyNeural 5 cau",
+        "at": "2026-11-23T02:57:50.655164+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-23T02:57:51.543750+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-23T02:58:30.723443+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-23T02:58:30.751215+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.8s 14262752 bytes",
+        "at": "2026-11-23T02:59:18.233831+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-23T02:59:18.413808+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/30693634/pexels-photo-30693634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397771/pexels-photo-16397771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9158351/pexels-photo-9158351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33785369/pexels-photo-33785369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39622876/pexels-photo-39622876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39544425/pexels-photo-39544425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26792226/pexels-photo-26792226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902531/pexels-photo-34902531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6869706/pexels-photo-6869706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39112999/pexels-photo-39112999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3389707/pexels-photo-3389707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8382808/pexels-photo-8382808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7c66cb0c04",
     "kind": "short",
     "channel": "Channel2",
