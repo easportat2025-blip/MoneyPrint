@@ -1,5 +1,162 @@
 [
   {
+    "id": "7c66cb0c04",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Loved His Chicken More Than Rome",
+    "idea": {
+      "title": "The Emperor Who Loved His Chicken More Than Rome",
+      "hook": "When Western Rome fell in 410 AD, Emperor Honorius burst into tears—not for his dying empire, but because he thought his favorite chicken had died.",
+      "beats": [
+        "In 410 AD, Visigoths sacked Rome, shattering centuries of imperial dominance.",
+        "A terrified messenger rushed to court to inform Emperor Honorius that Rome had perished.",
+        "Honorius panicked, believing the messenger meant his beloved pet hen, which he had named 'Rome'.",
+        "When told it was only the capital city destroyed, the emperor sighed in relief and kept feeding his bird.",
+        "His shocking apathy sealed his legacy as the tragic ruler who let Rome burn."
+      ],
+      "keywords": [
+        "emperor honorius portrait",
+        "sack of rome 410",
+        "visigoths invasion map",
+        "ancient roman chicken painting",
+        "fall of western roman empire"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#weirdhistory",
+        "#romanemperor",
+        "#historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An emperor wept when Rome fell, not for his empire.",
+        "search": "emperor honorius roman coin portrait",
+        "caption": "An emperor wept for his hen, not Rome."
+      },
+      {
+        "narration": "In August 410 AD, King Alaric's Visigoths breached the city of Rome.",
+        "search": "sack of rome 410 ad oil painting",
+        "caption": "In 410 AD, Visigoths breached Rome's gates."
+      },
+      {
+        "narration": "Emperor Honorius remained safe behind the fortified walls of Ravenna.",
+        "search": "ravenna ancient roman map engraving",
+        "caption": "Emperor Honorius sheltered in Ravenna."
+      },
+      {
+        "narration": "A messenger rushed to court announcing that Rome had perished.",
+        "search": "roman messenger historical painting",
+        "caption": "News arrived that Rome had perished."
+      },
+      {
+        "narration": "Historian Procopius recorded that the emperor cried out in panic.",
+        "search": "procopius history manuscript illustration",
+        "caption": "Procopius recorded the emperor's panic."
+      },
+      {
+        "narration": "Honorius believed the messenger meant his beloved pet hen named Rome.",
+        "search": "ancient roman chicken mosaic painting",
+        "caption": "He named his pet hen Rome."
+      },
+      {
+        "narration": "Told it was the capital city, Honorius expressed relief that his bird lived.",
+        "search": "emperor honorius marble bust statue",
+        "caption": "Relief that his bird was unharmed."
+      },
+      {
+        "narration": "His detachment symbolized the collapse of Western Rome, which fell in 476 AD.",
+        "search": "fall of western roman empire oil painting",
+        "caption": "Symbolic of Western Rome's final collapse."
+      },
+      {
+        "narration": "Sixth-century historian Procopius recorded the absurd tale to illustrate the profound incompetence of late Roman leadership.",
+        "search": "emperor honorius bust statue close up",
+        "caption": "Procopius recorded the story to expose imperial incompetence."
+      },
+      {
+        "narration": "Honorius died in 423 AD, leaving behind a crippled state that permanently collapsed just fifty-three years later.",
+        "search": "fall of rome ruins oil painting",
+        "caption": "The Western Roman Empire permanently collapsed in 476 AD."
+      },
+      {
+        "narration": "Today, his twenty-eight year reign is remembered for a single absurd moment: prizing a pet hen over the eternal city.",
+        "search": "emperor honorius portrait oil painting",
+        "caption": "Honorius remains history's emperor who prioritized a hen over Rome."
+      },
+      {
+        "narration": "In 410 AD, an emperor chose a chicken over Rome.",
+        "search": "sack of rome 410 ad historical oil painting",
+        "caption": "The bizarre collapse of Western Rome"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-23T00:32:24.328341+00:00",
+    "updated_at": "2026-11-23T00:34:25.672702+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-23T00:32:45.405164+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "312 chars (cat 281 de vua 55s)",
+        "at": "2026-11-23T00:32:59.893880+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-23T00:33:03.650522+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-23T00:33:04.288900+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-23T00:33:49.760768+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-23T00:33:49.784084+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.5s 15892275 bytes",
+        "at": "2026-11-23T00:34:25.501561+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-23T00:34:25.672691+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35581676/pexels-photo-35581676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20358738/pexels-photo-20358738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19455918/pexels-photo-19455918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29170145/pexels-photo-29170145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20877165/pexels-photo-20877165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37966894/pexels-photo-37966894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564807/pexels-photo-12564807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14329255/pexels-photo-14329255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38117168/pexels-photo-38117168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35626657/pexels-photo-35626657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6932148/pexels-photo-6932148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32489792/pexels-photo-32489792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ee979b67ed",
     "kind": "short",
     "channel": "Channel2",
