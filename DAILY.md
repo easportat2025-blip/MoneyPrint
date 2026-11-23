@@ -1,4 +1,4 @@
-# Daily ping 22/11/2026
+# Daily ping 23/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,15 +9,15 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (3)
-- Tại sao đánh răng ngay sau khi ăn sáng âm thầm hại răng :: token refresh failed: 400 {
+- Lý do dùng tăm bông ngoáy tai đang âm thầm hại thính gi :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- Napoleon III’s Fatal Mistake That Ended His Empire :: token refresh failed: 400 {
+- The Roman General Who Returned to Enemy Torture for Hon :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Empress Who Overthrew Her Husband Over a Rat :: token refresh failed: 400 {
+- The Emperor Who Loved His Chicken More Than Rome :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
