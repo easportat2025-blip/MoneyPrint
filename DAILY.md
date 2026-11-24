@@ -1,4 +1,4 @@
-# Daily ping 23/11/2026
+# Daily ping 24/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -8,16 +8,32 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 
 ## Video moi (0)
 
-## Fail (3)
-- Lý do dùng tăm bông ngoáy tai đang âm thầm hại thính gi :: token refresh failed: 400 {
+## Fail (7)
+- Sự thật về trọng lực trái đất đang âm thầm kéo giãn cơ  :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman General Who Returned to Enemy Torture for Hon :: token refresh failed: 400 {
+- The Norman Prince Who Escaped an Empire Inside a Rottin :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Emperor Who Loved His Chicken More Than Rome :: token refresh failed: 400 {
+- The Roman General Who Wiped Out 80,000 Celts :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- The Empress Who Didn't Realize She Was Murdered :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- Lý do vừa tắm vừa đi tiểu âm thầm đánh lừa brain của bạ :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- The Emperor Forced to Watch His Sons Die: Byzantium's D :: token refresh failed: 400 {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+- Tại sao quẹt thẻ QR làm bạn âm thầm tiêu tiền nhiều hơn :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
