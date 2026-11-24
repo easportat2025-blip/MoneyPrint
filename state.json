@@ -1,5 +1,161 @@
 [
   {
+    "id": "7dfa026d67",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman General Who Wiped Out 80,000 Celts",
+    "idea": {
+      "title": "The Roman General Who Wiped Out 80,000 Celts",
+      "hook": "In 61 AD, Roman General Suetonius faced a Celtic army twenty times his size, but used one fatal mistake to slaughter eighty thousand enemies.",
+      "beats": [
+        "Queen Boudica burned three Roman cities and gathered over one hundred thousand angry warriors.",
+        "Suetonius positioned his ten thousand legionaries in a narrow mountain defile, funneling the massive rebel horde.",
+        "The Celts brought their families in supply wagons to watch the easy victory, accidentally blocking their own escape.",
+        "As the Roman wedge advanced into the jammed crowd, the trap closed, destroying the entire Celtic rebellion in hours."
+      ],
+      "keywords": [
+        "Roman Legionary bust portrait",
+        "Boudica battle engraving",
+        "Ancient Roman military map",
+        "Ancient Britain battle painting",
+        "Suetonius Paulinus statue"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#boudica",
+        "#warhistory",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 61 AD, ten thousand Romans destroyed eighty thousand Celts.",
+        "search": "Roman soldier marble bust statue portrait",
+        "caption": "10,000 Romans destroyed 80,000 Celts in 61 AD."
+      },
+      {
+        "narration": "Queen Boudica had already burnt three Roman cities in Britain to ashes, massacring tens of thousands.",
+        "search": "Queen Boudica burning city historical engraving",
+        "caption": "Queen Boudica destroyed three major Roman settlements in Britain."
+      },
+      {
+        "narration": "Roman Governor Gaius Suetonius Paulinus was vastly outnumbered, facing more than one hundred thousand angry rebel warriors.",
+        "search": "Roman general marble bust statue portrait",
+        "caption": "Governor Suetonius faced over 100,000 Celtic rebels."
+      },
+      {
+        "narration": "Rather than fleeing, Suetonius picked a narrow mountain defile that funneled the oncoming horde.",
+        "search": "Ancient Roman military map battle plan engraving",
+        "caption": "Suetonius funneled the rebel army into a narrow defile."
+      },
+      {
+        "narration": "Confident of victory, the Celts lined up their families in supply wagons right behind the battle line.",
+        "search": "Celtic warriors historical oil painting",
+        "caption": "The Celts parked supply wagons behind their battle line."
+      },
+      {
+        "narration": "When the massive army was squeezed together, those wagons blocked their only path of retreat.",
+        "search": "Ancient wooden wagon barricade historical illustration",
+        "caption": "The heavy wagons accidentally trapped the entire army."
+      },
+      {
+        "narration": "The disciplined Roman legionaries formed dense wedges and drove straight into the jammed, helpless crowd.",
+        "search": "Roman legion battle formation historical oil painting",
+        "caption": "Roman wedge formations sliced through the packed crowd."
+      },
+      {
+        "narration": "Historian Tacitus recorded that eighty thousand Celts perished that day, forever crushing the British uprising.",
+        "search": "Tacitus ancient historian manuscript engraving",
+        "caption": "80,000 Celts fell, permanently ending the rebellion."
+      },
+      {
+        "narration": "Queen Boudica fled the battlefield and poisoned herself in 61 AD, choosing death over marching in chains through Rome.",
+        "search": "Boudica battle engraving",
+        "caption": "Boudica drank poison rather than face capture by Roman legions."
+      },
+      {
+        "narration": "Alarmed by the bloody rebellion, Emperor Nero reinforced the province, securing Roman imperial control of Britain for over three centuries.",
+        "search": "Ancient Roman military map",
+        "caption": "Rome maintained unbroken rule over Britain for three hundred years."
+      },
+      {
+        "narration": "By exploiting a narrow mountain terrain, Suetonius Paulinus transformed a desperate defense into the deadliest single-day battle in Celtic history.",
+        "search": "Suetonius Paulinus statue",
+        "caption": "Tactical discipline destroyed an army twenty times its size."
+      },
+      {
+        "narration": "In 61 AD, a Roman general faced an army twenty times his size.",
+        "search": "Suetonius Paulinus statue marble head close up",
+        "caption": "Eighty thousand Celts trapped by one fatal mistake."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T04:47:55.382530+00:00",
+    "updated_at": "2026-11-24T04:51:03.862893+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-24T04:48:48.238040+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "378 chars (cat 277 de vua 55s)",
+        "at": "2026-11-24T04:49:12.011218+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.3s en-US-GuyNeural 5 cau",
+        "at": "2026-11-24T04:49:16.337377+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T04:49:16.951019+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-24T04:50:30.243567+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-24T04:50:30.266841+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.3s 14760123 bytes",
+        "at": "2026-11-24T04:51:03.717180+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T04:51:03.862882+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15070712/pexels-photo-15070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31595403/pexels-photo-31595403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40379019/pexels-photo-40379019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30564503/pexels-photo-30564503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30812870/pexels-photo-30812870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12587109/pexels-photo-12587109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8968527/pexels-photo-8968527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20590668/pexels-photo-20590668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11750217/pexels-photo-11750217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6968386/pexels-photo-6968386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35812467/pexels-photo-35812467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12564809/pexels-photo-12564809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "0193ee4aac",
     "kind": "short",
     "channel": "Channel2",
