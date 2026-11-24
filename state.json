@@ -1,5 +1,162 @@
 [
   {
+    "id": "0193ee4aac",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Didn't Realize She Was Murdered",
+    "idea": {
+      "title": "The Empress Who Didn't Realize She Was Murdered",
+      "hook": "In 1898, Empress Sisi of Austria was stabbed directly in the heart, but walked away completely oblivious until it was too late.",
+      "beats": [
+        "Italian anarchist Luigi Lucheni plunged a razor-sharp needle file into Empress Sisi's chest on a Geneva pier.",
+        "Because her extremely tight corset suppressed internal bleeding, Sisi felt only a slight sting and boarded a steamboat.",
+        "Minutes later on board, her lungs filled with blood and she collapsed on deck.",
+        "When doctors unlaced her corset to treat her, they discovered the tiny, fatal puncture wound that ended her life."
+      ],
+      "keywords": [
+        "Empress Elisabeth of Austria portrait",
+        "Luigi Lucheni archival photo",
+        "19th century Geneva map vintage",
+        "Victorian corset illustration",
+        "Habsburg empire historical painting"
+      ],
+      "tags": [
+        "#history",
+        "#empresssisi",
+        "#austrianempire",
+        "#darkhistory",
+        "#historicalmysteries",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An empress was stabbed in the heart without noticing.",
+        "search": "Empress Elisabeth of Austria oil painting portrait",
+        "caption": "Stabbed in the heart without realizing it."
+      },
+      {
+        "narration": "On September 10, 1898, Empress Elisabeth of Austria strolled near Lake Geneva.",
+        "search": "Lake Geneva 19th century vintage map illustration",
+        "caption": "September 10, 1898: Geneva, Switzerland."
+      },
+      {
+        "narration": "An Italian anarchist named Luigi Lucheni leaped forward, plunging a thin needle file into her chest.",
+        "search": "Luigi Lucheni mugshot archival photo 1898",
+        "caption": "Luigi Lucheni strikes with a needle file."
+      },
+      {
+        "narration": "Elisabeth, knocked to the ground, stood up immediately, assuming she was merely punched.",
+        "search": "Empress Elisabeth of Austria archival photograph 1890s",
+        "caption": "Sisi stood up, believing she was only punched."
+      },
+      {
+        "narration": "She brushed off her dress, walked over one hundred yards, and boarded a steamboat.",
+        "search": "19th century Lake Geneva steamboat archival photograph",
+        "caption": "She walked 100 yards to her steamboat."
+      },
+      {
+        "narration": "Her extremely tight Victorian corset squished her torso, preventing any visible external bleeding.",
+        "search": "19th century Victorian corset historical illustration",
+        "caption": "Her tight corset suppressed external bleeding."
+      },
+      {
+        "narration": "Unbeknownst to anyone, blood was steadily filling the lining around her heart.",
+        "search": "Habsburg imperial court historical painting 19th century",
+        "caption": "Internal bleeding filled her chest cavity."
+      },
+      {
+        "narration": "As the ship pulled away from shore, Sisi suddenly turned pale and collapsed on deck.",
+        "search": "19th century steamboat deck vintage archival photograph",
+        "caption": "Minutes later, Sisi collapsed on deck."
+      },
+      {
+        "narration": "On September 10, 1898, as attendants unlaced Empress Elisabeth's tight corset to help her breathe, the suppressed bleeding suddenly filled her pericardium.",
+        "search": "Victorian corset illustration 19th century",
+        "caption": "Unlacing her corset released the suppressed internal bleeding."
+      },
+      {
+        "narration": "Only then did doctors discover a tiny puncture wound in her chest and a single drop of blood over her heart.",
+        "search": "Empress Elisabeth of Austria portrait painting",
+        "caption": "A microscopic puncture stabbed directly into her heart."
+      },
+      {
+        "narration": "Italian anarchist Luigi Lucheni had struck with fatal precision, leaving Empress Sisi to walk away oblivious to her own assassination.",
+        "search": "Luigi Lucheni archival photo",
+        "caption": "She died oblivious to her own murder."
+      },
+      {
+        "narration": "In 1898, an empress was murdered without realizing it.",
+        "search": "Empress Elisabeth of Austria portrait painting",
+        "caption": "An empress was murdered without even realizing it."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T03:26:25.058848+00:00",
+    "updated_at": "2026-11-24T03:29:12.116372+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-24T03:27:04.231240+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "344 chars (cat 415 de vua 55s)",
+        "at": "2026-11-24T03:27:36.179615+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.0s en-US-GuyNeural 4 cau",
+        "at": "2026-11-24T03:27:39.479115+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T03:27:40.087275+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-24T03:28:36.749662+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-24T03:28:36.775544+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.1s 11867954 bytes",
+        "at": "2026-11-24T03:29:11.966953+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T03:29:12.116360+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10025265/pexels-photo-10025265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38978444/pexels-photo-38978444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057031/pexels-photo-29057031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15970117/pexels-photo-15970117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17159907/pexels-photo-17159907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9788688/pexels-photo-9788688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34705834/pexels-photo-34705834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5130604/pexels-photo-5130604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36718292/pexels-photo-36718292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16969657/pexels-photo-16969657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10759013/pexels-photo-10759013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20808792/pexels-photo-20808792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "eb93177078",
     "kind": "short",
     "channel": "Channel3",
