@@ -1,5 +1,161 @@
 [
   {
+    "id": "d26f500419",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The King Who Bribed Rome Until They Starved Him",
+    "idea": {
+      "title": "The King Who Bribed Rome Until They Starved Him",
+      "hook": "King Jugurtha of Numidia bribed the entire Roman Senate to steal a kingdom, but his final arrogance ended in a pitch-black dungeon where Rome let him starve to death.",
+      "beats": [
+        "Jugurtha usurped the Numidian throne by assassinating his rivals and bribing Roman officials sent to stop him.",
+        "He famously mocked Rome after walking free, calling it 'a city for sale, waiting to be bought.'",
+        "Rome eventually retaliated, sending General Marius to capture Jugurtha through a brutal betrayal.",
+        "Jugurtha was dragged through Rome in chains and thrown into the Mamertine Prison, left to starve for six days in total darkness."
+      ],
+      "keywords": [
+        "Jugurtha portrait bust",
+        "Ancient Roman Senate engraving",
+        "Mamertine Prison Rome illustration",
+        "Gaius Marius general painting",
+        "Ancient Numidia historical map"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historydocumentary",
+        "#romanempire",
+        "#channel2"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He bribed the entire Roman Senate, then starved.",
+        "search": "Ancient Roman Senate engraving",
+        "caption": "He bought the Roman Senate, then starved in darkness."
+      },
+      {
+        "narration": "In 112 BC, King Jugurtha seized total control of Numidia by assassinating his own royal cousins.",
+        "search": "Ancient Numidia historical map engraving",
+        "caption": "112 BC: Jugurtha seizes Numidia by assassinating royal heirs."
+      },
+      {
+        "narration": "When Rome sent envoys to stop him, Jugurtha deployed a deadly weapon: endless gold.",
+        "search": "Ancient Roman gold coins hoard illustration",
+        "caption": "Jugurtha bribed Roman commissioners sent to investigate his crimes."
+      },
+      {
+        "narration": "Roman senators sent to investigate returned home wealthy, declaring Jugurtha's usurpation completely lawful.",
+        "search": "Roman senators marble bust statues engraving",
+        "caption": "Corrupt Roman senators declared Jugurtha's illegal usurpation lawful."
+      },
+      {
+        "narration": "Summoned to Rome in 110 BC for trial, Jugurtha simply bribed a tribune to veto the proceedings.",
+        "search": "Ancient Roman Forum engraving black and white",
+        "caption": "110 BC: Jugurtha bribes Roman tribunes to veto his trial."
+      },
+      {
+        "narration": "As he walked away unpunished, Jugurtha famously mocked Rome as a city for sale to the highest bidder.",
+        "search": "King Jugurtha portrait bust coin ancient",
+        "caption": "Jugurtha called Rome a city for sale to any buyer."
+      },
+      {
+        "narration": "Humiliated by his arrogance, the Roman Republic dispatched General Gaius Marius in 107 BC to crush him.",
+        "search": "Gaius Marius general marble bust statue photo",
+        "caption": "107 BC: General Gaius Marius leads Roman legions to Numidia."
+      },
+      {
+        "narration": "Unable to conquer Jugurtha on the battlefield, Rome engineered a cold betrayal through his own father-in-law.",
+        "search": "Ancient Numidian cavalry battle engraving",
+        "caption": "Rome engineered a brutal betrayal through Jugurtha's own father-in-law."
+      },
+      {
+        "narration": "In 104 BC, King Jugurtha was delivered to General Marius in chains and paraded through Rome during a grand triumphal procession.",
+        "search": "Gaius Marius Roman triumph oil painting",
+        "caption": "Bound in chains, Jugurtha was paraded through Rome in 104 BC"
+      },
+      {
+        "narration": "Stripped of his royal robes and gold, the fallen king was lowered into the pitch-black lower chamber of the subterranean Mamertine Prison.",
+        "search": "Mamertine Prison Rome dungeon engraving",
+        "caption": "Stripped of royalty, he was cast into the pitch-black Mamertine dungeon"
+      },
+      {
+        "narration": "Left without food or water for six days, the monarch who once bought the Senate starved to death beneath the streets of Rome.",
+        "search": "King Jugurtha of Numidia portrait bust",
+        "caption": "Starved for six days, the king who bought Rome met his end"
+      },
+      {
+        "narration": "One king bought the Roman Senate before Rome starved him.",
+        "search": "Jugurtha portrait bust statue sculpture",
+        "caption": "The King Who Bought Rome's Senate"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T10:49:19.093273+00:00",
+    "updated_at": "2026-11-24T10:52:35.126299+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-24T10:50:33.273541+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "369 chars (cat 291 de vua 55s)",
+        "at": "2026-11-24T10:50:59.068388+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.1s en-US-GuyNeural 6 cau",
+        "at": "2026-11-24T10:51:02.326820+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T10:51:03.263301+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-24T10:51:43.887356+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-24T10:51:43.924198+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.1s 15339047 bytes",
+        "at": "2026-11-24T10:52:34.839959+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T10:52:35.126274+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/40648510/pexels-photo-40648510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20524078/pexels-photo-20524078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34215259/pexels-photo-34215259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319285/pexels-photo-29319285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37890608/pexels-photo-37890608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14256263/pexels-photo-14256263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36122311/pexels-photo-36122311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268892/pexels-photo-9268892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27392833/pexels-photo-27392833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927762/pexels-photo-29927762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29948221/pexels-photo-29948221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11382622/pexels-photo-11382622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "667f957570",
     "kind": "short",
     "channel": "Channel3",
