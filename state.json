@@ -1,5 +1,167 @@
 [
   {
+    "id": "667f957570",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Sự thật về trọng lực trái đất đang âm thầm kéo giãn cơ thể bạn",
+    "idea": {
+      "title": "Sự thật về trọng lực trái đất đang âm thầm kéo giãn cơ thể bạn",
+      "hook": "Bạn đang cao hơn vào buổi sáng và lùn đi vào buổi tối, nhưng trọng lực đang làm điều kinh khủng hơn thế với cơ thể bạn mỗi ngày.",
+      "beats": [
+        "Giải thích hiện tượng đĩa đệm cột sống bị nén lại dưới tác động của trọng lực trái đất suốt cả ngày.",
+        "So sánh chiều cao buổi sáng khi thức dậy và buổi tối trước khi đi ngủ, chứng minh sự thay đổi thực tế.",
+        "Liên hệ hình ảnh không gian vũ trụ: Các phi hành gia cao thêm vài centimet khi thoát khỏi trọng lực vì cột sống được giãn nở hoàn toàn.",
+        "Tiết lộ cái giá âm thầm: Trọng lực không chỉ nén cột sống mà còn từ từ kéo xệ các cơ quan và da mặt xuống theo thời gian."
+      ],
+      "keywords": [
+        "earth gravity animation",
+        "spine compression space",
+        "astronaut height in space",
+        "human body in gravity",
+        "earth globe rotation space"
+      ],
+      "tags": [
+        "#channel3",
+        "#khoahoc",
+        "#suthat",
+        "#cotthe",
+        "#vutru"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn cao hơn vào buổi sáng và thấp đi vào buổi tối.",
+        "search": "3d animation man waking up stretching in bed",
+        "caption": "Ban cao hon vao buoi sang"
+      },
+      {
+        "narration": "Su that la trong luc trai dat dang am tham nen ep co the ban ca ngay.",
+        "search": "motion graphics spine compression visualization 3d",
+        "caption": "Trong luc nen ep cot song"
+      },
+      {
+        "narration": "Khi ban buoc xuong giuong, cac dia dem cot song bat dau bi ep lai duoi suc nang cua chinh ban.",
+        "search": "isometric render person standing up from bed tired",
+        "caption": "Dia dem bi ep chat"
+      },
+      {
+        "narration": "Den cuoi ngay, do nen nay co the lam ban thap di gan hai centimet so voi buoi sang.",
+        "search": "explainer animation measuring human height difference day night",
+        "caption": "Thap di 2 cm moi ngay"
+      },
+      {
+        "narration": "Neu ban nam xuong ngu, cot song duoc giai phong va gian no tro lai hinh dạng ban dau.",
+        "search": "cartoony 3d person sleeping relaxing flat on back bed",
+        "caption": "Nghi ngoi giup cot song gian ra"
+      },
+      {
+        "narration": "Nhung trong luc khong chi dung lai o viec nen ep xuong cot song.",
+        "search": "3d animation human posture bending under heavy invisible force",
+        "caption": "Trong luc con lam nhieu hon the"
+      },
+      {
+        "narration": "Nó con am tham keo chay cac co quan va da mat xuong duoi theo thoi gian.",
+        "search": "motion graphics aging skin sagging gravity effect 3d",
+        "caption": "Keo xex co the theo thoi gian"
+      },
+      {
+        "narration": "Chinh trong luc nay dang am tham thay doi hinh dang co the ban tung giay.",
+        "search": "isometric render human silhouette stretching under gravity pressure",
+        "caption": "Thay doi hinh dang tung giay"
+      },
+      {
+        "narration": "Đặc biệt khi bạn ngồi làm việc hay cúi đầu dùng điện thoại, áp lực trọng lực lên cột sống tăng gấp 3 lần.",
+        "search": "3d animation nguoi ngoi may tinh cui dau dau cot song",
+        "caption": "Ngồi sai tư thế làm tăng 3 lần áp lực trọng lực."
+      },
+      {
+        "narration": "Trung bình đến tuổi 60, trọng lực sẽ lấy đi vĩnh viễn từ 2 đến 5 centimet chiều cao của bạn.",
+        "search": "3d animation mo hinh cot song nguoi gia bi thoai hoa",
+        "caption": "Bạn có thể mất vĩnh viễn 5cm chiều cao khi về già."
+      },
+      {
+        "narration": "Vậy làm sao cơ thể bạn tự chữa lành khỏi lực nén liên tục này suốt cả đời?",
+        "search": "3d animation mo phong luc hut trai dat tac dong len co the",
+        "caption": "Làm sao cơ thể tự chữa lành khỏi lực nén liên tục?"
+      },
+      {
+        "narration": "Bí mật nằm ở tư thế nằm ngang khi ngủ, lúc này áp lực lên cột sống bằng không và đĩa đệm bắt đầu hút nước để phồng trở lại.",
+        "search": "3d animation nguoi nam ngu tren giuong cot song thu gian",
+        "caption": "Tư thế nằm ngang khi ngủ giúp đĩa đệm ngậm nước hồi phục."
+      },
+      {
+        "narration": "Chỉ cần nằm ngủ đủ giấc mỗi đêm, cơ thể bạn sẽ tự động lấy lại trọn vẹn chiều cao cao nhất vào sáng hôm sau.",
+        "search": "3d animation dong ho bao thuc sang thuc day keo gian co the",
+        "caption": "Giấc ngủ đêm trả lại cho bạn chiều cao tối đa vào sáng mai."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T10:12:06.815187+00:00",
+    "updated_at": "2026-11-24T10:16:47.093456+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-24T10:13:49.074843+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "538 chars (cat 50 de vua 55s)",
+        "at": "2026-11-24T10:14:52.263083+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "34.6s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-24T10:15:34.005740+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T10:15:34.885118+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-24T10:15:58.339485+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-24T10:15:58.362009+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 34.6s 18430002 bytes",
+        "at": "2026-11-24T10:16:46.946870+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T10:16:47.093441+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9035648/9035648-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/25935024/11921992_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8487744/8487744-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/5839078/5839078-hd_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/40430779/17276001_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/6799870/6799870-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15283162/15283162-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6799882/6799882-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39459371/16806701_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/28913568/12514536_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39428970/16790477_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6475620/6475620-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439746/15439746-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "50914263c0",
     "kind": "short",
     "channel": "Channel2",
