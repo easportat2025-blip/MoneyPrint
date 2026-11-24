@@ -1,5 +1,167 @@
 [
   {
+    "id": "315d30827d",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao quẹt thẻ QR làm bạn âm thầm tiêu tiền nhiều hơn tiền mặt?",
+    "idea": {
+      "title": "Tại sao quẹt thẻ QR làm bạn âm thầm tiêu tiền nhiều hơn tiền mặt?",
+      "hook": "Bạn có bao giờ thắc mắc tại sao từ ngày chuyển sang quét mã QR, tài khoản của bạn lại bốc hơi nhanh hơn hẳn không?",
+      "beats": [
+        "Não bộ con người có một vùng xử lý nỗi đau gọi là Insula, kích hoạt mỗi khi bạn phải đưa tiền mặt ra.",
+        "Khi trao đi tờ tiền giấy, bạn cảm nhận được sự mất mát vật lý ngay lập tức.",
+        "Thanh toán QR hay quẹt thẻ đã loại bỏ hoàn toàn cảm giác 'đau đớn' này khỏi não bộ.",
+        "Các nghiên cứu thần kinh học chỉ ra bạn sẵn sàng chi nhiều hơn tới 83% cho cùng một món hàng khi không dùng tiền mặt."
+      ],
+      "keywords": [
+        "digital payment smartphone",
+        "paying cash hand money",
+        "brain scan neuroscience",
+        "credit card shopping store",
+        "scanning qr code phone"
+      ],
+      "tags": [
+        "#thothieunu",
+        "#chitieumothong",
+        "#meotienbac",
+        "#tamlyhoc",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Quét mã QR khiến bạn chi tiêu nhiều hơn tới 83% tiền mặt.",
+        "search": "hoat hinh 3d quet ma qr dien thoai isometric",
+        "caption": "Tại sao quét mã QR khiến tiền bốc hơi nhanh hơn?"
+      },
+      {
+        "narration": "Mỗi khi mở ứng dụng và chuyển khoản, số dư của bạn lập tức giảm xuống trong vài giây.",
+        "search": "hoat hinh 3d chuyen tien tren man hinh dien thoai",
+        "caption": "Tiền trong tài khoản giảm liên tục mỗi ngày"
+      },
+      {
+        "narration": "Nhưng điều kỳ lạ là hệ thần kinh của bạn lại hoàn toàn không nhận ra điều đó.",
+        "search": "hoat hinh 3d nao bo con nguoi phat sang",
+        "caption": "Nào bộ không nhận ra bạn vừa mất tiền"
+      },
+      {
+        "narration": "Khi tiêu tiền mặt, bàn tay bạn chạm trực tiếp vào các tờ tiền giấy thực tế.",
+        "search": "hoat hinh 3d ban tay rut tien tu vi",
+        "caption": "Tiền mặt tạo cảm giác mất mát vật lý"
+      },
+      {
+        "narration": "Hành động trao tiền giấy lập tức kích hoạt vùng Insula, nơi xử lý cảm giác đau đớn trong não.",
+        "search": "hoat hinh 3d phan tich nao bo vung insula",
+        "caption": "Vùng não Insula chịu trách nhiệm xử lý nỗi đau"
+      },
+      {
+        "narration": "Cảm giác đau đớn sinh học này chính là phanh hãm giúp bạn đắn đo trước khi chi tiền.",
+        "search": "hoat hinh 3d o khoa bao ve vi tien",
+        "caption": "Cảm giác đau giúp bạn tự kiềm chế chi tiêu"
+      },
+      {
+        "narration": "Tuy nhiên, thao tác quét mã QR nhanh gọn đã loại bỏ hoàn toàn tín hiệu cảnh báo này.",
+        "search": "hoat hinh 3d quet ma qr thanh toan sieu nhanh",
+        "caption": "Quét mã QR triệt tiêu hoàn toàn tín hiệu đau"
+      },
+      {
+        "narration": "Các nghiên cứu thần kinh học chứng minh bạn sẵn sàng vung tiền nhiều hơn 83% cho cùng một món đồ.",
+        "search": "hoat hinh 3d bieu do chi tieu tang cao 83 percent",
+        "caption": "Chi tiêu tăng thêm 83% khi không dùng tiền mặt"
+      },
+      {
+        "narration": "Tiền kỹ thuật số khiến não bộ nhìn nhận các con số trên màn hình giống như điểm số trò chơi thay vì công sức lao động.",
+        "search": "hoat hinh 3d nhan vat choi game dien thoai tien xu bay",
+        "caption": "Con số trên màn hình chỉ giống điểm game"
+      },
+      {
+        "narration": "Cảm giác xót tiền bị trì hoãn hoàn toàn cho đến khi bạn giật mình nhìn lại số dư tài khoản vào cuối tháng.",
+        "search": "hoat hinh 3d mo ung dung ngan hang tren dien thoai hot hoang",
+        "caption": "Nỗi đau xót tiền bị hoãn đến cuối tháng"
+      },
+      {
+        "narration": "Chưa kể, âm thanh chuyển tiền và hiệu ứng mượt mà còn kích thích não tiết dopamine, biến việc chi tiêu thành phần thưởng.",
+        "search": "hoat hinh 3d quet ma qr thanh toan hieu ung thanh cong",
+        "caption": "Tiếng tinh tinh biến chi tiêu thành phần thưởng"
+      },
+      {
+        "narration": "Hệ quả là bạn liên tục chốt đơn những món đồ không cần thiết mà không hề cảm nhận được sự mất mát tức thì.",
+        "search": "hoat hinh 3d tui do shopping chat dong xung quanh nhan vat",
+        "caption": "Mua sắm vô thức vì thiếu cảm giác mất mát"
+      },
+      {
+        "narration": "Để bật lại cơ chế cảnh báo của não bộ, hãy cài giới hạn hạn mức chi tiêu daily hoặc dùng lại tiền mặt cho việc sinh hoạt.",
+        "search": "hoat hinh 3d dem tien mat cho vao vi da",
+        "caption": "Dùng tiền mặt để khôi phục cảnh báo não bộ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T00:29:55.826191+00:00",
+    "updated_at": "2026-11-24T00:32:39.958910+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-24T00:30:24.103547+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "511 chars (cat 136 de vua 55s)",
+        "at": "2026-11-24T00:31:00.035072+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "33.4s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-24T00:31:11.180860+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T00:31:12.213340+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-24T00:31:34.477499+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-24T00:31:34.506005+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 33.4s 31319510 bytes",
+        "at": "2026-11-24T00:32:39.788451+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T00:32:39.958890+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8384429/8384429-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/33037097/14081269_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/15393637/15393637-uhd_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8816953/8816953-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/32107094/13688552_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8816984/8816984-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7984174/7984174-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/6120116/6120116-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6499158/6499158-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/28977252/12535120_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8048486/8048486-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7317429/7317429-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34679115/14699366_1440_2560_120fps.mp4"
+    ]
+  },
+  {
     "id": "f304d1479f",
     "kind": "short",
     "channel": "Channel3",
