@@ -1,5 +1,601 @@
 [
   {
+    "id": "2456edb17e",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Burned His Own Fleet in Persia",
+    "idea": {
+      "title": "The Roman Emperor Who Burned His Own Fleet in Persia",
+      "hook": "In 363 AD, Roman Emperor Julian led 90,000 legionaries deep into the Persian desert—then did the unthinkable: he burned his own fleet of 1,000 supply ships, trapping his army in a nightmare of his own making.",
+      "beats": [
+        "Introduction: The ultimate act of tactical madness—Julian 'the Apostate' and the 363 AD Persian campaign.",
+        "Who Was Julian the Apostate?: Context on the scholar-turned-emperor who sought to restore pagan Rome and outshine Alexander the Great.",
+        "The Great Invasion Force: Assembling 90,000 troops along the Euphrates, supported by a massive armada of over 1,000 river vessels.",
+        "Deep Into Sasanian Territory: Initial victories, breaching outer defenses, and navigating down canals toward the Persian capital of Ctesiphon.",
+        "The Standoff at Ctesiphon: Realizing the fortified capital could not be taken quickly and that rowing the heavy fleet upstream was impossible.",
+        "The Fatal Decision: Tricked by Persian double agents or driven by reckless pride, Julian orders the entire 1,000-ship supply fleet burned.",
+        "Panic in the Ranks: The psychological terror of 90,000 soldiers watching their food, medicine, and retreat route go up in flames.",
+        "The Scorched-Earth Trap: Persian King Shapur II burns all local crops, forcing the stranded Romans to march through a burnt, sun-baked desert.",
+        "Relentless Sasanian Attacks: Persian cataphracts and horse archers continuously ambush the starving, heat-exhausted Roman columns.",
+        "The Death of the Emperor: At the Battle of Samarra, Julian rushes into combat without wearing his armor and is fatally wounded by a spear.",
+        "A Humiliating Surrender: Emperor Jovian assumes command and forfeits vast Roman territories and fortresses just to buy safe passage home.",
+        "Conclusion: How Julian's suicidal gamble ended the last pagan Roman dynasty and became one of history's greatest military blunders."
+      ],
+      "keywords": [
+        "Emperor Julian",
+        "Julian the Apostate",
+        "Roman Empire",
+        "Sasanian Empire",
+        "Battle of Ctesiphon",
+        "Ancient Roman History",
+        "Roman Persian Wars",
+        "Military Blunders",
+        "Shapur II",
+        "Ancient Warfare",
+        "Battle of Samarra",
+        "Roman Army Disaster"
+      ],
+      "tags": [
+        "#RomanHistory",
+        "#AncientRome",
+        "#HistoryDocumentary",
+        "#EmperorJulian",
+        "#MilitaryHistory",
+        "#AncientPersia",
+        "#RomanEmpire",
+        "#HistoryMysteries",
+        "#RomanWarfare",
+        "#JulianTheApostate"
+      ],
+      "kind": "long",
+      "thumbnail_text": "HE BURNED 1,000 SHIPS"
+    },
+    "scenes": [
+      {
+        "narration": "In 363 AD, Emperor Julian committed one of ancient history's most catastrophic tactical blunders by torching his own supply armada deep in enemy territory. Why would Rome's supreme commander deliberately strand 90,000 legionaries in the Persian desert?",
+        "search": "Julian the Apostate Roman emperor marble bust statue",
+        "caption": "Why did Emperor Julian burn his own fleet in Persia?"
+      },
+      {
+        "narration": "Raised as a scholar, Julian sought to revive classical pagan Rome and outshine Alexander the Great when he invaded the Sasanian Empire in early 363 AD. He assembled over 90,000 Roman legionaries along the Euphrates River, supported by a river armada of more than 1,000 vessels.",
+        "search": "Ancient Euphrates river valley historical map engraving",
+        "caption": "Julian led 90,000 legionaries into Sasanian Persia in 363 AD."
+      },
+      {
+        "narration": "Advancing rapidly down Persian canal systems, the Roman force breached outer defenses and reached the enemy capital of Ctesiphon. However, the heavily fortified city stood firm, and towing heavy ships back upstream against the Tigris current proved physically impossible.",
+        "search": "Ctesiphon ancient city ruins arch engraving",
+        "caption": "Roman legionaries reached the impenetrable walls of Ctesiphon."
+      },
+      {
+        "narration": "Deceived by Persian double agents and fearing his fleet would be captured, Julian made a fateful decision in June 363 AD. He ordered his soldiers to set fire to all 1,000 supply vessels, watching their food and retreat route turn to ash.",
+        "search": "Ancient wooden ships burning on river oil painting",
+        "caption": "Julian ordered all 1,000 Roman supply ships set on fire."
+      },
+      {
+        "narration": "Panic ripped through the ranks as 90,000 starving legionaries realized they were trapped hundreds of miles from Roman borders. To escalate the nightmare, Sasanian King Shapur II burned every local crop, forcing the Romans to march through a scorched wasteland.",
+        "search": "Shapur II Sasanian king silver coin face",
+        "caption": "King Shapur II enforced a scorched-earth policy against the trapped Romans."
+      },
+      {
+        "narration": "As the heat-stricken Roman columns retreated north, heavy Sasanian cataphracts and horse archers launched continuous ambush attacks. At the Battle of Samarra on June 26, 363 AD, Julian rushed into combat without his armor and was pierced by a spear.",
+        "search": "Sasanian cataphract cavalry ancient stone relief carving",
+        "caption": "Sasanian cataphracts continuously harassed the retreating Roman columns."
+      },
+      {
+        "narration": "Julian died from his wounds hours later, leaving the shattered Roman army leaderless in hostile territory. His successor, Emperor Jovian, was forced to sign a humiliating peace treaty, surrendering vital frontier provinces just to buy safe passage home.",
+        "search": "Death of Emperor Julian historical oil painting",
+        "caption": "Emperor Julian died in his tent after receiving a fatal spear wound."
+      },
+      {
+        "narration": "Julian's gamble cost Rome critical eastern territories and abruptly ended the last pagan Roman imperial line. His decision to burn the fleet remains one of the most famous self-inflicted military disasters in human history.",
+        "search": "Late Roman Empire map 4th century engraving",
+        "caption": "The failed campaign permanently ended Julian's pagan restoration movement."
+      },
+      {
+        "narration": "By June 363 AD, over ninety thousand Roman legionaries watched their only escape route and food supply burn along the Tigris River.",
+        "search": "roman fleet burning river engraving",
+        "caption": "Ninety thousand Roman troops stood stranded along the riverbanks in 363 AD."
+      },
+      {
+        "narration": "Sasanian King Shapur II immediately launched a scorched-earth strategy, destroying all local grain stores and burning surrounding farmland to starve the invaders.",
+        "search": "shapur ii rock relief carving close up",
+        "caption": "King Shapur II ordered the total destruction of all regional food supplies."
+      },
+      {
+        "narration": "As the army attempted to retreat northward, heavily armored Sasanian cataphracts and horse archers launched constant hit-and-run strikes against the exhausted columns.",
+        "search": "sasanian cataphract cavalry warrior illustration",
+        "caption": "Heavily armored Persian cavalry relentlessly ambushed the heat-exhausted Roman columns."
+      },
+      {
+        "narration": "Raging desert heat exceeding forty degrees Celsius combined with severe food shortages forced legionaries to slaughter their transport animals for survival.",
+        "search": "roman legionaries marching desert oil painting",
+        "caption": "Starvation and heatstroke devastated the ranks as supplies vanished completely."
+      },
+      {
+        "narration": "On June 26, 363 AD, near Samarra, Persian cavalry struck the disorganized Roman rear guard in a sudden ambush.",
+        "search": "battle of samarra 363 ad battle oil painting",
+        "caption": "A surprise cavalry attack struck the unprepared vanguard at Samarra in 363 AD."
+      },
+      {
+        "narration": "Emperor Julian rushed into the chaotic skirmish without his armor and was pierced in the abdomen by a spear, dying hours later in his tent.",
+        "search": "emperor julian the apostate bust statue",
+        "caption": "Emperor Julian entered combat unarmored and suffered a fatal spear wound."
+      },
+      {
+        "narration": "His successor, Emperor Jovian, signed a humiliating peace treaty surrendering five eastern provinces and the fortress city of Nisibis to secure safe passage home.",
+        "search": "emperor jovian roman coin detail",
+        "caption": "Emperor Jovian surrendered five strategic provinces to secure safe retreat."
+      },
+      {
+        "narration": "Julian's destruction of his own supply fleet resulted in one of Rome's greatest military disasters, ending the last pagan imperial line and permanently weakening the eastern border.",
+        "search": "roman empire eastern frontier map engraving",
+        "caption": "The disastrous campaign permanently weakened Rome's eastern borders for centuries."
+      },
+      {
+        "narration": "Why did Emperor Julian burn his navy in enemy territory? In May 363 AD, a single tactical error doomed ninety thousand Roman legionaries.",
+        "search": "julian apostate marble bust statue",
+        "caption": "Emperor Julian made a fatal miscalculation in Persia."
+      },
+      {
+        "narration": "King Shapur II of the Sasanian Empire avoided direct field battles, ordering his forces to burn surrounding crops and poison local water supplies.",
+        "search": "shapur ii sasanian coin portrait",
+        "caption": "King Shapur II executed a ruthless scorched-earth strategy."
+      },
+      {
+        "narration": "As the invasion force reached the fortified walls of Ctesiphon, over one thousand Roman riverboats became trapped in shallow canal channels.",
+        "search": "ctesiphon ruins old engraving",
+        "caption": "Over one thousand Roman ships stalled along Persian canals."
+      },
+      {
+        "narration": "Misled by Persian double agents who promised a rapid inland victory, Julian ordered his entire supply fleet set ablaze.",
+        "search": "burning wooden ships oil painting",
+        "caption": "Julian ordered his main supply fleet set ablaze."
+      },
+      {
+        "narration": "With their retreat route and food supplies destroyed by fire, panic swept through ninety thousand Roman soldiers stranded in scorching heat.",
+        "search": "roman legionaries marching desert oil painting soldiers",
+        "caption": "Ninety thousand soldiers faced starvation in the desert heat."
+      },
+      {
+        "narration": "Persian cataphracts in iron armor launched relentless ambush attacks against the starving, retreating Roman columns.",
+        "search": "sasanian cataphract cavalry warrior illustration heavy",
+        "caption": "Heavy Persian cavalry relentlessly harassed the retreating Romans."
+      },
+      {
+        "narration": "On June 26, 363 AD, during the Battle of Samarra, Julian rushed into combat without his armor and was fatally wounded by a spear.",
+        "search": "death of emperor julian oil painting",
+        "caption": "Julian was mortally wounded at the Battle of Samarra."
+      },
+      {
+        "narration": "The newly acclaimed Emperor Jovian surrendered five strategic eastern provinces to buy safe passage home for the surviving legions.",
+        "search": "ancient roman empire map engraving 363 ad",
+        "caption": "Rome surrendered major eastern territories to secure retreat."
+      },
+      {
+        "narration": "Julian's fatal campaign permanently ended the Constantinian dynasty and extinguished Rome's final attempt to restore traditional paganism.",
+        "search": "roman empire map 4th century engraving",
+        "caption": "The End of Roman Paganism"
+      },
+      {
+        "narration": "Under the humiliating treaty of 363 AD, Rome surrendered Nisibis and five vital provinces along the Tigris River.",
+        "search": "nisibis fortress ancient mesopotamia map drawing",
+        "caption": "Surrender of Eastern Provinces"
+      },
+      {
+        "narration": "Upon assuming power, Emperor Jovian immediately restored Christianity as the empire's official religion before even reaching Constantinople.",
+        "search": "emperor jovian roman coin close up",
+        "caption": "Jovian Restores Christianity"
+      },
+      {
+        "narration": "Persian King Shapur II commemorated his triumph by carving rock reliefs at Bishapur showing Julian fallen beneath his warhorse.",
+        "search": "shapur ii relief bishapur iran ancient carving",
+        "caption": "Shapur II Triumphant Carving"
+      },
+      {
+        "narration": "Eyewitness historian Ammianus Marcellinus recorded that Julian's reckless burning of his supply fleet stripped the army of all hope.",
+        "search": "ammianus marcellinus manuscript page illustration",
+        "caption": "Eyewitness Accounts of Disaster"
+      },
+      {
+        "narration": "Without their river fleet, Roman commanders lost the ability to project amphibious force deep into Sasanian territory ever again.",
+        "search": "ancient river galley ship drawing engraving",
+        "caption": "Loss of Amphibious Capability"
+      },
+      {
+        "narration": "The crippled eastern frontier allowed the Sasanian Empire to dominate regional trade routes and borderlands for generations.",
+        "search": "sasanian empire army relief carving iran",
+        "caption": "Sasanian Dominance Established"
+      },
+      {
+        "narration": "By burning his own fleet, Julian converted a promising invasion into one of ancient history's most catastrophic military blunders.",
+        "search": "emperor julian bust statue marble portrait",
+        "caption": "History's Greatest Military Blunder"
+      },
+      {
+        "narration": "As the smoke from a thousand burning supply ships filled the sky above the Tigris in 363 AD, ninety thousand Roman soldiers realized their rations and escape route had vanished simultaneously.",
+        "search": "roman army watching fleet burn manuscript illustration",
+        "caption": "1,000 Roman ships burned on the Tigris River, 363 AD."
+      },
+      {
+        "narration": "Persian King Shapur II ordered his forces to ignite every crop field and poison local wells, transforming the fertile mesopotamian plain into a scorched wasteland.",
+        "search": "king shapur ii sassanian relief sculpture rock carving",
+        "caption": "Sasanian King Shapur II ordered complete scorched-earth defense tactics."
+      },
+      {
+        "narration": "Deprived of river transport, the heavily armored legionaries were forced to march under intense summer heat through barren, smoke-filled desert terrain.",
+        "search": "roman legionaries marching desert ancient map engraving",
+        "caption": "Roman legionaries marched through fifty-degree summer desert heat."
+      },
+      {
+        "narration": "Hidden Sasanian cataphracts and mounted archers executed non-stop hit-and-run ambushes on the stretched Roman supply columns, picking off exhausted stragglers.",
+        "search": "sassanian cataphract cavalry warrior armor museum illustration",
+        "caption": "Heavy Sasanian cataphracts relentlessly ambushed stretched Roman columns."
+      },
+      {
+        "narration": "Starvation rapidly reduced the fighting capacity of the legions, forcing soldiers to slaughter their own transport mules and pack animals for meager meat.",
+        "search": "ancient roman camp starvation battle manuscript illumination",
+        "caption": "Starvation forced Roman soldiers to butcher their transport animals."
+      },
+      {
+        "narration": "Despite mounting casualties, Emperor Julian refused to negotiate terms, believing his divine mission to eclipse Alexander the Great would ultimately deliver victory.",
+        "search": "emperor julian apostate marble bust statue close up",
+        "caption": "Emperor Julian refused peace terms, convinced of ultimate victory."
+      },
+      {
+        "narration": "On June 26, 363 AD near Samarra, a surprise Persian attack struck the Roman rear guard, prompting Julian to rush into the chaos without donning his armor.",
+        "search": "battle of samarra 363 ad roman persian fight historic engraving",
+        "caption": "Persian forces ambushed the Roman rear near Samarra, June 363 AD."
+      },
+      {
+        "narration": "A cavalry spear pierced Emperor Julian’s side, severing his liver and triggering immediate panic among the leaderless Roman high command.",
+        "search": "death of emperor julian the apostate battle oil painting",
+        "caption": "Emperor Julian was mortally wounded in battle without his breastplate."
+      },
+      {
+        "narration": "As night fell on June 26, 363 AD, Emperor Julian lay mortally wounded inside his tent, speaking with his officers while internal bleeding drained his life.",
+        "search": "emperor julian dying in tent oil painting",
+        "caption": "Emperor Julian wounded in tent, June 363 AD"
+      },
+      {
+        "narration": "By midnight, the thirty-one-year-old emperor was dead, leaving ninety thousand legionaries stranded deep inside Sasanian territory without a designated heir.",
+        "search": "ancient roman emperor deathbed engraving",
+        "caption": "Death of Julian leaves army without a leader"
+      },
+      {
+        "narration": "Desperate for leadership, the senior military commanders met at dawn on June 27, 363 AD, and elected Jovian, a Christian officer, as the new emperor.",
+        "search": "emperor jovian roman coin",
+        "caption": "Jovian proclaimed Roman Emperor, June 363 AD"
+      },
+      {
+        "narration": "King Shapur II intensified the pursuit, deploying Sasanian war elephants and cataphracts to crush the perimeter of the starving Roman ranks.",
+        "search": "sasanian war elephant ancient illustration",
+        "caption": "Shapur II launches war elephants against Romans"
+      },
+      {
+        "narration": "When the Roman column reached the flooded banks of the Tigris River, they found their escape route blocked and their remaining supplies exhausted.",
+        "search": "tigris river mesopotamia ancient map engraving",
+        "caption": "Romans trapped along Tigris River, July 363 AD"
+      },
+      {
+        "narration": "Facing absolute destruction, Emperor Jovian sent imperial emissaries directly to Shapur II to negotiate terms for safe passage.",
+        "search": "roman envoys negotiating persians oil painting",
+        "caption": "Emperor Jovian sues for peace terms"
+      },
+      {
+        "narration": "Shapur II demanded the immediate surrender of five strategic Roman provinces and the key border fortress of Nisibis.",
+        "search": "shapur ii sasanian king relief sculpture",
+        "caption": "Shapur II demands surrender of five provinces"
+      },
+      {
+        "narration": "Left with no alternative, Jovian agreed to the humiliating terms, handing over territories Rome had defended for over half a century.",
+        "search": "ancient roman treaty manuscript illustration",
+        "caption": "Rome signs humiliating peace treaty, 363 AD"
+      },
+      {
+        "narration": "The citizens of Nisibis were given just three days to evacuate their ancestral home before Sasanian forces occupied the city. Thousands of Roman refugees wept as they abandoned their homes under the terms of the treaty.",
+        "search": "nisibis roman city ruins engraving",
+        "caption": "Roman citizens were forced to evacuate Nisibis within three days."
+      },
+      {
+        "narration": "Jovian led the exhausted remnants of Julian's 90,000-man army back into Roman Syria, their banners lowered in disgrace. The legionaries who survived the desert march returned to an empire deeply shaken by the catastrophe.",
+        "search": "defeated roman legionaries retreat oil painting",
+        "caption": "The surviving legionaries returned to Roman Syria in disgrace."
+      },
+      {
+        "narration": "Historians like Ammianus Marcellinus condemned the peace treaty as the most disgraceful surrender in Roman history. Public outrage flared across the eastern provinces, where citizens felt betrayed by the sudden loss of territory.",
+        "search": "ammianus marcellinus historic manuscript illustration",
+        "caption": "Roman historians condemned the 363 AD treaty as a humiliation."
+      },
+      {
+        "narration": "Emperor Jovian arrived in Antioch to face severe hostility from a population furious over the lost provinces. Seeking to stabilize his reign, Jovian immediately reversed Julian's pagan decrees and restored Christianity as the favored imperial religion.",
+        "search": "emperor jovian portrait roman coin",
+        "caption": "Emperor Jovian restored Christianity to appease a hostile population."
+      },
+      {
+        "narration": "Jovian’s reign proved exceptionally short-lived, ending abruptly in February 364 AD when he was found dead in his tent. Historians suspect accidental carbon monoxide poisoning from a brazier or toxic fumes from fresh paint.",
+        "search": "emperor jovian marble bust statue",
+        "caption": "Emperor Jovian died mysteriously just eight months into his reign."
+      },
+      {
+        "narration": "Following Jovian's sudden death, the military elevated Valentinian I, who promptly appointed his brother Valens to co-rule the East. Both emperors were left to rebuild a border system severely weakened by Julian's disastrous campaign.",
+        "search": "emperor valentinian i bust statue",
+        "caption": "Imperial succession passed to Valentinian I and his brother Valens."
+      },
+      {
+        "narration": "For King Shapur II, the campaign of 363 AD was an absolute triumph that restored Sasanian dominance in the region. Persian rock reliefs carved into cliffs celebrated the defeat of the Roman invaders and the death of Julian.",
+        "search": "shapur ii victory relief rock carving tagh-e bostan photo",
+        "caption": "King Shapur II celebrated his victory over Rome on rock reliefs."
+      },
+      {
+        "narration": "Military strategists throughout history have studied Julian's decision to burn his fleet as a classic example of hubris overcoming logic. By severing his own supply line, the emperor had converted a formidable invasion force into a vulnerable target.",
+        "search": "burning ships battle antique oil painting",
+        "caption": "Burning the fleet remains one of history's costliest military blunders."
+      },
+      {
+        "narration": "In 363 AD, the Roman army under Jovian found itself trapped deep in Sasanian territory without supplies.",
+        "search": "ancient Roman legionary starving illustration",
+        "caption": "Trapped and starving in the Persian desert"
+      },
+      {
+        "narration": "Emperor Jovian had no choice but to negotiate a humiliating peace treaty with King Shapur II.",
+        "search": "ancient Persian Sasanian king Shapur II rock relief",
+        "caption": "Negotiating terms with King Shapur II"
+      },
+      {
+        "narration": "To secure safe passage home, Rome surrendered vital border fortresses including Nisibis and Singara.",
+        "search": "ancient Mesopotamian desert fortress ruin engraving",
+        "caption": "Surrendering vital border fortresses to Persia"
+      },
+      {
+        "narration": "The humiliating terms also forced Rome to abandon its decades-long influence in the kingdom of Armenia.",
+        "search": "ancient Armenian mountainous landscape oil painting",
+        "caption": "Abandoning influence in the kingdom of Armenia"
+      },
+      {
+        "narration": "Back in Constantinople, the news of Julian's death and the disastrous retreat sparked profound shock and political instability.",
+        "search": "ancient Byzantine Constantinople city walls manuscript",
+        "caption": "Shock and instability in Constantinople"
+      },
+      {
+        "narration": "The extinction of the Constantinian dynasty marked the end of an era for paganism within the imperial court.",
+        "search": "Roman imperial throne gold mosaic illustration",
+        "caption": "The end of the Constantinian dynasty"
+      },
+      {
+        "narration": "Subsequent Christian emperors quickly dismantled Julian's religious reforms, cementing Christianity as the dominant faith.",
+        "search": "early Christian Roman basilica interior mosaic art",
+        "caption": "Christianity cemented as the dominant faith"
+      },
+      {
+        "narration": "Julian's fatal hubris in 363 AD remains one of history's most catastrophic military miscalculations.",
+        "search": "ruined ancient Roman column desert sunset oil painting",
+        "caption": "One of history's greatest military blunders"
+      },
+      {
+        "narration": "In June 363 AD, as the Roman army reached the outskirts of Ctesiphon, Emperor Julian faced a brutal logistical impossibility.",
+        "search": "ancient Roman legionary battle oil painting",
+        "caption": "The Roman army halted outside Ctesiphon in 363 AD."
+      },
+      {
+        "narration": "The massive fortified Sasanian capital could not be taken quickly, and rowing the heavy supply fleet back upstream was out of the question.",
+        "search": "Sasanian city walls ancient illustration",
+        "caption": "Ctesiphon's formidable defenses blocked the Roman advance."
+      },
+      {
+        "narration": "Influenced by questionable intelligence from Persian double agents, Julian made the catastrophic decision to burn his entire fleet of 1,000 vessels.",
+        "search": "Roman emperor portrait mosaic detail",
+        "caption": "Julian ordered his 1,000 supply ships burned to ashes."
+      },
+      {
+        "narration": "Panic instantly tore through the ranks of 90,000 soldiers as they watched their food, medicine, and retreat route go up in flames.",
+        "search": "burning ships ancient harbor illustration",
+        "caption": "Ninety thousand Roman soldiers watched their supplies burn."
+      },
+      {
+        "narration": "Sasanian King Shapur II ruthlessly exploited the chaos by burning local crops, trapping the Romans in a scorched, sun-baked wasteland.",
+        "search": "ancient Persian king Shapur coin relief",
+        "caption": "King Shapur II scorched the earth ahead of Rome."
+      },
+      {
+        "narration": "Cut off and starving, the Roman columns were relentlessly battered by heavy Persian cataphracts and deadly horse archers.",
+        "search": "Sasanian cataphract horse archer battle art",
+        "caption": "Persian cataphracts relentlessly ambushed the starving Roman columns."
+      },
+      {
+        "narration": "During the desperate retreat at the Battle of Samarra on June 26, 363 AD, Julian rushed into combat without his armor.",
+        "search": "ancient Roman battle spear wound painting",
+        "caption": "Julian charged into the Battle of Samarra without armor."
+      },
+      {
+        "narration": "Struck by a fatal spear thrust, the scholar-emperor died in his tent that night, sealing the doom of his pagan empire.",
+        "search": "ancient Roman marble bust statue museum",
+        "caption": "A fatal spear thrust ended Julian's ambitious campaign."
+      },
+      {
+        "narration": "Command of the shattered Roman force fell to the hastily elected general Jovian in June 363 AD.",
+        "search": "Roman emperor Jovian ancient coin profile",
+        "caption": "Emperor Jovian takes command of the ruined army"
+      },
+      {
+        "narration": "Surrounded and starving, Jovian had no leverage to negotiate with the victorious Sasanian King Shapur II.",
+        "search": "Sasanian king Shapur II silver plate relief art",
+        "caption": "Sasanian King Shapur II demands total surrender"
+      },
+      {
+        "narration": "To secure safe passage back to Roman borders, Jovian signed a humiliating thirty-year peace treaty in July 363 AD.",
+        "search": "ancient Roman treaty scroll manuscript illustration",
+        "caption": "The humiliating thirty-year peace treaty signed"
+      },
+      {
+        "narration": "Rome surrendered five vital frontier provinces and the strategic fortress city of Nisibis to Persia.",
+        "search": "ancient Roman desert fortress ruins Jordan",
+        "caption": "Surrender of vital Roman frontier provinces"
+      },
+      {
+        "narration": "The catastrophic campaign ended the last attempt by a pagan emperor to restore traditional Roman religion.",
+        "search": "Roman temple ruins ancient stone columns Italy",
+        "caption": "Failure of the pagan religious restoration"
+      },
+      {
+        "narration": "Julian's suicide fleet burning remains one of the most reckless tactical blunders in military history.",
+        "search": "ancient Roman battlefield burning supply ships illustration",
+        "caption": "One of history's greatest military blunders"
+      },
+      {
+        "narration": "The disaster permanently shifted the balance of power in the East toward the Sasanian Empire.",
+        "search": "Sasanian ancient architecture Persepolis stone relief",
+        "caption": "Shift of Eastern power to the Sasanians"
+      },
+      {
+        "narration": "In 363 AD, Emperor Julian destroyed his own supply fleet, sealing the doom of his empire.",
+        "search": "Roman emperor Julian marble bust statue museum",
+        "caption": "Emperor Julian's fatal decision in Persia"
+      },
+      {
+        "narration": "In 363 AD, Roman Emperor Julian did the unthinkable: he burned his own fleet.",
+        "search": "Roman legionary mosaic ancient art",
+        "caption": "Emperor Julian burns his own supply fleet."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T23:21:52.179233+00:00",
+    "updated_at": "2026-11-24T23:35:10.856296+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-24T23:26:05.912067+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3585 chars",
+        "at": "2026-11-24T23:26:44.846650+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "213.7s en-US-GuyNeural 29 cau",
+        "at": "2026-11-24T23:27:02.025378+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T23:27:06.596044+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-24T23:30:32.810381+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "1/3: first-word-instant",
+        "at": "2026-11-24T23:30:32.836439+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 213.7s 163060125 bytes",
+        "at": "2026-11-24T23:35:10.676914+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "5 chapters",
+        "at": "2026-11-24T23:35:10.731031+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T23:35:10.856285+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8963927/pexels-photo-8963927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22857982/pexels-photo-22857982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18463772/pexels-photo-18463772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30821123/pexels-photo-30821123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1235971/pexels-photo-1235971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251079/pexels-photo-31251079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18919711/pexels-photo-18919711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36240444/pexels-photo-36240444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17231456/pexels-photo-17231456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34765919/pexels-photo-34765919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9269135/pexels-photo-9269135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397724/pexels-photo-16397724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319297/pexels-photo-29319297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162209/pexels-photo-6162209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34654885/pexels-photo-34654885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8876645/pexels-photo-8876645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6162205/pexels-photo-6162205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40589845/pexels-photo-40589845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6493544/pexels-photo-6493544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9129534/pexels-photo-9129534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326485/pexels-photo-18326485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35327453/pexels-photo-35327453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31251946/pexels-photo-31251946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7485061/pexels-photo-7485061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41010618/pexels-photo-41010618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494919/pexels-photo-9494919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19797711/pexels-photo-19797711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760108/pexels-photo-7760108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5149241/pexels-photo-5149241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/498706/pexels-photo-498706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5624531/pexels-photo-5624531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13243712/pexels-photo-13243712.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4276087/pexels-photo-4276087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38472511/pexels-photo-38472511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38220453/pexels-photo-38220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35426864/pexels-photo-35426864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38125823/pexels-photo-38125823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10898471/pexels-photo-10898471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25588029/pexels-photo-25588029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9930707/pexels-photo-9930707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37022212/pexels-photo-37022212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27893420/pexels-photo-27893420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37768105/pexels-photo-37768105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37178721/pexels-photo-37178721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4402272/pexels-photo-4402272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708938/pexels-photo-35708938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35699341/pexels-photo-35699341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34652787/pexels-photo-34652787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13043226/pexels-photo-13043226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709064/pexels-photo-35709064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26798933/pexels-photo-26798933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927968/pexels-photo-29927968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29319286/pexels-photo-29319286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13335875/pexels-photo-13335875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40837679/pexels-photo-40837679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397760/pexels-photo-16397760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14654692/pexels-photo-14654692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7760098/pexels-photo-7760098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11146524/pexels-photo-11146524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35831249/pexels-photo-35831249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40154935/pexels-photo-40154935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38934443/pexels-photo-38934443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37503505/pexels-photo-37503505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36755981/pexels-photo-36755981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709047/pexels-photo-35709047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16681649/pexels-photo-16681649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861909/pexels-photo-37861909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13109732/pexels-photo-13109732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29144648/pexels-photo-29144648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29632721/pexels-photo-29632721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2022650/pexels-photo-2022650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33174693/pexels-photo-33174693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29927968/pexels-photo-29927968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37178730/pexels-photo-37178730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342502/pexels-photo-29342502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11618757/pexels-photo-11618757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14552749/pexels-photo-14552749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38855766/pexels-photo-38855766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5624531/pexels-photo-5624531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11130609/pexels-photo-11130609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38806577/pexels-photo-38806577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8fad4a670b",
     "kind": "short",
     "channel": "Channel3",
