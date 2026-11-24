@@ -1,5 +1,161 @@
 [
   {
+    "id": "a051eb7798",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Died of Pure Rage",
+    "idea": {
+      "title": "The Roman Emperor Who Died of Pure Rage",
+      "hook": "Emperor Valentinian the First got so enraged by enemy envoys that his explosive temper proved fatal.",
+      "beats": [
+        "In 375 AD, envoys from the Germanic Quadi tribe offered weak excuses for raiding Roman territory.",
+        "Valentinian flew into a furious violent outburst, screaming so intensely at the diplomats that he ruptured a blood vessel in his neck.",
+        "The emperor collapsed to the floor mid-rant, unable to speak as a stroke rapidly paralyzed his body.",
+        "He died hours later, becoming the only Roman emperor literally killed by his own sudden rage."
+      ],
+      "keywords": [
+        "roman emperor portrait",
+        "ancient rome senate bust",
+        "germanic warriors historical painting",
+        "emperor stroke engraving",
+        "ancient rome map"
+      ],
+      "tags": [
+        "history",
+        "ancientrome",
+        "romanempire",
+        "documentary",
+        "historyfacts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Can pure anger kill a Roman emperor?",
+        "search": "emperor valentinian i marble bust",
+        "caption": "Can pure anger kill a Roman emperor?"
+      },
+      {
+        "narration": "In November 375 AD, Emperor Valentinian the First stationed his army at Brigetio along the Danube frontier.",
+        "search": "ancient rome map engraving danube river",
+        "caption": "Brigetio, Danube Frontier, 375 AD"
+      },
+      {
+        "narration": "The Germanic Quadi tribe had launched sudden attacks on Roman fortifications across the border.",
+        "search": "germanic warriors historical painting",
+        "caption": "The Quadi tribe raided Roman fortifications"
+      },
+      {
+        "narration": "Envoys from the Quadi arrived to negotiate peace, offering weak excuses for their aggression.",
+        "search": "ancient roman diplomats senate historical painting",
+        "caption": "Quadi envoys offered weak peace excuses"
+      },
+      {
+        "narration": "Known for an explosive temper, Valentinian flew into a violent outburst, screaming frantically at the diplomats.",
+        "search": "roman emperor furious portrait sculpture",
+        "caption": "Valentinian flew into a violent outburst"
+      },
+      {
+        "narration": "The intense physical strain suddenly ruptured a vital blood vessel in the emperor's neck.",
+        "search": "emperor stroke medical engraving ancient rome",
+        "caption": "A ruptured blood vessel caused a stroke"
+      },
+      {
+        "narration": "Valentinian collapsed to the floor mid-rant, paralyzed and completely unable to speak.",
+        "search": "dying roman ruler historical oil painting",
+        "caption": "Paralyzed mid-rant, the emperor collapsed"
+      },
+      {
+        "narration": "He died hours later, becoming the only Roman ruler killed by his own sudden rage.",
+        "search": "ancient roman gold coin emperor profile",
+        "caption": "Killed by his own fatal rage"
+      },
+      {
+        "narration": "On November 17, 375 AD, at the fortress of Brigetio, Emperor Valentinian suffered a fatal apoplectic stroke triggered by his fury.",
+        "search": "ancient roman emperor deathbed historical engraving",
+        "caption": "On November 17, 375 AD, Emperor Valentinian suffered a fatal stroke."
+      },
+      {
+        "narration": "His abrupt death left the Western frontier without its fiercest commander, destabilizing the empire right before massive barbarian invasions.",
+        "search": "germanic warriors raiding roman empire historical painting",
+        "caption": "His sudden death plunged the Western Roman Empire into instant instability."
+      },
+      {
+        "narration": "After twelve years of iron rule, Valentinian became the only Roman emperor in history killed entirely by his own uncontrollable rage.",
+        "search": "valentinian i roman emperor marble bust portrait",
+        "caption": "Valentinian remains the only emperor killed by his own sudden rage."
+      },
+      {
+        "narration": "Can an emperor's own anger prove instantly fatal?",
+        "search": "valentinian i roman emperor marble bust statue",
+        "caption": "Can pure rage kill a Roman emperor?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T14:04:33.438717+00:00",
+    "updated_at": "2026-11-24T14:09:18.642659+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-24T14:05:58.407741+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "408 chars (cat 168 de vua 55s)",
+        "at": "2026-11-24T14:07:06.705032+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.5s en-US-GuyNeural 4 cau",
+        "at": "2026-11-24T14:07:10.848209+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T14:07:11.409039+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-24T14:08:48.878789+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-24T14:08:48.897659+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.5s 14788869 bytes",
+        "at": "2026-11-24T14:09:18.469589+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T14:09:18.642650+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/38237021/pexels-photo-38237021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34614302/pexels-photo-34614302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38386528/pexels-photo-38386528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708932/pexels-photo-35708932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17728935/pexels-photo-17728935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20844476/pexels-photo-20844476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37861652/pexels-photo-37861652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32360560/pexels-photo-32360560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35876901/pexels-photo-35876901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11900215/pexels-photo-11900215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38237019/pexels-photo-38237019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6166211/pexels-photo-6166211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "d26f500419",
     "kind": "short",
     "channel": "Channel2",
