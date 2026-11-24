@@ -1,5 +1,161 @@
 [
   {
+    "id": "50914263c0",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Norman Prince Who Escaped an Empire Inside a Rotting Coffin",
+    "idea": {
+      "title": "The Norman Prince Who Escaped an Empire Inside a Rotting Coffin",
+      "hook": "To escape the Byzantine Empire, Prince Bohemond faked his own death and spent weeks inside a sealed coffin packed with a rotting animal.",
+      "beats": [
+        "Trapped in hostile territory, Prince Bohemond needed an impossible getaway past Emperor Alexios's naval blockade.",
+        "He feigned a fatal illness, ordered his men to build a funeral casket, and stuffed it with a decaying dead animal to mimic the stench of a corpse.",
+        "For days at sea, Byzantine inspectors boarded the ship but refused to open the reeking coffin.",
+        "Bohemond burst out alive in Europe, raised a massive crusade army, and returned to challenge the emperor who hunted him."
+      ],
+      "keywords": [
+        "norman knight engraving",
+        "byzantine empire map",
+        "medieval wooden coffin portrait",
+        "crusader prince artwork",
+        "antique sailing ship illustration"
+      ],
+      "tags": [
+        "history",
+        "normans",
+        "crusades",
+        "byzantineempire",
+        "medievalhistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 1104, Norman Prince Bohemond faced total capture by the Byzantine Empire.",
+        "search": "byzantine empire map 12th century manuscript illustration",
+        "caption": "Trapped behind hostile Byzantine naval blockades."
+      },
+      {
+        "narration": "Emperor Alexios locked down every port to hunt down the dangerous crusader.",
+        "search": "crusader prince artwork oil painting",
+        "caption": "Emperor Alexios hunted the Norman prince."
+      },
+      {
+        "narration": "Prince Bohemond feigned a sudden and fatal illness to trick his enemies.",
+        "search": "medieval wooden coffin portrait painting",
+        "caption": "He faked a fatal illness."
+      },
+      {
+        "narration": "His loyal men constructed a wooden funeral casket inside the besieged camp.",
+        "search": "norman knight engraving 12th century",
+        "caption": "A secretive funeral casket was built."
+      },
+      {
+        "narration": "They stuffed the box with a decaying animal to mimic the stench of a corpse.",
+        "search": "medieval manuscript illumination decaying body",
+        "caption": "Stuffed with a rotting animal."
+      },
+      {
+        "narration": "Byzantine inspectors boarded the transport ship during routine maritime patrols.",
+        "search": "antique sailing ship illustration 12th century",
+        "caption": "Byzantine inspectors boarded the ship."
+      },
+      {
+        "narration": "The guards recoiled from the horrific smell and refused to open the coffin.",
+        "search": "medieval guards oil painting art",
+        "caption": "The reeking coffin was left unopened."
+      },
+      {
+        "narration": "Bohemond finally burst out alive upon reaching safe shores in southern Europe.",
+        "search": "medieval southern europe landscape oil painting",
+        "caption": "Bohemond escaped alive to Europe."
+      },
+      {
+        "narration": "In 1104, the newly freed Norman prince wasted no time consolidating his power in southern Europe.",
+        "search": "crusader prince artwork oil painting returns",
+        "caption": "Prince Bohemond returns to Europe"
+      },
+      {
+        "narration": "He rallied a massive crusade army, securing vital backing from the Papacy to strike back against Constantinople.",
+        "search": "medieval wooden coffin portrait illustration",
+        "caption": "Raising an army for revenge"
+      },
+      {
+        "narration": "Returning to the Balkans with full military force, Bohemond finally squared off against Emperor Alexios to settle the ultimate medieval score.",
+        "search": "byzantine empire map antique engraving",
+        "caption": "The ultimate payback against Alexios"
+      },
+      {
+        "narration": "To escape the Byzantine Empire, Prince Bohemond faked his own death inside a rotting coffin.",
+        "search": "crusader prince artwork oil painting",
+        "caption": "The prince who escaped in a coffin."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T06:13:54.178760+00:00",
+    "updated_at": "2026-11-24T06:18:12.113715+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-24T06:15:29.098652+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "359 chars (cat 245 de vua 55s)",
+        "at": "2026-11-24T06:16:01.075936+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.2s en-US-GuyNeural 5 cau",
+        "at": "2026-11-24T06:16:02.845898+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-24T06:16:03.619250+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-24T06:17:30.238281+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-24T06:17:30.268034+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.2s 12354757 bytes",
+        "at": "2026-11-24T06:18:11.969231+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-24T06:18:12.113695+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/37418779/pexels-photo-37418779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4442081/pexels-photo-4442081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10484353/pexels-photo-10484353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38992646/pexels-photo-38992646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10476865/pexels-photo-10476865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36768611/pexels-photo-36768611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15441787/pexels-photo-15441787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13907157/pexels-photo-13907157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20081429/pexels-photo-20081429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7317938/pexels-photo-7317938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40648628/pexels-photo-40648628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11931086/pexels-photo-11931086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "7dfa026d67",
     "kind": "short",
     "channel": "Channel2",
