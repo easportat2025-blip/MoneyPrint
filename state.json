@@ -1,5 +1,162 @@
 [
   {
+    "id": "283a3dc315",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The 1-Second Mistake That Ended Ivan the Terrible’s Dynasty",
+    "idea": {
+      "title": "The 1-Second Mistake That Ended Ivan the Terrible’s Dynasty",
+      "hook": "In 1581, Tsar Ivan the Terrible struck his own son with an iron staff in a fit of rage, destroying his family line in one moment of bitter regret.",
+      "beats": [
+        "Tsar Ivan confronted his pregnant daughter-in-law over her attire, sparking a violent royal argument.",
+        "His eldest son and heir, Tsarevich Ivan, rushed in to protect her and condemned his father.",
+        "Blinded by fury, Tsar Ivan struck his son in the temple with a heavy pointed staff.",
+        "Realizing his fatal error, the Tsar wept in agony as his only capable heir died four days later.",
+        "The tragedy left Russia without a strong successor, triggering decades of brutal civil war known as the Time of Troubles."
+      ],
+      "keywords": [
+        "Ivan the Terrible painting",
+        "Tsar Ivan and his son",
+        "16th century Russia portrait",
+        "Rurik dynasty historical illustration",
+        "Kremlin historical painting"
+      ],
+      "tags": [
+        "#history",
+        "#ruseman",
+        "#ivantheterrible",
+        "#monarchy",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One violent second destroyed Russia's oldest ruling dynasty.",
+        "search": "Ivan the Terrible striking his son historical oil painting",
+        "caption": "One second destroyed Russia's oldest royal dynasty."
+      },
+      {
+        "narration": "In November 1581, the Rurik dynasty had successfully ruled Russia for over seven centuries.",
+        "search": "Rurik dynasty coat of arms historical engraving",
+        "caption": "Seven centuries of royal rule collapsed in 1581."
+      },
+      {
+        "narration": "Tsar Ivan IV, known as Ivan the Terrible, governed Moscow with absolute power and paranoid fury.",
+        "search": "Tsar Ivan the Terrible portrait oil painting",
+        "caption": "Tsar Ivan IV ruled Moscow with absolute power."
+      },
+      {
+        "narration": "His eldest son, Tsarevich Ivan Ivanovich, was the empire's only trained and capable heir to the throne.",
+        "search": "Tsarevich Ivan Ivanovich historical portrait illustration",
+        "caption": "Tsarevich Ivan was the empire's sole capable heir."
+      },
+      {
+        "narration": "Inside the Kremlin palace, Tsar Ivan confronted his pregnant daughter-in-law over her attire, beating her violently.",
+        "search": "Moscow Kremlin palace 16th century illustration",
+        "caption": "A violent Kremlin argument triggered the royal crisis."
+      },
+      {
+        "narration": "Hearing her cries, the young Tsarevich rushed into the royal chambers to protect his wife and confront his father.",
+        "search": "16th century Russian boyars palace interior engraving",
+        "caption": "The young heir rushed in to defend his wife."
+      },
+      {
+        "narration": "Enraged by his son's defiance, Ivan IV raised his heavy pointed iron staff and struck the prince in the temple.",
+        "search": "Tsar Ivan iron staff historical painting detail",
+        "caption": "Ivan struck his own heir with an iron staff."
+      },
+      {
+        "narration": "Horror washed over the Tsar as blood poured onto the floor, while court doctors fought in vain to save the heir.",
+        "search": "Ivan the Terrible weeping over dying son oil painting",
+        "caption": "Court doctors failed to save the dying prince."
+      },
+      {
+        "narration": "Four days later, on November 19, 1581, Tsarevich Ivan succumbed to his head wound while his grief-stricken father wept endlessly over his body.",
+        "search": "Ivan the Terrible holding his dying son oil painting",
+        "caption": "Four days after the blow, the Tsarevich died of his injuries."
+      },
+      {
+        "narration": "The death of his only capable heir left Ivan's weak and unprepared younger son, Feodor, as the sole successor to the crown.",
+        "search": "Tsar Feodor I of Russia historical portrait oil painting",
+        "caption": "Only Tsar Ivan's unprepared younger son remained to inherit the throne."
+      },
+      {
+        "narration": "When Feodor died childless in 1598, seven centuries of Rurik dynasty rule collapsed, plunging Russia into decades of bloody civil war.",
+        "search": "Time of Troubles Moscow Russia historical engraving",
+        "caption": "One moment of rage destroyed a dynasty and triggered decades of war."
+      },
+      {
+        "narration": "In 1581, one terrible blow ended a mighty Russian dynasty.",
+        "search": "Ivan the Terrible oil painting by Ilya Repin close up face",
+        "caption": "The 1-Second Mistake That Ended Ivan the Terrible’s Dynasty"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T03:14:49.982828+00:00",
+    "updated_at": "2026-11-25T03:17:45.580840+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-25T03:15:33.642993+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "380 chars (cat 197 de vua 55s)",
+        "at": "2026-11-25T03:15:53.310829+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-25T03:15:55.783423+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T03:15:56.696493+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-25T03:16:56.503930+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-25T03:16:56.535155+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 16108222 bytes",
+        "at": "2026-11-25T03:17:45.403946+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T03:17:45.580832+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/14169207/pexels-photo-14169207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34995549/pexels-photo-34995549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9337516/pexels-photo-9337516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10498024/pexels-photo-10498024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39482011/pexels-photo-39482011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13425925/pexels-photo-13425925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6466769/pexels-photo-6466769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40012718/pexels-photo-40012718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348992/pexels-photo-8348992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39625422/pexels-photo-39625422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12307632/pexels-photo-12307632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17249498/pexels-photo-17249498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "86afc781fa",
     "kind": "short",
     "channel": "Channel2",
