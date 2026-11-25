@@ -1,5 +1,161 @@
 [
   {
+    "id": "86afc781fa",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The General Who Destroyed Rome's Armies But Lost Everything",
+    "idea": {
+      "title": "The General Who Destroyed Rome's Armies But Lost Everything",
+      "hook": "Hannibal Barca annihilated 80,000 Roman soldiers in one day, only to be betrayed by his own government when victory was within reach.",
+      "beats": [
+        "At age nine, Hannibal swore an oath of eternal hatred against Rome on a sacrificial altar.",
+        "He crossed the frozen Alps with war elephants and devastated Rome’s forces at the Battle of Cannae.",
+        "Fearing his growing power, Carthaginian politicians refused to send reinforcements, leaving his army stranded.",
+        "Rome exploited the delay, invaded undefended Carthage, and forced Hannibal into exile and ultimate defeat."
+      ],
+      "keywords": [
+        "Hannibal Barca portrait",
+        "Battle of Cannae painting",
+        "Ancient Carthage map",
+        "Roman statue bust",
+        "Second Punic War engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#hannibal",
+        "#carthage",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One man wiped out eighty thousand Roman soldiers in a single day.",
+        "search": "Hannibal Barca bust statue close up",
+        "caption": "80,000 Romans died in one single day."
+      },
+      {
+        "narration": "In 216 BC, Hannibal Barca brought the mighty Roman Republic to the brink of total annihilation.",
+        "search": "Battle of Cannae oil painting",
+        "caption": "216 BC: Rome faced absolute extinction."
+      },
+      {
+        "narration": "His vengeance began in 237 BC, when a nine-year-old Hannibal swore an oath of eternal hatred against Rome.",
+        "search": "Young Hannibal swearing oath against Rome oil painting",
+        "caption": "237 BC: A child's oath of eternal hatred."
+      },
+      {
+        "narration": "In 218 BC, he launched an impossible campaign, marching war elephants across the frozen Alps into Italy.",
+        "search": "Hannibal crossing the Alps with elephants oil painting",
+        "caption": "Crossing the Alps with war elephants."
+      },
+      {
+        "narration": "At the Battle of Cannae, Hannibal executed a double-envelopment trap, slaughtering eight Roman legions.",
+        "search": "Ancient Roman soldiers battle tactical map engraving",
+        "caption": "The deadliest tactical trap in ancient history."
+      },
+      {
+        "narration": "Rome stood defenseless and paralyzed with terror, waiting for Hannibal's final march on the city.",
+        "search": "Ancient Rome city walls oil painting",
+        "caption": "Rome paralyzed with terror, expecting destruction."
+      },
+      {
+        "narration": "Yet, fearing his rising power, politicians in Carthage refused to send reinforcements to complete the victory.",
+        "search": "Ancient Carthage senate council oil painting",
+        "caption": "Carthage politicians refused to send reinforcements."
+      },
+      {
+        "narration": "Given time to rebuild, Roman general Scipio Africanus exploited the delay and invaded Carthage in 204 BC.",
+        "search": "Scipio Africanus bust statue portrait",
+        "caption": "204 BC: Rome invades undefended Carthage."
+      },
+      {
+        "narration": "Recalled to defend his homeland in 202 BC, Hannibal faced Roman general Scipio Africanus at the Battle of Zama.",
+        "search": "Battle of Zama history engraving",
+        "caption": "In 202 BC, Hannibal returned to defend Carthage at Zama."
+      },
+      {
+        "narration": "Without his legendary cavalry, Hannibal suffered his first major defeat, and politicians in Carthage surrendered to Rome.",
+        "search": "Ancient Carthage ruins map engraving",
+        "caption": "Stripped of support, Hannibal suffered his first total defeat."
+      },
+      {
+        "narration": "Cornered in 183 BC, Hannibal drank poison rather than submit to Roman captivity, dying a fugitive betrayed by his own empire.",
+        "search": "Death of Hannibal Barca oil painting",
+        "caption": "Rome's deadliest enemy died betrayed by his own homeland."
+      },
+      {
+        "narration": "He destroyed eighty thousand Romans, yet lost everything.",
+        "search": "Battle of Cannae painting historical oil painting",
+        "caption": "He destroyed 80,000 Romans, yet lost everything"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T01:31:04.220284+00:00",
+    "updated_at": "2026-11-25T01:32:48.822833+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-25T01:31:24.247221+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "386 chars (cat 260 de vua 55s)",
+        "at": "2026-11-25T01:31:40.697094+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.5s en-US-GuyNeural 4 cau",
+        "at": "2026-11-25T01:31:42.590842+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T01:31:43.157482+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-25T01:32:15.512486+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-25T01:32:15.535527+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.5s 19062972 bytes",
+        "at": "2026-11-25T01:32:48.645856+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T01:32:48.822823+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15734386/pexels-photo-15734386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14988911/pexels-photo-14988911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33013288/pexels-photo-33013288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41050326/pexels-photo-41050326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40362113/pexels-photo-40362113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38086511/pexels-photo-38086511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37178169/pexels-photo-37178169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38530081/pexels-photo-38530081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38102828/pexels-photo-38102828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37257256/pexels-photo-37257256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16353152/pexels-photo-16353152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645920/pexels-photo-28645920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b38048520b",
     "kind": "short",
     "channel": "Channel3",
