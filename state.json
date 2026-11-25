@@ -1,5 +1,161 @@
 [
   {
+    "id": "ba5a5c0859",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Alexander Destroyed an Unconquerable Island",
+    "idea": {
+      "title": "How Alexander Destroyed an Unconquerable Island",
+      "hook": "Alexander the Great confronted a city floating in the sea—and decided to tear down the shoreline to destroy it.",
+      "beats": [
+        "Tyre sat on an island protected by 150-foot walls and powerful warships.",
+        "Furious at their refusal to surrender, Alexander ordered his engineers to build a giant causeway across the ocean.",
+        "Despite constant fire-arrow attacks and naval raids, his army pushed millions of tons of rock into deep water.",
+        "Months later, the island was no longer an island, and Alexander breached the impenetrable walls in a brutal finale."
+      ],
+      "keywords": [
+        "Alexander the Great",
+        "Siege of Tyre ancient map",
+        "Macedonian army illustration",
+        "ancient city walls painting",
+        "mediterranean sea warship"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#alexanderthegreat",
+        "#militaryhistory",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 332 BC, Alexander built a road through the ocean.",
+        "search": "Alexander the Great mosaic detail portrait",
+        "caption": "Alexander built a road through the ocean."
+      },
+      {
+        "narration": "The island city of Tyre dominated Mediterranean trade, fortified by 150-foot coastal walls.",
+        "search": "Siege of Tyre ancient map engraving",
+        "caption": "Tyre was protected by massive 150-foot sea walls."
+      },
+      {
+        "narration": "Without a strong navy, the Macedonian army could not breach a fortress surrounded by deep water.",
+        "search": "mediterranean sea warship ancient galley painting",
+        "caption": "Alexander lacked a fleet to attack by sea."
+      },
+      {
+        "narration": "Refusing to bypass Tyre, Alexander ordered his engineers to construct a stone causeway half a mile long.",
+        "search": "Macedonian army illustration construction",
+        "caption": "He ordered a half-mile causeway built to the island."
+      },
+      {
+        "narration": "Soldiers dumped millions of tons of rock and timber into the sea under constant missile attack.",
+        "search": "ancient catapult siege battle oil painting",
+        "caption": "Millions of tons of rock were dumped into deep water."
+      },
+      {
+        "narration": "Tyrian galleys launched pitch-filled fire-ships against the Macedonian siege towers, incinerating the timber structures.",
+        "search": "ancient naval fire ship attack oil painting",
+        "caption": "Tyrians set fire to Alexander's giant wooden towers."
+      },
+      {
+        "narration": "Alexander responded by widening the mole and conscripting over two hundred warships from allied Phoenician cities.",
+        "search": "ancient city walls painting siege scene",
+        "caption": "He assembled two hundred warships to blockade the island."
+      },
+      {
+        "narration": "After seven months of engineering warfare, the ocean road finally made contact with Tyre's impenetrable walls.",
+        "search": "ancient siege ram attacking city wall oil painting",
+        "caption": "After seven months, the island was no longer an island."
+      },
+      {
+        "narration": "In July 332 BC, Alexander launched a simultaneous land and sea assault, using naval battering rams to breach the southern wall.",
+        "search": "ancient macedonian battering ram siege oil painting",
+        "caption": "July 332 BC: Naval engines breach Tyre's wall"
+      },
+      {
+        "narration": "Alexander personally led his elite guards through the breach, killing eight thousand defenders and capturing the fallen citadel.",
+        "search": "alexander the great storming city walls painting",
+        "caption": "Alexander breaches the fortress walls"
+      },
+      {
+        "narration": "The massive causeway permanently altered the Mediterranean coastline, turning the unconquerable island of Tyre into a peninsula that remains today.",
+        "search": "ancient tyre harbor causeway historical map engraving",
+        "caption": "Tyre was permanently connected to the mainland"
+      },
+      {
+        "narration": "Alexander the Great erased an island from the map.",
+        "search": "alexander the great bust statue",
+        "caption": "Alexander erased an island from the map"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T13:22:10.514783+00:00",
+    "updated_at": "2026-11-25T13:23:54.256933+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-25T13:22:28.799275+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "400 chars (cat 217 de vua 55s)",
+        "at": "2026-11-25T13:22:38.383707+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 6 cau",
+        "at": "2026-11-25T13:22:40.705590+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T13:22:41.489944+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-25T13:23:11.237709+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-25T13:23:11.265330+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.8s 22962023 bytes",
+        "at": "2026-11-25T13:23:54.077450+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T13:23:54.256920+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/8109752/pexels-photo-8109752.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29579303/pexels-photo-29579303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34761548/pexels-photo-34761548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40805407/pexels-photo-40805407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34902532/pexels-photo-34902532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16386469/pexels-photo-16386469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27925640/pexels-photo-27925640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397833/pexels-photo-16397833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26989226/pexels-photo-26989226.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31658348/pexels-photo-31658348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40223460/pexels-photo-40223460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6711451/pexels-photo-6711451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "96aa84e831",
     "kind": "short",
     "channel": "Channel2",
