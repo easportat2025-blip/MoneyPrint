@@ -1,5 +1,167 @@
 [
   {
+    "id": "e79bcf891c",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do Shut Down máy tính thực ra chưa tắt hẳn máy bạn",
+    "idea": {
+      "title": "Lý do Shut Down máy tính thực ra chưa tắt hẳn máy bạn",
+      "hook": "Bạn tưởng nhấn Shut Down là máy tính đã được nghỉ ngơi hoàn toàn? Thực ra Windows đang giấu bạn một bí mật âm thầm.",
+      "beats": [
+        "Tính năng Fast Startup mặc định lưu trạng thái hệ điều hành vào ổ cứng thay vì tắt hoàn toàn.",
+        "Bộ nhớ tạm và CPU vẫn duy trì các luồng dữ liệu rác tích tụ qua nhiều ngày.",
+        "Hậu quả làm máy tính chậm dần và phát sinh lỗi vặt dù bạn tắt máy mỗi đêm.",
+        "Giải pháp: Nút Restart mới thực sự xả sạch bộ nhớ và khởi động lại từ đầu."
+      ],
+      "keywords": [
+        "laptop user shut down",
+        "computer circuit board background",
+        "digital data processing",
+        "frustrated computer worker",
+        "glowing microchip close up"
+      ],
+      "tags": [
+        "#meotinhoc",
+        "#meomaytinh",
+        "#congnghe",
+        "#kienthuc",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tắt máy bằng Shut Down thực ra máy vẫn chạy?",
+        "search": "nguoi dung bam shut down laptop hoat hoa 3d",
+        "caption": "Shut Down không hề tắt máy hoàn toàn?"
+      },
+      {
+        "narration": "Mỗi tối bạn bấm Shut Down và nghĩ máy tính đang nghỉ ngơi hoàn toàn.",
+        "search": "may tinh laptop gop man hinh isometric animation",
+        "caption": "Thói quen bấm Shut Down mỗi tối"
+      },
+      {
+        "narration": "Thực ra tính năng Fast Startup trên Windows đang âm thầm hoạt động.",
+        "search": "bo mach may tinh mach dien tu motion graphics",
+        "caption": "Bí mật mang tên Fast Startup"
+      },
+      {
+        "narration": "Thay vì tắt hẳn, Windows lưu toàn bộ trạng thái hệ thống vào ổ cứng.",
+        "search": "chip may tinh xu ly du lieu so 3d animation",
+        "caption": "Lưu trạng thái hệ thống vào ổ cứng"
+      },
+      {
+        "narration": "Điều này khiến bộ nhớ và vi xử lý tích tụ dữ liệu rác qua nhiều ngày.",
+        "search": "vi xu ly glowing microchip 3d render",
+        "caption": "Dữ liệu rác tích tụ liên tục"
+      },
+      {
+        "narration": "Hậu quả là máy tính ngày càng chậm lag và dễ phát sinh lỗi vặt.",
+        "search": "nguoi lam viec may tinh buuc boi cartoony 3d",
+        "caption": "Máy chậm lag và phát sinh lỗi vặt"
+      },
+      {
+        "narration": "Dù bạn tắt máy mỗi đêm, số giờ hoạt động liên tục vẫn không giảm.",
+        "search": "man hinh may tinh bi giat lag loop animation",
+        "caption": "Thời gian hoạt động thực sự không giảm"
+      },
+      {
+        "narration": "Vậy làm thế nào để thực sự xả sạch bộ nhớ rác này?",
+        "search": "nut restart tren man hinh may tinh animation",
+        "caption": "Cách giải phóng bộ nhớ triệt để"
+      },
+      {
+        "narration": "Bí mật là nút Restart mới thực sự xả sạch RAM và xóa bỏ toàn bộ luồng dữ liệu rác.",
+        "search": "hoat hinh 3d may tinh nut restart khoi dong lai",
+        "caption": "Nút Restart mới xả sạch hoàn toàn RAM"
+      },
+      {
+        "narration": "Bạn cũng có thể vào phần cài đặt Control Panel để tắt vĩnh viễn tính năng Fast Startup.",
+        "search": "hoat hinh 3d cai dat he dieu hanh windows menu graphics",
+        "caption": "Tắt Fast Startup trong cài đặt Control Panel"
+      },
+      {
+        "narration": "Mẹo nhanh nhất: Hãy giữ phím Shift trong lúc nhấn Shut Down để ép máy tắt hoàn toàn.",
+        "search": "hoat hinh 3d ban phim laptop ngon tay bam phim shift",
+        "caption": "Mẹo: Giữ phím Shift khi bấm Shut Down"
+      },
+      {
+        "narration": "Thực hiện điều này giúp máy tính giải phóng dung lượng bộ nhớ và kéo dài tuổi thọ linh kiện.",
+        "search": "hoat hinh 3d laptop chay muot ma toc do cao glow",
+        "caption": "Giải phóng dữ liệu rác giúp máy chạy mượt hơn"
+      },
+      {
+        "narration": "Hãy mở Task Manager lên ngay để xem máy tính của bạn đã chưa được nghỉ ngơi bao nhiêu ngày!",
+        "search": "hoat hinh 3d dong ho dem thoi gian may tinh task manager",
+        "caption": "Mở Task Manager kiểm tra thời gian máy hoạt động"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T23:51:22.329423+00:00",
+    "updated_at": "2026-11-25T23:59:43.257537+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-25T23:56:40.190364+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "505 chars (cat 75 de vua 55s)",
+        "at": "2026-11-25T23:58:36.940901+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.8s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-25T23:58:49.428306+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T23:58:50.056226+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-25T23:59:02.958874+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-25T23:59:02.979206+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.9s 35486208 bytes",
+        "at": "2026-11-25T23:59:43.082992+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T23:59:43.257530+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8873327/8873327-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/7610993/7610993-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36042799/15285393_1080_1922_60fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39257667/16703052_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/27109490/12074861_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39863062/17002350_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8678467/8678467-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/41028376/17557522_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/38604730/16395998_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/5647324/5647324-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/34342587/14549246_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7448471/7448471-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "7d8a5804e7",
     "kind": "long",
     "channel": "seigh",
