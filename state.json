@@ -1,5 +1,167 @@
 [
   {
+    "id": "6edf641321",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bật Bluetooth liên tục âm thầm định vị bạn chính xác hơn GPS?",
+    "idea": {
+      "title": "Tại sao bật Bluetooth liên tục âm thầm định vị bạn chính xác hơn GPS?",
+      "hook": "Bạn nghĩ tắt GPS là an toàn? Thực ra, chiếc Bluetooth đang bật âm thầm vẽ lại từng bước chân của bạn ở trung tâm thương mại mà bạn không hề hay biết.",
+      "beats": [
+        "Các thiết bị beacon Bluetooth ở chuỗi cửa hàng liên tục nhận phát tín hiệu với điện thoại của bạn.",
+        "Định vị Bluetooth xác định vị trí chính xác đến từng mét trong nhà, điều mà sóng GPS ngoài trời chịu thua.",
+        "Dữ liệu di chuyển này được tổng hợp để phân tích thói quen mua sắm thực tế của bạn.",
+        "Chỉ cần thói quen tắt Bluetooth khi ra đường, bạn vừa bảo vệ quyền riêng tư vừa tiết kiệm pin."
+      ],
+      "keywords": [
+        "bluetooth tracking",
+        "smartphone user",
+        "shopping mall store",
+        "digital privacy",
+        "cyber security"
+      ],
+      "tags": [
+        "#congnghe",
+        "#meodienthoai",
+        "#baomat",
+        "#channel3",
+        "#thoiquen"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tắt GPS vẫn bị định vị chính xác từng mét?",
+        "search": "dien thoai smartphone ket noi bluetooth 3d animation",
+        "caption": "Tắt GPS vẫn bị định vị chính xác từng mét?"
+      },
+      {
+        "narration": "GPS thông thường rất khó xuyên qua bê tông và dễ mất tín hiệu khi bạn vào trong nhà.",
+        "search": "song ve tinh gps dinh vi dien thoai isometric render",
+        "caption": "GPS dễ mất tín hiệu trong các tòa nhà"
+      },
+      {
+        "narration": "Tuy nhiên các trung tâm thương mại lại lắp đặt hàng loạt thiết bị nhỏ gọi là Bluetooth Beacon.",
+        "search": "thiet bi thong minh trong trung tam thuong mai 3d animation",
+        "caption": "Thiết bị Bluetooth Beacon ẩn giấu khắp nơi"
+      },
+      {
+        "narration": "Chỉ cần Bluetooth đang bật, điện thoại sẽ âm thầm phát và nhận tín hiệu từ các Beacon này.",
+        "search": "tin hieu song bluetooth dien thoai ban do 3d render",
+        "caption": "Điện thoại tự động phát tín hiệu liên tục"
+      },
+      {
+        "narration": "Nhờ mạng lưới Beacon dày đặc, hệ thống tính toán được vị trí chính xác đến từng mét.",
+        "search": "mo hinh sieu thi gian hang trung tam thuong mai isometric",
+        "caption": "Xác định chính xác đến từng quầy hàng"
+      },
+      {
+        "narration": "Dữ liệu di chuyển này tiết lộ bạn đứng trước gian hàng nào lâu nhất để phân tích thói quen.",
+        "search": "bieu do du lieu nguoi dung smartphone 3d motion graphics",
+        "caption": "Dữ liệu bước chân bị thu thập để phân tích"
+      },
+      {
+        "narration": "Không chỉ tiết lộ vị trí, việc quét tín hiệu Bluetooth liên tục còn khiến điện thoại cực kỳ hao pin.",
+        "search": "pin dien thoai het pin sap nguon cartoony 3d",
+        "caption": "Bluetooth bật liên tục khiến máy nhanh hết pin"
+      },
+      {
+        "narration": "Tắt Bluetooth khi không sử dụng giúp bạn vừa bảo vệ quyền riêng tư vừa tiết kiệm pin.",
+        "search": "tay bam tat bluetooth tren dien thoai 3d animation",
+        "caption": "Tắt Bluetooth khi ra ngoài để tự bảo vệ"
+      },
+      {
+        "narration": "Các trạm beacon thu nhỏ ẩn trong các gian hàng liên tục gửi và nhận tín hiệu với Bluetooth điện thoại của bạn.",
+        "search": "hoat hinh 3d thiet bi beacon phat song bluetooth",
+        "caption": "Beacon cửa hàng liên tục kết nối với Bluetooth điện thoại"
+      },
+      {
+        "narration": "Sóng GPS dễ mất tín hiệu trong nhà, nhưng Bluetooth lại định vị chính xác vị trí bạn đứng tới từng mét.",
+        "search": "3d motion graphics dinh vi bluetooth trong nha chinh xac",
+        "caption": "Bluetooth định vị chính xác từng mét ngay trong nhà"
+      },
+      {
+        "narration": "Toàn bộ lộ trình và thời gian bạn dừng lại ở mỗi quầy hàng đều được lưu trữ để phân tích thói quen.",
+        "search": "hoat hinh isometric phan tich du lieu thoi quen mua sam",
+        "caption": "Lưu vết lộ trình và thói quen mua sắm của bạn"
+      },
+      {
+        "narration": "Hành động tìm kiếm thiết bị xung quanh liên tục này cũng là nguyên nhân khiến pin điện thoại tụt không phanh.",
+        "search": "3d animation pin dien thoai giam phan tram bluetooth",
+        "caption": "Quét tín hiệu liên tục làm tụt pin rất nhanh"
+      },
+      {
+        "narration": "Hình thành thói quen tắt Bluetooth khi không dùng vừa chặn định vị lén vừa giúp pin dùng lâu hơn đáng kể.",
+        "search": "hoat hinh 3d tay bam tat bluetooth dien thoai",
+        "caption": "Tắt Bluetooth khi ra ngoài để bảo mật và tiết kiệm pin"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T08:57:04.846160+00:00",
+    "updated_at": "2026-11-25T09:00:56.696676+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-25T08:57:25.962613+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "541 chars (cat 54 de vua 55s)",
+        "at": "2026-11-25T08:57:33.470071+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.8s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-11-25T08:57:50.339489+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T08:57:51.097611+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-25T09:00:08.932190+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-25T09:00:08.957857+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.8s 25417859 bytes",
+        "at": "2026-11-25T09:00:56.554881+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T09:00:56.696657+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/9130470/9130470-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/29450494/12677768_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16655789/16655789-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283173/15283173-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107093/13688569_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16561464/16561464-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16561462/16561462-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816988/8816988-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/9130467/9130467-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/31464974/13417760_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/32107040/13687932_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16456773/16456773-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36124120/15319560_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "42776219bf",
     "kind": "short",
     "channel": "Channel2",
