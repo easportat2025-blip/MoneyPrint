@@ -1,5 +1,167 @@
 [
   {
+    "id": "b38048520b",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao đắp chăn nặng thực ra giúp bạn ngủ nhanh gấp đôi?",
+    "idea": {
+      "title": "Tại sao đắp chăn nặng thực ra giúp bạn ngủ nhanh gấp đôi?",
+      "hook": "Hóa ra cảm giác đắp một chiếc chăn thật nặng không hề gây khó chịu, mà là bí quyết sinh học giúp não bạn lập tức hạ bớt căng thẳng.",
+      "beats": [
+        "Áp lực sâu từ chăn nặng kích thích hệ thần kinh đối giao cảm, giảm hormone căng thẳng cortisol.",
+        "Não bộ tự động tăng sản xuất serotonin và melatonin – hai chất giúp cơ thể thả lỏng và đi vào giấc ngủ.",
+        "Hiện tượng này mô phỏng cảm giác ôm an toàn từ bé, giúp giảm sự chới với của hệ thần kinh.",
+        "Nghiên cứu chỉ ra chiếc chăn có trọng lượng bằng khoảng 10% cơ thể sẽ cho hiệu quả sâu nhất."
+      ],
+      "keywords": [
+        "weighted blanket sleep",
+        "sleeping in bed cozy",
+        "heavy blanket bedroom",
+        "relaxed brain activity",
+        "human sleeping peacefully"
+      ],
+      "tags": [
+        "Channel3",
+        "mẹo ngủ ngon",
+        "sức khỏe giấc ngủ",
+        "bí mật cơ thể",
+        "khoa học đời sống"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đắp chăn nặng giúp bạn ngủ nhanh gấp đôi.",
+        "search": "hoat hinh 3d nguoi nam ngu dap chan nang",
+        "caption": "Đắp chăn nặng giúp ngủ nhanh gấp 2 lần"
+      },
+      {
+        "narration": "Nhiều người nghĩ chăn nặng gây bí bách, nhưng não bộ lại phản ứng hoàn toàn ngược lại.",
+        "search": "hoat hinh 3d nao bo phat sang xanh",
+        "caption": "Não bộ phản ứng bất ngờ với áp lực nặng"
+      },
+      {
+        "narration": "Sức nặng của chăn tạo ra lực ép sâu kích thích hệ thần kinh đối giao cảm.",
+        "search": "hoat hinh 3d luong dien he than kinh co the",
+        "caption": "Áp lực sâu kích hoạt hệ thần kinh thả lỏng"
+      },
+      {
+        "narration": "Ngay lập tức, nồng độ hormone gây căng thẳng cortisol trong cơ thể bị kéo tụt xuống.",
+        "search": "hoat hinh 3d bieu do giam giot mau cortisol",
+        "caption": "Nồng độ hormone căng thẳng Cortisol giảm mạnh"
+      },
+      {
+        "narration": "Cùng lúc đó, não bộ bắt đầu giải phóng serotonin và tự động chuyển hóa thành melatonin.",
+        "search": "hoat hinh 3d phan tu melatonin phat sang",
+        "caption": "Tăng sản sinh Melatonin thúc đẩy cơn buồn ngủ"
+      },
+      {
+        "narration": "Cảm giác nén này vô thức mô phỏng lại ôm an toàn từ thời thơ ấu.",
+        "search": "hoat hinh 3d vong tay om em be ngu",
+        "caption": "Mô phỏng cảm giác ôm an toàn thời thơ ấu"
+      },
+      {
+        "narration": "Sự chới với của hệ thần kinh bị dập tắt, giúp toàn bộ cơ bắp thả lỏng hoàn toàn.",
+        "search": "hoat hinh 3d co bap co the tha long",
+        "caption": "Dập tắt trạng thái báo động của cơ thể"
+      },
+      {
+        "narration": "Tuy nhiên, chăn chỉ có tác dụng tối đa nếu trọng lượng bằng 10% cơ thể bạn.",
+        "search": "hoat hinh 3d chieu chan dat tren cai can",
+        "caption": "Trọng lượng chăn lý tưởng bằng 10% cơ thể"
+      },
+      {
+        "narration": "Nếu chăn quá nhẹ dưới mức này, não bộ sẽ không nhận đủ tín hiệu áp lực để kích hoạt giấc ngủ sâu.",
+        "search": "3d animation nguoi nam giuong chan mong",
+        "caption": "Chăn quá nhẹ không đủ kích thích não bộ"
+      },
+      {
+        "narration": "Ngược lại, chăn quá nặng trên 15% cân nặng sẽ gây đè nén lồng ngực, làm nhịp thở bị gián đoạn.",
+        "search": "3d animation ap luc long nguc nhip tho",
+        "caption": "Chăn quá nặng làm cản trở nhịp thở"
+      },
+      {
+        "narration": "Nhưng khi dùng đúng tỉ lệ 10%, nhịp tim của bạn sẽ tự động giảm 10% chỉ sau 15 phút.",
+        "search": "3d animation nhip tim giam dong ho dem",
+        "caption": "Nhịp tim giảm 10% chỉ sau 15 phút"
+      },
+      {
+        "narration": "Thời gian trằn trọc đi vào giấc ngủ nhờ đó rút ngắn từ 40 phút xuống chỉ còn dưới 18 phút.",
+        "search": "3d animation dong ho quay nhanh giuong ngu",
+        "caption": "Thời gian ngủ rút ngắn hơn một nửa"
+      },
+      {
+        "narration": "Một chiếc chăn nặng chuẩn chính là cái ôm sinh học giúp não bạn chìm vào giấc ngủ sâu nhanh gấp đôi.",
+        "search": "3d animation cai om sinh hoc giac ngu sau",
+        "caption": "Cái ôm sinh học giúp ngủ nhanh gấp đôi"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-24T23:59:50.378076+00:00",
+    "updated_at": "2026-11-25T00:02:03.371298+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-25T00:00:13.039057+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "497 chars (cat 213 de vua 55s)",
+        "at": "2026-11-25T00:00:32.496386+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.5s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-25T00:00:46.536869+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T00:00:47.495613+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-25T00:01:01.525417+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-25T00:01:01.552932+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.6s 38882663 bytes",
+        "at": "2026-11-25T00:02:03.181483+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T00:02:03.371280+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/38061652/16157360_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5213006/5213006-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/34908797/14788373_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8819490/8819490-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39481048/16816866_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8816908/8816908-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/41126600/17609077_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/17980166/17980166-uhd_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6799873/6799873-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/35458358/15022618_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8818614/8818614-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39467060/16810643_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34744516/14729277_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "2456edb17e",
     "kind": "long",
     "channel": "seigh",
