@@ -1,5 +1,161 @@
 [
   {
+    "id": "42776219bf",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Wrestling Partner Ended Rome’s Deadliest Tyrant",
+    "idea": {
+      "title": "How a Wrestling Partner Ended Rome’s Deadliest Tyrant",
+      "hook": "Narcissus agreed to strangle Emperor Commodus in a bathhouse, ending one of Rome's most terrifying tyrannies in silence.",
+      "beats": [
+        "Emperor Commodus believed he was Hercules reincarnated, terrorizing Rome's elite and forcing senators to watch him fight as a gladiator.",
+        "After finding her own name on Commodus' death list, his mistress Marcia orchestrated a secret assassination plot.",
+        "The conspirators first poisoned Commodus' wine, but when the emperor vomited the toxin, they sent in his personal wrestler Narcissus to finish the job.",
+        "Narcissus overpowered and strangled the Emperor in his bath, ending the Antonine dynasty in a single night."
+      ],
+      "keywords": [
+        "Emperor Commodus portrait",
+        "Ancient Roman gladiator bust",
+        "Roman bath house engraving",
+        "Ancient Rome palace murder painting",
+        "Commodus marble bust"
+      ],
+      "tags": [
+        "commodus",
+        "roman empire",
+        "ancient rome",
+        "history documentaries",
+        "roman history"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A personal wrestler strangled Rome's deadliest emperor in 192.",
+        "search": "Commodus marble bust statue portrait",
+        "caption": "A wrestler strangled Rome's tyrant emperor in AD 192."
+      },
+      {
+        "narration": "Emperor Commodus had reduced the empire to terror, bankrupting the treasury while styling himself as Hercules.",
+        "search": "Commodus as Hercules marble bust sculpture",
+        "caption": "Commodus claimed to be Hercules reincarnated."
+      },
+      {
+        "narration": "By December 192, he forced Roman senators to watch him butcher opponents in the arena as a gladiator.",
+        "search": "Ancient Roman gladiator arena oil painting",
+        "caption": "Senators were forced to watch his gladiatorial fights."
+      },
+      {
+        "narration": "When his mistress Marcia discovered her name on his secret execution tablet, she realized they had hours to act.",
+        "search": "Ancient Roman palace interior oil painting",
+        "caption": "Marcia found her name on the emperor's death list."
+      },
+      {
+        "narration": "Marcia spiked Commodus' wine with poison after his workout, but the emperor vomited the toxin back up.",
+        "search": "Ancient Roman feast goblet oil painting",
+        "caption": "The poisoned wine failed when Commodus vomited."
+      },
+      {
+        "narration": "Desperate before the emperor could recover, the conspirators turned to Narcissus, his athletic wrestling partner.",
+        "search": "Ancient Roman wrestler athlete statue",
+        "caption": "Conspirators recruited his personal wrestler Narcissus."
+      },
+      {
+        "narration": "Narcissus ambushed Commodus inside his steaming palace bathhouse and strangled the tyrant to death in silence.",
+        "search": "Roman bath house engraving illustration",
+        "caption": "Narcissus strangled Emperor Commodus in his bath."
+      },
+      {
+        "narration": "The assassination ended the Antonine dynasty in a single night, plunging Rome into the Year of the Five Emperors.",
+        "search": "Ancient Rome palace murder painting",
+        "caption": "His death shattered Rome, triggering civil war."
+      },
+      {
+        "narration": "In 193 AD, the Praetorian Guard quickly auctioned off the vacant imperial throne to the highest bidder.",
+        "search": "Roman marble bust statue antique artifact gallery",
+        "caption": "The imperial throne auctioned to the highest bidder"
+      },
+      {
+        "narration": "This blatant corruption triggered a brutal civil war that shattered the stability of the entire Roman Empire.",
+        "search": "Ancient Roman gladiator bust stone sculpture",
+        "caption": "A brutal civil war shatters Roman stability"
+      },
+      {
+        "narration": "Narcissus used a wrestling grip to end a tyranny, proving that even emperors fall to the simplest betrayal.",
+        "search": "Ancient Rome palace murder painting oil canvas",
+        "caption": "A wrestling grip ends Rome's deadliest tyranny"
+      },
+      {
+        "narration": "A wrestler secretly strangled Rome's deadliest emperor in 192 AD.",
+        "search": "Commodus marble bust statue",
+        "caption": "A wrestler strangled Rome's deadliest emperor in 192 AD"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T04:59:06.347166+00:00",
+    "updated_at": "2026-11-25T05:02:26.170906+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-25T05:00:06.745775+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "353 chars (cat 294 de vua 55s)",
+        "at": "2026-11-25T05:00:29.991706+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.5s en-US-GuyNeural 5 cau",
+        "at": "2026-11-25T05:00:34.620610+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T05:00:35.461207+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-25T05:01:40.970612+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-25T05:01:41.002843+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.5s 12812093 bytes",
+        "at": "2026-11-25T05:02:25.996053+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T05:02:26.170893+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/17279677/pexels-photo-17279677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726194/pexels-photo-23726194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14683056/pexels-photo-14683056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18721697/pexels-photo-18721697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17290372/pexels-photo-17290372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33902043/pexels-photo-33902043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4577639/pexels-photo-4577639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39313515/pexels-photo-39313515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31164214/pexels-photo-31164214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35348996/pexels-photo-35348996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6932220/pexels-photo-6932220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28224885/pexels-photo-28224885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "283a3dc315",
     "kind": "short",
     "channel": "Channel2",
