@@ -1,5 +1,167 @@
 [
   {
+    "id": "d6f5565b81",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do chụp ảnh bật vị trí âm thầm tiết lộ địa chỉ nhà bạn",
+    "idea": {
+      "title": "Lý do chụp ảnh bật vị trí âm thầm tiết lộ địa chỉ nhà bạn",
+      "hook": "Bạn nghĩ gửi một bức ảnh chụp con mèo ở nhà cho người lạ là an toàn? Thực ra, bạn vừa vô tình đưa cho họ tọa độ chính xác từng cen-ti-mét nơi bạn ở.",
+      "beats": [
+        "Mỗi bức ảnh chụp bằng điện thoại đều tự động đính kèm dữ liệu ẩn gọi là EXIF.",
+        "Dữ liệu này lưu lại chính xác tọa độ GPS, thời gian chụp và thiết bị sử dụng.",
+        "Khi gửi ảnh gốc qua ứng dụng tin nhắn không nén, bất kỳ ai cũng có thể đọc được tọa độ này.",
+        "Cách khắc phục: Tắt tính năng định vị vị trí trong ứng dụng Camera ngay lập tức."
+      ],
+      "keywords": [
+        "smartphone camera",
+        "gps tracking location",
+        "digital data privacy",
+        "cyber security concept",
+        "taking photo phone"
+      ],
+      "tags": [
+        "#meodienthoai",
+        "#baomatthongtin",
+        "#congnghe",
+        "#cuocsong",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Gửi một bức ảnh có thể lộ ngay địa chỉ nhà?",
+        "search": "hoat hinh 3d dien thoai chup anh con meo",
+        "caption": "Gửi 1 bức ảnh lộ ngay vị trí nhà?"
+      },
+      {
+        "narration": "Khi chụp ảnh, điện thoại tự động ghi lại một tệp dữ liệu ngầm gọi là EXIF.",
+        "search": "3d motion graphics du lieu an exif trong dien thoai",
+        "caption": "Dữ liệu ẩn EXIF tự đính kèm vào ảnh"
+      },
+      {
+        "narration": "Tệp này lưu lại chính xác thiết bị, thời gian và tọa độ GPS nơi bạn đứng.",
+        "search": "hoat hinh isometric toan do gps tren ban do dien thoai",
+        "caption": "Tọa độ GPS lưu chính xác từng vị trí"
+      },
+      {
+        "narration": "Nếu gửi ảnh dạng tệp gốc qua ứng dụng tin nhắn, dữ liệu vị trí vẫn được giữ nguyên.",
+        "search": "3d explainer tin nhan gui tep anh tren man hinh",
+        "caption": "Gửi ảnh gốc khiến vị trí bị chia sẻ"
+      },
+      {
+        "narration": "Bất kỳ ai chỉ cần tải ảnh về và kiểm tra EXIF là biết ngay tọa độ chính xác.",
+        "search": "hoat hinh 3d tin tac doc toan do vi tri tren may tinh",
+        "caption": "Kẻ lạ đọc tọa độ nhà bạn chỉ trong vài giây"
+      },
+      {
+        "narration": "Dựa vào đó, kẻ xấu dễ dàng vẽ lại lịch trình và phát hiện vị trí nhà riêng của bạn.",
+        "search": "3d animation ke xau dung ban do theo doi vi tri",
+        "caption": "Nguy cơ bị theo dõi lịch trình sinh hoạt"
+      },
+      {
+        "narration": "Tuy nhiên, bạn có thể ngăn chặn nguy cơ rò rỉ này ngay lập tức.",
+        "search": "3d motion graphics cai dat dien thoai bao mat",
+        "caption": "Có thể chặn rò rỉ vị trí rất dễ dàng"
+      },
+      {
+        "narration": "Hãy vào Cài đặt, chọn ứng dụng Máy ảnh và tắt ngay quyền truy cập Vị trí.",
+        "search": "hoat hinh 3d tat dinh vi vi tri camera dien thoai",
+        "caption": "Tắt vị trí trong Camera để bảo mật ngay"
+      },
+      {
+        "narration": "Khi gửi ảnh gốc qua ứng dụng tin nhắn, toàn bộ dữ liệu ẩn EXIF vẫn được giữ nguyên vẹn.",
+        "search": "hoat hinh 3d dien thoai gui tin nhan hinh anh",
+        "caption": "Gửi ảnh gốc giữ nguyên dữ liệu EXIF"
+      },
+      {
+        "narration": "Người nhận chỉ cần mở chi tiết tệp là thấy ngay tọa độ GPS chính xác từng mét.",
+        "search": "hoat hinh 3d ban do gps toa do dinh vi",
+        "caption": "Tọa độ GPS hiển thị chính xác trên bản đồ"
+      },
+      {
+        "narration": "Kẻ xấu có thể dựa vào đó để theo dõi thói quen sinh hoạt và địa chỉ nhà bạn.",
+        "search": "hoat hinh 3d nguoi theo doi man hinh dien thoai",
+        "caption": "Nguy cơ bị theo dõi vị trí nhà riêng"
+      },
+      {
+        "narration": "Để khắc phục, hãy vào phần Cài đặt điện thoại và tắt quyền Vị trí của Máy ảnh.",
+        "search": "hoat hinh 3d cai dat dien thoai tat vi tri",
+        "caption": "Tắt quyền vị trí trong cài đặt máy ảnh"
+      },
+      {
+        "narration": "Chỉ một thao tác đơn giản giúp bức ảnh của bạn hoàn toàn ẩn danh và an toàn.",
+        "search": "hoat hinh 3d dien thoai bao mat an toan",
+        "caption": "Bảo vệ an toàn tuyệt đối cho ảnh chụp"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T18:23:01.465552+00:00",
+    "updated_at": "2026-11-25T18:25:24.312871+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-25T18:23:31.368323+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "500 chars (cat 48 de vua 55s)",
+        "at": "2026-11-25T18:24:05.197969+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.3s vi-VN-NamMinhNeural 5 cau",
+        "at": "2026-11-25T18:24:21.757526+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T18:24:22.341342+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-25T18:24:46.436449+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-25T18:24:46.455861+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.3s 25888826 bytes",
+        "at": "2026-11-25T18:25:24.103957+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T18:25:24.312865+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/41172654/17632944_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/35304590/14957716_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32107039/13687857_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/6612204/6612204-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/41256669/17678041_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/32768497/13969153_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39473719/16813355_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39833723/16989304_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/36732029/15567372_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/37500922/15887492_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/37595348/15933865_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/7988169/7988169-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16029654/16029654-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "504ce8629f",
     "kind": "short",
     "channel": "Channel3",
