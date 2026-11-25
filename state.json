@@ -1,5 +1,167 @@
 [
   {
+    "id": "4e8ac2be58",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao bạn luôn cảm thấy điện thoại rung dù nó không hề kêu?",
+    "idea": {
+      "title": "Tại sao bạn luôn cảm thấy điện thoại rung dù nó không hề kêu?",
+      "hook": "Bạn đã bao giờ giật mình kiểm tra túi quần vì nghĩ điện thoại rung, nhưng hóa ra chẳng có thông báo nào?",
+      "beats": [
+        "Đây không phải hiện tượng tâm thần, mà là hội chứng ảo giác rung điện thoại (Phantom Vibration Syndrome).",
+        "Hệ thần kinh của bạn đã bị huấn luyện đến mức coi các ma sát nhỏ từ quần áo hoặc cơ bắp co thắt là tín hiệu rung.",
+        "Hơn 89% người dùng smartphone hiện đại gặp phải hiện tượng này do não bộ luôn trong trạng thái mong đợi thông báo.",
+        "Để khắc phục, hãy thử tắt chế độ rung hoặc để điện thoại xa cơ thể trong vài giờ mỗi ngày."
+      ],
+      "keywords": [
+        "phantom vibration syndrome",
+        "man checking phone pocket",
+        "brain neural signal animation",
+        "smartphone addiction stress",
+        "human nervous system sensory"
+      ],
+      "tags": [
+        "#meodungdienthoai",
+        "#suckhoe",
+        "#tamlyhoc",
+        "#channel3",
+        "#kienthucthuvi"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Túi quần vừa rung nhưng điện thoại không có thông báo?",
+        "search": "nam gioi giat minh kiem tra tui quan 3d animation",
+        "caption": "Túi quần rung nhưng không hề có thông báo?"
+      },
+      {
+        "narration": "Hơn 89% người dùng smartphone từng trải qua cảm giác kỳ lạ này.",
+        "search": "bieu do phan tram nguoi dung dien thoai motion graphics",
+        "caption": "89% người dùng smartphone gặp hiện tượng này"
+      },
+      {
+        "narration": "Đây không phải bệnh lý, mà là Hội chứng ảo giác rung điện thoại.",
+        "search": "chu mo ta phantom vibration syndrome isometric render",
+        "caption": "Hội chứng ảo giác rung điện thoại"
+      },
+      {
+        "narration": "Não bộ của bạn luôn ở trong trạng thái căng thẳng mong chờ thông báo.",
+        "search": "nao bo thap sang tin hieu dien tu cartoony 3d",
+        "caption": "Não bộ luôn trong trạng thái chờ tin nhắn"
+      },
+      {
+        "narration": "Sự mong đợi liên tục khiến hệ thần kinh phản ứng nhạy cảm quá mức.",
+        "search": "day than kinh truyen tin hieu 3d animation",
+        "caption": "Hệ thần kinh trở nên phản ứng quá nhạy"
+      },
+      {
+        "narration": "Chỉ ma sát nhỏ từ quần áo hoặc cơ co thắt cũng bị dịch nhầm thành rung.",
+        "search": "ma sat vai quan va co dui rung dong motion graphics",
+        "caption": "Ma sát quần áo bị não dịch nhầm thành rung"
+      },
+      {
+        "narration": "Thói quen nghiện màn hình đã âm thầm huấn luyện lại não bộ của bạn.",
+        "search": "nguoi ngoi nhin man hinh dien thoai trong tinh khong loop animation",
+        "caption": "Thói quen dùng màn hình đã huấn luyện lại não"
+      },
+      {
+        "narration": "Để khắc phục, hãy tắt chế độ rung hoặc để điện thoại xa cơ thể.",
+        "search": "nguoi dat dien thoai len ban xa co the 3d animation",
+        "caption": "Hãy tắt chế độ rung hoặc để điện thoại xa cơ thể"
+      },
+      {
+        "narration": "Thói quen nghiện màn hình đã âm thầm huấn luyện lại não bộ của bạn.",
+        "search": "smartphone addiction stress 3d animation motion graphics",
+        "caption": "Não bộ luôn trong trạng thái mong đợi thông báo"
+      },
+      {
+        "narration": "Hệ thần kinh nhầm lẫn ma sát quần áo thành tín hiệu điện thoại.",
+        "search": "human nervous system sensory explainer animation",
+        "caption": "Dây thần kinh bị đánh lừa bởi ma sát"
+      },
+      {
+        "narration": "Hơn 89% người dùng smartphone hiện đại đều gặp tình trạng này.",
+        "search": "man checking phone pocket loop animation",
+        "caption": "89% người dùng gặp hội chứng này"
+      },
+      {
+        "narration": "Đây là hội chứng ảo giác rung điện thoại cực kỳ phổ biến.",
+        "search": "brain neural signal animation 3d render",
+        "caption": "Hội chứng ảo giác rung điện thoại"
+      },
+      {
+        "narration": "Hãy để điện thoại xa cơ thể vài giờ để hệ thần kinh được nghỉ ngơi.",
+        "search": "phone resting on table isometric render",
+        "caption": "Cách khắc phục đơn giản cho não bộ"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T22:13:49.231772+00:00",
+    "updated_at": "2026-11-25T22:22:48.087197+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-25T22:19:53.038911+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "527 chars (cat 63 de vua 55s)",
+        "at": "2026-11-25T22:21:06.799529+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.8s vi-VN-NamMinhNeural 7 cau",
+        "at": "2026-11-25T22:21:25.119169+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T22:21:26.181867+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-25T22:21:40.218003+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-25T22:21:40.251825+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.8s 27634343 bytes",
+        "at": "2026-11-25T22:22:47.907254+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T22:22:48.087184+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/34619062/14672161_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/27440167/12144790_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/34329302/14543305_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6615066/6615066-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/31464971/13417815_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/28939893/12523801_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/39622863/16889613_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35613915/15092546_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/16456769/16456769-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/6763339/6763339-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/40810691/17437312_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/34997018/14826671_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/5881551/5881551-uhd_1440_2732_25fps.mp4"
+    ]
+  },
+  {
     "id": "d6f5565b81",
     "kind": "short",
     "channel": "Channel3",
