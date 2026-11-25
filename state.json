@@ -1,5 +1,161 @@
 [
   {
+    "id": "96aa84e831",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Betrayed Emperor Who Almost Saved Rome",
+    "idea": {
+      "title": "The Betrayed Emperor Who Almost Saved Rome",
+      "hook": "Emperor Majorian was months away from saving the Western Roman Empire, until his best friend stripped his crown and executed him in secret.",
+      "beats": [
+        "Majorian built a massive fleet to recapture North Africa from the Vandals.",
+        "Traitorous informants tipped off the Vandals, who destroyed his armada before it could set sail.",
+        "Defeated, Majorian returned to Italy determined to root out corrupt Roman elites.",
+        "His top general Ricimer arrested him, tortured him for five days, and had him decapitated."
+      ],
+      "keywords": [
+        "roman emperor bust",
+        "ancient roman army painting",
+        "vandal war fleet engraving",
+        "roman empire map",
+        "historical treason illustration"
+      ],
+      "tags": [
+        "RomanEmpire",
+        "AncientHistory",
+        "HistoryDocumentary",
+        "Majorian",
+        "RomanHistory"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One betrayed emperor almost saved Rome in 461 AD.",
+        "search": "emperor majorian roman coin portrait close up",
+        "caption": "One betrayed emperor almost saved Rome in 461 AD."
+      },
+      {
+        "narration": "By 457 AD, the Western Roman Empire had fractured into chaos after losing its wealthy provinces.",
+        "search": "western roman empire map engraving historical",
+        "caption": "By 457 AD, the Western Empire faced total collapse."
+      },
+      {
+        "narration": "Emperor Majorian took the throne and built a fleet of three hundred warships to retake North Africa.",
+        "search": "ancient roman warship fleet oil painting",
+        "caption": "Majorian built 300 warships to retake North Africa."
+      },
+      {
+        "narration": "Recapturing the grain supply of Carthage was the empire's last chance for economic revival.",
+        "search": "ancient carthage port harbor historical illustration",
+        "caption": "North Africa held the grain needed to save Rome."
+      },
+      {
+        "narration": "However, corrupt Roman elites secretly alerted King Genseric of the Vandals to preserve their own wealth.",
+        "search": "vandal king genseric portrait engraving",
+        "caption": "Traitorous elites secretly warned the Vandal king."
+      },
+      {
+        "narration": "In May 460 AD, Vandal raiders ambushed and incinerated the Roman armada in Hispania before it could sail.",
+        "search": "naval battle burning ships oil painting historical",
+        "caption": "The Roman fleet was destroyed before leaving port."
+      },
+      {
+        "narration": "Defeated but unbowed, Majorian disbanded his foreign mercenaries and marched to Italy to purge the corrupt senate.",
+        "search": "ancient roman army march painting",
+        "caption": "Majorian returned to Italy to purge corrupt elites."
+      },
+      {
+        "narration": "On August 2, 461 AD, his top general Ricimer arrested him, inflicted five days of torture, and executed him.",
+        "search": "ricimer roman general bust statue",
+        "caption": "General Ricimer tortured and executed Emperor Majorian."
+      },
+      {
+        "narration": "Following Majorian's execution in August 461 AD, General Ricimer installed puppet rulers, dismantling every reform that could have preserved the West.",
+        "search": "corrupt roman senate council oil painting",
+        "caption": "Ricimer installed puppet emperors to control the imperial court"
+      },
+      {
+        "narration": "Deprived of its last capable military commander, the Western Roman Empire collapsed completely just fifteen years later, in 476 AD.",
+        "search": "sack of rome historical oil painting",
+        "caption": "The Western Roman Empire fell permanently in 476 AD"
+      },
+      {
+        "narration": "Historians recognize Majorian as the last true hero of the West—the ruler who almost saved Rome before internal treason doomed it.",
+        "search": "roman empire map engraving",
+        "caption": "One betrayal destroyed the last real hope of Western Rome"
+      },
+      {
+        "narration": "One betrayed emperor almost saved the Western Roman Empire.",
+        "search": "emperor majorian bust statue",
+        "caption": "One betrayed emperor almost saved Rome."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-25T09:43:15.089670+00:00",
+    "updated_at": "2026-11-25T09:45:41.834860+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-25T09:44:05.698475+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "366 chars (cat 231 de vua 55s)",
+        "at": "2026-11-25T09:44:16.846201+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "23.7s en-US-GuyNeural 4 cau",
+        "at": "2026-11-25T09:44:19.459489+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-25T09:44:20.362775+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-25T09:44:54.652955+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-25T09:44:54.688665+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 23.7s 14911131 bytes",
+        "at": "2026-11-25T09:45:41.634310+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-25T09:45:41.834845+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/33611525/pexels-photo-33611525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36585211/pexels-photo-36585211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16222375/pexels-photo-16222375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35676114/pexels-photo-35676114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38353803/pexels-photo-38353803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16484114/pexels-photo-16484114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37129590/pexels-photo-37129590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698400/pexels-photo-8698400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9319224/pexels-photo-9319224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31374741/pexels-photo-31374741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8828621/pexels-photo-8828621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37978063/pexels-photo-37978063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6edf641321",
     "kind": "short",
     "channel": "Channel3",
