@@ -1,5 +1,599 @@
 [
   {
+    "id": "9c40399537",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Empress Who Left Her Own Tomb Completely Blank: The Mystery of Wu Zetian",
+    "idea": {
+      "title": "The Empress Who Left Her Own Tomb Completely Blank: The Mystery of Wu Zetian",
+      "hook": "When Empress Wu Zetian died, she left behind a massive 98-ton stone monument with not a single word carved onto it.",
+      "beats": [
+        "Introduction to Wu Zetian's unprecedented rise from a low-ranking concubine to the ultimate ruler of the Tang Dynasty.",
+        "The turbulent political landscape of 7th-century China and the fierce power struggles of the imperial court.",
+        "Wu Zetian's consolidation of power, establishing her own Zhou Dynasty and becoming China's first and only female emperor.",
+        "Analysis of her dual legacy: ruthless political purges and eliminating rivals alongside brilliant administrative and military reforms.",
+        "The construction of the Qianling Mausoleum, a grand joint burial site shared with her husband Emperor Gaozong.",
+        "The striking architectural feature of the complex: the towering 98-ton Qianling Uncharactered Stele (Wordless Tablet).",
+        "Exploration of the prevailing historical theories behind the blank monolith, focusing on humility versus supreme arrogance.",
+        "The theory that Wu Zetian believed her achievements were too vast and complex for standard court historians to capture accurately.",
+        "The alternative perspective: leaving a blank slate as a psychological power move, defying the traditional historical record.",
+        "How subsequent dynasties and later emperors attempted to write inscriptions on the stone, fueling centuries of local folklore.",
+        "The modern historical consensus on Wu Zetian's radical philosophy of letting history judge her actions without bias.",
+        "Conclusion reflecting on the enduring enigma of China's most formidable female ruler and her defiant final monument."
+      ],
+      "keywords": [
+        "Wu Zetian",
+        "Chinese history",
+        "female emperor",
+        "Tang Dynasty",
+        "Qianling Mausoleum",
+        "Wordless Tablet",
+        "ancient empires",
+        "lost civilizations",
+        "historical mysteries",
+        "Chinese royalty"
+      ],
+      "tags": [
+        "Wu Zetian",
+        "Ancient China",
+        "Chinese History",
+        "Tang Dynasty",
+        "Empress Wu",
+        "Historical Mystery",
+        "Documentary",
+        "World History",
+        "Queens and Kings",
+        "Archaeology"
+      ],
+      "kind": "long",
+      "thumbnail_text": "THE 98-TON MYSTERY"
+    },
+    "scenes": [
+      {
+        "narration": "China's only female emperor left her massive tombstone blank. Why?",
+        "search": "Qianling Mausoleum Wordless Tablet stone stele photograph",
+        "caption": "China's only female emperor left her 98-ton tombstone blank."
+      },
+      {
+        "narration": "In 637 AD, thirteen-year-old Wu Zetian entered the Tang imperial court as a low-ranking concubine.",
+        "search": "Tang Dynasty Chinese court ladies traditional ink painting",
+        "caption": "Entered the imperial court in 637 AD as a low-ranking concubine."
+      },
+      {
+        "narration": "By 690 AD, she seized total authority, declaring the Zhou Dynasty and becoming China's sole female emperor.",
+        "search": "Empress Wu Zetian portrait painting Chinese manuscript",
+        "caption": "Declared herself Emperor of China in 690 AD."
+      },
+      {
+        "narration": "She maintained her reign through brutal political purges while simultaneously expanding military borders and merit-based reforms.",
+        "search": "Tang Dynasty Chinese imperial court ministers silk painting",
+        "caption": "Ruled through fierce political purges and historic civil reforms."
+      },
+      {
+        "narration": "Before her death in 705 AD, she commissioned the Qianling Mausoleum featuring a towering ninety-eight-ton uncarved stone stele.",
+        "search": "Qianling Mausoleum stone sculpture guardians photograph",
+        "caption": "Commissioned a 98-ton stone stele left entirely uncarved."
+      },
+      {
+        "narration": "Scholars debated whether the blank monolith signaled profound humility or supreme defiance against imperial tradition.",
+        "search": "Qianling uncharactered stele close up detail photograph",
+        "caption": "Debated for centuries: ultimate humility or supreme defiance?"
+      },
+      {
+        "narration": "Later dynasties engraved their own messages onto the monolith, yet Wu Zetian's original silence remained unwritten.",
+        "search": "Qianling wordless tablet Chinese carving inscription photo",
+        "caption": "Later emperors added inscriptions, yet her silence endured."
+      },
+      {
+        "narration": "By leaving her monument blank, Wu Zetian forced future generations to judge her complex legacy without court propaganda.",
+        "search": "Qianling Mausoleum panoramic landscape photograph",
+        "caption": "Left her legacy to be judged solely by history."
+      },
+      {
+        "narration": "Born into a wealthy noble family in 624 AD, fourteen-year-old Wu Zetian entered the court of Emperor Taizong in 637 AD as a fifth-tier concubine.",
+        "search": "Emperor Taizong Tang dynasty Chinese painting silk scroll",
+        "caption": "In 637 AD, Wu Zetian entered the Tang imperial harem."
+      },
+      {
+        "narration": "Following Emperor Taizong's death in 649 AD, imperial custom forced childless concubines to shave their heads and enter Ganye Buddhist Monastery.",
+        "search": "Tang dynasty Buddhist monastery ancient Chinese painting",
+        "caption": "Custom banished childless concubines to Buddhist monasteries after Taizong died."
+      },
+      {
+        "narration": "Emperor Gaozong, who had developed a secret relationship with Wu during his father's decline, recalled her to the imperial palace in 651 AD.",
+        "search": "Emperor Gaozong Tang dynasty Chinese court portrait painting",
+        "caption": "Emperor Gaozong recalled Wu Zetian to the palace in 651 AD."
+      },
+      {
+        "narration": "Political rivalry intensified in 654 AD when Wu Zetian's newborn daughter died suddenly, triggering murder allegations against Empress Wang.",
+        "search": "Tang dynasty palace interior ancient Chinese manuscript illustration",
+        "caption": "In 654 AD, the death of Wu's infant daughter triggered court accusations."
+      },
+      {
+        "narration": "Emperor Gaozong deposed Empress Wang in late 655 AD, formally elevating Wu Zetian to Empress consort over the objections of senior imperial ministers.",
+        "search": "Tang dynasty royal palace architecture Chinese ink painting",
+        "caption": "Wu Zetian was elevated to Empress consort in 655 AD."
+      },
+      {
+        "narration": "Wu Zetian systematically dismantled the traditional Guanlong noble faction, executing or exiling high-ranking statesmen who challenged her authority.",
+        "search": "Ancient Chinese court trial judgment ink painting manuscript",
+        "caption": "Aristocratic rivals were purged to consolidate power across the court."
+      },
+      {
+        "narration": "When Emperor Gaozong suffered a debilitating neurological stroke in 660 AD, Wu Zetian began sitting behind a silk screen to direct state policy.",
+        "search": "Tang dynasty court officials silk screen painting manuscript",
+        "caption": "By 660 AD, Empress Wu governed state affairs behind a silk screen."
+      },
+      {
+        "narration": "Governing jointly alongside her ailing husband as one of the Two Sages, she maintained supreme administrative control until Gaozong's death in 683 AD.",
+        "search": "Tang dynasty imperial procession silk painting scroll",
+        "caption": "Gaozong and Wu Zetian ruled jointly as the Two Sages."
+      },
+      {
+        "narration": "Following Emperor Gaozong's death in 683 AD, Wu Zetian deposed her own sons and crushed a massive royal rebellion to claim supreme imperial power.",
+        "search": "tang dynasty military cavalry battle silk painting",
+        "caption": "Wu Zetian deposed her sons and suppressed rebellion in 684 AD."
+      },
+      {
+        "narration": "In 690 AD, she officially proclaimed the Zhou Dynasty, becoming the first and only female emperor in China's three-thousand-year history.",
+        "search": "wu zetian empress portrait painting tang dynasty silk",
+        "caption": "In 690 AD, Wu Zetian proclaimed herself sole Emperor of China."
+      },
+      {
+        "narration": "Her reign balanced terrifying purges of Tang aristocrats with revolutionary meritocratic exams that expanded government access for common citizens.",
+        "search": "ancient chinese scholars examination painting silk manuscript",
+        "caption": "Secret police purges operated alongside meritocratic government reforms."
+      },
+      {
+        "narration": "Before her death in 705 AD, she commissioned the massive Qianling Mausoleum as a joint burial site shared with her late husband.",
+        "search": "qianling mausoleum spirit path stone statues photograph shaanxi",
+        "caption": "Construction of the Qianling Mausoleum began for the joint imperial tomb."
+      },
+      {
+        "narration": "Outside the main entrance, she erected the ninety-eight-ton Qianling Stele, leaving its massive stone face completely blank without a single word.",
+        "search": "qianling uncharactered stele wordless tablet photograph china",
+        "caption": "The 98-ton Qianling Uncharactered Stele was erected without any inscription."
+      },
+      {
+        "narration": "Historians debate whether the blank monolith represented supreme arrogance—that her deeds surpassed language—or a calculated act of humility.",
+        "search": "tang dynasty stone stele dragon sculpture photograph",
+        "caption": "Debates persist over whether the blank stone symbolized arrogance or humility."
+      },
+      {
+        "narration": "While later dynasties carved minor graffiti onto its sides, the original front panel was intentionally left unwritten to defy court historians.",
+        "search": "qianling mausoleum stone tablet inscription detail photograph",
+        "caption": "Subsequent rulers added minor inscriptions, leaving the main face blank."
+      },
+      {
+        "narration": "By refusing to carve an imperial eulogy, Wu Zetian forced all future generations to judge her controversial reign without state propaganda.",
+        "search": "qianling mausoleum imperial tomb landscape photograph shaanxi",
+        "caption": "Wu Zetian's wordless stele remains an enduring enigma of Chinese history."
+      },
+      {
+        "narration": "In seventh-century China, the imperial court of the Tang Dynasty was a merciless arena of execution and intrigue.",
+        "search": "tang dynasty court painting chinese silk",
+        "caption": "The ruthless power struggles of the Tang Dynasty court"
+      },
+      {
+        "narration": "Wu Zetian rose from a low-ranking concubine to absolute sovereign through calculated political maneuvering.",
+        "search": "wu zetian portrait chinese imperial silk",
+        "caption": "From low-ranking concubine to supreme ruler"
+      },
+      {
+        "narration": "In the year 690, she shattered centuries of precedent by establishing her own Zhou Dynasty and claiming the throne.",
+        "search": "ancient chinese imperial throne hall wood carving",
+        "caption": "Establishing the Zhou Dynasty in 690 AD"
+      },
+      {
+        "narration": "Her reign delivered brilliant administrative and military reforms, alongside ruthless purges of her political rivals.",
+        "search": "chinese ancient fortress wall stone architecture",
+        "caption": "Balancing brilliant reforms with ruthless political purges"
+      },
+      {
+        "narration": "Alongside Emperor Gaozong, she commissioned the sprawling Qianling Mausoleum in Shaanxi province.",
+        "search": "qianling mausoleum stone statues china",
+        "caption": "The grand joint burial site of Qianling Mausoleum"
+      },
+      {
+        "narration": "At the entrance stands the Qianling Uncharactered Stele, a towering ninety-eight ton monolith of sheer stone.",
+        "search": "giant stone stele monument china engraving",
+        "caption": "The towering 98-ton Qianling Uncharactered Stele"
+      },
+      {
+        "narration": "Historians have long debated whether this blank slate stemmed from profound humility or supreme arrogance.",
+        "search": "ancient chinese scholar scroll painting ink",
+        "caption": "Centuries of historical debate over the blank monument"
+      },
+      {
+        "narration": "By leaving no inscription, the female emperor ensured that future generations would judge her legacy without state bias.",
+        "search": "traditional chinese calligraphy brush ink scroll",
+        "caption": "Leaving history to judge without official court propaganda"
+      },
+      {
+        "narration": "In 705 AD, the elderly empress was forced to abdicate, ending the brief interlude of the Zhou Dynasty.",
+        "search": "tang dynasty imperial court painting",
+        "caption": "The forced abdication of Wu Zetian in 705 AD."
+      },
+      {
+        "narration": "Court officials immediately restored the Tang Dynasty, placing Emperor Zhongzong back on the throne.",
+        "search": "ancient chinese emperor portrait silk",
+        "caption": "Restoration of the Tang Dynasty under Emperor Zhongzong."
+      },
+      {
+        "narration": "Despite her removal from power, preparations for her monumental tomb at Mount Liang continued unabated.",
+        "search": "qianling mausoleum stone guardian statues engraving",
+        "caption": "Construction of the grand Qianling Mausoleum complex."
+      },
+      {
+        "narration": "Architects erected two massive stone tablets flanking the spirit path leading to the burial mound.",
+        "search": "chinese stone stele spirit path old photograph",
+        "caption": "Massive stone steles lining the imperial spirit path."
+      },
+      {
+        "narration": "One tablet was dedicated to her deceased husband, Emperor Gaozong, detailing his imperial achievements in thousands of carved characters.",
+        "search": "chinese imperial stele calligraphy rubbing illustration",
+        "caption": "Emperor Gaozong's detailed commemorative text tablet."
+      },
+      {
+        "narration": "Directly opposite stood the second monolith, weighing ninety-eight tons, completely devoid of any carved text.",
+        "search": "giant blank stone monument monolith engraving",
+        "caption": "The towering ninety-eight-ton Qianling Uncharactered Stele."
+      },
+      {
+        "narration": "Later dynasties attempted to carve their own accounts onto the blank stone to condemn her controversial reign.",
+        "search": "ming dynasty stone carving historical illustration",
+        "caption": "Subsequent attempts by later dynasties to write inscriptions."
+      },
+      {
+        "narration": "Yet the enduring mystery of why the supreme ruler chose absolute silence remains one of history's greatest enigmas.",
+        "search": "ancient chinese artifact museum display lighting",
+        "caption": "The enduring enigma of China's blank monument."
+      },
+      {
+        "narration": "A ninety-eight ton stone monument stands completely blank over China's only female emperor.",
+        "search": "Qianling Mausoleum Wordless Stele stone monolith photo",
+        "caption": "A 98-ton monument marks the tomb of China's only female emperor."
+      },
+      {
+        "narration": "In 690 AD, Wu Zetian eliminated imperial rivals to establish the Wu Zhou Dynasty, declaring herself supreme ruler.",
+        "search": "Wu Zetian empress portrait silk painting Tang Dynasty",
+        "caption": "Wu Zetian established the Wu Zhou Dynasty in 690 AD."
+      },
+      {
+        "narration": "She expanded the civil service examination system, stripping power from traditional aristocrats and empowering common scholars.",
+        "search": "Tang Dynasty Chinese imperial palace courtyard silk painting",
+        "caption": "She reformed imperial examinations to weaken traditional aristocratic families."
+      },
+      {
+        "narration": "Following her death in 705 AD, she was interred alongside Emperor Gaozong inside the subterranean chambers of Qianling.",
+        "search": "Qianling Mausoleum spirit path stone statue photo",
+        "caption": "Interred in 705 AD alongside Emperor Gaozong at Qianling."
+      },
+      {
+        "narration": "While Emperor Gaozong received a five-thousand-word laudatory inscription, Wu Zetian's monument was erected entirely uncarved.",
+        "search": "Chinese ancient stone stele monument rubbings engraving",
+        "caption": "While her husband received thousands of carved words, hers remained blank."
+      },
+      {
+        "narration": "Court records suggest she calculated that no court historian could impartially summarize her bloody purges and administrative achievements.",
+        "search": "Tang Dynasty official court manuscript scroll ink painting",
+        "caption": "Scholars argue her deeds were too complex for traditional imperial records."
+      },
+      {
+        "narration": "Centuries later, visitors during the Song and Jin Dynasties defaced the blank surface by carving over thirteen guest inscriptions.",
+        "search": "Jin Dynasty Chinese stone tablet inscription rubbing",
+        "caption": "Song and Jin dynasty visitors carved thirteen later inscriptions onto it."
+      },
+      {
+        "narration": "Her intentional silence outlasted her critics, leaving the Wordless Stele as an unshakeable symbol of absolute political defiance.",
+        "search": "Qianling Mausoleum landscape Shaanxi China photograph",
+        "caption": "The Wordless Stele remains an enduring symbol of political defiance."
+      },
+      {
+        "narration": "In 705 AD, the aging Empress Wu Zetian was forced to abdicate the throne, ending her brief Zhou Dynasty.",
+        "search": "Tang Dynasty imperial court painting of officials",
+        "caption": "Wu Zetian forced to abdicate in 705 AD"
+      },
+      {
+        "narration": "Tang rule was promptly restored, casting a long shadow over the legacy of China's only female emperor.",
+        "search": "ancient Chinese palace stone architecture engraving",
+        "caption": "Restoration of the Tang Dynasty"
+      },
+      {
+        "narration": "Yet, her grand architectural project, the Qianling Mausoleum, remained the ultimate testament to her reign.",
+        "search": "Qianling Mausoleum giant stone statues Shaanxi",
+        "caption": "The monumental Qianling Mausoleum complex"
+      },
+      {
+        "narration": "Guarding the tomb grounds stood the towering 98-ton monolith, completely devoid of any carved characters.",
+        "search": "giant blank stone stele in ancient Chinese landscape",
+        "caption": "The 98-ton Qianling Wordless Tablet"
+      },
+      {
+        "narration": "Court historians expected a glowing biography to legitimize her controversial rise to power.",
+        "search": "ancient Chinese scholar writing manuscript with brush",
+        "caption": "Expected imperial biographies and court histories"
+      },
+      {
+        "narration": "Instead, Wu Zetian chose a profound and unsettling silence over standard dynastic praise.",
+        "search": "close up of weathered ancient stone monument surface",
+        "caption": "A massive monument left completely blank"
+      },
+      {
+        "narration": "This deliberate omission challenged the very tradition of how rulers sought immortality through text.",
+        "search": "traditional Chinese imperial tomb stone engraving detail",
+        "caption": "Challenging traditional imperial record-keeping methods"
+      },
+      {
+        "narration": "For over thirteen centuries, this towering stone enigma has defied every attempt to categorize her rule.",
+        "search": "ancient Chinese stone guardian statue weathered by time",
+        "caption": "Thirteen centuries of historical mystery and debate"
+      },
+      {
+        "narration": "In the late seventh century, the Qianling Mausoleum was constructed in Shaanxi province as a grand joint burial site for Wu Zetian and her husband Emperor Gaozong.",
+        "search": "tang dynasty tomb architecture stone sculpture engraving",
+        "caption": "The monumental Qianling Mausoleum complex in Shaanxi province"
+      },
+      {
+        "narration": "Flanking the sacred approach to the imperial tomb stands the towering 98-ton Qianling Uncharactered Stele, a monolith carved from a single block of stone.",
+        "search": "giant stone stele monument ancient china engraving",
+        "caption": "The towering 98-ton Wordless Tablet at the tomb site"
+      },
+      {
+        "narration": "Historical theories behind the blank monolith heavily weigh the stark contrast between personal humility and supreme imperial arrogance.",
+        "search": "ancient scholar reading scroll chinese manuscript painting",
+        "caption": "Centuries of scholars debated the meaning of the blank stone"
+      },
+      {
+        "narration": "One prevailing theory suggests Wu Zetian believed her vast achievements defied standard capture by contemporary court historians.",
+        "search": "imperial chinese court official writing calligraphy scroll",
+        "caption": "Did her achievements outgrow the traditional historical record?"
+      },
+      {
+        "narration": "An alternative psychological perspective views the blank slate as a defiant power move against the traditional recording of imperial authority.",
+        "search": "chinese emperor throne imperial court painting",
+        "caption": "A calculated act of defiance against traditional historiography"
+      },
+      {
+        "narration": "Subsequent dynasties and later emperors attempted to add inscriptions onto the stone, inadvertently fueling centuries of local folklore and myth.",
+        "search": "weathered stone monument inscription rubbing ink engraving",
+        "caption": "Later dynasties attempted to write upon the blank stone"
+      },
+      {
+        "narration": "The modern historical consensus points to a radical philosophy of letting future generations judge her controversial actions without bias.",
+        "search": "modern archaeologist examining ancient stone artifact photography",
+        "caption": "Modern historians interpret the blank slate as an open verdict"
+      },
+      {
+        "narration": "This enduring enigma remains the ultimate monument to China's most formidable female ruler and her uncompromising control over history.",
+        "search": "wu zetian historical portrait painting tang dynasty",
+        "caption": "The enduring enigma of China's only female emperor"
+      },
+      {
+        "narration": "In the 7th century, amidst the turbulent politics of Tang Dynasty China, a low-ranking concubine named Wu Zetian initiated an unprecedented rise to supreme power.",
+        "search": "Tang Dynasty Chinese imperial court painting illustration",
+        "caption": "From concubine to supreme ruler of the Tang Dynasty."
+      },
+      {
+        "narration": "Through ruthless political purges and the strategic elimination of rivals, she dismantled court opposition and established her own Zhou Dynasty in 690.",
+        "search": "ancient Chinese palace courtyard stone carving engraving",
+        "caption": "Establishing the Zhou Dynasty through fierce political maneuvering."
+      },
+      {
+        "narration": "Despite her controversial methods, Wu Zetian implemented brilliant administrative and military reforms that strengthened the empire's borders and economy.",
+        "search": "ancient Chinese manuscript scroll calligraphy painting",
+        "caption": "Balancing ruthless purges with brilliant administrative reforms."
+      },
+      {
+        "narration": "By the time of her death in 705, construction of the grand Qianling Mausoleum was already complete, designed as a joint burial site with Emperor Gaozong.",
+        "search": "Qianling Mausoleum stone guardian statues Shaanxi photograph",
+        "caption": "The grand Qianling Mausoleum, shared with Emperor Gaozong."
+      },
+      {
+        "narration": "Standing guard outside this massive tomb complex is a striking architectural feature: a towering 98-ton stone monument with not a single word carved onto it.",
+        "search": "Qianling Uncharactered Stele wordless monument stone photograph",
+        "caption": "The towering 98-ton Wordless Tablet stands completely blank."
+      },
+      {
+        "narration": "Centuries of scholars have debated the true meaning behind this blank monolith, weighing theories of humility against supreme arrogance.",
+        "search": "ancient Chinese scholar studying scroll painting illustration",
+        "caption": "Historians debate whether the blank tablet signifies humility or arrogance."
+      },
+      {
+        "narration": "One prevailing theory suggests Wu Zetian believed her vast achievements were simply too complex for standard court historians to capture accurately.",
+        "search": "ancient Chinese imperial decree document calligraphy manuscript",
+        "caption": "Did she believe her vast achievements defied standard description?"
+      },
+      {
+        "narration": "Alternatively, leaving a blank slate served as a calculated psychological power move, permanently defying the traditional historical record.",
+        "search": "traditional Chinese stone stele carving engraving art",
+        "caption": "A calculated psychological power move defying traditional history."
+      },
+      {
+        "narration": "In later centuries, rulers of the Qing Dynasty attempted to carve their own inscriptions onto the ancient stone, fueling centuries of folklore.",
+        "search": "Qing Dynasty imperial stone engraving illustration",
+        "caption": "Later emperors tried carving their own words onto the stone."
+      },
+      {
+        "narration": "Modern historians analyze this radical philosophy as an intentional act of allowing history to judge her actions completely without bias.",
+        "search": "modern historical manuscript analysis desk",
+        "caption": "Historians view the blank slate as an invitation to future judgment."
+      },
+      {
+        "narration": "The Qianling Mausoleum remains a masterpiece of Tang Dynasty architecture, housing both Emperor Gaozong and the formidable female emperor.",
+        "search": "Tang Dynasty imperial mausoleum architecture site",
+        "caption": "The grand Qianling Mausoleum holds an imperial secret."
+      },
+      {
+        "narration": "Born in 624 AD, Wu Zetian climbed from a low-ranking concubine to shatter the absolute boundaries of traditional Chinese patriarchy.",
+        "search": "Wu Zetian portrait painting Tang Dynasty court",
+        "caption": "From low-ranking concubine to supreme ruler."
+      },
+      {
+        "narration": "Through ruthless political purges and brilliant administrative reforms, she founded her own Zhou Dynasty in 690 AD.",
+        "search": "ancient Chinese palace throne room illustration",
+        "caption": "She founded her own Zhou Dynasty in 690 AD."
+      },
+      {
+        "narration": "Her final resting decision in December 705 AD bypassed traditional eulogies in favor of total silence.",
+        "search": "ancient Chinese funeral procession scroll painting",
+        "caption": "She chose total silence over a traditional eulogy."
+      },
+      {
+        "narration": "The towering 98-ton monolith stands silently outside her tomb, defying standard imperial convention for eternity.",
+        "search": "98 ton stone monument stele in China photography",
+        "caption": "A massive 98-ton stone monument stands completely blank."
+      },
+      {
+        "narration": "When Empress Wu Zetian died, she left behind a massive 98-ton stone monument with not a single word carved onto it.",
+        "search": "giant blank stone stele in ancient Chinese landscape timelapse",
+        "caption": "The Empress who left her own tomb completely blank."
+      },
+      {
+        "narration": "Ninety-eight tons of stone, and not a single word carved.",
+        "search": "Qianling Uncharactered Stele stone monument tourism photograph",
+        "caption": "A 98-ton blank stone monument left entirely without words."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T22:45:10.532452+00:00",
+    "updated_at": "2026-11-26T23:08:07.658445+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-26T23:02:38.549708+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "1499 chars",
+        "at": "2026-11-26T23:03:11.196274+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "91.4s en-US-GuyNeural 13 cau",
+        "at": "2026-11-26T23:03:23.608917+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T23:03:26.309944+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-26T23:04:53.218353+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-26T23:04:53.255632+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 91.5s 99347761 bytes",
+        "at": "2026-11-26T23:08:07.362082+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "3 chapters",
+        "at": "2026-11-26T23:08:07.437695+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T23:08:07.658426+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/35159041/pexels-photo-35159041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41229983/pexels-photo-41229983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9114436/pexels-photo-9114436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30050830/pexels-photo-30050830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29767797/pexels-photo-29767797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5909861/pexels-photo-5909861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20317132/pexels-photo-20317132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6077370/pexels-photo-6077370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15313291/pexels-photo-15313291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5305566/pexels-photo-5305566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30584842/pexels-photo-30584842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39458139/pexels-photo-39458139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32504534/pexels-photo-32504534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30899526/pexels-photo-30899526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34619007/pexels-photo-34619007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32977253/pexels-photo-32977253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26741550/pexels-photo-26741550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11115606/pexels-photo-11115606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41032803/pexels-photo-41032803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37126804/pexels-photo-37126804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19694174/pexels-photo-19694174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28985076/pexels-photo-28985076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4997343/pexels-photo-4997343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19854413/pexels-photo-19854413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30217121/pexels-photo-30217121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7598164/pexels-photo-7598164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35799104/pexels-photo-35799104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31447534/pexels-photo-31447534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16472055/pexels-photo-16472055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41257063/pexels-photo-41257063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6213855/pexels-photo-6213855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5788531/pexels-photo-5788531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39104331/pexels-photo-39104331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5868027/pexels-photo-5868027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38322617/pexels-photo-38322617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16866301/pexels-photo-16866301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11582154/pexels-photo-11582154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1237695/pexels-photo-1237695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2994963/pexels-photo-2994963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37221718/pexels-photo-37221718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37613553/pexels-photo-37613553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16141675/pexels-photo-16141675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37954517/pexels-photo-37954517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36410923/pexels-photo-36410923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5992915/pexels-photo-5992915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11542666/pexels-photo-11542666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33765082/pexels-photo-33765082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20683315/pexels-photo-20683315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14075093/pexels-photo-14075093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38570146/pexels-photo-38570146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13997552/pexels-photo-13997552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2155520/pexels-photo-2155520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6364048/pexels-photo-6364048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28956199/pexels-photo-28956199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37062877/pexels-photo-37062877.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20691815/pexels-photo-20691815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31244375/pexels-photo-31244375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8952605/pexels-photo-8952605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6391523/pexels-photo-6391523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6989330/pexels-photo-6989330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6841381/pexels-photo-6841381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36883139/pexels-photo-36883139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8369849/pexels-photo-8369849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6820064/pexels-photo-6820064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30470656/pexels-photo-30470656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36679417/pexels-photo-36679417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20694821/pexels-photo-20694821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17706482/pexels-photo-17706482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2231506/pexels-photo-2231506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/51343/old-letters-old-letter-handwriting-51343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36276736/pexels-photo-36276736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16158517/pexels-photo-16158517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9572635/pexels-photo-9572635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39468926/pexels-photo-39468926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30723734/pexels-photo-30723734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2846001/pexels-photo-2846001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6994389/pexels-photo-6994389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33241043/pexels-photo-33241043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8117824/pexels-photo-8117824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15402587/pexels-photo-15402587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "db0bbf02b5",
     "kind": "short",
     "channel": "Channel3",
