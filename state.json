@@ -1,5 +1,161 @@
 [
   {
+    "id": "ebdb53cee9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman emperor who married a tree",
+    "idea": {
+      "title": "The Roman emperor who married a tree",
+      "hook": "When Roman Emperor Elagabalus fell madly in love with a giant oak tree, he didn't just worship it—he demanded the entire senate attend its wedding.",
+      "beats": [
+        "Elagabalus ascends the throne as a teenager and immediately shocks Rome by rejecting traditional gods for exotic, bizarre cults.",
+        "He finds a sacred stone and a massive oak tree in the countryside, declaring them husband and wife in an extravagant royal ceremony.",
+        "Senators and citizens are forced to watch as the emperor lavishes expensive silk gowns and golden jewelry onto the bark of the tree.",
+        "His obsession with absurd theatricality alienates the Roman military, sealing his brutal fate just four years into his reign."
+      ],
+      "keywords": [
+        "roman bust",
+        "ancient rome painting",
+        "roman emperor portrait",
+        "classical sculpture",
+        "historical oil painting"
+      ],
+      "tags": [
+        "romanempire",
+        "history",
+        "historyfacts",
+        "historicalfigures",
+        "ancientrome"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "When Roman Emperor Elagabalus fell in love with an oak tree, he demanded a royal wedding.",
+        "search": "roman bust statue of elagabalus",
+        "caption": "The Roman emperor who married a tree"
+      },
+      {
+        "narration": "In 218 AD, the teenage ruler ascended the throne and shocked Rome by replacing traditional gods with extreme cults.",
+        "search": "ancient rome painting of emperor on throne",
+        "caption": "A teenage emperor defies Roman tradition"
+      },
+      {
+        "narration": "Elagabalus rejected Jupiter, elevating a foreign sun god and a massive sacred tree in the Italian countryside.",
+        "search": "classical sculpture of roman deity",
+        "caption": "Rejection of traditional Roman gods"
+      },
+      {
+        "narration": "He declared the giant oak tree and a sacred black stone to be husband and wife in an extravagant ceremony.",
+        "search": "historical oil painting of roman wedding ritual",
+        "caption": "The bizarre imperial wedding ceremony"
+      },
+      {
+        "narration": "Senators and citizens were forced to watch as the emperor lavished expensive silk gowns onto the rough bark.",
+        "search": "roman senate classical painting historical art",
+        "caption": "Senators forced to attend the ceremony"
+      },
+      {
+        "narration": "Golden jewelry and costly perfumes were draped over the tree branches while crowds looked on in disbelief.",
+        "search": "ancient roman gold jewelry artifact museum display",
+        "caption": "Lavish gifts given to the oak tree"
+      },
+      {
+        "narration": "This absurd theatricality deeply offended the conservative Roman military elite and the city's patricians.",
+        "search": "roman military commander portrait painting",
+        "caption": "Outraging the Roman military elite"
+      },
+      {
+        "narration": "His four-year reign of bizarre spectacles ended in a brutal assassination by the Praetorian Guard in 222 AD.",
+        "search": "roman emperor portrait oil painting",
+        "caption": "A brutal and sudden end in 222 AD"
+      },
+      {
+        "narration": "In 222 AD, the Praetorian Guard finally assassinated the teenage emperor, dragging his body through the streets of Rome.",
+        "search": "ancient roman marble bust portrait",
+        "caption": "The brutal end of Elagabalus in 222 AD."
+      },
+      {
+        "narration": "Though his reign lasted only four years, his bizarre obsession with the oak tree wedding became Rome's ultimate cautionary tale.",
+        "search": "classical sculpture roman figure marble",
+        "caption": "Four years of chaos shocked the Roman Empire."
+      },
+      {
+        "narration": "Elagabalus married a tree because he treated the entire Roman Empire as his personal, theatrical stage.",
+        "search": "ancient rome historical oil painting",
+        "caption": "The Roman emperor who married a giant oak tree."
+      },
+      {
+        "narration": "In 218 AD, the teenage emperor shocked Rome by elevating foreign cults above traditional gods.",
+        "search": "ancient rome painting by Lawrence Alma-Tadema",
+        "caption": "A teenage ruler shocked the empire in 218 AD."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T01:06:13.918830+00:00",
+    "updated_at": "2026-11-26T01:11:57.314982+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-26T01:09:15.305771+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "372 chars (cat 388 de vua 55s)",
+        "at": "2026-11-26T01:09:49.472997+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "24.6s en-US-GuyNeural 5 cau",
+        "at": "2026-11-26T01:09:51.191295+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T01:09:52.050192+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-26T01:11:09.644692+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-26T01:11:09.679432+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 24.6s 17059688 bytes",
+        "at": "2026-11-26T01:11:57.124899+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T01:11:57.314966+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/24024484/pexels-photo-24024484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35766653/pexels-photo-35766653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19976933/pexels-photo-19976933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35709009/pexels-photo-35709009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32549844/pexels-photo-32549844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20610672/pexels-photo-20610672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3028049/pexels-photo-3028049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36396961/pexels-photo-36396961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/22937490/pexels-photo-22937490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16662868/pexels-photo-16662868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33008994/pexels-photo-33008994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15995920/pexels-photo-15995920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "e79bcf891c",
     "kind": "short",
     "channel": "Channel3",
