@@ -1,5 +1,161 @@
 [
   {
+    "id": "09f6f929ba",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman emperor who executed his own son for saving Rome",
+    "idea": {
+      "title": "The Roman emperor who executed his own son for saving Rome",
+      "hook": "Postumius Lucius won the battle against overwhelming odds, but his father ordered his immediate execution for one unforgivable rule broken.",
+      "beats": [
+        "The young commander faces a massive barbarian horde threatening the borders of the empire.",
+        "Defouting direct orders, he launches a surprise solo attack and achieves a legendary victory.",
+        "Expecting a hero's welcome, he returns to his father's tent carrying the enemy's standard.",
+        "The father, valuing absolute military law above his own flesh and blood, signs the death warrant."
+      ],
+      "keywords": [
+        "roman general portrait",
+        "ancient rome military commander",
+        "roman bust sculpture",
+        "historical oil painting battle",
+        "antique roman coin"
+      ],
+      "tags": [
+        "history",
+        "rome",
+        "romanempire",
+        "historicalfigures",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "An emperor executed his own son for saving Rome.",
+        "search": "roman bust sculpture",
+        "caption": "The emperor who executed his own son."
+      },
+      {
+        "narration": "In 340 BC, a massive Latin horde threatened the Roman Republic.",
+        "search": "historical oil painting battle",
+        "caption": "The Latin horde threatens the Republic."
+      },
+      {
+        "narration": "Consul Titus Manlius Torquatus strictly forbade unauthorized combat.",
+        "search": "ancient rome military commander",
+        "caption": "Strict military laws governed the legions."
+      },
+      {
+        "narration": "His young son, commander Postumius Lucius, faced the enemy vanguard.",
+        "search": "roman general portrait",
+        "caption": "Postumius Lucius faces the enemy."
+      },
+      {
+        "narration": "Defouting direct orders, the youth launched a surprise solo attack.",
+        "search": "antique roman coin",
+        "caption": "He defied direct orders to attack."
+      },
+      {
+        "narration": "Against overwhelming odds, he achieved a legendary cavalry victory.",
+        "search": "ancient roman battlefield engraving",
+        "caption": "A legendary victory against overwhelming odds."
+      },
+      {
+        "narration": "Expecting a hero's welcome, he returned carrying the enemy standard.",
+        "search": "roman military standard relief sculpture",
+        "caption": "He returned bearing the enemy standard."
+      },
+      {
+        "narration": "The consul valued absolute military discipline above his own flesh.",
+        "search": "roman magistrate judgement painting",
+        "caption": "Absolute discipline above flesh and blood."
+      },
+      {
+        "narration": "In 340 BC, Roman consul Titus Manlius Torquatus enforced the strict lex Manlia near the Latin border.",
+        "search": "historical oil painting battle ancient roman army",
+        "caption": "Strict Roman military law demanded absolute obedience."
+      },
+      {
+        "narration": "His son, the young commander, had disobeyed direct orders by launching an unauthorized attack against the Latins and winning.",
+        "search": "roman general portrait antique bust sculpture",
+        "caption": "The commander won the battle against direct orders."
+      },
+      {
+        "narration": "Torquatus chose state survival over family, executing his own son to cement the terrifying precedent of Roman discipline forever.",
+        "search": "antique roman coin profile emperor portrait",
+        "caption": "Execution for saving Rome cemented absolute military law."
+      },
+      {
+        "narration": "In 340 BC, a massive Latin army threatened the survival of the Roman Republic.",
+        "search": "ancient rome military commander",
+        "caption": "340 BC: Rome faces annihilation."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T04:16:08.233681+00:00",
+    "updated_at": "2026-11-26T04:21:12.892017+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-26T04:17:12.765085+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "434 chars (cat 44 de vua 55s)",
+        "at": "2026-11-26T04:18:18.017180+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.4s en-US-GuyNeural 6 cau",
+        "at": "2026-11-26T04:18:22.788277+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T04:18:23.803232+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-26T04:20:18.369199+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-26T04:20:18.406884+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.4s 15813072 bytes",
+        "at": "2026-11-26T04:21:12.712091+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T04:21:12.891999+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29057044/pexels-photo-29057044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30812871/pexels-photo-30812871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29096128/pexels-photo-29096128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20550204/pexels-photo-20550204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38598954/pexels-photo-38598954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17778651/pexels-photo-17778651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37847715/pexels-photo-37847715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17057101/pexels-photo-17057101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29822261/pexels-photo-29822261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16110951/pexels-photo-16110951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38182672/pexels-photo-38182672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13035553/pexels-photo-13035553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8438de3cb1",
     "kind": "short",
     "channel": "Channel2",
