@@ -1,5 +1,160 @@
 [
   {
+    "id": "901edc2f9c",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Spartan King Who Sold His Soul for a Golden Mistake",
+    "idea": {
+      "title": "The Spartan King Who Sold His Soul for a Golden Mistake",
+      "hook": "Cleomenes III of Sparta smuggled himself out of exile, only to hire a mercenary army with stolen royal gold—and ended up eating his own flesh out of pure starvation.",
+      "beats": [
+        "Cleomenes III attempted to restore the glory of Spartan society through radical land reforms, angering the wealthy elite and forcing him to flee to Egypt.",
+        "Trapped in Alexandria by a paranoid pharaoh who placed him under house arrest, Cleomenes planned a desperate, bloody revolt with a handful of loyal followers.",
+        "When the rebellion failed to spark the streets of Egypt, the trapped king chose a horrific public suicide rather than capture, plunging the Spartan royal line into permanent extinction."
+      ],
+      "keywords": [
+        "ancient spartan bust",
+        "egyptian palace painting",
+        "ancient greek warrior art",
+        "historical scroll engraving",
+        "ancient treasury coin art"
+      ],
+      "tags": [
+        "sparta",
+        "ancient history",
+        "cleomenes iii",
+        "history documentary",
+        "historical mysteries"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "He traded a royal crown for a golden mistake.",
+        "search": "ancient spartan bust marble sculpture",
+        "caption": "A desperate king traded everything for gold."
+      },
+      {
+        "narration": "In 227 BC, King Cleomenes III launched radical land reforms to revive ancient Spartan austerity.",
+        "search": "ancient greek warrior art oil painting",
+        "caption": "Cleomenes III attempted to restore Spartan glory."
+      },
+      {
+        "narration": "Outraged elites and the Achaean League crushed his army at Sellasia in 222 BC.",
+        "search": "historical scroll engraving of ancient battle",
+        "caption": "Defeated at Sellasia, the king fled to Egypt."
+      },
+      {
+        "narration": "Ptolemy III welcomed him to Alexandria, but the paranoid successor Ptolemy IV placed him under house arrest.",
+        "search": "egyptian palace painting historical illustration",
+        "caption": "Trapped under house arrest in Alexandria."
+      },
+      {
+        "narration": "In 219 BC, Cleomenes and his loyal followers broke out into the streets of Alexandria with swords drawn.",
+        "search": "ancient treasury coin art close up",
+        "caption": "A bloody, desperate revolt in the streets."
+      },
+      {
+        "narration": "When the Egyptian citizens refused to join the rebellion, the outnumbered Spartans faced certain capture.",
+        "search": "ancient greek tactical map engraving",
+        "caption": "The rebellion failed to spark the city."
+      },
+      {
+        "narration": "Cornered in a public square, Cleomenes and his men chose ritual suicide rather than imprisonment.",
+        "search": "ancient greek sculpture tragic figure bust",
+        "caption": "Choosing horrific public suicide over capture."
+      },
+      {
+        "narration": "His gruesome death extinguished the final spark of the Spartan royal bloodline forever.",
+        "search": "ancient spartan helmet oil painting dark moody",
+        "caption": "The extinction of the Spartan royal line."
+      },
+      {
+        "narration": "Trapped in Alexandria by Ptolemy III in 222 BC, Cleomenes planned a desperate, bloody revolt with a handful of loyal followers.",
+        "search": "egyptian palace oil painting interior",
+        "caption": "Trapped by the Pharaoh in Alexandria"
+      },
+      {
+        "narration": "Using stolen royal gold to hire mercenaries, he smuggled himself out of exile to reclaim his lost throne.",
+        "search": "ancient treasury coin art close up financing",
+        "caption": "Financing a bloody revolt with stolen gold"
+      },
+      {
+        "narration": "Cleomenes III attempted radical land reforms in Sparta, angering the wealthy elite and sealing his tragic fate.",
+        "search": "ancient spartan bust marble sculpture slow motion",
+        "caption": "The Spartan king who traded his soul"
+      },
+      {
+        "narration": "How did a Spartan king die eating his own flesh?",
+        "search": "ancient spartan bust marble sculpture museum lighting",
+        "caption": "The tragic end of King Cleomenes III."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T09:21:10.401088+00:00",
+    "updated_at": "2026-11-26T09:31:19.862477+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-26T09:25:52.571610+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "316 chars (cat 329 de vua 55s)",
+        "at": "2026-11-26T09:27:01.585956+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "18.3s en-US-GuyNeural 3 cau",
+        "at": "2026-11-26T09:27:04.216180+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T09:27:04.623295+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-26T09:30:55.987401+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-26T09:30:56.010099+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 18.4s 11553170 bytes",
+        "at": "2026-11-26T09:31:19.678859+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T09:31:19.862458+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16770095/pexels-photo-16770095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15644054/pexels-photo-15644054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12604140/pexels-photo-12604140.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23726185/pexels-photo-23726185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7114267/pexels-photo-7114267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31980407/pexels-photo-31980407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13779288/pexels-photo-13779288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17533402/pexels-photo-17533402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35387332/pexels-photo-35387332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3222685/pexels-photo-3222685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057043/pexels-photo-29057043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29057038/pexels-photo-29057038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "bcfa0f1c87",
     "kind": "short",
     "channel": "Channel3",
