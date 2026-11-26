@@ -1,5 +1,161 @@
 [
   {
+    "id": "8438de3cb1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman emperor who executed his own son for a stolen victory",
+    "idea": {
+      "title": "The Roman emperor who executed his own son for a stolen victory",
+      "hook": "Postumius broke strict military law to win a glorious battle, but his own father ordered him executed on the spot.",
+      "beats": [
+        "Roman General Postumius commanded strict legions where unauthorized attacks carried the death penalty.",
+        "His son, eager for glory, disobeyed orders and single-handedly defeated the enemy vanguard in a brilliant ambush.",
+        "Returning to camp with spoils of victory, the son expected praise from his father, the consul.",
+        "Instead, the father upheld the supreme law of Rome, sacrificing his own blood to maintain absolute military discipline."
+      ],
+      "keywords": [
+        "roman general portrait",
+        "ancient roman sculpture bust",
+        "oil painting roman soldier",
+        "historical battle engraving",
+        "antique military manuscript"
+      ],
+      "tags": [
+        "ancientrome",
+        "romanhistory",
+        "historyshorts",
+        "historicalfigures",
+        "shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A Roman general executed his son for winning a battle.",
+        "search": "ancient roman sculpture bust general",
+        "caption": "Executed for winning a battle."
+      },
+      {
+        "narration": "In 431 BC, Roman dictator Aulus Postumius Tubertus led legions against the neighboring Aequi forces.",
+        "search": "antique map engraving ancient rome latium",
+        "caption": "431 BC: Postumius leads the Roman legions."
+      },
+      {
+        "narration": "Roman doctrine enforced absolute discipline, making unauthorized battle punishable by immediate execution.",
+        "search": "antique military manuscript roman legionaries battle engraving",
+        "caption": "Disobedience carried an automatic death sentence."
+      },
+      {
+        "narration": "Guarding the camp, Postumius's son spotted an exposed enemy cavalry force and broke ranks to strike.",
+        "search": "oil painting roman cavalry battle ambush",
+        "caption": "The son disobeys orders to strike."
+      },
+      {
+        "narration": "The young soldier routed the enemy, returning to camp with spoils of victory and expectations of praise.",
+        "search": "oil painting roman soldier displaying armor victory",
+        "caption": "A triumphant battle, but broken law."
+      },
+      {
+        "narration": "He presented the captured armor directly to his father in front of the assembled Roman legions.",
+        "search": "oil painting roman general addressing soldiers legion",
+        "caption": "Presenting captured spoils to his father."
+      },
+      {
+        "narration": "Refusing to pardon his own blood, Dictator Postumius ordered the immediate execution of his victorious son.",
+        "search": "historical battle engraving roman execution lictor ax",
+        "caption": "Postumius orders his son's execution."
+      },
+      {
+        "narration": "The harsh act cemented Roman military law, proving discipline stood above personal triumph and family ties.",
+        "search": "ancient roman sculpture bust severe patrician",
+        "caption": "Discipline above bloodline."
+      },
+      {
+        "narration": "In 340 BC, Roman Consul Aulus Postumius Tubertus chose absolute state discipline over paternal love.",
+        "search": "ancient roman sculpture bust",
+        "caption": "Absolute state discipline over paternal love"
+      },
+      {
+        "narration": "The ultimate cost of a stolen victory echoed through centuries of Roman martial law.",
+        "search": "historical battle engraving",
+        "caption": "The cost of a stolen victory"
+      },
+      {
+        "narration": "By sacrificing his own blood, Postumius ensured Roman law outlived any single military triumph.",
+        "search": "antique military manuscript",
+        "caption": "Roman law outlived any single military triumph"
+      },
+      {
+        "narration": "A Roman consul executed his own son for victory.",
+        "search": "ancient roman sculpture bust",
+        "caption": "The commander who killed his own blood"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T02:32:49.240657+00:00",
+    "updated_at": "2026-11-26T02:40:29.386747+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-26T02:38:29.989700+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "398 chars (cat 167 de vua 55s)",
+        "at": "2026-11-26T02:39:02.081813+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "27.7s en-US-GuyNeural 6 cau",
+        "at": "2026-11-26T02:39:05.723281+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T02:39:06.475808+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-26T02:39:47.301936+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-26T02:39:47.333775+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 27.7s 13358353 bytes",
+        "at": "2026-11-26T02:40:29.196694+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T02:40:29.386731+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/16110951/pexels-photo-16110951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38737913/pexels-photo-38737913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15850552/pexels-photo-15850552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9268889/pexels-photo-9268889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29710611/pexels-photo-29710611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32007939/pexels-photo-32007939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5030525/pexels-photo-5030525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/23510532/pexels-photo-23510532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40151888/pexels-photo-40151888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36577320/pexels-photo-36577320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29833969/pexels-photo-29833969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13097962/pexels-photo-13097962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "ebdb53cee9",
     "kind": "short",
     "channel": "Channel2",
