@@ -1,5 +1,167 @@
 [
   {
+    "id": "eb58ede4e5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao phơi quần áo trong nhà mùa mưa âm thầm tàn phá phổi?",
+    "idea": {
+      "title": "Tại sao phơi quần áo trong nhà mùa mưa âm thầm tàn phá phổi?",
+      "hook": "Hầu hết chúng ta đều tiện tay phơi quần áo trong phòng khi trời mưa, nhưng các bác sĩ cảnh báo hành động này đang thả hàng triệu bào tử nấm mốc vào phổi bạn.",
+      "beats": [
+        "Một chậu quần áo ướt có thể giải phóng tới 2 lít nước vào không khí trong phòng kín.",
+        "Độ ẩm tăng vọt tạo điều kiện lý tưởng cho nấm mốc Aspergillus phát triển mạnh chỉ sau 24 giờ.",
+        "Hít phải bào tử này âm thầm gây viêm đường hô hấp, dị ứng và suy giảm hệ miễn dịch mà bạn không hay biết.",
+        "Mẹo khắc phục: Bật quạt thông gió hoặc bật chế độ Dry của điều hòa thay vì đóng kín cửa phơi đồ."
+      ],
+      "keywords": [
+        "drying clothes indoor",
+        "wet laundry house",
+        "mold spore air microscopic",
+        "respiratory health issue",
+        "dehumidifier home bedroom"
+      ],
+      "tags": [
+        "suckhoe",
+        "meohay",
+        "doisong",
+        "Channel3",
+        "kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Phơi quần áo trong phòng kín đang phá hủy phổi bạn?",
+        "search": "3d animation wet clothes hanging indoor bedroom rainy day",
+        "caption": "Phơi đồ trong nhà tàn phá phổi?"
+      },
+      {
+        "narration": "Trời mưa, bạn tiện tay treo một chậu quần áo ướt sũng ngay trong phòng ngủ.",
+        "search": "3d animation rack full of wet laundry inside small room",
+        "caption": "Thói quen phơi đồ trong phòng kín"
+      },
+      {
+        "narration": "Ít ai biết, một chậu đồ ướt có thể giải phóng tới 2 lít nước vào không khí.",
+        "search": "3d animation water evaporating from clothes into air graphic",
+        "caption": "Giải phóng 2 lít nước vào không khí"
+      },
+      {
+        "narration": "Lượng hơi nước này làm độ ẩm phòng kín vọt lên trên 70% chỉ sau vài giờ.",
+        "search": "3d animation humidity meter percentage rising quickly indoor",
+        "caption": "Độ ẩm phòng vọt tăng đột ngột"
+      },
+      {
+        "narration": "Đây là môi trường hoàn hảo cho bào tử nấm mốc Aspergillus sinh sôi nảy nở.",
+        "search": "3d animation microscopic mold spores multiplying rapidly",
+        "caption": "Môi trường lý tưởng cho nấm mốc"
+      },
+      {
+        "narration": "Chỉ trong 24 giờ, hàng triệu vi bào tử bay lơ lửng khắp không gian sống.",
+        "search": "3d animation invisible toxic particles floating in bedroom",
+        "caption": "Hàng triệu vi bào tử bay lơ lửng"
+      },
+      {
+        "narration": "Mỗi khi bạn hít thở, những vi sinh vật này chui sâu thẳng vào phế quản.",
+        "search": "3d animation human breathing floating spores into lungs",
+        "caption": "Bào tử chui sâu vào hệ hô hấp"
+      },
+      {
+        "narration": "Ban đầu chỉ là hắt hơi, ngứa mũi nhẹ mà bạn tưởng là dị ứng thời tiết.",
+        "search": "3d animation person sneezing touching nose near laundry",
+        "caption": "Tưởng chừng chỉ là dị ứng thông thường"
+      },
+      {
+        "narration": "Nhưng bên trong phế quản, bào tử nấm Aspergillus bắt đầu nảy mầm và bám chặt vào niêm mạc phổi.",
+        "search": "nam moc nhat ban trong phoi 3d animation",
+        "caption": "Bào tử nấm nảy mầm trực tiếp bên trong phổi"
+      },
+      {
+        "narration": "Hệ miễn dịch phải liên tục căng sức chiến đấu, dẫn đến viêm phổi mãn tính và suy giảm sức đề kháng nghiêm trọng.",
+        "search": "bach cau tan cong vi khuan hoat hoa 3d",
+        "caption": "Hệ miễn dịch kiệt sức vì viêm nhiễm kéo dài"
+      },
+      {
+        "narration": "Đáng sợ hơn, chỉ một chậu đồ ướt có thể xả tới 2 lít nước vào không khí, biến phòng ngủ thành lò ươm nấm.",
+        "search": "quan ao uot boc hoi trong phong 3d animation",
+        "caption": "Một chậu quần áo xả 2 lít nước vào phòng"
+      },
+      {
+        "narration": "Đóng kín cửa phơi đồ vì sợ mưa càng làm độ ẩm tích tụ vượt ngưỡng 70 phần trăm cực kỳ nguy hiểm.",
+        "search": "phong ngu do am cao nam moc 3d render",
+        "caption": "Đóng kín cửa khiến độ ẩm tích tụ nguy hiểm"
+      },
+      {
+        "narration": "Giải pháp đơn giản: bật quạt thông gió hoặc bật chế độ Dry của điều hòa để rút sạch ẩm trong 30 phút.",
+        "search": "dieu hoa che do dry hut am 3d animation",
+        "caption": "Bật chế độ Dry điều hòa để rút sạch độ ẩm"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T18:01:39.510491+00:00",
+    "updated_at": "2026-11-26T18:10:07.462122+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-26T18:05:16.897977+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "529 chars (cat 96 de vua 55s)",
+        "at": "2026-11-26T18:08:23.427509+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "32.8s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-26T18:08:35.542249+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T18:08:36.613890+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-26T18:08:56.750780+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-26T18:08:56.785757+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 32.8s 30156596 bytes",
+        "at": "2026-11-26T18:10:07.182817+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T18:10:07.462113+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7705267/7705267-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8455001/8455001-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/7946219/7946219-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283169/15283169-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35638268/15103505_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39055409/16618763_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/37384001/15833888_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8296862/8296862-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/41205513/17650560_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38522688/16360562_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/39474592/16813862_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8120849/8120849-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/9694232/9694232-hd_1080_1920_25fps.mp4"
+    ]
+  },
+  {
     "id": "1529f59864",
     "kind": "short",
     "channel": "Channel3",
