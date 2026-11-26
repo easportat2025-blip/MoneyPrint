@@ -1,4 +1,4 @@
-# Daily ping 25/11/2026
+# Daily ping 26/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,19 +9,19 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (4)
-- Tại sao bật Bluetooth liên tục âm thầm định vị bạn chín :: token refresh failed: 400 {
+- Lý do nín thở khi làm máy tính âm thầm khiến bạn kiệt s :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- How a Wrestling Partner Ended Rome’s Deadliest Tyrant :: token refresh failed: 400 {
+- The Roman emperor who executed his own son for saving R :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The 1-Second Mistake That Ended Ivan the Terrible’s Dyn :: token refresh failed: 400 {
+- The Roman emperor who executed his own son for a stolen :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The General Who Destroyed Rome's Armies But Lost Everyt :: token refresh failed: 400 {
+- The Roman emperor who married a tree :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
