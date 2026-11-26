@@ -1,5 +1,167 @@
 [
   {
+    "id": "1529f59864",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "lý do nhìn chằm chằm màn hình tối âm thầm đốt cháy võng mạc bạn",
+    "idea": {
+      "title": "lý do nhìn chằm chằm màn hình tối âm thầm đốt cháy võng mạc bạn",
+      "hook": "Bạn nghĩ giảm độ sáng điện thoại về mức thấp nhất trong phòng tối là an toàn? Sự thật là võng mạc bạn đang phải gánh chịu một cái giá khủng khiếp.",
+      "beats": [
+        "Khi màn hình quá tối, đồng tử của bạn phải mở rộng tối đa để thu nhận ánh sáng ít ỏi.",
+        "Lúc này, các tia sáng xanh tập trung cao độ đâm thẳng vào trung tâm điểm vàng của mắt không qua màng lọc.",
+        "Các tế bào thị giác bị ép hoạt động quá tải trong môi trường thiếu sáng, dẫn đến hiện tượng thoái hóa điểm vàng sớm.",
+        "Chỉ sau vài tháng thói quen này, khả năng nhận diện chi tiết ban ngày của bạn suy giảm vĩnh viễn mà không hề hay biết."
+      ],
+      "keywords": [
+        "dark screen fatigue",
+        "eye strain animation",
+        "blue light damage",
+        "retina cells motion graphics",
+        "phone screen darkness"
+      ],
+      "tags": [
+        "sức khỏe mắt",
+        "thói quen dùng điện thoại",
+        "Channel3",
+        "khoa học cơ thể",
+        "mẹo công nghệ"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Bạn nghĩ giảm độ sáng điện thoại về mức thấp nhất trong phòng tối là an toàn? Sự thật là võng mạc bạn đang phải gánh chịu một cái giá khủng khiếp.",
+        "search": "3d animation phone screen darkness in dark room",
+        "caption": "Giảm độ sáng điện thoại trong tối có thực sự an toàn?"
+      },
+      {
+        "narration": "Khi màn hình quá tối, đồng tử của bạn phải mở rộng tối đa để thu nhận ánh sáng ít ỏi.",
+        "search": "eye strain animation pupil expanding in dark",
+        "caption": "Đồng tử mở rộng tối đa trong bóng tối"
+      },
+      {
+        "narration": "Lúc này, các tia sáng xanh tập trung cao độ đâm thẳng vào trung tâm điểm vàng của mắt không qua màng lọc.",
+        "search": "blue light damage motion graphics on eye retina",
+        "caption": "Tia sáng xanh đâm thẳng vào điểm vàng"
+      },
+      {
+        "narration": "Các tế bào thị giác bị ép hoạt động quá tải trong môi trường thiếu sáng, dẫn đến hiện tượng thoái hóa điểm vàng sớm.",
+        "search": "retina cells motion graphics dying under stress",
+        "caption": "Tế bào thị giác hoạt động quá tải"
+      },
+      {
+        "narration": "Chỉ sau vài tháng thói quen này, khả năng nhận diện chi tiết ban ngày của bạn suy giảm vĩnh viễn mà không hề hay biết.",
+        "search": "isometric render blurred vision looking at phone",
+        "caption": "Khả năng nhìn chi tiết suy giảm vĩnh viễn"
+      },
+      {
+        "narration": "Nhưng điều tồi tệ nhất không chỉ dừng lại ở bề mặt của con mắt.",
+        "search": "3d animation close up human eye blinking tired",
+        "caption": "Tổn thương sâu hơn bạn nghĩ"
+      },
+      {
+        "narration": "Ánh sáng phát ra từ màn hình nhỏ bé ấy còn đánh lừa cả bộ não của bạn.",
+        "search": "explainer animation brain glowing with phone light",
+        "caption": "Bộ இறைவன் bị đánh lừa bởi màn hình"
+      },
+      {
+        "narration": "Nó gửi tín hiệu sai lệch khiến cơ thể ngừng sản xuất hormone giấc ngủ ngay lập tức.",
+        "search": "loop animation sleepy brain cells turning off",
+        "caption": "Hormone giấc ngủ bị chặn đứng"
+      },
+      {
+        "narration": "Khi màn hình quá tối, đồng tử của bạn phải mở rộng tối đa để thu nhận ánh sáng ít ỏi.",
+        "search": "3d animation dong tu mat mo rong",
+        "caption": "Đồng tử mở rộng hết cỡ trong tối"
+      },
+      {
+        "narration": "Lúc này, các tia sáng xanh tập trung cao độ đâm thẳng vào trung tâm điểm vàng của mắt không qua màng lọc.",
+        "search": "motion graphics tia sang xanh chieu vao mat",
+        "caption": "Tia sáng xanh đâm thẳng vào điểm vàng"
+      },
+      {
+        "narration": "Các tế bào thị giác bị ép hoạt động quá tải trong môi trường thiếu sáng, dẫn đến hiện tượng thoái hóa điểm vàng sớm.",
+        "search": "explainer animation te bao thi giac qua tai",
+        "caption": "Tế bào thị giác hoạt động quá tải"
+      },
+      {
+        "narration": "Chỉ sau vài tháng thói quen này, khả năng nhận diện chi tiết ban ngày của bạn suy giảm vĩnh viễn mà không hề hay biết.",
+        "search": "loop animation giam thi luc nhin ban ngay",
+        "caption": "Suy giảm thị lực vĩnh viễn sau vài tháng"
+      },
+      {
+        "narration": "Hãy bật đèn phòng hoặc tăng độ sáng màn hình để bảo vệ võng mạc ngay hôm nay.",
+        "search": "isometric render phong ngu bat den chieu sang",
+        "caption": "Bật đèn phòng để bảo vệ mắt ngay"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-26T14:35:01.627677+00:00",
+    "updated_at": "2026-11-26T14:43:09.103901+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-26T14:38:20.985132+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "484 chars (cat 139 de vua 55s)",
+        "at": "2026-11-26T14:41:09.217916+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "30.0s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-26T14:41:36.713338+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-26T14:41:37.724747+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-26T14:41:59.222590+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-26T14:41:59.257196+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 30.0s 49940066 bytes",
+        "at": "2026-11-26T14:43:08.910869+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-26T14:43:09.103886+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/7986754/7986754-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/13770948/13770948-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/10210558/10210558-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/39692419/16923704_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39322563/16732179_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/8056469/8056469-uhd_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/28494561/12398946_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35641289/15104517_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/15283232/15283232-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39896192/17018729_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7593278/7593278-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/34081916/14455529_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/16561467/16561467-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "901edc2f9c",
     "kind": "short",
     "channel": "Channel2",
