@@ -1,5 +1,161 @@
 [
   {
+    "id": "5ef640e663",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How an Unlocked Gate Ended the Byzantine Empire",
+    "idea": {
+      "title": "How an Unlocked Gate Ended the Byzantine Empire",
+      "hook": "In 1453, Sultan Mehmed II failed to breach Constantinople's invincible walls until one forgotten defender left a tiny side gate unbolted.",
+      "beats": [
+        "For over a thousand years, the colossal Theodosian Walls made Constantinople entirely impenetrable to foreign invaders.",
+        "During the final Ottoman siege, fifty Turkish soldiers spotted the Kerko Porta—a small side gate left unlocked by accident.",
+        "They stormed inside, raised the Ottoman banner on top of the ramparts, and panicked the Byzantine defenders.",
+        "Emperor Constantine XI threw off his imperial robes and died fighting in the streets as the 1,100-year empire collapsed."
+      ],
+      "keywords": [
+        "Constantinople siege 1453",
+        "Sultan Mehmed II painting",
+        "Byzantine walls historical map",
+        "Emperor Constantine XI bust",
+        "Medieval battle historical engraving"
+      ],
+      "tags": [
+        "byzantine empire",
+        "constantinople 1453",
+        "ancient history",
+        "fall of rome",
+        "history documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Did a single unlocked gate destroy a thousand-year empire?",
+        "search": "byzantine empire map historical engraving",
+        "caption": "Did an unlocked gate destroy an empire?"
+      },
+      {
+        "narration": "In May 1453, the ancient capital of Constantinople faced total annihilation.",
+        "search": "siege of constantinople 1453 historical painting",
+        "caption": "May 1453: Constantinople faces total annihilation"
+      },
+      {
+        "narration": "For over eleven centuries, the triple-tiered Theodosian Walls had repelled every invader.",
+        "search": "theodosian walls constantinople illustration map",
+        "caption": "The invincible Theodosian Walls protected the city"
+      },
+      {
+        "narration": "Ottoman Sultan Mehmed II brought massive super-cannons, yet the fortress held.",
+        "search": "sultan mehmed II portrait oil painting",
+        "caption": "Sultan Mehmed II deployed giant artillery cannons"
+      },
+      {
+        "narration": "Hidden near the Blachernae palace was the Kerkoporta, a small sally port.",
+        "search": "medieval fortress gate historical engraving",
+        "caption": "A tiny side gate was hidden in the walls"
+      },
+      {
+        "narration": "Following a midnight counter-attack, exhausted defenders accidentally left this gate unbolted.",
+        "search": "medieval battle night raid manuscript illustration",
+        "caption": "Exhausted defenders forgot to bolt the gate"
+      },
+      {
+        "narration": "Fifty Ottoman soldiers discovered the opening and quietly slipped behind imperial lines.",
+        "search": "ottoman soldiers siege 1453 painting",
+        "caption": "Fifty enemy soldiers slipped inside unnoticed"
+      },
+      {
+        "narration": "They stormed the tower and raised the Ottoman banner over the ramparts.",
+        "search": "ottoman banner constantinople walls historical painting",
+        "caption": "The enemy flag was raised over the ramparts"
+      },
+      {
+        "narration": "Seeing the enemy banner high above the ramparts, panic swept through the Byzantine forces as rumors spread that the city was breached.",
+        "search": "fall of constantinople 1453 battle historical engraving",
+        "caption": "Panic spread as defenders believed the city was lost."
+      },
+      {
+        "narration": "Realizing the defense was broken, Emperor Constantine XI cast off his imperial insignia and led a final desperate charge on May 29, 1453.",
+        "search": "emperor constantine xi bust statue",
+        "caption": "Emperor Constantine XI charged into battle on May 29, 1453."
+      },
+      {
+        "narration": "The emperor perished in the streets, ending eleven centuries of the Byzantine Empire—all because of a single forgotten gate.",
+        "search": "sultan mehmed ii entering constantinople oil painting",
+        "caption": "Eleven centuries of empire ended by a single unlocked gate."
+      },
+      {
+        "narration": "A single unlocked gate destroyed a thousand-year empire.",
+        "search": "byzantine empire map historical engraving",
+        "caption": "A single unlocked gate destroyed a thousand-year empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T12:54:28.098558+00:00",
+    "updated_at": "2026-11-27T12:57:16.137675+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-27T12:55:10.261005+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "370 chars (cat 282 de vua 55s)",
+        "at": "2026-11-27T12:55:34.879197+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.4s en-US-GuyNeural 6 cau",
+        "at": "2026-11-27T12:55:39.401880+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T12:55:40.051778+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-27T12:56:41.353573+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T12:56:41.381319+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 19222994 bytes",
+        "at": "2026-11-27T12:57:15.996057+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T12:57:16.137641+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/36961234/pexels-photo-36961234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28412352/pexels-photo-28412352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13528091/pexels-photo-13528091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37501173/pexels-photo-37501173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15130343/pexels-photo-15130343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20101689/pexels-photo-20101689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31631812/pexels-photo-31631812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24259933/pexels-photo-24259933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35503968/pexels-photo-35503968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5152217/pexels-photo-5152217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17883495/pexels-photo-17883495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8698088/pexels-photo-8698088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "a467c69db1",
     "kind": "short",
     "channel": "Channel2",
