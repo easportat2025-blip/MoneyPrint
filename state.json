@@ -1,5 +1,168 @@
 [
   {
+    "id": "8d2cb90f4a",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao ứng dụng dọn rác thực ra đang làm chậm điện thoại bạn?",
+    "idea": {
+      "title": "Tại sao ứng dụng dọn rác thực ra đang làm chậm điện thoại bạn?",
+      "hook": "Bạn nghĩ cài app dọn rác sẽ giúp điện thoại mượt hơn? Thực ra, bạn đang tự tay bóp nghẹt hiệu năng và khiến pin cạn nhanh gấp đôi.",
+      "beats": [
+        "Các ứng dụng dọn RAM hoạt động bằng cách ép đóng toàn bộ app đang chạy ngầm cùng lúc.",
+        "Khi bạn mở lại một app vừa bị tắt, hệ thống phải nạp dữ liệu lại từ đầu, tốn gấp đôi dung lượng CPU và năng lượng.",
+        "Hệ điều hành Android và iOS hiện đại đều tự quản lý bộ nhớ đệm cực tốt, việc can thiệp bằng app thứ ba chỉ gây xung đột hệ thống.",
+        "Nhiều ứng dụng dọn rác còn âm thầm chạy quảng cáo ngầm và thu thập dữ liệu, làm máy giật lag liên tục."
+      ],
+      "keywords": [
+        "smartphone memory clean",
+        "phone lag stock footage",
+        "mobile application concept",
+        "cyber security code",
+        "slow smartphone user"
+      ],
+      "tags": [
+        "#meomaytinh",
+        "#meodienthoai",
+        "#congnghe",
+        "#channel3",
+        "#meovat",
+        "#kienthuc"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "App dọn rác đang làm điện thoại của bạn chậm gấp đôi.",
+        "search": "slow smartphone lag screen 3d animation",
+        "caption": "App dọn rác làm điện thoại chậm gấp đôi"
+      },
+      {
+        "narration": "Mỗi khi bạn bấm nút làm sạch, ứng dụng ép đóng toàn bộ app ngầm cùng lúc.",
+        "search": "mobile application force close screen motion graphics",
+        "caption": "Nút dọn rác ép tắt toàn bộ app ngầm"
+      },
+      {
+        "narration": "Bạn thấy RAM trống nhiều hơn và tưởng máy mượt, nhưng đó là bẫy tâm lý.",
+        "search": "phone ram memory meter gauge isometric render",
+        "caption": "Tăng RAM trống chỉ là bẫy cảm giác"
+      },
+      {
+        "narration": "Khi bạn mở lại ứng dụng, hệ thống phải tải lại từ đầu, tiêu tốn gấp đôi CPU.",
+        "search": "phone processor chip overheating explainer animation",
+        "caption": "CPU tốn gấp đôi năng lượng để nạp lại"
+      },
+      {
+        "narration": "Việc chip xử lý gồng mình khởi động lại liên tục khiến pin cạn nhanh đột biến.",
+        "search": "smartphone battery red empty icon loop animation",
+        "caption": "Pin cạn nhanh do chip phải nạp lại app"
+      },
+      {
+        "narration": "Hệ điều hành Android và iOS ngày nay vốn đã tự quản lý bộ nhớ đệm hoàn hảo.",
+        "search": "mobile operating system ram optimization 3d render",
+        "caption": "Android và iOS tự quản lý bộ nhớ rất tốt"
+      },
+      {
+        "narration": "Việc ép app thứ ba can thiệp chỉ làm rối loạn bộ nhớ và gây xung đột hệ thống.",
+        "search": "phone software error conflict warning icon cartoony 3d",
+        "caption": "App dọn rác gây xung đột hệ thống"
+      },
+      {
+        "narration": "Chưa kể, nhiều ứng dụng dọn rác còn âm thầm chạy quảng cáo ngầm để rút cạn tài nguyên.",
+        "search": "smartphone malware background ad tracking cyber security code",
+        "caption": "Âm thầm chạy quảng cáo ngầm rút cạn pin"
+      },
+      {
+        "narration": "Chưa hết, các app này còn đòi xin quyền truy cập danh bạ và vị trí để ngầm thu thập dữ liệu cá nhân.",
+        "search": "hoat hinh 3d bao mat thong tin dien thoai",
+        "caption": "Thu thập dữ liệu và chạy quảng cáo ẩn liên tục."
+      },
+      {
+        "narration": "Tất cả tạo ra một vòng lặp độc hại: máy lag, bạn bấm dọn dẹp, máy càng nóng và cạn pin nhanh hơn.",
+        "search": "hoat hinh 3d dien thoai bi nong qua tai pin do",
+        "caption": "Vòng lặp khiến điện thoại ngày càng giật lag hơn."
+      },
+      {
+        "narration": "Sự thật là hệ điều hành hiện đại thiết kế RAM để lấp đầy, giúp ứng dụng khởi động tức thì.",
+        "search": "3d motion graphics chip xu ly ram dien thoai",
+        "caption": "Bộ nhớ RAM sinh ra để lưu sẵn ứng dụng."
+      },
+      {
+        "narration": "Thứ thực sự làm chậm máy bạn là bộ nhớ lưu trữ quá đầy hoặc pin đã bị chai theo thời gian.",
+        "search": "hoat hinh 3d bo nho dien thoai bi day thanh dung luong",
+        "caption": "Dung lượng bộ nhớ trong mới làm chậm máy."
+      },
+      {
+        "narration": "Hãy xóa ngay ứng dụng dọn rác và chỉ cần khởi động lại máy định kỳ để khôi phục tốc độ tối đa.",
+        "search": "hoat hinh 3d tay bam go ung dung dien thoai",
+        "caption": "Xóa app dọn rác và khởi động lại máy định kỳ."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T08:53:22.988470+00:00",
+    "updated_at": "2026-11-27T08:55:46.515033+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-27T08:53:39.633166+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "513 chars (cat 118 de vua 55s)",
+        "at": "2026-11-27T08:53:51.785022+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "35.2s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-27T08:54:27.075209+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T08:54:28.171424+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-27T08:54:39.427906+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-27T08:54:39.467461+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 35.2s 17461086 bytes",
+        "at": "2026-11-27T08:55:46.317852+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T08:55:46.515018+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/8820125/8820125-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/5082599/5082599-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/8861604/8861604-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/4708340/4708340-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/9017879/9017879-uhd_1440_2560_24fps.mp4",
+      "https://videos.pexels.com/video-files/15440318/15440318-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/38993329/16589277_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/6331097/6331097-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39903212/17025313_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/32761265/13966458_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/16945380/16945380-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/8263458/8263458-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/15439747/15439747-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "aeba910930",
     "kind": "short",
     "channel": "Channel2",
