@@ -1,5 +1,161 @@
 [
   {
+    "id": "aeba910930",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman emperor who ate his own pet lion",
+    "idea": {
+      "title": "The Roman emperor who ate his own pet lion",
+      "hook": "When Roman Emperor Elagabalus grew bored of standard court feasts, he unleashed a hungry pet lion upon his guests during a banquet, resulting in a terrifying massacre that horrified even ancient Rome.",
+      "beats": [
+        "Introduction of Elagabalus and his chaotic reign filled with bizarre eccentricities.",
+        "The setup of the dinner party where unsuspecting senators and nobles were invited.",
+        "The sudden release of the lion and the immediate panic that ensued.",
+        "The historical aftermath and how this ruthless act sealed his infamous reputation."
+      ],
+      "keywords": [
+        "roman emperor portrait oil painting",
+        "ancient roman banquet historical illustration",
+        "antique royal palace interior painting",
+        "classical sculpture marble bust",
+        "historical oil painting dramatic lighting"
+      ],
+      "tags": [
+        "RomanHistory",
+        "AncientRome",
+        "HistoricalCuriosities",
+        "Channel2",
+        "HistoryDocumentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "This Roman emperor unleashed a hungry lion on his guests.",
+        "search": "classical sculpture marble bust",
+        "caption": "The cruelest dinner party in Rome."
+      },
+      {
+        "narration": "In 218 AD, the teenage emperor Elagabalus seized control of Rome with absolute power.",
+        "search": "roman emperor portrait oil painting",
+        "caption": "Emperor Elagabalus ascends the throne."
+      },
+      {
+        "narration": "His chaotic reign shocked citizens with bizarre rituals and unprecedented cruelty.",
+        "search": "ancient roman banquet historical illustration",
+        "caption": "A reign built on pure chaos."
+      },
+      {
+        "narration": "Senators and nobles were invited to a lavish imperial banquet inside the palace.",
+        "search": "antique royal palace interior painting",
+        "caption": "Unsuspecting guests arrive at the palace."
+      },
+      {
+        "narration": "Midway through the feast, heavy iron cage doors suddenly swung open.",
+        "search": "historical oil painting dramatic lighting",
+        "caption": "The iron cages swing open."
+      },
+      {
+        "narration": "A massive, starving pet lion leaped directly into the terrorized dining hall.",
+        "search": "roman colosseum historical painting digital art",
+        "caption": "A starving lion enters the feast."
+      },
+      {
+        "narration": "Screaming nobles scrambled for exits as the beast attacked the crowded room.",
+        "search": "ancient rome riot historical painting",
+        "caption": "Panic erupts among the Roman elite."
+      },
+      {
+        "narration": "Rome's most elite citizens suffered a horrific massacre engineered for the emperor's amusement.",
+        "search": "ancient roman massacre historical art",
+        "caption": "Slaughter engineered for royal amusement."
+      },
+      {
+        "narration": "In 222 AD, the panic at the imperial palace reached its absolute breaking point as the carnage unfolded.",
+        "search": "ancient roman banquet historical illustration carnage",
+        "caption": "Carnage erupted inside the grand imperial banquet hall."
+      },
+      {
+        "narration": "The Senate and military commanders watched in horror as the terrifying spectacle crossed every boundary of civilized rule.",
+        "search": "classical sculpture marble bust terrified",
+        "caption": "Terrified senators witnessed the ultimate breakdown of imperial law."
+      },
+      {
+        "narration": "This ruthless act cemented Elagabalus's legacy as Rome's most unstable tyrant, leading to his assassination at just eighteen years old.",
+        "search": "roman emperor portrait oil painting tyrannical",
+        "caption": "His tyrannical reign ended in swift and bloody assassination."
+      },
+      {
+        "narration": "This Roman emperor unleashed a hungry lion on his dinner guests.",
+        "search": "classical sculpture marble bust",
+        "caption": "The emperor who terrorized Rome"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T04:24:38.339759+00:00",
+    "updated_at": "2026-11-27T04:28:03.052412+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-27T04:25:41.726651+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "378 chars (cat 348 de vua 55s)",
+        "at": "2026-11-27T04:26:13.316679+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.1s en-US-GuyNeural 6 cau",
+        "at": "2026-11-27T04:26:16.024715+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T04:26:16.713017+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-27T04:27:28.432440+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T04:27:28.460084+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.1s 15591164 bytes",
+        "at": "2026-11-27T04:28:02.886700+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T04:28:03.052396+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/29472294/pexels-photo-29472294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36396961/pexels-photo-36396961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38351907/pexels-photo-38351907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16160772/pexels-photo-16160772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6718531/pexels-photo-6718531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33641026/pexels-photo-33641026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5659375/pexels-photo-5659375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18908118/pexels-photo-18908118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37844002/pexels-photo-37844002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19026978/pexels-photo-19026978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33611525/pexels-photo-33611525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28845599/pexels-photo-28845599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "14f809ac03",
     "kind": "short",
     "channel": "Channel2",
