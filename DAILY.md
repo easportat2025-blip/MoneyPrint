@@ -1,4 +1,4 @@
-# Daily ping 26/11/2026
+# Daily ping 27/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,19 +9,19 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (4)
-- Lý do nín thở khi làm máy tính âm thầm khiến bạn kiệt s :: token refresh failed: 400 {
+- Tại sao ứng dụng dọn rác thực ra đang làm chậm điện tho :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman emperor who executed his own son for saving R :: token refresh failed: 400 {
+- The Roman emperor who ate his own pet lion :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman emperor who executed his own son for a stolen :: token refresh failed: 400 {
+- The Emperor Who Saved Rome Then Grew Terrified of Water :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman emperor who married a tree :: token refresh failed: 400 {
+- The Mamluk Sultan Who Accidentally Poisoned Himself :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
