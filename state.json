@@ -1,5 +1,167 @@
 [
   {
+    "id": "61cac185a5",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Lý do bật màn hình đen trắng thực ra cứu bạn khỏi nghiện điện thoại",
+    "idea": {
+      "title": "Lý do bật màn hình đen trắng thực ra cứu bạn khỏi nghiện điện thoại",
+      "hook": "Bạn có biết tại sao các ứng dụng luôn dùng chấm thông báo màu đỏ rực? Thực ra, bộ não bạn đang bị thao túng bởi một bản năng sinh tồn cổ đại.",
+      "beats": [
+        "Màu đỏ kích thích não tiết ra dopamine vì tổ tiên từng dùng màu này để nhận biết nguy hiểm và thức ăn chín.",
+        "Các nhà thiết kế ứng dụng tận dụng điều này để biến điện thoại thành một chiếc máy đánh bạc thu nhỏ.",
+        "Chuyển màn hình sang chế độ đen trắng (Grayscale) lập tức ngắt cơn thèm dopamine này.",
+        "Bộ não sẽ coi điện thoại chỉ như một tờ báo cũ chán ngắt, giúp giảm đến 40% thời gian cầm máy mỗi ngày."
+      ],
+      "keywords": [
+        "phone grayscale mode",
+        "dopamine brain stimulation",
+        "red notification icon",
+        "person using smartphone",
+        "monochrome mobile screen"
+      ],
+      "tags": [
+        "#Channel3",
+        "#meodienthoai",
+        "#thietbidientu",
+        "#tamlyhoc",
+        "#suckhoe"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Tại sao chấm thông báo ứng dụng luôn màu đỏ rực?",
+        "search": "3d animation thong bao mau do dien thoai smartphone",
+        "caption": "Tại sao thông báo ứng dụng luôn màu đỏ?"
+      },
+      {
+        "narration": "Sắc đỏ này không phải ngẫu nhiên mà kích hoạt bản năng sinh tồn từ thời tiền sử.",
+        "search": "3d animation qua chin mau do tren cay xanh",
+        "caption": "Màu đỏ kích hoạt bản năng sinh tồn cổ đại"
+      },
+      {
+        "narration": "Tổ tiên chúng ta từng dùng màu đỏ để nhận biết quả chín và mối nguy hiểm cấp bách.",
+        "search": "motion graphics bo nao tiet dopamine mau do",
+        "caption": "Nhận biết nguy hiểm và thức ăn nhờ màu đỏ"
+      },
+      {
+        "narration": "Các nhà thiết kế ứng dụng đã biến bản năng đó thành một chiếc máy đánh bạc thu nhỏ.",
+        "search": "isometric render dien thoai va may danh bac casino",
+        "caption": "Điện thoại biến thành máy đánh bạc thu nhỏ"
+      },
+      {
+        "narration": "Mỗi lần nhìn thấy chấm đỏ, bộ não lại cuồng cuồng đòi hỏi một liều dopamine mới.",
+        "search": "explainer animation nguoi nghien dien thoai trong bong toi",
+        "caption": "Chấm đỏ bắt não tiết dopamine liên tục"
+      },
+      {
+        "narration": "Nhưng có một công tắc bí mật trên điện thoại giúp bẻ gãy hoàn toàn cái bẫy này.",
+        "search": "cartoony 3d cai dat man hinh dien thoai",
+        "caption": "Công tắc bí mật giúp phá vỡ bẫy dopamine"
+      },
+      {
+        "narration": "Chỉ cần chuyển màn hình sang chế độ đen trắng, nguồn kích thích màu sắc bị ngắt tức thì.",
+        "search": "3d animation man hinh dien thoai doi sang den trang",
+        "caption": "Chuyển màn hình sang chế độ đen trắng monochrome"
+      },
+      {
+        "narration": "Không còn màu đỏ cám dỗ, bộ não bắt đầu coi chiếc smartphone đắt tiền chỉ như tờ báo cũ.",
+        "search": "motion graphics to bao cu va man hinh dien thoai",
+        "caption": "Bộ não coi điện thoại như tờ báo cũ chán ngắt"
+      },
+      {
+        "narration": "Mức dopamine giảm mạnh khiến cơn thèm lướt ứng dụng tự động biến mất chỉ sau vài phút.",
+        "search": "hoat hinh 3d nao bo giam dopamine bieu do",
+        "caption": "Dopamine giảm giúp ngắt cơn thèm lướt máy"
+      },
+      {
+        "narration": "Nghiên cứu cho thấy mẹo đơn giản này giúp giảm tới 40% thời gian sử dụng điện thoại mỗi ngày.",
+        "search": "hoat hinh 3d dong ho dem nguoc thoi gian man hinh",
+        "caption": "Giảm 40% thời gian dùng điện thoại mỗi ngày"
+      },
+      {
+        "narration": "Bạn vẫn nghe gọi và làm việc bình thường, nhưng mắt không còn bị dính chặt vào màn hình.",
+        "search": "hoat hinh 3d nguoi dat dien thoai xuong ban",
+        "caption": "Làm việc bình thường nhưng không còn nghiện màn hình"
+      },
+      {
+        "narration": "Thay vì tốn hàng giờ lướt vô thức, bạn lấy lại sự kiểm soát toàn bộ tập trung của mình.",
+        "search": "hoat hinh 3d nguoi lam viec thong minh tap trung",
+        "caption": "Lấy lại sự tập trung và kiểm soát bản thân"
+      },
+      {
+        "narration": "Thử bật chế độ đen trắng ngay hôm nay để biến chiếc điện thoại nghiện ngập thành công cụ phục vụ bạn!",
+        "search": "hoat hinh 3d chuyen man hinh dien thoai den trang",
+        "caption": "Bật đen trắng ngay để làm chủ điện thoại"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T14:29:47.151894+00:00",
+    "updated_at": "2026-11-27T14:32:38.114748+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-27T14:30:21.556121+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "463 chars (cat 135 de vua 55s)",
+        "at": "2026-11-27T14:31:03.023928+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.3s vi-VN-NamMinhNeural 6 cau",
+        "at": "2026-11-27T14:31:24.338935+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T14:31:25.248177+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-27T14:31:45.797559+00:00"
+      },
+      "hook3s": {
+        "ok": true,
+        "detail": "3/3: motion-first-frame, first-word-instant, hook-short",
+        "at": "2026-11-27T14:31:45.828394+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.4s 28045281 bytes",
+        "at": "2026-11-27T14:32:37.730690+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T14:32:38.114734+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/16655974/16655974-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/12715047/12715047-uhd_1440_2732_30fps.mp4",
+      "https://videos.pexels.com/video-files/39694145/16924197_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/7608615/7608615-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/19912058/19912058-uhd_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/8819583/8819583-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/39905195/17025410_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/19575437/19575437-hd_1080_1920_25fps.mp4",
+      "https://videos.pexels.com/video-files/35066823/14854008_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39422992/16786380_1440_2560_60fps.mp4",
+      "https://videos.pexels.com/video-files/38364905/16293098_1440_2560_30fps.mp4",
+      "https://videos.pexels.com/video-files/9618044/9618044-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/16655804/16655804-hd_1080_1920_30fps.mp4"
+    ]
+  },
+  {
     "id": "5ef640e663",
     "kind": "short",
     "channel": "Channel2",
