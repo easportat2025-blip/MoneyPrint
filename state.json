@@ -1,5 +1,162 @@
 [
   {
+    "id": "14f809ac03",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Emperor Who Saved Rome Then Grew Terrified of Water",
+    "idea": {
+      "title": "The Emperor Who Saved Rome Then Grew Terrified of Water",
+      "hook": "Emperor Heraclius crushed the Persian Empire in battle, but a sudden psychological breakdown left him so terrified of water that he nearly starved his own capital.",
+      "beats": [
+        "Heraclius led the Byzantine Empire to a miraculous triumph against Persia, reclaiming Christianity's most sacred relics.",
+        "Soon after, he developed a severe, mysterious phobia of open water, absolutely refusing to cross the Bosporus strait.",
+        "Engineers had to construct a massive floating bridge covered in soil and trees so he couldn't see the sea while crossing.",
+        "This crippling mental paralysis prevented him from leading troops when Arab armies invaded Byzantine lands.",
+        "The legendary savior of Rome died helpless, trapped by an unexplained fear inside his own mind."
+      ],
+      "keywords": [
+        "byzantine empire portrait",
+        "emperor heraclius bust",
+        "ancient bridge engraving",
+        "constantinople old map",
+        "medieval battle painting"
+      ],
+      "tags": [
+        "byzantine history",
+        "roman emperor",
+        "heraclius",
+        "ancient history",
+        "history documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "The emperor who conquered Persia was destroyed by water.",
+        "search": "emperor heraclius bust statue",
+        "caption": "Rome’s savior was undone by water."
+      },
+      {
+        "narration": "In 628 AD, Byzantine Emperor Heraclius achieved the impossible by annihilating the rival Sasanian Persian Empire.",
+        "search": "byzantine battle manuscript painting",
+        "caption": "In 628 AD, Heraclius crushed Persia."
+      },
+      {
+        "narration": "He triumphantly reclaimed Christianity's True Cross, ending a decades-long war that had pushed Constantinople to the brink.",
+        "search": "true cross byzantine manuscript illustration",
+        "caption": "Reclaiming Christianity’s holy True Cross."
+      },
+      {
+        "narration": "Yet upon returning to his capital, the victorious military commander suffered an abrupt and terrifying mental breakdown.",
+        "search": "constantinople old map engraving",
+        "caption": "A sudden breakdown shattered the victor."
+      },
+      {
+        "narration": "Heraclius developed an irrational, paralyzing terror of open water, refusing to step anywhere near the Bosporus strait.",
+        "search": "bosporus strait old engraving",
+        "caption": "Paralyzed by fear of open water."
+      },
+      {
+        "narration": "Trapped outside his own capital, he commanded engineers to construct a massive floating bridge blanketed with soil and live trees.",
+        "search": "ancient pontoon bridge engraving",
+        "caption": "Building a hidden forest floating bridge."
+      },
+      {
+        "narration": "He crossed the strait on horseback while surrounded by foliage, completely insulated from the sight of the waves below.",
+        "search": "byzantine emperor horseback painting",
+        "caption": "Crossing the sea inside a forest."
+      },
+      {
+        "narration": "While Heraclius remained paralyzed by his phobia inside Constantinople, a massive new threat mobilized in the Arabian deserts.",
+        "search": "arab cavalry invasion medieval illustration",
+        "caption": "A new threat emerges from Arabia."
+      },
+      {
+        "narration": "In 634 AD, newly unified Arab forces invaded Byzantine territory, sweeping rapidly across Syria and Palestine.",
+        "search": "medieval battle painting of invading armies clash",
+        "caption": "Arab armies invaded Byzantine lands in 634 AD"
+      },
+      {
+        "narration": "Emperor Heraclius was utterly unable to lead his troops into battle, trapped in Constantinople by his crippling terror of the water.",
+        "search": "emperor heraclius gold coin portrait close up",
+        "caption": "Paralyzed by fear, Heraclius could not lead his troops"
+      },
+      {
+        "narration": "The legendary savior of Rome died helpless inside his palace in 641 AD, conquered by an invisible mental prison.",
+        "search": "constantinople old map engraving 7th century",
+        "caption": "Heraclius died trapped by fear inside Constantinople"
+      },
+      {
+        "narration": "An emperor crushed an empire, then feared a puddle.",
+        "search": "emperor heraclius bust sculpture ancient coin",
+        "caption": "The conqueror who feared water"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T02:32:16.059352+00:00",
+    "updated_at": "2026-11-27T02:35:27.014061+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-27T02:32:59.641206+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "390 chars (cat 218 de vua 55s)",
+        "at": "2026-11-27T02:33:15.145662+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "26.4s en-US-GuyNeural 5 cau",
+        "at": "2026-11-27T02:33:18.314910+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T02:33:19.194419+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-27T02:34:37.005977+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T02:34:37.044584+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 26.4s 16216459 bytes",
+        "at": "2026-11-27T02:35:26.786555+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T02:35:27.014046+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8348155/pexels-photo-8348155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32459754/pexels-photo-32459754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17543464/pexels-photo-17543464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41075680/pexels-photo-41075680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18230812/pexels-photo-18230812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37944668/pexels-photo-37944668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33998374/pexels-photo-33998374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30875363/pexels-photo-30875363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7114277/pexels-photo-7114277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/24827415/pexels-photo-24827415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14996241/pexels-photo-14996241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "92237069de",
     "kind": "short",
     "channel": "Channel2",
