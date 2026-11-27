@@ -1,5 +1,161 @@
 [
   {
+    "id": "92237069de",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Mamluk Sultan Who Accidentally Poisoned Himself",
+    "idea": {
+      "title": "The Mamluk Sultan Who Accidentally Poisoned Himself",
+      "hook": "In 1277, Sultan Baibars prepared a goblet of poisoned kumis for his rival, but a fatal mistake made him drink it himself.",
+      "beats": [
+        "Sultan Baibars ruled the Mamluk Sultanate after successfully halting both Crusader and Mongol invasions.",
+        "To eliminate a rival Syrian prince, Baibars secretly laced a cup of fermented milk with deadly poison.",
+        "During a tense banquet, an unexpected commotion caused the royal cups to be inadvertently swapped.",
+        "Baibars drank the lethal goblet himself and suffered 13 agonizing days before dying of his own plot."
+      ],
+      "keywords": [
+        "Sultan Baibars portrait",
+        "Mamluk warrior painting",
+        "medieval feast miniature",
+        "ancient goblet engraving",
+        "13th century Middle East map"
+      ],
+      "tags": [
+        "#history",
+        "#ancienthistory",
+        "#mamluk",
+        "#historyfacts",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "How did history's most feared sultan poison himself?",
+        "search": "Sultan Baibars portrait painting",
+        "caption": "A ruthless conqueror brought down by his own plot."
+      },
+      {
+        "narration": "By 1277, Sultan Baibars ruled the Mamluk Sultanate after decisively halting both Mongol and Crusader invasions.",
+        "search": "13th century Middle East map engraving",
+        "caption": "Sultan Baibars halted Crusader and Mongol invasions by 1277."
+      },
+      {
+        "narration": "Despite his military victories, Baibars harbored deep suspicion toward a rival Syrian prince holding power in Damascus.",
+        "search": "Mamluk warrior manuscript painting",
+        "caption": "Political rivals threatened the stability of the Mamluk Sultanate."
+      },
+      {
+        "narration": "To eliminate his enemy without raising suspicion, the Sultan orchestrated a quiet assassination during a grand feast.",
+        "search": "medieval banquet manuscript miniature",
+        "caption": "A secret assassination plot prepared for a royal feast."
+      },
+      {
+        "narration": "Baibars secretly spiked a ceremonial goblet of fermented milk, called kumis, with a lethal toxin.",
+        "search": "ancient chalice engraving",
+        "caption": "A goblet of fermented milk laced with lethal poison."
+      },
+      {
+        "narration": "During a tense moment in the hall, an unexpected commotion caused the royal drinking vessels to be accidentally swapped.",
+        "search": "13th century Arabic manuscript miniature banquet",
+        "caption": "A sudden commotion caused the royal cups to be swapped."
+      },
+      {
+        "narration": "Completely unaware of the error, Baibars raised the poisoned vessel and drank the contents himself.",
+        "search": "medieval sultan oil painting portrait",
+        "caption": "Baibars unknowingly drank the lethal goblet himself."
+      },
+      {
+        "narration": "After thirteen agonizing days of torment, Sultan Baibars died in Damascus in 1277, slain by his own trap.",
+        "search": "13th century Damascus fortress manuscript illustration",
+        "caption": "Baibars died 13 days later in Damascus from his own trap."
+      },
+      {
+        "narration": "The invincible commander who halted the Mongol invasions was ultimately undone not on the battlefield, but at a dining table.",
+        "search": "mamluk cavalry combat manuscript miniature",
+        "caption": "Undone not by armies, but a swapped goblet"
+      },
+      {
+        "narration": "His covert scheme to assassinate a rival prince instantly backfired, throwing the Mamluk Empire into sudden crisis.",
+        "search": "13th century damascus city map engraving",
+        "caption": "A covert plot that destroyed the Sultan"
+      },
+      {
+        "narration": "Sultan Baibars survived hundreds of bloody wars, only to succumb to the very poisoned cup he mixed himself.",
+        "search": "Sultan Baibars portrait painting slow motion",
+        "caption": "The conqueror who fell to his own poison"
+      },
+      {
+        "narration": "A powerful sultan poisoned himself by mistake in 1277.",
+        "search": "Sultan Baibars manuscript illustration",
+        "caption": "The sultan who drank his own poison in 1277"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T01:08:13.072453+00:00",
+    "updated_at": "2026-11-27T01:14:40.819038+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-27T01:11:25.825984+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "428 chars (cat 118 de vua 55s)",
+        "at": "2026-11-27T01:12:26.553603+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.8s en-US-GuyNeural 6 cau",
+        "at": "2026-11-27T01:12:29.459901+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T01:12:30.180089+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-27T01:14:03.003056+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T01:14:03.030964+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.8s 17142101 bytes",
+        "at": "2026-11-27T01:14:40.653430+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T01:14:40.819024+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/13909196/pexels-photo-13909196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35198434/pexels-photo-35198434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525622/pexels-photo-30525622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6207364/pexels-photo-6207364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36960346/pexels-photo-36960346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525658/pexels-photo-30525658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13027896/pexels-photo-13027896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34745762/pexels-photo-34745762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28958706/pexels-photo-28958706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34232655/pexels-photo-34232655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5352898/pexels-photo-5352898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39228645/pexels-photo-39228645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "10e257f2f3",
     "kind": "short",
     "channel": "Channel3",
