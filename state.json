@@ -1,5 +1,163 @@
 [
   {
+    "id": "a467c69db1",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman Emperor Who Lined His Palace With Mirrors",
+    "idea": {
+      "title": "The Roman Emperor Who Lined His Palace With Mirrors",
+      "hook": "Paranoid Roman Emperor Domitian lined his palace walls with reflective marble mirrors so no assassin could ever sneak up behind him—yet his killer was someone he trusted completely.",
+      "beats": [
+        "Domitian's intense paranoia led him to construct reflective phengite stone walls along his palace corridors.",
+        "He spent hours pacing the hall, watching reflections to prevent secret daggers from approaching unseen.",
+        "In 96 AD, his own bedroom servant smuggled a hidden blade inside a fake arm bandage.",
+        "The emperor fought viciously, but the very servants he trusted ended his reign inside his mirror-lined halls."
+      ],
+      "keywords": [
+        "Roman Emperor Domitian portrait",
+        "ancient Roman palace bust",
+        "Roman marble corridor engraving",
+        "Roman dagger assassin artwork",
+        "Roman empire historical painting"
+      ],
+      "tags": [
+        "ancient history",
+        "roman empire",
+        "roman emperors",
+        "historical mysteries",
+        "history documentary",
+        "domitian",
+        "ancient rome"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "No assassin could touch Rome's most paranoid emperor.",
+        "search": "Emperor Domitian Roman bust sculpture",
+        "caption": "Rome's most paranoid emperor built mirror walls to survive"
+      },
+      {
+        "narration": "In 96 AD, Emperor Domitian transformed his Roman palace into a fortress of polished marble reflections.",
+        "search": "Ancient Roman palace corridor marble engraving",
+        "caption": "In 96 AD Domitian transformed his palace into mirrors"
+      },
+      {
+        "narration": "Fearing constant betrayal, he lined the hallways of the Palatine Hill palace with reflective phengite stone.",
+        "search": "Roman Palatine Hill imperial palace artwork painting",
+        "caption": "Reflective phengite stone lined every hallway of Palatine Hill"
+      },
+      {
+        "narration": "Pacing these glittering halls for hours, Domitian constantly watched reflections to catch unseen daggers approaching.",
+        "search": "Roman imperial hall phengite wall oil painting",
+        "caption": "Every angle was watched to spot unseen daggers"
+      },
+      {
+        "narration": "Yet the conspiracy against him did not originate from a hidden corridor or an unknown enemy.",
+        "search": "Ancient Roman Senate political conspiracy oil painting",
+        "caption": "The true threat waited inside his inner circle"
+      },
+      {
+        "narration": "A trusted bedroom servant named Stephanus spent days carrying a hidden dagger inside a fake arm bandage.",
+        "search": "Roman dagger pugio ancient weapon artwork",
+        "caption": "A trusted chamberlain concealed a blade in a bandage"
+      },
+      {
+        "narration": "Stephanus entered the imperial bedchamber pretending to deliver an urgent conspiracy report before striking.",
+        "search": "Assassination of Domitian historical painting artwork",
+        "caption": "Fake documents masked the deadly chamberlain assault"
+      },
+      {
+        "narration": "Domitian fought viciously, but the very servants he trusted ended his reign inside his mirrored fortress.",
+        "search": "Roman Emperor Domitian marble coin profile",
+        "caption": "His mirror sanctuary could not save him from trusted allies"
+      },
+      {
+        "narration": "Upon Domitian's death in September 96 AD, the Roman Senate immediately declared damnatio memoriae, melting his coins and tearing down his statues across the empire.",
+        "search": "ancient Roman Senate meeting oil painting",
+        "caption": "Senate erased Domitian's legacy in 96 AD"
+      },
+      {
+        "narration": "Senator Marcus Cocceius Nerva was declared emperor the same day, officially bringing an end to the Flavian dynasty.",
+        "search": "Roman Emperor Nerva marble bust statue",
+        "caption": "Emperor Nerva succeeded Domitian immediately"
+      },
+      {
+        "narration": "Domitian lined his palace with reflective stone to watch his back, yet no mirror could protect him from the fatal betrayal of those within.",
+        "search": "ancient Roman marble hallway architecture engraving",
+        "caption": "Mirrored walls could not stop domestic betrayal"
+      },
+      {
+        "narration": "A Roman emperor built mirror walls to cheat death.",
+        "search": "Roman Emperor Domitian marble bust statue close up",
+        "caption": "The emperor who built mirror walls to escape death."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T09:34:50.336578+00:00",
+    "updated_at": "2026-11-27T09:39:56.808472+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-27T09:36:09.160795+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "434 chars (cat 221 de vua 55s)",
+        "at": "2026-11-27T09:36:51.789903+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "28.9s en-US-GuyNeural 6 cau",
+        "at": "2026-11-27T09:36:56.911000+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T09:36:57.943633+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-27T09:39:03.664558+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T09:39:03.703687+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 28.9s 18613321 bytes",
+        "at": "2026-11-27T09:39:56.612862+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T09:39:56.808455+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19472722/pexels-photo-19472722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17646629/pexels-photo-17646629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39144779/pexels-photo-39144779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15476105/pexels-photo-15476105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14542708/pexels-photo-14542708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33516927/pexels-photo-33516927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17395809/pexels-photo-17395809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35708933/pexels-photo-35708933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3214598/pexels-photo-3214598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224376/pexels-photo-38224376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30911195/pexels-photo-30911195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8d2cb90f4a",
     "kind": "short",
     "channel": "Channel3",
