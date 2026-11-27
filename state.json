@@ -1,5 +1,600 @@
 [
   {
+    "id": "5ff6d92583",
+    "kind": "long",
+    "channel": "seigh",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Bizarre Death of Frederick Barbarossa: The King Killed by a River",
+    "idea": {
+      "title": "The Bizarre Death of Frederick Barbarossa: The King Killed by a River",
+      "hook": "In 1190, Holy Roman Emperor Frederick Barbarossa led 100,000 crusaders toward Jerusalem, only to drown in a river barely knee-deep before reaching the battlefield.",
+      "beats": [
+        "In 1187, Saladin captures Jerusalem, prompting Pope Gregory III to call for the Third Crusade.",
+        "Holy Roman Emperor Frederick I 'Barbarossa', a veteran commander at age 67, takes the cross.",
+        "Barbarossa builds the largest army in Crusader history, boasting over 100,000 men and 20,000 heavy knights.",
+        "Choosing a land route over sea, the massive imperial host marches through Byzantium into Anatolia.",
+        "The Crusaders face brutal desert conditions and fight off constant Seljuk Turkish ambushes, winning a major victory at Iconium.",
+        "Exhausted after crossing the treacherous Taurus Mountains, the army reaches the Saleph River in southern Anatolia.",
+        "On June 10, 1190, overwhelmed by intense heat, Barbarossa decides to cross or bathe in the swift river.",
+        "Dressed in heavy iron armor, the Emperor is knocked off his horse or pulled under by strong hidden currents.",
+        "Cold-water shock and the extreme weight of his armor prevent the 67-year-old monarch from swimming.",
+        "Royal bodyguards frantically pull him to the bank, but the Holy Roman Emperor is already dead.",
+        "Grief and panic sweep the camp as superstitious soldiers view his bizarre death as a bad omen from God.",
+        "Without Barbarossa's leadership, the army disintegrates through disease, desertion, and internal feuds.",
+        "The loss of the German host leaves Richard the Lionheart short-handed, permanently altering the outcome of the Third Crusade."
+      ],
+      "keywords": [
+        "Frederick Barbarossa",
+        "Third Crusade",
+        "Saleph River",
+        "Holy Roman Empire",
+        "Saladin",
+        "Medieval warfare history",
+        "Crusader army",
+        "Battle of Iconium",
+        "Bizarre historical deaths",
+        "Middle Ages documentary"
+      ],
+      "tags": [
+        "history",
+        "medieval",
+        "crusades",
+        "documentary",
+        "barbarossa",
+        "middleages",
+        "historydocumentary",
+        "militaryhistory",
+        "weirdhistory",
+        "knights"
+      ],
+      "kind": "long",
+      "thumbnail_text": "KILLED BY A SHALLOW RIVER"
+    },
+    "scenes": [
+      {
+        "narration": "In 1190, Europe's greatest monarch died in knee-deep water. Holy Roman Emperor Frederick Barbarossa led 100,000 men to reclaim Jerusalem, only to perish before reaching the battlefield.",
+        "search": "Frederick Barbarossa drowning Saleph River historical oil painting",
+        "caption": "A king killed by a river in 1190"
+      },
+      {
+        "narration": "In October 1187, Sultan Saladin recaptured Jerusalem, prompting Pope Gregory VIII to call for the Third Crusade. At sixty-seven years old, the veteran Holy Roman Emperor Frederick I Barbarossa took up the cross to command the holy war.",
+        "search": "Saladin capturing Jerusalem 1187 medieval manuscript illumination",
+        "caption": "Saladin reclaims Jerusalem in 1187"
+      },
+      {
+        "narration": "Barbarossa assembled an army of over 100,000 soldiers, including 20,000 heavy knights, making it the largest Crusader force ever gathered. Rejecting the sea route, the imperial host began a massive overland march through Byzantium into Anatolia.",
+        "search": "medieval crusader army marching engraving",
+        "caption": "100,000 Crusaders march across Anatolia"
+      },
+      {
+        "narration": "Plagued by scorching desert heat and relentless Seljuk Turkish ambushes, the imperial army fought back and captured the city of Iconium in May 1190. Barbarossa's veteran leadership appeared to guarantee ultimate victory in the Holy Land.",
+        "search": "Battle of Iconium 1190 medieval miniature painting",
+        "caption": "Imperial victory at Iconium, May 1190"
+      },
+      {
+        "narration": "After enduring a grueling trek across the treacherous Taurus Mountains, the exhausted troops reached the Saleph River in southern Anatolia on June 10, 1190. Overwhelmed by intense heat, the Emperor decided to cross the swift river ahead of his main force.",
+        "search": "Saleph River Goksu Anatolia historical landscape engraving",
+        "caption": "June 10, 1190: Imperial host reaches Saleph River"
+      },
+      {
+        "narration": "Weighted down by heavy iron plate and chainmail armor, Barbarossa was suddenly swept off his horse by hidden currents. The sudden shock of cold water combined with his immense armor immobilized the sixty-seven-year-old monarch beneath the surface.",
+        "search": "Frederick Barbarossa portrait painting",
+        "caption": "Barbarossa trapped by heavy armor and currents"
+      },
+      {
+        "narration": "Royal bodyguards frantically pulled the Emperor to the riverbank, but the Holy Roman Emperor was already dead. Devastated by the sudden loss, thousands of panic-stricken soldiers viewed his bizarre death as a bad omen and deserted.",
+        "search": "death of emperor frederick barbarossa medieval artwork",
+        "caption": "Barbarossa dies, causing mass army desertion"
+      },
+      {
+        "narration": "Without Barbarossa's leadership, the imperial army dissolved through disease and internal feuds, leaving King Richard the Lionheart short-handed in Palestine. A single river ended the grandest crusade in history, permanently altering the Middle East.",
+        "search": "Richard the Lionheart Crusades oil painting",
+        "caption": "A river's trap alters the Third Crusade"
+      },
+      {
+        "narration": "In June 1190, Imperial commanders attempted to preserve Frederick Barbarossa's body in barrels of vinegar so he could still complete his vow to reach Jerusalem.",
+        "search": "frederick barbarossa funeral procession medieval manuscript illumination",
+        "caption": "Preserving the Emperor's Body in Vinegar"
+      },
+      {
+        "narration": "When intense Anatolian heat ruined the preservation effort, his remains were divided: his flesh buried in Tarsus, his heart in Antioch, and his bones carried onward.",
+        "search": "crusader city of tarsus medieval map engraving",
+        "caption": "The Division of Barbarossa's Remains"
+      },
+      {
+        "narration": "Sultan Saladin had feared Barbarossa's 100,000-man army above all rival forces, receiving intelligence of the emperor's drowning with utter astonishment.",
+        "search": "saladin sultan portrait oil painting",
+        "caption": "Saladin Learns of Barbarossa's Demise"
+      },
+      {
+        "narration": "Led by Duke Frederick VI, only 5,000 surviving German crusaders reached the Siege of Acre in October 1190, crippled by disease and mass desertion.",
+        "search": "siege of acre 1191 medieval battlefield oil painting",
+        "caption": "95 Percent of Imperial Host Lost"
+      },
+      {
+        "narration": "Without Barbarossa's massive army and unifying authority, King Richard the Lionheart and Philip II engaged in bitter feuds, ultimately failing to retake Jerusalem in 1192.",
+        "search": "richard the lionheart battle oil painting",
+        "caption": "A Divided Third Crusade Fails"
+      },
+      {
+        "narration": "Modern forensic historians debate whether the 67-year-old monarch suffered a fatal heart attack from cold-water shock or drowned beneath sixty pounds of plate and chainmail.",
+        "search": "crusader knight armor 12th century museum display photograph",
+        "caption": "Hydrocution or Drowning in Heavy Armor"
+      },
+      {
+        "narration": "Refusing to believe their emperor perished in a shallow river, German folklore created the Kyffhäuser legend, claiming Barbarossa sleeps hidden beneath a mountain until his nation needs him.",
+        "search": "kyffhauser monument frederick barbarossa statue photograph",
+        "caption": "The Legend of the Sleeping Emperor"
+      },
+      {
+        "narration": "A single slip in the Saleph River on June 10, 1190, annihilated the largest crusade in history and permanently altered the destiny of the medieval Middle East.",
+        "search": "saleph river goksu turkey landscape photograph",
+        "caption": "June 10, 1190: A River Reshapes History"
+      },
+      {
+        "narration": "In 1190, a hundred thousand crusaders were defeated not by Saladin, but by two feet of water.",
+        "search": "frederick barbarossa drowning river medieval manuscript illumination",
+        "caption": "Killed by a shallow river"
+      },
+      {
+        "narration": "Following the fall of Jerusalem to Saladin in October 1187, Pope Gregory VIII issued a papal bull commanding Western Europe to reclaim the Holy Land.",
+        "search": "saladin conquering jerusalem 1187 medieval manuscript detail",
+        "caption": "Fall of Jerusalem 1187"
+      },
+      {
+        "narration": "At sixty-seven years old, Holy Roman Emperor Frederick I Barbarossa rallied the largest crusading force ever assembled, exceeding one hundred thousand men.",
+        "search": "frederick barbarossa holy roman emperor portrait miniature manuscript",
+        "caption": "Emperor Barbarossa takes the cross"
+      },
+      {
+        "narration": "Rejecting the dangerous sea route, the imperial host marched over land through Byzantium and into the mountainous terrain of Anatolia.",
+        "search": "crusader army marching medieval manuscript miniature",
+        "caption": "100,000 crusaders march east"
+      },
+      {
+        "narration": "Despite constant Seljuk Turkish ambushes, Barbarossa's heavy cavalry defeated the enemy host at the Battle of Iconium on May 18, 1190.",
+        "search": "battle of iconium 1190 medieval battle engraving",
+        "caption": "Victory at Iconium 1190"
+      },
+      {
+        "narration": "Exhausted from scaling the Taurus Mountains, the army arrived at the swift-flowing Saleph River on June 10, 1190.",
+        "search": "saleph river anatolia landscape old map engraving",
+        "caption": "Reaching the Saleph River"
+      },
+      {
+        "narration": "Seeking relief from intense heat, Barbarossa entered the water in heavy plate and mail armor, succumbing rapidly to cold-water shock.",
+        "search": "frederick barbarossa falling off horse river oil painting",
+        "caption": "Trapped by heavy armor"
+      },
+      {
+        "narration": "Bodyguards pulled the monarch ashore too late, causing the leaderless army to dissolve and altering the outcome of the Third Crusade.",
+        "search": "death of frederick barbarossa 1190 oil painting",
+        "caption": "The emperor dies in Anatolia"
+      },
+      {
+        "narration": "On June 10, 1190, the sudden death of sixty-seven-year-old Emperor Frederick Barbarossa plunged the world's largest Crusader force into absolute chaos. Eyewitness accounts recorded knights weeping openly as the realization struck that their divine mission had lost its supreme commander.",
+        "search": "medieval manuscript illumination crusader army mourning death of king",
+        "caption": "Imperial army falls into chaos after Barbarossa's death on June 10, 1190."
+      },
+      {
+        "narration": "To prevent rapid decomposition in the blistering Anatolian heat, imperial physicians embalmed the Emperor's corpse and immersed it in a barrel of wine vinegar. His heart and entrails were buried at Tarsus, while the remaining host attempted to transport his remains toward Jerusalem.",
+        "search": "medieval manuscript painting embalming medieval monarch body",
+        "caption": "Imperial physicians preserve the Emperor's remains in vinegar at Tarsus."
+      },
+      {
+        "narration": "Demoralized by what they perceived as a terrible sign of divine disfavor, thousands of German soldiers abandoned the campaign and boarded ships back to Europe. Leadership fell to Barbarossa's young son, Duke Frederick VI of Swabia, but discipline completely collapsed.",
+        "search": "frederick vi duke of swabia portrait manuscript engraving",
+        "caption": "Thousands abandon the Crusade as Duke Frederick VI assumes command."
+      },
+      {
+        "narration": "By the time the remnant reached Antioch in late June 1190, disease and starvation had decimated the surviving ranks. A force that originally numbered over one hundred thousand men was reduced to fewer than five thousand battle-ready troops.",
+        "search": "siege of antioch medieval painting manuscript map",
+        "caption": "Pestilence and desertion reduce the massive host to under five thousand."
+      },
+      {
+        "narration": "In Damascus, Sultan Saladin received news of Barbarossa’s drowning with immense relief, having previously feared the massive imperial land host above all other Crusader threats. With the German behemoth neutralized, Ayyubid forces regrouped to face the incoming armies of England and France.",
+        "search": "saladin sultan portrait miniature painting illuminated manuscript",
+        "caption": "Saladin regroups Ayyubid forces after learning of the Emperor's drowning."
+      },
+      {
+        "narration": "Duke Frederick VI led the remaining German contingent to the Siege of Acre, but died of malaria in January 1191 without ever reaching Jerusalem. Barbarossa's flesh was interred at Antioch, while his bones were reportedly buried in the Cathedral of Tyre.",
+        "search": "cathedral of tyre lebanon ruins 19th century engraving",
+        "caption": "Duke Frederick VI dies at Acre while carrying his father's bones."
+      },
+      {
+        "narration": "When King Richard the Lionheart of England arrived in the Levant, he was forced to fight Saladin without the massive numerical superiority Barbarossa was supposed to provide. The Third Crusade ultimately failed to recapture Jerusalem, leaving the Holy City under Ayyubid control.",
+        "search": "richard the lionheart battle of arsuf oil painting",
+        "caption": "Richard the Lionheart fights without German support, failing to take Jerusalem."
+      },
+      {
+        "narration": "Unable to accept that a mighty Emperor was slain by a shallow river, German folklore created the legend of Kyffhäuser, claiming Barbarossa slumbers beneath a mountain until his empire needs him again. A sudden twist of fate in a minor Anatolian stream permanently reshaped the religious and geopolitical map of the Middle Ages.",
+        "search": "frederick barbarossa kyffhauser mountain legend oil painting",
+        "caption": "German legend claims Barbarossa slumbers under Kyffhäuser mountain, awaiting return."
+      },
+      {
+        "narration": "Contemporary chronicler Ansbert recorded that on June 10, 1190, Emperor Frederick Barbarossa sought relief from the suffocating heat of the Taurus Mountains.",
+        "search": "frederick barbarossa medieval miniature painting",
+        "caption": "Chronicler Ansbert documented Barbarossa's final, fatal choice on June 10, 1190."
+      },
+      {
+        "narration": "A twelfth-century knight's full mail hauberk, helmet, and padded armor weighed over forty pounds, turning swift mountain waters into an inescapable trap.",
+        "search": "medieval suit of chainmail armor museum display photo",
+        "caption": "Heavy knightly armor transformed shallow river currents into a deadly trap."
+      },
+      {
+        "narration": "Modern forensic historians suggest the sixty-seven-year-old monarch suffered sudden cold-water shock and heart failure upon plunging into freezing snowmelt runoff.",
+        "search": "saleph river taurus mountains turkey landscape photograph",
+        "caption": "Freezing snowmelt runoff caused thermal shock in the elderly emperor."
+      },
+      {
+        "narration": "With their emperor dead on the riverbank, thousands of German crusaders abandoned the campaign, convinced God had cursed their holy enterprise.",
+        "search": "third crusade knights medieval manuscript illumination",
+        "caption": "The sudden death shattered imperial morale, driving thousands to desert."
+      },
+      {
+        "narration": "Barbarossa's son, Duke Frederick VI of Swabia, preserved his father's body in vinegar to carry his remains onward to Jerusalem.",
+        "search": "frederick vi duke of swabia seal engraving",
+        "caption": "Duke Frederick VI attempted to transport Barbarossa's body to Jerusalem."
+      },
+      {
+        "narration": "The preservation failed in the Levant heat, forcing the surviving leadership to bury Barbarossa's flesh at Antioch, his heart at Tarsus, and bones at Tyre.",
+        "search": "church of saint peter antioch engraving",
+        "caption": "Barbarossa's remains were split and buried across three eastern cities."
+      },
+      {
+        "narration": "Muslim historian Ibn al-Athir noted that Saladin rejoiced at the news, knowing the largest Christian army ever assembled had dissolved without a fight.",
+        "search": "saladin ayyubid sultan portrait painting",
+        "caption": "Saladin recognized the imperial collapse as a decisive strategic miracle."
+      },
+      {
+        "narration": "A single slip in an obscure Anatolian stream saved the Ayyubid Empire, crippled European ambitions, and permanently reshaped the outcome of the Crusades.",
+        "search": "frederick barbarossa statue photograph",
+        "caption": "A river accident altered the geopolitical fate of the medieval world."
+      },
+      {
+        "narration": "On June 10, 1190, a river less than waist-deep destroyed the largest Crusader army in medieval history.",
+        "search": "frederick barbarossa oil painting portrait",
+        "caption": "June 10, 1190: A shallow river destroys an empire."
+      },
+      {
+        "narration": "Exhausted after surviving Seljuk ambushes, 100,000 imperial troops under Emperor Frederick I Barbarossa reached the Saleph River in southern Anatolia.",
+        "search": "taurus mountains anatolia map engraving 18th century",
+        "caption": "The Crusaders reach the Saleph River in Anatolia."
+      },
+      {
+        "narration": "Seeking relief from temperatures exceeding 100 degrees Fahrenheit, the 67-year-old monarch rode directly into the swift, snow-fed currents.",
+        "search": "frederick barbarossa on horseback medieval illuminated manuscript",
+        "caption": "Emperor Frederick I enters the freezing water."
+      },
+      {
+        "narration": "Encased in full iron chainmail weighing over 50 pounds, Barbarossa was swept off his horse by hidden currents.",
+        "search": "medieval knight iron armor chainmail engraving",
+        "caption": "Heavy armor pulls the 67-year-old monarch under."
+      },
+      {
+        "narration": "Cold-water shock paralyzed the elderly sovereign, preventing him from swimming as the river current dragged him downstream.",
+        "search": "river in anatolia landscape painting 19th century",
+        "caption": "Cold-water shock incapacitates the Holy Roman Emperor."
+      },
+      {
+        "narration": "Royal bodyguards plunged into the torrent and dragged Barbarossa to the riverbank, but found him unresponsive.",
+        "search": "death of frederick barbarossa history painting",
+        "caption": "Knights pull Barbarossa from the riverbank."
+      },
+      {
+        "narration": "News of the Emperor's drowning sent waves of panic and despair through the camp, with thousands viewing the event as a bad omen.",
+        "search": "crusader army panic medieval manuscript illumination",
+        "caption": "Grief and panic shatter Crusader morale."
+      },
+      {
+        "narration": "Without Barbarossa's unifying authority, the grand German host shattered into splinter factions, forever altering the Third Crusade.",
+        "search": "third crusade medieval war miniature painting",
+        "caption": "The empire's greatest Crusader army disintegrates."
+      },
+      {
+        "narration": "Did a knee-deep river destroy history's largest Crusader army?",
+        "search": "frederick barbarossa medieval illumination manuscript",
+        "caption": "A knee-deep river destroyed history's largest Crusader army."
+      },
+      {
+        "narration": "In 1187, Sultan Saladin captured Jerusalem, prompting Pope Gregory VIII to rally Europe for the Third Crusade.",
+        "search": "saladin siege of jerusalem 1187 medieval manuscript illustration",
+        "caption": "Saladin captured Jerusalem in 1187, sparking the Third Crusade."
+      },
+      {
+        "narration": "Holy Roman Emperor Frederick I Barbarossa mobilized over 100,000 soldiers and 20,000 heavy knights to retake the city.",
+        "search": "frederick barbarossa statue bust sculpture",
+        "caption": "Barbarossa led 100,000 soldiers toward Jerusalem."
+      },
+      {
+        "narration": "Marching overland through Anatolia in May 1190, Barbarossa routed the Seljuk Turks at the Battle of Iconium.",
+        "search": "battle of iconium 1190 medieval miniature engraving",
+        "caption": "Imperial forces defeated the Seljuk Turks at Iconium in 1190."
+      },
+      {
+        "narration": "On June 10, 1190, after crossing the Taurus Mountains, the 67-year-old monarch reached the swift Saleph River.",
+        "search": "saleph river goksu anatolia historical map engraving",
+        "caption": "Barbarossa reached the Saleph River on June 10, 1190."
+      },
+      {
+        "narration": "Overwhelmed by intense heat, Barbarossa entered the water, where heavy chainmail and cold-water shock dragged him under.",
+        "search": "death of frederick barbarossa river oil painting",
+        "caption": "Heavy armor and cold-water shock dragged the Emperor under."
+      },
+      {
+        "narration": "Bodyguards retrieved his corpse, triggering panic among superstitious soldiers who viewed the drowning as a divine curse.",
+        "search": "crusader army retreat medieval woodcut engraving",
+        "caption": "Without Barbarossa, the massive imperial army dissolved into panic."
+      },
+      {
+        "narration": "The loss of the German force left Richard the Lionheart short-handed, permanently altering the outcome of the Third Crusade.",
+        "search": "richard the lionheart portrait oil painting",
+        "caption": "Barbarossa's bizarre death permanently altered the Third Crusade."
+      },
+      {
+        "narration": "In 1190, Europe's most powerful emperor drowned in a river.",
+        "search": "frederick barbarossa drowning saleph river history engraving",
+        "caption": "An emperor killed by a shallow river in 1190."
+      },
+      {
+        "narration": "Following Saladin's capture of Jerusalem in 1187, Pope Gregory VIII summoned Christian monarchs to reclaim the Holy Land.",
+        "search": "saladin sultan of egypt medieval miniature manuscript",
+        "caption": "Saladin captures Jerusalem in 1187, sparking Third Crusade."
+      },
+      {
+        "narration": "At age sixty-seven, Holy Roman Emperor Frederick I Barbarossa took the cross, assembling over one hundred thousand soldiers.",
+        "search": "frederick barbarossa holy roman emperor portrait painting",
+        "caption": "Barbarossa leads over 100,000 crusaders toward Jerusalem."
+      },
+      {
+        "narration": "The vast imperial army marched across Byzantium and fought through fierce Seljuk ambushes, claiming victory at Iconium in 1190.",
+        "search": "battle of iconium 1190 medieval battle illuminations manuscript",
+        "caption": "Crusaders defeat Seljuk forces at Iconium in 1190."
+      },
+      {
+        "narration": "Exhausted from crossing the Taurus Mountains in intense summer heat, Barbarossa reached the banks of the Saleph River on June 10, 1190.",
+        "search": "taurus mountains turkey landscape oil painting",
+        "caption": "Barbarossa reaches the Saleph River on June 10, 1190."
+      },
+      {
+        "narration": "Trapped inside heavy iron armor, the elderly monarch plunged into the swift waters, suffering immediate cold-water shock.",
+        "search": "medieval knight iron armor engraving",
+        "caption": "Heavy iron armor pulls the 67-year-old monarch under."
+      },
+      {
+        "narration": "Bodyguards pulled Barbarossa's body to the bank, but his sudden death triggered widespread panic and mass desertion across the camp.",
+        "search": "death of frederick barbarossa 1190 historic painting",
+        "caption": "The imperial army disintegrates in grief and panic."
+      },
+      {
+        "narration": "Without Barbarossa's massive force, Richard the Lionheart was left short-handed, forever altering the outcome of the Third Crusade.",
+        "search": "richard the lionheart portrait painting",
+        "caption": "The loss alters the course of the Third Crusade."
+      },
+      {
+        "narration": "On June 10, 1190, high command dissolved into chaos as Duke Frederick VI of Swabia struggled to maintain control over a grief-stricken imperial host.",
+        "search": "medieval manuscript illumination german crusaders mourning dead king 1190",
+        "caption": "Duke Frederick VI struggled to maintain command over the shattered host."
+      },
+      {
+        "narration": "To prevent rapid decomposition in the Mediterranean heat, imperial physicians boiled the Emperor's body in vinegar to preserve his remains for burial.",
+        "search": "medieval engraving physicians embalming royal corpse manuscript illustration",
+        "caption": "Imperial physicians boiled the Emperor's body in vinegar for preservation."
+      },
+      {
+        "narration": "Thousands of German soldiers abandoned the crusade, boarding ships at Antioch to return home before ever reaching the Holy Land.",
+        "search": "medieval map engraving Antioch port crusader fleet 12th century",
+        "caption": "Thousands of German crusaders abandoned the campaign and sailed home."
+      },
+      {
+        "narration": "When intelligence reached Sultan Saladin in 1190 that Barbarossa was dead, Islamic commanders recognized their greatest military threat had vanished.",
+        "search": "Saladin portrait painting medieval Arabic manuscript miniature 12th century",
+        "caption": "News of Barbarossa's death relieved Sultan Saladin of his greatest threat."
+      },
+      {
+        "narration": "By the time the remnant of the German army reached the Siege of Acre in October 1190, disease and desertion had reduced 100,000 men to barely 5,000.",
+        "search": "medieval painting siege of Acre crusades 1190 warfare artwork",
+        "caption": "Disease and desertion reduced the 100,000-man army to barely 5,000."
+      },
+      {
+        "narration": "Barbarossa's flesh was interred at Saint Peter's Church in Tarsus, his heart in Antioch, and his bones inside the Cathedral of Tyre.",
+        "search": "cathedral of tyre ruins engraving historical 19th century print",
+        "caption": "Barbarossa's remains were divided across Tarsus, Antioch, and Tyre."
+      },
+      {
+        "narration": "Refusing to accept his sudden demise, German folklore claimed the Emperor slept beneath Kyffhäuser Mountain, destined to awake when his nation needed him.",
+        "search": "Kyffhauser mountain emperor frederick barbarossa sleeping legend oil painting",
+        "caption": "German folklore claimed Barbarossa slept beneath Kyffhäuser Mountain awaiting awakening."
+      },
+      {
+        "narration": "The shallow waters of the Saleph River ultimately decided the Third Crusade, ensuring Jerusalem remained under Muslim control.",
+        "search": "Saleph river Goksu Turkey landscape historical engraving 19th century",
+        "caption": "A single shallow river altered the geopolitical fate of the Holy Land."
+      },
+      {
+        "narration": "A single sudden plunge in an Anatolian stream erased the largest Christian host of the Middle Ages.",
+        "search": "medieval illuminated manuscript depiction of crusader army marching",
+        "caption": "The sudden collapse of Christendom's largest army."
+      },
+      {
+        "narration": "In 1190, Holy Roman Emperor Frederick Barbarossa marched over 100,000 soldiers toward the Levant to retake Jerusalem from Saladin.",
+        "search": "frederick barbarossa imperial coronation oil painting",
+        "caption": "Emperor Barbarossa led over 100,000 crusaders in 1190."
+      },
+      {
+        "narration": "After surviving starvation and defeating Seljuk forces at the Battle of Iconium, the veteran emperor led his host across the treacherous Taurus Mountains.",
+        "search": "battle of iconium 1190 crusaders seljuks medieval engraving",
+        "caption": "Crusader victory at Iconium paved the land route south."
+      },
+      {
+        "narration": "On June 10, 1190, oppressive heat drove the 67-year-old monarch into the swift currents of the Saleph River near Silifke.",
+        "search": "saleph river turkey old map engraving",
+        "caption": "June 10, 1190: Barbarossa enters the swift Saleph River."
+      },
+      {
+        "narration": "Weighed down by heavy iron armor, Barbarossa suffered cold-water shock and drowned before his royal bodyguards could pull him ashore.",
+        "search": "12th century knight iron armor medieval engraving",
+        "caption": "Heavy iron armor prevented the drowning monarch from swimming."
+      },
+      {
+        "narration": "Panic swept through the imperial camp, causing thousands of superstitious German crusaders to desert or perish from disease without their ruler.",
+        "search": "death of frederick barbarossa saleph river oil painting",
+        "caption": "Without Barbarossa, the massive German crusader host shattered."
+      },
+      {
+        "narration": "Deprived of Barbarossa's massive force, King Richard the Lionheart lacked the manpower needed to breach the walls of Muslim-held Jerusalem.",
+        "search": "king richard the lionheart portrait painting",
+        "caption": "Richard the Lionheart lacked troops to retake Jerusalem."
+      },
+      {
+        "narration": "A knee-deep river accomplished what Saladin’s armies could not, forever changing the geopolitics of the Crusades.",
+        "search": "sultan saladin portrait miniature painting",
+        "caption": "A shallow river forever altered the outcome of the Crusades."
+      },
+      {
+        "narration": "A knee-deep river killed Europe's most powerful emperor. In 1190, Holy Roman Emperor Frederick Barbarossa drowned while leading one hundred thousand crusaders to Jerusalem.",
+        "search": "Frederick Barbarossa medieval manuscript illumination",
+        "caption": "A knee-deep river destroyed Europe's vastest empire."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-27T22:26:40.708749+00:00",
+    "updated_at": "2026-11-27T22:42:59.886592+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "80 scenes",
+        "at": "2026-11-27T22:31:52.641080+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "3090 chars",
+        "at": "2026-11-27T22:32:14.194326+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "188.1s en-US-GuyNeural 31 cau",
+        "at": "2026-11-27T22:32:23.208531+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-27T22:32:29.056310+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 81 images",
+        "at": "2026-11-27T22:36:30.568879+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-27T22:36:30.607882+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1920x1080 188.1s 138932700 bytes",
+        "at": "2026-11-27T22:42:59.508531+00:00"
+      },
+      "chapters": {
+        "ok": true,
+        "detail": "6 chapters",
+        "at": "2026-11-27T22:42:59.589062+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-27T22:42:59.886570+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/5739358/pexels-photo-5739358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18491910/pexels-photo-18491910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29976450/pexels-photo-29976450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11527061/pexels-photo-11527061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20240311/pexels-photo-20240311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36697969/pexels-photo-36697969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1565775/pexels-photo-1565775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31052377/pexels-photo-31052377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10485631/pexels-photo-10485631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36756273/pexels-photo-36756273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/41305344/pexels-photo-41305344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/26195107/pexels-photo-26195107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37573755/pexels-photo-37573755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11303236/pexels-photo-11303236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15407570/pexels-photo-15407570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32293072/pexels-photo-32293072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13948819/pexels-photo-13948819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6104797/pexels-photo-6104797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27134181/pexels-photo-27134181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37361677/pexels-photo-37361677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29189101/pexels-photo-29189101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40729058/pexels-photo-40729058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397728/pexels-photo-16397728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16207593/pexels-photo-16207593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29342494/pexels-photo-29342494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31588862/pexels-photo-31588862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10255492/pexels-photo-10255492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9494912/pexels-photo-9494912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525646/pexels-photo-30525646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6059166/pexels-photo-6059166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15977315/pexels-photo-15977315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/3684544/pexels-photo-3684544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35531328/pexels-photo-35531328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31474665/pexels-photo-31474665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31501777/pexels-photo-31501777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29536403/pexels-photo-29536403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5999517/pexels-photo-5999517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38238966/pexels-photo-38238966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36713853/pexels-photo-36713853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14597234/pexels-photo-14597234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36730482/pexels-photo-36730482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35635652/pexels-photo-35635652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/29536400/pexels-photo-29536400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8116144/pexels-photo-8116144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15035238/pexels-photo-15035238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38590321/pexels-photo-38590321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1172018/pexels-photo-1172018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063870/pexels-photo-27063870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/207681/pexels-photo-207681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525633/pexels-photo-30525633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32990219/pexels-photo-32990219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31350035/pexels-photo-31350035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38288427/pexels-photo-38288427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7266374/pexels-photo-7266374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/9493319/pexels-photo-9493319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39205382/pexels-photo-39205382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37443417/pexels-photo-37443417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36306963/pexels-photo-36306963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39644801/pexels-photo-39644801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5030527/pexels-photo-5030527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36560547/pexels-photo-36560547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/63852/museum-breastplate-armor-knight-63852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38109646/pexels-photo-38109646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14336001/pexels-photo-14336001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39321045/pexels-photo-39321045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11948101/pexels-photo-11948101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27452562/pexels-photo-27452562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30525651/pexels-photo-30525651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35431622/pexels-photo-35431622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28096453/pexels-photo-28096453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16397790/pexels-photo-16397790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27635585/pexels-photo-27635585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32000783/pexels-photo-32000783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31721372/pexels-photo-31721372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20605720/pexels-photo-20605720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/19511249/pexels-photo-19511249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7695127/pexels-photo-7695127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5739354/pexels-photo-5739354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32063062/pexels-photo-32063062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37347464/pexels-photo-37347464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7080671/pexels-photo-7080671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "8392ba2010",
     "kind": "short",
     "channel": "Channel3",
