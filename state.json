@@ -1,5 +1,161 @@
 [
   {
+    "id": "6baf01872b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "Majorian: The Emperor Rome Betrayed to Its Ruin",
+    "idea": {
+      "title": "Majorian: The Emperor Rome Betrayed to Its Ruin",
+      "hook": "Emperor Majorian rebuilt Rome's lost empire in four years—until his closest general forced him to strip off his crown and executed him.",
+      "beats": [
+        "In 457 AD, Majorian inherited a ruined Western Roman Empire and miraculously reconquered Gaul and Hispania.",
+        "He reformed corrupt laws, rebuilt the fleet, and almost restored Rome's glory single-handedly.",
+        "Terrified of his growing power, his top general Ricimer lured Majorian into a trap and tortured him to death.",
+        "Without Majorian's leadership, the Western Roman Empire collapsed completely just 19 years later."
+      ],
+      "keywords": [
+        "Roman emperor",
+        "ancient Rome war",
+        "military betrayal",
+        "Roman bust portrait",
+        "Western Roman Empire map"
+      ],
+      "tags": [
+        "history documentary",
+        "ancient rome",
+        "roman emperor",
+        "lost history",
+        "roman empire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "One emperor almost saved Rome—until his general murdered him.",
+        "search": "emperor majorian roman coin portrait close up",
+        "caption": "One emperor almost saved Rome—until his general betrayed him."
+      },
+      {
+        "narration": "In 457 AD, the Western Roman Empire was crumbling, stripped of its wealthiest provinces.",
+        "search": "fifth century western roman empire map historical illustration",
+        "caption": "In 457 AD, the Western Roman Empire was rapidly collapsing."
+      },
+      {
+        "narration": "Emperor Majorian refused to watch Rome fall and launched bold military campaigns into Gaul.",
+        "search": "roman army battle gaul fifth century illustration",
+        "caption": "Majorian launched bold campaigns to reclaim lost territory in Gaul."
+      },
+      {
+        "narration": "Within just four years, his legions reconquered Hispania and restored vital Roman territory.",
+        "search": "ancient roman warship fleet sailing historical illustration",
+        "caption": "Within four years, Majorian successfully reconquered Hispania and rebuilt Rome's navy."
+      },
+      {
+        "narration": "Back in Italy, Majorian reformed oppressive taxes and punished corrupt Roman aristocrats.",
+        "search": "ancient roman senate relief sculpture",
+        "caption": "He slashed oppressive taxes and cracked down on corrupt senators."
+      },
+      {
+        "narration": "But his military victories terrified his top general, the powerful warlord Ricimer.",
+        "search": "general ricimer roman marble bust statue",
+        "caption": "General Ricimer grew terrified of Majorian's rapidly rising power."
+      },
+      {
+        "narration": "When traitors sabotaged Majorian's naval fleet, Ricimer saw his chance to strike.",
+        "search": "burning roman warship sea harbor engraving",
+        "caption": "Traitors destroyed the Roman fleet, exposing the emperor to ambush."
+      },
+      {
+        "narration": "In August 461 AD, Ricimer's men ambushed Majorian, stripping him of his imperial robe.",
+        "search": "arrest of roman emperor ancient historical painting",
+        "caption": "In 461 AD, Ricimer ambushed Majorian and stripped his imperial crown."
+      },
+      {
+        "narration": "On August 7, 461 AD, Ricimer subjected Emperor Majorian to five days of torture before executing him near the Iria River.",
+        "search": "roman emperor execution historical oil painting",
+        "caption": "On August 7, 461 AD, General Ricimer executed Emperor Majorian."
+      },
+      {
+        "narration": "Without Majorian's leadership, the Western Roman Empire instantly unravelled, losing Gaul and Hispania to barbarians once again.",
+        "search": "ruins of ancient rome architectural engraving",
+        "caption": "Without Majorian, Rome lost its reconquered territories almost instantly."
+      },
+      {
+        "narration": "Just nineteen years later, in 476 AD, the Western Roman Empire collapsed permanently—destroyed by the very treason that doomed Majorian.",
+        "search": "fall of western roman empire 476 ad oil painting",
+        "caption": "In 476 AD, Rome fell forever, destroyed by Majorian's ultimate betrayal."
+      },
+      {
+        "narration": "One man saved Rome, so Rome murdered him.",
+        "search": "majorian bust statue roman emperor",
+        "caption": "One man saved Rome, so Rome murdered him."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T00:39:06.625204+00:00",
+    "updated_at": "2026-11-28T00:43:50.558515+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-28T00:39:32.752928+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "393 chars (cat 273 de vua 55s)",
+        "at": "2026-11-28T00:39:43.550530+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.5s en-US-GuyNeural 7 cau",
+        "at": "2026-11-28T00:39:46.133479+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T00:39:47.206922+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-28T00:42:55.308755+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-28T00:42:55.348553+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.5s 16204853 bytes",
+        "at": "2026-11-28T00:43:50.343559+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T00:43:50.558494+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/7907208/pexels-photo-7907208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38611005/pexels-photo-38611005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/16563548/pexels-photo-16563548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40479337/pexels-photo-40479337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37556155/pexels-photo-37556155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13778879/pexels-photo-13778879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27352425/pexels-photo-27352425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7067077/pexels-photo-7067077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38224012/pexels-photo-38224012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35581647/pexels-photo-35581647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39726001/pexels-photo-39726001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/11839642/pexels-photo-11839642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "c7aa6eef0a",
     "kind": "short",
     "channel": "Channel3",
