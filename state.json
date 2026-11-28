@@ -1,5 +1,161 @@
 [
   {
+    "id": "780a1ac15e",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Royal Wedding Assassination That Changed History",
+    "idea": {
+      "title": "The Royal Wedding Assassination That Changed History",
+      "hook": "In 336 BC, King Philip II of Macedon was brutally stabbed by his own chief bodyguard at his daughter's wedding, instantly sparking one of history's greatest power struggles.",
+      "beats": [
+        "Philip II had unified Greece and was preparing to invade the mighty Persian Empire.",
+        "During his daughter's wedding procession, his trusted guard Pausanias suddenly lunged with a hidden dagger.",
+        "Pausanias was killed by guards while fleeing, leaving the true masterminds behind the plot a mystery.",
+        "Philip's 20-year-old son Alexander immediately seized power and launched his conquest of the known world."
+      ],
+      "keywords": [
+        "Philip II Macedon portrait",
+        "ancient Greek assassination",
+        "Alexander the Great painting",
+        "ancient Macedonian wedding artwork",
+        "ancient Greece map engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#alexanderthegreat",
+        "#historydocumentary",
+        "#shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A single wedding dagger created history's greatest empire.",
+        "search": "Philip II of Macedon marble bust statue",
+        "caption": "One wedding dagger launched history's greatest empire."
+      },
+      {
+        "narration": "In 336 BC, King Philip the Second of Macedon had united Greece and prepared to invade Persia.",
+        "search": "ancient Greece map engraving",
+        "caption": "336 BC: Philip II united Greece to target Persia."
+      },
+      {
+        "narration": "At the Macedonian capital of Aegae, thousands gathered to celebrate his daughter's royal wedding.",
+        "search": "ancient Greek palace wedding reconstruction artwork illustration",
+        "caption": "Thousands gathered in Aegae for the royal wedding."
+      },
+      {
+        "narration": "Philip stepped into the theater alone, purposefully sending his bodyguards ahead to show invulnerability.",
+        "search": "ancient Greek theater of Vergina ancient ruins photograph",
+        "caption": "Philip entered the theater unguarded to show confidence."
+      },
+      {
+        "narration": "Suddenly, his own trusted royal bodyguard Pausanias lunged forward with a hidden dagger.",
+        "search": "ancient Greek assassination dagger artwork illustration",
+        "caption": "Bodyguard Pausanias lunged forward with a hidden blade."
+      },
+      {
+        "narration": "The King was struck dead instantly on the theater floor in front of the horrified crowd.",
+        "search": "death of Philip of Macedon historical oil painting",
+        "caption": "King Philip II was killed instantly on the theater floor."
+      },
+      {
+        "narration": "Pausanias sprinted toward waiting getaway horses, but tripped on a vine and was killed by guards.",
+        "search": "ancient Macedonian guards pursuing assassin artwork illustration",
+        "caption": "The assassin was killed on the spot while fleeing."
+      },
+      {
+        "narration": "With Pausanias dead, suspicion immediately fell upon Philip's rejected queen, Olympias.",
+        "search": "Olympias queen of Macedon portrait painting",
+        "caption": "Queen Olympias was immediately suspected of organizing the strike."
+      },
+      {
+        "narration": "In 336 BC, twenty-year-old Alexander moved swiftly, executing potential rival princes to secure his bloody succession.",
+        "search": "alexander the great marble bust statue",
+        "caption": "336 BC: Alexander executes rival claimants to secure the throne"
+      },
+      {
+        "narration": "With internal rivals eliminated, Alexander assumed command of Philip's masterfully trained army and prepared for war.",
+        "search": "ancient macedonian phalanx battle oil painting",
+        "caption": "Alexander inherits his father's elite army"
+      },
+      {
+        "narration": "The assassin's blade intended to shatter Macedon instead unleashed Alexander the Great upon the Persian Empire, permanently altering human history.",
+        "search": "alexander the great battle mosaic artwork",
+        "caption": "A single murder unleashed history's greatest conqueror"
+      },
+      {
+        "narration": "Did a royal wedding murder create Alexander the Great's empire?",
+        "search": "ancient Greek king assassination oil painting",
+        "caption": "Did a wedding murder launch Alexander's empire?"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T12:06:39.849238+00:00",
+    "updated_at": "2026-11-28T12:08:39.717095+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-28T12:07:06.677267+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "390 chars (cat 228 de vua 55s)",
+        "at": "2026-11-28T12:07:20.279595+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "25.8s en-US-GuyNeural 6 cau",
+        "at": "2026-11-28T12:07:24.373814+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T12:07:24.993400+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-28T12:08:04.464796+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-28T12:08:04.494427+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 25.9s 16471931 bytes",
+        "at": "2026-11-28T12:08:39.552009+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T12:08:39.717084+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/22798634/pexels-photo-22798634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38278937/pexels-photo-38278937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14383847/pexels-photo-14383847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12932812/pexels-photo-12932812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7814126/pexels-photo-7814126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18004074/pexels-photo-18004074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32675233/pexels-photo-32675233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31783407/pexels-photo-31783407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6714859/pexels-photo-6714859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/28645919/pexels-photo-28645919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/39503776/pexels-photo-39503776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1589282/pexels-photo-1589282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "90e8690b60",
     "kind": "short",
     "channel": "Channel2",
