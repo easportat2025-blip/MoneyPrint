@@ -1,5 +1,161 @@
 [
   {
+    "id": "90e8690b60",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How a Famous Prophecy Tricked King Croesus Into Ruin",
+    "idea": {
+      "title": "How a Famous Prophecy Tricked King Croesus Into Ruin",
+      "hook": "King Croesus asked the Oracle of Delphi if he should attack Persia, completely misunderstanding a chilling warning that destroyed his kingdom overnight.",
+      "beats": [
+        "Croesus, the ultra-wealthy king of Lydia, wanted to crush the expanding Persian Empire before it grew too strong.",
+        "The priestess of Delphi declared: 'If Croesus crosses the river, a great empire will fall.'",
+        "Convinced of absolute victory, Croesus crossed the border and launched an aggressive invasion against Cyrus the Great.",
+        "The empire that collapsed was his own, leaving Croesus captured and Lydia completely wiped from the map."
+      ],
+      "keywords": [
+        "King Croesus",
+        "Oracle of Delphi",
+        "Cyrus the Great painting",
+        "Ancient Persian empire map",
+        "Ancient Greek priestess engraving"
+      ],
+      "tags": [
+        "#history",
+        "#ancientgreece",
+        "#persianempire",
+        "#historicalfacts",
+        "#documentary"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "A nine-word prophecy destroyed antiquity's wealthiest king.",
+        "search": "king croesus coin gold coin ancient lydia",
+        "caption": "A nine-word prophecy destroyed antiquity's wealthiest king."
+      },
+      {
+        "narration": "In 546 BCE, King Croesus ruled the Kingdom of Lydia with legendary fortune.",
+        "search": "lydia empire ancient map engraving",
+        "caption": "In 546 BCE, King Croesus ruled wealthy Lydia."
+      },
+      {
+        "narration": "But to his east, King Cyrus the Great was rapidly forging the massive Persian Empire.",
+        "search": "cyrus the great relief sculpture Persian empire",
+        "caption": "Cyrus the Great was rapidly expanding Persian territory."
+      },
+      {
+        "narration": "Fearing Persian invasion, Croesus sent lavish tributes to consult the Oracle of Delphi.",
+        "search": "oracle of delphi temple engraving",
+        "caption": "Croesus sought guidance from the sacred Oracle of Delphi."
+      },
+      {
+        "narration": "The priestess Pythia issued a famous warning: crossing the Halys River would destroy a great empire.",
+        "search": "pythia oracle delphi oil painting",
+        "caption": "\"Crossing the river will destroy a great empire.\""
+      },
+      {
+        "narration": "Convinced the oracle meant Persia's downfall, Croesus secured military alliances with Sparta and Egypt.",
+        "search": "king croesus portrait oil painting",
+        "caption": "Croesus assumed Persia was destined for total defeat."
+      },
+      {
+        "narration": "In 547 BCE, the Lydian monarch aggressively led his troops across the river Halys.",
+        "search": "ancient soldiers crossing river war engraving",
+        "caption": "In 547 BCE, Lydian armies invaded Persian territory."
+      },
+      {
+        "narration": "The two ancient superpowers clashed in a brutal, inconclusive battle at Pteria.",
+        "search": "battle of pteria ancient army clash painting",
+        "caption": "Lydian and Persian forces collided in bloody combat."
+      },
+      {
+        "narration": "Retreating to Sardis, Croesus disbanded his mercenaries for the winter, assuming the campaign was over. Instead, Cyrus the Great unexpectedly marched his army directly to the Lydian capital in 546 BCE.",
+        "search": "cyrus the great portrait oil painting",
+        "caption": "In 546 BCE, Cyrus unexpectedly marched straight to Sardis."
+      },
+      {
+        "narration": "Cyrus deployed baggage camels to spook the elite Lydian cavalry, routing Croesus's forces and placing the city under a devastating fourteen-day siege.",
+        "search": "ancient sardis siege historical engraving",
+        "caption": "Cyrus neutralized the cavalry and besieged the Lydian capital."
+      },
+      {
+        "narration": "The prophecy of the Oracle of Delphi was fulfilled: a great empire did fall, but it was Lydia itself that was erased from the map, leaving Croesus a prisoner.",
+        "search": "king croesus captured oil painting",
+        "caption": "The fallen empire was his own: Lydia was completely destroyed."
+      },
+      {
+        "narration": "One ancient prophecy destroyed an entire empire overnight.",
+        "search": "king croesus coin ancient silver coin museum display",
+        "caption": "One prophecy destroyed an entire empire overnight."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T08:47:23.539334+00:00",
+    "updated_at": "2026-11-28T08:51:34.200809+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-28T08:49:02.188426+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "430 chars (cat 266 de vua 55s)",
+        "at": "2026-11-28T08:49:35.283983+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "29.1s en-US-GuyNeural 6 cau",
+        "at": "2026-11-28T08:49:39.069895+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T08:49:39.872283+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-28T08:50:49.586600+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-28T08:50:49.638837+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 29.1s 15726406 bytes",
+        "at": "2026-11-28T08:51:33.986285+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T08:51:34.200798+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/6764554/pexels-photo-6764554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40648500/pexels-photo-40648500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/38041933/pexels-photo-38041933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13829895/pexels-photo-13829895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5418339/pexels-photo-5418339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4406712/pexels-photo-4406712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5257334/pexels-photo-5257334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10895299/pexels-photo-10895299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/14954339/pexels-photo-14954339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17354161/pexels-photo-17354161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34075947/pexels-photo-34075947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6779012/pexels-photo-6779012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "b857c50d29",
     "kind": "short",
     "channel": "Channel3",
