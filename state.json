@@ -1,5 +1,161 @@
 [
   {
+    "id": "8ec614885b",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "The Roman emperor who married a gladiator",
+    "idea": {
+      "title": "The Roman emperor who married a gladiator",
+      "hook": "When Emperor Elagabalus married a strapping chariot driver, Rome didn't just gasp—they realized their teenage god-king had completely lost his mind.",
+      "beats": [
+        "Elagabalus ascended the throne at age fourteen, bringing wild Syrian sun-worship cult traditions straight into the heart of conservative Rome.",
+        "He shocked the Senate by appointing a charioteer named Hierocles as his husband, demanding to be addressed as his 'wife' and 'queen'.",
+        "His bizarre religious rituals and public mockeries of Roman traditions crossed every line of acceptable ancient behavior.",
+        "The Praetorian Guard finally had enough, assassinating him at just eighteen years old and throwing his body into the Tiber River."
+      ],
+      "keywords": [
+        "roman bust sculpture",
+        "ancient roman painting",
+        "elagabalus emperor",
+        "roman emperor portrait",
+        "historical oil painting"
+      ],
+      "tags": [
+        "roman history",
+        "ancient rome",
+        "elagabalus",
+        "roman emperors",
+        "history shorts"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "In 218 AD, Rome’s teenage emperor married his male charioteer.",
+        "search": "elagabalus emperor roman bust sculpture",
+        "caption": "Rome's teenage emperor married his own charioteer."
+      },
+      {
+        "narration": "Fourteen-year-old Elagabalus seized the imperial throne in 218 AD, backed by the powerful Syrian military elite.",
+        "search": "ancient rome senate marble statue sculpture",
+        "caption": "In 218 AD, fourteen-year-old Elagabalus seized the throne."
+      },
+      {
+        "narration": "He immediately replaced Rome's chief deity, Jupiter, with the Syrian sun god Elagabal, outraging conservative traditions.",
+        "search": "ancient roman sun god temple oil painting",
+        "caption": "He replaced Jupiter with a foreign sun cult."
+      },
+      {
+        "narration": "But religious disruption was only the beginning of the young ruler's open defiance of imperial decorum.",
+        "search": "ancient roman chariot race oil painting",
+        "caption": "Religious disruption was only his first provocation."
+      },
+      {
+        "narration": "Elagabalus elevated a blonde enslaved charioteer named Hierocles, formally marrying him in a lavish ceremony.",
+        "search": "ancient roman emperor portrait oil painting",
+        "caption": "He formally married a charioteer named Hierocles."
+      },
+      {
+        "narration": "The emperor demanded that the Roman Senate address him not as Caesar, but as Hierocles' wife and queen.",
+        "search": "roman senate meeting oil painting",
+        "caption": "He demanded to be called his husband's queen."
+      },
+      {
+        "narration": "By 222 AD, his reckless antics and disrespect for tradition drove the elite Praetorian Guard to conspire against him.",
+        "search": "praetorian guard ancient roman relief sculpture",
+        "caption": "The Praetorian Guard plotted to remove him."
+      },
+      {
+        "narration": "At just eighteen years old, Elagabalus was assassinated, his corpse dragged through Rome and dumped into the Tiber River.",
+        "search": "tiber river rome historical engraving",
+        "caption": "He was assassinated at eighteen and thrown into the river."
+      },
+      {
+        "narration": "Following his death, the Roman Senate declared a damnatio memoriae, erasing Elagabalus from official records and executing his husband Hierocles.",
+        "search": "ancient roman senate marble relief sculpture",
+        "caption": "The Senate erased his name and executed Hierocles"
+      },
+      {
+        "narration": "His cousin Alexander Severus took the throne in 222 AD, dismantling the Syrian sun-god cult to restore traditional Roman order.",
+        "search": "alexander severus roman emperor bust sculpture",
+        "caption": "Alexander Severus restored traditional Roman religious order"
+      },
+      {
+        "narration": "Though Rome tried to erase him, Elagabalus remains history's most infamous teenage ruler—the god-king who crowned a charioteer his king.",
+        "search": "elagabalus emperor portrait painting",
+        "caption": "The teenage emperor who defied Rome for love"
+      },
+      {
+        "narration": "A teenage Roman emperor officially married his male slave.",
+        "search": "elagabalus emperor marble bust sculpture",
+        "caption": "Rome's emperor married his male slave."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T04:04:18.330085+00:00",
+    "updated_at": "2026-11-28T04:06:35.194492+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-28T04:04:40.630532+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "329 chars (cat 230 de vua 55s)",
+        "at": "2026-11-28T04:05:05.166853+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "21.2s en-US-GuyNeural 4 cau",
+        "at": "2026-11-28T04:05:08.510109+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T04:05:09.156420+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-28T04:06:00.483515+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-28T04:06:00.517241+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 21.2s 11922910 bytes",
+        "at": "2026-11-28T04:06:35.013458+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T04:06:35.194474+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/10819063/pexels-photo-10819063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7478548/pexels-photo-7478548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31438154/pexels-photo-31438154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/36396963/pexels-photo-36396963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/33611525/pexels-photo-33611525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7302058/pexels-photo-7302058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/40645964/pexels-photo-40645964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/31403014/pexels-photo-31403014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/12178289/pexels-photo-12178289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/13865689/pexels-photo-13865689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/32389701/pexels-photo-32389701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/30491870/pexels-photo-30491870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "33b5bcb4e9",
     "kind": "short",
     "channel": "Channel2",
