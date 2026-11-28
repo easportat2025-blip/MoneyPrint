@@ -1,5 +1,161 @@
 [
   {
+    "id": "33b5bcb4e9",
+    "kind": "short",
+    "channel": "Channel2",
+    "slot": "2",
+    "status": "failed",
+    "title": "How Rome Betrayed Its Greatest Conqueror",
+    "idea": {
+      "title": "How Rome Betrayed Its Greatest Conqueror",
+      "hook": "Scipio Africanus crushed Hannibal and saved Rome, yet his bitter reward was trial, exile, and forgotten ashes.",
+      "beats": [
+        "Scipio defeats Hannibal at Zama, saving the Roman Republic from total annihilation.",
+        "Jealous Roman senators frame the war hero for financial corruption.",
+        "Heartbroken by Rome's ingratitude, Scipio retreats into voluntary exile at Liternum.",
+        "On his deathbed, he orders his tomb inscribed: 'Ungrateful fatherland, you will not even have my bones.'"
+      ],
+      "keywords": [
+        "Scipio Africanus painting",
+        "Battle of Zama engraving",
+        "Roman Senate bust",
+        "Ancient Rome map",
+        "Roman general portrait"
+      ],
+      "tags": [
+        "#history",
+        "#ancientrome",
+        "#historydocumentary",
+        "#scipio",
+        "#romanempire"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Rome’s savior died stripped of honor in total exile.",
+        "search": "Scipio Africanus bust statue",
+        "caption": "Rome's greatest conqueror died disgraced and exiled."
+      },
+      {
+        "narration": "In 202 BC at the Battle of Zama, Publius Cornelius Scipio saved the Roman Republic from annihilation.",
+        "search": "Battle of Zama engraving",
+        "caption": "In 202 BC, Scipio saved Rome from annihilation."
+      },
+      {
+        "narration": "By crushing Hannibal Barca, Scipio secured Roman supremacy across the Mediterranean and earned the title Africanus.",
+        "search": "Hannibal Barca coin",
+        "caption": "Defeating Hannibal secured Roman dominance over the Mediterranean."
+      },
+      {
+        "narration": "Yet inside the Roman Senate, jealous political rivals led by Cato the Elder feared Scipio’s massive popularity.",
+        "search": "Cato the Elder marble bust",
+        "caption": "Senators feared Scipio's growing fame and popularity."
+      },
+      {
+        "narration": "In 187 BC, political enemies framed Scipio and his brother, accusing them of stealing Syrian war spoils.",
+        "search": "Roman Senate oil painting",
+        "caption": "Enemies accused Scipio of embezzling Syrian war funds."
+      },
+      {
+        "narration": "Refusing to justify his loyalty to corrupt politicians, Scipio tore up his financial ledgers before the Senate.",
+        "search": "Scipio Africanus painting",
+        "caption": "Scipio destroyed his ledgers before the Senate."
+      },
+      {
+        "narration": "Disgusted by Rome's betrayal, the disgraced general abandoned the capital for voluntary exile at Liternum.",
+        "search": "Ancient Rome map engraving",
+        "caption": "Disgusted by betrayal, Scipio chose voluntary exile."
+      },
+      {
+        "narration": "Dying in 183 BC, Scipio’s final epitaph cursed the Republic: Ungrateful fatherland, you will not even have my bones.",
+        "search": "Roman general portrait oil painting",
+        "caption": "Ungrateful fatherland, you will not have my bones."
+      },
+      {
+        "narration": "In 183 BC, Scipio's legendary adversary Hannibal also died in exile, ending the era of ancient history's greatest military titans.",
+        "search": "Hannibal Barca oil painting",
+        "caption": "Hannibal and Scipio both died exiled in 183 BC"
+      },
+      {
+        "narration": "The Senate's persecution of Scipio established a toxic precedent of political jealousy, sowing early seeds for the Republic's ultimate collapse.",
+        "search": "Roman Senate debate oil painting",
+        "caption": "Senate betrayal fractured the Roman Republic"
+      },
+      {
+        "narration": "Scipio Africanus saved Rome from total annihilation, yet his tomb at Liternum remains an eternal monument to the Republic's betrayal.",
+        "search": "Scipio Africanus bust statue savior",
+        "caption": "Rome's greatest savior remains buried outside its walls"
+      },
+      {
+        "narration": "Rome’s savior died in exile, refusing Roman burial.",
+        "search": "Scipio Africanus bust statue",
+        "caption": "Rome's greatest conqueror died in bitter exile."
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T02:20:07.328760+00:00",
+    "updated_at": "2026-11-28T02:24:53.869270+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "11 scenes",
+        "at": "2026-11-28T02:22:55.879938+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "303 chars (cat 264 de vua 55s)",
+        "at": "2026-11-28T02:23:18.051768+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "20.4s en-US-GuyNeural 4 cau",
+        "at": "2026-11-28T02:23:21.648029+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Nothing Broken by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T02:23:22.293290+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "0 video clips + 12 images",
+        "at": "2026-11-28T02:24:20.190950+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: first-word-instant, hook-short",
+        "at": "2026-11-28T02:24:20.224522+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 20.4s 13512624 bytes",
+        "at": "2026-11-28T02:24:53.651846+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T02:24:53.869252+00:00"
+      }
+    },
+    "media_urls": [
+      "https://images.pexels.com/photos/15750615/pexels-photo-15750615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/35896093/pexels-photo-35896093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6771152/pexels-photo-6771152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20413467/pexels-photo-20413467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/7301949/pexels-photo-7301949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/17926519/pexels-photo-17926519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/27063867/pexels-photo-27063867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8968526/pexels-photo-8968526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/25551884/pexels-photo-25551884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/15476105/pexels-photo-15476105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/20422569/pexels-photo-20422569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/10035812/pexels-photo-10035812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ]
+  },
+  {
     "id": "6baf01872b",
     "kind": "short",
     "channel": "Channel2",
