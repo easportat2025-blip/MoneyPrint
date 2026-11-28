@@ -1,5 +1,167 @@
 [
   {
+    "id": "91c92bddde",
+    "kind": "short",
+    "channel": "Channel3",
+    "slot": "3",
+    "status": "failed",
+    "title": "Tại sao trời sắp mưa lại khiến đầu bạn đau nhức bất ngờ?",
+    "idea": {
+      "title": "Tại sao trời sắp mưa lại khiến đầu bạn đau nhức bất ngờ?",
+      "hook": "Bạn có từng thấy đầu mình bắt đầu đau ê ẩm ngay trước khi một cơn mưa ập đến? Đây không phải ngẫu nhiên, mà là cơ thể bạn đang phản ứng với một sự thay đổi ẩn của bầu khí quyển.",
+      "beats": [
+        "Khi bão hoặc mưa chuẩn bị tới, áp suất khí quyển xung quanh giảm xuống đột ngột.",
+        "Sự chênh lệch áp suất này làm cho hệ thống xoang và các mạch máu trong não bị dãn nở rộng hơn.",
+        "Áp lực đè lên thần kinh xung quanh tăng cao gây ra các cơn đau đầu dai dẳng.",
+        "Não bộ của bạn thực chất đang hoạt động như một máy đo áp suất tự nhiên mà bạn không hề hay biết."
+      ],
+      "keywords": [
+        "storm rain sky",
+        "headache pain visual",
+        "human brain animation",
+        "barometric pressure gauge",
+        "cloudy weather mood"
+      ],
+      "tags": [
+        "#suckhoe",
+        "#khithiet",
+        "#daudau",
+        "#suthatthuvi",
+        "#channel3"
+      ],
+      "kind": "short"
+    },
+    "scenes": [
+      {
+        "narration": "Đau đầu trước khi trời mưa không phải ngẫu nhiên.",
+        "search": "hoat hinh 3d nguoi om dau ben cua so",
+        "caption": "Đau đầu trước mưa không phải ngẫu nhiên"
+      },
+      {
+        "narration": "Trước khi cơn mưa ập đến, bầu khí quyển trải qua một sự thay đổi âm thầm.",
+        "search": "hoat hinh 3d may den bao phu bau troi",
+        "caption": "Bầu khí quyển thay đổi âm thầm"
+      },
+      {
+        "narration": "Áp suất không khí xung quanh bạn đột ngột sụt giảm xuống mức thấp.",
+        "search": "hoat hinh 3d dong ho do ap suat giam",
+        "caption": "Áp suất không khí giảm đột ngột"
+      },
+      {
+        "narration": "Sự chênh lệch áp suất này lập tức tác động trực tiếp vào bên trong cơ thể.",
+        "search": "hoat hinh 3d mo phong co the va khong khi",
+        "caption": "Chênh lệch áp suất tác động cơ thể"
+      },
+      {
+        "narration": "Hệ thống xoang và các mạch máu trong não bộ bị kích thích dãn nở rộng hơn.",
+        "search": "hoat hinh 3d mach mau nao phat sang dan no",
+        "caption": "Mạch máu não bị dãn nở rộng"
+      },
+      {
+        "narration": "Mạch máu dãn ra đè mạnh lên các dây thần kinh xung quanh gây đau nhức.",
+        "search": "hoat hinh 3d day than kinh nao chiu ap luc",
+        "caption": "Áp lực đè lên dây thần kinh"
+      },
+      {
+        "narration": "Cơn đau ê ẩm sẽ kéo dài liên tục cho đến khi bầu khí quyển ổn định trở lại.",
+        "search": "hoat hinh 3d nguoi xoa thai duong trong nha",
+        "caption": "Cơn đau kéo dài đến khi áp suất ổn định"
+      },
+      {
+        "narration": "Thực chất, não bộ bạn đang hoạt động như một máy đo áp suất tự nhiên tinh vi.",
+        "search": "hoat hinh 3d nao bo bien thanh may do ap suat",
+        "caption": "Não bộ là máy đo áp suất tự nhiên"
+      },
+      {
+        "narration": "Những người có tiền sử viêm xoang hoặc nhạy cảm sẽ cảm nhận sự sụt giảm áp suất này sớm trước vài giờ.",
+        "search": "3d animation human head sinus pressure visual",
+        "caption": "Người nhạy cảm nhận biết áp suất trước vài giờ"
+      },
+      {
+        "narration": "Mạch máu dãn nở liên tục ép chặt vào dây thần kinh quanh não, làm mắt bạn mỏi dại và cơ thể uể uải.",
+        "search": "3d animation brain blood vessels expanding nerve",
+        "caption": "Mạch máu dãn ép thần kinh gây mỏi mắt"
+      },
+      {
+        "narration": "Chỉ khi hạt mưa đầu tiên trút xuống, áp suất không khí mới ngừng giảm và dần cân bằng trở lại.",
+        "search": "3d animation dark rain clouds storm falling rain",
+        "caption": "Trời mưa giúp áp suất khí quyển ổn định"
+      },
+      {
+        "narration": "Áp suất ổn định giúp các mạch máu trong đầu co về kích thước cũ, giải phóng hoàn toàn áp lực thần kinh.",
+        "search": "3d animation human brain relaxing zoom in",
+        "caption": "Mạch máu co lại giải phóng áp lực"
+      },
+      {
+        "narration": "Bạn không hề bị bệnh, mà não bộ bạn vừa dự báo thời tiết chuẩn xác trước cả ứng dụng điện thoại!",
+        "search": "3d animation smartphone weather app icon rain barometer",
+        "caption": "Cơ thể dự báo thời tiết trước điện thoại"
+      }
+    ],
+    "error": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+    "youtube_id": "",
+    "youtube_url": "",
+    "created_at": "2026-11-28T16:31:44.179095+00:00",
+    "updated_at": "2026-11-28T17:04:54.469252+00:00",
+    "stages": {
+      "research": {
+        "ok": true,
+        "detail": "13 scenes",
+        "at": "2026-11-28T16:32:09.111881+00:00"
+      },
+      "script": {
+        "ok": true,
+        "detail": "491 chars (cat 587 de vua 55s)",
+        "at": "2026-11-28T17:03:15.069653+00:00"
+      },
+      "tts": {
+        "ok": true,
+        "detail": "31.8s vi-VN-NamMinhNeural 8 cau",
+        "at": "2026-11-28T17:03:25.115609+00:00"
+      },
+      "music": {
+        "ok": true,
+        "detail": "Isolated by Kevin MacLeod (incompetech.com), licensed CC-BY 4.0",
+        "at": "2026-11-28T17:03:26.361356+00:00"
+      },
+      "media": {
+        "ok": true,
+        "detail": "13 video clips + 0 images",
+        "at": "2026-11-28T17:03:40.730077+00:00"
+      },
+      "hook3s": {
+        "ok": false,
+        "detail": "2/3: motion-first-frame, first-word-instant",
+        "at": "2026-11-28T17:03:40.768409+00:00"
+      },
+      "render": {
+        "ok": true,
+        "detail": "1080x1920 31.9s 27676973 bytes",
+        "at": "2026-11-28T17:04:54.238252+00:00"
+      },
+      "error": {
+        "ok": false,
+        "detail": "token refresh failed: 400 {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Bad Request\"\n}",
+        "at": "2026-11-28T17:04:54.469235+00:00"
+      }
+    },
+    "media_urls": [
+      "https://videos.pexels.com/video-files/6492170/6492170-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/19861358/19861358-hd_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/17356513/17356513-hd_1080_1920_50fps.mp4",
+      "https://videos.pexels.com/video-files/7011816/7011816-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/41275278/17684555_1080_1920_24fps.mp4",
+      "https://videos.pexels.com/video-files/7088942/7088942-uhd_1440_2560_25fps.mp4",
+      "https://videos.pexels.com/video-files/7988633/7988633-uhd_1440_2732_25fps.mp4",
+      "https://videos.pexels.com/video-files/27364993/12125516_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39260057/16704402_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/35003022/14828954_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39918438/17032534_1080_1920_60fps.mp4",
+      "https://videos.pexels.com/video-files/34342666/14549254_1080_1920_30fps.mp4",
+      "https://videos.pexels.com/video-files/39500866/16827854_1080_1920_60fps.mp4"
+    ]
+  },
+  {
     "id": "98731bda26",
     "kind": "short",
     "channel": "Channel3",
