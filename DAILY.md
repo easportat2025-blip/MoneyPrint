@@ -1,4 +1,4 @@
-# Daily ping 27/11/2026
+# Daily ping 28/11/2026
 
 _Refresh that bai - dung so lieu cu ngay 2026-10-24._
 
@@ -9,19 +9,19 @@ Total views (all tracked): **93105** (+5513 vs snapshot truoc)
 ## Video moi (0)
 
 ## Fail (4)
-- Tại sao ứng dụng dọn rác thực ra đang làm chậm điện tho :: token refresh failed: 400 {
+- Tại sao bạn luôn bị nghẹt đúng 1 bên mũi mà không biết? :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Roman emperor who ate his own pet lion :: token refresh failed: 400 {
+- The Roman emperor who married a gladiator :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Emperor Who Saved Rome Then Grew Terrified of Water :: token refresh failed: 400 {
+- How Rome Betrayed Its Greatest Conqueror :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
-- The Mamluk Sultan Who Accidentally Poisoned Himself :: token refresh failed: 400 {
+- Majorian: The Emperor Rome Betrayed to Its Ruin :: token refresh failed: 400 {
   "error": "invalid_grant",
   "error_description": "Bad Request"
 }
